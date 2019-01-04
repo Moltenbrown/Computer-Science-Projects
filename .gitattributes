@@ -1,0 +1,2 @@
+CS6200/Assignment2/*.json filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
