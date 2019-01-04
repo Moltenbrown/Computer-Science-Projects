@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ugochi/cs5600/Assignment1/elf_common.c
+stdio.h
+-
+stdlib.h
+-
+sys/mman.h
+-
+elf.h
+-
+unistd.h
+-
+fcntl.h
+-
+memory.h
+-
+elf_common.h
+/home/ugochi/cs5600/Assignment1/elf_common.h
+
+/home/ugochi/cs5600/Assignment1/elf_common.h
+elf.h
+/home/ugochi/cs5600/Assignment1/elf.h
+
