@@ -1,0 +1,980 @@
+star_rating,title,content_rating,genre,duration
+9.3,The Shawshank Redemption,R,Crime,142
+9.2,The Godfather,R,Crime,175
+9.1,The Godfather: Part II,R,Crime,200
+9,The Dark Knight,PG-13,Action,152
+8.9,Pulp Fiction,R,Crime,154
+8.9,12 Angry Men,NOT RATED,Drama,96
+8.9,"The Good the Bad and the Ugly",NOT RATED,Western
+8.9,The Lord of the Rings: The Return of the King,PG-13,Adventure,201
+8.9,Schindler's List,R,Biography,195
+8.9,Fight Club,R,Drama,139
+8.8,The Lord of the Rings: The Fellowship of the Ring,PG-13,Adventure,178
+8.8,Inception,PG-13,Action,148
+8.8,Star Wars: Episode V - The Empire Strikes Back,PG,Action,124
+8.8,Forrest Gump,PG-13,Drama,142
+8.8,The Lord of the Rings: The Two Towers,PG-13,Adventure,179
+8.7,Interstellar,PG-13,Adventure,169
+8.7,One Flew Over the Cuckoo's Nest,R,Drama,133
+8.7,Seven Samurai,UNRATED,Drama,207
+8.7,Goodfellas,R,Biography,146
+8.7,Star Wars,PG,Action,121
+8.7,The Matrix,R,Action,136
+8.7,City of God,R,Crime,130
+8.7,It's a Wonderful Life,APPROVED,Drama,130
+8.7,The Usual Suspects,R,Crime,106
+8.7,Se7en,R,Drama,127
+8.6,Life Is Beautiful,PG-13,Comedy,116
+8.6,Once Upon a Time in the West,PG-13,Western,175
+8.6,The Silence of the Lambs,R,Drama,118
+8.6,Leon: The Professional,R,Crime,110
+8.6,City Lights,PASSED,Comedy,87
+8.6,Spirited Away,PG,Animation,125
+8.6,The Intouchables,R,Biography,112
+8.6,Casablanca,PG,Drama,102
+8.6,Whiplash,R,Drama,107
+8.6,American History X,R,Crime,119
+8.6,Modern Times,G,Comedy,87
+8.6,Saving Private Ryan,R,Action,169
+8.6,Raiders of the Lost Ark,PG,Action,115
+8.6,Rear Window,APPROVED,Mystery,112
+8.6,Psycho,R,Horror,109
+8.5,The Green Mile,R,Crime,189
+8.5,Sunset Blvd.,NOT RATED,Drama,110
+8.5,The Pianist,R,Biography,150
+8.5,The Dark Knight Rises,PG-13,Action,165
+8.5,Gladiator,R,Action,155
+8.5,Terminator 2: Judgment Day,R,Action,137
+8.5,Memento,R,Mystery,113
+8.5,Taare Zameen Par,PG,Drama,165
+8.5,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,PG,Comedy,95
+8.5,The Departed,R,Crime,151
+8.5,Cinema Paradiso,R,Drama,155
+8.5,Apocalypse Now,R,Drama,153
+8.5,The Great Dictator,APPROVED,Comedy,125
+8.5,The Prestige,PG-13,Drama,130
+8.5,Back to the Future,PG,Adventure,116
+8.5,The Lion King,G,Animation,89
+8.5,The Lives of Others,R,Drama,137
+8.5,Alien,R,Horror,117
+8.5,Paths of Glory,APPROVED,Drama,88
+8.5,Django Unchained,R,Western,165
+8.5,3 Idiots,PG-13,Comedy,170
+8.5,Grave of the Fireflies,UNRATED,Animation,89
+8.5,The Shining,R,Horror,146
+8.4,M,NOT RATED,Crime,99
+8.4,WALL-E,G,Animation,98
+8.4,Witness for the Prosecution,APPROVED,Crime,116
+8.4,Munna Bhai M.B.B.S.,NOT RATED,Comedy,156
+8.4,American Beauty,R,Drama,122
+8.4,Das Boot,R,Adventure,149
+8.4,Princess Mononoke,PG-13,Animation,134
+8.4,Amelie,R,Comedy,122
+8.4,North by Northwest,APPROVED,Adventure,136
+8.4,Rang De Basanti,NOT RATED,Drama,157
+8.4,Jodaeiye Nader az Simin,PG-13,Drama,123
+8.4,Citizen Kane,APPROVED,Drama,119
+8.4,Aliens,R,Action,137
+8.4,Vertigo,APPROVED,Mystery,128
+8.4,Oldeuboi,R,Drama,120
+8.4,Once Upon a Time in America,R,Crime,229
+8.4,Double Indemnity,PASSED,Crime,107
+8.4,Star Wars: Episode VI - Return of the Jedi,PG,Action,134
+8.4,Toy Story 3,G,Animation,103
+8.4,Braveheart,R,Action,177
+8.4,To Kill a Mockingbird,NOT RATED,Drama,129
+8.4,Requiem for a Dream,R,Drama,102
+8.4,Lawrence of Arabia,PG,Adventure,216
+8.4,A Clockwork Orange,X,Crime,136
+8.4,Bicycle Thieves,NOT RATED,Drama,93
+8.4,The Kid,NOT RATED,Comedy,68
+8.4,Swades,NOT RATED,Drama,189
+8.4,Reservoir Dogs,R,Crime,99
+8.4,Eternal Sunshine of the Spotless Mind,R,Drama,108
+8.4,Taxi Driver,R,Crime,113
+8.4,Dilwale Dulhania Le Jayenge,NOT RATED,Comedy,181
+8.4,Singin' in the Rain,APPROVED,Comedy,103
+8.4,All About Eve,APPROVED,Drama,138
+8.4,Yojimbo,UNRATED,Action,110
+8.4,The Sting,PG,Comedy,129
+8.4,Rashomon,UNRATED,Crime,88
+8.4,Amadeus,R,Biography,160
+8.3,The Treasure of the Sierra Madre,NOT RATED,Action,126
+8.3,Monty Python and the Holy Grail,PG,Adventure,91
+8.3,Full Metal Jacket,R,Drama,116
+8.3,The Apartment,APPROVED,Comedy,125
+8.3,Ikiru,NOT RATED,Drama,143
+8.3,The Third Man,NOT RATED,Film-Noir,93
+8.3,Snatch.,R,Comedy,102
+8.3,For a Few Dollars More,APPROVED,Western,132
+8.3,Metropolis,NOT RATED,Drama,153
+8.3,Dil Chahta Hai,NOT RATED,Comedy,183
+8.3,2001: A Space Odyssey,G,Mystery,160
+8.3,Some Like It Hot,NOT RATED,Comedy,120
+8.3,L.A. Confidential,R,Crime,138
+8.3,Batman Begins,PG-13,Action,140
+8.3,Inglourious Basterds,R,Adventure,153
+8.3,Scarface,R,Crime,170
+8.3,Mr. Smith Goes to Washington,NOT RATED,Drama,129
+8.3,Toy Story,G,Animation,81
+8.3,Indiana Jones and the Last Crusade,PG-13,Action,127
+8.3,Unforgiven,R,Western,131
+8.3,The Great Escape,UNRATED,Adventure,172
+8.3,Jagten,R,Drama,115
+8.3,On the Waterfront,NOT RATED,Crime,108
+8.3,The General,UNRATED,Action,107
+8.3,Raging Bull,R,Biography,129
+8.3,Downfall,R,Biography,156
+8.3,Up,PG,Animation,96
+8.3,Wild Strawberries,UNRATED,Drama,91
+8.3,The Gold Rush,NOT RATED,Adventure,95
+8.3,Ran,R,Action,162
+8.3,Chinatown,R,Drama,130
+8.3,My Neighbor Totoro,G,Animation,86
+8.3,Judgment at Nuremberg,NOT RATED,Drama,186
+8.3,Barfi!,NOT RATED,Adventure,151
+8.3,The Seventh Seal,NOT RATED,Drama,96
+8.3,Heat,R,Action,170
+8.3,Pan's Labyrinth,R,Drama,118
+8.3,The Bridge on the River Kwai,PG,Adventure,161
+8.3,Die Hard,R,Action,131
+8.3,Good Will Hunting,R,Drama,126
+8.3,The Wages of Fear,NOT RATED,Adventure,131
+8.3,The Secret in Their Eyes,R,Drama,129
+8.3,Lagaan: Once Upon a Time in India,PG,Adventure,224
+8.2,The Wolf of Wall Street,R,Biography,180
+8.2,It Happened One Night,UNRATED,Comedy,105
+8.2,Blade Runner,R,Sci-Fi,117
+8.2,Warrior,PG-13,Drama,140
+8.2,Howl's Moving Castle,PG,Animation,119
+8.2,The Elephant Man,PG,Biography,124
+8.2,Rebecca,NOT RATED,Mystery,130
+8.2,Incendies,R,Drama,139
+8.2,"Lock Stock and Two Smoking Barrels",R,Comedy
+8.2,V for Vendetta,R,Action,132
+8.2,The Big Lebowski,R,Comedy,117
+8.2,Cool Hand Luke,PG,Crime,126
+8.2,Relatos salvajes,R,Comedy,122
+8.2,Casino,R,Biography,178
+8.2,Gone with the Wind,G,Drama,238
+8.2,Gone Girl,R,Drama,149
+8.2,The Best Years of Our Lives,PASSED,Drama,172
+8.2,How to Train Your Dragon,PG,Animation,98
+8.2,Diabolique,UNRATED,Horror,116
+8.2,Gran Torino,R,Drama,116
+8.2,Rush,R,Action,123
+8.2,Into the Wild,R,Adventure,148
+8.2,My Sassy Girl,NOT RATED,Comedy,123
+8.2,The Deer Hunter,R,Drama,182
+8.2,Mary and Max,NOT RATED,Animation,92
+8.2,Hachi: A Dog's Tale,G,Drama,93
+8.2,The Maltese Falcon,NOT RATED,Crime,100
+8.2,A Beautiful Mind,PG-13,Biography,135
+8.2,Dial M for Murder,PG,Crime,105
+8.2,Trainspotting,R,Drama,94
+8.2,Tae Guk Gi: The Brotherhood of War,R,Action,140
+8.2,Persona,NOT RATED,Drama,83
+8.2,Touch of Evil,PG-13,Crime,95
+8.2,Fargo,R,Crime,98
+8.2,The Avengers,PG-13,Action,143
+8.2,The 400 Blows,NOT RATED,Crime,99
+8.2,The Princess Bride,PG,Adventure,98
+8.2,Hotel Rwanda,PG-13,Drama,121
+8.2,Stalker,NOT RATED,Drama,163
+8.2,The Battle of Algiers,NOT RATED,Crime,121
+8.2,Underground,NOT RATED,Comedy,167
+8.2,Fanny and Alexander,R,Drama,188
+8.2,Network,R,Drama,121
+8.2,The Thing,R,Horror,109
+8.2,Butch Cassidy and the Sundance Kid,,Biography,110
+8.2,The Grapes of Wrath,NOT RATED,Drama,129
+8.2,"Black Cat White Cat",R,Comedy
+8.2,Life of Brian,R,Comedy,94
+8.2,The Sixth Sense,PG-13,Drama,107
+8.2,Finding Nemo,G,Animation,100
+8.2,Nausicaa of the Valley of the Wind,PG,Animation,117
+8.1,Kingsman: The Secret Service,R,Action,129
+8.1,Platoon,R,Drama,120
+8.1,Guardians of the Galaxy,PG-13,Action,121
+8.1,In the Name of the Father,R,Biography,133
+8.1,Kill Bill: Vol. 1,R,Action,111
+8.1,No Country for Old Men,R,Crime,122
+8.1,Le Samourai,PG,Crime,101
+8.1,12 Years a Slave,R,Biography,134
+8.1,La leggenda del pianista sull'oceano,R,Drama,165
+8.1,8 1/2,NOT RATED,Drama,138
+8.1,Ben-Hur,G,Adventure,212
+8.1,Amores Perros,R,Drama,154
+8.1,Stand by Me,R,Adventure,89
+8.1,What Ever Happened to Baby Jane?,APPROVED,Drama,134
+8.1,Annie Hall,PG,Comedy,93
+8.1,The Imitation Game,PG-13,Biography,114
+8.1,Laura,APPROVED,Film-Noir,88
+8.1,Departures,PG-13,Drama,130
+8.1,Infernal Affairs,R,Crime,101
+8.1,There Will Be Blood,R,Drama,158
+8.1,The Grand Budapest Hotel,R,Adventure,99
+8.1,La Strada,NOT RATED,Drama,108
+8.1,Sin City,R,Crime,124
+8.1,Memories of Murder,UNRATED,Crime,132
+8.1,Donnie Darko,R,Drama,113
+8.1,Who's Afraid of Virginia Woolf?,TV-MA,Drama,131
+8.1,Gandhi,PG,Biography,191
+8.1,Solaris,PG,Drama,167
+8.1,Harry Potter and the Deathly Hallows: Part 2,PG-13,Adventure,130
+8.1,"Paris Texas",R,Drama
+8.1,The Wizard of Oz,PASSED,Adventure,102
+8.1,3-Iron,R,Crime,88
+8.1,Boyhood,R,Drama,165
+8.1,Million Dollar Baby,PG-13,Drama,132
+8.1,The Last Picture Show,R,Drama,118
+8.1,Strangers on a Train,APPROVED,Crime,101
+8.1,Cat on a Hot Tin Roof,APPROVED,Drama,108
+8.1,La Dolce Vita,NOT RATED,Comedy,174
+8.1,Chungking Express,PG-13,Drama,98
+8.1,The Night of the Hunter,APPROVED,Crime,92
+8.1,La Haine,NOT RATED,Crime,98
+8.1,Yip Man,R,Action,106
+8.1,High Noon,PG,Western,85
+8.1,Notorious,APPROVED,Drama,101
+8.1,Before Sunrise,R,Drama,105
+8.1,Elite Squad: The Enemy Within,UNRATED,Action,115
+8.1,The Bourne Ultimatum,PG-13,Action,115
+8.1,Castle in the Sky,PG,Animation,124
+8.1,The Celebration,R,Drama,105
+8.1,"Spring, Summer, Fall, Winter... and Spring"
+8.1,Shutter Island,R,Mystery,138
+8.1,Barry Lyndon,PG,Adventure,184
+8.1,Stalag 17,NOT RATED,Comedy,120
+8.1,Three Colors: Red,R,Drama,99
+8.1,X-Men: Days of Future Past,PG-13,Action,131
+8.1,Sleuth,PG,Mystery,138
+8.1,In the Mood for Love,PG,Drama,98
+8.1,The Man Who Shot Liberty Valance,APPROVED,Drama,123
+8.1,Arsenic and Old Lace,NOT RATED,Comedy,118
+8.1,The Big Sleep,APPROVED,Crime,114
+8.1,Roman Holiday,NOT RATED,Comedy,118
+8.1,The Philadelphia Story,NOT RATED,Comedy,112
+8.1,Akira,R,Animation,124
+8.1,Anatomy of a Murder,UNRATED,Crime,160
+8.1,The Cabinet of Dr. Caligari,UNRATED,Crime,67
+8.1,The Help,PG-13,Drama,146
+8.1,The Sea Inside,PG-13,Biography,125
+8.1,Elite Squad,R,Action,115
+8.1,The Hustler,UNRATED,Drama,134
+8.1,Rio Bravo,NOT RATED,Western,141
+8.1,Twelve Monkeys,R,Mystery,129
+8.1,Harvey,NOT RATED,Comedy,104
+8.1,A Christmas Story,PG,Comedy,94
+8.1,Jaws,PG,Drama,124
+8.1,The Raid 2,R,Action,150
+8.1,Rocky,PG,Drama,119
+8.1,Wings of Desire,PG-13,Drama,128
+8.1,Pirates of the Caribbean: The Curse of the Black Pearl,PG-13,Adventure,143
+8.1,The Killing,APPROVED,Crime,85
+8.1,Papillon,R,Biography,151
+8.1,The King's Speech,R,Biography,118
+8.1,Groundhog Day,PG,Comedy,101
+8.1,A Fistful of Dollars,R,Action,99
+8.1,"Monsters Inc.",G,Animation
+8.1,Dog Day Afternoon,R,Crime,125
+8.1,The Perks of Being a Wallflower,PG-13,Drama,102
+8.1,Young Frankenstein,PG,Comedy,106
+8.1,The Terminator,R,Action,107
+8.1,Harold and Maude,GP,Comedy,91
+8.1,Before Sunset,R,Drama,80
+8.1,A Streetcar Named Desire,PG,Drama,122
+8.1,Bringing Up Baby,APPROVED,Comedy,102
+8.1,The Diving Bell and the Butterfly,PG-13,Biography,112
+8.1,His Girl Friday,APPROVED,Comedy,92
+8.1,Sling Blade,R,Drama,135
+8.1,All Quiet on the Western Front,UNRATED,Drama,136
+8.1,Prisoners,R,Crime,153
+8.1,The Return,UNRATED,Drama,105
+8.1,The Manchurian Candidate,APPROVED,Mystery,126
+8.1,Duck Soup,PASSED,Comedy,68
+8.1,Beauty and the Beast,G,Animation,84
+8.1,The Truman Show,PG,Drama,103
+8.1,The Wild Bunch,R,Action,145
+8,Rope,PG,Crime,80
+8,The Graduate,APPROVED,Comedy,106
+8,Jurassic Park,PG-13,Adventure,127
+8,Dogville,R,Crime,178
+8,Furious 7,PG-13,Action,137
+8,Patton,GP,Biography,172
+8,The Nightmare Before Christmas,PG,Animation,76
+8,Being There,PG,Comedy,130
+8,Persepolis,PG-13,Animation,96
+8,This Is Spinal Tap,R,Comedy,82
+8,East of Eden,PG,Drama,115
+8,Pink Floyd The Wall,R,Animation,95
+8,Blood Diamond,R,Adventure,143
+8,Big Fish,PG-13,Adventure,125
+8,Slumdog Millionaire,R,Drama,120
+8,Star Trek,PG-13,Action,127
+8,The Straight Story,G,Biography,112
+8,Crimes and Misdemeanors,PG-13,Comedy,104
+8,Charade,NOT RATED,Comedy,113
+8,JFK,R,Drama,189
+8,Dawn of the Dead,UNRATED,Horror,127
+8,Magnolia,R,Drama,188
+8,Manhattan,R,Comedy,96
+8,Central Station,R,Drama,113
+8,Brazil,R,Sci-Fi,132
+8,The Exorcist,R,Horror,122
+8,Her,R,Drama,126
+8,Dancer in the Dark,R,Crime,140
+8,Rain Man,R,Drama,133
+8,Talk to Her,R,Drama,112
+8,The Adventures of Robin Hood,PG,Action,102
+8,"Aguirre the Wrath of God",NOT RATED,Adventure
+8,In the Heat of the Night,APPROVED,Crime,109
+8,Nosferatu,UNRATED,Horror,81
+8,Black Swan,R,Drama,108
+8,Ratatouille,G,Animation,111
+8,The Searchers,APPROVED,Adventure,119
+8,Short Term 12,R,Drama,96
+8,Doctor Zhivago,PG-13,Drama,197
+8,Life of Pi,PG,Adventure,127
+8,All the President's Men,R,Drama,138
+8,Battleship Potemkin,UNRATED,History,66
+8,Dances with Wolves,PG-13,Adventure,181
+8,Catch Me If You Can,PG-13,Biography,141
+8,Cinderella Man,PG-13,Biography,144
+8,Dead Poets Society,PG,Drama,128
+8,Ghost in the Shell,NOT RATED,Animation,83
+8,Head-On,R,Drama,121
+8,No Man's Land,R,Drama,98
+8,Dallas Buyers Club,R,Biography,117
+8,Days of Heaven,PG,Drama,94
+8,The Sound of Music,G,Biography,174
+8,District 9,R,Action,112
+8,Shadow of a Doubt,APPROVED,Thriller,108
+8,Frankenstein,UNRATED,Horror,70
+8,Shaun of the Dead,R,Comedy,99
+8,Night of the Living Dead,UNRATED,Horror,96
+8,Kill Bill: Vol. 2,R,Action,137
+8,Secrets & Lies,R,Drama,136
+8,The Artist,PG-13,Comedy,100
+8,Aladdin,G,Animation,90
+8,The Lady Vanishes,PASSED,Comedy,96
+8,The Hobbit: The Desolation of Smaug,PG-13,Adventure,161
+8,Let the Right One In,R,Drama,115
+8,Fiddler on the Roof,G,Drama,181
+8,The Hobbit: An Unexpected Journey,PG-13,Adventure,169
+8,Three Colors: Blue,R,Drama,98
+8,Rosemary's Baby,R,Drama,136
+8,Mystic River,R,Crime,138
+8,Serenity,PG-13,Action,119
+8,Amarcord,R,Comedy,123
+8,Planet of the Apes,G,Adventure,112
+8,True Romance,R,Crime,120
+8,Hannah and Her Sisters,PG-13,Comedy,103
+8,Moon,R,Drama,97
+8,Before Midnight,R,Drama,109
+8,My Name Is Khan,PG-13,Drama,165
+8,Scent of a Woman,R,Drama,156
+8,Mulholland Dr.,R,Drama,147
+8,King Kong,UNRATED,Adventure,100
+8,The Fault in Our Stars,PG-13,Drama,126
+8,The Incredibles,PG,Animation,115
+8,Edward Scissorhands,PG-13,Drama,105
+8,Casino Royale,PG-13,Action,144
+8,How to Train Your Dragon 2,PG,Animation,102
+8,In Bruges,R,Comedy,107
+8,The Untouchables,R,Crime,119
+8,Breathless,UNRATED,Crime,90
+8,Spartacus,PG-13,Action,197
+8,The Iron Giant,PG,Animation,86
+8,Midnight Cowboy,X,Drama,113
+8,The Blues Brothers,R,Action,133
+8,Freaks,UNRATED,Drama,64
+8,Letters from Iwo Jima,R,Drama,141
+8,Edge of Tomorrow,PG-13,Action,113
+8,Glory,R,Drama,122
+8,The African Queen,PG,Adventure,105
+7.9,Birdman: Or (The Unexpected Virtue of Ignorance),R,Comedy,119
+7.9,Big Hero 6,PG,Animation,102
+7.9,Almost Famous,R,Drama,122
+7.9,The Notebook,PG-13,Drama,123
+7.9,The Conversation,PG,Drama,113
+7.9,The Breakfast Club,R,Comedy,97
+7.9,The Pursuit of Happyness,PG-13,Biography,117
+7.9,The Killer,R,Action,111
+7.9,Once,R,Drama,85
+7.9,Ying xiong,PG-13,Action,99
+7.9,The Remains of the Day,PG,Drama,134
+7.9,The Bride of Frankenstein,NOT RATED,Horror,75
+7.9,The Wrestler,R,Drama,109
+7.9,Nightcrawler,R,Crime,117
+7.9,Gravity,PG-13,Sci-Fi,91
+7.9,Hard Boiled,R,Action,128
+7.9,Bonnie and Clyde,APPROVED,Biography,111
+7.9,The Bourne Identity,PG-13,Action,119
+7.9,Key Largo,UNRATED,Crime,100
+7.9,Nine Queens,R,Crime,114
+7.9,Toy Story 2,G,Animation,92
+7.9,The Killing Fields,R,Drama,141
+7.9,All About My Mother,R,Drama,101
+7.9,Cowboy Bebop: The Movie,R,Animation,115
+7.9,Ed Wood,R,Biography,127
+7.9,Stagecoach,NOT RATED,Adventure,96
+7.9,The Man Who Would Be King,PG,Action,129
+7.9,The Outlaw Josey Wales,PG,Western,135
+7.9,Children of Men,R,Drama,109
+7.9,The Insider,R,Biography,157
+7.9,The Right Stuff,R,Adventure,193
+7.9,Badlands,PG,Crime,94
+7.9,A Prophet,R,Crime,155
+7.9,"4 Months 3 Weeks and 2 Days",NOT RATED,Drama
+7.9,Le passe,PG-13,Drama,130
+7.9,The Fall,R,Adventure,117
+7.9,Breaking the Waves,R,Drama,159
+7.9,Mr. Nobody,R,Drama,141
+7.9,Crash,R,Drama,112
+7.9,Avatar,PG-13,Action,162
+7.9,Iron Man,PG-13,Action,126
+7.9,Do the Right Thing,R,Comedy,120
+7.9,Carlito's Way,R,Crime,144
+7.9,"Crouching Tiger Hidden Dragon",PG-13,Action
+7.9,Lilya 4-Ever,R,Crime,109
+7.9,The Chorus,PG-13,Drama,97
+7.9,The Boondock Saints,R,Action,108
+7.9,Miller's Crossing,R,Crime,115
+7.9,Walk the Line,PG-13,Biography,136
+7.9,Shrek,PG,Animation,90
+7.9,My Fair Lady,APPROVED,Drama,170
+7.9,The Ten Commandments,APPROVED,Adventure,220
+7.9,The Fighter,R,Biography,116
+7.9,Captain Phillips,PG-13,Biography,134
+7.9,Cabaret,PG,Drama,124
+7.9,Halloween,R,Drama,91
+7.9,My Left Foot,R,Biography,103
+7.9,Miracle on 34th Street,APPROVED,Comedy,96
+7.9,The Man from Nowhere,R,Action,119
+7.9,Toki o kakeru shojo,NOT RATED,Animation,98
+7.9,Little Miss Sunshine,R,Adventure,101
+7.9,Taken,PG-13,Action,93
+7.9,Blue Is the Warmest Color,NC-17,Drama,179
+7.9,Boogie Nights,R,Drama,155
+7.9,Hot Fuzz,R,Comedy,121
+7.9,Ferris Bueller's Day Off,PG-13,Comedy,103
+7.9,The World's Fastest Indian,PG-13,Biography,127
+7.9,Kiki's Delivery Service,G,Animation,103
+7.9,Down by Law,R,Comedy,107
+7.9,Glengarry Glen Ross,R,Drama,100
+7.9,Clerks,R,Comedy,92
+7.9,Adam's Apples,R,Comedy,94
+7.9,The Girl with the Dragon Tattoo,R,Crime,158
+7.9,The 39 Steps,UNRATED,Mystery,86
+7.9,E.T. the Extra-Terrestrial,PG,Family,115
+7.8,Tombstone,R,Action,130
+7.8,Predator,R,Action,107
+7.8,Tangled,PG,Animation,100
+7.8,Guess Who's Coming to Dinner,UNRATED,Comedy,108
+7.8,Ordinary People,R,Drama,124
+7.8,The Best Offer,R,Crime,131
+7.8,Silver Linings Playbook,R,Comedy,122
+7.8,Hamlet,PG-13,Drama,242
+7.8,Amour,PG-13,Drama,127
+7.8,I Saw the Devil,NOT RATED,Crime,141
+7.8,The Motorcycle Diaries,R,Adventure,126
+7.8,Office Space,R,Comedy,89
+7.8,Evil,NOT RATED,Drama,113
+7.8,The Girl with the Dragon Tattoo,R,Crime,152
+7.8,Withnail & I,R,Comedy,107
+7.8,The Day the Earth Stood Still,APPROVED,Sci-Fi,92
+7.8,Black Book,R,Drama,145
+7.8,Evil Dead II,X,Comedy,84
+7.8,Kaze tachinu,PG-13,Animation,126
+7.8,Star Trek Into Darkness,PG-13,Action,132
+7.8,The Triplets of Belleville,PG-13,Animation,78
+7.8,Open Your Eyes,R,Drama,117
+7.8,The Magnificent Seven,NOT RATED,Action,128
+7.8,Drive,R,Crime,100
+7.8,Mississippi Burning,R,Crime,128
+7.8,The Lego Movie,PG,Animation,100
+7.8,The Day of the Jackal,PG,Crime,143
+7.8,Misery,R,Thriller,107
+7.8,Willy Wonka & the Chocolate Factory,G,Family,100
+7.8,Fantasia,G,Animation,125
+7.8,Gattaca,PG-13,Drama,106
+7.8,American Gangster,R,Biography,157
+7.8,Porco Rosso,PG,Animation,94
+7.8,The French Connection,R,Action,104
+7.8,The Boy in the Striped Pajamas,PG-13,Drama,94
+7.8,Empire of the Sun,PG,Drama,153
+7.8,About Time,R,Drama,123
+7.8,Blue Velvet,R,Crime,120
+7.8,In America,PG-13,Drama,105
+7.8,The Curious Case of Benjamin Button,PG-13,Drama,166
+7.8,The Last of the Mohicans,R,Action,112
+7.8,Moonrise Kingdom,PG-13,Adventure,94
+7.8,Rebel Without a Cause,PG-13,Drama,111
+7.8,Fantastic Mr. Fox,PG,Animation,87
+7.8,Invasion of the Body Snatchers,APPROVED,Horror,80
+7.8,October Sky,PG,Biography,108
+7.8,Dirty Harry,R,Action,102
+7.8,Ghostbusters,PG,Comedy,105
+7.8,Captain America: The Winter Soldier,PG-13,Action,136
+7.8,Wreck-It Ralph,PG,Animation,101
+7.8,The Hangover,R,Comedy,100
+7.8,Back to the Future Part II,PG,Adventure,108
+7.8,Belle de Jour,APPROVED,Drama,101
+7.8,"O Brother Where Art Thou?",PG-13,Adventure
+7.8,Repulsion,UNRATED,Drama,105
+7.8,Airplane!,PG,Comedy,88
+7.8,Pride & Prejudice,PG,Drama,129
+7.8,Zulu,UNRATED,Drama,138
+7.8,Night on Earth,R,Comedy,129
+7.8,From Here to Eternity,NOT RATED,Drama,118
+7.8,Apocalypto,R,Action,139
+7.8,Atonement,R,Drama,123
+7.8,The Dirty Dozen,NOT RATED,Action,150
+7.8,X-Men: First Class,PG-13,Action,132
+7.8,Run Lola Run,R,Action,80
+7.8,The Longest Day,G,Action,178
+7.8,Zelig,PG,Comedy,79
+7.8,The Last Emperor,PG-13,Biography,163
+7.8,The Goonies,PG,Adventure,114
+7.8,The White Ribbon,R,Drama,144
+7.8,The Fugitive,PG-13,Action,130
+7.8,The Color Purple,PG-13,Drama,154
+7.8,South Park: Bigger Longer & Uncut,R,Animation,81
+7.8,(500) Days of Summer,PG-13,Comedy,95
+7.8,Lost in Translation,R,Drama,101
+7.8,Argo,R,Drama,120
+7.8,Blazing Saddles,R,Comedy,93
+7.8,Breakfast at Tiffany's,NOT RATED,Comedy,115
+7.8,Finding Neverland,PG,Biography,106
+7.8,The Experiment,R,Drama,120
+7.8,Lucky Number Slevin,R,Crime,110
+7.8,The Theory of Everything,PG-13,Biography,123
+7.8,Harry Potter and the Prisoner of Azkaban,PG,Adventure,142
+7.8,Kung Fu Hustle,R,Action,99
+7.8,Being John Malkovich,R,Comedy,112
+7.8,The Social Network,PG-13,Biography,120
+7.8,3:10 to Yuma,R,Adventure,122
+7.8,The Name of the Rose,R,Crime,130
+7.8,Mary Poppins,APPROVED,Comedy,139
+7.8,The Game,R,Drama,129
+7.8,Changeling,R,Drama,141
+7.8,Donnie Brasco,R,Biography,127
+7.8,Serpico,R,Biography,130
+7.8,What's Eating Gilbert Grape,PG-13,Drama,118
+7.8,Goldfinger,APPROVED,Action,110
+7.8,Nebraska,R,Adventure,115
+7.8,The Sandlot,PG,Comedy,101
+7.8,Boyz n the Hood,R,Crime,112
+7.8,The Bourne Supremacy,PG-13,Action,108
+7.8,Skyfall,PG-13,Action,143
+7.8,Ray,PG-13,Biography,152
+7.8,300,R,Action,117
+7.8,A Bronx Tale,R,Crime,121
+7.8,The Birds,PG-13,Horror,119
+7.8,Battle Royale,NOT RATED,Action,114
+7.8,Control,R,Biography,122
+7.8,Kramer vs. Kramer,APPROVED,Drama,105
+7.8,Deliverance,R,Adventure,110
+7.8,Ocean's Eleven,PG-13,Crime,116
+7.8,As Good as It Gets,PG-13,Comedy,139
+7.8,Awakenings,PG-13,Biography,121
+7.8,The King of Comedy,PG,Comedy,109
+7.8,Man on Fire,R,Action,146
+7.8,Sabrina,UNRATED,Comedy,113
+7.8,Dark City,R,Mystery,100
+7.8,Good Bye Lenin!,R,Comedy,121
+7.7,Remember the Titans,PG,Biography,113
+7.7,Star Trek II: The Wrath of Khan,PG,Action,113
+7.7,Road to Perdition,R,Crime,117
+7.7,Rushmore,R,Comedy,93
+7.7,The Machinist,R,Drama,101
+7.7,Flipped,PG,Comedy,90
+7.7,The Count of Monte Cristo,PG-13,Action,131
+7.7,Detachment,NOT RATED,Drama,98
+7.7,Love Me If You Dare,R,Comedy,93
+7.7,Dead Man,R,Drama,121
+7.7,The Purple Rose of Cairo,PG,Comedy,82
+7.7,21 Grams,R,Crime,124
+7.7,50/50,R,Comedy,100
+7.7,Kick-Ass,R,Action,117
+7.7,Delicatessen,R,Comedy,99
+7.7,Barton Fink,R,Drama,116
+7.7,The Last King of Scotland,R,Biography,123
+7.7,Adaptation.,R,Comedy,114
+7.7,A Very Long Engagement,R,Drama,133
+7.7,Mysterious Skin,NC-17,Drama,105
+7.7,Stardust,PG-13,Adventure,127
+7.7,Black Hawk Down,R,Drama,144
+7.7,Paprika,R,Animation,90
+7.7,Fear and Loathing in Las Vegas,R,Comedy,118
+7.7,Frost/Nixon,R,Drama,122
+7.7,Enter the Dragon,R,Action,102
+7.7,Short Cuts,R,Comedy,187
+7.7,A Hard Day's Night,APPROVED,Comedy,87
+7.7,The Last Samurai,R,Action,154
+7.7,The Station Agent,R,Comedy,89
+7.7,Zombieland,R,Comedy,88
+7.7,Sympathy for Mr. Vengeance,R,Crime,129
+7.7,Despicable Me,PG,Animation,95
+7.7,Shane,APPROVED,Drama,118
+7.7,Forbidden Planet,PASSED,Action,98
+7.7,Titanic,PG-13,Drama,194
+7.7,Gone Baby Gone,R,Crime,114
+7.7,The Dinner Game,PG-13,Comedy,80
+7.7,Dawn of the Planet of the Apes,PG-13,Action,130
+7.7,25th Hour,R,Crime,135
+7.7,Ponyo,G,Animation,101
+7.7,Shine,PG-13,Biography,105
+7.7,The Blind Side,PG-13,Biography,129
+7.7,Brokeback Mountain,R,Drama,134
+7.7,Cast Away,PG-13,Adventure,143
+7.7,Malcolm X,PG-13,Biography,202
+7.7,Show Me Love,UNRATED,Comedy,89
+7.7,Boy A,R,Drama,106
+7.7,The Warriors,R,Action,92
+7.7,Close Encounters of the Third Kind,PG,Drama,137
+7.7,Match Point,R,Drama,124
+7.7,Training Day,R,Crime,122
+7.7,The Butterfly Effect,R,Sci-Fi,113
+7.7,The City of Lost Children,R,Fantasy,112
+7.7,Billy Elliot,PG-13,Comedy,110
+7.7,Love Actually,R,Comedy,135
+7.7,The Producers,PG,Comedy,88
+7.7,Harry Potter and the Deathly Hallows: Part 1,PG-13,Adventure,146
+7.7,The Visitor,PG-13,Drama,104
+7.7,Philadelphia,PG-13,Drama,125
+7.7,Sense and Sensibility,PG,Drama,131
+7.7,Three Colors: White,R,Comedy,91
+7.7,La grande bellezza,NOT RATED,Drama,142
+7.7,Primal Fear,R,Crime,129
+7.7,Where Eagles Dare,,Action,158
+7.7,Dazed and Confused,R,Comedy,102
+7.7,Blood Simple.,R,Crime,99
+7.7,This Is England,UNRATED,Crime,101
+7.7,Fearless,PG-13,Action,104
+7.7,Dangerous Liaisons,R,Drama,119
+7.7,Saw,R,Horror,103
+7.7,Snow White and the Seven Dwarfs,APPROVED,Animation,88
+7.7,Coraline,PG,Animation,100
+7.7,The Hunger Games: Catching Fire,PG-13,Adventure,146
+7.7,Sophie's Choice,R,Drama,150
+7.7,La Vie en Rose,PG-13,Biography,140
+7.7,Star Wars: Episode III - Revenge of the Sith,PG-13,Action,140
+7.7,True Grit,PG-13,Adventure,110
+7.7,After Hours,R,Comedy,97
+7.7,Frozen,PG,Animation,102
+7.7,Lolita,NOT RATED,Drama,152
+7.7,Eastern Promises,R,Crime,100
+7.7,Midnight in Paris,PG-13,Comedy,94
+7.7,The Muppet Christmas Carol,G,Comedy,85
+7.7,Who Framed Roger Rabbit,PG,Animation,104
+7.7,Sympathy for Lady Vengeance,R,Crime,112
+7.7,Grindhouse,R,Action,191
+7.7,In a Better World,R,Drama,119
+7.7,Blow-Up,NOT RATED,Drama,111
+7.7,The Secret World of Arrietty,G,Animation,94
+7.7,Kiss Kiss Bang Bang,R,Action,103
+7.7,Lost Highway,R,Drama,134
+7.7,Zodiac,R,Crime,157
+7.7,Les Miserables,PG-13,Drama,158
+7.7,Moulin Rouge!,PG-13,Drama,127
+7.7,Whale Rider,PG-13,Drama,101
+7.7,End of Watch,R,Crime,109
+7.7,Philomena,PG-13,Biography,98
+7.7,Fury,R,Action,134
+7.7,The Big Blue,PG-13,Action,168
+7.7,First Blood,R,Action,93
+7.7,Minority Report,PG-13,Action,145
+7.7,Spellbound,UNRATED,Film-Noir,111
+7.7,The Wicker Man,R,Horror,88
+7.7,Seven Pounds,PG-13,Drama,123
+7.7,Midnight Express,R,Biography,121
+7.7,Kelly's Heroes,GP,Action,144
+7.7,MASH,R,Comedy,116
+7.7,The Player,R,Comedy,124
+7.7,Traffic,R,Crime,147
+7.7,Y Tu Mama Tambien,R,Drama,106
+7.7,Stranger Than Fiction,PG-13,Comedy,113
+7.7,Inside Man,R,Crime,129
+7.6,127 Hours,R,Adventure,94
+7.6,The Fifth Element,PG-13,Action,126
+7.6,Milk,R,Biography,128
+7.6,United 93,R,Action,111
+7.6,Jin ling shi san chai,R,Drama,146
+7.6,Dracula,APPROVED,Horror,85
+7.6,High Plains Drifter,R,Western,105
+7.6,I Am Sam,PG-13,Drama,132
+7.6,Fried Green Tomatoes,PG-13,Drama,130
+7.6,Watchmen,R,Action,162
+7.6,28 Days Later...,R,Horror,113
+7.6,The Illusionist,PG-13,Drama,110
+7.6,Superbad,R,Comedy,113
+7.6,The Godfather: Part III,R,Crime,162
+7.6,The Royal Tenenbaums,R,Comedy,110
+7.6,The Jungle Book,APPROVED,Animation,78
+7.6,Thank You for Smoking,R,Comedy,92
+7.6,Man Bites Dog,NC-17,Comedy,95
+7.6,A Few Good Men,R,Drama,138
+7.6,The Legend of Drunken Master,R,Action,102
+7.6,The Kite Runner,PG-13,Drama,128
+7.6,When Harry Met Sally...,R,Comedy,96
+7.6,Munich,R,Drama,164
+7.6,House of Sand and Fog,R,Drama,126
+7.6,Lethal Weapon,R,Action,110
+7.6,Animal House,R,Comedy,109
+7.6,Lord of War,R,Crime,122
+7.6,Blow,R,Biography,124
+7.6,Sherlock Holmes,PG-13,Action,128
+7.6,Harry Potter and the Goblet of Fire,PG-13,Adventure,157
+7.6,La piel que habito,R,Thriller,120
+7.6,The Crow,R,Action,102
+7.6,West Side Story,UNRATED,Crime,152
+7.6,The Thin Red Line,R,Drama,170
+7.6,American Psycho,R,Crime,102
+7.6,The Blind Swordsman: Zatoichi,R,Action,116
+7.6,The Last Temptation of Christ,R,Drama,164
+7.6,The Naked Gun: From the Files of Police Squad!,PG-13,Comedy,85
+7.6,The Others,PG-13,Horror,104
+7.6,The Party,PG,Comedy,99
+7.6,Army of Darkness,R,Comedy,81
+7.6,The Hurt Locker,R,Drama,131
+7.6,The Raid: Redemption,R,Action,101
+7.6,Volver,R,Comedy,121
+7.6,Following,R,Mystery,69
+7.6,Kung Fu Panda,PG,Animation,92
+7.6,Mad Max 2: The Road Warrior,R,Action,94
+7.6,Jusan-nin no shikaku,R,Action,141
+7.6,The Man Who Wasn't There,R,Crime,116
+7.6,The Counterfeiters,R,Crime,98
+7.6,The Hunt for Red October,PG,Action,135
+7.6,Lone Survivor,R,Action,121
+7.6,A Fish Called Wanda,R,Comedy,108
+7.6,The Impossible,PG-13,Drama,114
+7.6,Garden State,R,Comedy,102
+7.6,Escape from Alcatraz,PG,Action,112
+7.6,Apollo 13,PG,Adventure,140
+7.6,"Lust Caution",NC-17,Drama
+7.6,Selma,PG-13,Biography,128
+7.6,Funny Games,UNRATED,Crime,108
+7.6,The Abyss,PG-13,Adventure,139
+7.6,Robin Hood,G,Animation,83
+7.6,Enemy at the Gates,R,Drama,131
+7.6,Falling Down,R,Crime,113
+7.6,Little Children,R,Drama,136
+7.6,Hunger,NOT RATED,Biography,96
+7.6,Indiana Jones and the Temple of Doom,PG,Action,118
+7.6,Ip Man 2,R,Action,108
+7.6,The Little Mermaid,G,Animation,83
+7.6,"It's a Mad, Mad, Mad, Mad World"
+7.6,The Reader,R,Drama,124
+7.6,The Omen,R,Horror,111
+7.6,A Royal Affair,R,Drama,137
+7.6,Braindead,R,Comedy,104
+7.6,Secondhand Lions,PG,Comedy,109
+7.6,Disconnect,R,Drama,115
+7.6,A Single Man,R,Drama,99
+7.6,Hoosiers,PG,Drama,114
+7.6,Moneyball,PG-13,Biography,133
+7.6,The Book Thief,PG-13,Drama,131
+7.6,Die Hard: With a Vengeance,R,Action,131
+7.6,Interview with the Vampire: The Vampire Chronicles,R,Horror,123
+7.6,Midnight Run,R,Action,126
+7.6,An American Werewolf in London,R,Comedy,97
+7.6,The Great Debaters,PG-13,Biography,126
+7.6,Tucker and Dale vs. Evil,R,Comedy,89
+7.6,Dead Man Walking,R,Crime,122
+7.6,The Piano,R,Drama,121
+7.6,The Town,R,Crime,125
+7.6,Rise of the Planet of the Apes,PG-13,Action,105
+7.6,Boys Don't Cry,R,Biography,118
+7.6,Ice Age,PG,Animation,81
+7.6,Of Mice and Men,PG-13,Drama,115
+7.6,Sideways,R,Comedy,126
+7.6,High Fidelity,R,Comedy,113
+7.6,The Meaning of Life,R,Comedy,107
+7.6,Hugo,PG,Adventure,126
+7.6,Leaving Las Vegas,R,Drama,111
+7.6,The Evil Dead,NC-17,Horror,85
+7.6,Collateral,R,Crime,120
+7.6,"Planes Trains & Automobiles",R,Comedy
+7.6,Hodejegerne,R,Crime,100
+7.6,Field of Dreams,PG,Drama,107
+7.6,Batman,PG-13,Action,126
+7.6,Tell No One,UNRATED,Crime,131
+7.6,Ghost Dog: The Way of the Samurai,R,Action,116
+7.6,Chaplin,PG-13,Biography,143
+7.6,Keith,PG-13,Drama,93
+7.6,Juno,PG-13,Comedy,96
+7.6,The Assassination of Jesse James by the Coward Robert Ford,R,Biography,160
+7.6,The Fisher King,R,Comedy,137
+7.6,House of Flying Daggers,PG-13,Action,119
+7.6,The Hours,PG-13,Drama,114
+7.6,The Damned United,R,Biography,98
+7.6,Star Trek: First Contact,PG-13,Action,111
+7.6,The Natural,PG,Drama,138
+7.6,The Hobbit: The Battle of the Five Armies,PG-13,Adventure,144
+7.6,Equilibrium,R,Action,107
+7.6,August Rush,PG,Drama,114
+7.6,Saving Mr. Banks,PG-13,Biography,125
+7.6,The Hurricane,R,Biography,146
+7.6,Jacob's Ladder,R,Drama,113
+7.6,The Curse of the Were-Rabbit,G,Animation,85
+7.6,Christmas Vacation,PG-13,Comedy,97
+7.5,"Good Night and Good Luck.",PG,Drama
+7.5,Straw Dogs,UNRATED,Crime,113
+7.5,42,PG-13,Biography,128
+7.5,Rudy,PG,Biography,114
+7.5,Sleepers,R,Crime,147
+7.5,The Wind That Shakes the Barley,NOT RATED,Drama,127
+7.5,Gangs of New York,R,Crime,167
+7.5,Elizabeth,R,Biography,124
+7.5,Green Street Hooligans,R,Crime,109
+7.5,Reign Over Me,R,Drama,124
+7.5,RoboCop,R,Action,102
+7.5,The Life of David Gale,R,Crime,130
+7.5,Life as a House,R,Drama,125
+7.5,Despicable Me 2,PG,Animation,98
+7.5,Jackie Brown,R,Crime,154
+7.5,Menace II Society,R,Crime,97
+7.5,The Class,PG-13,Drama,128
+7.5,Bullets Over Broadway,R,Comedy,98
+7.5,American Splendor,R,Biography,101
+7.5,Perfume: The Story of a Murderer,R,Crime,147
+7.5,Cloud Atlas,R,Drama,172
+7.5,Marathon Man,R,Crime,125
+7.5,Pinocchio,APPROVED,Animation,88
+7.5,The Painted Veil,PG-13,Drama,125
+7.5,A Simple Plan,R,Crime,121
+7.5,The Conjuring,R,Horror,112
+7.5,The Man Who Knew Too Much,PG,Thriller,120
+7.5,Quiz Show,PG-13,Drama,133
+7.5,American Graffiti,PG,Comedy,110
+7.5,The Bridges of Madison County,PG-13,Drama,135
+7.5,Gallipoli,PG,Adventure,110
+7.5,L'illusionniste,PG,Animation,80
+7.5,Miracle,PG,Drama,135
+7.5,Maria Full of Grace,R,Crime,101
+7.5,Scott Pilgrim vs. the World,PG-13,Action,112
+7.5,Pleasantville,PG-13,Comedy,124
+7.5,Sherlock Holmes: A Game of Shadows,PG-13,Action,129
+7.5,Doubt,PG-13,Drama,104
+7.5,The Fly,R,Horror,96
+7.5,The Orphanage,R,Drama,105
+7.5,Malena,R,Drama,109
+7.5,Three Days of the Condor,R,Mystery,117
+7.5,[Rec],R,Horror,78
+7.5,A Perfect World,PG-13,Crime,138
+7.5,To Catch a Thief,APPROVED,Mystery,106
+7.5,Best in Show,PG-13,Comedy,90
+7.5,Everything Is Illuminated,PG-13,Comedy,106
+7.5,A Nightmare on Elm Street,R,Horror,91
+7.5,The Ice Storm,R,Drama,112
+7.5,X2,PG-13,Action,134
+7.5,We Need to Talk About Kevin,R,Drama,112
+7.5,Felon,R,Crime,104
+7.5,Still Alice,PG-13,Drama,101
+7.5,Rust and Bone,R,Drama,120
+7.5,Freedom Writers,PG-13,Biography,123
+7.5,Legends of the Fall,R,Drama,133
+7.5,Buffalo '66,R,Comedy,110
+7.5,The Constant Gardener,R,Drama,129
+7.5,My Cousin Vinny,R,Comedy,120
+7.5,The Texas Chain Saw Massacre,R,Horror,83
+7.5,Mulan,G,Animation,88
+7.5,A History of Violence,R,Crime,96
+7.5,Open Range,R,Action,139
+7.5,Total Recall,R,Action,113
+7.5,Pi,R,Drama,84
+7.5,The Devil's Backbone,R,Drama,106
+7.5,The Aviator,PG-13,Biography,170
+7.5,Devil's Advocate,R,Drama,144
+7.5,"The Adventures of Priscilla Queen of the Desert",R,Comedy
+7.5,Harry Potter and the Half-Blood Prince,PG,Adventure,153
+7.5,Fruitvale Station,R,Biography,85
+7.5,In the Bedroom,R,Crime,130
+7.5,Source Code,PG-13,Mystery,93
+7.5,Biutiful,R,Drama,148
+7.5,From Russia with Love,APPROVED,Action,115
+7.5,Calvary,R,Drama,102
+7.5,The Mission,PG,Adventure,125
+7.5,In the Loop,NOT RATED,Comedy,106
+7.5,The Three Burials of Melquiades Estrada,R,Adventure,121
+7.5,Babel,R,Drama,143
+7.5,Frenzy,R,Thriller,116
+7.5,Heavenly Creatures,R,Biography,99
+7.5,Sweeney Todd: The Demon Barber of Fleet Street,R,Drama,116
+7.5,Dracula,R,Horror,128
+7.5,Looper,R,Action,119
+7.5,The Proposition,R,Crime,104
+7.5,Bullitt,PG,Action,114
+7.5,Harry Potter and the Sorcerer's Stone,PG,Adventure,152
+7.5,2046,R,Drama,129
+7.5,Transamerica,R,Adventure,103
+7.5,Smoke,R,Comedy,112
+7.5,Suspiria,X,Horror,92
+7.5,The Judge,R,Drama,141
+7.5,Bad Education,NC-17,Crime,106
+7.5,Up in the Air,R,Drama,109
+7.5,Begin Again,R,Drama,104
+7.5,Running Scared,R,Action,122
+7.5,Ghost World,R,Comedy,111
+7.5,Witness,R,Crime,112
+7.5,Trading Places,R,Comedy,116
+7.5,Mud,PG-13,Drama,130
+7.5,Across the Universe,PG-13,Drama,133
+7.5,Les Miserables,PG-13,Crime,134
+7.5,Notes on a Scandal,R,Drama,92
+7.5,Inside Llewyn Davis,R,Drama,104
+7.5,Brick,R,Crime,110
+7.5,Clerks II,R,Comedy,97
+7.5,Say Anything...,PG-13,Comedy,100
+7.4,Man on the Moon,R,Biography,118
+7.4,Mean Streets,R,Crime,112
+7.4,Harry Potter and the Order of the Phoenix,PG-13,Adventure,138
+7.4,Beetlejuice,PG,Comedy,92
+7.4,"Crazy, Stupid, Love.",PG-13
+7.4,Excalibur,R,Adventure,140
+7.4,True Grit,,Adventure,128
+7.4,Labyrinth,PG,Adventure,101
+7.4,Alice in Wonderland,G,Animation,75
+7.4,Predestination,R,Drama,97
+7.4,Much Ado About Nothing,PG-13,Comedy,111
+7.4,A Bridge Too Far,PG,Drama,175
+7.4,Raising Arizona,PG-13,Comedy,94
+7.4,The Bucket List,PG-13,Adventure,97
+7.4,Terms of Endearment,R,Comedy,132
+7.4,Take Shelter,R,Drama,120
+7.4,Far from Heaven,PG-13,Drama,107
+7.4,Eraserhead,UNRATED,Drama,89
+7.4,Frances Ha,R,Comedy,86
+7.4,Home Alone,PG,Comedy,103
+7.4,Bound,R,Crime,108
+7.4,Sleepy Hollow,R,Drama,105
+7.4,Pirate Radio,R,Comedy,117
+7.4,The NeverEnding Story,PG,Adventure,102
+7.4,X-Men,PG-13,Action,104
+7.4,Zero Dark Thirty,R,Drama,157
+7.4,Manhattan Murder Mystery,PG,Comedy,104
+7.4,National Lampoon's Vacation,R,Comedy,98
+7.4,My Sister's Keeper,PG-13,Drama,109
+7.4,Deconstructing Harry,R,Comedy,96
+7.4,The Way Way Back,PG-13,Comedy,103
+7.4,Capote,R,Biography,114
+7.4,Driving Miss Daisy,PG,Comedy,99
+7.4,La Femme Nikita,R,Action,118
+7.4,Lincoln,PG-13,Biography,150
+7.4,Limitless,PG-13,Mystery,105
+7.4,The Simpsons Movie,PG-13,Animation,87
+7.4,The Rock,R,Action,136
+7.4,The English Patient,R,Drama,162
+7.4,Law Abiding Citizen,R,Crime,109
+7.4,Wonder Boys,R,Drama,107
+7.4,Death at a Funeral,R,Comedy,90
+7.4,Blue Valentine,NC-17,Drama,112
+7.4,The Cider House Rules,PG-13,Drama,126
+7.4,Tootsie,PG,Comedy,116
+7.4,Back to the Future Part III,PG,Adventure,118
+7.4,Master and Commander: The Far Side of the World,PG-13,Action,138
+7.4,Poltergeist,PG,Horror,114
+7.4,Wall Street,R,Crime,126
