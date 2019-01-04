@@ -1,0 +1,2 @@
+/usr/bin/ar qc libStudentELFReader.a  CMakeFiles/StudentELFReader.dir/elf_common.c.o
+/usr/bin/ranlib libStudentELFReader.a
