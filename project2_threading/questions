@@ -1,0 +1,24 @@
+Ugochi Madubata
+
+1) Briefly describe what happens in your sleep function.  How are you guaranteeing that you sleep for the number of ticks passed in?
+
+    In my sleep function, I get the current tick and add it to the number of ticks to determine when my thread should wake up. Then I get the current thread running and stop executing the thread for the cycle. I think change it's state to paused, get the lock associated with the thread from threadLockMap, and unlock the lock. I think add the current thread to a different map, sleepingThreads, where the thread itself is the key and the value if when it is supposed to wake up. I think return the current tick amount.
+
+2) What steps are taken to make sure that you don't have to check every sleeping thread when going to wake up threads every tick?
+
+To avoid checking every sleeping thread, if a thread is paused, my next thread to run function checks whether the it's in the sleeping threads map. It then checks whether the wake time associated with that thread is greater or lesser than the current tick and consults the same list or ready list accordingly while constantly checking that the thread returned isn't a part of the sleep list. By bouncing between the ready list and same list and using a map structure instead of a list structure, I increase my chances of picking a thread that either isn't in the sleeping thread map or, if it is, may have be ready to wake up without going through all the sleeping threads.
+
+
+
+3) How do you ensure that the highest priority thread waiting for a lock wakes up first?
+
+I sort the ready list before doing anything, so it should be in descending order. Then, if sameList has threads in it, I compare the priorities between the thread I currently grabbed and those in the same list. I continue to check this after I grab my initial return thread if that thread grabbed had a PAUSED state. Because I'm constantly comparing the priorities and aways switching to which ever one has a higher priority, I ensure the highest priority thread of those thread sleeping if the one that is chosen first. 
+
+4) Describe the sequence when we have a priority donation.  How is nested donation handled?
+
+Check to see whether the thread about to be suggested is waiting on a lock, find the thread that has the lock. If that thread is the same as the thread that is currently running, set the priority of the thread to the priority of the one waiting for a lock. If the thread with the lock isn't the current thread running, if it is also waiting for a lock, enter a loop that will keep setting the priority of each thread in the chain to the priority of the original waiting thread until you reach a thread that isn't waiting for a lock.
+
+5) How do you ensure the highest priority thread waiting is called when the lock is released?
+
+I call nextThreadToRun in locked released as soon as the lock is released which should provide the highest priority thread waiting for the lock.
+
