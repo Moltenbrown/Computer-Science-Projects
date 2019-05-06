@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>edu.neu.ccs.cs5004.Problem1</OriginalElement>
+  <nodes>
+    <node x="167.75" y="0.0">edu.neu.ccs.cs5004.Problem1.IBagOfWords</node>
+    <node x="333.0" y="241.0">edu.neu.ccs.cs5004.Problem1.BagOfWords</node>
+    <node x="0.0" y="280.5">edu.neu.ccs.cs5004.Problem1.Empty</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="edu.neu.ccs.cs5004.Problem1.Empty" target="edu.neu.ccs.cs5004.Problem1.IBagOfWords">
+      <point x="0.0" y="-135.0" />
+      <point x="156.5" y="216.0" />
+      <point x="246.0" y="216.0" />
+      <point x="-78.25" y="95.5" />
+    </edge>
+    <edge source="edu.neu.ccs.cs5004.Problem1.BagOfWords" target="edu.neu.ccs.cs5004.Problem1.IBagOfWords">
+      <point x="0.0" y="-174.5" />
+      <point x="492.0" y="216.0" />
+      <point x="402.5" y="216.0" />
+      <point x="78.25" y="95.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="375.5" y="273.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
