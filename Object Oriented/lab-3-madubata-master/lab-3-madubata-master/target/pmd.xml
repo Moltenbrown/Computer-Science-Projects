@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="5.3.5" timestamp="2018-05-22T20:59:32.942">
+<file name="/Users/Goch/Library/Mobile Documents/com~apple~CloudDocs/Object Oriented Design/lab-3-madubata/src/main/java/edu/neu/ccs/cs5004/lab3/shapes/Rectangle.java">
+<violation beginline="55" endline="55" begincolumn="32" endcolumn="32" rule="ShortVariable" ruleset="Naming" package="edu.neu.ccs.cs5004.lab3.shapes" class="Rectangle" method="equals" variable="o" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like o
+</violation>
+</file>
+</pmd>
