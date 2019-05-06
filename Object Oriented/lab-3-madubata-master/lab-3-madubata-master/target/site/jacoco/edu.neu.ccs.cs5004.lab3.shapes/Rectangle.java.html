@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../.resources/report.css" type="text/css"/><link rel="shortcut icon" href="../.resources/report.gif" type="image/gif"/><title>Rectangle.java</title><link rel="stylesheet" href="../.resources/prettify.css" type="text/css"/><script type="text/javascript" src="../.resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../.sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">Assignment for class CS5004</a> &gt; <a href="index.source.html" class="el_package">edu.neu.ccs.cs5004.lab3.shapes</a> &gt; <span class="el_source">Rectangle.java</span></div><h1>Rectangle.java</h1><pre class="source lang-java linenums">package edu.neu.ccs.cs5004.lab3.shapes;
+
+import java.util.Objects;
+
+/**
+ * This class represents a rectangle.  It defines all the operations mandated by
+ * the Shape interface
+ */
+public class Rectangle extends AbstractShape {
+  private double width, height;
+
+  /**
+   * Constructs a rectangle object with the given location of its lower-left
+   * corner and dimensions
+   *
+   * @param xAxis      xAxis coordinate of the lower-left corner of this rectangle
+   * @param yAxis      yAxis coordinate of the lower-left corner of this rectangle
+   * @param width  width of this rectangle
+   * @param height height of this rectangle
+   */
+  public Rectangle(double xAxis, double yAxis, double width, double height) {
+<span class="fc" id="L22">    super(new Point2D(xAxis, yAxis));</span>
+<span class="fc" id="L23">    this.width = width;</span>
+<span class="fc" id="L24">    this.height = height;</span>
+<span class="fc" id="L25">  }</span>
+
+  @Override
+  public double area() {
+<span class="fc" id="L29">    return this.width * this.height;</span>
+  }
+
+  @Override
+  public double perimeter() {
+<span class="fc" id="L34">    return 2 * (this.width + this.height);</span>
+  }
+
+  @Override
+  public Shape resize(double factor) {
+<span class="fc" id="L39">    double sqrtFactor = Math.sqrt(factor);</span>
+<span class="fc" id="L40">    return new Rectangle(</span>
+<span class="fc" id="L41">        this.reference.getX(),</span>
+<span class="fc" id="L42">        this.reference.getY(), sqrtFactor *</span>
+        this.width,
+        sqrtFactor * this.height);
+  }
+
+  public String toString() {
+<span class="nc" id="L48">    return String.format(&quot;Rectangle: LL corner (%.3f,%.3f) width %.3f height &quot; +</span>
+            &quot;%.3f&quot;,
+<span class="nc" id="L50">        this.reference.getX(), this.reference.getY(), this.width, this</span>
+            .height);
+  }
+
+  @Override
+  public boolean equals(Object o) {
+<span class="pc bpc" id="L56" title="1 of 2 branches missed.">    if (this == o) {</span>
+<span class="nc" id="L57">      return true;</span>
+    }
+<span class="pc bpc" id="L59" title="1 of 2 branches missed.">    if (!(o instanceof Rectangle)) {</span>
+<span class="nc" id="L60">      return false;</span>
+    }
+<span class="fc" id="L62">    Rectangle rectangle = (Rectangle) o;</span>
+<span class="pc bpc" id="L63" title="1 of 2 branches missed.">    return Double.compare(rectangle.width, width) == 0 &amp;&amp;</span>
+<span class="pc bpc" id="L64" title="1 of 2 branches missed.">        Double.compare(rectangle.height, height) == 0;</span>
+  }
+
+  @Override
+  public int hashCode() {
+
+<span class="nc" id="L70">    return Objects.hash(width, height);</span>
+  }
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.eclemma.org/jacoco">JaCoCo</a> 0.7.6.201602180812</span></div></body></html>
