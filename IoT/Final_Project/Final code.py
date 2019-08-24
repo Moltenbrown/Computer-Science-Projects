@@ -4,7 +4,7 @@
 #Contains code from https://forums.openmv.io/viewtopic.php?t=718,
 # https://www.electronicwings.com/raspberry-pi/mpu6050-accelerometergyroscope-interfacing-with-raspberry-pi
 # and https://docs.openmv.io/openmvcam/tutorial/analog_io.html that has been edited to work with my
-accelerometer
+# accelerometer
 
 import sensor, image, time, mjpeg, pyb, math, utime, sys
 from machine import I2C
