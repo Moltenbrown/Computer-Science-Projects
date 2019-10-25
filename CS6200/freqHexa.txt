@@ -1,0 +1,1394 @@
+ 196 
+   6     archived
+   3     citenotesavard2018ca13
+   2 httpsenwikipediaorgwikifilehexadecimalmultiplicationtablesvg
+   2 httpsenwikipediaorgwikifilehexadecimalcountingjpg
+   2 httpsenwikipediaorgwikifilebrucemartinhexadecimalnotationproposalpng
+   2 hexadecimal
+   2 citenotenystrom35
+   2    about wikipedia httpsenwikipediaorgwikiwikipediaabout
+   2     to 1513 citenotesavard2018ca13
+   1 δεκαεξαδικός  dekaexadikos is more commonly used
+   1 τ httpsenwikipediaorgwikithuee28093morseconstant the
+   1 π httpsenwikipediaorgwikipi pi the ratio of circumference
+   1 φ httpsenwikipediaorgwikigoldenratio phi the golden ratio
+   1 γ httpsenwikipediaorgwikieulermascheroniconstant the
+   1 work with the large number of digits for even a relatively small binary
+   1 within the hex system itself  by relying on its additionmultiplication
+   1 with the size of the number when the number becomes large conversion
+   1 with little practice mapping 11112 to f16 in one step becomes easy
+   1 wiki loves monuments photograph a monument help wikipedia and win
+   1 which is 45997 in base 10
+   1 whether dividing one by two for binary
+   1 where a character is replaced with a percent sign  and its
+   1 when expressed in those other bases conversely only a fraction of
+   1 well
+   1 was not universal in the early history of computers
+   1 views
+   1 via an intermediate conversion to binary followed by regrouping the
+   1 versions which allows conversions between radix 16 hexadecimal 10
+   1 values unambiguously a numerical subscript itself written in decimal
+   1 utility can be set to scientific mode called programmer mode in some
+   1 usually the number is normalised so that the leading hexadecimal digit
+   1 used in c httpsenwikipediaorgwikicprogramminglanguage and
+   1 url percent encoding httpsenwikipediaorgwikipercentencoding
+   1 unix specification
+   1 twoscomplement httpsenwikipediaorgwikitwo27scomplement as
+   1 trivial to regard the binary string as 4digit groups and map each to a
+   1 to text encoding httpsenwikipediaorgwikibinarytotextencoding
+   1 to make the verbal representation distiguishable in any case even when
+   1 to fifteen  letters are used as a substitute  and most european
+   1 to decimal is very tedious however when mapping to hexadecimal it is
+   1 thuemorse constant
+   1 those finitely representable in the latter bases are finitely
+   1 this example shows the conversion of a binary number to decimal mapping
+   1 therefore
+   1 there is no universal convention to use lowercase or uppercase for the
+   1 there are several advantages of base16 encoding
+   1 there are no traditional numerals to represent the quantities from ten
+   1 the word hexadecimal is composed of hexa derived from the greek
+   1 the various radices and in most cases would include the hexadecimal as
+   1 the use of the letters a through f to represent the digits above 9
+   1 the traditional chinese units of measurement
+   1 the tables below
+   1 the table below gives the expansions of some common irrational numbers
+   1 the source base the hexadecimal representation of its place value 
+   1 the processor httpsenwikipediaorgwikicentralprocessingunit
+   1 the preferred numeral system these attempts often propose specific
+   1 the octal httpsenwikipediaorgwikioctal base 8 system can also
+   1 the natural logarithm
+   1 the main disadvantages of base16 encoding are
+   1 the infinite recurring representation 019 in hexadecimal however
+   1 the hexadecimal system can express negative numbers the same way as in
+   1 the following is a javascript httpsenwikipediaorgwikijavascript
+   1 the decimal value 10995 would be expressed in hexadecimal as 2af316 
+   1 the conversion from hexadecimal to binary is equally direct
+   1 the calculator httpsenwikipediaorgwikicalculatorwindows
+   1 the c99 specification24 citenoterationale2003c24 and single
+   1 the actual number does not contain numbers af examples are listed in
+   1 that the expected form from usual latin phrasing would be sexadecimal
+   1 that represents numbers using a base
+   1 terms has a prime factor httpsenwikipediaorgwikiprimefactor
+   1 taylor used senidenary in his mid1800s work on alternative number
+   1 taels httpsenwikipediaorgwikitael the suanpan
+   1 tables and its corresponding standard algorithms such as long division
+   1 systems of counting on digits
+   1 system there have been occasional attempts to promote hexadecimal as
+   1 symbols it uses sixteen distinct symbols most often the symbols
+   1 support for formatting and parsing base16encoded numbers
+   1 support for base16 encoding is ubiquitous in modern computing it is the
+   1 such as the decimal system since its the most commonly adopted system
+   1 subtraction algorithm26 citenote26
+   1 subscript such as 159decimal and 159hex  or 159d and 159h 
+   1 string of recurring digits such as thirds and fifths this makes
+   1 standard this notation can be used for floatingpoint literals in the
+   1 standard httpsenwikipediaorgwikiieeefloatingpointstandard
+   1 so a sequence of hexadecimal digits may represent a signed
+   1 sixteen powers of two are shown below
+   1 sixteen for hexadecimal both of these fractions are written as 01
+   1 single hexadecimal digit
+   1 since sixteen 1016  has only a single prime factor two
+   1 since september 2019
+   1 similar ad hoc system in the wake of the adoption of hexadecimal among
+   1 sexagesimal httpsenwikipediaorgwikisexagesimal for base 60
+   1 sexadecimal redirects here for base 60 see sexagesimal
+   1 sex30 citenote30 the etymologically
+   1 serves a similar purpose in decimal as part of the e notation
+   1 see table in written representation writtenrepresentation the
+   1 rogers naming method 2007 number 	pronunciation
+   1 retrieved from
+   1 retains the latin prefix donald knuth
+   1 represents times two raised to the power of whereas e or e
+   1 representing fractions with powers of two in the denominator for
+   1 representation usually involving a prefix or suffix the prefix 0x is
+   1 representation of that base value in its own number system thus
+   1 representation of a number to hexadecimal by doing integer division and
+   1 representation for example to convert the number b3ad to decimal one
+   1 representation 	prime factors 	fraction1n
+   1 representation
+   1 representable in hexadecimal for example decimal 01 corresponds to
+   1 represent rational numbers
+   1 remainder operations in the source base in theory this is possible
+   1 related languages which would denote this value by 0x2af3
+   1 register httpsenwikipediaorgwikiprocessorregister in
+   1 rather than four therefore we can convert between octal and hexadecimal
+   1 published online by s r rogers in 200721 citenote21 that tries
+   1 pronunciation and symbols for the individual numerals32
+   1 programmers robert a magnuson suggested in 1968 in datamation
+   1 programmers as they provide a humanfriendly representation of
+   1 prime factors of base b  1610  10 2 b  1  1510  f 3 5 b  1
+   1 prime factors of base b  10 2 5 b  1  9 3 b  1  11 11
+   1 powers of two have very simple expansions in hexadecimal the first
+   1 positional systems httpsenwikipediaorgwikipositionalnotation
+   1 position from the right
+   1 phone number or using the nato phonetic alphabet
+   1 personal tools
+   1 or the binary system since each hex digit corresponds to four binary
+   1 only binary which can be converted by far more efficient methods can
+   1 ones and there are no cyclic numbers
+   1 on ten fingers22 citenote22 another system for counting up to
+   1 of digits28 citenote28 29 citenote29 schwartzman notes
+   1 numeral systems of the worldsvg
+   1 numeral systems httpsenwikipediaorgwikinumeralsystem
+   1 numbers since a larger proportion lie outside its range of finite
+   1 number with a finite number of digits also has a finite number of digits
+   1 number although most humans are familiar with the base 10 system it is
+   1 number 	positional representation
+   1 notation can be produced by implementations of the printf
+   1 not found in the radix thus when using hexadecimal notation all
+   1 nonstandard positional numeral systems
+   1 nondecimal powers pair httpsenwikipediaorgwiki2number
+   1 negative number 4210 can be written as ffff ffd6 in a 32bit cpu
+   1 navigation
+   1 natural logarithm 	0577215664901532860 	093c467e37db0c7a4d1b
+   1 namespaces
+   1 n 	decimal
+   1 multiples of 1633 citenote33 34 citenote34 35
+   1 much easier to map binary to hexadecimal than to decimal because each
+   1 most modern computer systems with graphical user interfaces
+   1 most computers manipulate binary data but it is difficult for humans to
+   1 magnusson naming method 1968 number 	pronunciation
+   1 little used it can easily be converted to and from hexadecimal or
+   1 list of numeral systems
+   1 limiting difference between the
+   1 letter digits and each is prevalent or preferred in particular
+   1 let d be the number to represent in hexadecimal and the series hi
+   1 learn more
+   1 language httpsenwikipediaorgwikicprogramminglanguage23
+   1 known as the radix httpsenwikipediaorgwikiradix for example
+   1 keypad httpsenwikipediaorgwikinumerickeypad includes the
+   1 just as decimal numbers can be represented in exponential notation
+   1 jump to navigation mwhead jump to search psearch
+   1 it safely in the category of international scientific vocabulary
+   1 it is also possible to make the conversion by assigning each place in
+   1 it has been suggested that tonal system
+   1 isv it is common in isv to mix greek and latin combining forms
+   1 is 1 unless the value is exactly 0
+   1 instance a was pronounced ann b bet c chris etc19
+   1 in this case data is broken into 4bit sequences and each value
+   1 in the above example 5 e b 5 216  11 32 23 11 024 
+   1 in programming a number of notations are used to support hexadecimal
+   1 in microsoft windows httpsenwikipediaorgwikimicrosoftwindows
+   1 in mathematics httpsenwikipediaorgwikimathematics and computing
+   1 in mathematics a subscript is typically used to specify the base also
+   1 in linear text systems such as those used in most computer programming
+   1 in hex mode however the windows calculator supports only integers
+   1 in contexts where the base httpsenwikipediaorgwikiradix is not
+   1 implementation of the above algorithm for converting any number to a
+   1 ibm system360 httpsenwikipediaorgwikiibmsystem360
+   1 httpswwwwikidataorgwikispecialentitypageq82828sitelinkswikipedia
+   1 httpsenwikipediaorgwindexphptitlehexadecimaloldid918298811
+   1 httpsenwikipediaorgwikiworldwidewebconsortium standard for
+   1 httpsenwikipediaorgwikiwikipediamerging into this article
+   1 httpsenwikipediaorgwikivigesimal power dozen
+   1 httpsenwikipediaorgwikitonalsystem be merged
+   1 httpsenwikipediaorgwikithuee28093morseconstant
+   1 httpsenwikipediaorgwikitalkhexadecimalmergerproposalproposed
+   1 httpsenwikipediaorgwikisuanpan chinese abacus
+   1 httpsenwikipediaorgwikisquarenumber 42  fractions
+   1 httpsenwikipediaorgwikisquaregeometry
+   1 httpsenwikipediaorgwikisingleunixspecification ieee std
+   1 httpsenwikipediaorgwikisignedness or even a floating point
+   1 httpsenwikipediaorgwikisexagesimal that is any hexadecimal
+   1 httpsenwikipediaorgwikisexagesimal
+   1 httpsenwikipediaorgwikirectangle 	2236067977499789696
+   1 httpsenwikipediaorgwikirationalnumber although repeating
+   1 httpsenwikipediaorgwikiradix of 16 unlike the common way
+   1 httpsenwikipediaorgwikiquaternarynumeralsystem base 4 is
+   1 httpsenwikipediaorgwikiprintf family of functions following
+   1 httpsenwikipediaorgwikipoweroftwo result in an infinite
+   1 httpsenwikipediaorgwikipositionalnotation in a binary numeral
+   1 httpsenwikipediaorgwikinybble
+   1 httpsenwikipediaorgwikinumeralsystempositionalsystemsindetail
+   1 httpsenwikipediaorgwikinonstandardpositionalnumeralsystems
+   1 httpsenwikipediaorgwikinibble which is half a byte
+   1 httpsenwikipediaorgwikinaturallogarithm
+   1 httpsenwikipediaorgwikimultiplicationtable
+   1 httpsenwikipediaorgwikimainpage
+   1 httpsenwikipediaorgwikilongdivision and the traditional
+   1 httpsenwikipediaorgwikilistofnumeralsystems
+   1 httpsenwikipediaorgwikijointarmynavyphoneticalphabet or a
+   1 httpsenwikipediaorgwikiirrationalnumber in decimal and
+   1 httpsenwikipediaorgwikiinternationalscientificvocabulary
+   1 httpsenwikipediaorgwikiieee7542008 binary floatingpoint
+   1 httpsenwikipediaorgwikiicaospellingalphabet the joint
+   1 httpsenwikipediaorgwikihindue28093arabicnumeralsystem
+   1 httpsenwikipediaorgwikihexadecimaltime which subdivides a day
+   1 httpsenwikipediaorgwikihexadecimalactionedit
+   1 httpsenwikipediaorgwikiharmonicseriesmathematics and the
+   1 httpsenwikipediaorgwikigrossunit and great gross
+   1 httpsenwikipediaorgwikigreeklanguage ἕξ hex for six and
+   1 httpsenwikipediaorgwikigreeklanguage term would be
+   1 httpsenwikipediaorgwikigreatgross for the first three
+   1 httpsenwikipediaorgwikigraphicaluserinterface provide a
+   1 httpsenwikipediaorgwikigoldenratio  152
+   1 httpsenwikipediaorgwikifloatingpointunit register or
+   1 httpsenwikipediaorgwikifloatingpoint value this way the
+   1 httpsenwikipediaorgwikifilenumeralsystemsoftheworldsvg
+   1 httpsenwikipediaorgwikiexponentialnotation so too can
+   1 httpsenwikipediaorgwikieurope languages lack nondecimal names
+   1 httpsenwikipediaorgwikietymology proper greek
+   1 httpsenwikipediaorgwikienotation the number after the p is
+   1 httpsenwikipediaorgwikiduodecimal and sexagesimal
+   1 httpsenwikipediaorgwikidozen gross
+   1 httpsenwikipediaorgwikidonaldknuth has pointed out that the
+   1 httpsenwikipediaorgwikidigitanatomy have been devised for
+   1 httpsenwikipediaorgwikidiameter of a circle
+   1 httpsenwikipediaorgwikidecimal of representing numbers with ten
+   1 httpsenwikipediaorgwikidecimal for representing rational
+   1 httpsenwikipediaorgwikidatamation magazine a pronunciation
+   1 httpsenwikipediaorgwikicyclicnumber other than trivial single
+   1 httpsenwikipediaorgwikicomputing hexadecimal also base
+   1 httpsenwikipediaorgwikicombiningform freely the word
+   1 httpsenwikipediaorgwikicircumference to diameter
+   1 httpsenwikipediaorgwikichineseunitsofmeasurement were
+   1 httpsenwikipediaorgwikibyte for example a single byte can
+   1 httpsenwikipediaorgwikibitwiseoperators
+   1 httpsenwikipediaorgwikibit also known as a nibble
+   1 httpsenwikipediaorgwikibinarynumeralsystem the bases most
+   1 httpsenwikipediaorgwikibinarynumeralsystem power score
+   1 httpsenwikipediaorgwikibinarynumeralsystem or dividing one by
+   1 httpsenwikipediaorgwikibase64
+   1 httpsenwikipediaorgwikibase58 and base64
+   1 httpsenwikipediaorgwikibase32 base58
+   1 httpsenwikipediaorgwikiarthurcclarke suggested using each
+   1 httpsenwikipediaorgwikialgorithm for converting a
+   1 httpsenwikipediaorgwikiabacus can be used to perform
+   1 httpsenwikipediaorgwiki20number for the first vigesimal
+   1 httpscommonswikimediaorgwikicommonswikilovesmonuments2019intheunitedstates
+   1 hinduarabic numeral system
+   1 hidden categories
+   1 hi1 h2 h1 be the hexadecimal digits representing the number
+   1 hexadecimal numerals are widely used by computer system designers and
+   1 hexadecimal numbers by convention the letter p or p for power
+   1 hexadecimal numbers
+   1 hexadecimal is used in the transfer encoding base16 in which each
+   1 hexadecimal is more efficient than duodecimal and sexagesimal for
+   1 hexadecimal in string representation its purpose is to illustrate the
+   1 hexadecimal fingercounting scheme
+   1 hexadecimal exponential notation is required by the ieee 7542008
+   1 hexadecimal digits a through f which are active when hex is selected
+   1 hexadecimal digit represents four binary digits
+   1 hexadecimal digit maps to a whole number of bits 410  this example
+   1 hexadecimal can also be used to express the exact bit patterns used in
+   1 hexadecimal calculations such as additions and subtractions31
+   1 hexadecimal as an alteration of the alllatin sexadecimal which
+   1 hexadecimal and binary less convenient than decimal
+   1 hexadecimal 159 which is equal to 34510  some authors prefer a text
+   1 hexadecadic  ἑξαδεκαδικός  hexadekadikós although in modern
+   1 hex digit redirects here for binary coded hexadecimals see nybble
+   1 have values ranging from 00000000 to 11111111 in binary form which can
+   1 harmonic series
+   1 guide that gave short names to the letters of hexadecimal  for
+   1 greek httpsenwikipediaorgwikimoderngreek decahexadic 
+   1 function tohexd 
+   1 function tocharn 
+   1 from wikipedia the free encyclopedia
+   1 from the latin term for grouped by 16 the terms binary ternary
+   1 from any base but for most humans only decimal and for most computers
+   1 fractions with denominators that are not a power of two
+   1 fraction 	prime factors 	positional representation 	positional
+   1 former
+   1 for the numerals above ten even though english has names for several
+   1 for the first binary
+   1 for tenth websters third new international online derives
+   1 for hexadecimal in merriamwebster collegiate online is 1954 placing
+   1 for any base 01 or 110 is always equivalent to one divided by the
+   1 finitely representable in decimal duodecimal
+   1 finger as an onoff bit allowing finger counting from zero to 102310
+   1 fhex 	 	15dec httpsenwikipediaorgwiki15number 	
+   1 ff16 25510  is illustrated on the right
+   1 f1 	fleventyone
+   1 f 	frost
+   1 f 	fim
+   1 expressed in other bases there are several conventions for expressing
+   1 expressed in hexadecimal have an odd period much more often than decimal
+   1 expansions httpsenwikipediaorgwikirepeatingdecimal are common
+   1 example 13dep42 represents 13de16   242 
+   1 example 0062510 one sixteenth is equivalent to 0116  00912 
+   1 etymologically correct terms for decimal and octal arithmetic are
+   1 etymologically correct term is senidenary or possibly sedenary
+   1 environments by community standards or convention
+   1 environments a variety of methods have arisen
+   1 english name describes the hexadecimal powers decimal 16 256 4096
+   1 elementary operations such additions subtractions multiplications and
+   1 ehex 	 	14dec httpsenwikipediaorgwiki14number 	
+   1 edit links
+   1 east asian
+   1 each digit to the decimal value and adding the results
+   1 each decimal representation by 16p p being the corresponding hex
+   1 e1 	eptekone
+   1 e1 	ebbityone
+   1 e httpsenwikipediaorgwikiemathematicalconstant the base of
+   1 e 	ernest
+   1 duodecimal httpsenwikipediaorgwikiduodecimal powers no
+   1 divisions can be carried out indirectly through conversion to an
+   1 discuss
+   1 digits recurring digits are exhibited when the denominator in lowest
+   1 digits can be considered independently and converted directly
+   1 digits and each quaternary digit corresponds to a pair of binary digits
+   1 digits
+   1 digit position counting from right to left beginning with 0 in this
+   1 diagonal of a unit cube httpsenwikipediaorgwikicube
+   1 diagonal httpsenwikipediaorgwikidiagonal of a unit square
+   1 diagonal httpsenwikipediaorgwikidiagonal of a 12 rectangle
+   1 dhex 	 	13dec httpsenwikipediaorgwiki13number 	
+   1 denary and octonary respectively27 citenote27 alfred b
+   1 decimal derived from the latin httpsenwikipediaorgwikilatin
+   1 decimal and represents the binary exponent
+   1 decimal 8 octal httpsenwikipediaorgwikioctal and 2 binary
+   1 decimal 2a to represent 4210 and so on
+   1 decimal 	hexadecimal
+   1 d1 	dicketyone
+   1 d 	dot
+   1 converts 11112 to base ten since each position
+   1 contents
+   1 compare this to the conversion to hexadecimal where each group of four
+   1 commonly used by programmers in scientific mode the onscreen numeric
+   1 clear hexadecimal numbers can be ambiguous and confused with numbers
+   1 citenoteprintf201325
+   1 citenotemartin196812
+   1 citenote32 some proposals unify standard measures so that they are
+   1 citenote31
+   1 citenote23 using the a or a conversion specifiers this
+   1 citenote19 another naming system was invented independently by tim
+   1 chex 	 	12dec httpsenwikipediaorgwiki12number 	
+   1 categories httpsenwikipediaorgwikihelpcategory
+   1 case we have that
+   1 can split the hexadecimal number into its digits b 1110  3 310 
+   1 can give the base explicitly 15910 is decimal 159 15916 is
+   1 can contain either a 1 or a 0 its value may be easily determined by its
+   1 c99 httpsenwikipediaorgwikic99 edition of the c programming
+   1 c4a 	twelvehundrekfourtekten
+   1 c228 0000 in a 32bit fpu
+   1 c1 	cityone
+   1 c045 0000 0000 0000 in a 64bit fpu register in the ieee floatingpoint
+   1 c0 	twelftek
+   1 c 	twelve
+   1 c 	chris
+   1 byte of the plaintext httpsenwikipediaorgwikiplaintext is
+   1 by base httpsenwikipediaorgwikiradix
+   1 by 16 so that there are 16 hexhours in a day35
+   1 but computer hackers would be tempted to shorten that word to
+   1 builtin calculator utility capable of performing conversions between
+   1 bruce alan martins hexadecimal notation proposal12
+   1 broken into two 4bit values and represented by two hexadecimal digits
+   1 both binary and hexadecimal arthur c clarke
+   1 binarycoded httpsenwikipediaorgwikibinarycode values each
+   1 binary each hexadecimal digit corresponds to a pair of quaternary
+   1 binary digits in groups of either three or four
+   1 bhex 	 	11dec httpsenwikipediaorgwiki11number 	
+   1 between 0 and 15 inclusively is encoded using 16 symbols from the
+   1 belonging to the same family as base32
+   1 before carrying out multiplication and addition to get the final
+   1 because the radix 16 is a perfect square
+   1 be easily handled with this method
+   1 be converted with relative ease although not quite as trivially as with
+   1 be conveniently represented as 00 to ff in hexadecimal
+   1 basis for the w3c
+   1 bases although he rejected base 16 because of its incommodious number
+   1 bases 2 and 4 each octal digit corresponds to three binary digits
+   1 base16encoded form most modern programming languages directly include
+   1 base16 for example one jīn 斤 in the old system equals sixteen
+   1 base16 as a proper name without a space can also refer to a binary
+   1 babb naming method 2015 number 	pronunciation
+   1 babb in 201520 citenote20 an additional naming system has been
+   1 b3ad  11  163   3  162   10  161   13  160 
+   1 b1 	bibbityone
+   1 b 	bet
+   1 ascii httpsenwikipediaorgwikiascii character set although any
+   1 ascii digits 09 and the letters af or the lowercase af
+   1 as with the duodecimal httpsenwikipediaorgwikiduodecimal
+   1 as with other numeral systems the hexadecimal system can be used to
+   1 as with all bases there is a simple algorithm
+   1 armynavy phonetic alphabet
+   1 are always chosen in order to align with standard written notation for
+   1 appears in the earlier bendix documentation the earliest date attested
+   1 and quaternary are from the same latin construction and the
+   1 and 034560 
+   1 an example of unified standard measures is hexadecimal time
+   1 although quaternary
+   1 alternatively one can also perform elementary operations directly
+   1 alternate numeral system httpsenwikipediaorgwikinumeralsystem
+   1 alphabetic httpsenwikipediaorgwikialphabeticnumeralsystem
+   1 all rational numbers finitely representable in hexadecimal are also
+   1 ahex 	 	10dec httpsenwikipediaorgwiki10number 	
+   1 af to represent values ten to fifteen
+   1 advisable to work with bitwise operators
+   1 advantage of using hexadecimal rather than decimal increases rapidly
+   1 above algorithm to work with data seriously however it is much more
+   1 a1 	attaone
+   1 a01c 	annty christeen
+   1 a0 	annty
+   1 a hexadecimal multiplication table
+   1 a 1010  and d 1310  and then get the final result by multiplying
+   1 a 	ann
+   1 9hex 	 	9dec httpsenwikipediaorgwiki9number 	
+   1 9 	19 	3 	01 	01c7 	3 	19
+   1 8hex 	 	8dec httpsenwikipediaorgwiki8number 	
+   1 819210  204810  51210  25610  6410  1610  210
+   1 8 	18 	2 	0125 	02 	2 	18
+   1 7oct 	0 	1 	1 	1
+   1 7hex 	 	7dec httpsenwikipediaorgwiki7number 	
+   1 7 	17 	7 	0142857 	0249 	7 	17
+   1 6oct 	0 	1 	1 	0
+   1 6hex 	 	6dec httpsenwikipediaorgwiki6number 	
+   1 65536   some people read hexadecimal numbers digit by digit like a
+   1 6 	16 	2 3 	016 	02a 	2 3 	16
+   1 5oct 	0 	1 	0 	1
+   1 5hex 	 	5dec httpsenwikipediaorgwiki5number 	
+   1 5b 	fiftybet
+   1 50 	fiftek
+   1 5 httpsenwikipediaorgwikisquarerootof5 the length of the
+   1 5 	15 	5 	02 	03 	5 	15
+   1 4oct 	0 	1 	0 	0
+   1 4hex 	 	4dec httpsenwikipediaorgwiki4number 	
+   1 4 	14 	2 	025 	04 	2 	14
+   1 3oct 	0 	0 	1 	1
+   1 3hex 	 	3dec httpsenwikipediaorgwiki3number 	
+   1 3e 	thirtekeptwin
+   1 3a7d 	thirtyann seventydot
+   1 383279502884197169399375105 	3243f6a8885a308d313198a2e0
+   1 3707344a4093822299f31d008
+   1 36 	136 	2 3 	0027 	0071c 	2 3 	124
+   1 35  jump up to a citerefnystrom350 b
+   1 35 	135 	5 7 	00285714 	0075 	5 7 	123
+   1 34  citeref34 niemietz ricardo cancho october 21 2003 a
+   1 34 	134 	2 17 	002941176470588235 	0078 	2 11 	122
+   1 33  citeref33 intuitor hex headquarters
+   1 33 	133 	3 11 	003 	007c1f 	3 b 	121
+   1 32  citeref32 base 42 hexadecimal symbol proposal
+   1 32 	132 	2 	003125 	008 	2 	120
+   1 3141592653589793238462643
+   1 31  citeref31 算盤 hexadecimal addition  subtraction on an
+   1 31 	131 	31 	0032258064516129 	008421 	1f 	11f
+   1 30  citeref30 schwartzman s 1994 the words of
+   1 30 	130 	2 3 5 	003 	008 	2 3 5 	11e
+   1 3 httpsenwikipediaorgwikisquarerootof3 the length of the
+   1 3 	13 	3 	03333  03 	05555  05 	3 	13
+   1 2x 	value 	value decimal
+   1 2oct 	0 	0 	1 	0
+   1 2hex 	 	2dec httpsenwikipediaorgwiki2number 	
+   1 2f 215dec  	8000hex 	32768dec
+   1 2e 214dec  	4000hex 	16384dec
+   1 2d 213dec  	2000hex 	8192dec
+   1 2c 212dec  	1000hex 	4096dec
+   1 2b 211dec  	800hex 	2048dec
+   1 2a 210dec  	400hex 	1024dec
+   1 29  citeref29 alfred b taylor octonary numeration and its
+   1 29 	200hex 	512dec
+   1 29 	129 	29 	00344827586206896551724137931 	008d3dcb 	1d 	11d
+   1 28  citeref28 alfred b taylor report on weights and measures
+   1 28 	128 	2 7 	003571428 	00924 	2 7 	11c
+   1 28 	100hex 	256dec
+   1 2718281828459045235 	2b7e151628aed2a6b
+   1 27  citeref27 knuth donald 1969 the art of computer
+   1 27 	80hex 	128dec
+   1 27 	127 	3 	0037 	0097b425ed 	3 	11b
+   1 26  citeref26 the definitive higher math guide to long
+   1 26 	40hex 	64dec
+   1 26 	126 	2 13 	00384615 	009d8 	2 d 	11a
+   1 25  citerefprintf2013250 the ieee and the open group 2013
+   1 25 	20hex 	32dec
+   1 25 	125 	5 	004 	00a3d7 	5 	119
+   1 24  citerefrationale2003c240 rationale for international
+   1 24 	124 	2 3 	00416 	00a 	2 3 	118
+   1 24 	10hex 	16dec
+   1 23c6ef372fe95
+   1 23  citeref23 isoiec 98991999  programming languages  c
+   1 23 	8 	8
+   1 23 	123 	23 	00434782608695652173913 	00b21642c859 	17 	117
+   1 22  citeref22 clarke arthur pohl frederik 2008 the last
+   1 22 	4 	4
+   1 22 	122 	2 11 	0045 	00ba2e8 	2 b 	116
+   1 210 216dec  	10000hex 	65536dec
+   1 21  citeref21 hexadecimal number words
+   1 21 	2 	2
+   1 21 	121 	3 7 	0047619 	00c3 	3 7 	115
+   1 20  citeref20 how to pronounce hexadecimal
+   1 20 	120 	2 5 	005 	00c 	2 5 	114
+   1 20 	1 	1
+   1 2 httpsenwikipediaorgwikisquarerootof2 the length of the
+   1 2 	12 	2 	05 	08 	2 	12
+   1 1oct 	0 	0 	0 	1
+   1 1hex 	 	1dec httpsenwikipediaorgwiki1number 	
+   1 1f 	fleventeen
+   1 1f 	fimteek
+   1 1e 	eggteen
+   1 1d 	dibbleteen
+   1 1c 	cleventeen
+   1 1b 	bibteen
+   1 1ad0 	annteen dotty
+   1 1a 	annteen
+   1 1a 	abteen
+   1 19  citeref19 magnuson robert january 1968 a hexadecimal
+   1 19 	119 	19 	0052631578947368421 	00d79435e5 	13 	113
+   1 18  citereftibcd7segdec180 bcdtosevensegment
+   1 18 	118 	2 3 	005 	00e38 	2 3 	112
+   1 17oct 	1 	1 	1 	1
+   1 1743 	onethouseksevenhundrekfourtekthree
+   1 1732050807568877293 	1bb67ae8584caa
+   1 17  citerefnec1960neac1103170 nec parametron digital
+   1 17 	117 	17 	00588235294117647 	00f 	11 	111
+   1 16oct 	1 	1 	1 	0
+   1 1618033988749894848 	19e3779b97f4a
+   1 16 symbols from the ascii character set can be used in practice the
+   1 16 or hex is a positional system
+   1 16 may be replaced with any other base that may be desired
+   1 16  citerefrp1957lgp30160 royal precision electronic
+   1 16 	116 	2 	00625 	01 	2 	110
+   1 15oct 	1 	1 	0 	1
+   1 15  citerefilliaci150 gill s neagher r e muller d
+   1 15 	115 	3 5 	006 	01 	3 5 	1f
+   1 14oct 	1 	1 	0 	0
+   1 1414213562373095048 	16a09e667f3bcd
+   1 14  citerefbendix140 213 sexadecimal notation g15d
+   1 14 	114 	2 7 	00714285 	01249 	2 7 	1e
+   1 13oct 	1 	0 	1 	1
+   1 13  jump up to a citerefsavard2018ca130 b
+   1 13 	113 	13 	0076923 	013b 	d 	1d
+   1 12oct 	1 	0 	1 	0
+   1 12  jump up to a citerefmartin1968120 b
+   1 12 	112 	2 3 	0083 	015 	2 3 	1c
+   1 11oct 	1 	0 	0 	1
+   1 11112 	 810  410  210  110
+   1 11  citeref11 donald e knuth the texbook computers and
+   1 11 	oneteek
+   1 11 	111 	11 	009 	01745d 	b 	1b
+   1 10oct 	1 	0 	0 	0
+   1 10031 posix httpsenwikipediaorgwikiposix standard25
+   1 1000 	thousek
+   1 100 	hundrek
+   1 10  citeref10 bbc basic programs are not fully portable to
+   1 10 	110 	2 5 	01 	019 	2 5 	1a
+   1 0oct 		0 	0 	0 	0
+   1 0hex 	 	0dec httpsenwikipediaorgwiki0number 	
+   1 09 to represent values zero to nine and af or alternatively
+   1 0412454033640107597 	06996 9669 9669 6996
+   1 010111101011010100102 	 26214410  6553610  3276810  1638410 
+   1 010111101011010100102 	 	0101  	1110  	1011  	0101  	00102
+   1  9  citeref9 msx is coming  part 2 inside msx
+   1  8  citeref8 printbase variable in common lisp
+   1  7  citeref7 readbase variable in common lisp
+   1  6  citeref6 the vhdl minireference vhdl identifiers
+   1  5  citeref5 modula2  vocabulary and representation
+   1  4 if d  0 return series hi  else increment i and go to step 2
+   1  4  citeref4 iso88591 iso latin 1 character encoding
+   1  3 d  d  hi   16
+   1  3  citeref3 the string x1b0mx1b251h specifies the
+   1  2 hi  d mod 16
+   1  2  citeref2 hexadecimal web colors explained
+   1  1710  11 11
+   1  1 i  1
+   1  1  citeref1 the unicode standard version 7
+   1   var r  d  16
+   1   return tohex d  r16   tocharr
+   1   return alphacharatn
+   1   if d  r  0 
+   1   hexadecimal
+   1   const alpha  0123456789abcdef
+   1    Արեւմտահայերէն
+   1    Беларуская тарашкевіца‎
+   1    Українська
+   1    Македонски
+   1    Беларуская
+   1    Български
+   1    Ελληνικά
+   1    العربية
+   1    Հայերեն
+   1    Қазақша
+   1    Русский
+   1    Српски  srpski
+   1    മലയാളം
+   1    हिन्दी
+   1    ייִדיש
+   1    Монгол
+   1    தமிழ்
+   1    বাংলা
+   1    فارسی
+   1    עברית
+   1    اردو
+   1    한국어
+   1    日本語
+   1    ไทย
+   1    粵語
+   1    文言
+   1    吴语
+   1    中文
+   1    Āryabhaṭa
+   1    Čeština
+   1    Íslenska httpsiswikipediaorgwikisextc3a1nundakerfi
+   1    wikipedia store httpsshopwikimediaorg
+   1    wikimedia foundation httpswikimediafoundationorg	
+   1    wikimedia commons
+   1    wikidata item httpswwwwikidataorgwikispecialentitypageq82828
+   1    what links here
+   1    western arabic httpsenwikipediaorgwikiarabicnumerals
+   1    webarchive template wayback links
+   1    view history
+   1    vietnamese httpsenwikipediaorgwikivietnamesenumerals
+   1    verilog httpsenwikipediaorgwikiverilog represents
+   1    v httpsenwikipediaorgwikitemplatenumeralsystems
+   1    upload file httpsenwikipediaorgwikiwikipediafileuploadwizard
+   1    unix httpsenwikipediaorgwikinix and related shells att
+   1    türkçe
+   1    tiếng việt
+   1    ti89 httpsenwikipediaorgwikiti89 and 92 series uses a
+   1    this page was last edited on 28 september 2019 at 0017 utc
+   1    the symbols 09 and af are universal in hexadecimal notation so it
+   1    the swac httpsenwikipediaorgwikiswaccomputer 195013
+   1    the smalltalk httpsenwikipediaorgwikismalltalk language
+   1    the pacific data systems 1020 1964 used the letters l c a
+   1    the nec httpsenwikipediaorgwikinec parametron
+   1    the most common format for hexadecimal on ibm mainframes zseries
+   1    the monrobot xi httpsenwikipediaorgwikimonrobotxi 1960
+   1    the librascope lgp30 httpsenwikipediaorgwikilgp30 1956
+   1    the illiac i httpsenwikipediaorgwikiilliaci 1952
+   1    the honeywell httpsenwikipediaorgwikihoneywell datamatic
+   1    thai httpsenwikipediaorgwikithainumerals
+   1    text is available under the creative commons attributionsharealike
+   1    tamil httpsenwikipediaorgwikitamilnumerals
+   1    talk httpsenwikipediaorgwikitalkhexadecimal
+   1    talk httpsenwikipediaorgwikispecialmytalk
+   1    tagalog httpstlwikipediaorgwikihexadecimal
+   1    t httpsenwikipediaorgwikitemplatetalknumeralsystems
+   1    svenska httpssvwikipediaorgwikihexadecimalatalsystemet
+   1    suomi
+   1    srpskohrvatski  српскохрватски
+   1    special pages httpsenwikipediaorgwikispecialspecialpages
+   1    space efficiency is only 50 since each 4bit value from the
+   1    soviet programmable calculators
+   1    some assembly languages microchip use the notation habcd for
+   1    slovenščina
+   1    slovenčina
+   1    sinhala httpsenwikipediaorgwikisinhalanumerals
+   1    simple english httpssimplewikipediaorgwikihexadecimal
+   1    signeddigit representation
+   1    shqip httpssqwikipediaorgwikisistemiinumraveheksadecimal
+   1    sevensegment display
+   1    sesotho sa leboa
+   1    scots httpsscowikipediaorgwikihexadecimal
+   1    română httpsrowikipediaorgwikisistemhexazecimal
+   1    roman httpsenwikipediaorgwikiromannumerals
+   1    related changes
+   1    recent changes httpsenwikipediaorgwikispecialrecentchanges
+   1    read httpsenwikipediaorgwikihexadecimal
+   1    random article httpsenwikipediaorgwikispecialrandom
+   1    quipu httpsenwikipediaorgwikiquipu
+   1    privacy policy httpsfoundationwikimediaorgwikiprivacypolicy
+   1    printable version
+   1    prehistoric httpsenwikipediaorgwikiprehistoricnumerals
+   1    powered by mediawiki httpswwwmediawikiorg	
+   1    postscript httpsenwikipediaorgwikipostscript and the bourne
+   1    possible added complexity of having to accept both uppercase and
+   1    positional numeral systems
+   1    português
+   1    polski httpsplwikipediaorgwikiszesnastkowysystemliczbowy
+   1    permanent link
+   1    page information
+   1    oʻzbekchaўзбекча
+   1    other assembly languages 6502
+   1    not logged in
+   1    norsk nynorsk httpsnnwikipediaorgwikisekstentalssystemet
+   1    norsk httpsnowikipediaorgwikisekstentallsystemet
+   1    noninteger representation
+   1    new numeric symbols and names were introduced in the bibibinary
+   1    negative httpsenwikipediaorgwikinegativebase
+   1    nederlands httpsnlwikipediaorgwikihexadecimaal
+   1    muisca httpsenwikipediaorgwikimuiscanumerals
+   1    msx basic httpsenwikipediaorgwikimsxbasic9
+   1    most programming languages already have facilities to parse
+   1    mongolian httpsenwikipediaorgwikimongoliannumerals
+   1    mobile view
+   1    mixed httpsenwikipediaorgwikimixedradix
+   1    mirandés
+   1    mayan httpsenwikipediaorgwikimayanumerals
+   1    many cpu architectures have dedicated instructions that allow access
+   1    main page httpsenwikipediaorgwikimainpage
+   1    magyar httpshuwikipediaorgwikitizenhatosszc3a1mrendszer
+   1    log in
+   1    lingua franca nova httpslfnwikipediaorgwikisistemexadesimal
+   1    latviešu
+   1    latina httpslawikipediaorgwikisystemanumericumsedecimale
+   1    lao httpsenwikipediaorgwikilaoalphabetnumerals
+   1    la lojban httpsjbowikipediaorgwikijue28099upie28099e
+   1    kreyòl ayisyen httpshtwikipediaorgwikisistc3a8mekzadesimal
+   1    korean httpsenwikipediaorgwikikoreannumerals
+   1    khmer httpsenwikipediaorgwikikhmernumerals
+   1    kharosthi httpsenwikipediaorgwikikharosthinumerals
+   1    jawa httpsjvwikipediaorgwikihc3a8ksadc3a8simal
+   1    javanese httpsenwikipediaorgwikijavanesenumerals
+   1    japanese httpsenwikipediaorgwikijapanesenumerals
+   1    italiano httpsitwikipediaorgwikisistemanumericoesadecimale
+   1    inuit httpsenwikipediaorgwikikaktovikinupiaqnumerals
+   1    indian httpsenwikipediaorgwikiindiannumerals
+   1    in xml httpsenwikipediaorgwikixml and xhtml
+   1    in uris httpsenwikipediaorgwikiuri including urls
+   1    in the unicode httpsenwikipediaorgwikiunicode standard a
+   1    in mime httpsenwikipediaorgwikimime email extensions
+   1    in intelderived assembly languages
+   1    ibm hexadecimal floating point
+   1    hrvatski httpshrwikipediaorgwikiheksadekadskibrojevnisustav
+   1    hokkien httpsenwikipediaorgwikihokkiennumerals
+   1    hexspeak httpsenwikipediaorgwikihexspeak
+   1    hexadecimal time httpsenwikipediaorgwikihexadecimaltime
+   1    hexadecimal numeral system
+   1    hex editor httpsenwikipediaorgwikihexeditor
+   1    hex dump httpsenwikipediaorgwikihexdump
+   1    help httpsenwikipediaorgwikihelpcontents
+   1    hebrew httpsenwikipediaorgwikihebrewnumerals
+   1    gurmukhi httpsenwikipediaorgwikigurmukhinumerals
+   1    gujarati httpsenwikipediaorgwikigujaratinumerals
+   1    greek httpsenwikipediaorgwikigreeknumerals
+   1    globally unique identifiers
+   1    glagolitic
+   1    georgian httpsenwikipediaorgwikigeorgiannumerals
+   1    geez httpsenwikipediaorgwikige27ezscriptnumerals
+   1    galego httpsglwikipediaorgwikicc3b3digohexadecimal
+   1    gaeilge
+   1    frysk httpsfywikipediaorgwikiheksadesimaalsysteem
+   1    français httpsfrwikipediaorgwikisystc3a8mehexadc3a9cimal
+   1    featured content httpsenwikipediaorgwikiportalfeaturedcontent
+   1    factorial httpsenwikipediaorgwikifactorialnumbersystem
+   1    euskara httpseuwikipediaorgwikizenbakisistemahamaseitar
+   1    etruscan httpsenwikipediaorgwikietruscannumerals
+   1    esperanto httpseowikipediaorgwikideksesumanombrosistemo
+   1    español httpseswikipediaorgwikisistemahexadecimal
+   1    enable previews 
+   1    egyptian httpsenwikipediaorgwikiegyptiannumerals
+   1    eesti httpsetwikipediaorgwikikuueteistkc3bcmnendsc3bcsteem
+   1    edit
+   1    eastern arabic httpsenwikipediaorgwikieasternarabicnumerals
+   1    e
+   1    dzongkha httpsenwikipediaorgwikidzongkhanumerals
+   1    during the 1950s some installationswhich
+   1    download as pdf
+   1    donate to wikipedia
+   1    donald knuth httpsenwikipediaorgwikidonaldknuth introduced
+   1    disclaimers httpsenwikipediaorgwikiwikipediageneraldisclaimer
+   1    developers
+   1    deutsch httpsdewikipediaorgwikihexadezimalsystem
+   1    dansk httpsdawikipediaorgwikihexadecimaletalsystem
+   1    cyrillic httpsenwikipediaorgwikicyrillicnumerals
+   1    cymraeg httpscywikipediaorgwikihecsadegol
+   1    current events httpsenwikipediaorgwikiportalcurrentevents
+   1    create account
+   1    create a book
+   1    counting rods httpsenwikipediaorgwikicountingrods
+   1    cookie statement
+   1    contributions httpsenwikipediaorgwikispecialmycontributions
+   1    contents httpsenwikipediaorgwikiportalcontents
+   1    contact wikipedia httpsenwikipediaorgwikiwikipediacontactus
+   1    contact page httpsenwikipediaorgwikiwikipediacontactus
+   1    complexbase system
+   1    community portal
+   1    common lisp httpsenwikipediaorgwikicommonlisp uses the
+   1    color references httpsenwikipediaorgwikiwebcolors in html
+   1    cite this page
+   1    chuvash httpsenwikipediaorgwikichuvashnumerals
+   1    chinese httpsenwikipediaorgwikichinesenumerals
+   1    català httpscawikipediaorgwikisistemahexadecimal
+   1    bânlâmgú
+   1    burmese httpsenwikipediaorgwikiburmesenumerals
+   1    bruce alan martin of brookhaven national laboratory
+   1    brezhoneg httpsbrwikipediaorgwikidiazezc27hwezekred
+   1    brahmi httpsenwikipediaorgwikibrahminumerals
+   1    bosanski
+   1    binary arithmetic
+   1    bijective numeration
+   1    bengali httpsenwikipediaorgwikibengalinumerals
+   1    being exactly half a byte 4bits is easier to process than the 5 or
+   1    bbc basic httpsenwikipediaorgwikibbcbasic and locomotive
+   1    base32 httpsenwikipediaorgwikibase32 base64
+   1    balinese httpsenwikipediaorgwikibalinesenumerals
+   1    baileyborweinplouffe formula
+   1    bahasa melayu httpsmswikipediaorgwikinomborperenambelasan
+   1    bahasa indonesia httpsidwikipediaorgwikiheksadesimal
+   1    babylonian httpsenwikipediaorgwikibabyloniannumerals
+   1    azərbaycanca
+   1    attic httpsenwikipediaorgwikiatticnumerals
+   1    asymmetric numeral systems
+   1    articles with unsourced statements from august 2017
+   1    articles with specifically marked weaselworded phrases from august
+   1    articles to be merged from september 2019
+   1    article httpsenwikipediaorgwikihexadecimal
+   1    armenian httpsenwikipediaorgwikiarmeniannumerals
+   1    any ipv6 address httpsenwikipediaorgwikiipv6address can be
+   1    all articles with unsourced statements
+   1    all articles with specifically marked weaselworded phrases
+   1    all articles to be merged
+   1    algol 68 httpsenwikipediaorgwikialgol68 uses the prefix
+   1    afrikaans httpsafwikipediaorgwikiheksadesimalestelsel
+   1    aegean httpsenwikipediaorgwikiaegeannumerals
+   1    ada httpsenwikipediaorgwikiadaprogramminglanguage and
+   1    abjad httpsenwikipediaorgwikiabjadnumerals
+   1    8 references references
+   1    8 httpsenwikipediaorgwikioctal
+   1    7 see also seealso
+   1    60 httpsenwikipediaorgwikisexagesimal
+   1    6 httpsenwikipediaorgwikisenary
+   1    6 base16 transfer encoding base16transferencoding
+   1    5 httpsenwikipediaorgwikiquinary
+   1    5 cultural cultural
+   1    4 real numbers realnumbers
+   1    4 httpsenwikipediaorgwikiquaternarynumeralsystem
+   1    3 httpsenwikipediaorgwikiternarynumeralsystem
+   1    3 elementary arithmetic elementaryarithmetic
+   1    20 httpsenwikipediaorgwikivigesimal
+   1    2 httpsenwikipediaorgwikibinarynumber
+   1    2 conversion conversion
+   1    16
+   1    12 httpsenwikipediaorgwikiduodecimal
+   1    10002  810 
+   1    10 httpsenwikipediaorgwikidecimal
+   1    1 representation representation
+   1    01002  410
+   1    00102  210
+   1    00012  110
+   1     zabcd
+   1     y and z these are arbitrary markings other computers may use
+   1     x2019 represents the right single quotation mark  unicode
+   1     wwwicunicampbr retrieved 20190626
+   1     written as thirtytwo hexadecimal digits often in unequal
+   1     written as eight groups of four hexadecimal digits sometimes called
+   1     would write 0ffh instead of ffh
+   1     without modification since the latter takes  to prefix octal
+   1     windows powershell
+   1     window httpsenwikipediaorgwikixwindowsystem can be
+   1     which did not gain much acceptance12 citenotemartin196812
+   1     volume 2 isbn
+   1     vhdl httpsenwikipediaorgwikivhdl enclose hexadecimal
+   1     valid ipv6 address 20010db885a3000000008a2e03707334 this
+   1     usually written in decimal
+   1     uses the prefix 16r 16r5a3
+   1     used various schemes for outputting values above nine the texas
+   1     used to switch the reader and printer of a common lisp system to
+   1     used the symbols  l c Г e   space for the values
+   1     used the letters s t u v w and x for the values 10
+   1     used the letters f g j k q and w for the values 10
+   1     used instead of apostrophes
+   1     urbana illinois usa digital computer laboratory graduate
+   1     uppercase letters b c d e f and g for the values 10
+   1     unprefixed consecutive hexadecimal pairs aa213fd51b3801043fbc
+   1     unicode httpstddkuugdkjtc1sc2wg2docsn2677 dkuug
+   1     unicode httpsenwikipediaorgwikiunicode standard thus
+   1     typesetting
+   1     two embedded esc characters3 citenote3 to output an integer
+   1     traditional oss zos httpsenwikipediaorgwikizos zvse
+   1     tottonidirectcom retrieved 20190626
+   1     to each of these combinations we arrive at a notation called
+   1     to a halfbyte otherwise known as a nibble
+   1     to 1516 citenoterp1957lgp3016 13
+   1     thus hexadecimal numbers can be represented without the x or 16r
+   1     they can be used interchangeable in present or future designs to
+   1     theorem ballantine p 91 isbn
+   1     their codes as two hexadecimal digits in ascii prefixed by an
+   1     the use of a particular typeface to represent a particular radix in
+   1     the source code of the book in tex
+   1     the preparation of problems for solution by the university of
+   1     the prefix x followed by two hex digits x1b represents the
+   1     the open group base specifications issue 7 ieee std 10031 2013
+   1     the notation xcode where the x denotes that code is a
+   1     the lowercase letters b c d e f and g whereas the
+   1     terms of use httpsfoundationwikimediaorgwikitermsofuse
+   1     system i httpsenwikipediaorgwikiibmsystemi running the
+   1     syntactic descendants such as c
+   1     standardizing retrieved october 28 2018
+   1     standard  programming languages  c
+   1     somewhat odd sequence was from the next six sequential numeric
+   1     soc vol xxiv
+   1     sn74246sn74247sn74ls247sn74ls248
+   1     sixteen different numbers zero to fifteen by assigning a symbol
+   1     shell httpsenwikipediaorgwikibourneshell and its
+   1     sexadecimal usually hex in conversation because nobody wants to
+   1     see alsoedit
+   1     s m and d for the values 10 to 1513
+   1     return tocharr
+   1     retrieved october 28 2018
+   1     retrieved 20190826
+   1     retrieved 20190626
+   1     retrieved 20060111
+   1     retrieved 1 november 2015
+   1     respectively
+   1     representations are written there in a typewriter typeface 5a3
+   1     representationedit
+   1     referencesedit
+   1     real numbersedit
+   1     quotedprintable httpsenwikipediaorgwikiquotedprintable
+   1     quadibloc the early days of hexadecimal archived
+   1     proposed an entirely new set of symbols based on the bit locations
+   1     proposal for addition of the six hexadecimal digits af to
+   1     pronunciation guide datamation 14 1 45
+   1     programming
+   1     programmers reference manual
+   1     primarily uses o to prefix octal and it uses h to prefix
+   1     prefixes x and 16r setting the variables readbase7
+   1     prefix code when the input or output base has been changed to 16
+   1     philadelphia 1887 pages 296366 see pages 317 and 322
+   1     pharmaceutical association 8th annual session boston sept 15
+   1     pdf tokyo japan nippon electric company ltd
+   1     pdf texas instruments
+   1     pdf open standards 510 april 2003 pp 52 153154 159
+   1     pdf los angeles ca usa bendix computer
+   1     pdf from the original on 20170601 retrieved 20170601 this
+   1     pdf from the original on 20170531 retrieved 20170531
+   1     pdf from the original on 20170531 retrieved 20141218
+   1     pdf from the original on 20170329 retrieved 20170330 
+   1     pdf from the original on 20160606 retrieved 20101017
+   1     pdf bitsaversorg fourth printing revised and corrected ed
+   1     original data will be encoded as an 8bit byte in contrast base32
+   1     or 05a3h some implementations require a leading zero when the
+   1     offer designers a choice between two indicator fonts the 46a
+   1     of macros ctanorg
+   1     of basic httpsenwikipediaorgwikibasic commodore
+   1     of 2 3 4 5 and 6 for the values 10 to 14 value 15
+   1     obsolete ibm systems as well occasionally quotation marks were
+   1     numerals in based numeric quotes 165a3 for bit vector
+   1     numbers with h h5a3
+   1     numbers strings and expressions
+   1     notation x5a36 citenote6
+   1     notation did not become very popular
+   1     new system of arithmetic weight measure and coins proposed to be
+   1     navigation menu
+   1     microsoft basic httpsenwikipediaorgwikimicrosoftbasic
+   1     mathematics an etymological dictionary of mathematical terms used
+   1     lowercase letters
+   1     lower case n with tilde in the isoiec 88591 character set4
+   1     lookup table
+   1     lippincott
+   1     license
+   1     letters to the editor on binary notation communications of the
+   1     lapointe httpsenwikipediaorgwikibobylapointe in 1968 this
+   1     keyboard codes in the lgp30
+   1     javascript httpsenwikipediaorgwikijavascript python
+   1     iso isoorg 20111208 retrieved 20140408
+   1     is easily understood at a glance without needing to rely on a symbol
+   1     is available online on ctan httpsenwikipediaorgwikictan
+   1     is a registered trademark of the wikimedia foundation inc
+   1     ipv4 addresses httpsenwikipediaorgwikiipv4address are
+   1     instruments 7446744774487449 and 74246742477424874249
+   1     input counts above 9 are unique symbols to authenticate input
+   1     in hex 32 in decimal
+   1     in hardware than base32 and base64
+   1     in english isbn
+   1     illinois digital computer
+   1     i httpsenwikipediaorgwikiibmi is x5a3 and is used in
+   1     hyphenseparated groupings for example
+   1     httpwwwwebcolorsexplainedcomhexphp on 20060422
+   1     httpwwwtextfilescombitsaverspdfilliacilliacilliacprogrammingsep56pdf
+   1     httpwwwralphselectronicscomproductimagessemisn74247npdf
+   1     httpwwwopenstdorgjtc1sc22wg14wwwc99rationalev510pdf
+   1     httpwwwlispworkscomdocumentationhyperspecbodyvrdbashtm clhs
+   1     httpwwwlispworkscomdocumentationhyperspecbodyvprbashtmstprintbasest
+   1     httpwwwisoorgisoisocataloguecatalogueicscataloguedetailicshtmcsnumber29237
+   1     httpwwwintuitorcomhexwordshtml intuitor retrieved
+   1     httpwwwintuitorcomhex intuitor retrieved october 28 2018
+   1     httpwwwhauptmechcombase42 hauptmech
+   1     httpwwwexamplecomname20with20spaces where 20 is the
+   1     httpwwwengauburnedudepartmenteemgcvhdlhtmlnumbers
+   1     httpwwwctanorgtexarchivesystemsknuthtextexbooktex
+   1     httpwwwatarimagazinescomcomputeissue561071msxiscomingphp
+   1     httpszhyuewikipediaorgwikie58d81e585ade980b2e588b6
+   1     httpszhwikipediaorgwikie58d81e585ade8bf9be588b6
+   1     httpszhminnanwikipediaorgwikichacc8dplacc8dkchc3acnhoat
+   1     httpszhclassicalwikipediaorgwikie58d81e585ade980b2e588b6
+   1     httpsyiwikipediaorgwikid794d7a2d7a7d7a1d790d793d7a2d7a6d799d79ed790d79cd7a1d799d7a1d798d7a2d79d
+   1     httpswwwwikimediafoundationorg a nonprofit organization
+   1     httpswwwunicodeorgchartspdfu2000pdf pdf unicode
+   1     httpswwwmediawikiorgwikispecialmylanguagehowtocontribute
+   1     httpswwwicunicampbrstolfiexportwwwiso88591encodinghtml
+   1     httpswwwbzargcomphowtopronouncehexadecimal bzarg
+   1     httpswuuwikipediaorgwikie58d81e585ade8bf9be588b6
+   1     httpswebarchiveorgweb20180716102439httpwwwquadibloccomcompcp02htm
+   1     httpswebarchiveorgweb20170601222212httpbitsaverstrailingedgecompdfbendixg15g15dprogrammersrefmanpdf
+   1     httpswebarchiveorgweb20170531153804httpwwwtextfilescombitsaverspdfilliacilliacilliacprogrammingsep56pdf
+   1     httpswebarchiveorgweb20170531153004httpedthelenorgcomphistlgp30manhtml
+   1     httpswebarchiveorgweb20170531112850httparchivecomputerhistoryorgresourcestextnecnec11031958102646285pdf
+   1     httpswebarchiveorgweb20170329223343httpwwwralphselectronicscomproductimagessemisn74247npdf
+   1     httpswebarchiveorgweb20160621211105httppubsopengrouporgonlinepubs9699919799functionsprintfhtml
+   1     httpswebarchiveorgweb20160606072228httpwwwopenstdorgjtc1sc22wg14wwwc99rationalev510pdf
+   1     httpswebarchiveorgweb20071226170804httpengauburnedudepartmenteemgcvhdlhtmlnumbers
+   1     httpswebarchiveorgweb20070927224129httpwwwctanorgtexarchivesystemsknuthtextexbooktex
+   1     httpswebarchiveorgweb20060422004336httpwwwwebcolorsexplainedcomhexphp
+   1     httpsviwikipediaorgwikihe1bb87the1baadple1bba5cphc3a2n
+   1     httpsuzwikipediaorgwikiocabbnoltiliksanoqsistemasi
+   1     httpsurwikipediaorgwikid8a7d8b3d8a7d8b3d8b3d988d984db81daa9d8a7d986d8b8d8a7d985
+   1     httpsukwikipediaorgwikid0a8d196d181d182d0bdd0b0d0b4d186d18fd182d0bad0bed0b2d0b0d181d0b8d181d182d0b5d0bcd0b0d187d0b8d181d0bbd0b5d0bdd0bdd18f
+   1     httpstrwikipediaorgwikionaltc4b1lc4b1sayc4b1sistemi
+   1     httpsthwikipediaorgwikie0b980e0b8a5e0b882e0b890e0b8b2e0b899e0b8aae0b8b4e0b89ae0b8abe0b881
+   1     httpstawikipediaorgwikie0aeaae0aea4e0aebfe0aea9e0aeb1e0af81e0aeaee0ae8ee0aea3e0af8de0aeaee0af81e0aeb1e0af88e0aeaee0af88
+   1     httpssrwikipediaorgwikid0a5d0b5d0bad181d0b0d0b4d0b5d186d0b8d0bcd0b0d0bbd0bdd0b8d181d0b8d181d182d0b5d0bc
+   1     httpsslwikipediaorgwikic5a0estnajstic5a1kic5a1tevilskisistem
+   1     httpsskwikipediaorgwikic5a0estnc3a1stkovc3a1sc3bastava
+   1     httpsshwikipediaorgwikiheksadecimalnisistem
+   1     httpsruwikipediaorgwikid0a8d0b5d181d182d0bdd0b0d0b4d186d0b0d182d0b5d180d0b8d187d0bdd0b0d18fd181d0b8d181d182d0b5d0bcd0b0d181d187d0b8d181d0bbd0b5d0bdd0b8d18f
+   1     httpsptwikipediaorgwikisistemadenumerac3a7c3a3ohexadecimal
+   1     httpsnsowikipediaorgwikiletlaselalesometshela
+   1     httpsmwlwikipediaorgwikisistemadenumerac3a7onheixadecimal
+   1     httpsmnwikipediaorgwikid090d180d0b2d0b0d0bdd0b7d183d180d0b3d0b0d0b0d182d18bd0bdd182d0bed0bed0bbd0bbd18bd0bdd181d0b8d181d182d0b5d0bc
+   1     httpsmlwikipediaorgwikie0b4b7e0b58be0b4a1e0b4b6e0b4b8e0b482e0b496e0b58de0b4afe0b4bee0b4b8e0b4aee0b58de0b4aae0b58de0b4b0e0b4a6e0b4bee0b4afe0b482
+   1     httpsmkwikipediaorgwikid0a8d0b5d181d0bdd0b0d0b5d181d0b5d182d0b5d180d0b5d187d0b5d0bdd0b1d180d0bed0b5d0bdd181d0b8d181d182d0b5d0bc
+   1     httpsmathvaultcalongdivision math vault 20190224
+   1     httpslvwikipediaorgwikiheksadecimc481lc481skaitc4abc5a1anassistc493ma
+   1     httpskowikipediaorgwikiec8badec9ca1eca784ebb295
+   1     httpskkwikipediaorgwikid0a1d0b0d0bdd0b0d183d0b4d18bd2a3d0bed0bdd0b0d0bbd182d18bd0bbd18bd29bd0b6d2afd0b9d0b5d181d196
+   1     httpsjawikipediaorgwikineac 1960 used the letters d
+   1     httpsjawikipediaorgwikie58d81e585ade980b2e6b395
+   1     httpshywwikipediaorgwikid58fd5a1d5bdd5b6d5bed5a5d681d5a1d5b5d5abd5b6d5b0d5a1d5b4d5a1d5afd5a1d680d5a3
+   1     httpshywikipediaorgwikid580d5a1d5b7d5bed5a1d680d5afd5b4d5a1d5b6d5bfd5a1d5bdd5b6d5bed5a5d681d5a1d5afd5a1d5b6d5b0d5a1d5b4d5a1d5afd5a1d680d5a3
+   1     httpshiwikipediaorgwikie0a4b9e0a587e0a495e0a58de0a4b8e0a4bee0a4a1e0a587e0a4b8e0a4bfe0a4aee0a4b2e0a4b7e0a58be0a4a1e0a4b6e0a486e0a4a7e0a4bee0a4b0e0a580
+   1     httpshewikipediaorgwikid791d7a1d799d7a1d794d7a7d7a1d793d7a6d799d79ed79cd799
+   1     httpsgawikipediaorgwikicc3b3dc3baheicsidheachc3balach
+   1     httpsfoundationwikimediaorgwikiprivacypolicy wikipedia
+   1     httpsfoundationwikimediaorgwikicookiestatement
+   1     httpsfiwikipediaorgwikiheksadesimaalijc3a4rjestelmc3a4
+   1     httpsfawikipediaorgwikid8afd8b3d8aadaafd8a7d987d8a7d8b9d8afd8a7d8afd9bed8a7db8cd987dbb1dbb6
+   1     httpsenwikipediaorgwindexphptitletemplatenumeralsystemsactionedit
+   1     httpsenwikipediaorgwindexphptitlespecialuserloginreturntohexadecimal
+   1     httpsenwikipediaorgwindexphptitlespecialelectronpdfpagehexadecimalactionshowdownloadscreen
+   1     httpsenwikipediaorgwindexphptitlespecialcreateaccountreturntohexadecimal
+   1     httpsenwikipediaorgwindexphptitlespecialcitethispagepagehexadecimalid918298811
+   1     httpsenwikipediaorgwindexphptitlespecialbookbookcmdbookcreatorrefererhexadecimal
+   1     httpsenwikipediaorgwindexphptitleneac1103actioneditredlink1 ja
+   1     httpsenwikipediaorgwindexphptitlehexadecimalprintableyes
+   1     httpsenwikipediaorgwindexphptitlehexadecimaloldid918298811
+   1     httpsenwikipediaorgwindexphptitlehexadecimalactioninfo
+   1     httpsenwikipediaorgwindexphptitlehexadecimalactionhistory
+   1     httpsenwikipediaorgwindexphptitlehexadecimalactioneditsection8
+   1     httpsenwikipediaorgwindexphptitlehexadecimalactioneditsection25
+   1     httpsenwikipediaorgwindexphptitlehexadecimalactioneditsection24
+   1     httpsenwikipediaorgwindexphptitlehexadecimalactioneditsection23
+   1     httpsenwikipediaorgwindexphptitlehexadecimalactioneditsection19
+   1     httpsenwikipediaorgwindexphptitlehexadecimalactioneditsection15
+   1     httpsenwikipediaorgwindexphptitlehexadecimalactioneditsection14
+   1     httpsenwikipediaorgwindexphptitlehexadecimalactioneditsection1
+   1     httpsenwikipediaorgwindexphptitlehexadecimalactionedit
+   1     httpsenwikipediaorgwikizvm tpf
+   1     httpsenwikipediaorgwikizseries and midrange computers ibm
+   1     httpsenwikipediaorgwikixhtml characters can be expressed
+   1     httpsenwikipediaorgwikiwindowspowershell use the prefix
+   1     httpsenwikipediaorgwikiwikipediatextofcreativecommonsattributionsharealike30unportedlicensehttpscreativecommonsorglicensesbysa30
+   1     httpsenwikipediaorgwikiwikipediacommunityportal
+   1     httpsenwikipediaorgwikiwikipediacitationneeded
+   1     httpsenwikipediaorgwikiwikipediaavoidweaselwords
+   1     httpsenwikipediaorgwikiwaybackmachine and a required set
+   1     httpsenwikipediaorgwikiwaybackmachine
+   1     httpsenwikipediaorgwikivseoperatingsystem zvm
+   1     httpsenwikipediaorgwikivisualbasic prefix hexadecimal
+   1     httpsenwikipediaorgwikiurl character codes
+   1     httpsenwikipediaorgwikiuniversityofillinois pp 32
+   1     httpsenwikipediaorgwikiunarynumeralsystem
+   1     httpsenwikipediaorgwikitransactionprocessingfacility ibm
+   1     httpsenwikipediaorgwikitheartofcomputerprogramming
+   1     httpsenwikipediaorgwikitexasinstruments march 1988 march
+   1     httpsenwikipediaorgwikispecialwhatlinksherehexadecimal
+   1     httpsenwikipediaorgwikispecialrecentchangeslinkedhexadecimal
+   1     httpsenwikipediaorgwikispecialbooksources9780007289981
+   1     httpsenwikipediaorgwikispecialbooksources0883855119
+   1     httpsenwikipediaorgwikispecialbooksources0201134489
+   1     httpsenwikipediaorgwikispecialbooksources0201038021
+   1     httpsenwikipediaorgwikispacepunctuationspacecharactersanddigitaltypography
+   1     httpsenwikipediaorgwikisigneddigitrepresentation
+   1     httpsenwikipediaorgwikisevensegmentdisplay decoder chips
+   1     httpsenwikipediaorgwikiroyalmcbeecorporation april 1957
+   1     httpsenwikipediaorgwikiquickbasic freebasic
+   1     httpsenwikipediaorgwikiquaterimaginarybase
+   1     httpsenwikipediaorgwikipythonprogramminglanguage and
+   1     httpsenwikipediaorgwikiprogrammablecalculator Б334
+   1     httpsenwikipediaorgwikiprintf function family the format
+   1     httpsenwikipediaorgwikipixel can be expressed as
+   1     httpsenwikipediaorgwikipascalprogramminglanguage
+   1     httpsenwikipediaorgwikiparametron computer neac 1103
+   1     httpsenwikipediaorgwikioverline to denote the values 1015
+   1     httpsenwikipediaorgwikioctal values microsoft basic
+   1     httpsenwikipediaorgwikinumericcharacterreference using
+   1     httpsenwikipediaorgwikinonintegerrepresentation φ
+   1     httpsenwikipediaorgwikinipponelectriccompanyltd 1960
+   1     httpsenwikipediaorgwikinibble making it more efficient
+   1     httpsenwikipediaorgwikimotorola pascal
+   1     httpsenwikipediaorgwikimostechnology6502 motorola
+   1     httpsenwikipediaorgwikilgp30s 6bit character code
+   1     httpsenwikipediaorgwikijobcontrollanguage scripts
+   1     httpsenwikipediaorgwikijavaprogramminglanguage
+   1     httpsenwikipediaorgwikiinternationalstandardbooknumber 9780007289981
+   1     httpsenwikipediaorgwikiinternationalstandardbooknumber 0883855119
+   1     httpsenwikipediaorgwikiinternationalstandardbooknumber 0201134489
+   1     httpsenwikipediaorgwikiinternationalstandardbooknumber 0201038021
+   1     httpsenwikipediaorgwikiibmhexadecimalfloatingpoint
+   1     httpsenwikipediaorgwikigoldenratiobase
+   1     httpsenwikipediaorgwikigodotgameengine and forth
+   1     httpsenwikipediaorgwikigloballyuniqueidentifier are
+   1     httpsenwikipediaorgwikigamemakerstudio godot
+   1     httpsenwikipediaorgwikifreebasic and visual basic
+   1     httpsenwikipediaorgwikifortran95languagefeatures uses
+   1     httpsenwikipediaorgwikiforthprogramminglanguage use 
+   1     httpsenwikipediaorgwikieurosign 
+   1     httpsenwikipediaorgwikielektronikab334 1980 and similar
+   1     httpsenwikipediaorgwikidprogramminglanguage java
+   1     httpsenwikipediaorgwikidigitalobjectidentifier101145364096364107
+   1     httpsenwikipediaorgwikicyrillicnumeralsglagoliticnumerals
+   1     httpsenwikipediaorgwikicsharpprogramminglanguage d
+   1     httpsenwikipediaorgwikicprogramminglanguage and its
+   1     httpsenwikipediaorgwikicomputersandtypesetting volume
+   1     httpsenwikipediaorgwikicomplexbasesystem 2i
+   1     httpsenwikipediaorgwikicommunicationsoftheacm he
+   1     httpsenwikipediaorgwikicommodorebasic gamemaker language
+   1     httpsenwikipediaorgwikicobol jcl
+   1     httpsenwikipediaorgwikicharacterencoding are written as
+   1     httpsenwikipediaorgwikicategorywebarchivetemplatewaybacklinks
+   1     httpsenwikipediaorgwikicategorypositionalnumeralsystems
+   1     httpsenwikipediaorgwikicategoryhexadecimalnumeralsystem
+   1     httpsenwikipediaorgwikicategorybinaryarithmetic
+   1     httpsenwikipediaorgwikicategoryarticleswithunsourcedstatementsfromaugust2017
+   1     httpsenwikipediaorgwikicategoryarticleswithspecificallymarkedweaselwordedphrasesfromaugust2017
+   1     httpsenwikipediaorgwikicategoryarticlestobemergedfromseptember2019
+   1     httpsenwikipediaorgwikicategoryallarticleswithunsourcedstatements
+   1     httpsenwikipediaorgwikicategoryallarticleswithspecificallymarkedweaselwordedphrases
+   1     httpsenwikipediaorgwikicategoryallarticlestobemerged
+   1     httpsenwikipediaorgwikic480ryabhae1b9adanumeration
+   1     httpsenwikipediaorgwikic2b2b c
+   1     httpsenwikipediaorgwikibrookhavennationallaboratory
+   1     httpsenwikipediaorgwikibijectivenumeration 1
+   1     httpsenwikipediaorgwikibibibinary notation by boby
+   1     httpsenwikipediaorgwikibendixg15 195614
+   1     httpsenwikipediaorgwikibendixcomputer division of bendix
+   1     httpsenwikipediaorgwikibendixaviationcorporation p 4
+   1     httpsenwikipediaorgwikibase64 content encoding schemes
+   1     httpsenwikipediaorgwikibaileye28093borweine28093plouffeformula
+   1     httpsenwikipediaorgwikiat26tcorporation assembly language
+   1     httpsenwikipediaorgwikiasymmetricnumeralsystems
+   1     httpsenwikipediaorgwikiassociateduniversitiesinc 11
+   1     httpsenwikipediaorgwikiassemblylanguage and modula25
+   1     httpsenwikipediaorgwikiascii characters are represented by
+   1     httpsenwikipediaorgwikiansiescapecode that reset the
+   1     httpsenwikipediaorgwiki7400series use truncated versions
+   1     httpsenmwikipediaorgwindexphptitlehexadecimalmobileactiontoggleviewmobile
+   1     httpselwikipediaorgwikice94ceb5cebaceb1ceb5cebeceb1ceb4ceb9cebacf8ccf83cf8dcf83cf84ceb7cebcceb1ceb1cf81ceafceb8cebcceb7cf83ceb7cf82
+   1     httpsdonatewikimediaorgwikispecialfundraiserredirectorutmsourcedonateutmmediumsidebarutmcampaignc13enwikipediaorguselangen
+   1     httpsdoiorg1011452f364096364107
+   1     httpscswikipediaorgwikic5a0estnc3a1ctkovc3a1soustava
+   1     httpscommonswikimediaorgwikicategoryhexadecimal
+   1     httpsbswikipediaorgwikiheksadecimalninumeric48dkisistem
+   1     httpsbooksgooglecombooksidx7wlaaaayaajpgpp5
+   1     httpsbooksgooglecombooksidksauaaaayaajpgpa296
+   1     httpsbooksgooglecombooksidanygaaaayaaj philadelphia
+   1     httpsbnwikipediaorgwikie0a6b7e0a78be0a6a1e0a6bce0a6b6e0a6bfe0a695e0a6b8e0a682e0a696e0a78de0a6afe0a6bee0a6aae0a6a6e0a78de0a6a7e0a6a4e0a6bf
+   1     httpsbgwikipediaorgwikid0a8d0b5d181d182d0bdd0b0d0b9d181d0b5d182d0b8d187d0bdd0b0d0b1d180d0bed0b9d0bdd0b0d181d0b8d181d182d0b5d0bcd0b0
+   1     httpsbexoldwikipediaorgwikid0a8d0b0d181d0bdd0b0d186d186d0b0d182d0bad0bed0b2d0b0d18fd181d18bd181d182d18dd0bcd0b0d0b7d18cd0bbd196d187d18dd0bdd18cd0bdd18f
+   1     httpsbewikipediaorgwikid0a8d0b0d181d0bdd0b0d186d186d0b0d182d0bad0bed0b2d0b0d18fd181d196d181d182d18dd0bcd0b0d0b7d0bbd196d187d18dd0bdd0bdd18f
+   1     httpsazwikipediaorgwikionaltc4b1lc4b1qsaysistemi
+   1     httpsarwikipediaorgwikid986d8b8d8a7d985d8b9d8afd8b3d8aad8a9d8b9d8b4d8b1d98a
+   1     httppubsopengrouporgonlinepubs9699919799functionsprintfhtml
+   1     httpmodula2orgreferencevocabularyphp modula 2
+   1     httpedthelenorgcomphistlgp30manhtmlr413 port
+   1     httpbitsaverstrailingedgecompdfbendixg15g15dprogrammersrefmanpdf
+   1     httparchivecomputerhistoryorgresourcestextnecnec11031958102646285pdf
+   1     his book the texbook11 citenote11 hexadecimal
+   1     hextets httpsenwikipediaorgwikihextetcomputing where
+   1     hexadecimal pairs prefixed with 
+   1     hexadecimal number representation for reading and printing numbers
+   1     hexadecimal f1 equal to decimal 241 is the code number for the
+   1     hexadecimal constants in the form 8hff where 8 is the number of
+   1     hexadecimal but the ampersand alone yields a default interpretation
+   1     hex10 citenote10
+   1     hex code point of 1 to 6digits assigned to the character in the
+   1     g h j k and possibly v for values 101517
+   1     ftptugctanorgpubtexarchivesystemsknuthlibmanmactex
+   1     from the original on 20180716 retrieved 20180716
+   1     from the original on 20170531 retrieved 20170531nb this
+   1     from the original on 20160621 retrieved 20160621
+   1     formatted output
+   1     for the values 10 to 1515 citenoteilliaci15 13
+   1     for the values 10 to 15
+   1     first hexadecimal digit character is not a decimal digit so one
+   1     favored using the digits 0 through 5 with an overline
+   1     fa3 abbreviates ffaa33 a golden orange     
+   1     expressed with six hexadecimal digits two each for the red green
+   1     example is represented as ffffff2 citenote2 css also
+   1     escape sequences used on an ansi terminal
+   1     esc httpsenwikipediaorgwikiescapecharacter control
+   1     equal to sign  as in espaf1a to send españa spain
+   1     encoding characters that cannot be represented as literal ascii
+   1     elementary arithmeticedit
+   1     elbit httpsenwikipediaorgwikielbit 100 1967 used the
+   1     eg u20ac is the euro sign
+   1     editor of the cacm
+   1     ed archived
+   1     each group is separated by a colon  this for example is a
+   1     e nash j p robertson j e shapin t whesler d j
+   1     division and its variants  for integers
+   1     different alphabet characters for these last six digits
+   1     derivatives denote hex with prefix 16 165a3 for postscript
+   1     delphi httpsenwikipediaorgwikiobjectpascal some versions
+   1     decodersdrivers sn54246sn54247sn54ls247 sn54ls248
+   1     decimal digits and on the g15 typewriter the letters u v w x
+   1     d1000 httpsenwikipediaorgwikidatamaticd1000 1957 used
+   1     culturaledit
+   1     css httpsenwikipediaorgwikicascadingstylesheets and x
+   1     conversionedit
+   1     conversion code x or x is used
+   1     constants vhdl httpsenwikipediaorgwikivhdl uses the
+   1     considered the choice of af ridiculous in a 1968 letter to the
+   1     conditions 
+   1     computers used the lowercase letters u v w x y and z
+   1     computer used the uppercase letters k s n j f and l
+   1     computer type neac1103
+   1     computer lgp  30 programming manual
+   1     computer arithmetic httpwwwquadibloccomcompcp02htm
+   1     compute httpsenwikipediaorgwikicompute issue 56 january
+   1     composition of all other characters including display patterns for
+   1     commands and other places this format was common on other and now
+   1     college university of illinois
+   1     code point number 2019 in hex 8217 thus 8217 in decimal1
+   1     code for the space blank
+   1     clhs
+   1     citerefsavard2018ca136 savard john j g 2018 2005
+   1     citerefsavard2018ca135 g
+   1     citerefsavard2018ca134 f
+   1     citerefsavard2018ca133 e
+   1     citerefsavard2018ca132 d
+   1     citerefsavard2018ca131 c
+   1     citerefnystrom351 nystrom john william 1862 project of a
+   1     citerefmartin1968121 martin bruce alan october 1968
+   1     citenotesavard2018ca13 and bendix g15
+   1     citenotenec1960neac110317
+   1     citenotebendix14 13 citenotesavard2018ca13
+   1     citenote9 quickbasic
+   1     citenote7 and printbase8 citenote8 to 16 can also be
+   1     citenote5 hexadecimal is denoted with a suffixed h or h ffh
+   1     citenote4 
+   1     citenote1
+   1     chinese abacus httptottonidirectcomsorobanhexas
+   1     chester new york royal mcbee corporation
+   1     characters plus a trailing nul to mark the end of the string with
+   1     character x1b0mx1b251h is a string containing 11
+   1     character value is represented with u followed by the hex value
+   1     character set and color and then move the cursor to line 25
+   1     character sequence esc  0 m esc  2 5  1 h nul these are the
+   1     character ascii httpsenwikipediaorgwikiascii code point 20
+   1     chapter 17
+   1     cat no 3405c archived
+   1     can be abbreviated as 2001db885a38a2e3707334 by contrast
+   1     called the tonal system with sixteen to the base
+   1     bits in the value and ff is the hexadecimal constant
+   1     binary data such as image pixels
+   1     bcd inputs above nine is identical  display patterns for bcd
+   1     bbp
+   1     basic httpsenwikipediaorgwikilocomotivebasic use  for
+   1     base4 and octal numbers can be specified similarly
+   1     base16 transfer encodingedit
+   1     base is used because a group of four bits can represent any one of
+   1     balanced ternary httpsenwikipediaorgwikibalancedternary
+   1     aviation corporation
+   1     associated universities inc
+   1     assembler pli httpsenwikipediaorgwikipli cobol
+   1     asciiencoded hexadecimal
+   1     as hexadecimal with the printf
+   1     as hexadecimal numeric character references
+   1     as an octal prefix
+   1     as a prefix 5a3
+   1     as 0 1 2 3 4 and 5
+   1     archived from the original
+   1     application to a system of weights and measures proc amer phil
+   1     and string constants may express character codes in hexadecimal with
+   1     and privacy policy
+   1     and likewise the c programming language
+   1     and blue components in that order prefixed with  white for
+   1     and base64 encodings have a space efficiency of 63 and 75
+   1     allows 3hexdigit abbreviations with one hexdigit per component
+   1     additional terms may apply by using this site you agree to the
+   1     acm httpsenwikipediaorgwikicommunicationsoftheacm
+   1     abcd16  similarly fortran 95
+   1     abbreviate sex the symbols in the sexadecimal language are the ten
+   1     a reading massachusetts addisonwesley 1984 isbn
+   1     69 more
+   1     6 bits of base32 and base64 respectively
+   1     47a ls47 and ls48 compose the 6 and the 9 without tails and the
+   1     3f2504e04f8941d39a0c0305e82c3301
+   1     246 247 ls247 and ls248 compose the 6 and the 0 with tails
+   1     20190826
+   1     2017
+   1     20071226 at the wayback machine
+   1     20070927 at the wayback machine
+   1     2001 dprintf fprintf printf snprintf sprintf  print
+   1     1985 p 52
+   1     1974 sdls083 archived
+   1     19560901 nash j p ed illiac programming  a guide to
+   1     1859 see pages and 33 and 41
+   1     16r to denote hexadecimal numbers 16r5a3 binary quaternary
+   1     1111 binary was blank18 citenotetibcd7segdec18 
+   1     10 to 15 on their displayscitation needed
+   1     10 658 doi
+   1     0x for numeric constants represented in hex 0x5a3 character
+   1     0h prefix 0h5a3
+   1       written representationedit
+   1       verbal and digital representationsedit
+   1       variants
+   1       use in chinese cultureedit
+   1       tools for conversionedit
+   1       tools
+   1       signsedit
+   1       search
+   1       rational numbersedit
+   1       printexport
+   1       primary numeral systemedit
+   1       powersedit
+   1       other simple conversionsedit
+   1       o suzhou httpsenwikipediaorgwikisuzhounumerals
+   1       o 53 primary numeral system primarynumeralsystem
+   1       o 52 use in chinese culture useinchineseculture
+   1       o 51 etymology etymology
+   1       o 43 powers powers
+   1       o 42 irrational numbers irrationalnumbers
+   1       o 41 rational numbers rationalnumbers
+   1       o 25 tools for conversion toolsforconversion
+   1       o 24 conversion through addition and multiplication
+   1       o 23 divisionremainder in source base
+   1       o 22 other simple conversions othersimpleconversions
+   1       o 21 binary conversion binaryconversion
+   1       o 15 hexadecimal exponential notation
+   1       o 14 signs signs
+   1       o 13 verbal and digital representations
+   1       o 12 history of written representations
+   1       o 11 written representation writtenrepresentation
+   1       more
+   1       languages
+   1       irrational numbersedit
+   1       interaction
+   1       in other projects
+   1       httpsenwikipediaorgwindexphptitlehexadecimalactioneditsection9
+   1       httpsenwikipediaorgwindexphptitlehexadecimalactioneditsection7
+   1       httpsenwikipediaorgwindexphptitlehexadecimalactioneditsection6
+   1       httpsenwikipediaorgwindexphptitlehexadecimalactioneditsection5
+   1       httpsenwikipediaorgwindexphptitlehexadecimalactioneditsection4
+   1       httpsenwikipediaorgwindexphptitlehexadecimalactioneditsection22
+   1       httpsenwikipediaorgwindexphptitlehexadecimalactioneditsection21
+   1       httpsenwikipediaorgwindexphptitlehexadecimalactioneditsection20
+   1       httpsenwikipediaorgwindexphptitlehexadecimalactioneditsection2
+   1       httpsenwikipediaorgwindexphptitlehexadecimalactioneditsection18
+   1       httpsenwikipediaorgwindexphptitlehexadecimalactioneditsection17
+   1       httpsenwikipediaorgwindexphptitlehexadecimalactioneditsection16
+   1       httpsenwikipediaorgwindexphptitlehexadecimalactioneditsection13
+   1       httpsenwikipediaorgwindexphptitlehexadecimalactioneditsection12
+   1       httpsenwikipediaorgwindexphptitlehexadecimalactioneditsection11
+   1       httpsenwikipediaorgwindexphptitlehexadecimalactioneditsection10
+   1       history of written representationsedit
+   1       hexadecimal exponential notationedit
+   1       etymologyedit
+   1       divisionremainder in source baseedit
+   1       conversion through addition and multiplicationedit
+   1       binary conversionedit
+   1         verbalanddigitalrepresentations
+   1         using 09 and afedit
+   1         httpsenwikipediaorgwindexphptitlehexadecimalactioneditsection3
+   1         historyofwrittenrepresentations
+   1         hexadecimalexponentialnotation
+   1         divisionremainderinsourcebase
+   1         conversionthroughadditionandmultiplication
+   1            111 using 09 and af using09andaf
+   1   
+   1   	 38792210
+   1   	 1510
+   1   	 	5eb5216
+   1   	 	5 	e 	b 	5 	216
+   1 	
