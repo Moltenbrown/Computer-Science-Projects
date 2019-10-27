@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ben Adam - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Ben_Adam","wgTitle":"Ben Adam","wgCurRevisionId":902067061,"wgRevisionId":902067061,"wgArticleId":6906860,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking sources from December 2014","All articles lacking sources","Articles containing Hebrew-language text","Articles containing Yiddish-language text","All stub articles","Eurovision songs of Israel","Hebrew-language surnames","Israel stubs"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun",
+"Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ben_Adam","wgRelevantArticleId":6906860,"wgRequestId":"Xa@v8wpAME8AALtZmM0AAACW","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2891080","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready",
+"user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.cite.tracking","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents",
+"ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.2"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ben_Adam"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ben_Adam&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ben_Adam&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ben_Adam"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Ben_Adam rootpage-Ben_Adam skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Ben Adam</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For Hebrew concept, see <a href="/wiki/Ben_adam" title="Ben adam">ben adam</a>.</div>
+<table class="box-Unreferenced plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Ben_Adam&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span>  <small class="date-container"><i>(<span class="date">December 2014</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="infobox" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background: #BFDFFF;"><span class="flagicon"><a href="/wiki/Israel" title="Israel"><img alt="Israel" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/21px-Flag_of_Israel.svg.png" decoding="async" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/32px-Flag_of_Israel.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/41px-Flag_of_Israel.svg.png 2x" data-file-width="660" data-file-height="480" /></a></span> "Ben Adam"</th></tr><tr><th colspan="2" style="text-align:center;background: #BFDFFF;"><a href="/wiki/Eurovision_Song_Contest_1988" title="Eurovision Song Contest 1988">Eurovision Song Contest 1988</a> entry</th></tr><tr><th scope="row">Country</th><td><div style="text-align:left;"><a href="/wiki/Israel_in_the_Eurovision_Song_Contest" title="Israel in the Eurovision Song Contest">Israel</a></div></td></tr><tr><th scope="row">Artist(s)</th><td><div style="text-align:left;">Yardena Feinbaum-Arazi</div></td></tr><tr><th scope="row">As</th><td><div style="text-align:left;">Yardena Arazi</div></td></tr><tr><th scope="row">Language</th><td><div style="text-align:left;"><a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a></div></td></tr><tr><th scope="row">Composer(s)</th><td><div style="text-align:left;">Boris Dimitshtein</div></td></tr><tr><th scope="row">Lyricist(s)</th><td><div style="text-align:left;">Ehud Manor</div></td></tr><tr><th scope="row">Conductor</th><td><div style="text-align:left;"><a href="/w/index.php?title=Eldad_Shrem&amp;action=edit&amp;redlink=1" class="new" title="Eldad Shrem (page does not exist)">Eldad Shrem</a></div></td></tr><tr><th colspan="2" style="text-align:center;background: #BFDFFF;">Finals performance</th></tr><tr><th scope="row">Final result</th><td><div style="text-align:left;">7th</div></td></tr><tr><th scope="row">Final points</th><td><div style="text-align:left;">85</div></td></tr><tr><th colspan="2" style="text-align:center;background: #BFDFFF;">Appearance chronology</th></tr><tr><td colspan="2" style="text-align:center"><b><a href="/wiki/Shir_Habatlanim" title="Shir Habatlanim">◄ "Shir Habatlanim" (1987)</a></b> &#160;&#160;</td></tr><tr><td colspan="2" style="text-align:center"><b><a href="/wiki/Derekh_Hamelekh" title="Derekh Hamelekh">"Derekh Hamelekh" (1989) ►</a></b></td></tr></tbody></table>
+<p><b>"Ben Adam"</b> (<a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a>: <span lang="he" dir="rtl">בן אדם</span>&#8206;, <a href="/wiki/English_language" title="English language">English</a> translation: "Human Being", literally "Son of <a href="/wiki/Adam_(Bible)" class="mw-redirect" title="Adam (Bible)">Adam</a>") was the <a href="/wiki/Israel" title="Israel">Israeli</a> entry in the <a href="/wiki/Eurovision_Song_Contest_1988" title="Eurovision Song Contest 1988">Eurovision Song Contest 1988</a>, performed in <a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a> by <a href="/wiki/Yardena_Arazi" title="Yardena Arazi">Yardena Arazi</a>. 
+</p><p>The song deals with the ordinariness of humanity, as Arazi sings that "no man is perfect in all virtues" and tells her listeners "don't always judge him for the worse". With this in mind, she exhorts her listeners to "let him dream and give him breath", that is, to treat everyone with dignity. Musically, the song is perhaps best known for its final chorus. Beginning at a slow tempo, the song builds to a fast-paced conclusion.
+</p><p>The song was performed eighth on the night (following the <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>' <a href="/wiki/Gerard_Joling" title="Gerard Joling">Gerard Joling</a> with "<a href="/wiki/Shangri-La_(Gerard_Joling_song)" title="Shangri-La (Gerard Joling song)">Shangri-La</a>" and preceding <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a>'s entry and winning song "<a href="/wiki/Ne_Partez_Pas_Sans_Moi" class="mw-redirect" title="Ne Partez Pas Sans Moi">Ne Partez Pas Sans Moi</a>", sung by <a href="/wiki/Celine_Dion" title="Celine Dion">Céline Dion</a>). Arazi has always been highly superstitious and consults an astrologer on all matters in her life. The astrologer told her the song performed 9th would win the competition in Dublin, Ireland. Israel had drawn 9th in the running order, so Arazi agreed to represent Israel. However, when Cyprus withdrew from the contest (having been drawn to sing second), Israel's position shifted to 8th. The 9th song did win the competition; with the Swiss triumphing from that starting point.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> At the close of voting, it had received 85 points, placing 7th in a field of 21.
+</p><p>In 2010, the Israeli artist <a href="/wiki/Yoni_Eilat" title="Yoni Eilat">Yoni Eilat</a> recorded a <a href="/wiki/Yiddish" title="Yiddish">Yiddish</a> cover of the song, "Der Mentsch" (<a href="/wiki/Yiddish_language" class="mw-redirect" title="Yiddish language">Yiddish</a>: <span lang="yi" dir="rtl">דער מענטש</span>&#8206;), for his album "Tzigayner Neshume".
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ben_Adam&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Son_of_Man" class="mw-redirect" title="Son of Man">Son of Man</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Eurovision_Song_Contest_1988" style="padding:3px"><table class="nowraplinks mw-collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Eurovision_Song_Contest_1988" title="Template:Eurovision Song Contest 1988"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Eurovision_Song_Contest_1988" title="Template talk:Eurovision Song Contest 1988"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Eurovision_Song_Contest_1988&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Eurovision_Song_Contest_1988" style="font-size:114%;margin:0 4em"><a href="/wiki/Eurovision_Song_Contest_1988" title="Eurovision Song Contest 1988">Eurovision Song Contest 1988</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Countries" style="font-size:114%;margin:0 4em">Countries</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Final<br /><small>(by final results)</small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Switzerland_in_the_Eurovision_Song_Contest_1988" title="Switzerland in the Eurovision Song Contest 1988">Switzerland</a> <small>(winner)</small></li>
+<li><a href="/wiki/United_Kingdom_in_the_Eurovision_Song_Contest_1988" title="United Kingdom in the Eurovision Song Contest 1988">United Kingdom</a></li>
+<li><a href="/wiki/Denmark_in_the_Eurovision_Song_Contest_1988" title="Denmark in the Eurovision Song Contest 1988">Denmark</a></li>
+<li><a href="/wiki/Luxembourg_in_the_Eurovision_Song_Contest_1988" title="Luxembourg in the Eurovision Song Contest 1988">Luxembourg</a></li>
+<li><a href="/wiki/Norway_in_the_Eurovision_Song_Contest_1988" title="Norway in the Eurovision Song Contest 1988">Norway</a></li>
+<li><a href="/wiki/Yugoslavia_in_the_Eurovision_Song_Contest_1988" title="Yugoslavia in the Eurovision Song Contest 1988">Yugoslavia</a></li>
+<li><a href="/wiki/Israel_in_the_Eurovision_Song_Contest_1988" class="mw-redirect" title="Israel in the Eurovision Song Contest 1988">Israel</a></li>
+<li><a href="/wiki/Ireland_in_the_Eurovision_Song_Contest_1988" title="Ireland in the Eurovision Song Contest 1988">Ireland</a></li>
+<li><a href="/wiki/Netherlands_in_the_Eurovision_Song_Contest_1988" title="Netherlands in the Eurovision Song Contest 1988">Netherlands</a></li>
+<li><a href="/wiki/France_in_the_Eurovision_Song_Contest_1988" title="France in the Eurovision Song Contest 1988">France</a></li>
+<li><a href="/wiki/Spain_in_the_Eurovision_Song_Contest_1988" title="Spain in the Eurovision Song Contest 1988">Spain</a></li>
+<li><a href="/wiki/Sweden_in_the_Eurovision_Song_Contest_1988" title="Sweden in the Eurovision Song Contest 1988">Sweden</a></li>
+<li><a href="/wiki/Italy_in_the_Eurovision_Song_Contest_1988" title="Italy in the Eurovision Song Contest 1988">Italy</a></li>
+<li><a href="/wiki/Germany_in_the_Eurovision_Song_Contest_1988" title="Germany in the Eurovision Song Contest 1988">Germany</a></li>
+<li><a href="/wiki/Turkey_in_the_Eurovision_Song_Contest_1988" title="Turkey in the Eurovision Song Contest 1988">Turkey</a></li>
+<li><a href="/wiki/Iceland_in_the_Eurovision_Song_Contest_1988" class="mw-redirect" title="Iceland in the Eurovision Song Contest 1988">Iceland</a></li>
+<li><a href="/wiki/Greece_in_the_Eurovision_Song_Contest_1988" class="mw-redirect" title="Greece in the Eurovision Song Contest 1988">Greece</a></li>
+<li><a href="/wiki/Belgium_in_the_Eurovision_Song_Contest_1988" title="Belgium in the Eurovision Song Contest 1988">Belgium</a></li>
+<li><a href="/wiki/Portugal_in_the_Eurovision_Song_Contest_1988" class="mw-redirect" title="Portugal in the Eurovision Song Contest 1988">Portugal</a></li>
+<li><a href="/wiki/Finland_in_the_Eurovision_Song_Contest_1988" title="Finland in the Eurovision Song Contest 1988">Finland</a></li>
+<li><a href="/wiki/Austria_in_the_Eurovision_Song_Contest_1988" class="mw-redirect" title="Austria in the Eurovision Song Contest 1988">Austria</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Withdrawn</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cyprus_in_the_Eurovision_Song_Contest_1988" class="mw-redirect" title="Cyprus in the Eurovision Song Contest 1988">Cyprus</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Artists" style="font-size:114%;margin:0 4em">Artists</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Final<br /><small>(by final results)</small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Celine_Dion" title="Celine Dion">Céline Dion</a></li>
+<li><a href="/wiki/Scott_Fitzgerald_(singer)" title="Scott Fitzgerald (singer)">Scott Fitzgerald</a></li>
+<li><a href="/wiki/Hot_Eyes" title="Hot Eyes">Hot Eyes</a></li>
+<li><a href="/wiki/Lara_Fabian" title="Lara Fabian">Lara Fabian</a></li>
+<li><a href="/wiki/Karoline_Kr%C3%BCger" title="Karoline Krüger">Karoline Krüger</a></li>
+<li><a href="/wiki/Srebrna_Krila" class="mw-redirect" title="Srebrna Krila">Srebrna Krila</a></li>
+<li><a href="/wiki/Yardena_Arazi" title="Yardena Arazi">Yardena Arazi</a></li>
+<li><a href="/wiki/Jump_the_Gun_(band)" title="Jump the Gun (band)">Jump The Gun</a></li>
+<li><a href="/wiki/Gerard_Joling" title="Gerard Joling">Gerard Joling</a></li>
+<li><a href="/wiki/G%C3%A9rard_Lenorman" title="Gérard Lenorman">Gérard Lenorman</a></li>
+<li><a href="/wiki/La_D%C3%A9cada_Prodigiosa" title="La Década Prodigiosa">La Década Prodigiosa</a></li>
+<li><a href="/wiki/Tommy_K%C3%B6rberg" title="Tommy Körberg">Tommy Körberg</a></li>
+<li><a href="/wiki/Luca_Barbarossa" title="Luca Barbarossa">Luca Barbarossa</a></li>
+<li><a href="/w/index.php?title=Maxi_%26_Chris_Garden&amp;action=edit&amp;redlink=1" class="new" title="Maxi &amp; Chris Garden (page does not exist)">Maxi &amp; Chris Garden</a></li>
+<li><a href="/wiki/Mazhar-Fuat-%C3%96zkan" title="Mazhar-Fuat-Özkan">MFÖ</a></li>
+<li><a href="/wiki/Beathoven" class="mw-redirect" title="Beathoven">Beathoven</a></li>
+<li><a href="/wiki/Afroditi_Frida" title="Afroditi Frida">Afroditi Frida</a></li>
+<li><a href="/wiki/Reynaert" title="Reynaert">Reynaert</a></li>
+<li><a href="/wiki/Dora_(singer)" title="Dora (singer)">Dora</a></li>
+<li><a href="/wiki/Boulevard_(Finnish_band)" title="Boulevard (Finnish band)">Boulevard</a></li>
+<li><a href="/wiki/Wilfried_(singer)" title="Wilfried (singer)">Wilfried</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Withdrawn</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=Yiannis_Dimitrou_%26_Scott_Adams&amp;action=edit&amp;redlink=1" class="new" title="Yiannis Dimitrou &amp; Scott Adams (page does not exist)">Yiannis Dimitrou &amp; Scott Adams</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Songs" style="font-size:114%;margin:0 4em">Songs</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Final<br /><small>(by final results)</small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Ne_partez_pas_sans_moi" title="Ne partez pas sans moi">Ne partez pas sans moi</a>"</li>
+<li>"<a href="/wiki/Go_(Scott_Fitzgerald_song)" title="Go (Scott Fitzgerald song)">Go</a>"</li>
+<li>"<a href="/wiki/Ka%27_du_se_hva%27_jeg_sa%27%3F" title="Ka&#39; du se hva&#39; jeg sa&#39;?">Ka' du se hva' jeg sa'?</a>"</li>
+<li>"<a href="/wiki/Croire" title="Croire">Croire</a>"</li>
+<li>"<a href="/wiki/For_v%C3%A5r_jord" title="For vår jord">For vår jord</a>"</li>
+<li>"<a href="/wiki/Mangup_(song)" title="Mangup (song)">Mangup</a>"</li>
+<li>"<a href="/wiki/Ben_Adam_(song)" class="mw-redirect" title="Ben Adam (song)">Ben Adam</a>"</li>
+<li>"<a href="/wiki/Take_Him_Home" title="Take Him Home">Take Him Home</a>"</li>
+<li>"<a href="/wiki/Shangri-La_(Gerard_Joling_song)" title="Shangri-La (Gerard Joling song)">Shangri-La</a>"</li>
+<li>"<a href="/wiki/Chanteur_de_charme" title="Chanteur de charme">Chanteur de charme</a>"</li>
+<li>"<a href="/wiki/La_chica_que_yo_quiero_(Made_in_Spain)" title="La chica que yo quiero (Made in Spain)">La chica que yo quiero (Made in Spain)</a>"</li>
+<li>"<a href="/wiki/Stad_i_ljus" title="Stad i ljus">Stad i ljus</a>"</li>
+<li>"<a href="/wiki/Vivo_(Ti_scrivo)" title="Vivo (Ti scrivo)">Vivo (Ti scrivo)</a>"</li>
+<li>"<a href="/wiki/Lied_f%C3%BCr_einen_Freund" title="Lied für einen Freund">Lied für einen Freund</a>"</li>
+<li>"<a href="/wiki/Sufi_(song)" title="Sufi (song)">Sufi</a>"</li>
+<li>"<a href="/wiki/%C3%9E%C3%BA_og_%C3%BEeir_(S%C3%B3krates)" title="Þú og þeir (Sókrates)">Þú og þeir (Sókrates)</a>"</li>
+<li>"<a href="/wiki/Clown_(Afroditi_Frida_song)" title="Clown (Afroditi Frida song)">Clown</a>"</li>
+<li>"<a href="/wiki/Laissez_briller_le_soleil" title="Laissez briller le soleil">Laissez briller le soleil</a>"</li>
+<li>"<a href="/wiki/Voltarei" title="Voltarei">Voltarei</a>"</li>
+<li>"<a href="/wiki/Nauravat_silm%C3%A4t_muistetaan" title="Nauravat silmät muistetaan">Nauravat silmät muistetaan</a>"</li>
+<li>"<a href="/wiki/Lisa_Mona_Lisa" title="Lisa Mona Lisa">Lisa Mona Lisa</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Withdrawn</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/w/index.php?title=Thimame&amp;action=edit&amp;redlink=1" class="new" title="Thimame (page does not exist)">Thimame</a>"</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><small>(Note: All information are in order of appearance)</small></div></td></tr></tbody></table></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ben_Adam&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">O'Connor, John Kennedy. 'The Eurovision Song Contest - The Official History'. Carlton Books 2005. <style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1844425860" title="Special:BookSources/978-1844425860">978-1844425860</a></span>
+</li>
+</ol></div></div>
+<p><br />
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Flag_of_Israel.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/30px-Flag_of_Israel.svg.png" decoding="async" width="30" height="22" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/45px-Flag_of_Israel.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/60px-Flag_of_Israel.svg.png 2x" data-file-width="660" data-file-height="480" /></a></td><td><i>This <a href="/wiki/Israel" title="Israel">Israel</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Ben_Adam&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Israel-stub" title="Template:Israel-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Israel-stub" title="Template talk:Israel-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Israel-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Parsed by mw1244
+Cached time: 20191023014211
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.376 seconds
+Real time usage: 0.505 seconds
+Preprocessor visited node count: 920/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 46244/2097152 bytes
+Template argument size: 1041/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 2434/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.199/10.000 seconds
+Lua memory usage: 9.92 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  438.100      1 -total
+ 35.42%  155.174      1 Template:Lang-he
+ 18.66%   81.739      1 Template:Reflist
+ 18.29%   80.128      1 Template:Infobox_song_contest_entry
+ 17.41%   76.269      1 Template:Infobox
+ 16.04%   70.275      1 Template:ISBN
+  9.57%   41.916      1 Template:Unreferenced
+  9.21%   40.360      1 Template:Catalog_lookup_link
+  8.09%   35.461      1 Template:Ambox
+  6.91%   30.286      1 Template:For
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:6906860-0!canonical and timestamp 20191023014211 and revision id 902067061
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ben_Adam&amp;oldid=902067061">https://en.wikipedia.org/w/index.php?title=Ben_Adam&amp;oldid=902067061</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Eurovision_songs_of_Israel" title="Category:Eurovision songs of Israel">Eurovision songs of Israel</a></li><li><a href="/wiki/Category:Hebrew-language_surnames" title="Category:Hebrew-language surnames">Hebrew-language surnames</a></li><li><a href="/wiki/Category:Israel_stubs" title="Category:Israel stubs">Israel stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_sources_from_December_2014" title="Category:Articles lacking sources from December 2014">Articles lacking sources from December 2014</a></li><li><a href="/wiki/Category:All_articles_lacking_sources" title="Category:All articles lacking sources">All articles lacking sources</a></li><li><a href="/wiki/Category:Articles_containing_Hebrew-language_text" title="Category:Articles containing Hebrew-language text">Articles containing Hebrew-language text</a></li><li><a href="/wiki/Category:Articles_containing_Yiddish-language_text" title="Category:Articles containing Yiddish-language text">Articles containing Yiddish-language text</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ben+Adam" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ben+Adam" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Ben_Adam" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Ben_Adam" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Ben_Adam">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Ben_Adam&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ben_Adam&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ben_Adam" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ben_Adam" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ben_Adam&amp;oldid=902067061" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ben_Adam&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2891080" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ben_Adam&amp;id=902067061" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ben+Adam">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Ben+Adam&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ben_Adam&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%91%D7%9F_%D7%90%D7%93%D7%9D_(%D7%A9%D7%99%D7%A8_%D7%A9%D7%9C_%D7%99%D7%A8%D7%93%D7%A0%D7%94_%D7%90%D7%A8%D7%96%D7%99)" title="בן אדם (שיר של ירדנה ארזי) – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Ben_Adam" title="Ben Adam – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Ben_Adam" title="Ben Adam – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2891080#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 16 June 2019, at 09:28<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ben_Adam&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.376","walltime":"0.505","ppvisitednodes":{"value":920,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":46244,"limit":2097152},"templateargumentsize":{"value":1041,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":2434,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  438.100      1 -total"," 35.42%  155.174      1 Template:Lang-he"," 18.66%   81.739      1 Template:Reflist"," 18.29%   80.128      1 Template:Infobox_song_contest_entry"," 17.41%   76.269      1 Template:Infobox"," 16.04%   70.275      1 Template:ISBN","  9.57%   41.916      1 Template:Unreferenced","  9.21%   40.360      1 Template:Catalog_lookup_link","  8.09%   35.461      1 Template:Ambox","  6.91%   30.286      1 Template:For"]},"scribunto":{"limitreport-timeusage":{"value":"0.199","limit":"10.000"},"limitreport-memusage":{"value":10404078,"limit":52428800}},"cachereport":{"origin":"mw1244","timestamp":"20191023014211","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Ben Adam","url":"https:\/\/en.wikipedia.org\/wiki\/Ben_Adam","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2891080","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2891080","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-09-09T01:12:01Z","dateModified":"2019-06-16T09:28:11Z","headline":"1988 song with lyrics by Ehud Manor performed by Yardena Arazi"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":629,"wgHostname":"mw1244"});});</script>
+</body>
+</html>

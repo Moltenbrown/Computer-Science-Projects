@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Patrick (given name) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Patrick_(given_name)","wgTitle":"Patrick (given name)","wgCurRevisionId":921017065,"wgRevisionId":921017065,"wgArticleId":1055240,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","All set index articles","Given names","English masculine given names","French masculine given names","Irish masculine given names","German masculine given names"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+"wgRelevantPageName":"Patrick_(given_name)","wgRelevantArticleId":1055240,"wgRequestId":"XbJ9QApAAD4AAHj9yo4AAADW","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q18002623","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/a/a2/%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%BA_%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%28%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%29.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Patrick_(given_name)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Patrick_(given_name)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Patrick_(given_name)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Patrick_(given_name)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Patrick_given_name rootpage-Patrick_given_name skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Patrick (given name)</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em"><caption>Patrick</caption><tbody><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%BA_%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_(%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0).jpg" class="image"><img alt="Патрик Ирландский (икона).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%BA_%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%28%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%29.jpg/220px-%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%BA_%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%28%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%29.jpg" decoding="async" width="220" height="291" srcset="//upload.wikimedia.org/wikipedia/commons/a/a2/%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%BA_%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%28%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%29.jpg 1.5x" data-file-width="275" data-file-height="364" /></a><div><a href="/wiki/Russia" title="Russia">Russian</a> icon of <a href="/wiki/Saint_Patrick" title="Saint Patrick">Saint Patrick</a></div></td></tr><tr><th scope="row">Pronunciation</th><td><span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="&#39;p&#39; in &#39;pie&#39;">p</span><span title="/æ/: &#39;a&#39; in &#39;bad&#39;">æ</span><span title="&#39;t&#39; in &#39;tie&#39;">t</span><span title="&#39;r&#39; in &#39;rye&#39;">r</span><span title="/ɪ/: &#39;i&#39; in &#39;kit&#39;">ɪ</span><span title="&#39;k&#39; in &#39;kind&#39;">k</span></span>/</a></span></span><br /><small>German:&#32;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Standard_German" title="Help:IPA/Standard German">[patʁɪk]</a></span></td></tr><tr><th scope="row">Gender</th><td><a href="/wiki/Male" title="Male">Male</a></td></tr><tr><th scope="row"><a href="/wiki/Name_day" title="Name day">Name day</a></th><td>March 17</td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Origin</th></tr><tr><th scope="row">Word/name</th><td><a href="/wiki/Latin" title="Latin">Latin</a></td></tr><tr><th scope="row">Meaning</th><td><i><a href="/wiki/Nobleman" class="mw-redirect" title="Nobleman">Nobleman</a></i>, <i><a href="/wiki/Patrician_(ancient_Rome)" title="Patrician (ancient Rome)">patrician</a></i></td></tr><tr><th scope="row">Region of origin</th><td><a href="/wiki/World" title="World">Worldwide</a></td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Other names</th></tr><tr><th scope="row">Related names</th><td><a href="/wiki/P%C3%A1draic" class="mw-redirect" title="Pádraic">Pádraic</a>, <a href="/wiki/P%C3%A1draig" title="Pádraig">Pádraig</a>, <a href="/wiki/Patricia" title="Patricia">Patricia</a>, <a href="/w/index.php?title=Patraic&amp;action=edit&amp;redlink=1" class="new" title="Patraic (page does not exist)">Patraic</a>, <a href="/wiki/Patric" class="mw-redirect" title="Patric">Patric</a>, <a href="/wiki/Pat_(disambiguation)" class="mw-redirect mw-disambig" title="Pat (disambiguation)">Pat</a>, Paddy, Patty, <a href="/wiki/Ricky_(given_name)" title="Ricky (given name)">Ricky</a>, Rick</td></tr></tbody></table>
+<p><b>Patrick</b> in its earliest form, can be found as the name derived from the <a href="/wiki/Latin" title="Latin">Latin</a> name <i>Patricius</i> (<a href="/wiki/Patrician_(ancient_Rome)" title="Patrician (ancient Rome)">patrician</a>, i.e. "nobleman").
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#People_named_Patrick"><span class="tocnumber">1</span> <span class="toctext">People named Patrick</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Actors_and_entertainers"><span class="tocnumber">1.1</span> <span class="toctext">Actors and entertainers</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Authors"><span class="tocnumber">1.2</span> <span class="toctext">Authors</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Musicians"><span class="tocnumber">1.3</span> <span class="toctext">Musicians</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Politicians"><span class="tocnumber">1.4</span> <span class="toctext">Politicians</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Religious_figures"><span class="tocnumber">1.5</span> <span class="toctext">Religious figures</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Sportspeople"><span class="tocnumber">1.6</span> <span class="toctext">Sportspeople</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Other"><span class="tocnumber">1.7</span> <span class="toctext">Other</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Fictional_characters"><span class="tocnumber">2</span> <span class="toctext">Fictional characters</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="People_named_Patrick">People named Patrick</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrick_(given_name)&amp;action=edit&amp;section=1" title="Edit section: People named Patrick">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Actors_and_entertainers">Actors and entertainers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrick_(given_name)&amp;action=edit&amp;section=2" title="Edit section: Actors and entertainers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Patrick_Armand" title="Patrick Armand">Patrick Armand</a>, French ballet dancer</li>
+<li><a href="/wiki/Patrick_Brasca" title="Patrick Brasca">Patrick Brasca</a>, Canadian-Taiwanese singer</li>
+<li><a href="/wiki/Patrick_Cargill" title="Patrick Cargill">Patrick Cargill</a>, British actor</li>
+<li><a href="/wiki/Pat_Condell" title="Pat Condell">Pat Condell</a>, English stand-up comedian</li>
+<li><a href="/wiki/Patrick_Dempsey" title="Patrick Dempsey">Patrick Dempsey</a>, American actor</li>
+<li><a href="/wiki/Patrick_Duffy" title="Patrick Duffy">Patrick Duffy</a>, American actor</li>
+<li><a href="/wiki/Patrick_Gower" title="Patrick Gower">Patrick Gower</a>, New Zealand journalist (<a href="/wiki/Newshub" title="Newshub">Newshub</a>)</li>
+<li><a href="/wiki/Patrick_J._Adams" title="Patrick J. Adams">Patrick J. Adams</a> (born 1981), Canadian actor</li>
+<li><a href="/wiki/Sean_Patrick_Flanery" title="Sean Patrick Flanery">Sean Patrick Flanery</a>, American actor</li>
+<li><a href="/wiki/Patrick_Macnee" title="Patrick Macnee">Patrick Macnee</a>, English actor</li>
+<li><a href="/wiki/Patrick_Magee_(actor)" title="Patrick Magee (actor)">Patrick Magee</a>, Irish actor</li>
+<li><a href="/wiki/Patrick_McDonnell_(actor)" title="Patrick McDonnell (actor)">Patrick McDonnell</a>, Irish actor</li>
+<li><a href="/wiki/Patrick_McGoohan" title="Patrick McGoohan">Patrick McGoohan</a> (1928–2009), Irish-American actor</li>
+<li><a href="/wiki/Patrick_Monahan_(comedian)" title="Patrick Monahan (comedian)">Patrick Monahan</a>, Irish comedian</li>
+<li><a href="/wiki/Patrick_O%27Connell_(actor)" title="Patrick O&#39;Connell (actor)">Patrick O'Connell</a>, Irish actor</li>
+<li><a href="/wiki/Pat_Paulsen" title="Pat Paulsen">Pat Paulsen</a> (1927–1997), American comedian and satirist</li>
+<li><a href="/wiki/Pat_Sajak" title="Pat Sajak">Pat Sajak</a>, American game show host</li>
+<li><a href="/wiki/Patrick_Stewart" title="Patrick Stewart">Patrick Stewart</a> (born 1940), British actor</li>
+<li><a href="/wiki/Patrick_Swayze" title="Patrick Swayze">Patrick Swayze</a> (1952–2009), American actor</li>
+<li><a href="/wiki/Patrick_Topaloff" title="Patrick Topaloff">Patrick Topaloff</a> (1944–2010), French singer and actor</li>
+<li><a href="/wiki/Patrick_Troughton" title="Patrick Troughton">Patrick Troughton</a> (1920–1987), English actor</li>
+<li><a href="/wiki/Patrick_Warburton" title="Patrick Warburton">Patrick Warburton</a> (born 1964), American actor</li></ul>
+<h3><span class="mw-headline" id="Authors">Authors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrick_(given_name)&amp;action=edit&amp;section=3" title="Edit section: Authors">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Patrick, the pseudonym used by artist <a href="/wiki/John_Byrne_(playwright)" title="John Byrne (playwright)">John Byrne</a>, Scottish playwright</li>
+<li><a href="/wiki/Patrick_Cary" title="Patrick Cary">Patrick Cary</a>, (c. 1624–1658), English poet</li>
+<li><a href="/wiki/Pat_Chapman" title="Pat Chapman">Pat Chapman</a>, English food writer</li>
+<li><a href="/wiki/Padraic_Colum" title="Padraic Colum">Padraic Colum</a> (1881–1972), Irish author</li>
+<li><a href="/wiki/Patrick_Cullinan" title="Patrick Cullinan">Patrick Cullinan</a>, South African poet and biographer</li>
+<li><a href="/wiki/Patrick_Dearen" title="Patrick Dearen">Patrick Dearen</a>, American author</li>
+<li><a href="/wiki/Patrick_Jones" title="Patrick Jones">Patrick Jones</a>, Welsh poet and playwright</li>
+<li><a href="/wiki/Patrick_Lane" title="Patrick Lane">Patrick Lane</a> (born 1939), Canadian poet</li>
+<li><a href="/wiki/Patrick_McCauley" title="Patrick McCauley">Patrick McCauley</a> (1927–2015), American journalist and author</li>
+<li><a href="/wiki/Patrick_Pearse" title="Patrick Pearse">Patrick Pearse</a> (1879-1916), Irish Poet and nationalist.</li>
+<li><a href="/wiki/Patrick_O%27Brian" title="Patrick O&#39;Brian">Patrick O'Brian</a> (1914–2000), English author and translator</li></ul>
+<h3><span class="mw-headline" id="Musicians">Musicians</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrick_(given_name)&amp;action=edit&amp;section=4" title="Edit section: Musicians">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Pat Acuña (born 1986), American drummer, member of indie rock band <a href="/wiki/Silent_Old_Mtns" title="Silent Old Mtns">Silent Old Mtns</a></li>
+<li><a href="/wiki/Patrick_Alavi" title="Patrick Alavi">Patrick Alavi</a>, German musician</li>
+<li><a href="/wiki/Pat_Boone" title="Pat Boone">Pat Boone</a>, American singer</li>
+<li><a href="/wiki/Patrick_Brasca" title="Patrick Brasca">Patrick Brasca</a>, Canadian-Taiwanese singer</li>
+<li><a href="/wiki/Patrick_Carney" title="Patrick Carney">Patrick Carney</a> (born 1980), American drummer, member of indie rock band <a href="/wiki/The_Black_Keys" title="The Black Keys">The Black Keys</a></li>
+<li><a href="/wiki/Pat_DiNizio" title="Pat DiNizio">Pat DiNizio</a> (1955–2017), American songwriter, lead singer of the band The Smithereens</li>
+<li><a href="/wiki/Patrick_Doyle" title="Patrick Doyle">Patrick Doyle</a>, film composer</li>
+<li><a href="/wiki/Patrick_Girondi" title="Patrick Girondi">Patrick Girondi</a>, singer, composer</li>
+<li><a href="/wiki/Pat_Metheny" title="Pat Metheny">Pat Metheny</a>, American jazz guitarist</li>
+<li><a href="/wiki/Morrissey" title="Morrissey">Steven Patrick Morrissey</a> (born 1959), British singer</li>
+<li><a href="/wiki/Patrick_Monahan" title="Patrick Monahan">Patrick Monahan</a> (born 1969), American musician (rock band Train)</li>
+<li>Patrick Chukwuemeka Okogwu, known as <a href="/wiki/Tinie_Tempah" title="Tinie Tempah">Tinie Tempah</a>, British rapper</li>
+<li><a href="/wiki/Patrick_Simmons" title="Patrick Simmons">Patrick Simmons</a> (born 1948), American guitarist and singer, founding member of the band <a href="/wiki/The_Doobie_Brothers" title="The Doobie Brothers">The Doobie Brothers</a></li>
+<li><a href="/wiki/Patrick_Stump" title="Patrick Stump">Patrick Stump</a> (born 1984), American musician, lead singer and rhythm guitarist of the band <a href="/wiki/Fall_Out_Boy" title="Fall Out Boy">Fall Out Boy</a></li>
+<li><a href="/wiki/Patrick_Wolf" title="Patrick Wolf">Patrick Wolf</a> (born 1983), English singer-songwriter</li></ul>
+<h3><span class="mw-headline" id="Politicians">Politicians</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrick_(given_name)&amp;action=edit&amp;section=5" title="Edit section: Politicians">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Patrick_Blake_(Canadian_politician)" title="Patrick Blake (Canadian politician)">Patrick Blake</a> (1846–1909), Canadian politician</li>
+<li><a href="/wiki/Patrick_Boland_(Irish_politician)" title="Patrick Boland (Irish politician)">Patrick Boland</a>, Irish politician</li>
+<li><a href="/wiki/Patrick_Buchanan" class="mw-redirect" title="Patrick Buchanan">Patrick Buchanan</a>, American political commentator, author and politician</li>
+<li><a href="/wiki/Patrick_Byrne_(Irish_politician)" title="Patrick Byrne (Irish politician)">Patrick Byrne</a>, Irish politician</li>
+<li><a href="/wiki/Patrick_Connor_(Irish_politician)" title="Patrick Connor (Irish politician)">Patrick Connor</a>, Irish politician</li>
+<li><a href="/wiki/Patrick_Donnelly_(Irish_politician)" class="mw-redirect" title="Patrick Donnelly (Irish politician)">Patrick Donnelly</a>, Irish politician</li>
+<li><a href="/wiki/Patrick_Duffy_(Irish_politician)" title="Patrick Duffy (Irish politician)">Patrick Duffy</a>, Irish politician</li>
+<li><a href="/wiki/Patrick_F._Gill" title="Patrick F. Gill">Patrick F. Gill</a>, American Representative</li>
+<li><a href="/wiki/Patrick_Henry" title="Patrick Henry">Patrick Henry</a> (1736–1799), American revolutionary figure</li>
+<li><a href="/wiki/Patrick_Hillery" title="Patrick Hillery">Patrick Hillery</a> (1923–2008), the sixth President of Ireland (1976–1990)</li>
+<li><a href="/wiki/Patrick_J._Kennedy" title="Patrick J. Kennedy">Patrick J. Kennedy</a>, former United States congressman</li>
+<li><a href="/wiki/Patrick_Leonard_(politician)" title="Patrick Leonard (politician)">Patrick Leonard</a>, Irish politician</li>
+<li><a href="/wiki/Patrick_Matibini" title="Patrick Matibini">Patrick Matibini</a> (born 1959), Zambian politician and judge</li>
+<li><a href="/wiki/Patrick_Murphy_(Irish_politician)" title="Patrick Murphy (Irish politician)">Patrick Murphy</a>, Irish politician</li>
+<li><a href="/wiki/Patrick_Norton_(Irish_politician)" title="Patrick Norton (Irish politician)">Patrick Norton</a>, Irish politician</li>
+<li><a href="/wiki/Patrick_Palmer_(Irish_politician)" class="mw-redirect" title="Patrick Palmer (Irish politician)">Patrick Palmer</a>, Irish politician</li>
+<li><a href="/wiki/Patrick_Pearse" title="Patrick Pearse">Patrick Pearse</a> (aka Pádraig Pearse) (1879–1916), Irish activist and revolutionary</li>
+<li><a href="/wiki/Pat_Roberts" title="Pat Roberts">Pat Roberts</a>, American Senator from Kansas</li>
+<li><a href="/wiki/Pat_Robertson" title="Pat Robertson">Pat Robertson</a>, American preacher and political figure</li>
+<li><a href="/wiki/Patrick_Lipton_Robinson" title="Patrick Lipton Robinson">Patrick Lipton Robinson</a>, Jamaican U.N. judge</li>
+<li><a href="/wiki/Patrick_Tierney_(Irish_politician)" title="Patrick Tierney (Irish politician)">Patrick Tierney</a>, Irish politician</li>
+<li><a href="/wiki/Patrick_Vans" class="mw-redirect" title="Patrick Vans">Patrick Vans</a>, Scottish judge</li>
+<li><a href="/wiki/Patrick_Vanse" title="Patrick Vanse">Patrick Vanse</a> (1655–1733), Scottish MP</li></ul>
+<h3><span class="mw-headline" id="Religious_figures">Religious figures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrick_(given_name)&amp;action=edit&amp;section=6" title="Edit section: Religious figures">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Saint_Patrick" title="Saint Patrick">Saint Patrick</a>, Christian saint</li>
+<li><a href="/wiki/Patrick_Duggan" title="Patrick Duggan">Patrick Duggan</a>, Roman Catholic Bishop of Clonfert in Ireland</li></ul>
+<h3><span class="mw-headline" id="Sportspeople">Sportspeople</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrick_(given_name)&amp;action=edit&amp;section=7" title="Edit section: Sportspeople">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Patrick, the working name of professional wrestler <a href="/wiki/Don_and_Ron_Harris" class="mw-redirect" title="Don and Ron Harris">Don Harris</a></li>
+<li><a href="/wiki/Patrick_(footballer,_born_1993)" title="Patrick (footballer, born 1993)">Patrick</a> (born 1993), Cape Verdean footballer</li>
+<li><a href="/wiki/Patrik_Andersson" title="Patrik Andersson">Patrik Andersson</a>, Swedish football player</li>
+<li><a href="/wiki/Patrick_Bamford" title="Patrick Bamford">Patrick Bamford</a>, English football player</li>
+<li><a href="/wiki/Pat_Barry_(fighter)" class="mw-redirect" title="Pat Barry (fighter)">Pat Barry</a> (born 1979), American kickboxer and mixed martial artist</li>
+<li><a href="/wiki/Pat_Batteaux" title="Pat Batteaux">Pat Batteaux</a> (born 1978), American football player</li>
+<li><a href="/wiki/Patrik_Berger" title="Patrik Berger">Patrik Berger</a>, Czech football player</li>
+<li><a href="/wiki/Patrik_Berglund" title="Patrik Berglund">Patrik Berglund</a>, Swedish ice hockey player</li>
+<li><a href="/wiki/Pat_Boller" title="Pat Boller">Pat Boller</a> (born 1972), American ice hockey coach and executive</li>
+<li><a href="/wiki/Paddy_Bradley" title="Paddy Bradley">Paddy Bradley</a>, Irish Gaelic football player</li>
+<li><a href="/wiki/Patrick_Burris" title="Patrick Burris">Patrick Burris</a>, American judoka and two-time Olympian</li>
+<li><a href="/wiki/Patrick_Cain" title="Patrick Cain">Patrick Cain</a>, American football player</li>
+<li><a href="/wiki/Pat_Cash" title="Pat Cash">Pat Cash</a>, Australian tennis player</li>
+<li><a href="/wiki/Patrick_Chan" title="Patrick Chan">Patrick Chan</a> (born 1990), Canadian figure skater</li>
+<li><a href="/wiki/Patrick_Dangerfield" title="Patrick Dangerfield">Patrick Dangerfield</a>, Australian football player</li>
+<li><a href="/wiki/Patrick_Eaves" title="Patrick Eaves">Patrick Eaves</a>, American-Canadian ice hockey player</li>
+<li><a href="/wiki/Pat_Elflein" title="Pat Elflein">Pat Elflein</a>, American football player</li>
+<li><a href="/wiki/Pat_Elzie" title="Pat Elzie">Pat Elzie</a>, American-German basketball coach and former player</li>
+<li><a href="/wiki/Patrick_Ewing" title="Patrick Ewing">Patrick Ewing</a>, American basketball player</li>
+<li><a href="/wiki/Patrick_Faber_(field_hockey)" title="Patrick Faber (field hockey)">Patrick Faber (field hockey)</a>, Dutch field hockey player</li>
+<li><a href="/wiki/P%C3%A1draig_Harrington" title="Pádraig Harrington">Pádraig Harrington</a>, Irish professional golfer</li>
+<li><a href="/wiki/Patrick_Heuscher" title="Patrick Heuscher">Patrick Heuscher</a>, Swiss volleyball player</li>
+<li><a href="/wiki/Patric_H%C3%B6rnqvist" title="Patric Hörnqvist">Patric Hörnqvist</a>, Swedish ice hockey player</li>
+<li><a href="/wiki/Patrick_Kane" title="Patrick Kane">Patrick Kane</a>, professional ice hockey player</li>
+<li><a href="/wiki/Patrick_Kluivert" title="Patrick Kluivert">Patrick Kluivert</a>, Dutch football player</li>
+<li><a href="/wiki/Patrick_K%C3%BChl" title="Patrick Kühl">Patrick Kühl</a>, German swimmer</li>
+<li><a href="/wiki/Patrik_K%C3%BChnen" title="Patrik Kühnen">Patrik Kühnen</a>, German tennis player</li>
+<li><a href="/wiki/Patrick_Lewis" title="Patrick Lewis">Patrick Lewis</a>, American football player</li>
+<li><a href="/wiki/Patrik_Laine" title="Patrik Laine">Patrik Laine</a>, Finnish ice hockey player</li>
+<li><a href="/wiki/Patrick_Laird" title="Patrick Laird">Patrick Laird</a> (born 1995), American football player</li>
+<li><a href="/wiki/Pat_Mahomes" title="Pat Mahomes">Pat Mahomes</a>, American baseball player; father of Patrick Mahomes II</li>
+<li><a href="/wiki/Patrick_Mahomes_II" class="mw-redirect" title="Patrick Mahomes II">Patrick Mahomes II</a>, American football player</li>
+<li><a href="/wiki/Patrick_Matt" title="Patrick Matt">Patrick Matt</a>, Liechtensteiner cyclist</li>
+<li><a href="/wiki/Pat_Matzdorf" title="Pat Matzdorf">Pat Matzdorf</a>, American athlete</li>
+<li><a href="/wiki/Patrick_Mboma" class="mw-redirect" title="Patrick Mboma">Patrick Mboma</a>, Cameroon football player</li>
+<li><a href="/wiki/Patrick_McEnroe" title="Patrick McEnroe">Patrick McEnroe</a>, American tennis player</li>
+<li><a href="/wiki/Patrick_McGuirk" title="Patrick McGuirk">Patrick McGuirk</a> (born 1967), American football player</li>
+<li><a href="/wiki/Patrick_Mekari" title="Patrick Mekari">Patrick Mekari</a> (born 1997), American football player</li>
+<li><a href="/wiki/Patrick_Mills" class="mw-redirect" title="Patrick Mills">Patrick Mills</a>, Australian basketball player</li>
+<li><a href="/wiki/Pat_Mountain" title="Pat Mountain">Pat Mountain</a>, Welsh football player</li>
+<li><a href="/wiki/Patrick_O%27Connell_(Irish_footballer)" title="Patrick O&#39;Connell (Irish footballer)">Patrick O'Connell</a> (1887–1959), Irish footballer</li>
+<li><a href="/wiki/Pat_O%27Connor_(disambiguation)" class="mw-redirect mw-disambig" title="Pat O&#39;Connor (disambiguation)">Pat O'Connor (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Pat_O%27Hanlon" title="Pat O&#39;Hanlon">Pat O'Hanlon</a> (born 1991), Australia Rugby League player</li>
+<li><a href="/wiki/Patrick_Rafter" class="mw-redirect" title="Patrick Rafter">Patrick Rafter</a>, Australian tennis player</li>
+<li><a href="/wiki/Patrick_Rakovsky" title="Patrick Rakovsky">Patrick Rakovsky</a>, German football player</li>
+<li><a href="/wiki/Patrick_Ramsey" title="Patrick Ramsey">Patrick Ramsey</a>, American football player</li>
+<li><a href="/wiki/Patrick_Ricard_(American_football)" title="Patrick Ricard (American football)">Patrick Ricard (American football)</a> (born 1994), American football player</li>
+<li><a href="/wiki/Pat_Richards" title="Pat Richards">Pat Richards</a> (born 1981), Australian Rugby League player</li>
+<li><a href="/wiki/Patrick_Rowe" title="Patrick Rowe">Patrick Rowe</a> (born 1969), American football player</li>
+<li><a href="/wiki/Patrick_Roy" title="Patrick Roy">Patrick Roy</a>, Canadian ice hockey goaltender</li>
+<li><a href="/wiki/Pat_Ryan_(American_football)" title="Pat Ryan (American football)">Pat Ryan</a> (born 1955), American football player</li>
+<li><a href="/wiki/Patrick_Scales_(American_football)" title="Patrick Scales (American football)">Patrick Scales (American football)</a>, American football player</li>
+<li><a href="/wiki/Patrick_Schmollinger" title="Patrick Schmollinger">Patrick Schmollinger</a>, Austrian swimmer</li>
+<li><a href="/wiki/Patrick_da_Silva" title="Patrick da Silva">Patrick da Silva</a>, Brazilian football player</li>
+<li><a href="/wiki/Patrik_Sj%C3%B6berg" title="Patrik Sjöberg">Patrik Sjöberg</a>, Swedish high jumper</li>
+<li><a href="/wiki/Pat_Spillane" title="Pat Spillane">Pat Spillane</a>, Irish Gaelic footballer</li>
+<li><a href="/wiki/Pat_Tillman" title="Pat Tillman">Pat Tillman</a> (born 1976), American football player and Army Ranger</li>
+<li><a href="/wiki/Patrick_Vahe" title="Patrick Vahe">Patrick Vahe</a> (born 1996), American football player</li>
+<li><a href="/wiki/Patrick_Veszpremi" title="Patrick Veszpremi">Patrick Veszpremi</a>, Australian rules footballer</li>
+<li><a href="/wiki/Patrick_Vieira" title="Patrick Vieira">Patrick Vieira</a>, Senegalese-born French football player</li>
+<li><a href="/wiki/Patrik_Virta" title="Patrik Virta">Patrik Virta</a> (born 1996), Finnish ice hockey player</li>
+<li><a href="/wiki/Patrick_Willis" title="Patrick Willis">Patrick Willis</a> (born 1985), American football player</li></ul>
+<h3><span class="mw-headline" id="Other">Other</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrick_(given_name)&amp;action=edit&amp;section=8" title="Edit section: Other">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/His_Imperial_Highness" class="mw-redirect" title="His Imperial Highness">H.I.H.</a> <a href="/wiki/Prince_Patrick_Ali_Pahlavi" class="mw-redirect" title="Prince Patrick Ali Pahlavi">Prince Patrick Ali of Iran</a></li>
+<li><a href="/wiki/Patrick_Bokanowski" title="Patrick Bokanowski">Patrick Bokanowski</a>, a French filmmaker</li>
+<li><a href="/wiki/Patrick_Tracy_Burris" title="Patrick Tracy Burris">Patrick Tracy Burris</a> (1967–2009), American spree killer</li>
+<li><a href="/wiki/Patrick_E._Crago" title="Patrick E. Crago">Patrick E. Crago</a>, American medical researcher</li>
+<li>Patrick Wood Crusius (born 1998), suspect in the <a href="/wiki/2019_El_Paso_shooting" title="2019 El Paso shooting">2019 El Paso shooting</a></li>
+<li><a href="/wiki/Patrick_Fitzgerald" title="Patrick Fitzgerald">Patrick Fitzgerald</a>, American Attorney</li>
+<li><a href="/wiki/Patrick_Flanagan" title="Patrick Flanagan">Patrick Flanagan</a>, American inventor</li>
+<li><a href="/wiki/Patrick_de_Gayardon" title="Patrick de Gayardon">Patrick de Gayardon</a> (1960–1998), French skydiver, skysurfer and BASE jumper</li>
+<li><a href="/wiki/Patrick_Gordon" title="Patrick Gordon">Patrick Gordon</a>, Imperial Russian Army general</li>
+<li><a href="/wiki/Patrick_Harvey_(disambiguation)" class="mw-redirect mw-disambig" title="Patrick Harvey (disambiguation)">Patrick Harvey (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Patrick_Hitler" class="mw-redirect" title="Patrick Hitler">Patrick Hitler</a>, nephew of Adolf Hitler</li>
+<li><a href="/wiki/Patrick_Jeffrey" title="Patrick Jeffrey">Patrick Jeffrey</a>, American diver</li>
+<li><a href="/wiki/Pat_Kenny" title="Pat Kenny">Pat Kenny</a>, Irish broadcaster</li>
+<li><a href="/wiki/Patrick_Kielty" title="Patrick Kielty">Patrick Kielty</a>, Irish comedian and television presenter</li>
+<li><a href="/wiki/Pat_Kiernan" title="Pat Kiernan">Pat Kiernan</a>, television news anchor</li>
+<li><a href="/wiki/Thomas_Patrick_Anson,_5th_Earl_of_Lichfield" class="mw-redirect" title="Thomas Patrick Anson, 5th Earl of Lichfield">Patrick, 5th Earl of Lichfield</a> (1939–2005; better known as <a href="/wiki/Patrick_Lichfield" class="mw-redirect" title="Patrick Lichfield">Patrick Lichfield</a>), photographer</li>
+<li><a href="/wiki/Patrick_McGuinness_(disambiguation)" class="mw-disambig" title="Patrick McGuinness (disambiguation)">Patrick McGuinness (disambiguation)</a>, multiple people</li>
+<li>Sir <a href="/wiki/Patrick_Moore" title="Patrick Moore">Patrick Moore</a>, English astronomer</li>
+<li><a href="/wiki/Patrick_Moore_(consultant)" title="Patrick Moore (consultant)">Patrick Moore</a> (born 1947), founder member of <a href="/wiki/Greenpeace" title="Greenpeace">Greenpeace</a></li>
+<li><a href="/wiki/Patrick_Rechner" class="mw-redirect" title="Patrick Rechner">Patrick Rechner</a>, Canadian Captain taken hostage working as a UN observer in Bosnia</li>
+<li><a href="/wiki/Patrick_%22Spaz%22_Spaziante" class="mw-redirect" title="Patrick &quot;Spaz&quot; Spaziante">Patrick "Spaz" Spaziante</a>, American comic book artist</li>
+<li><a href="/wiki/Patrick_Swift" title="Patrick Swift">Patrick Swift</a> (1927–1983), painter</li>
+<li><a href="/wiki/Patrick_Whelan" title="Patrick Whelan">Patrick Whelan</a> (1893–1916), Irish Volunteer, KIA during the Easter Rising of 1916</li></ul>
+<h2><span class="mw-headline" id="Fictional_characters">Fictional characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrick_(given_name)&amp;action=edit&amp;section=9" title="Edit section: Fictional characters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Lord_Harry" class="mw-redirect" title="Lord Harry">Lord Harry</a>, also known as Patrick, the locomotive character from <i><a href="/wiki/The_Railway_Series" title="The Railway Series">The Railway Series</a></i> books by the Rev. W. Awdry</li>
+<li><a href="/wiki/List_of_Corner_Shop_Show_characters#Recurring_characters" title="List of Corner Shop Show characters">Patrick</a>, an Irish chip shop owner played by David Mullane in the British web series <i><a href="/wiki/Corner_Shop_Show" title="Corner Shop Show">Corner Shop Show</a></i></li>
+<li><a href="/wiki/Patrick_Bateman" title="Patrick Bateman">Patrick Bateman</a> in Bret Easton Ellis' novel <i><a href="/wiki/American_Psycho" title="American Psycho">American Psycho</a></i></li>
+<li><a href="/wiki/Patrick_Darling" class="mw-redirect" title="Patrick Darling">Patrick Darling</a> in <i><a href="/wiki/Dirty_Sexy_Money" title="Dirty Sexy Money">Dirty Sexy Money</a></i></li>
+<li><a href="/wiki/Sir_Patrick_Delaney-Podmore" class="mw-redirect" title="Sir Patrick Delaney-Podmore">Sir Patrick Delaney-Podmore</a> in the <i><a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a></i> series of books</li>
+<li><a href="/wiki/Patrick_Harper_(fiction)" class="mw-redirect" title="Patrick Harper (fiction)">Patrick Harper (fiction)</a>, the Irish right-hand man in the <i><a href="/wiki/Sharpe_(novel_series)" title="Sharpe (novel series)">Sharpe</a></i> book and television series</li>
+<li><a href="/wiki/Patrick_Jane" title="Patrick Jane">Patrick Jane</a>, main character in <i><a href="/wiki/The_Mentalist" title="The Mentalist">The Mentalist</a></i></li>
+<li><a href="/wiki/Patrick_Star" title="Patrick Star">Patrick Star</a> in the television series <i><a href="/wiki/SpongeBob_SquarePants" title="SpongeBob SquarePants">SpongeBob SquarePants</a></i></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrick_(given_name)&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Patrick_(disambiguation)" class="mw-redirect mw-disambig" title="Patrick (disambiguation)">Patrick (disambiguation)</a></li>
+<li><a href="/wiki/Patrick_(surname)" title="Patrick (surname)">Patrick (surname)</a></li></ul>
+<style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
+<table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
+<tbody><tr>
+<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Name list</div>This page or section lists people that share the same <a href="/wiki/Given_name" title="Given name">given name</a>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Patrick_(given_name)&amp;namespace=0">internal link</a> led you here, you may wish to change that link to point directly to the intended article. </td>
+</tr>
+</tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1267
+Cached time: 20191024202320
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.168 seconds
+Real time usage: 0.244 seconds
+Preprocessor visited node count: 737/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 8708/2097152 bytes
+Template argument size: 1923/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 247/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.046/10.000 seconds
+Lua memory usage: 1.69 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  171.023      1 -total
+ 68.50%  117.158      1 Template:Infobox_Given_Name_Revised
+ 58.97%  100.844      1 Template:Infobox
+ 31.12%   53.218      1 Template:Given_name
+ 25.45%   43.529      1 Template:Dmbox
+ 24.92%   42.613      1 Template:IPAc-en
+ 12.36%   21.144      1 Template:Short_description
+ 10.02%   17.142      1 Template:Pagetype
+  5.76%    9.848      1 Template:Comma_separated_entries
+  2.90%    4.955      1 Template:IPA-de
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1055240-0!canonical and timestamp 20191024202320 and revision id 921017065
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Patrick_(given_name)&amp;oldid=921017065">https://en.wikipedia.org/w/index.php?title=Patrick_(given_name)&amp;oldid=921017065</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Given_names" title="Category:Given names">Given names</a></li><li><a href="/wiki/Category:English_masculine_given_names" title="Category:English masculine given names">English masculine given names</a></li><li><a href="/wiki/Category:French_masculine_given_names" title="Category:French masculine given names">French masculine given names</a></li><li><a href="/wiki/Category:Irish_masculine_given_names" title="Category:Irish masculine given names">Irish masculine given names</a></li><li><a href="/wiki/Category:German_masculine_given_names" title="Category:German masculine given names">German masculine given names</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Patrick+%28given+name%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Patrick+%28given+name%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Patrick_(given_name)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Patrick_(given_name)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Patrick_(given_name)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Patrick_(given_name)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Patrick_(given_name)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Patrick_(given_name)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Patrick_(given_name)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Patrick_(given_name)&amp;oldid=921017065" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Patrick_(given_name)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q18002623" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Patrick_%28given_name%29&amp;id=921017065" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Patrick_(given_name)" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Patrick+%28given+name%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Patrick+%28given+name%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Patrick_(given_name)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Patrick" title="Patrick – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Patrick_(voornaam)" title="Patrick (voornaam) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Patrick" title="Patrick – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Patrick" title="Patrick – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Patrick" title="Patrick – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Patrick" title="Patrick – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%BA%D1%96%D0%B9" title="Патрикій – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q18002623#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 13 October 2019, at 10:08<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Patrick_(given_name)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.168","walltime":"0.244","ppvisitednodes":{"value":737,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":8708,"limit":2097152},"templateargumentsize":{"value":1923,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":247,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  171.023      1 -total"," 68.50%  117.158      1 Template:Infobox_Given_Name_Revised"," 58.97%  100.844      1 Template:Infobox"," 31.12%   53.218      1 Template:Given_name"," 25.45%   43.529      1 Template:Dmbox"," 24.92%   42.613      1 Template:IPAc-en"," 12.36%   21.144      1 Template:Short_description"," 10.02%   17.142      1 Template:Pagetype","  5.76%    9.848      1 Template:Comma_separated_entries","  2.90%    4.955      1 Template:IPA-de"]},"scribunto":{"limitreport-timeusage":{"value":"0.046","limit":"10.000"},"limitreport-memusage":{"value":1773105,"limit":52428800}},"cachereport":{"origin":"mw1267","timestamp":"20191024202320","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Patrick (given name)","url":"https:\/\/en.wikipedia.org\/wiki\/Patrick_(given_name)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q18002623","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q18002623","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-10-10T19:36:02Z","dateModified":"2019-10-13T10:08:29Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/a2\/%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%BA_%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%28%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%29.jpg","headline":"male given name"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":107,"wgHostname":"mw1267"});});</script>
+</body>
+</html>

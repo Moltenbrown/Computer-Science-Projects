@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Dysfunctional family - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Dysfunctional_family","wgTitle":"Dysfunctional family","wgCurRevisionId":922251045,"wgRevisionId":922251045,"wgArticleId":1490692,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with incomplete citations from March 2011","Articles with too many examples from April 2019","All articles with too many examples","Wikipedia articles with style issues from April 2019","Articles needing additional references from April 2019","All articles needing additional references","Articles with multiple maintenance issues","All articles with unsourced statements","Articles with unsourced statements from December 2015","Wikipedia articles needing clarification from April 2019","Family","Parenting"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext",
+"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Dysfunctional_family","wgRelevantArticleId":1490692,"wgRequestId":"XazqnQpAMFwAAHCgPCgAAABI","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject"
+:"wikipedia","wgWikibaseItemId":"Q906343","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.cite.tracking","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice",
+"ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.1"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Dysfunctional_family"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Dysfunctional_family&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Dysfunctional_family&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Dysfunctional_family"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Dysfunctional_family rootpage-Dysfunctional_family skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Dysfunctional family</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-Multiple_issues plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span"><div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Dysfunctional_family&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Dysfunctional_family" title="Talk:Dysfunctional family">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+      <table class="box-Example_farm plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>may contain <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_an_indiscriminate_collection_of_information" title="Wikipedia:What Wikipedia is not">indiscriminate</a>, <a href="/wiki/Wikipedia:Manual_of_Style/Embedded_lists#List_size" class="mw-redirect" title="Wikipedia:Manual of Style/Embedded lists">excessive</a>, or <a href="/wiki/Wikipedia:Neutral_point_of_view#Due_and_undue_weight" title="Wikipedia:Neutral point of view">irrelevant</a> examples</b>.<span class="hide-when-compact"> Please <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Dysfunctional_family&amp;action=edit">improve the article</a> by adding more descriptive text and removing <a href="/wiki/Wikipedia:Example_cruft" title="Wikipedia:Example cruft">less pertinent examples</a>. See Wikipedia's <a href="/wiki/Wikipedia:Writing_better_articles" title="Wikipedia:Writing better articles">guide to writing better articles</a> for further suggestions.</span>  <small class="date-container"><i>(<span class="date">April 2019</span>)</i></small></div></td></tr></tbody></table>
+<table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Dysfunctional_family&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Dysfunctional+family%22">"Dysfunctional family"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Dysfunctional+family%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Dysfunctional+family%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Dysfunctional+family%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Dysfunctional+family%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Dysfunctional+family%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">April 2019</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+    </div>
+</div><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>A <b>dysfunctional family</b> is a <a href="/wiki/Family" title="Family">family</a> in which conflict, misbehavior, and often <a href="/wiki/Child_neglect" title="Child neglect">child neglect</a> or <a href="/wiki/Child_abuse" title="Child abuse">abuse</a> on the part of individual parents occur continuously and regularly, leading other members to accommodate such actions.<sup id="cite_ref-StoopMasteller_1-0" class="reference"><a href="#cite_note-StoopMasteller-1">&#91;1&#93;</a></sup> Children sometimes grow up in such families with the understanding that such a situation is <a href="/wiki/Norm_(sociology)" class="mw-redirect" title="Norm (sociology)">normal</a>. Dysfunctional families are primarily<sup id="cite_ref-StoopMasteller_1-1" class="reference"><a href="#cite_note-StoopMasteller-1">&#91;1&#93;</a></sup> a result of two adults, one typically overtly abusive and the other <a href="/wiki/Codependency" title="Codependency">codependent</a>, and may also be affected by <a href="/wiki/Addiction" title="Addiction">addictions</a> (such as <a href="/wiki/Substance_abuse" title="Substance abuse">substance abuse</a> - e.g. <a href="/wiki/Drug" title="Drug">drugs</a>, including <a href="/wiki/Alcoholism" title="Alcoholism">alcohol</a>), or sometimes by an untreated <a href="/wiki/Mental_illness" class="mw-redirect" title="Mental illness">mental illness</a>. Dysfunctional parents may emulate or over-correct from their own dysfunctional parents. In some cases, the dominant parent will abuse or neglect their children and the other parent will not object,<sup id="cite_ref-StoopMasteller_1-2" class="reference"><a href="#cite_note-StoopMasteller-1">&#91;1&#93;</a></sup> <a href="/wiki/Deception" title="Deception"> misleading</a> a child to assume <a href="/wiki/Blame" title="Blame">blame</a>.<sup id="cite_ref-StoopMasteller_1-3" class="reference"><a href="#cite_note-StoopMasteller-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Perceptions_and_historical_context"><span class="tocnumber">1</span> <span class="toctext">Perceptions and historical context</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Examples"><span class="tocnumber">2</span> <span class="toctext">Examples</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Common_features"><span class="tocnumber">2.1</span> <span class="toctext">Common features</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Near_universal"><span class="tocnumber">2.1.1</span> <span class="toctext">Near universal</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Not_universal"><span class="tocnumber">2.1.2</span> <span class="toctext">Not universal</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-6"><a href="#Specific_examples"><span class="tocnumber">2.2</span> <span class="toctext">Specific examples</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Laundry_List"><span class="tocnumber">2.3</span> <span class="toctext">Laundry List</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Parenting"><span class="tocnumber">3</span> <span class="toctext">Parenting</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Unhealthy_signs"><span class="tocnumber">3.1</span> <span class="toctext">Unhealthy signs</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Dysfunctional_styles[10]"><span class="tocnumber">3.2</span> <span class="toctext">Dysfunctional styles<sup>&#91;10&#93;</sup></span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="#&quot;Children_as_pawns&quot;"><span class="tocnumber">3.2.1</span> <span class="toctext">"Children as pawns"</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#List_of_other_dysfunctional_styles"><span class="tocnumber">3.2.2</span> <span class="toctext">List of other dysfunctional styles</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Dynamical"><span class="tocnumber">4</span> <span class="toctext">Dynamical</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Children"><span class="tocnumber">5</span> <span class="toctext">Children</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#The_six_basic_roles"><span class="tocnumber">5.1</span> <span class="toctext">The six basic roles</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Effects_on_children"><span class="tocnumber">5.2</span> <span class="toctext">Effects on children</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#In_popular_culture"><span class="tocnumber">6</span> <span class="toctext">In popular culture</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Further_reading"><span class="tocnumber">9</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Perceptions_and_historical_context">Perceptions and historical context</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dysfunctional_family&amp;action=edit&amp;section=1" title="Edit section: Perceptions and historical context">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A common misperception of dysfunctional families is the mistaken belief that the parents are on the verge of separation and divorce. While this is true in a few cases, often the marriage bond is very strong as the parents' faults actually complement each other. In short, they have nowhere else to go. However, this does not necessarily mean the family's situation is stable. Any major stressor, such as relocation, unemployment/underemployment, physical or mental illness, natural disaster, etc., can cause existing conflicts affecting the children to become much worse.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>Dysfunctional families pervade all strata of society regardless of social, financial or intellectual status. Nevertheless, until recent decades, the concept of a dysfunctional family was not taken seriously by professionals (therapists, social workers, teachers, counselors, clergy, etc.), especially among the middle and upper classes. Any intervention would have been seen as violating the sanctity of marriage and increasing the probability of divorce, which was socially unacceptable at the time. Historically, children of dysfunctional families were expected to obey their parents (ultimately the father), and <a href="/wiki/Coping_(psychology)" class="mw-redirect" title="Coping (psychology)">cope</a> with the situation alone.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dysfunctional_family&amp;action=edit&amp;section=2" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Dysfunctional family members have common features and behavior patterns as a result of their experiences within the family structure. This tends to <a href="/wiki/Reinforce" class="mw-redirect" title="Reinforce">reinforce</a> the dysfunctional behavior, either through <a href="/wiki/Enabling" title="Enabling">enabling</a> or perpetuation. The family unit can be affected by a variety of factors.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Common_features">Common features</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dysfunctional_family&amp;action=edit&amp;section=3" title="Edit section: Common features">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Near_universal">Near universal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dysfunctional_family&amp;action=edit&amp;section=4" title="Edit section: Near universal">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Some features are common to most dysfunctional families:
+</p>
+<ul><li>Lack of <a href="/wiki/Empathy" title="Empathy">empathy</a>, understanding, and <a href="/wiki/Sensitivity_(human)" class="mw-redirect" title="Sensitivity (human)">sensitivity</a> towards certain family members, while expressing extreme empathy or <a href="/wiki/Appeasement" title="Appeasement">appeasement</a> towards one or more members who have real or perceived "special needs". In other words, one family member continuously receives far more than they deserve, while another is <a href="/wiki/Marginalization" class="mw-redirect" title="Marginalization">marginalized</a>.</li>
+<li><a href="/wiki/Denial" title="Denial">Denial</a> (refusal to acknowledge abusive behavior, possibly believing that the situation is normal or even beneficial; also known as the "<a href="/wiki/Elephant_in_the_room" title="Elephant in the room">elephant in the room</a>".)</li>
+<li>Inadequate or missing <a href="/wiki/Personal_boundaries" title="Personal boundaries">boundaries</a> for self (e.g. tolerating inappropriate treatment from others, failing to express what is acceptable and unacceptable treatment, tolerance of physical, emotional or <a href="/wiki/Sexual_abuse" title="Sexual abuse">sexual abuse</a>.)</li>
+<li>Disrespect of others' boundaries (e.g. physical contact that other person dislikes; breaking important <a href="/wiki/Promise" title="Promise">promises</a> without just cause; purposefully violating a boundary another person has expressed.)</li>
+<li>Extremes in conflict (either too much fighting or insufficient peaceful <a href="/wiki/Argument" title="Argument">arguing</a> between family members.)</li>
+<li><a href="/wiki/Egalitarianism" title="Egalitarianism">Unequal</a> or unfair treatment of one or more family members due to their <a href="/wiki/Birth_order" title="Birth order">birth order</a>, gender, age, family role (mother, etc.), abilities, <a href="/wiki/Race_(classification_of_humans)" class="mw-redirect" title="Race (classification of humans)">race</a>, <a href="/wiki/Caste" title="Caste">caste</a>, etc. (may include frequent appeasement of one member at the expense of others, or an uneven/inconsistent enforcement of rules.)</li></ul>
+<h4><span class="mw-headline" id="Not_universal">Not universal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dysfunctional_family&amp;action=edit&amp;section=5" title="Edit section: Not universal">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Though not universal among dysfunctional families, and by no means exclusive to them, the following features are typical of dysfunctional families:
+</p>
+<ul><li>Abnormally high levels of <a href="/wiki/Jealousy" title="Jealousy">jealousy</a> or other <a href="/wiki/Abusive_power_and_control" title="Abusive power and control">controlling</a> behaviors.</li>
+<li>Conflict influenced by marital status:
+<ul><li>Between separated or divorced parents, usually related to, or arising from their breakup.</li>
+<li>Conflict between parents who remain married, often for the perceived "sake" of the children, but whose separation or divorce would in fact remove a detrimental influence on those children (must be evaluated on a case-by-case basis, as a breakup may harm children.)</li>
+<li>Parents who wish to divorce, but cannot due to financial, societal (including religious), or legal reasons.</li></ul></li>
+<li>Children afraid to talk (within or outside the family) about what is happening at home, or are otherwise fearful of their parents.</li>
+<li>Abnormal sexual behavior such as <a href="/wiki/Adultery" title="Adultery">adultery</a>, <a href="/wiki/Promiscuity" title="Promiscuity">promiscuity</a>, or <a href="/wiki/Incest" title="Incest">incest</a>.</li>
+<li>Lack of time spent together, especially in recreational activities and social events (<i>"We never do anything as a family."</i>)</li>
+<li>Parents insist that they treat their children fairly and equitably when that is not the case.</li>
+<li>Family members (including children) who <a href="/wiki/Disown" class="mw-redirect" title="Disown">disown</a> each other, or refuse to be seen together in public (either unilaterally or bilaterally.)</li></ul>
+<h3><span class="mw-headline" id="Specific_examples">Specific examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dysfunctional_family&amp;action=edit&amp;section=6" title="Edit section: Specific examples">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In many cases, the following would cause a family to be dysfunctional:<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2015)">citation needed</span></a></i>&#93;</sup>
+</p>
+<ul><li>Families with older parents or <a href="/wiki/Immigration" title="Immigration">immigrant</a> parents who cannot cope with changing times or a different culture.</li>
+<li>A parent of the same sex never intercedes in father–daughter/mother–son relations on behalf of the child.</li>
+<li>Children who have no contact with the extended family of their mother or father due to disharmony, disagreement, <a href="/wiki/Prejudice" title="Prejudice">prejudice</a>, <a href="/wiki/Feud" title="Feud">feuding</a>, etc.</li>
+<li>A family with one or more rebellious children at whom parents are chronically angry, wherein non-rebellious children have to "walk on eggshells" to avoid spillover effects of the parents' anger.</li>
+<li>An intense <a href="/wiki/Schism_(religion)" class="mw-redirect" title="Schism (religion)">rift</a>, extending beyond mere disagreement of opinion to personal animosity between family members regarding <a href="/wiki/Ideology" title="Ideology">ideology</a> (e.g. children's disagreement with their parents' religious beliefs; a family member having an abortion while other members sharply object; parents who support their country being at war, while children do not.)</li></ul>
+<h3><span class="mw-headline" id="Laundry_List">Laundry List</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dysfunctional_family&amp;action=edit&amp;section=7" title="Edit section: Laundry List">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Laundry List is a list of 14 traits of an adult child of an alcoholic or otherwise dysfunctional family credited to Tony A., 1978:<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title=" (April 2019)">further explanation needed</span></a></i>&#93;</sup>  
+</p>
+<ol><li>We became approval seekers and lost our identity in the process.</li>
+<li>We are frightened by angry people and any personal criticism.</li>
+<li>We either become alcoholics, marry them or both, or find another compulsive personality such as a <a href="/wiki/Workaholic" title="Workaholic">workaholic</a> to fulfill our sick abandonment needs.</li>
+<li>We live life from the viewpoint of victims and we are attracted by that weakness in our love and friendship relationships.</li>
+<li>We have an overdeveloped sense of responsibility and it is easier for us to be concerned with others rather than ourselves; this enables us not to look too closely at our own faults, etc.</li>
+<li>We get guilt feelings when we stand up for ourselves instead of giving in to others.</li>
+<li>We became addicted to excitement.</li>
+<li>We confuse love and pity and tend to "love" people we can "pity" and "rescue."</li>
+<li>We have "stuffed" our feelings from our traumatic childhoods and have lost the ability to feel or express our feelings because it hurts so much (denial).</li>
+<li>We judge ourselves harshly and have a very low sense of self-esteem.</li>
+<li>We are dependent personalities who are terrified of abandonment and will do anything to hold on to a relationship in order not to experience painful abandonment feelings, which we received from living with sick people who were never there emotionally for us.</li>
+<li>Alcoholism is a family disease, and we became para-alcoholics and took on the characteristics of that disease even though we did not pick up the drink.</li>
+<li>Para-alcoholics are reactors rather than actors.</li></ol>
+<h2><span class="mw-headline" id="Parenting">Parenting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dysfunctional_family&amp;action=edit&amp;section=8" title="Edit section: Parenting">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Unhealthy_signs">Unhealthy signs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dysfunctional_family&amp;action=edit&amp;section=9" title="Edit section: Unhealthy signs">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Unhealthy parenting signs which could lead to a family becoming dysfunctional include:<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<ul><li>Unrealistic expectations</li>
+<li>Ridicule<sup id="cite_ref-Neuharth_1999_7-0" class="reference"><a href="#cite_note-Neuharth_1999-7">&#91;7&#93;</a></sup></li>
+<li>Conditional love<sup id="cite_ref-Neuharth_1999_7-1" class="reference"><a href="#cite_note-Neuharth_1999-7">&#91;7&#93;</a></sup></li>
+<li><a href="/wiki/Respect" title="Respect">Disrespect</a>;<sup id="cite_ref-Neuharth_1999_7-2" class="reference"><a href="#cite_note-Neuharth_1999-7">&#91;7&#93;</a></sup> especially <a href="/wiki/Contempt" title="Contempt">contempt</a>.</li>
+<li><a href="/wiki/Emotion" title="Emotion">Emotional</a> <a href="/wiki/Toleration" title="Toleration">intolerance</a> (family members not allowed to express the "wrong" emotions.)<sup id="cite_ref-Neuharth_1999_7-3" class="reference"><a href="#cite_note-Neuharth_1999-7">&#91;7&#93;</a></sup></li>
+<li>Social dysfunction or <a href="/wiki/Solitude" title="Solitude">isolation</a><sup id="cite_ref-Neuharth_1999_7-4" class="reference"><a href="#cite_note-Neuharth_1999-7">&#91;7&#93;</a></sup> (for example, parents unwilling to reach out to other families—especially those with children of the same gender and approximate age, or do nothing to help their "friendless" child.)</li>
+<li>Stifled speech (children not allowed to dissent or question authority.)<sup id="cite_ref-Neuharth_1999_7-5" class="reference"><a href="#cite_note-Neuharth_1999-7">&#91;7&#93;</a></sup></li>
+<li>Denial of an "inner life" (children are not allowed to develop their own value systems.)<sup id="cite_ref-Neuharth_1999_7-6" class="reference"><a href="#cite_note-Neuharth_1999-7">&#91;7&#93;</a></sup></li>
+<li>Being under- or <a href="/wiki/Over_protective" class="mw-redirect" title="Over protective">over-protective</a></li>
+<li><a href="/wiki/Apathy" title="Apathy">Apathy</a> (<i>"I don't care!"</i>)</li>
+<li>Belittling (<i>"You can't do anything right!"</i>)</li>
+<li><a href="/wiki/Shame" title="Shame">Shame</a> (<i>"Shame on you!"</i>)</li>
+<li>Bitterness (regardless of what is said, using a bitter <a href="/wiki/Paralanguage" title="Paralanguage">tone of voice</a>.)</li>
+<li><a href="/wiki/Hypocrisy" title="Hypocrisy">Hypocrisy</a> (<i>"Do as I say, not as I do."</i>)</li>
+<li>Lack of <a href="/wiki/Forgiveness" title="Forgiveness">forgiveness</a> for minor misdeeds or accidents</li>
+<li>Judgmental statements or <a href="/wiki/Demonization" title="Demonization">demonization</a> (<i>"You are a liar!"</i>)</li>
+<li>Either little or excessive <a href="/wiki/Criticism" title="Criticism">criticism</a> (experts say 80–90% <a href="/wiki/Praise" title="Praise">praise</a>, and 10–20% <a href="/wiki/Criticism#Constructive_criticism" title="Criticism">constructive criticism</a> is the most healthy.)<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup></li>
+<li>Double standards or giving "mixed messages" by having a dual system of <a href="/wiki/Values" class="mw-redirect" title="Values">values</a> (i.e. one set for the outside world, another when in private, or teaching divergent values to each child.)</li>
+<li>The absentee parent (seldom available for their child due to <a href="/wiki/Workaholic" title="Workaholic">work overload</a>, alcohol/drug abuse, <a href="/wiki/Problem_gambling" title="Problem gambling">gambling</a>, or other addictions.)</li>
+<li>Unfulfilled projects, activities, and promises affecting children (<i>"We'll do it later."</i>)</li>
+<li>Giving to one child what rightly belongs to another</li>
+<li>Gender <a href="/wiki/Prejudice" title="Prejudice">prejudice</a> (treats one gender of children fairly; the other unfairly.)</li>
+<li>Discussion and exposure to sexuality: either too much, too soon or too little, too late</li>
+<li>Faulty <a href="/wiki/Discipline" title="Discipline">discipline</a> based more on <a href="/wiki/Emotion" title="Emotion">emotions</a> or family <a href="/wiki/Politics" title="Politics">politics</a> than on established rules (<i>e.g.</i>, <a href="/wiki/Punishment_(psychology)" title="Punishment (psychology)">punishment</a> <a href="/wiki/Ex_post_facto_law" title="Ex post facto law">by "surprise"</a>.)</li>
+<li>Having an unpredictable emotional state due to <a href="/wiki/Substance_abuse" title="Substance abuse">substance abuse</a>, <a href="/wiki/Personality_disorder" title="Personality disorder">personality disorder</a>(s), or <a href="/wiki/Psychological_stress" title="Psychological stress">stress</a></li>
+<li>Parents always (or never) take their children's side when others report acts of misbehavior, or teachers report problems at school</li>
+<li><a href="/wiki/Scapegoating" title="Scapegoating">Scapegoating</a> (knowingly or recklessly <a href="/wiki/Blaming" class="mw-redirect" title="Blaming">blaming</a> one child for the misdeeds of another)</li>
+<li>"Tunnel vision" diagnosis of children's problems (for example, a parent may think their child is either lazy or has <a href="/wiki/Learning_disabilities" class="mw-redirect" title="Learning disabilities">learning disabilities</a> after he falls behind in school despite recent absence due to illness.)</li>
+<li>Older <a href="/wiki/Sibling" title="Sibling">siblings</a> given either no or excessive <a href="/wiki/Authority" title="Authority">authority</a> over younger siblings with respect to their age difference and level of <a href="/wiki/Maturity_(psychological)" title="Maturity (psychological)">maturity</a>.</li>
+<li>Frequent withholding of consent (<a href="/wiki/Blessing#Other_uses" title="Blessing">"blessing"</a>) for culturally common, lawful, and age-appropriate activities a child wants to take part in</li>
+<li>The "<a href="/wiki/Know-it-all" title="Know-it-all">know-it-all</a>" (has no need to obtain child's side of the story when accusing, or listen to child's opinions on matters which greatly impact them.)</li>
+<li>Regularly forcing children to attend activities for which they are extremely over- or under-qualified (e.g. using a preschool to babysit a typical nine-year-old boy, taking a young child to poker games, etc.)</li>
+<li>Either being a <a href="/wiki/Miser" title="Miser">miser</a> ("<a href="/wiki/Ebenezer_Scrooge" title="Ebenezer Scrooge">scrooge</a>") in totality or selectively allowing children's needs to go unmet (e.g. a father will not buy a bicycle for his son because he wants to save money for <a href="/wiki/Retirement" title="Retirement">retirement</a> or "something important".)</li>
+<li>Disagreements about <a href="/wiki/Nature_and_nurture" class="mw-redirect" title="Nature and nurture">nature and nurture</a> (parents, often non-biological, blame common problems on child's <a href="/wiki/Heredity" title="Heredity">heredity</a>, when faulty parenting may be the actual cause.)</li></ul>
+<h3><span id="Dysfunctional_styles.5B10.5D"></span><span class="mw-headline" id="Dysfunctional_styles[10]">Dysfunctional styles<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dysfunctional_family&amp;action=edit&amp;section=10" title="Edit section: Dysfunctional styles[10]">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span id=".22Children_as_pawns.22"></span><span class="mw-headline" id="&quot;Children_as_pawns&quot;">"Children as pawns"</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dysfunctional_family&amp;action=edit&amp;section=11" title="Edit section: &quot;Children as pawns&quot;">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>One common dysfunctional parental behavior is a parent's <a href="/wiki/Psychological_manipulation" title="Psychological manipulation">manipulation</a> of a child in order to achieve some outcome adverse to the other parent's rights or interests. Examples include verbal manipulation such as spreading <a href="/wiki/Gossip" title="Gossip">gossip</a> about the other parent, communicating with the parent through the child (and in the process exposing the child to <a href="/wiki/Shooting_the_messenger" title="Shooting the messenger">the risks of the other parent's displeasure with that communication</a>) rather than doing so directly, trying to obtain information through the child (<a href="/wiki/Spying" class="mw-redirect" title="Spying">spying</a>), or causing the child to dislike the other parent, with insufficient or no concern for the damaging effects of the parent's behavior on the child. While many instances of such manipulation occur in <a href="/wiki/Joint_custody" title="Joint custody">shared custody</a> situations that have resulted from separation or divorce, it can also take place in intact families, where it is known as <a href="/wiki/Triangulation_(psychology)" title="Triangulation (psychology)">triangulation</a>.
+</p>
+<h4><span class="mw-headline" id="List_of_other_dysfunctional_styles">List of other dysfunctional styles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dysfunctional_family&amp;action=edit&amp;section=12" title="Edit section: List of other dysfunctional styles">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>"Using" (destructively <a href="/wiki/Narcissistic_parents" class="mw-redirect" title="Narcissistic parents">narcissistic parents</a> who rule by fear and conditional love.)</li>
+<li><a href="/wiki/Abusing" class="mw-redirect" title="Abusing">Abusing</a> (parents who use physical violence, or <a href="/wiki/Psychological_abuse" title="Psychological abuse">emotionally</a>, or <a href="/wiki/Child_sexual_abuse" title="Child sexual abuse">sexually</a> abuse their children.)</li>
+<li><a href="/wiki/Perfectionism_(psychology)" title="Perfectionism (psychology)">Perfectionist</a> (fixating on order, prestige, power, or perfect appearances, while preventing their child from failing at anything.)</li>
+<li><a href="/wiki/Dogma" title="Dogma">Dogmatic</a> or <a href="/wiki/Cult" title="Cult">cult</a>-like (harsh and inflexible <a href="/wiki/Discipline" title="Discipline">discipline</a>, with children not allowed, within reason, to dissent, question <a href="/wiki/Authority" title="Authority">authority</a>, or develop their own <a href="/wiki/Value_system" class="mw-redirect" title="Value system">value system</a>.)</li>
+<li>Inequitable parenting (going to extremes for one child while continually ignoring the needs of another.)</li>
+<li><a href="https://en.wiktionary.org/wiki/deprivation" class="extiw" title="wikt:deprivation">Deprivation</a> (control or <a href="/wiki/Child_neglect" title="Child neglect">neglect</a> by withholding love, <a href="/wiki/Child_support" title="Child support">support</a>, necessities, <a href="/wiki/Sympathy" title="Sympathy">sympathy</a>, <a href="/wiki/Praise" title="Praise">praise</a>, <a href="/wiki/Attention" title="Attention">attention</a>, encouragement, <a href="/wiki/Childcare" class="mw-redirect" title="Childcare">supervision</a>, or otherwise putting their children's well-being at risk.)</li>
+<li>Abuse among <a href="/wiki/Sibling" title="Sibling">siblings</a> (parents fail to intervene when a sibling physically or sexually abuses another sibling.)</li>
+<li><a href="/wiki/Child_abandonment" title="Child abandonment">Abandonment</a> (a parent who willfully separates from their children, not wishing any further contact, and in some cases without locating alternative, long-term parenting arrangements, leaving them as <a href="/wiki/Orphan" title="Orphan">orphans</a>.)</li>
+<li><a href="/wiki/Appeasement" title="Appeasement">Appeasement</a> (parents who reward bad behavior—even by their own standards—and inevitably punish another child's good behavior in order to maintain the peace and avoid <a href="/wiki/Temper_tantrum" class="mw-redirect" title="Temper tantrum">temper tantrums</a>. <i>"Peace at any price."</i>)</li>
+<li>Loyalty manipulation (giving unearned rewards and lavish attention trying to ensure a favored, yet rebellious child will be the one most loyal and well-behaved, while subtly ignoring the wants and needs of their most loyal child currently.)</li>
+<li>"<a href="/wiki/Helicopter_parent" title="Helicopter parent">Helicopter parenting</a>" (parents who <a href="/wiki/Micromanagement" title="Micromanagement">micro-manage</a> their children's lives or relationships among siblings—especially minor conflicts.)</li>
+<li>"The deceivers" (well-regarded parents in the community, likely to be involved in some charitable/non-profit works, who abuse or mistreat one or more of their children.)</li>
+<li>"<a href="/wiki/Public_relations" title="Public relations">Public image manager</a>" (sometimes related to above, children warned to not disclose what fights, abuse, or damage happens at home, or face severe punishment <i>"Don't tell anyone what goes on in this family"</i>.)</li>
+<li>"The <a href="/wiki/Paranoia" title="Paranoia">paranoid</a> parent" (a parent having persistent and irrational <a href="/wiki/Fear" title="Fear">fear</a> accompanied by <a href="/wiki/Anger" title="Anger">anger</a> and <a href="/wiki/False_accusations" class="mw-redirect" title="False accusations">false accusations</a> that their child is up to no good or others are plotting harm.)</li>
+<li>"No friends allowed" (parents discourage, prohibit, or interfere with their child from making friends of the same age and gender.)</li>
+<li>Role reversal (parents who expect their minor children to take care of them instead.)</li>
+<li>"Not your business" (children continuously told that a particular brother or sister who is often causing problems is none of their concern.)</li>
+<li>Ultra-<a href="/wiki/Egalitarianism" title="Egalitarianism">egalitarianism</a> (either a much younger child is permitted to do whatever an older child may, or an older child must wait years until a younger child is mature enough.)</li>
+<li>"The guard dog" (a parent who blindly attacks family members perceived as causing the slightest upset to their esteemed spouse, partner, or child.)</li>
+<li>"My baby forever" (a parent who will not allow one or more of their young children to grow up and begin taking care of themselves.)</li>
+<li>"The cheerleader" (one parent "cheers on" the other parent who is simultaneously abusing their child.)</li>
+<li>"Along for the ride" (a reluctant <i>de facto</i>, <a href="/wiki/Stepfamily" title="Stepfamily">step</a>, <a href="/wiki/Foster_care" title="Foster care">foster</a>, or <a href="/wiki/Adoptive" class="mw-redirect" title="Adoptive">adoptive</a> parent who does not truly care about their non-biological child, but must co-exist in the same home for the sake of their spouse or partner) &#160;<i>See also: <a href="/wiki/Cinderella_effect" title="Cinderella effect">Cinderella effect</a></i>.</li>
+<li>"The politician" (a parent who repeatedly makes or agrees to children's promises while having little to no intention of keeping them.)</li>
+<li>"It's taboo" (parents rebuff any questions children may have about sexuality, pregnancy, romance, puberty, certain areas of human anatomy, nudity, etc.)</li>
+<li><a href="/wiki/Identified_patient" title="Identified patient">Identified patient</a> (one child, usually selected by the mother, who is forced into going to therapy while the family's overall dysfunction is kept hidden.)</li>
+<li><a href="/wiki/M%C3%BCnchausen_syndrome_by_proxy" class="mw-redirect" title="Münchausen syndrome by proxy">Münchausen syndrome by proxy</a> (a much more extreme situation than above, where the child is intentionally made ill by a parent <a href="/wiki/Attention_seeking" title="Attention seeking">seeking attention</a> from physicians and other professionals.)</li></ul>
+<h2><span class="mw-headline" id="Dynamical">Dynamical</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dysfunctional_family&amp;action=edit&amp;section=13" title="Edit section: Dynamical">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Coalitions are subsystems within families with more rigid boundaries and are thought to be a sign of family dysfunction.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<ul><li>The isolated family member (either a parent or child up against the rest of the otherwise united family.)</li>
+<li>Parent vs. parent (frequent fights amongst adults, whether married, divorced, or separated, conducted away from the children.)</li>
+<li>The polarized family (a parent and one or more children on each side of the conflict.)</li>
+<li>Parents vs. kids (<a href="/wiki/Intergenerational_conflict" class="mw-redirect" title="Intergenerational conflict">intergenerational conflict</a>, <a href="/wiki/Generation_gap" title="Generation gap">generation gap</a> or <a href="/wiki/Culture_shock" title="Culture shock">culture shock</a> dysfunction.)</li>
+<li>The <a href="/wiki/Balkanization" title="Balkanization">balkanized</a> family (named after the three-way war in the <a href="/wiki/Balkans" title="Balkans">Balkans</a> where alliances shift back and forth.)</li>
+<li>Free-for-all (a family that fights in a "free-for-all" style, though may become polarized when range of possible choices is limited.)</li></ul>
+<h2><span class="mw-headline" id="Children">Children</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dysfunctional_family&amp;action=edit&amp;section=14" title="Edit section: Children">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Unlike divorce, and to a lesser extent, separation, there is often no record of an "intact" family being dysfunctional. As a result, friends, relatives, and teachers of such children may be completely unaware of the situation. In addition, a child may be unfairly <a href="/wiki/Blame" title="Blame">blamed</a> for the family's dysfunction, and placed under even greater stress than those whose parents separate.
+</p>
+<h3><span class="mw-headline" id="The_six_basic_roles">The six basic roles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dysfunctional_family&amp;action=edit&amp;section=15" title="Edit section: The six basic roles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Children growing up in a dysfunctional family have been known to adopt or be assigned one or more of the following six basic roles:<sup id="cite_ref-DLW_12-0" class="reference"><a href="#cite_note-DLW-12">&#91;12&#93;</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p>
+<ul><li>The <b>Golden Child</b> (also known as the <b>Hero</b> or <b>Superkid</b><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>): a child who becomes a <a href="/wiki/Need_for_achievement" title="Need for achievement">high achiever</a> or <a href="/wiki/Overachiever" class="mw-redirect" title="Overachiever">overachiever</a> outside the family (<i>e.g.</i>, in academics or athletics) as a means of escaping the dysfunctional family environment, defining themselves independently of their role in the dysfunctional family, currying favor with parents, or shielding themselves from criticism by family members.</li>
+<li>The <b>Problem Child</b>, <b>Rebel</b>, or <b>Truth Teller</b> <sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> (also known as the <b><a href="/wiki/Scapegoat" title="Scapegoat">Scapegoat</a></b> when unjustifiedly assigned this role by others within the family): the child who <i>a</i>) causes most problems related to the family's dysfunction or <i>b</i>) "<a href="/wiki/Acting_out" title="Acting out">acts out</a>" in response to preexisting family dysfunction, in the latter case often in an attempt to divert attention paid to another member who exhibits a pattern of similar misbehavior.
+<ul><li>A variant of the "problem child" role is the <b>Scapegoat</b>, who is unjustifiably assigned the "problem child" role by others within the family or even wrongfully blamed by other family members for those members' own individual or collective dysfunction, often despite being the only emotionally stable member of the family.</li></ul></li>
+<li>The <b>Caretaker</b>: the one who takes responsibility for the emotional well-being of the family, often assuming a parental role; the intra-familial counterpart of the "Good Child"/"Superkid."</li>
+<li>The <b>Lost Child</b> or <b>Passive Kid</b>:<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> the inconspicuous, <a href="/wiki/Extraversion_and_introversion" title="Extraversion and introversion">introverted</a>, quiet one, whose needs are usually ignored or hidden.</li>
+<li>The <b>Mascot</b> or <b>Family Clown</b>:<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> uses comedy to divert attention away from the increasingly dysfunctional family system.</li>
+<li>The <b>Mastermind</b>: the <a href="/wiki/Opportunist" class="mw-redirect" title="Opportunist">opportunist</a> who capitalizes on the other family members' faults to get whatever they want; often the object of appeasement by grown-ups.</li></ul>
+<h3><span class="mw-headline" id="Effects_on_children">Effects on children</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dysfunctional_family&amp;action=edit&amp;section=16" title="Edit section: Effects on children">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Children of dysfunctional families, either at the time, or as they grow older, may also:<sup id="cite_ref-DLW_12-1" class="reference"><a href="#cite_note-DLW-12">&#91;12&#93;</a></sup>
+</p>
+<ul><li>Lack the ability to be playful, or childlike, and may "grow up too fast"; conversely they may grow up too slowly, or be in a mixed mode (e.g. well-behaved, but unable to care for themselves.)</li>
+<li>Have moderate to severe <a href="/wiki/Mental_health" title="Mental health">mental health</a> issues, including possible <a href="/wiki/Depression_(mood)" title="Depression (mood)">depression</a>, <a href="/wiki/Anxiety" title="Anxiety">anxiety</a>,<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> and <a href="/wiki/Suicide" title="Suicide">suicidal thoughts</a>.</li>
+<li>Become <a href="/wiki/Substance_dependence" title="Substance dependence">addicted</a> to <a href="/wiki/Drug_abuse" class="mw-redirect" title="Drug abuse">drugs</a>, including cigarettes or <a href="/wiki/Alcoholism" title="Alcoholism">alcohol</a>, especially if parents or friends have done the same.</li>
+<li><a href="/wiki/Bullying" title="Bullying">Bully</a> or <a href="/wiki/Harassment" title="Harassment">harass</a> others, or be an easy victim thereof (possibly taking a dual role in different settings.)</li>
+<li>Be in <a href="/wiki/Denial" title="Denial">denial</a> regarding the severity of the family's situation.</li>
+<li>Have mixed feelings of <a href="/wiki/Love%E2%80%93hate" class="mw-redirect" title="Love–hate">love–hate</a> towards certain family members.</li>
+<li>Become a <a href="/wiki/Sex_offender" title="Sex offender">sex offender</a>, possibly including <a href="/wiki/Pedophilia" title="Pedophilia">pedophilia</a>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup></li>
+<li>Have difficulty forming healthy <a href="/wiki/Interpersonal_relationship" title="Interpersonal relationship">relationships</a> within their <a href="/wiki/Peer_group" title="Peer group">peer group</a> (usually due to <a href="/wiki/Shyness" title="Shyness">shyness</a> or a <a href="/wiki/Personality_disorder" title="Personality disorder">personality disorder</a>.)</li>
+<li>Spend an inordinate amount of time alone watching television, playing video games, surfing the Internet, listening to music, and engaging in other activities which lack in-person <a href="/wiki/Social_interaction" class="mw-redirect" title="Social interaction">social interaction</a>.</li>
+<li>Feel <a href="/wiki/Angry" class="mw-redirect" title="Angry">angry</a>, <a href="/wiki/Anxious" class="mw-redirect" title="Anxious">anxious</a>, <a href="/wiki/Depression_(mood)" title="Depression (mood)">depressed</a>, isolated from others, or unlovable.</li>
+<li>Have a <a href="/wiki/Speech_disorder" title="Speech disorder">speech disorder</a> (related to emotional abuse.)<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup></li>
+<li><a href="/wiki/Distrust" title="Distrust">Distrust</a> others or even have <a href="/wiki/Paranoia" title="Paranoia">paranoia</a>.</li>
+<li>Become a <a href="/wiki/Juvenile_delinquent" class="mw-redirect" title="Juvenile delinquent">juvenile delinquent</a> and turn to a life of <a href="/wiki/Crime" title="Crime">crime</a> (with or without <a href="/wiki/Dropping_out" title="Dropping out">dropping out</a> of school), and possibly become a <a href="/wiki/Gang_member" class="mw-redirect" title="Gang member">gang member</a> as well.</li>
+<li>Struggle academically at school or academic performance declines unexpectedly.</li>
+<li>Have low <a href="/wiki/Self-esteem" title="Self-esteem">self-esteem</a> or a poor <a href="/wiki/Self_image" class="mw-redirect" title="Self image">self image</a> with difficulty expressing emotions.</li>
+<li>Rebel against parental authority, or conversely, uphold their family's values in the face of <a href="/wiki/Peer_pressure" title="Peer pressure">peer pressure</a>, or even try to take an impossible "middle ground" that pleases no one.</li>
+<li>Think only of themselves to make up the difference of their childhoods (as they are still learning the balance of <a href="/wiki/Self-love" title="Self-love">self-love</a>.)</li>
+<li>Have little <a href="/wiki/Self-discipline" class="mw-redirect" title="Self-discipline">self-discipline</a> when parents are not around, such as <a href="/wiki/Compulsive_spending" class="mw-redirect" title="Compulsive spending">compulsive spending</a>, <a href="/wiki/Procrastinating" class="mw-redirect" title="Procrastinating">procrastinating</a> too close to deadlines, etc. (unfamiliar, inchoate, and seemingly lax or avoidable real-world consequences vs. known, concrete, and rigidly imposed parental consequences.)</li>
+<li>Find an (often <a href="/wiki/Domestic_violence" title="Domestic violence">abusive</a>) spouse or partner at a <a href="/wiki/Child_marriage" title="Child marriage">young age</a>, or <a href="/wiki/Runaway_(dependent)" title="Runaway (dependent)">run away from home</a>.</li>
+<li>Become <a href="/wiki/Teen_pregnancy" class="mw-redirect" title="Teen pregnancy">pregnant</a> or a parent of <a href="/wiki/Illegitimacy" class="mw-redirect" title="Illegitimacy">illegitimate</a> children.</li>
+<li>Be at risk of becoming <a href="/wiki/Poverty" title="Poverty">poor</a> or <a href="/wiki/Homeless" class="mw-redirect" title="Homeless">homeless</a>, even if the family is already wealthy or middle-class.</li>
+<li>Live a <a href="/wiki/Recluse" title="Recluse">reclusive</a> lifestyle without any spouse, partner, children, or friends.</li>
+<li>Have auto-destructive or potentially self-damaging behaviors.</li>
+<li>Join a <a href="/wiki/Cult" title="Cult">cult</a> to find the acceptance they never had at home, or at a minimum, have differing <a href="/wiki/Philosophy" title="Philosophy">philosophical</a>/<a href="/wiki/Religion" title="Religion">religious</a> <a href="/wiki/Belief" title="Belief">beliefs</a> from what they were previously taught.</li>
+<li>Strive (as young adults) to live far away from particular family members or the family as a whole, possibly spending much more time with <a href="/wiki/Extended_family" title="Extended family">extended family</a>.</li>
+<li>Perpetuate dysfunctional behaviors in other relationships (especially their own children.)</li></ul>
+<h2><span class="mw-headline" id="In_popular_culture">In popular culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dysfunctional_family&amp;action=edit&amp;section=17" title="Edit section: In popular culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Category:Films_about_dysfunctional_families" title="Category:Films about dysfunctional families">Category:Films about dysfunctional families</a></li>
+<li><a href="/wiki/Category:Television_series_about_dysfunctional_families" title="Category:Television series about dysfunctional families">Category:Television series about dysfunctional families</a></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dysfunctional_family&amp;action=edit&amp;section=18" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 15em; -webkit-column-width: 15em; column-width: 15em;">
+<ul><li><a href="/wiki/Rotten_kid_theorem" class="mw-redirect" title="Rotten kid theorem">Rotten kid theorem</a></li>
+<li><a href="/wiki/Abnormality_(behavior)" title="Abnormality (behavior)">Abnormality (behavior)</a></li>
+<li><a href="/wiki/Alcoholism_in_family_systems" title="Alcoholism in family systems">Alcoholism in family systems</a></li>
+<li><a href="/wiki/Domestic_violence" title="Domestic violence">Domestic violence</a></li>
+<li><a href="/wiki/Family_nexus" title="Family nexus">Family nexus</a></li>
+<li><a href="/wiki/Family_therapy" title="Family therapy">Family therapy</a></li>
+<li><a href="/wiki/Harry_Stack_Sullivan" title="Harry Stack Sullivan">Harry Stack Sullivan</a></li>
+<li><a href="/wiki/Identified_patient" title="Identified patient">Identified patient</a></li>
+<li><a href="/wiki/Karpman_Drama_Triangle" class="mw-redirect" title="Karpman Drama Triangle">Karpman Drama Triangle</a></li>
+<li><a href="/wiki/Multisystemic_therapy" title="Multisystemic therapy">Multisystemic therapy</a> (MST)</li>
+<li><a href="/wiki/Narcissistic_parent" title="Narcissistic parent">Narcissistic parent</a></li>
+<li><a href="/wiki/Parental_alienation" title="Parental alienation">Parental alienation</a></li>
+<li><a href="/wiki/Parenting_styles" title="Parenting styles">Parenting styles</a></li>
+<li><a href="/wiki/Psychological_manipulation" title="Psychological manipulation">Psychological manipulation</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dysfunctional_family&amp;action=edit&amp;section=19" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-StoopMasteller-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-StoopMasteller_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-StoopMasteller_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-StoopMasteller_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-StoopMasteller_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">
+<cite class="citation book">Masteller, James; Stoop, David (2011) [1991]. "The Blame Game". <a rel="nofollow" class="external text" href="https://books.google.com/books?id=ymXQtZL2WpoC"><i>Forgiving Our Parents, Forgiving Ourselves: Healing Adult Children of Dysfunctional Families</i></a> (revised and updated ed.). ReadHowYouWant.com. p.&#160;222. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781459622937" title="Special:BookSources/9781459622937"><bdi>9781459622937</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 October</span> 2019</span>. <q>People who grew up in dysfunctional families often feel that everything that goes wrong in the world is their fault.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=The+Blame+Game&amp;rft.btitle=Forgiving+Our+Parents%2C+Forgiving+Ourselves%3A+Healing+Adult+Children+of+Dysfunctional+Families&amp;rft.pages=222&amp;rft.edition=revised+and+updated&amp;rft.pub=ReadHowYouWant.com&amp;rft.date=2011&amp;rft.isbn=9781459622937&amp;rft.aulast=Masteller&amp;rft.aufirst=James&amp;rft.au=Stoop%2C+David&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DymXQtZL2WpoC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADysfunctional+family" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Kerr, Michael E.; <a href="/wiki/Murray_Bowen" title="Murray Bowen">Bowen, Murray</a> (1988-10-17). <a rel="nofollow" class="external text" href="https://archive.org/details/familyevaluation00mich"><i>Family Evaluation</i></a>. W. W. Norton &amp; Company. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0393700565" title="Special:BookSources/978-0393700565"><bdi>978-0393700565</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Family+Evaluation&amp;rft.pub=W.+W.+Norton+%26+Company&amp;rft.date=1988-10-17&amp;rft.isbn=978-0393700565&amp;rft.aulast=Kerr&amp;rft.aufirst=Michael+E.&amp;rft.au=Bowen%2C+Murray&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Ffamilyevaluation00mich&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADysfunctional+family" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Kate_Millett" title="Kate Millett">Millett, Kate</a> (1998). "The Theory of Sexual Politics".  In Marsh, Ian; Campbell, Rosie; Keating, Mike (eds.). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=b72OAwAAQBAJ&amp;pg=PA125#v=onepage&amp;q&amp;f=false"><i>Classic and Contemporary Readings in Sociology</i></a>. Routledge. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.4324%2F9781315840154">10.4324/9781315840154</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0582320239" title="Special:BookSources/978-0582320239"><bdi>978-0582320239</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=The+Theory+of+Sexual+Politics&amp;rft.btitle=Classic+and+Contemporary+Readings+in+Sociology&amp;rft.pub=Routledge&amp;rft.date=1998&amp;rft_id=info%3Adoi%2F10.4324%2F9781315840154&amp;rft.isbn=978-0582320239&amp;rft.aulast=Millett&amp;rft.aufirst=Kate&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Db72OAwAAQBAJ%26pg%3DPA125%23v%3Donepage%26q%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADysfunctional+family" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Napier, Nancy J. (April 1990). <a rel="nofollow" class="external text" href="https://archive.org/details/recreatingyourse0000napi"><i>Recreating Your Self: Help for Adult Children of Dysfunctional Families</i></a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0393028423" title="Special:BookSources/978-0393028423"><bdi>978-0393028423</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Recreating+Your+Self%3A+Help+for+Adult+Children+of+Dysfunctional+Families&amp;rft.date=1990-04&amp;rft.isbn=978-0393028423&amp;rft.aulast=Napier&amp;rft.aufirst=Nancy+J.&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Frecreatingyourse0000napi&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADysfunctional+family" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Florence_Kaslow" title="Florence Kaslow">Kaslow, Florence W.</a> (January 1996). <i>Handbook of Relational Diagnosis and Dysfunctional Family Patterns</i>. Wiley-Interscience. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0471080787" title="Special:BookSources/978-0471080787"><bdi>978-0471080787</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Handbook+of+Relational+Diagnosis+and+Dysfunctional+Family+Patterns&amp;rft.pub=Wiley-Interscience&amp;rft.date=1996-01&amp;rft.isbn=978-0471080787&amp;rft.aulast=Kaslow&amp;rft.aufirst=Florence+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADysfunctional+family" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book">Blair, Justice; Blair, Rita (April 1990). <a rel="nofollow" class="external text" href="https://archive.org/details/abusingfamily0000just"><i>The Abusing Family</i></a> (Revised ed.). Insight Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0306434419" title="Special:BookSources/978-0306434419"><bdi>978-0306434419</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Abusing+Family&amp;rft.edition=Revised&amp;rft.pub=Insight+Books&amp;rft.date=1990-04&amp;rft.isbn=978-0306434419&amp;rft.aulast=Blair&amp;rft.aufirst=Justice&amp;rft.au=Blair%2C+Rita&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fabusingfamily0000just&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADysfunctional+family" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Neuharth_1999-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Neuharth_1999_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Neuharth_1999_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Neuharth_1999_7-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Neuharth_1999_7-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Neuharth_1999_7-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Neuharth_1999_7-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Neuharth_1999_7-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Neuharth, Dan (1999). <i>If You Had Controlling Parents: How to Make Peace with Your Past and Take Your Place in the World</i>. Diane Publishing Company. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0788193835" title="Special:BookSources/978-0788193835"><bdi>978-0788193835</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=If+You+Had+Controlling+Parents%3A+How+to+Make+Peace+with+Your+Past+and+Take+Your+Place+in+the+World&amp;rft.pub=Diane+Publishing+Company&amp;rft.date=1999&amp;rft.isbn=978-0788193835&amp;rft.aulast=Neuharth&amp;rft.aufirst=Dan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADysfunctional+family" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://raisingchildren.net.au/toddlers/connecting-communicating/connecting/praise">"Praise, encouragement and rewards"</a>. <a href="/wiki/Raising_Children_Network" title="Raising Children Network">Raising Children Network</a>. 2011-04-10. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190328211650/https://raisingchildren.net.au/toddlers/connecting-communicating/connecting/praise">Archived</a> from the original on 2019-03-28.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Praise%2C+encouragement+and+rewards&amp;rft.pub=Raising+Children+Network&amp;rft.date=2011-04-10&amp;rft_id=https%3A%2F%2Fraisingchildren.net.au%2Ftoddlers%2Fconnecting-communicating%2Fconnecting%2Fpraise&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADysfunctional+family" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://apps.detnews.com/apps/blogs/askthechildpsychologist/index.php?blogid=36">"Make sure praise balances criticism for solid self-confidence"</a>. Detroit News.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Make+sure+praise+balances+criticism+for+solid+self-confidence&amp;rft.pub=Detroit+News&amp;rft_id=http%3A%2F%2Fapps.detnews.com%2Fapps%2Fblogs%2Faskthechildpsychologist%2Findex.php%3Fblogid%3D36&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADysfunctional+family" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation book">Kagan, Richard; Schlosberg, Shirley (1989-03-17). <i>Families in Perpetual Crisis</i>. W. W. Norton &amp; Company. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0393700664" title="Special:BookSources/978-0393700664"><bdi>978-0393700664</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Families+in+Perpetual+Crisis&amp;rft.pub=W.+W.+Norton+%26+Company&amp;rft.date=1989-03-17&amp;rft.isbn=978-0393700664&amp;rft.aulast=Kagan&amp;rft.aufirst=Richard&amp;rft.au=Schlosberg%2C+Shirley&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADysfunctional+family" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Whiteman, Shawn D.; McHale, Susan M.; Soli, Anna.<a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3127252/">"Theoretical Perspectives on Sibling Relationships"</a>, <i><a href="/wiki/Journal_of_Family_Theory_and_Review" title="Journal of Family Theory and Review">J Fam Theory Rev.</a></i>, 2012 Jun 1; Vol. 3, No. 2, pp. 124–139, <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3127252/">3127252</a>.</span>
+</li>
+<li id="cite_note-DLW-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-DLW_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-DLW_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><i>Forgiving Our Parents: For Adult Children from Dysfunctional Families</i> by Dwight Lee Wolter c. 1995.<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citing_sources#What_information_to_include" title="Wikipedia:Citing sources"><span title="A complete citation is needed (March 2011)">full citation needed</span></a></i>&#93;</sup> Except where individually noted</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation book">Polson, Beth; <a href="/wiki/Virgil_Miller_Newton" title="Virgil Miller Newton">Newton, Miller</a> (1984). <a rel="nofollow" class="external text" href="https://books.google.com/books/about/Not_my_kid.html?id=4AXAtDQ-koQC"><i>Not My Kid: A Family's Guide to Kids and Drugs</i></a>. Arbor Books / Kids of North Jersey Nurses. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0877956334" title="Special:BookSources/978-0877956334"><bdi>978-0877956334</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Not+My+Kid%3A+A+Family%27s+Guide+to+Kids+and+Drugs&amp;rft.pub=Arbor+Books+%2F+Kids+of+North+Jersey+Nurses&amp;rft.date=1984&amp;rft.isbn=978-0877956334&amp;rft.aulast=Polson&amp;rft.aufirst=Beth&amp;rft.au=Newton%2C+Miller&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%2Fabout%2FNot_my_kid.html%3Fid%3D4AXAtDQ-koQC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADysfunctional+family" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Polson and Newton, pp. 81–84</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">[Polson and Newton, pp.&#160;84–85]</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Polson and Newton, pp. 86–90</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Polson and Newton, pp. 85–86</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.smh.com.au/lifestyle/good-parents-buffer-their-kids-minds-20100921-15kcm.html">"Good parents 'buffer' their kids' minds"</a>. <i><a href="/wiki/The_Sydney_Morning_Herald" title="The Sydney Morning Herald">The Sydney Morning Herald</a></i>. <a href="/wiki/Australian_Associated_Press" title="Australian Associated Press">AAP</a>. 2010-09-21<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-06-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Sydney+Morning+Herald&amp;rft.atitle=Good+parents+%27buffer%27+their+kids%27+minds&amp;rft.date=2010-09-21&amp;rft_id=https%3A%2F%2Fwww.smh.com.au%2Flifestyle%2Fgood-parents-buffer-their-kids-minds-20100921-15kcm.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADysfunctional+family" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation journal">Glasser, M.; Kolvin, I.; Campbell, D.; Glasser, A.; Leitch, I.; Farrelly, S. (December 2001). <a rel="nofollow" class="external text" href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A98434C25DB8619FB8F1E8654B651A88/S0007125000160003a.pdf/cycle_of_child_sexual_abuse_links_between_being_a_victim_and_becoming_a_perpetrator.pdf">"Cycle of child sexual abuse: Links between being a victim and becoming a perpetrator"</a> <span class="cs1-format">(PDF)</span>. <i><a href="/wiki/The_British_Journal_of_Psychiatry" class="mw-redirect" title="The British Journal of Psychiatry">The British Journal of Psychiatry</a></i>. <b>179</b> (6): 482–494. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1192%2Fbjp.179.6.482">10.1192/bjp.179.6.482</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+British+Journal+of+Psychiatry&amp;rft.atitle=Cycle+of+child+sexual+abuse%3A+Links+between+being+a+victim+and+becoming+a+perpetrator&amp;rft.volume=179&amp;rft.issue=6&amp;rft.pages=482-494&amp;rft.date=2001-12&amp;rft_id=info%3Adoi%2F10.1192%2Fbjp.179.6.482&amp;rft.aulast=Glasser&amp;rft.aufirst=M.&amp;rft.au=Kolvin%2C+I.&amp;rft.au=Campbell%2C+D.&amp;rft.au=Glasser%2C+A.&amp;rft.au=Leitch%2C+I.&amp;rft.au=Farrelly%2C+S.&amp;rft_id=https%3A%2F%2Fwww.cambridge.org%2Fcore%2Fservices%2Faop-cambridge-core%2Fcontent%2Fview%2FA98434C25DB8619FB8F1E8654B651A88%2FS0007125000160003a.pdf%2Fcycle_of_child_sexual_abuse_links_between_being_a_victim_and_becoming_a_perpetrator.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADysfunctional+family" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100131221209/http://www.lbfdtraining.com/Pages/emt/sectiond/childabuse.html">"Child Abuse"</a>. Long Beach Fire Department Training Center. 2009-09-19. Archived from <a rel="nofollow" class="external text" href="http://www.lbfdtraining.com/Pages/emt/sectiond/childabuse.html">the original</a> on 2010-01-31.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Child+Abuse&amp;rft.pub=Long+Beach+Fire+Department+Training+Center&amp;rft.date=2009-09-19&amp;rft_id=http%3A%2F%2Fwww.lbfdtraining.com%2FPages%2Femt%2Fsectiond%2Fchildabuse.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADysfunctional+family" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dysfunctional_family&amp;action=edit&amp;section=20" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Lundy Bancroft, "Why Does He Do That? Inside the Minds of Angry and Controlling Men" 2002 <a href="/wiki/Berkley_Books" title="Berkley Books">Berkley Books</a>, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-399-14844-2" title="Special:BookSources/0-399-14844-2">0-399-14844-2</a></li>
+<li><a href="/wiki/John_Bradshaw_(author)" title="John Bradshaw (author)">John Bradshaw</a>, <i>Healing the Shame That Binds You</i></li>
+<li>John Bradshaw, <i>Homecoming: Reclaiming and Healing Your Inner Child</i></li>
+<li>John Bradshaw, <i>Bradshaw On: The Family</i></li>
+<li>Stephanie Donaldson-Pressman, <i>The Narcissistic Family. Diagnosis and Treatment</i></li>
+<li>Beth Polson and Miller Newton, <i><a rel="nofollow" class="external text" href="https://books.google.com/books/about/Not_my_kid.html?id=4AXAtDQ-koQC">Not My Kid: A Family's Guide to Kids and Drugs</a></i>, Arbor Books / Kids of North Jersey Nurses, 1984, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0877956334" title="Special:BookSources/978-0877956334">978-0877956334</a>,</li>
+<li><a href="/wiki/Charles_Whitfield" title="Charles Whitfield">Charles Whitfield</a>, <i>Healing the Child Within: Discovery and Recovery for Adult Children of Dysfunctional Families</i></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dysfunctional_family&amp;action=edit&amp;section=21" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" class="navbox" aria-labelledby="Family" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Family" title="Template:Family"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Family" title="Template talk:Family"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Family&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Family" style="font-size:114%;margin:0 4em"><a href="/wiki/Family" title="Family">Family</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_History&amp;#10;*_Household&amp;#10;*_Nuclear_family&amp;#10;*_Extended_family&amp;#10;*_Conjugal_family&amp;#10;*_Immediate_family&amp;#10;*_Matrifocal_family&amp;#10;*_Stepfamily&amp;#10;*_Dysfunctional_family&amp;#10;*_Polyfidelitous_families">
+<ul><li><a href="/wiki/History_of_the_family" title="History of the family">History</a></li>
+<li><a href="/wiki/Household" title="Household">Household</a></li>
+<li><a href="/wiki/Nuclear_family" title="Nuclear family">Nuclear family</a></li>
+<li><a href="/wiki/Extended_family" title="Extended family">Extended family</a></li>
+<li><a href="/wiki/Conjugal_family" title="Conjugal family">Conjugal family</a></li>
+<li><a href="/wiki/Immediate_family" title="Immediate family">Immediate family</a></li>
+<li><a href="/wiki/Matrifocal_family" title="Matrifocal family">Matrifocal family</a></li>
+<li><a href="/wiki/Stepfamily" title="Stepfamily">Stepfamily</a></li>
+<li><a class="mw-selflink selflink">Dysfunctional family</a></li>
+<li><a href="/wiki/Polyfidelity" title="Polyfidelity">Polyfidelitous families</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/First-degree_relatives" title="First-degree relatives">First-degree relatives</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Parent" title="Parent">Parent</a>
+<ul><li><a href="/wiki/Father" title="Father">father</a></li>
+<li><a href="/wiki/Mother" title="Mother">mother</a></li></ul></li>
+<li><a href="/wiki/Child" title="Child">Child</a>
+<ul><li><a href="/wiki/Son" title="Son">son</a></li>
+<li><a href="/wiki/Daughter" title="Daughter">daughter</a></li></ul></li>
+<li><a href="/wiki/Sibling" title="Sibling">Sibling</a>
+<ul><li><a href="/wiki/Brother" title="Brother">brother</a></li>
+<li><a href="/wiki/Sister" title="Sister">sister</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Second-degree_relative" title="Second-degree relative">Second-degree relatives</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Grandparent" title="Grandparent">Grandparent</a></li>
+<li><a href="/wiki/Grandchild" class="mw-redirect" title="Grandchild">Grandchild</a></li>
+<li><a href="/wiki/Aunt" title="Aunt">Aunt</a></li>
+<li><a href="/wiki/Uncle" title="Uncle">Uncle</a></li>
+<li><a href="/wiki/Niece_and_nephew" title="Niece and nephew">Niece and nephew</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Third-degree_relative" title="Third-degree relative">Third-degree relatives</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Great-grandparent" class="mw-redirect" title="Great-grandparent">Great-grandparent</a></li>
+<li><a href="/wiki/Great-grandchild" class="mw-redirect" title="Great-grandchild">Great-grandchild</a></li>
+<li><a href="/wiki/Niece_and_nephew" title="Niece and nephew">Grandnephew and grandniece</a></li>
+<li><a href="/wiki/Uncle" title="Uncle">Great-Uncle</a></li>
+<li><a href="/wiki/Aunt" title="Aunt">Great-Aunt</a></li>
+<li><a href="/wiki/Cousin" title="Cousin">Cousin</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Affinity_(law)" title="Affinity (law)">Family-in-law</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Spouse" title="Spouse">Spouse</a>
+<ul><li><a href="/wiki/Wife" title="Wife">wife</a></li>
+<li><a href="/wiki/Husband" title="Husband">husband</a></li></ul></li>
+<li><a href="/wiki/Parent-in-law" title="Parent-in-law">Parents-in-law</a></li>
+<li><a href="/wiki/Sibling-in-law" title="Sibling-in-law">Siblings-in-law</a></li>
+<li><a href="/wiki/Son-in-law" class="mw-redirect" title="Son-in-law">Son-in-law</a></li>
+<li><a href="/wiki/Daughter-in-law" class="mw-redirect" title="Daughter-in-law">Daughter-in-law</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Stepfamily" title="Stepfamily">Stepfamily</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Stepfather" title="Stepfather">Stepfather</a></li>
+<li><a href="/wiki/Stepmother" title="Stepmother">Stepmother</a></li>
+<li><a href="/wiki/Stepchild" title="Stepchild">Stepchild</a></li>
+<li><a href="/wiki/Stepsibling" title="Stepsibling">Stepsibling</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Kinship_terminology" title="Kinship terminology">Kinship terminology</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kinship" title="Kinship">Kinship</a></li>
+<li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal kinship</a></li>
+<li><a href="/wiki/Adoption" title="Adoption">Adoption</a></li>
+<li><a href="/wiki/Affinity_(law)" title="Affinity (law)">Affinity</a></li>
+<li><a href="/wiki/Consanguinity" title="Consanguinity">Consanguinity</a></li>
+<li><a href="/wiki/Disownment" title="Disownment">Disownment</a></li>
+<li><a href="/wiki/Divorce" title="Divorce">Divorce</a></li>
+<li><a href="/wiki/Family_estrangement" title="Family estrangement">Estrangement</a></li>
+<li><a href="/wiki/Fictive_kinship" title="Fictive kinship">Fictive kinship</a></li>
+<li><a href="/wiki/Marriage" title="Marriage">Marriage</a></li>
+<li><a href="/wiki/Nurture_kinship" title="Nurture kinship">Nurture kinship</a></li>
+<li><a href="/wiki/Hawaiian_kinship" title="Hawaiian kinship">Hawaiian kinship</a></li>
+<li><a href="/wiki/Sudanese_kinship" title="Sudanese kinship">Sudanese kinship</a></li>
+<li><a href="/wiki/Eskimo_kinship" title="Eskimo kinship">Eskimo kinship</a></li>
+<li><a href="/wiki/Iroquois_kinship" title="Iroquois kinship">Iroquois kinship</a></li>
+<li><a href="/wiki/Crow_kinship" title="Crow kinship">Crow kinship</a></li>
+<li><a href="/wiki/Omaha_kinship" title="Omaha kinship">Omaha kinship</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ancestor" title="Ancestor">Lineage</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bilateral_descent" title="Bilateral descent">Bilateral descent</a></li>
+<li><a href="/wiki/Most_recent_common_ancestor" title="Most recent common ancestor">Common ancestor</a></li>
+<li><a href="/wiki/Surname" title="Surname">Family name</a></li>
+<li><a href="/wiki/Family_tree" title="Family tree">Family tree</a></li>
+<li><a href="/wiki/Genealogy" title="Genealogy">Genealogy</a></li>
+<li><a href="/wiki/Heirloom" title="Heirloom">Heirloom</a></li>
+<li><a href="/wiki/Heredity" title="Heredity">Heredity</a></li>
+<li><a href="/wiki/Inheritance" title="Inheritance">Inheritance</a></li>
+<li><a href="/wiki/Lineal_descendant" title="Lineal descendant">Lineal descendant</a></li>
+<li><a href="/wiki/Matrilineality" title="Matrilineality">Matrilineality</a></li>
+<li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineality</a></li>
+<li><a href="/wiki/Pedigree_chart" title="Pedigree chart">Pedigree chart</a></li>
+<li><a href="/wiki/Progenitor" title="Progenitor">Progenitor</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Relationships</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Agape" title="Agape">Agape (parental love)</a></li>
+<li><a href="/wiki/Eros_(concept)" title="Eros (concept)">Eros (marital love)</a></li>
+<li><a href="/wiki/Filial_piety" title="Filial piety">Filial piety</a></li>
+<li><a href="/wiki/Storge" title="Storge">Storge (familial love)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Holidays</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mother%27s_Day" title="Mother&#39;s Day">Mother's Day</a>
+<ul><li><a href="/wiki/Mother%27s_Day_(United_States)" title="Mother&#39;s Day (United States)">U.S.</a></li></ul></li>
+<li><a href="/wiki/Father%27s_Day" title="Father&#39;s Day">Father's Day</a></li>
+<li><a href="/wiki/Father-Daughter_Day" class="mw-redirect" title="Father-Daughter Day">Father-Daughter Day</a></li>
+<li><a href="/wiki/Siblings_Day" title="Siblings Day">Siblings Day</a></li>
+<li><a href="/wiki/National_Grandparents_Day" title="National Grandparents Day">National Grandparents Day</a></li>
+<li><a href="/wiki/Parents%27_Day" title="Parents&#39; Day">Parents' Day</a></li>
+<li><a href="/wiki/Children%27s_Day" title="Children&#39;s Day">Children's Day</a></li>
+<li><a href="/wiki/Family_Day" title="Family Day">Family Day</a>
+<ul><li><a href="/wiki/Family_Day_(Canada)" title="Family Day (Canada)">Canada</a></li></ul></li>
+<li><a href="/wiki/American_Family_Day" title="American Family Day">American Family Day</a></li>
+<li><a href="/wiki/National_Family_Week" title="National Family Week">National Family Week</a>
+<ul><li><a href="/wiki/National_Family_Week_(UK)" title="National Family Week (UK)">UK</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wedding_anniversary" title="Wedding anniversary">Wedding anniversary</a></li>
+<li><a href="/wiki/Sociology_of_the_family" title="Sociology of the family">Sociology of the family</a></li>
+<li><a href="/wiki/Museum_of_Motherhood" title="Museum of Motherhood">Museum of Motherhood</a></li>
+<li><a href="/wiki/Incest" title="Incest">Incest</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1289
+Cached time: 20191020231421
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.448 seconds
+Real time usage: 0.615 seconds
+Preprocessor visited node count: 2261/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 87598/2097152 bytes
+Template argument size: 12931/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 50819/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.198/10.000 seconds
+Lua memory usage: 5.35 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  502.936      1 -total
+ 41.69%  209.694      1 Template:Reflist
+ 33.52%  168.559      3 Template:Ambox
+ 27.31%  137.352      9 Template:Cite_book
+ 27.18%  136.686      1 Template:Multiple_issues
+ 10.90%   54.806      2 Template:ISBN
+  8.65%   43.479      1 Template:Refimprove
+  8.09%   40.692      1 Template:Example_farm
+  7.45%   37.464      3 Template:Fix
+  7.16%   36.014      1 Template:Citation_needed
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1490692-0!canonical and timestamp 20191020231457 and revision id 922251045
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Dysfunctional_family&amp;oldid=922251045">https://en.wikipedia.org/w/index.php?title=Dysfunctional_family&amp;oldid=922251045</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Family" title="Category:Family">Family</a></li><li><a href="/wiki/Category:Parenting" title="Category:Parenting">Parenting</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_incomplete_citations_from_March_2011" title="Category:Articles with incomplete citations from March 2011">Articles with incomplete citations from March 2011</a></li><li><a href="/wiki/Category:Articles_with_too_many_examples_from_April_2019" title="Category:Articles with too many examples from April 2019">Articles with too many examples from April 2019</a></li><li><a href="/wiki/Category:All_articles_with_too_many_examples" title="Category:All articles with too many examples">All articles with too many examples</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_style_issues_from_April_2019" title="Category:Wikipedia articles with style issues from April 2019">Wikipedia articles with style issues from April 2019</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_April_2019" title="Category:Articles needing additional references from April 2019">Articles needing additional references from April 2019</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_with_multiple_maintenance_issues" title="Category:Articles with multiple maintenance issues">Articles with multiple maintenance issues</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2015" title="Category:Articles with unsourced statements from December 2015">Articles with unsourced statements from December 2015</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_April_2019" title="Category:Wikipedia articles needing clarification from April 2019">Wikipedia articles needing clarification from April 2019</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Dysfunctional+family" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Dysfunctional+family" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Dysfunctional_family" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Dysfunctional_family" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Dysfunctional_family">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Dysfunctional_family&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Dysfunctional_family&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Dysfunctional_family" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Dysfunctional_family" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Dysfunctional_family&amp;oldid=922251045" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Dysfunctional_family&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q906343" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Dysfunctional_family&amp;id=922251045" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Dysfunctional+family">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Dysfunctional+family&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Dysfunctional_family&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D9%81%D9%83%D9%83_%D8%A3%D8%B3%D8%B1%D9%8A" title="تفكك أسري – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Familia_disfuncional" title="Familia disfuncional – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Famille_dysfonctionnelle" title="Famille dysfonctionnelle – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Keluarga_disfungsional" title="Keluarga disfungsional – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Famiglia_disfunzionale" title="Famiglia disfunzionale – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Diszfunkcion%C3%A1lis_csal%C3%A1d" title="Diszfunkcionális család – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E6%A9%9F%E8%83%BD%E4%B8%8D%E5%85%A8%E5%AE%B6%E6%97%8F" title="機能不全家族 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Fam%C3%ADlia_disfuncional" title="Família disfuncional – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Disfonksiyonel_aile" title="Disfonksiyonel aile – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%BA%DB%8C%D8%B1_%DA%A9%D8%A7%D8%B1%DA%AF%D8%B1%D8%AF_%D8%AE%D8%A7%D9%86%D8%AF%D8%A7%D9%86" title="غیر کارگرد خاندان – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%A9%9F%E8%83%BD%E4%B8%8D%E5%85%A8%E5%AE%B6%E6%97%8F" title="機能不全家族 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q906343#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 20 October 2019, at 23:14<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Dysfunctional_family&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.448","walltime":"0.615","ppvisitednodes":{"value":2261,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":87598,"limit":2097152},"templateargumentsize":{"value":12931,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":50819,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  502.936      1 -total"," 41.69%  209.694      1 Template:Reflist"," 33.52%  168.559      3 Template:Ambox"," 27.31%  137.352      9 Template:Cite_book"," 27.18%  136.686      1 Template:Multiple_issues"," 10.90%   54.806      2 Template:ISBN","  8.65%   43.479      1 Template:Refimprove","  8.09%   40.692      1 Template:Example_farm","  7.45%   37.464      3 Template:Fix","  7.16%   36.014      1 Template:Citation_needed"]},"scribunto":{"limitreport-timeusage":{"value":"0.198","limit":"10.000"},"limitreport-memusage":{"value":5609060,"limit":52428800}},"cachereport":{"origin":"mw1289","timestamp":"20191020231421","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Dysfunctional family","url":"https:\/\/en.wikipedia.org\/wiki\/Dysfunctional_family","sameAs":"http:\/\/www.wikidata.org\/entity\/Q906343","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q906343","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-12-24T03:09:44Z","dateModified":"2019-10-20T23:14:57Z","headline":"family with conflict or other problems"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":93,"wgHostname":"mw1257"});});</script>
+</body>
+</html>

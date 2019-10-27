@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ryan (surname) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Ryan_(surname)","wgTitle":"Ryan (surname)","wgCurRevisionId":918022501,"wgRevisionId":918022501,"wgArticleId":12629319,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","All set index articles","Surnames","Anglicised Irish-language surnames","English-language surnames","Surnames of Irish origin"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ryan_(surname)",
+"wgRelevantArticleId":12629319,"wgRequestId":"Xa-wpApAADgAACE5gU8AAABG","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q5263823","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.2"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ryan_(surname)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ryan_(surname)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ryan_(surname)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ryan_(surname)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Ryan_surname rootpage-Ryan_surname skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Ryan (surname)</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Ryan </b> (Irish: <i>Ó Riain</i>) is a common <a href="/wiki/Surname" title="Surname">surname</a> of <a href="/wiki/Irish_name" title="Irish name">Irish</a> origin, as well as being a common <a href="/wiki/Given_name" title="Given name">given name</a> in the <a href="/wiki/Anglosphere" title="Anglosphere">English-speaking world</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Origins_and_meaning"><span class="tocnumber">1</span> <span class="toctext">Origins and meaning</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#List_of_persons_with_the_surname_Ryan"><span class="tocnumber">2</span> <span class="toctext">List of persons with the surname Ryan</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#A–D"><span class="tocnumber">2.1</span> <span class="toctext">A–D</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#E–L"><span class="tocnumber">2.2</span> <span class="toctext">E–L</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#M–R"><span class="tocnumber">2.3</span> <span class="toctext">M–R</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#S–Z"><span class="tocnumber">2.4</span> <span class="toctext">S–Z</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Fictional_characters"><span class="tocnumber">3</span> <span class="toctext">Fictional characters</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Bibliography"><span class="tocnumber">6</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Origins_and_meaning">Origins and meaning</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ryan_(surname)&amp;action=edit&amp;section=1" title="Edit section: Origins and meaning">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:DSC00987_-_Copy.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/DSC00987_-_Copy.jpg/220px-DSC00987_-_Copy.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/DSC00987_-_Copy.jpg/330px-DSC00987_-_Copy.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/DSC00987_-_Copy.jpg/440px-DSC00987_-_Copy.jpg 2x" data-file-width="3264" data-file-height="2448" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:DSC00987_-_Copy.jpg" class="internal" title="Enlarge"></a></div>Ryan coat of arms at Valley Inn pub, Glenstal, Co. Limerick</div></div></div>
+<p>There are several different origins for the surname. In some cases it may be a shortened form of <i>O'Ryan</i>, which is an Anglicized adaptation of the <a href="/wiki/Irish_language" title="Irish language">Gaelic</a> surname <i>Ó Riain</i>, meaning "descendant of <i>Rian</i>".<sup id="cite_ref-American_1-0" class="reference"><a href="#cite_note-American-1">&#91;1&#93;</a></sup> It can also be a shortened form of <i>Mulryan</i> or <i>O'Mulryan</i>, which are derived from the Gaelic <i><a href="/wiki/%C3%93_Maoilriain" title="Ó Maoilriain">Ó Maoilriain</a></i>, meaning "descendant of the follower of <i>Rian</i>".<sup id="cite_ref-American_1-1" class="reference"><a href="#cite_note-American-1">&#91;1&#93;</a></sup><sup id="cite_ref-Grehan_2-0" class="reference"><a href="#cite_note-Grehan-2">&#91;2&#93;</a></sup>
+</p><p>The meaning of the <a href="/wiki/Old_Irish" title="Old Irish">Old Irish</a> name <i>Rian</i> is unknown.<sup id="cite_ref-MacLysaght_3-0" class="reference"><a href="#cite_note-MacLysaght-3">&#91;3&#93;</a></sup> Some sources have suggested that it is related to the Old Irish word <i>rían</i>, meaning "water" or "ocean".<sup id="cite_ref-SurnameDB_4-0" class="reference"><a href="#cite_note-SurnameDB-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> Others have suggested that it is related to the Old Irish word <i><a href="/wiki/R%C3%AD" title="Rí">rí</a></i>, meaning "king".<sup id="cite_ref-O&#39;Boyle_6-0" class="reference"><a href="#cite_note-O&#39;Boyle-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> Both of these etymologies have been discounted by scholars, however.<sup id="cite_ref-MacLysaght_3-1" class="reference"><a href="#cite_note-MacLysaght-3">&#91;3&#93;</a></sup>
+</p><p>Popular sources typically suggest that <i>Ryan</i> means "little king"<sup id="cite_ref-Smith_8-0" class="reference"><a href="#cite_note-Smith-8">&#91;8&#93;</a></sup><sup id="cite_ref-Rosenkrantz_9-0" class="reference"><a href="#cite_note-Rosenkrantz-9">&#91;9&#93;</a></sup> or "illustrious".<sup id="cite_ref-Grehan_2-1" class="reference"><a href="#cite_note-Grehan-2">&#91;2&#93;</a></sup><sup id="cite_ref-Little_10-0" class="reference"><a href="#cite_note-Little-10">&#91;10&#93;</a></sup>
+</p><p>There are also cases in which <i>Ryan</i> is an Americanized form of the German surname <i>Rein</i>.<sup id="cite_ref-American_1-2" class="reference"><a href="#cite_note-American-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="List_of_persons_with_the_surname_Ryan">List of persons with the surname Ryan</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ryan_(surname)&amp;action=edit&amp;section=2" title="Edit section: List of persons with the surname Ryan">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="A.E2.80.93D"></span><span class="mw-headline" id="A–D">A–D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ryan_(surname)&amp;action=edit&amp;section=3" title="Edit section: A–D">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Abram_Joseph_Ryan" title="Abram Joseph Ryan">Abram Joseph Ryan</a> (1838–1886), Catholic priest, poet</li>
+<li><a href="/wiki/Aileen_B._Ryan" title="Aileen B. Ryan">Aileen B. Ryan</a> (1912–1987), New York politician</li>
+<li><a href="/wiki/Allan_Ryan_(attorney)" title="Allan Ryan (attorney)">Allan Ryan</a>, American attorney</li>
+<li><a href="/wiki/Allan_A._Ryan,_Jr." class="mw-redirect" title="Allan A. Ryan, Jr.">Allan A. Ryan, Jr.</a> (1903–1981), New York financier and politician</li>
+<li><a href="/wiki/Amy_Ryan" title="Amy Ryan">Amy Ryan</a> (born 1969), American actress</li>
+<li><a href="/wiki/Andrew_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Andrew Ryan (disambiguation)">Andrew Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Anne_Ryan" title="Anne Ryan">Anne Ryan</a> (1889–1954), American artist</li>
+<li><a href="/wiki/Anne_Ryan_(actress)" title="Anne Ryan (actress)">Anne Ryan (actress)</a>, American actress</li>
+<li><a href="/wiki/B._J._Ryan" title="B. J. Ryan">B. J. Ryan</a> (Robert Victor Ryan Jr., born 1975), baseball player</li>
+<li><a href="/wiki/Barry_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Barry Ryan (disambiguation)">Barry Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Bernard_Ryan" class="mw-redirect" title="Bernard Ryan">Bernard Ryan</a> (1900-1921), member of the IRA hanged in Dublin in 1921</li>
+<li><a href="/wiki/Bernard_Ryan,_Jr." class="mw-redirect" title="Bernard Ryan, Jr.">Bernard Ryan, Jr.</a>, American author</li>
+<li><a href="/wiki/Bianca_Ryan" title="Bianca Ryan">Bianca Ryan</a> (born 1994), American singer and America's Got Talent winner</li>
+<li><a href="/wiki/Bill_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Bill Ryan (disambiguation)">Bill Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Billy_Ryan" title="Billy Ryan">Billy Ryan</a> (1887–1951), American football player</li>
+<li><a href="/wiki/Blanchard_Ryan" title="Blanchard Ryan">Blanchard Ryan</a> (born 1967), American actress</li>
+<li><a href="/wiki/Bo_Ryan" title="Bo Ryan">Bo Ryan</a> (William Francis Ryan Jr, born 1947), American basketball coach</li>
+<li><a href="/wiki/Bob_Ryan_(disambiguation)" class="mw-disambig" title="Bob Ryan (disambiguation)">Bob Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Bobby_Ryan_(disambiguation)" class="mw-disambig" title="Bobby Ryan (disambiguation)">Bobby Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Bruce_Ryan" title="Bruce Ryan">Bruce Ryan</a> (1921–2002), Australian rugby league footballer</li>
+<li><a href="/wiki/Buddy_Ryan" title="Buddy Ryan">Buddy Ryan</a> (1931–2016), American football coach</li>
+<li><a href="/wiki/C._J._Ryan" title="C. J. Ryan">C. J. Ryan</a> (1943–2004), British priest and scholar of Italian studies</li>
+<li><a href="/wiki/C._W._Ryan" title="C. W. Ryan">C. W. Ryan</a>, American politician</li>
+<li><a href="/wiki/Chris_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Chris Ryan (disambiguation)">Chris Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Christopher_Ryan" title="Christopher Ryan">Christopher Ryan</a>, British actor</li>
+<li><a href="/wiki/Claude_Ryan" title="Claude Ryan">Claude Ryan</a>, Canadian politician</li>
+<li><a href="/wiki/Cornelius_Ryan" title="Cornelius Ryan">Cornelius Ryan</a>, Irish journalist and author</li>
+<li><a href="/wiki/Debby_Ryan" title="Debby Ryan">Debby Ryan</a>, American actress</li>
+<li><a href="/wiki/Donald_P._Ryan" title="Donald P. Ryan">Donald P. Ryan</a>, American archaeologist and writer</li>
+<li><a href="/wiki/Donnell_Ryan" title="Donnell Ryan">Donnell Ryan</a>, Federal Court of Australia judge</li></ul>
+<h3><span id="E.E2.80.93L"></span><span class="mw-headline" id="E–L">E–L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ryan_(surname)&amp;action=edit&amp;section=4" title="Edit section: E–L">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Edward_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Edward Ryan (disambiguation)">Edward Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Felix_Ryan" title="Felix Ryan">Felix Ryan</a>, Australian rugby league footballer</li>
+<li><a href="/wiki/Francis_T._Ryan" title="Francis T. Ryan">Francis T. Ryan</a>, American Medal of Honor recipient</li>
+<li><a href="/wiki/Frank_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Frank Ryan (disambiguation)">Frank Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Fred_Ryan" title="Fred Ryan">Fred Ryan</a>, CEO of <i>Politico.com</i>, former aide to Ronald Reagan</li>
+<li><a href="/wiki/Frederick_Ryan" title="Frederick Ryan">Frederick Ryan</a> Irish playwright and socialist</li>
+<li><a href="/wiki/George_Ryan" title="George Ryan">George Ryan</a> (born 1934), Governor of Illinois</li>
+<li><a href="/wiki/George_Ryan_(Canadian_politician)" title="George Ryan (Canadian politician)">George Ryan (Canadian politician)</a> (1806–1876), New Brunswick politician</li>
+<li><a href="/wiki/Gerry_Ryan" title="Gerry Ryan">Gerry Ryan</a>, Irish radio presenter</li>
+<li><a href="/wiki/Greg_Ryan" title="Greg Ryan">Greg Ryan</a>, German-American soccer defender</li>
+<li><a href="/wiki/Gig_Ryan" title="Gig Ryan">Gig Ryan</a>, Australian Poet</li>
+<li><a href="/wiki/Harold_M._Ryan" title="Harold M. Ryan">Harold M. Ryan</a> (1911–2007), U.S. Representative from Michigan</li>
+<li><a href="/wiki/Murder_of_Ibolya_Ryan" title="Murder of Ibolya Ryan">Ibolya Ryan</a>, Hungarian-American murder victim</li>
+<li><a href="/wiki/Ida_Annah_Ryan" title="Ida Annah Ryan">Ida Annah Ryan</a>, architect</li>
+<li><a href="/wiki/Irene_Ryan" title="Irene Ryan">Irene Ryan</a>, actress</li>
+<li><a href="/wiki/Jack_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Jack Ryan (disambiguation)">Jack Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Jane_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Jane Ryan (disambiguation)">Jane Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Jeff_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Jeff Ryan (disambiguation)">Jeff Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Jeri_Ryan" title="Jeri Ryan">Jeri Ryan</a>, U.S. actress</li>
+<li><a href="/wiki/Jim_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Jim Ryan (disambiguation)">Jim Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Jimmy_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Jimmy Ryan (disambiguation)">Jimmy Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Joan_Ryan" title="Joan Ryan">Joan Ryan</a>, UK politician</li>
+<li><a href="/wiki/John_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="John Ryan (disambiguation)">John Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Joseph_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Joseph Ryan (disambiguation)">Joseph Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Josephine_Ryan" title="Josephine Ryan">Josephine Ryan</a>, Irish nationalist</li>
+<li><a href="/wiki/Katherine_Ryan" title="Katherine Ryan">Katherine Ryan</a>, Canadian/Irish comedian, writer, presenter and actress</li>
+<li><a href="/wiki/Kathleen_Ryan" title="Kathleen Ryan">Kathleen Ryan</a>, Irish actress</li>
+<li><a href="/wiki/Kelleigh_Ryan" title="Kelleigh Ryan">Kelleigh Ryan</a> (born 1987), Canadian fencer</li>
+<li><a href="/wiki/Kevin_Ryan_(athlete)" title="Kevin Ryan (athlete)">Kevin Ryan</a>, New Zealand long-distance runner</li>
+<li><a href="/wiki/Kyle_Ryan" title="Kyle Ryan">Kyle Ryan</a>, American baseball player</li>
+<li><a href="/wiki/Lacy_Ryan" title="Lacy Ryan">Lacy Ryan</a>, English actor</li>
+<li><a href="/wiki/Lance_Ryan" title="Lance Ryan">Lance Ryan</a> (born 1971), Canadian operatic tenor</li>
+<li><a href="/wiki/Leo_Ryan" title="Leo Ryan">Leo Ryan</a>, Congressman from San Francisco, killed at Jonestown</li>
+<li><a href="/wiki/Lee_Ryan" title="Lee Ryan">Lee Ryan</a> (born 1983), English singer-songwriter and actor</li>
+<li><a href="/wiki/Liam_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Liam Ryan (disambiguation)">Liam Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Liza_Ryan" title="Liza Ryan">Liza Ryan</a> (born 1965), American visual artist</li>
+<li><a href="/wiki/Lola_Ryan" title="Lola Ryan">Lola Ryan</a> (1925-2003), Australian artist</li>
+<li>Lucille Frances Ryan, better known as <a href="/wiki/Lucy_Lawless" title="Lucy Lawless">Lucy Lawless</a> (born 1968), actress from New Zealand</li></ul>
+<h3><span id="M.E2.80.93R"></span><span class="mw-headline" id="M–R">M–R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ryan_(surname)&amp;action=edit&amp;section=5" title="Edit section: M–R">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Marion_Ryan" title="Marion Ryan">Marion Ryan</a> (1931–1999), British singer</li>
+<li><a href="/wiki/Mark_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Mark Ryan (disambiguation)">Mark Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Matthew_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Matthew Ryan (disambiguation)">Matthew Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Meg_Ryan" title="Meg Ryan">Meg Ryan</a> (born 1961), U.S. actress</li>
+<li><a href="/wiki/Michael_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Michael Ryan (disambiguation)">Michael Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Michelle_Ryan" title="Michelle Ryan">Michelle Ryan</a> (born 1984), British actress of Irish ancestry</li>
+<li><a href="/wiki/Miles_Ryan" title="Miles Ryan">Miles Ryan</a>, Irish recipient of the Victoria Cross</li>
+<li><a href="/wiki/Murray_Ryan" title="Murray Ryan">Murray Ryan</a>, American politician</li>
+<li><a href="/wiki/Myles_and_Connor" title="Myles and Connor">Myles and Connor</a> Ryan, British singers</li>
+<li><a href="/wiki/Nolan_Ryan" title="Nolan Ryan">Nolan Ryan</a> (born 1947), baseball player</li>
+<li><a href="/wiki/Patricia_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Patricia Ryan (disambiguation)">Patricia Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Patrick_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Patrick Ryan (disambiguation)">Patrick Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Paul_Ryan_(disambiguation)" class="mw-disambig" title="Paul Ryan (disambiguation)">Paul Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Peggy_Ryan" title="Peggy Ryan">Peggy Ryan</a>, American dancer</li>
+<li><a href="/wiki/Perry_T._Ryan" title="Perry T. Ryan">Perry T. Ryan</a>, American author</li>
+<li><a href="/wiki/Peter_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Peter Ryan (disambiguation)">Peter Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Phil_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Phil Ryan (disambiguation)">Phil Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Phyllis_Ryan" title="Phyllis Ryan">Phyllis Ryan</a>, Irish chemist and nationalist</li>
+<li><a href="/wiki/Phyllis_Ryan_(actress)" title="Phyllis Ryan (actress)">Phyllis Ryan (actress)</a>, Irish actress</li>
+<li><a href="/wiki/Prestin_Ryan" title="Prestin Ryan">Prestin Ryan</a>, Canadian ice hockey player</li>
+<li><a href="/wiki/Rex_Ryan" title="Rex Ryan">Rex Ryan</a>, American football coach</li>
+<li><a href="/wiki/Richard_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Richard Ryan (disambiguation)">Richard Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Richie_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Richie Ryan (disambiguation)">Richie Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Rob_Ryan" title="Rob Ryan">Rob Ryan</a>, American football coach</li>
+<li><a href="/wiki/Robert_Ryan_(disambiguation)" class="mw-disambig" title="Robert Ryan (disambiguation)">Robert Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Ronald_Ryan" title="Ronald Ryan">Ronald Ryan</a> (Last person to be legally executed in Australia.)</li>
+<li><a href="/wiki/Ross_Ryan" title="Ross Ryan">Ross Ryan</a> Australian singer-songwriter</li>
+<li><a href="/wiki/Roz_Ryan" title="Roz Ryan">Roz Ryan</a>, American actress</li></ul>
+<h3><span id="S.E2.80.93Z"></span><span class="mw-headline" id="S–Z">S–Z</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ryan_(surname)&amp;action=edit&amp;section=6" title="Edit section: S–Z">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/S%C3%A9amus_Ryan" title="Séamus Ryan">Séamus Ryan</a>, Irish senator</li>
+<li><a href="/wiki/Sod_Ryan" title="Sod Ryan">Sod Ryan</a> (1905–1964), American football player</li>
+<li><a href="/wiki/Tom%C3%A1s_Ryan" title="Tomás Ryan">Tomás Ryan</a>, Irish hurler</li>
+<li><a href="/wiki/Thomas_Ryan_(disambiguation)" class="mw-redirect" title="Thomas Ryan (disambiguation)">Thomas Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/T._Claude_Ryan" title="T. Claude Ryan">T. Claude Ryan</a> (1898–1982), American aviator and aeronautic engineer</li>
+<li><a href="/wiki/T._J._Ryan" title="T. J. Ryan">T. J. Ryan</a> (Thomas Joseph Ryan, 1876–1921), Australian politician, premier of Queensland</li>
+<li><a href="/wiki/T._J._Ryan_(hurler)" title="T. J. Ryan (hurler)">T. J. Ryan (hurler)</a> (born 1974), Irish hurler</li>
+<li><a href="/wiki/Thomas_Ryan_(disambiguation)" class="mw-redirect" title="Thomas Ryan (disambiguation)">Thomas Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Tim_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Tim Ryan (disambiguation)">Tim Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Tommy_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Tommy Ryan (disambiguation)">Tommy Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Tony_Ryan" title="Tony Ryan">Tony Ryan</a> (1936–2007), Irish businessman</li>
+<li><a href="/wiki/Tony_Ryan_(scientist)" title="Tony Ryan (scientist)">Tony Ryan (scientist)</a> (born 1962), British polymer chemist</li>
+<li><a href="/wiki/Una_Ryan" title="Una Ryan">Una Ryan</a> (born 1941), Malaysian born biologist</li>
+<li><a href="/wiki/Walter_D%27Arcy_Ryan" title="Walter D&#39;Arcy Ryan">Walter D'Arcy Ryan</a>, lighting engineer</li>
+<li><a href="/wiki/Warren_Ryan" title="Warren Ryan">Warren Ryan</a>, Australian rugby league football coach</li>
+<li><a href="/wiki/Will_Ryan" title="Will Ryan">Will Ryan</a> (born 1939), American voice actor, singer, and comedian</li>
+<li><a href="/wiki/William_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="William Ryan (disambiguation)">William Ryan (disambiguation)</a>, several people</li></ul>
+<h2><span class="mw-headline" id="Fictional_characters">Fictional characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ryan_(surname)&amp;action=edit&amp;section=7" title="Edit section: Fictional characters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/April_Ryan" title="April Ryan">April Ryan</a>, appearing in the computer adventure games <i><a href="/wiki/The_Longest_Journey" title="The Longest Journey">The Longest Journey</a></i> and <i><a href="/wiki/Dreamfall" class="mw-redirect" title="Dreamfall">Dreamfall</a></i></li>
+<li>Andrew Ryan, the founder of Rapture and a major character in the 2007 video game <i><a href="/wiki/BioShock" title="BioShock">BioShock</a></i></li>
+<li><a href="/wiki/Archie_Ryan" class="mw-redirect" title="Archie Ryan">Archie Ryan</a>, the pseudonym of <a href="/wiki/Lincoln_Burrows" title="Lincoln Burrows">Lincoln Burrows</a>, a fictional character from the television show <i><a href="/wiki/Prison_Break" title="Prison Break">Prison Break</a></i></li>
+<li><a href="/wiki/Barbara_Ryan" title="Barbara Ryan">Barbara Ryan</a>, character in the soap opera <i><a href="/wiki/As_the_World_Turns" title="As the World Turns">As the World Turns</a></i></li>
+<li><a href="/wiki/Caitlin_Ryan_(Degrassi)" title="Caitlin Ryan (Degrassi)">Caitlin Ryan</a>, a character in the <i>Degrassi</i> franchise</li>
+<li><a href="/wiki/Jack_Ryan_(fictional_character)" class="mw-redirect" title="Jack Ryan (fictional character)">Jack Ryan</a>, character in several Tom Clancy novels</li>
+<li>Jack Ryan, a separate character and the primary protagonist of the 2007 video game <i><a href="/wiki/BioShock" title="BioShock">BioShock</a></i></li>
+<li><a href="/wiki/Jake_Ryan_(Hannah_Montana)" class="mw-redirect" title="Jake Ryan (Hannah Montana)">Jake Ryan</a>, character in <i><a href="/wiki/Sixteen_Candles" title="Sixteen Candles">Sixteen Candles</a></i>/<i><a href="/wiki/Hannah_Montana" title="Hannah Montana">Hannah Montana</a></i>, TV character portrayed by <a href="/wiki/Cody_Linley" title="Cody Linley">Cody Linley</a></li>
+<li>James Francis Ryan, character in the 1998 American war film <i><a href="/wiki/Saving_Private_Ryan" title="Saving Private Ryan">Saving Private Ryan</a></i></li>
+<li>Kevin Ryan, secondary character of the TV thriller show <i><a href="/wiki/Castle_(TV_series)" title="Castle (TV series)">Castle</a></i></li>
+<li>Mary Ryan, also known aka Blue Mary, a character in the <i><a href="/wiki/Fatal_Fury_(series)" class="mw-redirect" title="Fatal Fury (series)">Fatal Fury</a></i> series and <i><a href="/wiki/The_King_of_Fighters" title="The King of Fighters">The King of Fighters</a></i></li>
+<li>Nory Ryan, main character in book <i><a href="/wiki/Nory_Ryan%27s_Song" class="mw-redirect" title="Nory Ryan&#39;s Song">Nory Ryan's Song</a></i> by Patricia Reilly Giff</li>
+<li><a href="/wiki/Richie_Ryan_(Highlander)" title="Richie Ryan (Highlander)">Richie Ryan</a>, fictional character in <i><a href="/wiki/Highlander:_The_Series" title="Highlander: The Series">Highlander: The Series</a></i></li>
+<li><a href="/wiki/Robert_Charles_%22Rusty%22_Ryan" class="mw-redirect" title="Robert Charles &quot;Rusty&quot; Ryan">Robert Charles "Rusty" Ryan</a> in <i>Ocean's 11</i>, <i>12</i>, and <i>13</i></li>
+<li>Professor Sam Ryan, character in the television series <i><a href="/wiki/Silent_Witness_(TV_series)" class="mw-redirect" title="Silent Witness (TV series)">Silent Witness</a></i></li>
+<li>Tommy Ryan, a character in the 1997 film <i><a href="/wiki/Titanic_(1997_film)" title="Titanic (1997 film)">Titanic</a></i></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ryan_(surname)&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Rayan_(Persian_given_name)" title="Rayan (Persian given name)">Rayan (Persian given name)</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ryan_(surname)&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-American-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-American_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-American_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-American_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Hanks, Patrick (2003). <i>Dictionary of American Family Names</i>. <b>3</b>. Oxford University Press. p.&#160;242. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0195081374" title="Special:BookSources/0195081374"><bdi>0195081374</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Dictionary+of+American+Family+Names&amp;rft.pages=242&amp;rft.pub=Oxford+University+Press&amp;rft.date=2003&amp;rft.isbn=0195081374&amp;rft.aulast=Hanks&amp;rft.aufirst=Patrick&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyan+%28surname%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Grehan-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Grehan_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Grehan_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Grehan, Ida (1997). <i>The Dictionary of Irish Family Names</i>. Lanham, Maryland: Roberts Rinehart Publishers. p.&#160;299. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1568332246" title="Special:BookSources/1568332246"><bdi>1568332246</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Dictionary+of+Irish+Family+Names&amp;rft.place=Lanham%2C+Maryland&amp;rft.pages=299&amp;rft.pub=Roberts+Rinehart+Publishers&amp;rft.date=1997&amp;rft.isbn=1568332246&amp;rft.aulast=Grehan&amp;rft.aufirst=Ida&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyan+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-MacLysaght-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-MacLysaght_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-MacLysaght_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">MacLysaght, Edward (1964). <i>A Guide to Irish Surnames</i>. Helicon. p.&#160;15.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Guide+to+Irish+Surnames&amp;rft.pages=15&amp;rft.pub=Helicon&amp;rft.date=1964&amp;rft.aulast=MacLysaght&amp;rft.aufirst=Edward&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyan+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-SurnameDB-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-SurnameDB_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160820001800/http://www.surnamedb.com/Surname/ryan">"Ryan"</a>. <i>The Internet Surname Database</i>. Archived from <a rel="nofollow" class="external text" href="http://www.surnamedb.com/Surname/ryan">the original</a> on 20 August 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">3 November</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Internet+Surname+Database&amp;rft.atitle=Ryan&amp;rft_id=http%3A%2F%2Fwww.surnamedb.com%2FSurname%2Fryan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyan+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://edil.qub.ac.uk/35219">"rían"</a>. <i>eDIL - Irish Language Dictionary</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 November</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=eDIL+-+Irish+Language+Dictionary&amp;rft.atitle=r%C3%ADan&amp;rft_id=http%3A%2F%2Fedil.qub.ac.uk%2F35219&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyan+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-O&#39;Boyle-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-O&#39;Boyle_6-0">^</a></b></span> <span class="reference-text"><cite class="citation book">O'Boyle, Fragrance (2008). <i>Irish Baby Names</i>. United Kingdom: IBN Publishing. p.&#160;125. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0955805708" title="Special:BookSources/0955805708"><bdi>0955805708</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Irish+Baby+Names&amp;rft.place=United+Kingdom&amp;rft.pages=125&amp;rft.pub=IBN+Publishing&amp;rft.date=2008&amp;rft.isbn=0955805708&amp;rft.aulast=O%27Boyle&amp;rft.aufirst=Fragrance&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyan+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://edil.qub.ac.uk/35181">"rí"</a>. <i>eDIL - Irish Language Dictionary</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 November</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=eDIL+-+Irish+Language+Dictionary&amp;rft.atitle=r%C3%AD&amp;rft_id=http%3A%2F%2Fedil.qub.ac.uk%2F35181&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyan+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Smith-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Smith_8-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Smith, Elsdon C. (1969). <a rel="nofollow" class="external text" href="https://archive.org/details/americansurnames0000smit"><i>American Surnames</i></a>. Baltimore: Genealogical Publishing Company. p.&#160;88. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0806311509" title="Special:BookSources/0806311509"><bdi>0806311509</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=American+Surnames&amp;rft.place=Baltimore&amp;rft.pages=88&amp;rft.pub=Genealogical+Publishing+Company&amp;rft.date=1969&amp;rft.isbn=0806311509&amp;rft.aulast=Smith&amp;rft.aufirst=Elsdon+C.&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Famericansurnames0000smit&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyan+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Rosenkrantz-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rosenkrantz_9-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Rosenkrantz, Linda; Satran, Pamela Redmond (2002). <a rel="nofollow" class="external text" href="https://archive.org/details/babynamesnow00lind"><i>Baby Names Now: From Classic to Cool—The Very Last Word on First Names</i></a>. New York: St. Martin's Paperbacks. p.&#160;419. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0312983689" title="Special:BookSources/0312983689"><bdi>0312983689</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Baby+Names+Now%3A+From+Classic+to+Cool%E2%80%94The+Very+Last+Word+on+First+Names&amp;rft.place=New+York&amp;rft.pages=419&amp;rft.pub=St.+Martin%27s+Paperbacks&amp;rft.date=2002&amp;rft.isbn=0312983689&amp;rft.aulast=Rosenkrantz&amp;rft.aufirst=Linda&amp;rft.au=Satran%2C+Pamela+Redmond&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fbabynamesnow00lind&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyan+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Little-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Little_10-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Grehan, Ida (1997). <a rel="nofollow" class="external text" href="https://archive.org/details/littlebookofiris0000greh"><i>A little book of Irish family names</i></a>. San Francisco: Chronicle Books. p.&#160;56. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0811812863" title="Special:BookSources/0811812863"><bdi>0811812863</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+little+book+of+Irish+family+names&amp;rft.place=San+Francisco&amp;rft.pages=56&amp;rft.pub=Chronicle+Books&amp;rft.date=1997&amp;rft.isbn=0811812863&amp;rft.aulast=Grehan&amp;rft.aufirst=Ida&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Flittlebookofiris0000greh&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyan+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ryan_(surname)&amp;action=edit&amp;section=10" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite id="CITEREFLaffan1911" class="citation book">Laffan, Thomas (1911). <i>Tipperary Families&#160;: Being The Hearth Money Records for 1665-1667</i>. James Duffy &amp; Co.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Tipperary+Families+%3A+Being+The+Hearth+Money+Records+for+1665-1667&amp;rft.pub=James+Duffy+%26+Co&amp;rft.date=1911&amp;rft.aulast=Laffan&amp;rft.aufirst=Thomas&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyan+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ryan_(surname)&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://celtic2realms-medievalnews.blogspot.ie/2015/04/ui-drona-kingdom.html">"Uí Dróna Kingdom"</a> by Niall C. E. J. O'Brien, April 27, 2015, <i>Medieval News</i></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Laigin" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Laigin" title="Template:Laigin"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Laigin" title="Template talk:Laigin"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Laigin&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Laigin" style="font-size:114%;margin:0 4em"><a href="/wiki/Laigin" title="Laigin">Laigin</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Kindreds and septs</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Dál Niad Cuirp</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/U%C3%AD_M%C3%A1il" title="Uí Máil">Uí Máil</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>O'Tighe</li>
+<li><a href="/wiki/O%27Kelly" title="O&#39;Kelly">O'Kelly</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/U%C3%AD_D%C3%BAnlainge" title="Uí Dúnlainge">Uí Dúnlainge</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Fitzdermot</li>
+<li><a href="/wiki/O%27Toole_family" title="O&#39;Toole family">O'Toole</a></li>
+<li><a href="/wiki/O%27Byrne_family" title="O&#39;Byrne family">O'Byrne</a></li>
+<li><a href="/wiki/Cosgrave" title="Cosgrave">O'Cosgrave</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/U%C3%AD_Cheinnselaig" class="mw-redirect" title="Uí Cheinnselaig">Uí Cheinnselaig</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/MacMurrough_dynasty" class="mw-redirect" title="MacMurrough dynasty">MacMurrough Kavanagh</a></li>
+<li><a href="/wiki/Kinsella" title="Kinsella">Kinsella</a></li>
+<li><a href="/wiki/Kehoe" title="Kehoe">Kehoe</a></li>
+<li><a href="/wiki/Finneran" title="Finneran">O'Finneran</a></li>
+<li><a href="/wiki/Murphy" title="Murphy">O'Murphy</a></li>
+<li><a href="/wiki/O%27Garvey" class="mw-redirect" title="O&#39;Garvey">O'Garvey</a></li>
+<li><a href="/wiki/Hartley_(surname)" title="Hartley (surname)">O'Hartley</a></li>
+<li><a href="/wiki/O%27Ryan" title="O&#39;Ryan">O'Ryan</a></li>
+<li><a href="/wiki/Morrow_(surname)" title="Morrow (surname)">Morrow</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/U%C3%AD_Failghe" class="mw-redirect" title="Uí Failghe">Uí Failghe</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/O%27Connor_Faly" class="mw-redirect" title="O&#39;Connor Faly">O'Connor Faly</a></li>
+<li><a href="/wiki/O%27Dunne" class="mw-redirect" title="O&#39;Dunne">O'Dunne</a></li>
+<li><a href="/wiki/O%27Dempsey" class="mw-redirect" title="O&#39;Dempsey">O'Dempsey</a></li>
+<li><a href="/wiki/Kavanagh_(surname)" title="Kavanagh (surname)">Kavanagh</a></li>
+<li><a href="/wiki/Branagh" title="Branagh">Branagh</a></li>
+<li><a href="/wiki/Fitzpatrick_(surname)" title="Fitzpatrick (surname)">MacGilpatrick (Fitzpatrick)</a></li>
+<li><a href="/wiki/O%27Dwyer_(surname)" title="O&#39;Dwyer (surname)">O'Dwyer</a></li>
+<li><a href="/wiki/O%27Holohan" class="mw-redirect" title="O&#39;Holohan">O'Holohan</a></li>
+<li><a href="/wiki/O%27Hennessy" class="mw-redirect" title="O&#39;Hennessy">O'Hennessy</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/U%C3%AD_Bairrche" title="Uí Bairrche">Uí Bairrche</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/MacGorman" title="MacGorman">MacGorman</a></li>
+<li><a href="/wiki/Kearney_(disambiguation)" class="mw-redirect mw-disambig" title="Kearney (disambiguation)">Kearney</a></li>
+<li><a href="/wiki/Tracy_(name)" title="Tracy (name)">Tracy</a></li>
+<li><a href="/wiki/Hughes_(disambiguation)" class="mw-redirect mw-disambig" title="Hughes (disambiguation)">Hughes</a></li>
+<li><a href="/wiki/Mooney" title="Mooney">Mooney</a></li>
+<li><a href="/wiki/Carney_(surname)" title="Carney (surname)">Carney</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/U%C3%AD_Enechglaiss" title="Uí Enechglaiss">Uí Enechglaiss</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>O'Feary</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Uí Crimthainn Áin</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>O'Duff</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Dál Cairpre Arad</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>O'Kealy</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/D%C3%A1l_Messin_Corb" title="Dál Messin Corb">Dál Messin Corb</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/O%27Farrell" title="O&#39;Farrell">O'Farrell</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Personalities</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%C3%9Againe_M%C3%B3r" title="Úgaine Mór">Úgaine Mór</a></li>
+<li><a href="/wiki/L%C3%B3egaire_Lorc" title="Lóegaire Lorc">Lóegaire Lorc</a></li>
+<li><a href="/wiki/Labraid_Loingsech" title="Labraid Loingsech">Labraid Loingsech</a></li>
+<li><a href="/wiki/%C3%93engus_Ollom" title="Óengus Ollom">Óengus Ollom</a></li>
+<li><a href="/wiki/Fergus_Fortamail" title="Fergus Fortamail">Fergus Fortamail</a></li>
+<li><a href="/wiki/Crimthann_Coscrach" title="Crimthann Coscrach">Crimthann Coscrach</a></li>
+<li><a href="/wiki/Nuadu_Necht" title="Nuadu Necht">Nuadu Necht</a></li>
+<li><a href="/wiki/Cumhall" title="Cumhall">Cumhall</a></li>
+<li><a href="/wiki/Fionn_mac_Cumhaill" title="Fionn mac Cumhaill">Fionn mac Cumhaill</a></li>
+<li><a href="/wiki/Ois%C3%ADn" title="Oisín">Oisín</a></li>
+<li><a href="/wiki/Oscar_(Irish_mythology)" title="Oscar (Irish mythology)">Oscar</a></li>
+<li><a href="/wiki/Conchobar_Abradruad" title="Conchobar Abradruad">Conchobar Abradruad</a></li>
+<li><a href="/wiki/Cathair_M%C3%B3r" title="Cathair Mór">Cathair Mór</a></li>
+<li><a href="/wiki/%C3%89nnae_Cennsalach" title="Énnae Cennsalach">Énnae Cennsalach</a></li>
+<li><a href="/wiki/Crimthann_mac_%C3%89nnai" title="Crimthann mac Énnai">Crimthann mac Énnai</a></li>
+<li><a href="/wiki/%C3%81ed_mac_Colggen" title="Áed mac Colggen">Áed mac Colggen</a></li>
+<li><a href="/wiki/Augaire_mac_Ailella" title="Augaire mac Ailella">Augaire mac Ailella</a></li>
+<li><a href="/wiki/M%C3%A1el_M%C3%B3rda_mac_Murchada" title="Máel Mórda mac Murchada">Máel Mórda mac Murchada</a></li>
+<li><a href="/wiki/Diarmait_Mac_Murchada" title="Diarmait Mac Murchada">Diarmait Mac Murchada</a></li>
+<li><a href="/wiki/Fiach_McHugh_O%27Byrne" title="Fiach McHugh O&#39;Byrne">Fiach McHugh O'Byrne</a></li>
+<li><a href="/wiki/Art_%C3%93g_mac_Murchadha_Caomh%C3%A1nach" title="Art Óg mac Murchadha Caomhánach">Art Óg mac Murchadha Caomhánach</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Places</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Naas" title="Naas">Naas</a></li>
+<li><a href="/wiki/Mullaghmast" title="Mullaghmast">Mullaghmast</a></li>
+<li><a href="/wiki/Lyons_Hill" title="Lyons Hill">Lyons Hill</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Battles</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Battle_of_Confey" title="Battle of Confey">Confey</a></li>
+<li><a href="/wiki/Battle_of_Glenmama" title="Battle of Glenmama">Glenmama</a></li>
+<li><a href="/wiki/Battle_of_Clontarf" title="Battle of Clontarf">Clontarf</a></li>
+<li><a href="/wiki/Battle_of_M%C3%B3in_Mh%C3%B3r" title="Battle of Móin Mhór">Móin Mhór</a></li>
+<li><a href="/wiki/Battle_of_Ros-Mhic-Thri%C3%BAin" title="Battle of Ros-Mhic-Thriúin">Ros-Mhic-Thriúin</a></li>
+<li><a href="/wiki/Battle_of_Glenmalure" title="Battle of Glenmalure">Glenmalure</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related articles</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gaels" title="Gaels">Gaels</a></li>
+<li><a href="/wiki/Milesians_(Irish)" title="Milesians (Irish)">Milesians</a></li>
+<li><a href="/wiki/%C3%89rim%C3%B3n" title="Érimón">Heremonians</a></li>
+<li><a href="/wiki/Mythological_Cycle" title="Mythological Cycle">Mythological Cycle</a></li>
+<li><a href="/wiki/Dindsenchas" title="Dindsenchas">Dindsenchas</a></li>
+<li><a href="/wiki/Book_of_Leinster" title="Book of Leinster">Book of Leinster</a></li>
+<li><a href="/wiki/List_of_Kings_of_Leinster" class="mw-redirect" title="List of Kings of Leinster">List of Kings of Leinster</a></li>
+<li><a href="/wiki/Kingdom_of_Leinster" class="mw-redirect" title="Kingdom of Leinster">Kingdom of Leinster</a></li>
+<li><a href="/wiki/O%27Rahilly%27s_historical_model" title="O&#39;Rahilly&#39;s historical model">O'Rahilly's historical model</a></li>
+<li><a href="/wiki/Gaelic_nobility_of_Ireland" title="Gaelic nobility of Ireland">Gaelic nobility of Ireland</a></li>
+<li><i><a href="/wiki/Follow_Me_up_to_Carlow" title="Follow Me up to Carlow">Follow Me up to Carlow</a></i></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Gaels" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Gaels" title="Template:Gaels"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Gaels" title="Template talk:Gaels"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Gaels&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Gaels" style="font-size:114%;margin:0 4em"><a href="/wiki/Gaels" title="Gaels">Gaels</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">General history</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gaelic_Ireland" title="Gaelic Ireland">Gaelic Ireland</a></li>
+<li><a href="/wiki/High_King_of_Ireland" title="High King of Ireland">High King of Ireland</a></li>
+<li><a href="/wiki/List_of_Irish_kingdoms" title="List of Irish kingdoms">Irish kingdoms</a></li>
+<li><a href="/wiki/D%C3%A1l_Riata" title="Dál Riata">Dál Riata</a></li>
+<li><a href="/wiki/Kingdom_of_Alba" title="Kingdom of Alba">Alba</a></li>
+<li><a href="/wiki/Nine_Years%27_War_(Ireland)" title="Nine Years&#39; War (Ireland)">Nine Years' War</a></li>
+<li><a href="/wiki/Statutes_of_Iona" title="Statutes of Iona">Statutes of Iona</a></li>
+<li><a href="/wiki/Flight_of_the_Earls" title="Flight of the Earls">Flight of the Earls</a></li>
+<li><a href="/wiki/Plantation_of_Ulster" title="Plantation of Ulster">Plantation of Ulster</a></li>
+<li><a href="/wiki/Irish_Rebellion_of_1641" title="Irish Rebellion of 1641">1641 Rebellion</a></li>
+<li><a href="/wiki/Act_for_the_Settlement_of_Ireland_1652" title="Act for the Settlement of Ireland 1652">Act for the Settlement of Ireland 1652</a></li>
+<li><a href="/wiki/Jacobite_risings" title="Jacobite risings">Jacobite risings</a></li>
+<li><a href="/wiki/Jacobite_rising_of_1745" title="Jacobite rising of 1745">Bliadhna Theàrlaich</a></li>
+<li><a href="/wiki/Penal_Laws_(Ireland)" class="mw-redirect" title="Penal Laws (Ireland)">Penal Laws</a></li>
+<li><a href="/wiki/Great_Famine_(Ireland)" title="Great Famine (Ireland)">Great Hunger</a></li>
+<li><a href="/wiki/Irish_diaspora" title="Irish diaspora">Irish diaspora</a></li>
+<li><a href="/wiki/Highland_Clearances" title="Highland Clearances">Highland Clearances</a></li>
+<li><a href="/wiki/Gaelic_revival" title="Gaelic revival">Gaelic Revival</a></li>
+<li><a href="/wiki/Gaeltacht" title="Gaeltacht">Gaeltacht</a></li>
+<li><a href="/wiki/G%C3%A0idhealtachd" title="Gàidhealtachd">Gàidhealtachd</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Gaelic culture</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ogham" title="Ogham">Ogham</a></li>
+<li><a href="/wiki/Early_Irish_law" title="Early Irish law">Brehon law</a></li>
+<li><a href="/wiki/Irish_mythology" title="Irish mythology">Gaelic mythology</a></li>
+<li><i><a href="/wiki/Lebor_Gab%C3%A1la_%C3%89renn" title="Lebor Gabála Érenn">Lebor Gabála Érenn</a></i></li>
+<li><a href="/wiki/Gaelic_warfare" title="Gaelic warfare">Gaelic warfare</a></li>
+<li><a href="/wiki/Early_Irish_astrology" title="Early Irish astrology">Gaelic astrology</a></li>
+<li><a href="/wiki/Irish_kinship" title="Irish kinship">Gaelic kinship</a></li>
+<li><a href="/wiki/Irish_bardic_poetry" title="Irish bardic poetry">Bardic poetry</a></li>
+<li><a href="/wiki/Gaelic_literature" title="Gaelic literature">Gaelic literature</a> (<a href="/wiki/Early_Irish_literature" title="Early Irish literature">Early Irish</a>, <a href="/wiki/Modern_literature_in_Irish" title="Modern literature in Irish">Modern Irish</a>, <a href="/wiki/Scottish_Gaelic_literature" title="Scottish Gaelic literature">Scottish Gaelic</a> &amp; <a href="/wiki/Manx_literature" title="Manx literature">Manx</a>)</li>
+<li><a href="/wiki/Gaelic_type" title="Gaelic type">Gaelic type</a></li>
+<li><a href="/wiki/Insular_script" title="Insular script">Insular script</a></li>
+<li><a href="/wiki/F%C3%A1inne" title="Fáinne">Fáinne</a></li>
+<li><a href="/wiki/Traditional_Gaelic_music" title="Traditional Gaelic music">Gaelic music</a></li>
+<li><a href="/wiki/Sean-n%C3%B3s_song" title="Sean-nós song">Sean-nós song</a></li>
+<li><a href="/wiki/Oireachtas_na_Gaeilge" title="Oireachtas na Gaeilge">Oireachtas na Gaeilge</a></li>
+<li><a href="/wiki/Royal_National_M%C3%B2d" title="Royal National Mòd">Am Mòd</a></li>
+<li><a href="/wiki/Gaelic_games" title="Gaelic games">Gaelic games</a></li>
+<li><a href="/wiki/Highland_games" title="Highland games">Highland games</a></li>
+<li><a href="/wiki/Celtic_Christianity" title="Celtic Christianity">Insular Christianity</a></li>
+<li><a href="/wiki/Hiberno-Scottish_mission" title="Hiberno-Scottish mission">Gaelic Christian mission</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Goidelic_languages" title="Goidelic languages">Language</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Primitive_Irish" title="Primitive Irish">Primitive Irish</a></i></li>
+<li><i><a href="/wiki/Old_Irish" title="Old Irish">Old Irish</a></i></li>
+<li><i><a href="/wiki/Middle_Irish" title="Middle Irish">Middle Irish</a></i></li>
+<li><i><a href="/wiki/Classical_Gaelic" title="Classical Gaelic">Classical Gaelic</a></i></li>
+<li><a href="/wiki/Irish_language" title="Irish language">Irish</a></li>
+<li><a href="/wiki/Manx_language" title="Manx language">Manx</a></li>
+<li><a href="/wiki/Scottish_Gaelic" title="Scottish Gaelic">Scottish Gaelic</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Irish_clans" title="List of Irish clans">Major tribes<br />or clans</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Connachta" title="Connachta">Connachta</a> (incl. <a href="/wiki/U%C3%AD_N%C3%A9ill" title="Uí Néill">Uí Néill</a>, <a href="/wiki/Airg%C3%ADalla" title="Airgíalla">Clan Colla</a>, <a href="/wiki/Clan_Donald" title="Clan Donald">Clan Donald</a>, <a href="/wiki/U%C3%AD_Maine" title="Uí Maine">Uí Maine</a>, etc)</li>
+<li><a href="/wiki/D%C3%A1l_gCais" class="mw-redirect" title="Dál gCais">Dál gCais</a> (incl. <a href="/wiki/D%C3%A9isi" title="Déisi">Déisi</a>)</li>
+<li><a href="/wiki/E%C3%B3ganachta" title="Eóganachta">Eóganachta</a></li>
+<li><a href="/wiki/Iverni" title="Iverni">Érainn</a> (incl. <a href="/wiki/D%C3%A1l_Riata" title="Dál Riata">Dál Riata</a>, <a href="/wiki/Corcu_Lo%C3%ADgde" title="Corcu Loígde">Corcu Loígde</a>, <a href="/wiki/Clan_Conla" class="mw-redirect" title="Clan Conla">Clan Conla</a>, <a href="/wiki/D%C3%A1l_Fiatach" title="Dál Fiatach">Dál Fiatach</a>, etc)</li>
+<li><a href="/wiki/Laigin" title="Laigin">Laigin</a></li>
+<li><a href="/wiki/Ulaid" title="Ulaid">Ulaid</a> (incl. <a href="/wiki/D%C3%A1l_nAraidi" title="Dál nAraidi">Dál nAraidi</a>, <a href="/wiki/Conmha%C3%ADcne" title="Conmhaícne">Conmhaícne</a>, <a href="/wiki/Ciarraige" title="Ciarraige">Ciarraige</a>, etc)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related<br />organisations</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%C3%9Adar%C3%A1s_na_Gaeltachta" title="Údarás na Gaeltachta">Údarás na Gaeltachta</a></li>
+<li><a href="/wiki/Foras_na_Gaeilge" title="Foras na Gaeilge">Foras na Gaeilge</a></li>
+<li><a href="/wiki/B%C3%B2rd_na_G%C3%A0idhlig" title="Bòrd na Gàidhlig">Bòrd na Gàidhlig</a></li>
+<li><a href="/wiki/Culture_Vannin" title="Culture Vannin">Culture Vannin</a></li>
+<li><a href="/wiki/Conradh_na_Gaeilge" title="Conradh na Gaeilge">Conradh na Gaeilge</a></li>
+<li><a href="/wiki/An_Comunn_G%C3%A0idhealach" title="An Comunn Gàidhealach">An Comunn Gàidhealach</a></li>
+<li><a href="/wiki/Manx_Gaelic_Society" title="Manx Gaelic Society">Manx Gaelic Society</a></li>
+<li><a href="/wiki/Seachtain_na_Gaeilge" title="Seachtain na Gaeilge">Seachtain na Gaeilge</a></li>
+<li><a href="/wiki/Gael_Linn" title="Gael Linn">Gael Linn</a></li>
+<li><a href="/wiki/ULTACH_Trust" title="ULTACH Trust">ULTACH Trust</a></li>
+<li><a href="/wiki/Comunn_na_G%C3%A0idhlig" title="Comunn na Gàidhlig">Comunn na Gàidhlig</a></li>
+<li><a href="/wiki/Columba_Project" title="Columba Project">Columba Project</a></li>
+<li><a href="/wiki/Clans_of_Ireland" title="Clans of Ireland">Clans of Ireland</a></li>
+<li><a href="/wiki/An_Coimisin%C3%A9ir_Teanga" title="An Coimisinéir Teanga">An Coimisinéir Teanga</a></li>
+<li><a href="/wiki/An_Comunn_G%C3%A0idhealach_America" title="An Comunn Gàidhealach America">An Comunn Gàidhealach America</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related subjects</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Haplogroup_R-M269" title="Haplogroup R-M269">Haplogroup R-M269</a> (<a href="/wiki/Genetic_history_of_the_British_Isles" title="Genetic history of the British Isles">human genetics</a>)</li>
+<li><a href="/wiki/Celts" title="Celts">Celts</a></li>
+<li><a href="/wiki/Norse%E2%80%93Gaels" title="Norse–Gaels">Norse–Gaels</a> (incl. <a href="/wiki/U%C3%AD_%C3%8Dmair" title="Uí Ímair">Uí Ímair</a> and <a href="/wiki/Clan_MacLeod" title="Clan MacLeod">Clan MacLeod</a>)</li>
+<li><a href="/wiki/Kingdom_of_the_Isles" title="Kingdom of the Isles">Kingdom of the Isles</a></li>
+<li><a href="/wiki/Gaelicisation" title="Gaelicisation">Gaelicisation</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Gaels" title="Category:Gaels">Category</a></li></ul>
+</div></td></tr></tbody></table></div>
+<style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
+<table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
+<tbody><tr>
+<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Ryan</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Ryan_(surname)&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
+</tr>
+</tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1229
+Cached time: 20190926164608
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.404 seconds
+Real time usage: 0.511 seconds
+Preprocessor visited node count: 1001/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 66939/2097152 bytes
+Template argument size: 798/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 31680/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.195/10.000 seconds
+Lua memory usage: 3.31 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  376.626      1 -total
+ 62.81%  236.564      1 Template:Reflist
+ 46.97%  176.890      8 Template:Cite_book
+ 18.92%   71.273      1 Template:Surname
+ 18.06%   68.014      4 Template:Navbox
+ 16.04%   60.420      1 Template:Dmbox
+ 10.52%   39.618      1 Template:Laigin
+  7.39%   27.845      3 Template:Cite_web
+  7.23%   27.221      1 Template:Short_description
+  6.35%   23.933      1 Template:Pagetype
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:12629319-0!canonical and timestamp 20190926164608 and revision id 918022501
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ryan_(surname)&amp;oldid=918022501">https://en.wikipedia.org/w/index.php?title=Ryan_(surname)&amp;oldid=918022501</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:Anglicised_Irish-language_surnames" title="Category:Anglicised Irish-language surnames">Anglicised Irish-language surnames</a></li><li><a href="/wiki/Category:English-language_surnames" title="Category:English-language surnames">English-language surnames</a></li><li><a href="/wiki/Category:Surnames_of_Irish_origin" title="Category:Surnames of Irish origin">Surnames of Irish origin</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ryan+%28surname%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ryan+%28surname%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Ryan_(surname)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Ryan_(surname)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Ryan_(surname)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Ryan_(surname)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ryan_(surname)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ryan_(surname)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ryan_(surname)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ryan_(surname)&amp;oldid=918022501" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ryan_(surname)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5263823" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ryan_%28surname%29&amp;id=918022501" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Ryan_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ryan+%28surname%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Ryan+%28surname%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ryan_(surname)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Ryan_(s%C3%A8%E2%81%BF)" title="Ryan (sèⁿ) – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Ryan_(p%C5%99%C3%ADjmen%C3%AD)" title="Ryan (příjmení) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Ryan_(Familienname)" title="Ryan (Familienname) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Ryan" title="Ryan – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Ryan" title="Ryan – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3" title="ライアン – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5263823#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 26 September 2019, at 16:46<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ryan_(surname)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.404","walltime":"0.511","ppvisitednodes":{"value":1001,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":66939,"limit":2097152},"templateargumentsize":{"value":798,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":31680,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  376.626      1 -total"," 62.81%  236.564      1 Template:Reflist"," 46.97%  176.890      8 Template:Cite_book"," 18.92%   71.273      1 Template:Surname"," 18.06%   68.014      4 Template:Navbox"," 16.04%   60.420      1 Template:Dmbox"," 10.52%   39.618      1 Template:Laigin","  7.39%   27.845      3 Template:Cite_web","  7.23%   27.221      1 Template:Short_description","  6.35%   23.933      1 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.195","limit":"10.000"},"limitreport-memusage":{"value":3473497,"limit":52428800}},"cachereport":{"origin":"mw1229","timestamp":"20190926164608","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Ryan (surname)","url":"https:\/\/en.wikipedia.org\/wiki\/Ryan_(surname)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5263823","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5263823","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-08-05T16:18:37Z","dateModified":"2019-09-26T16:46:08Z","headline":"family name"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":108,"wgHostname":"mw1261"});});</script>
+</body>
+</html>

@@ -1,0 +1,607 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Family Day - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Family_Day","wgTitle":"Family Day","wgCurRevisionId":920588797,"wgRevisionId":920588797,"wgArticleId":1332291,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Vietnamese-language sources (vi)","Articles containing Spanish-language text","Articles containing Vietnamese-language text","Holidays and observances by scheduling (nth weekday of the month)","Types of secular holidays","February observances","September observances","October observances","November observances","December observances","Christian festivals and holy days"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June"
+,"July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Family_Day","wgRelevantArticleId":1332291,"wgRequestId":"Xa@kfgpAICIAABd4nl0AAADT","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1307995","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready",
+"site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.cite.tracking","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin"
+,"mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.2"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Family_Day"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Family_Day&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Family_Day&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Family_Day"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Family_Day rootpage-Family_Day skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Family Day</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Family Day</b> is a public <a href="/wiki/Holiday" title="Holiday">holiday</a> in <a href="/wiki/South_Africa" title="South Africa">South Africa</a>, and in the <a href="/wiki/Provinces_of_Canada" class="mw-redirect" title="Provinces of Canada">Canadian provinces</a> of <a href="/wiki/Alberta" title="Alberta">Alberta</a>,  <a href="/wiki/British_Columbia" title="British Columbia">British Columbia</a>, <a href="/wiki/Saskatchewan" title="Saskatchewan">Saskatchewan</a>, <a href="/wiki/Ontario" title="Ontario">Ontario</a> and soon <a href="/wiki/New_Brunswick" title="New Brunswick">New Brunswick</a>, in the <a href="/wiki/United_States" title="United States">American</a> states of <a href="/wiki/Arizona" title="Arizona">Arizona</a> and <a href="/wiki/Nevada" title="Nevada">Nevada</a>, in <a href="/wiki/Uruguay" title="Uruguay">Uruguay</a>, in <a href="/wiki/Vanuatu" title="Vanuatu">Vanuatu</a>, in <a href="/wiki/Vietnam" title="Vietnam">Vietnam</a>, in the <a href="/wiki/Australian_Capital_Territory" title="Australian Capital Territory">Australian Capital Territory</a>, and as the second day of <a href="/wiki/Songkran" title="Songkran">Songkran</a> in <a href="/wiki/Thailand" title="Thailand">Thailand</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Australia"><span class="tocnumber">1</span> <span class="toctext">Australia</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Australian_Capital_Territory"><span class="tocnumber">1.1</span> <span class="toctext">Australian Capital Territory</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Canada"><span class="tocnumber">2</span> <span class="toctext">Canada</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#South_Africa"><span class="tocnumber">3</span> <span class="toctext">South Africa</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#United_States"><span class="tocnumber">4</span> <span class="toctext">United States</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Uruguay"><span class="tocnumber">5</span> <span class="toctext">Uruguay</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Vanuatu"><span class="tocnumber">6</span> <span class="toctext">Vanuatu</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Vietnam"><span class="tocnumber">7</span> <span class="toctext">Vietnam</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Australia">Australia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Family_Day&amp;action=edit&amp;section=1" title="Edit section: Australia">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Australian_Capital_Territory">Australian Capital Territory</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Family_Day&amp;action=edit&amp;section=2" title="Edit section: Australian Capital Territory">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>Family and Community Day</i> was celebrated on the first Tuesday of November from 2007–2009, coinciding with the <a href="/wiki/Melbourne_Cup" title="Melbourne Cup">Melbourne Cup</a>. This public holiday was declared in 2007. <a href="/wiki/Andrew_Barr" title="Andrew Barr">Andrew Barr</a>, then <a href="/wiki/Australian_Capital_Territory" title="Australian Capital Territory">ACT</a> Minister for Industrial Relations, stated the purpose of the new public holiday was:
+</p><p>"...to enable workers to take a break from their hectic work and to spend some quality time with their family and friends. ... Australians do work the longest hours of any country in the western world. We do deserve a break."<sup id="cite_ref-HansardLegislative2007_1-0" class="reference"><a href="#cite_note-HansardLegislative2007-1">&#91;1&#93;</a></sup>
+</p><p>In the years 2010–2017, the date was moved to the first Monday of the September/October school holidays. Where the first Monday of the school holidays falls on the ACT Labour Day <a href="/wiki/Public_holidays_in_Australia" title="Public holidays in Australia">public holiday</a> (first Monday in October), the holiday is moved to the second Monday of the ACT school holidays.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>In 2018, Family and Community Day will no longer be a public holiday in the ACT. Replacing it is <a href="/wiki/Reconciliation_Day" title="Reconciliation Day">Reconciliation Day</a>, held on the first Monday on or after May 27.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Canada">Canada</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Family_Day&amp;action=edit&amp;section=3" title="Edit section: Canada">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Family_Day_(Canada)" title="Family Day (Canada)">Family Day (Canada)</a></div>
+<p>Nearly two-thirds of Canadians reside in a province that observes a statutory holiday on the third Monday of February. The holiday is called <i>Family Day</i> in five provinces (Alberta, British Columbia, New Brunswick, Ontario and Saskatchewan), <i>Louis Riel Day</i> in Manitoba, and <i>Islander Day</i> in Prince Edward Island. There is no federally established Family Day.
+</p><p>This holiday was first observed in Alberta in 1990, followed by Saskatchewan in 2007 and Ontario in 2008. On May 28, 2012, the BC government announced that Family Day would be observed on the second Monday in February each year, starting February 11, 2013.  <a rel="nofollow" class="external free" href="https://www2.gnb.ca/content/gnb/en/departments/post-secondary_education_training_and_labour/news/news_release.2017.04.0568.html">https://www2.gnb.ca/content/gnb/en/departments/post-secondary_education_training_and_labour/news/news_release.2017.04.0568.html</a> The week of its observance was changed from the second Monday of February to the third Monday starting in 2019. In April 2017, the NB government announced the family statutory holiday to begin in February 2018.<sup id="cite_ref-FamilyDayBCGov_5-0" class="reference"><a href="#cite_note-FamilyDayBCGov-5">&#91;5&#93;</a></sup> In February 2018, the BC government announced that Family Day would move to the third Monday in February from 2019 onward, aligning the holiday with other Canadian provinces.<sup id="cite_ref-FamilyDayBCGovChange_6-0" class="reference"><a href="#cite_note-FamilyDayBCGovChange-6">&#91;6&#93;</a></sup>
+</p><p>As a new holiday, there are no traditional activities that are associated with the day. Canadians use the long weekend for whatever purpose they like.  In at least British Columbia, the decision to add this public holiday is due to the lack of any public holiday between lengthy gap between the New Year's day and Good Friday public holidays.  Otherwise, Canadian provinces have a public holiday at least every other month.
+</p><p>Family Day is unrelated to <a href="/wiki/National_Family_Week" title="National Family Week">National Family Week</a>, a campaign put on each October by the Canadian Association of Family Resource Programs.
+</p>
+<h2><span class="mw-headline" id="South_Africa">South Africa</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Family_Day&amp;action=edit&amp;section=4" title="Edit section: South Africa">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>After 1995, <a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday</a> was renamed Family Day.<sup id="cite_ref-PublicHolidays1994_7-0" class="reference"><a href="#cite_note-PublicHolidays1994-7">&#91;7&#93;</a></sup><sup id="cite_ref-About2006_8-0" class="reference"><a href="#cite_note-About2006-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="United_States">United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Family_Day&amp;action=edit&amp;section=5" title="Edit section: United States">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Family Day</b> is a state holiday in <a href="/wiki/Nevada" title="Nevada">Nevada</a>, celebrated on the day after <a href="/wiki/Thanksgiving" title="Thanksgiving">Thanksgiving</a>, i.e. the Friday following the fourth Thursday in November.<sup id="cite_ref-NRS_236.015_9-0" class="reference"><a href="#cite_note-NRS_236.015-9">&#91;9&#93;</a></sup>
+</p><p><a href="/wiki/American_Family_Day" title="American Family Day">American Family Day</a> is a state holiday in <a href="/wiki/Arizona" title="Arizona">Arizona</a> and has been celebrated on the first Sunday in August since 1978.<sup id="cite_ref-AmericanFamily_10-0" class="reference"><a href="#cite_note-AmericanFamily-10">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Uruguay">Uruguay</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Family_Day&amp;action=edit&amp;section=6" title="Edit section: Uruguay">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/Uruguay" title="Uruguay">Uruguay</a>, the public holiday on December 25 is officially known as Family Day (<i lang="es" title="Spanish language text">Día de la Familia</i>) rather than <a href="/wiki/Christmas" title="Christmas">Christmas</a>, for the sake of <a href="/wiki/Secularism" title="Secularism">secularism</a>.
+</p>
+<h2><span class="mw-headline" id="Vanuatu">Vanuatu</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Family_Day&amp;action=edit&amp;section=7" title="Edit section: Vanuatu">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Family Day in <a href="/wiki/Vanuatu" title="Vanuatu">Vanuatu</a> is celebrated annually on December 26, traditionally <a href="/wiki/Boxing_Day" title="Boxing Day">Boxing Day</a>, as a day on which school and work are suspended in order to spend the day giving thanks for and enjoying time with one's family, often by engaging in civic and religious events and a festive meal.
+</p>
+<h2><span class="mw-headline" id="Vietnam">Vietnam</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Family_Day&amp;action=edit&amp;section=8" title="Edit section: Vietnam">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Vietnamese Family Day (<a href="/wiki/Vietnamese_language" title="Vietnamese language">Vietnamese</a>: <i lang="vi">Ngày gia đình Việt Nam</i>) occurs on the 28th of June each year, having been established in 2001.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> Family-oriented activities and events are organised throughout the country, though it is not a public holiday.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Family_Day&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-HansardLegislative2007-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-HansardLegislative2007_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.hansard.act.gov.au/hansard/2007/week09/2608.htm">"Hansard, Legislative Assembly for the ACT"</a>. 25 September 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">19 February</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hansard%2C+Legislative+Assembly+for+the+ACT&amp;rft.date=2007-09-25&amp;rft_id=http%3A%2F%2Fwww.hansard.act.gov.au%2Fhansard%2F2007%2Fweek09%2F2608.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFamily+Day" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cmd.act.gov.au/communication/holidays">"Daylight Saving and Public Holidays in the ACT"</a>. <i>Chief Minister, Treasury and Economic Development Directorate</i>. Australian Capital Territory Government<span class="reference-accessdate">. Retrieved <span class="nowrap">27 January</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Chief+Minister%2C+Treasury+and+Economic+Development+Directorate&amp;rft.atitle=Daylight+Saving+and+Public+Holidays+in+the+ACT&amp;rft_id=http%3A%2F%2Fwww.cmd.act.gov.au%2Fcommunication%2Fholidays&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFamily+Day" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.det.act.gov.au/school_education/term_dates_and_public_holidays">"Term Dates and Public Holidays"</a>. <i>Education and Training Directorate</i>. Australian Capital Territory Government<span class="reference-accessdate">. Retrieved <span class="nowrap">27 January</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Education+and+Training+Directorate&amp;rft.atitle=Term+Dates+and+Public+Holidays&amp;rft_id=http%3A%2F%2Fwww.det.act.gov.au%2Fschool_education%2Fterm_dates_and_public_holidays&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFamily+Day" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.canberratimes.com.au/act-news/this-year-will-be-the-last-family-and-community-public-holiday-20170817-gxy2hq.html">"This year will be the last Family and Community public holiday"</a>. Canberra Times<span class="reference-accessdate">. Retrieved <span class="nowrap">20 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=This+year+will+be+the+last+Family+and+Community+public+holiday&amp;rft.pub=Canberra+Times&amp;rft_id=http%3A%2F%2Fwww.canberratimes.com.au%2Fact-news%2Fthis-year-will-be-the-last-family-and-community-public-holiday-20170817-gxy2hq.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFamily+Day" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-FamilyDayBCGov-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-FamilyDayBCGov_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://blog.gov.bc.ca/bcfamilyday/?page_id=80">"Government of BC Blog - About BC Family Day"</a>. 2013-01-29<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-02-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Government+of+BC+Blog+-+About+BC+Family+Day&amp;rft.date=2013-01-29&amp;rft_id=http%3A%2F%2Fblog.gov.bc.ca%2Fbcfamilyday%2F%3Fpage_id%3D80&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFamily+Day" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-FamilyDayBCGovChange-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-FamilyDayBCGovChange_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://news.gov.bc.ca/releases/2018PREM0018-000188">"Government of BC News Release"</a>. 2018-11-21<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-02-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Government+of+BC+News+Release&amp;rft.date=2018-11-21&amp;rft_id=https%3A%2F%2Fnews.gov.bc.ca%2Freleases%2F2018PREM0018-000188&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFamily+Day" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-PublicHolidays1994-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-PublicHolidays1994_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060821071326/http://www.info.gov.za/acts/1994/a36-94.pdf">"Public Holidays Act, 1994 (36)"</a> <span class="cs1-format">(PDF)</span>. 1994-12-07. Archived from <a rel="nofollow" class="external text" href="http://www.info.gov.za/acts/1994/a36-94.pdf">the original</a> <span class="cs1-format">(<a href="/wiki/Portable_Document_Format" class="mw-redirect" title="Portable Document Format">PDF</a>)</span> on 2006-08-21<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-04-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Public+Holidays+Act%2C+1994+%2836%29&amp;rft.date=1994-12-07&amp;rft_id=http%3A%2F%2Fwww.info.gov.za%2Facts%2F1994%2Fa36-94.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFamily+Day" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-About2006-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-About2006_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081101165214/http://www.info.gov.za/aboutsa/holidays.htm">"About SA - Public Holidays"</a>. 2006-03-28. Archived from <a rel="nofollow" class="external text" href="http://www.info.gov.za/aboutsa/holidays.htm">the original</a> on 2008-11-01<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-04-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+SA+-+Public+Holidays&amp;rft.date=2006-03-28&amp;rft_id=http%3A%2F%2Fwww.info.gov.za%2Faboutsa%2Fholidays.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFamily+Day" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-NRS_236.015-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-NRS_236.015_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.leg.state.nv.us/nrs/NRS-236.html">"Chapter 236 - Holidays and Periods of Observance"</a>. <i>Nevada Revised Statutes</i>. Nevada Legislative Counsel Bureau<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-10-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Nevada+Revised+Statutes&amp;rft.atitle=Chapter+236+-+Holidays+and+Periods+of+Observance&amp;rft_id=http%3A%2F%2Fwww.leg.state.nv.us%2Fnrs%2FNRS-236.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFamily+Day" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-AmericanFamily-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-AmericanFamily_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120425065037/http://american-familydayholiday.com/">"American Family Day"</a>. Archived from <a rel="nofollow" class="external text" href="http://american-familydayholiday.com/">the original</a> on 2012-04-25<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-10-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=American+Family+Day&amp;rft_id=http%3A%2F%2Famerican-familydayholiday.com%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFamily+Day" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://giadinh.net.vn/phap-luat/quyet-dinh-ve-ngay-gia-dinh-viet-nam-1469.htm">"Quyết định về Ngày Gia đình Việt Nam"</a> &#91;Decision on Vietnamese Family Day&#93;. <i>GiadinhNet</i> (in Vietnamese). General Department of Population and Family Planning (Ministry of Health)<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-06-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GiadinhNet&amp;rft.atitle=Quy%E1%BA%BFt+%C4%91%E1%BB%8Bnh+v%E1%BB%81+Ng%C3%A0y+Gia+%C4%91%C3%ACnh+Vi%E1%BB%87t+Nam&amp;rft_id=http%3A%2F%2Fgiadinh.net.vn%2Fphap-luat%2Fquyet-dinh-ve-ngay-gia-dinh-viet-nam-1469.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFamily+Day" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://anydayguide.com/calendar/2154">"Family Day in Vietnam"</a>. <i>AnydayGuide</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-06-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=AnydayGuide&amp;rft.atitle=Family+Day+in+Vietnam&amp;rft_id=https%3A%2F%2Fanydayguide.com%2Fcalendar%2F2154&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFamily+Day" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Family" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Family" title="Template:Family"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Family" title="Template talk:Family"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Family&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Family" style="font-size:114%;margin:0 4em"><a href="/wiki/Family" title="Family">Family</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_History&amp;#10;*_Household&amp;#10;*_Nuclear_family&amp;#10;*_Extended_family&amp;#10;*_Conjugal_family&amp;#10;*_Immediate_family&amp;#10;*_Matrifocal_family&amp;#10;*_Stepfamily&amp;#10;*_Dysfunctional_family&amp;#10;*_Polyfidelitous_families">
+<ul><li><a href="/wiki/History_of_the_family" title="History of the family">History</a></li>
+<li><a href="/wiki/Household" title="Household">Household</a></li>
+<li><a href="/wiki/Nuclear_family" title="Nuclear family">Nuclear family</a></li>
+<li><a href="/wiki/Extended_family" title="Extended family">Extended family</a></li>
+<li><a href="/wiki/Conjugal_family" title="Conjugal family">Conjugal family</a></li>
+<li><a href="/wiki/Immediate_family" title="Immediate family">Immediate family</a></li>
+<li><a href="/wiki/Matrifocal_family" title="Matrifocal family">Matrifocal family</a></li>
+<li><a href="/wiki/Stepfamily" title="Stepfamily">Stepfamily</a></li>
+<li><a href="/wiki/Dysfunctional_family" title="Dysfunctional family">Dysfunctional family</a></li>
+<li><a href="/wiki/Polyfidelity" title="Polyfidelity">Polyfidelitous families</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/First-degree_relatives" title="First-degree relatives">First-degree relatives</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Parent" title="Parent">Parent</a>
+<ul><li><a href="/wiki/Father" title="Father">father</a></li>
+<li><a href="/wiki/Mother" title="Mother">mother</a></li></ul></li>
+<li><a href="/wiki/Child" title="Child">Child</a>
+<ul><li><a href="/wiki/Son" title="Son">son</a></li>
+<li><a href="/wiki/Daughter" title="Daughter">daughter</a></li></ul></li>
+<li><a href="/wiki/Sibling" title="Sibling">Sibling</a>
+<ul><li><a href="/wiki/Brother" title="Brother">brother</a></li>
+<li><a href="/wiki/Sister" title="Sister">sister</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Second-degree_relative" title="Second-degree relative">Second-degree relatives</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Grandparent" title="Grandparent">Grandparent</a></li>
+<li><a href="/wiki/Grandchild" class="mw-redirect" title="Grandchild">Grandchild</a></li>
+<li><a href="/wiki/Aunt" title="Aunt">Aunt</a></li>
+<li><a href="/wiki/Uncle" title="Uncle">Uncle</a></li>
+<li><a href="/wiki/Niece_and_nephew" title="Niece and nephew">Niece and nephew</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Third-degree_relative" title="Third-degree relative">Third-degree relatives</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Great-grandparent" class="mw-redirect" title="Great-grandparent">Great-grandparent</a></li>
+<li><a href="/wiki/Great-grandchild" class="mw-redirect" title="Great-grandchild">Great-grandchild</a></li>
+<li><a href="/wiki/Niece_and_nephew" title="Niece and nephew">Grandnephew and grandniece</a></li>
+<li><a href="/wiki/Uncle" title="Uncle">Great-Uncle</a></li>
+<li><a href="/wiki/Aunt" title="Aunt">Great-Aunt</a></li>
+<li><a href="/wiki/Cousin" title="Cousin">Cousin</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Affinity_(law)" title="Affinity (law)">Family-in-law</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Spouse" title="Spouse">Spouse</a>
+<ul><li><a href="/wiki/Wife" title="Wife">wife</a></li>
+<li><a href="/wiki/Husband" title="Husband">husband</a></li></ul></li>
+<li><a href="/wiki/Parent-in-law" title="Parent-in-law">Parents-in-law</a></li>
+<li><a href="/wiki/Sibling-in-law" title="Sibling-in-law">Siblings-in-law</a></li>
+<li><a href="/wiki/Son-in-law" class="mw-redirect" title="Son-in-law">Son-in-law</a></li>
+<li><a href="/wiki/Daughter-in-law" class="mw-redirect" title="Daughter-in-law">Daughter-in-law</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Stepfamily" title="Stepfamily">Stepfamily</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Stepfather" title="Stepfather">Stepfather</a></li>
+<li><a href="/wiki/Stepmother" title="Stepmother">Stepmother</a></li>
+<li><a href="/wiki/Stepchild" title="Stepchild">Stepchild</a></li>
+<li><a href="/wiki/Stepsibling" title="Stepsibling">Stepsibling</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Kinship_terminology" title="Kinship terminology">Kinship terminology</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kinship" title="Kinship">Kinship</a></li>
+<li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal kinship</a></li>
+<li><a href="/wiki/Adoption" title="Adoption">Adoption</a></li>
+<li><a href="/wiki/Affinity_(law)" title="Affinity (law)">Affinity</a></li>
+<li><a href="/wiki/Consanguinity" title="Consanguinity">Consanguinity</a></li>
+<li><a href="/wiki/Disownment" title="Disownment">Disownment</a></li>
+<li><a href="/wiki/Divorce" title="Divorce">Divorce</a></li>
+<li><a href="/wiki/Family_estrangement" title="Family estrangement">Estrangement</a></li>
+<li><a href="/wiki/Fictive_kinship" title="Fictive kinship">Fictive kinship</a></li>
+<li><a href="/wiki/Marriage" title="Marriage">Marriage</a></li>
+<li><a href="/wiki/Nurture_kinship" title="Nurture kinship">Nurture kinship</a></li>
+<li><a href="/wiki/Hawaiian_kinship" title="Hawaiian kinship">Hawaiian kinship</a></li>
+<li><a href="/wiki/Sudanese_kinship" title="Sudanese kinship">Sudanese kinship</a></li>
+<li><a href="/wiki/Eskimo_kinship" title="Eskimo kinship">Eskimo kinship</a></li>
+<li><a href="/wiki/Iroquois_kinship" title="Iroquois kinship">Iroquois kinship</a></li>
+<li><a href="/wiki/Crow_kinship" title="Crow kinship">Crow kinship</a></li>
+<li><a href="/wiki/Omaha_kinship" title="Omaha kinship">Omaha kinship</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ancestor" title="Ancestor">Lineage</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bilateral_descent" title="Bilateral descent">Bilateral descent</a></li>
+<li><a href="/wiki/Most_recent_common_ancestor" title="Most recent common ancestor">Common ancestor</a></li>
+<li><a href="/wiki/Surname" title="Surname">Family name</a></li>
+<li><a href="/wiki/Family_tree" title="Family tree">Family tree</a></li>
+<li><a href="/wiki/Genealogy" title="Genealogy">Genealogy</a></li>
+<li><a href="/wiki/Heirloom" title="Heirloom">Heirloom</a></li>
+<li><a href="/wiki/Heredity" title="Heredity">Heredity</a></li>
+<li><a href="/wiki/Inheritance" title="Inheritance">Inheritance</a></li>
+<li><a href="/wiki/Lineal_descendant" title="Lineal descendant">Lineal descendant</a></li>
+<li><a href="/wiki/Matrilineality" title="Matrilineality">Matrilineality</a></li>
+<li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineality</a></li>
+<li><a href="/wiki/Pedigree_chart" title="Pedigree chart">Pedigree chart</a></li>
+<li><a href="/wiki/Progenitor" title="Progenitor">Progenitor</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Relationships</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Agape" title="Agape">Agape (parental love)</a></li>
+<li><a href="/wiki/Eros_(concept)" title="Eros (concept)">Eros (marital love)</a></li>
+<li><a href="/wiki/Filial_piety" title="Filial piety">Filial piety</a></li>
+<li><a href="/wiki/Storge" title="Storge">Storge (familial love)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Holidays</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mother%27s_Day" title="Mother&#39;s Day">Mother's Day</a>
+<ul><li><a href="/wiki/Mother%27s_Day_(United_States)" title="Mother&#39;s Day (United States)">U.S.</a></li></ul></li>
+<li><a href="/wiki/Father%27s_Day" title="Father&#39;s Day">Father's Day</a></li>
+<li><a href="/wiki/Father-Daughter_Day" class="mw-redirect" title="Father-Daughter Day">Father-Daughter Day</a></li>
+<li><a href="/wiki/Siblings_Day" title="Siblings Day">Siblings Day</a></li>
+<li><a href="/wiki/National_Grandparents_Day" title="National Grandparents Day">National Grandparents Day</a></li>
+<li><a href="/wiki/Parents%27_Day" title="Parents&#39; Day">Parents' Day</a></li>
+<li><a href="/wiki/Children%27s_Day" title="Children&#39;s Day">Children's Day</a></li>
+<li><a class="mw-selflink selflink">Family Day</a>
+<ul><li><a href="/wiki/Family_Day_(Canada)" title="Family Day (Canada)">Canada</a></li></ul></li>
+<li><a href="/wiki/American_Family_Day" title="American Family Day">American Family Day</a></li>
+<li><a href="/wiki/National_Family_Week" title="National Family Week">National Family Week</a>
+<ul><li><a href="/wiki/National_Family_Week_(UK)" title="National Family Week (UK)">UK</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wedding_anniversary" title="Wedding anniversary">Wedding anniversary</a></li>
+<li><a href="/wiki/Sociology_of_the_family" title="Sociology of the family">Sociology of the family</a></li>
+<li><a href="/wiki/Museum_of_Motherhood" title="Museum of Motherhood">Museum of Motherhood</a></li>
+<li><a href="/wiki/Incest" title="Incest">Incest</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=South_Africa&amp;#124;link=South_Africa_Public_holidays_in_South_Africa" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Public_holidays_in_South_Africa" title="Template:Public holidays in South Africa"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Public_holidays_in_South_Africa" title="Template talk:Public holidays in South Africa"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Public_holidays_in_South_Africa&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=South_Africa&amp;#124;link=South_Africa_Public_holidays_in_South_Africa" style="font-size:114%;margin:0 4em"><span class="flagicon"><a href="/wiki/South_Africa" title="South Africa"><img alt="South Africa" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/35px-Flag_of_South_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/45px-Flag_of_South_Africa.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Public_holidays_in_South_Africa" title="Public holidays in South Africa">Public holidays in South Africa</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/New_Year%27s_Day" title="New Year&#39;s Day">New Year's Day</a></li>
+<li><a href="/wiki/Human_Rights_Day" title="Human Rights Day">Human Rights Day</a></li>
+<li><a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a></li>
+<li><a class="mw-selflink selflink">Family Day</a></li>
+<li><a href="/wiki/Freedom_Day_(South_Africa)" title="Freedom Day (South Africa)">Freedom Day</a></li>
+<li><a href="/wiki/International_Workers%27_Day#South_Africa" title="International Workers&#39; Day">Workers' Day</a></li>
+<li><a href="/wiki/Youth_Day#South_Africa" title="Youth Day">Youth Day</a></li>
+<li><a href="/wiki/National_Women%27s_Day_(South_Africa)" title="National Women&#39;s Day (South Africa)">National Women's Day</a></li>
+<li><a href="/wiki/Heritage_Day_(South_Africa)" title="Heritage Day (South Africa)">Heritage Day</a></li>
+<li><a href="/wiki/Day_of_Reconciliation" title="Day of Reconciliation">Day of Reconciliation</a></li>
+<li><a href="/wiki/Christmas" title="Christmas">Christmas Day</a></li>
+<li><a href="/wiki/Boxing_Day" title="Boxing Day">Day of Goodwill</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=United_States&amp;#124;link=United_States_Holidays,_observances,_and_celebrations_in_the_United_States" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Public_holidays_in_the_United_States" title="Template:Public holidays in the United States"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Public_holidays_in_the_United_States" title="Template talk:Public holidays in the United States"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Public_holidays_in_the_United_States&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=United_States&amp;#124;link=United_States_Holidays,_observances,_and_celebrations_in_the_United_States" style="font-size:114%;margin:0 4em"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> Holidays, observances, and celebrations in the United States</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">January</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><div class="hlist">
+<ul><li><b><a href="/wiki/New_Year%27s_Day" title="New Year&#39;s Day">New Year's Day</a></b> (federal)</li>
+<li><b><a href="/wiki/Martin_Luther_King_Jr._Day" title="Martin Luther King Jr. Day">Martin Luther King Jr. Day</a></b> (federal)</li></ul>
+</div>
+<ul><li><a href="/wiki/Confederate_Memorial_Day" title="Confederate Memorial Day">Confederate Heroes Day</a> (TX)</li>
+<li><a href="/wiki/Fred_Korematsu_Day" title="Fred Korematsu Day">Fred Korematsu Day</a> (CA, FL, HI, VA)</li>
+<li><a href="/wiki/Idaho_Human_Rights_Day" title="Idaho Human Rights Day">Idaho Human Rights Day</a> (ID)</li>
+<li><a href="/wiki/United_States_presidential_inauguration" title="United States presidential inauguration">Inauguration Day</a> (federal quadrennial, DC area)</li>
+<li><a href="/wiki/Kansas_Day" title="Kansas Day">Kansas Day</a> (KS)</li>
+<li><a href="/wiki/Lee%E2%80%93Jackson_Day" title="Lee–Jackson Day">Lee–Jackson Day</a> (formerly <a href="/wiki/Lee%E2%80%93Jackson%E2%80%93King_Day" title="Lee–Jackson–King Day">Lee–Jackson–King Day</a>) (VA)</li>
+<li><a href="/wiki/Makar_Sankranti" title="Makar Sankranti">Makar Sankranti</a> (religious)</li>
+<li><a href="/wiki/Robert_E._Lee_Day" title="Robert E. Lee Day">Robert E. Lee Day</a> (FL)</li>
+<li><a href="/wiki/Stephen_Foster_Memorial_Day" title="Stephen Foster Memorial Day">Stephen Foster Memorial Day</a> (36)</li>
+<li><a href="/wiki/The_Eighth_(United_States)" title="The Eighth (United States)">The Eighth</a> (LA)</li></ul></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">January–February</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<li><b><a href="/wiki/Super_Bowl_Sunday" title="Super Bowl Sunday">Super Bowl Sunday</a></b></li>
+<li><a href="/wiki/Vasant_Panchami" title="Vasant Panchami">Vasant Panchami</a> (religious)</li>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">February<br /><small><a href="/wiki/American_Heart_Month" title="American Heart Month">American Heart Month</a><br /><a href="/wiki/Black_History_Month" title="Black History Month">Black History Month</a></small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><div class="hlist">
+<ul><li><b><a href="/wiki/Washington%27s_Birthday" title="Washington&#39;s Birthday">Washington's Birthday/Presidents' Day</a></b> (federal)</li>
+<li><b><a href="/wiki/Valentine%27s_Day" title="Valentine&#39;s Day">Valentine's Day</a></b></li></ul>
+</div>
+<ul><li><a href="/wiki/Georgia_Day" title="Georgia Day">Georgia Day</a> (GA)</li>
+<li><a href="/wiki/Groundhog_Day" title="Groundhog Day">Groundhog Day</a></li>
+<li><a href="/wiki/Lincoln%27s_Birthday" title="Lincoln&#39;s Birthday">Lincoln's Birthday</a> (CA, CT, IL, IN, MO, NJ, NY, WV)</li>
+<li><a href="/wiki/National_Girls_and_Women_in_Sports_Day" title="National Girls and Women in Sports Day">National Girls and Women in Sports Day</a></li>
+<li><a href="/wiki/National_Freedom_Day" title="National Freedom Day">National Freedom Day</a> (36)</li>
+<li>Primary Election Day (WI)</li>
+<li><a href="/wiki/Ronald_Reagan_Day" title="Ronald Reagan Day">Ronald Reagan Day</a> (CA)</li>
+<li><a href="/wiki/Rosa_Parks_Day" title="Rosa Parks Day">Rosa Parks Day</a> (CA, MO)</li>
+<li><a href="/wiki/Susan_B._Anthony_Day" title="Susan B. Anthony Day">Susan B. Anthony Day</a> (CA, FL, NY, WI, WV, proposed federal)</li></ul></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">February–March</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><div class="hlist">
+<li><b> <a href="/wiki/Mardi_Gras" title="Mardi Gras">Mardi Gras</a></b></li>
+</div>
+<ul><li><a href="/wiki/Ash_Wednesday" title="Ash Wednesday">Ash Wednesday</a> (religious)</li>
+<li><a href="/wiki/Courir_de_Mardi_Gras" title="Courir de Mardi Gras">Courir de Mardi Gras</a> (religious)</li>
+<li><a href="/wiki/Maha_Shivratri" class="mw-redirect" title="Maha Shivratri">Maha Shivratri</a> (religious)</li>
+<li><a href="/wiki/Super_Tuesday" title="Super Tuesday">Super Tuesday</a></li></ul></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">March<br /><small><a href="/wiki/Irish-American_Heritage_Month" title="Irish-American Heritage Month">Irish-American Heritage Month</a><br /><a href="/wiki/National_Colon_Cancer_Awareness_Month" title="National Colon Cancer Awareness Month">National Colon Cancer Awareness Month</a><br /><a href="/wiki/Women%27s_History_Month" title="Women&#39;s History Month">Women's History Month</a></small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><div class="hlist">
+<li><b><a href="/wiki/Saint_Patrick%27s_Day" title="Saint Patrick&#39;s Day">St. Patrick's Day</a></b> (religious)</li>
+<li><b><a href="/wiki/Spring_break" title="Spring break">Spring break</a></b> (week)</li>
+</div>
+<ul><li><a href="/wiki/Casimir_Pulaski_Day" title="Casimir Pulaski Day">Casimir Pulaski Day</a> (IL)</li>
+<li><a href="/wiki/Cesar_Chavez_Day" title="Cesar Chavez Day">Cesar Chavez Day</a> (CA, CO, TX, proposed federal)</li>
+<li><a href="/wiki/Evacuation_Day_(Massachusetts)" title="Evacuation Day (Massachusetts)">Evacuation Day</a> (Suffolk County, MA)</li>
+<li><a href="/wiki/Harriet_Tubman_Day" title="Harriet Tubman Day">Harriet Tubman Day</a> (NY)</li>
+<li><a href="/wiki/Holi" title="Holi">Holi</a> (NY, religious)</li>
+<li><a href="/wiki/Mardi_Gras_in_the_United_States" title="Mardi Gras in the United States">Mardi Gras</a> (AL (in two counties), LA)</li>
+<li><a href="/wiki/Maryland_Day" title="Maryland Day">Maryland Day</a> (MD)</li>
+<li><a href="/wiki/National_Poison_Prevention_Week" title="National Poison Prevention Week">National Poison Prevention Week</a> (week)</li>
+<li><a href="/wiki/Prince_K%C5%ABhi%C5%8D_Day" title="Prince Kūhiō Day">Prince Jonah Kūhiō Kalanianaʻole Day</a> (HI)</li>
+<li><a href="/wiki/Saint_Joseph%27s_Day" title="Saint Joseph&#39;s Day">Saint Joseph's Day</a> (religious)</li>
+<li><a href="/wiki/Seward%27s_Day" title="Seward&#39;s Day">Seward's Day</a> (AK)</li>
+<li><a href="/wiki/Texas_Independence_Day" title="Texas Independence Day">Texas Independence Day</a> (TX)</li>
+<li><a href="/wiki/Town_meeting#Vermont" title="Town meeting">Town Meeting Day</a> (VT)</li></ul></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">March–April</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><div class="hlist">
+<li><b><a href="/wiki/Easter" title="Easter">Easter</a></b> (religious)</li>
+</div>
+<ul><li><a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a> (CT, NC, PR, religious)</li>
+<li><a href="/wiki/Hanuman_Jayanti" title="Hanuman Jayanti">Hanuman Jayanti</a> (religious)</li>
+<li><a href="/wiki/Mesha_Sankranti" title="Mesha Sankranti">Mesha Sankranti</a>/Hindu New Year (religious)</li>
+<li><a href="/wiki/Palm_Sunday" title="Palm Sunday">Palm Sunday</a> (religious)</li>
+<li><a href="/wiki/Passover" title="Passover">Passover</a> (religious)</li>
+<li><a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday</a> (religious)</li>
+<li><a href="/wiki/Rama_Navami" title="Rama Navami">Rama Navami</a> (religious)</li></ul></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">April<br /><small><a href="/wiki/Confederate_History_Month" title="Confederate History Month">Confederate History Month</a></small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<li><a href="/wiki/420_(cannabis_culture)" title="420 (cannabis culture)">420 Day</a></li>
+<li><a href="/wiki/April_Fools%27_Day" title="April Fools&#39; Day">April Fools' Day</a></li>
+<li><a href="/wiki/Arbor_Day" title="Arbor Day">Arbor Day</a></li>
+<li><a href="/wiki/Confederate_Memorial_Day" title="Confederate Memorial Day">Confederate Memorial Day</a> (AL, MS)</li>
+<li><a href="/wiki/Days_of_Remembrance_of_the_Victims_of_the_Holocaust" title="Days of Remembrance of the Victims of the Holocaust">Days of Remembrance of the Victims of the Holocaust</a> (week)</li>
+<li><a href="/wiki/Earth_Day" title="Earth Day">Earth Day</a></li>
+<li><a href="/wiki/Emancipation_Day" title="Emancipation Day">Emancipation Day</a> (DC)</li>
+<li><a href="/wiki/Jefferson%27s_Birthday" title="Jefferson&#39;s Birthday">Thomas Jefferson's Birthday</a> (AL)</li>
+<li><a href="/wiki/Pascua_Florida" title="Pascua Florida">Pascua Florida</a> (FL)</li>
+<li><a href="/wiki/Patriots%27_Day" title="Patriots&#39; Day">Patriots' Day</a> (MA, ME)</li>
+<li><a href="/wiki/San_Jacinto_Day" title="San Jacinto Day">San Jacinto Day</a> (TX)</li>
+<li><a href="/wiki/Siblings_Day" title="Siblings Day">Siblings Day</a></li>
+<li><a href="/wiki/Walpurgis_Night" title="Walpurgis Night">Walpurgis Night</a> (religious)</li>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">May<br /><small><a href="/wiki/Asian_Pacific_American_Heritage_Month" title="Asian Pacific American Heritage Month">Asian Pacific American Heritage Month</a><br /><a href="/wiki/Jewish_American_Heritage_Month" title="Jewish American Heritage Month">Jewish American Heritage Month</a></small></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><div class="hlist">
+<ul><li><b><a href="/wiki/Memorial_Day" title="Memorial Day">Memorial Day</a></b> (federal)</li>
+<li><b><a href="/wiki/Mother%27s_Day_(United_States)" title="Mother&#39;s Day (United States)">Mother's Day</a></b> (36)</li>
+<li><b><a href="/wiki/Cinco_de_Mayo" title="Cinco de Mayo">Cinco de Mayo</a></b></li></ul>
+</div>
+<ul><li><a href="/wiki/Harvey_Milk_Day" title="Harvey Milk Day">Harvey Milk Day</a> (CA)</li>
+<li><a href="/wiki/Law_Day_(United_States)" title="Law Day (United States)">Law Day</a> (36)</li>
+<li><a href="/wiki/Loyalty_Day" title="Loyalty Day">Loyalty Day</a> (36)</li>
+<li><a href="/wiki/Malcolm_X_Day" title="Malcolm X Day">Malcolm X Day</a> (CA, IL, proposed federal)</li>
+<li><a href="/wiki/May_Day" title="May Day">May Day</a></li>
+<li><a href="/wiki/Military_Spouse_Day" title="Military Spouse Day">Military Spouse Day</a></li>
+<li><a href="/wiki/National_Day_of_Prayer" title="National Day of Prayer">National Day of Prayer</a> (36)</li>
+<li><a href="/wiki/National_Defense_Transportation_Day" title="National Defense Transportation Day">National Defense Transportation Day</a> (36)</li>
+<li><a href="/wiki/United_States_National_Maritime_Day" title="United States National Maritime Day">National Maritime Day</a> (36)</li>
+<li><a href="/wiki/Peace_Officers_Memorial_Day" title="Peace Officers Memorial Day">Peace Officers Memorial Day</a> (36)</li>
+<li><a href="/wiki/Truman_Day" title="Truman Day">Truman Day</a> (MO)</li>
+<li><a href="/wiki/Vesak" title="Vesak">Vesak</a>/<a href="/wiki/Buddha%27s_Birthday" title="Buddha&#39;s Birthday">Buddha's Birthday</a> (religious)</li></ul></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">June<br /><small><a href="/wiki/Gay_and_Lesbian_Pride_Month" class="mw-redirect" title="Gay and Lesbian Pride Month">Lesbian, Gay, Bisexual and<br /> Transgender Pride Month</a></small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><div class="hlist">
+<li><b><a href="/wiki/Father%27s_Day_(United_States)" title="Father&#39;s Day (United States)">Father's Day</a></b> (36)</li>
+</div>
+<ul><li><a href="/wiki/Bunker_Hill_Day" class="mw-redirect" title="Bunker Hill Day">Bunker Hill Day</a> (Suffolk County, MA)</li>
+<li><a href="/wiki/Carolina_Day" class="mw-redirect" title="Carolina Day">Carolina Day</a> (SC)</li>
+<li><a href="/wiki/Juneteenth" title="Juneteenth">Emancipation Day In Texas / Juneteenth</a> (TX)</li>
+<li><a href="/wiki/Flag_Day_(United_States)" title="Flag Day (United States)">Flag Day</a> (36, proposed federal)</li>
+<li><a href="/wiki/Helen_Keller_Day" title="Helen Keller Day">Helen Keller Day</a> (PA)</li>
+<li><a href="/wiki/Honor_America_Days" title="Honor America Days">Honor America Days</a> (3 weeks)</li>
+<li><a href="/wiki/Jefferson_Davis_Day" class="mw-redirect" title="Jefferson Davis Day">Jefferson Davis Day</a> (AL, FL)</li>
+<li><a href="/wiki/Kamehameha_Day" class="mw-redirect" title="Kamehameha Day">Kamehameha Day</a> (HI)</li>
+<li><a href="/wiki/Odunde_Festival" title="Odunde Festival">Odunde Festival</a> (Philadelphia, PA)</li>
+<li><a href="/wiki/Senior_Week" title="Senior Week">Senior Week</a> (week)</li>
+<li><a href="/wiki/West_Virginia_Day" title="West Virginia Day">West Virginia Day</a> (WV)</li></ul></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">July</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><div class="hlist">
+<li><b><a href="/wiki/Independence_Day_(United_States)" title="Independence Day (United States)">Independence Day</a></b> (federal)</li>
+</div>
+<ul><li><a href="/wiki/Sovereignty_Restoration_Day" title="Sovereignty Restoration Day">Lā Hoʻihoʻi Ea</a> (HI, unofficial)</li>
+<li><a href="/wiki/Guru_Purnima" title="Guru Purnima">Guru Purnima</a> (religious)</li>
+<li><a href="/wiki/Parents%27_Day" title="Parents&#39; Day">Parents' Day</a> (36)</li>
+<li><a href="/wiki/Pioneer_Day_(Utah)" class="mw-redirect" title="Pioneer Day (Utah)">Pioneer Day</a> (UT)</li></ul></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">July–August</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<li><b><a href="/wiki/Summer_vacation" title="Summer vacation">Summer vacation</a></b></li>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">August</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/American_Family_Day" title="American Family Day">American Family Day</a> (AZ)</li>
+<li><a href="/wiki/Barack_Obama_Day" title="Barack Obama Day">Barack Obama Day</a> (IL)</li>
+<li><a href="/wiki/Bennington_Battle_Day" title="Bennington Battle Day">Bennington Battle Day</a> (VT)</li>
+<li><a href="/wiki/Statehood_Day_(Hawaii)" title="Statehood Day (Hawaii)">Hawaii Admission Day / Statehood Day</a> (HI)</li>
+<li><a href="/wiki/Krishna_Janmashtami" title="Krishna Janmashtami">Krishna Janmashtami</a> (religious)</li>
+<li><a href="/wiki/Lyndon_Baines_Johnson_Day" title="Lyndon Baines Johnson Day">Lyndon Baines Johnson Day</a> (TX)</li>
+<li><a href="/wiki/Naga_Panchami" title="Naga Panchami">Naga Panchami</a> (religious)</li>
+<li><a href="/wiki/National_Aviation_Day" title="National Aviation Day">National Aviation Day</a> (36)</li>
+<li><a href="/wiki/Raksha_Bandhan" title="Raksha Bandhan">Raksha Bandhan</a> (religious)</li>
+<li>Service Reduction Day (MD)</li>
+<li><a href="/wiki/Victory_Day_(United_States)" title="Victory Day (United States)">Victory Day</a> (RI)</li>
+<li><a href="/wiki/Women%27s_Equality_Day" title="Women&#39;s Equality Day">Women's Equality Day</a> (36)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">September<br /><small><a href="/wiki/National_Prostate_Cancer_Awareness_Month" class="mw-redirect" title="National Prostate Cancer Awareness Month">Prostate Cancer Awareness Month</a></small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><div class="hlist">
+<ul><li><b><a href="/wiki/Labor_Day" title="Labor Day">Labor Day</a></b> (federal)</li></ul>
+</div>
+<ul><li><a href="/wiki/California_Admission_Day" title="California Admission Day">California Admission Day</a> (CA)</li>
+<li><a href="/wiki/Carl_Garner_Federal_Lands_Cleanup_Day" title="Carl Garner Federal Lands Cleanup Day">Carl Garner Federal Lands Cleanup Day</a> (36)</li>
+<li><a href="/wiki/Constitution_Day_(United_States)" title="Constitution Day (United States)">Constitution Day</a> (36)</li>
+<li><a href="/wiki/Constitution_Week" title="Constitution Week">Constitution Week</a> (week)</li>
+<li><a href="/wiki/Defenders_Day" title="Defenders Day">Defenders Day</a> (MD)</li>
+<li><a href="/wiki/Ganesh_Chaturthi" title="Ganesh Chaturthi">Ganesh Chaturthi</a> (religious)</li>
+<li><a href="/wiki/Gold_Star_Mother%27s_Day" class="mw-redirect" title="Gold Star Mother&#39;s Day">Gold Star Mother's Day</a> (36)</li>
+<li><a href="/wiki/National_Grandparents_Day" title="National Grandparents Day">National Grandparents Day</a> (36)</li>
+<li><a href="/wiki/National_Payroll_Week" title="National Payroll Week">National Payroll Week</a> (week)</li>
+<li><a href="/wiki/Native_American_Day" title="Native American Day">Native American Day</a> (CA, TN, proposed federal)</li>
+<li><a href="/wiki/Patriot_Day" title="Patriot Day">Patriot Day</a> (36)</li></ul></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">September–October<br /><small><a href="/wiki/National_Hispanic_Heritage_Month" title="National Hispanic Heritage Month">Hispanic Heritage Month</a></small></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><div class="hlist">
+<li><b><a href="/wiki/Oktoberfest_celebrations" title="Oktoberfest celebrations">Oktoberfest</a></b></li>
+</div>
+<ul><li><a href="/wiki/Pitru_Paksha" title="Pitru Paksha">Pitru Paksha</a> (religious)</li>
+<li><a href="/wiki/Rosh_Hashanah" title="Rosh Hashanah">Rosh Hashanah</a> (religious TX)</li>
+<li><a href="/wiki/Vijayadashami" title="Vijayadashami">Vijayadashami</a> (religious)</li>
+<li><a href="/wiki/Yom_Kippur" title="Yom Kippur">Yom Kippur</a> (religious TX)</li></ul></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">October<br /><small><a href="/wiki/National_Breast_Cancer_Awareness_Month" class="mw-redirect" title="National Breast Cancer Awareness Month">Breast Cancer Awareness Month</a><br /><a href="/wiki/National_Disability_Employment_Awareness_Month" title="National Disability Employment Awareness Month">Disability Employment Awareness Month</a><br /><a href="/wiki/Filipino_American_History_Month" title="Filipino American History Month">Filipino American History Month</a><br /><a href="/wiki/LGBT_History_Month" title="LGBT History Month">LGBT History Month</a></small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><div class="hlist">
+<li><b><a href="/wiki/Columbus_Day" title="Columbus Day">Columbus Day</a></b> (federal)</li>
+<li><b><a href="/wiki/Halloween" title="Halloween">Halloween</a></b></li>
+</div>
+<ul><li><a href="/wiki/Alaska_Day" title="Alaska Day">Alaska Day</a> (AK)</li>
+<li><a href="/wiki/Child_Health_Day" title="Child Health Day">Child Health Day</a> (36)</li>
+<li><a href="/wiki/General_Pulaski_Memorial_Day" title="General Pulaski Memorial Day">General Pulaski Memorial Day</a></li>
+<li><a href="/wiki/German-American_Day" title="German-American Day">German-American Day</a></li>
+<li><a href="/wiki/Indigenous_Peoples%27_Day" title="Indigenous Peoples&#39; Day">Indigenous Peoples' Day</a> (VT)</li>
+<li><a href="/wiki/International_Day_of_Non-Violence" title="International Day of Non-Violence">International Day of Non-Violence</a></li>
+<li><a href="/wiki/Leif_Erikson_Day" title="Leif Erikson Day">Leif Erikson Day</a> (36)</li>
+<li><a href="/wiki/Missouri_Day" title="Missouri Day">Missouri Day</a> (MO)</li>
+<li><a href="/wiki/National_School_Lunch_Week" class="mw-redirect" title="National School Lunch Week">National School Lunch Week</a></li>
+<li><a href="/wiki/Native_American_Day" title="Native American Day">Native American Day</a> (SD)</li>
+<li><a href="/wiki/Nevada_Day" title="Nevada Day">Nevada Day</a> (NV)</li>
+<li><a href="/wiki/Sweetest_Day" title="Sweetest Day">Sweetest Day</a></li>
+<li><a href="/wiki/White_Cane_Safety_Day" title="White Cane Safety Day">White Cane Safety Day</a> (36)</li></ul></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">October–November</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<li><a href="/wiki/Diwali" title="Diwali">Diwali</a> (religious)</li>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">November<br /><small> <a href="/wiki/Native_American_Indian_Heritage_Month" title="Native American Indian Heritage Month">Native American Indian Heritage Month</a></small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><div class="hlist">
+<ul><li><b><a href="/wiki/Veterans_Day" title="Veterans Day">Veterans Day</a></b> (federal)</li>
+<li><b><a href="/wiki/Thanksgiving_(United_States)" title="Thanksgiving (United States)">Thanksgiving</a></b> (federal)</li></ul>
+</div>
+<ul><li><a href="/wiki/Black_Friday_(shopping)" title="Black Friday (shopping)">Day after Thanksgiving</a> (24)</li>
+<li><a href="/wiki/Election_Day_(United_States)" title="Election Day (United States)">Election Day</a> (CA, DE, HI, KY, MT, NJ, NY, OH, PR, WV, proposed federal)</li>
+<li><a class="mw-selflink selflink">Family Day</a> (NV)</li>
+<li><a href="/wiki/Hanukkah" title="Hanukkah">Hanukkah</a> (religious)</li>
+<li><a href="/wiki/Independence_Day_(Hawaii)" title="Independence Day (Hawaii)">Lā Kūʻokoʻa</a> (HI, unofficial)</li>
+<li><a href="/wiki/Native_American_Heritage_Day" title="Native American Heritage Day">Native American Heritage Day</a> (MD, WA)</li>
+<li><a href="/wiki/Barack_Obama_Day" title="Barack Obama Day">Barack Obama Day</a> (Perry County, AL)</li></ul></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">December</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><div class="hlist">
+<li><b><a href="/wiki/Christmas" title="Christmas">Christmas</a></b> (religious, federal)</li>
+</div>
+<ul><li><a href="/wiki/Alabama_Day" title="Alabama Day">Alabama Day</a> (AL)</li>
+<li><a href="/wiki/Christmas_Eve" title="Christmas Eve">Christmas Eve</a> (KY, NC, SC)</li>
+<li><a href="/wiki/Boxing_Day" title="Boxing Day">Day after Christmas</a> (KY, NC, SC, TX)</li>
+<li><a href="/wiki/Festivus" title="Festivus">Festivus</a></li>
+<li><a href="/wiki/Hanukkah" title="Hanukkah">Hanukkah</a> (religious, week)</li>
+<li><a href="/wiki/Indiana_Day" title="Indiana Day">Indiana Day</a> (IN)</li>
+<li><a href="/wiki/Kwanzaa" title="Kwanzaa">Kwanzaa</a> (religious, week)</li>
+<li><a href="/wiki/National_Pearl_Harbor_Remembrance_Day" title="National Pearl Harbor Remembrance Day">National Pearl Harbor Remembrance Day</a> (36)</li>
+<li><a href="/wiki/New_Year%27s_Eve" title="New Year&#39;s Eve">New Year's Eve</a></li>
+<li><a href="/wiki/Pan_American_Aviation_Day" title="Pan American Aviation Day">Pan American Aviation Day</a> (36)</li>
+<li><a href="/wiki/Rosa_Parks_Day" title="Rosa Parks Day">Rosa Parks Day</a> (OH, OR)</li>
+<li><a href="/wiki/Wright_Brothers_Day" title="Wright Brothers Day">Wright Brothers Day</a> (36)</li></ul></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Varies (year round)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<li><a href="/wiki/Eid_al-Adha" title="Eid al-Adha">Eid al-Adha</a> (religious)</li>
+<li><a href="/wiki/Eid_al-Fitr" title="Eid al-Fitr">Eid al-Fitr</a> (religious)</li>
+<li><a href="/wiki/Navaratri" title="Navaratri">Navaratri</a> (religious, four times a year)</li>
+<li><a href="/wiki/Ramadan" title="Ramadan">Ramadan</a> (religious, month)</li>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="font-size:90%;"><div>Legend: 
+<p>(federal) = federal holidays, (state) = state holidays, (religious) = religious holidays, (week) = weeklong holidays, (month) = monthlong holidays, (36) = <a href="/wiki/Title_36_of_the_United_States_Code" title="Title 36 of the United States Code">Title 36 Observances and Ceremonies</a><br />
+<b>Bold</b> indicates major holidays commonly celebrated in the United States, which often represent the major celebrations of the month.<br />
+</p>
+See also: <a href="/wiki/Lists_of_holidays" title="Lists of holidays">Lists of holidays</a>, <a href="/wiki/Hallmark_holiday" title="Hallmark holiday">Hallmark holidays</a>, public holidays in the <a href="/wiki/Public_holidays_in_the_United_States" title="Public holidays in the United States">United States</a>, <a href="/wiki/State_holidays_in_New_Jersey" title="State holidays in New Jersey">New Jersey</a>, <a href="/wiki/New_York_State_government_holidays" title="New York State government holidays">New York</a>, <a href="/wiki/Public_holidays_in_Puerto_Rico" title="Public holidays in Puerto Rico">Puerto Rico</a> and the <a href="/wiki/Public_holidays_in_the_United_States_Virgin_Islands" title="Public holidays in the United States Virgin Islands">United States Virgin Islands</a>.</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1271
+Cached time: 20191022235010
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.464 seconds
+Real time usage: 0.587 seconds
+Preprocessor visited node count: 1277/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 90026/2097152 bytes
+Template argument size: 2058/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 34869/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.284/10.000 seconds
+Lua memory usage: 12.58 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  470.379      1 -total
+ 41.91%  197.113      1 Template:Reflist
+ 33.97%  159.802      1 Template:Lang
+ 32.33%  152.092     11 Template:Cite_web
+ 12.18%   57.302      3 Template:Navbox
+  6.24%   29.362      1 Template:U.S._Holidays
+  6.10%   28.686      1 Template:South_Africa_Holidays
+  5.76%   27.100      1 Template:Main
+  5.03%   23.651      2 Template:Flagicon
+  3.85%   18.103      1 Template:Family
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1332291-0!canonical and timestamp 20191022235009 and revision id 920588797
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Family_Day&amp;oldid=920588797">https://en.wikipedia.org/w/index.php?title=Family_Day&amp;oldid=920588797</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Types_of_secular_holidays" title="Category:Types of secular holidays">Types of secular holidays</a></li><li><a href="/wiki/Category:February_observances" title="Category:February observances">February observances</a></li><li><a href="/wiki/Category:September_observances" title="Category:September observances">September observances</a></li><li><a href="/wiki/Category:October_observances" title="Category:October observances">October observances</a></li><li><a href="/wiki/Category:November_observances" title="Category:November observances">November observances</a></li><li><a href="/wiki/Category:December_observances" title="Category:December observances">December observances</a></li><li><a href="/wiki/Category:Christian_festivals_and_holy_days" title="Category:Christian festivals and holy days">Christian festivals and holy days</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Vietnamese-language_sources_(vi)" title="Category:CS1 Vietnamese-language sources (vi)">CS1 Vietnamese-language sources (vi)</a></li><li><a href="/wiki/Category:Articles_containing_Spanish-language_text" title="Category:Articles containing Spanish-language text">Articles containing Spanish-language text</a></li><li><a href="/wiki/Category:Articles_containing_Vietnamese-language_text" title="Category:Articles containing Vietnamese-language text">Articles containing Vietnamese-language text</a></li><li><a href="/wiki/Category:Holidays_and_observances_by_scheduling_(nth_weekday_of_the_month)" title="Category:Holidays and observances by scheduling (nth weekday of the month)">Holidays and observances by scheduling (nth weekday of the month)</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Family+Day" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Family+Day" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Family_Day" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Family_Day" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Family_Day">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Family_Day&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Family_Day&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Family_Day" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Family_Day" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Family_Day&amp;oldid=920588797" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Family_Day&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1307995" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Family_Day&amp;id=920588797" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Family+Day">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Family+Day&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Family_Day&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Family_Day" title="Family Day – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E5%AE%B6%E6%97%8F%E3%81%AE%E6%97%A5" title="家族の日 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1307995#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 10 October 2019, at 18:15<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Family_Day&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.464","walltime":"0.587","ppvisitednodes":{"value":1277,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":90026,"limit":2097152},"templateargumentsize":{"value":2058,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":34869,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  470.379      1 -total"," 41.91%  197.113      1 Template:Reflist"," 33.97%  159.802      1 Template:Lang"," 32.33%  152.092     11 Template:Cite_web"," 12.18%   57.302      3 Template:Navbox","  6.24%   29.362      1 Template:U.S._Holidays","  6.10%   28.686      1 Template:South_Africa_Holidays","  5.76%   27.100      1 Template:Main","  5.03%   23.651      2 Template:Flagicon","  3.85%   18.103      1 Template:Family"]},"scribunto":{"limitreport-timeusage":{"value":"0.284","limit":"10.000"},"limitreport-memusage":{"value":13195790,"limit":52428800}},"cachereport":{"origin":"mw1271","timestamp":"20191022235010","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Family Day","url":"https:\/\/en.wikipedia.org\/wiki\/Family_Day","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1307995","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1307995","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-12-27T17:24:15Z","dateModified":"2019-10-10T18:15:45Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":93,"wgHostname":"mw1332"});});</script>
+</body>
+</html>
