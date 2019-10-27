@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Lusophone - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Lusophone","wgTitle":"Lusophone","wgCurRevisionId":915429527,"wgRevisionId":915429527,"wgArticleId":652528,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with short description","Articles containing Portuguese-language text","Articles containing Greek-language text","All articles with unsourced statements","Articles with unsourced statements from May 2018","Articles with Portuguese-language external links","Lusophone culture"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November",
+"December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Lusophone","wgRelevantArticleId":652528,"wgRequestId":"XbC8wwpAAEQAAJ7E6G8AAAAC","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1258241","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.cite.tracking","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin",
+"mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.2"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Map_of_the_portuguese_language_in_the_world.svg/1200px-Map_of_the_portuguese_language_in_the_world.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Lusophone"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Lusophone&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Lusophone&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Lusophone"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Lusophone rootpage-Lusophone skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Lusophone</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">People who speak the Portuguese language</div>
+<div class="thumb tright"><div class="thumbinner" style="width:442px;"><a href="/wiki/File:Map_of_the_portuguese_language_in_the_world.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Map_of_the_portuguese_language_in_the_world.svg/440px-Map_of_the_portuguese_language_in_the_world.svg.png" decoding="async" width="440" height="194" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Map_of_the_portuguese_language_in_the_world.svg/660px-Map_of_the_portuguese_language_in_the_world.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Map_of_the_portuguese_language_in_the_world.svg/880px-Map_of_the_portuguese_language_in_the_world.svg.png 2x" data-file-width="1498" data-file-height="660" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Map_of_the_portuguese_language_in_the_world.svg" class="internal" title="Enlarge"></a></div>Nations in which Portuguese is an official language (<i><a href="/wiki/De_facto" title="De facto">de facto</a></i> or <i><a href="/wiki/De_jure" title="De jure">de jure</a></i>). Lusophone countries are a subset of those where Portuguese is the main native language. <div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #015A01; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;Native language</div> <div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #339900; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;Official and administrative language</div> <div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #98FC66; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;Cultural or secondary language</div> <div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #00FF00; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;Portuguese speaking minorities</div> <div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #FFFF40; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;Portuguese-based creole</div></div></div></div>
+<p><b>Lusophones</b> (<a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>: <i lang="pt">Lusófonos</i>) are an <a href="/wiki/Ethnolinguistic_group" title="Ethnolinguistic group">ethno-linguistic group</a> of peoples and nations across the world that speak the <a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese language</a>. The <b>Lusofonia</b>, also known as the <b>Lusophone World</b> (<i>Mundo Lusófono</i>), is the corresponding community of Lusophone nations, which exist in <a href="/wiki/Europe" title="Europe">Europe</a>, the <a href="/wiki/Americas" title="Americas">Americas</a>, <a href="/wiki/Africa" title="Africa">Africa</a>, <a href="/wiki/Asia" title="Asia">Asia</a>, and <a href="/wiki/Oceania" title="Oceania">Oceania</a>. Lusophone nations make up more than 270 million people globally, 
+</p><p>The history of the Lusophone World is intrinsically linked with the history of the <a href="/wiki/Portuguese_Empire" title="Portuguese Empire">Portuguese Empire</a>, although <a href="/wiki/Portuguese_diaspora" class="mw-redirect" title="Portuguese diaspora">Portuguese diaspora</a> and <a href="/wiki/Brazilian_diaspora" title="Brazilian diaspora">Brazilian diaspora</a> communities have also played a role in spreading the <a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese language</a> and Lusophone culture. Today, Portuguese-speaking nations of the world have come together for cooperation in politics, culture, and the economy, through the <a href="/wiki/Community_of_Portuguese_Language_Countries" title="Community of Portuguese Language Countries">Community of Portuguese Language Countries</a> (CPLP), also known as the Lusophone Commonwealth.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology"><span class="tocnumber">1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Officially_Lusophone_countries"><span class="tocnumber">2</span> <span class="toctext">Officially Lusophone countries</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lusophone&amp;action=edit&amp;section=1" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The term <i>Lusophone</i> is a <a href="/wiki/Classical_compound" title="Classical compound">classical compound</a>, whereby the <a href="/wiki/Combining_form" class="mw-redirect" title="Combining form">combining form</a> "Luso-" derives from the Latin term for an area roughly corresponding to modern Portugal, called <a href="/wiki/Lusitania" title="Lusitania">Lusitania</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> The suffix "-phone" derives from the <a href="/wiki/Ancient_Greek_language" class="mw-redirect" title="Ancient Greek language">Ancient Greek</a> word <span lang="el" title="Greek language text"><a href="https://en.wiktionary.org/wiki/%CF%86%CF%89%CE%BD%CE%AE#Ancient_Greek" class="extiw" title="wikt:φωνή">φωνή</a></span> (<i>phōnē</i>), meaning "voice". The use of the term Lusophone mirrors similar terms, such as <a href="/wiki/English-speaking" class="mw-redirect" title="English-speaking">Anglophone</a> for English-speakers, <a href="/wiki/Francophone" class="mw-redirect" title="Francophone">Francophone</a> for French-speakers, <a href="/wiki/Hispanophone" title="Hispanophone">Hispanophone</a> for Spanish-speakers, and <a href="/wiki/Sinophone" title="Sinophone">Sinophone</a> for Chinese-speakers. The term is sometimes used in reference to the <a href="/wiki/Community_of_Portuguese_Language_Countries" title="Community of Portuguese Language Countries">Community of Portuguese Language Countries</a>, similar to the <a href="/wiki/Francophonie" title="Francophonie">Francophonie</a>.
+</p>
+<h2><span class="mw-headline" id="Officially_Lusophone_countries">Officially Lusophone countries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lusophone&amp;action=edit&amp;section=2" title="Edit section: Officially Lusophone countries">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<caption>
+</caption>
+<tbody><tr>
+<th>Country
+</th>
+<th>Population (July 2017 est.)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</th>
+<th>More information
+</th>
+<th>Status
+</th></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Brazil" title="Brazil">Brazil</a></td>
+<td style="text-align: right">207,353,391</td>
+<td><a href="/wiki/Brazilian_Portuguese" title="Brazilian Portuguese">Portuguese in Brazil</a></td>
+<td>Spoken by the vast majority as a native language
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Angola" title="Angola"><img alt="Angola" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/23px-Flag_of_Angola.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/35px-Flag_of_Angola.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/45px-Flag_of_Angola.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Angola" title="Angola">Angola</a></td>
+<td style="text-align: right">29,310,273</td>
+<td><a href="/wiki/Angolan_Portuguese" title="Angolan Portuguese">Portuguese in Angola</a></td>
+<td>Spoken by a significant minority as a native language, and by the majority as a second language
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Mozambique" title="Mozambique"><img alt="Mozambique" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/23px-Flag_of_Mozambique.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/35px-Flag_of_Mozambique.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/45px-Flag_of_Mozambique.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Mozambique" title="Mozambique">Mozambique</a></td>
+<td style="text-align: right">26,573,706</td>
+<td><a href="/wiki/Mozambican_Portuguese" title="Mozambican Portuguese">Portuguese in Mozambique</a></td>
+<td>Spoken by a significant minority as a native language
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Portugal" title="Portugal"><img alt="Portugal" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/35px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/45px-Flag_of_Portugal.svg.png 2x" data-file-width="600" data-file-height="400" /></a></span> <a href="/wiki/Portugal" title="Portugal">Portugal</a></td>
+<td style="text-align: right">10,839,514</td>
+<td><a href="/wiki/European_Portuguese" title="European Portuguese">Portuguese in Portugal</a><sup>1</sup></td>
+<td>Spoken by the vast majority as a native language
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Guinea-Bissau" title="Guinea-Bissau"><img alt="Guinea-Bissau" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/23px-Flag_of_Guinea-Bissau.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/35px-Flag_of_Guinea-Bissau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/46px-Flag_of_Guinea-Bissau.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Guinea-Bissau" title="Guinea-Bissau">Guinea-Bissau</a></td>
+<td style="text-align: right">1,792,338</td>
+<td><a href="/wiki/Languages_of_Guinea-Bissau#Portuguese" title="Languages of Guinea-Bissau">Portuguese in Guinea-Bissau</a></td>
+<td>Spoken by a significant minority as a native language
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/East_Timor" title="East Timor"><img alt="East Timor" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/23px-Flag_of_East_Timor.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/35px-Flag_of_East_Timor.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/46px-Flag_of_East_Timor.svg.png 2x" data-file-width="900" data-file-height="450" /></a></span> <a href="/wiki/East_Timor" title="East Timor">East Timor</a></td>
+<td style="text-align: right">1,291,358</td>
+<td><a href="/wiki/East_Timorese_Portuguese" title="East Timorese Portuguese">Portuguese in East Timor</a></td>
+<td>Spoken by a minority as a second language
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Equatorial_Guinea" title="Equatorial Guinea"><img alt="Equatorial Guinea" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/23px-Flag_of_Equatorial_Guinea.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/35px-Flag_of_Equatorial_Guinea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/45px-Flag_of_Equatorial_Guinea.svg.png 2x" data-file-width="1200" data-file-height="800" /></a></span> <a href="/wiki/Equatorial_Guinea" title="Equatorial Guinea">Equatorial Guinea</a><sup>3</sup></td>
+<td style="text-align: right">778,358</td>
+<td><a href="/wiki/Demographics_of_Equatorial_Guinea#Languages" title="Demographics of Equatorial Guinea">Portuguese in Equatorial Guinea</a></td>
+<td>Spoken by a significant minority as a native language
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Macau" title="Macau"><img alt="Macau" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/23px-Flag_of_Macau.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/35px-Flag_of_Macau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/45px-Flag_of_Macau.svg.png 2x" data-file-width="450" data-file-height="300" /></a></span> <a href="/wiki/Macau" title="Macau">Macau</a><sup>2</sup></td>
+<td style="text-align: right">601,969</td>
+<td><a href="/wiki/Macanese_Portuguese" title="Macanese Portuguese">Portuguese in Macau</a></td>
+<td>Spoken by a small minority as a native language
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Cape_Verde" title="Cape Verde"><img alt="Cape Verde" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/23px-Flag_of_Cape_Verde.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/35px-Flag_of_Cape_Verde.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/46px-Flag_of_Cape_Verde.svg.png 2x" data-file-width="1020" data-file-height="600" /></a></span> <a href="/wiki/Cape_Verde" title="Cape Verde">Cape Verde</a></td>
+<td style="text-align: right">560,899</td>
+<td><a href="/wiki/Cape_Verdean_Portuguese" title="Cape Verdean Portuguese">Portuguese in Cape Verde</a></td>
+<td>Spoken by the majority as a second language
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe" title="São Tomé and Príncipe"><img alt="São Tomé and Príncipe" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Sao_Tome_and_Principe.svg/23px-Flag_of_Sao_Tome_and_Principe.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Sao_Tome_and_Principe.svg/35px-Flag_of_Sao_Tome_and_Principe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Sao_Tome_and_Principe.svg/46px-Flag_of_Sao_Tome_and_Principe.svg.png 2x" data-file-width="2800" data-file-height="1400" /></a></span> <a href="/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe" title="São Tomé and Príncipe">São Tomé and Príncipe</a></td>
+<td style="text-align: right">201,025</td>
+<td><a href="/wiki/S%C3%A3o_Tomean_Portuguese" title="São Tomean Portuguese">Portuguese in São Tomé and Príncipe</a></td>
+<td>Spoken by the vast majority as a native language
+</td></tr>
+<tr class="sortbottom">
+<td><b>Total</b></td>
+<td style="text-align: right"><abbr title="circa">c.</abbr> <b>279 million</b></td>
+<td><a href="/wiki/Community_of_Portuguese_Language_Countries" title="Community of Portuguese Language Countries">Community of Portuguese Language Countries</a></td>
+<td>
+</td></tr></tbody></table>
+<p>Notes:
+</p>
+<ol><li>Some <a href="/wiki/Linguistics" title="Linguistics">linguists</a> such as <a href="/wiki/Lu%C3%ADs_Lindley_Cintra" title="Luís Lindley Cintra">Lindley Cintra</a> and <a href="/wiki/Teixeira_de_Pascoaes" title="Teixeira de Pascoaes">Teixeira de Pascoaes</a> argue that <a href="/wiki/Galician_language" title="Galician language">Galician</a>, spoken in <a href="/wiki/Galicia_(Spain)" title="Galicia (Spain)">Galicia</a>, is merely a dialect of Portuguese rather than an independent language; this would make northwestern <a href="/wiki/Spain" title="Spain">Spain</a> a part of the Portuguese-speaking world.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2018)">citation needed</span></a></i>&#93;</sup></li>
+<li><a href="/wiki/Macau" title="Macau">Macau</a> is not a sovereign nation. It is one of the two <a href="/wiki/Special_administrative_regions_of_China" title="Special administrative regions of China">Special Administrative Regions of the People's Republic of China</a> (the other being <a href="/wiki/English_language" title="English language">Anglophone</a> <a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a>, a former <a href="/wiki/United_Kingdom" title="United Kingdom">British</a> colony).</li>
+<li><a href="/wiki/Equatorial_Guinea" title="Equatorial Guinea">Equatorial Guinea</a> adopted Portuguese as one of its official languages in 2007, being admitted to CPLP in 2014. The use of the Portuguese language in this country is limited. However, a Portuguese-based creole language, <a href="/wiki/Annobonese_Creole" title="Annobonese Creole">Annobonese Creole</a>, is used, mainly on islands of <a href="/wiki/Annobon" class="mw-redirect" title="Annobon">Annobon</a> and <a href="/wiki/Bioko" title="Bioko">Bioko</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2018)">citation needed</span></a></i>&#93;</sup></li>
+<li><a href="/wiki/Uruguayan_Portuguese" title="Uruguayan Portuguese">15% of Uruguay's population speaks Portuguese</a> (in the northern regions near Brazil) as a <a href="/wiki/Native_language" class="mw-redirect" title="Native language">native language</a> though it is not an <a href="/wiki/Official_language" title="Official language">official language</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> This makes Portuguese the second most spoken language of the country. A number of Uruguayans living near the Brazilian border also speak a mixture of Spanish and Portuguese called <a href="/wiki/Riverense_Portu%C3%B1ol_language" class="mw-redirect" title="Riverense Portuñol language">Portuñol</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> A similar blending of Portuguese, Spanish, and <a href="/wiki/Guarani_language" title="Guarani language">Guarani</a> (<a href="/wiki/Jopara_language" title="Jopara language">Jopara</a>) occurs along the border with <a href="/wiki/Paraguay" title="Paraguay">Paraguay</a>.</li></ol>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lusophone&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Globe_of_letters.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Globe_of_letters.svg/28px-Globe_of_letters.svg.png" decoding="async" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Globe_of_letters.svg/42px-Globe_of_letters.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Globe_of_letters.svg/56px-Globe_of_letters.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Language" title="Portal:Language">Language portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/Geographic_distribution_of_Portuguese" class="mw-redirect" title="Geographic distribution of Portuguese">Geographic distribution of Portuguese</a></li>
+<li><a href="/wiki/Lusitanic" title="Lusitanic">Lusitanic</a></li>
+<li><a href="/wiki/Lusophobia" title="Lusophobia">Lusophobia</a></li>
+<li>Lusophone literature
+<ul><li><a href="/wiki/Angolan_literature" title="Angolan literature">Angolan literature</a></li>
+<li><a href="/wiki/Brazilian_literature" title="Brazilian literature">Brazilian literature</a></li>
+<li><a href="/wiki/Latin_American_literature" title="Latin American literature">Latin American literature</a></li>
+<li><a href="/wiki/Portuguese_literature" title="Portuguese literature">Portuguese literature</a></li></ul></li>
+<li><a href="/wiki/Lusophone_music" title="Lusophone music">Lusophone music</a></li>
+<li><a href="/wiki/Lusophone_name" class="mw-redirect" title="Lusophone name">Lusophone name</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lusophone&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.oed.com/view/Entry/241457?redirectedFrom=lusophone#eid">"lusophone, adj"</a>. <i>OED Online</i>. Oxford University Press. September 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">18 November</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=OED+Online&amp;rft.atitle=lusophone%2C+adj&amp;rft.date=2014-09&amp;rft_id=http%3A%2F%2Fwww.oed.com%2Fview%2FEntry%2F241457%3FredirectedFrom%3Dlusophone%23eid&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALusophone" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/fields/2119.html">"The World Factbook -- Field Listing - Population - CIA"</a>. Central Intelligence Agency<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-03-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+World+Factbook+--+Field+Listing+-+Population+-+CIA&amp;rft.pub=Central+Intelligence+Agency&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Ffields%2F2119.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALusophone" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://pgl.gal/situacao-atual-do-portugues-do-uruguai/">The Portuguese Dialect of Uruguay (DPU) is spoken by circa 15% of the Uruguayan population according Juan Pedro Mir, director of education of the Ministry of Education and Culture of the country</a>. pgl.gal (19 August 2017)</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.espacoacademico.com.br/073/73esp_juddpt.htm">O dialeto fronteiriço do Uruguai: origens, investigações e oportunidades</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160227232518/http://www.espacoacademico.com.br/073/73esp_juddpt.htm">Archived</a> 27 February 2016 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <i>Espaço acadêmico</i>. Retrieved 17 December 2010</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lusophone&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" decoding="async" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512" /></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/Lusophone" class="extiw" title="wiktionary:Lusophone">Lusophone</a></b></i> in Wiktionary, the free dictionary.</td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://www.wordswithoutborders.org/">Words Without Borders</a> explores Lusophone literature in translation</li>
+<li><a rel="nofollow" class="external text" href="http://www.gastronomias.com/lusofonia/">Flavours of Lusophony</a> <span class="languageicon">(in Portuguese)</span></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Geographical_distribution_of_languages" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Geographical_distribution_of_languages" title="Template:Geographical distribution of languages"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Geographical_distribution_of_languages" title="Template talk:Geographical distribution of languages"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Geographical_distribution_of_languages&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Geographical_distribution_of_languages" style="font-size:114%;margin:0 4em">Geographical distribution of languages</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arab_world" title="Arab world">Arabic</a></li>
+<li><a href="/wiki/Sinophone" title="Sinophone">Chinese</a></li>
+<li><a href="/wiki/Geographical_distribution_of_Dutch_speakers" title="Geographical distribution of Dutch speakers">Dutch</a></li>
+<li><a href="/wiki/Geographical_distribution_of_English_speakers" title="Geographical distribution of English speakers">English</a></li>
+<li><a href="/wiki/Geographical_distribution_of_French_speakers" title="Geographical distribution of French speakers">French</a></li>
+<li><a href="/wiki/Geographical_distribution_of_German_speakers" title="Geographical distribution of German speakers">German</a></li>
+<li><a href="/wiki/Geographical_distribution_of_Italian_speakers" title="Geographical distribution of Italian speakers">Italian</a></li>
+<li><a href="/wiki/Geographical_distribution_of_the_Macedonian_language" title="Geographical distribution of the Macedonian language">Macedonian</a></li>
+<li><a href="/wiki/Geographical_distribution_of_Polish_speakers" title="Geographical distribution of Polish speakers">Polish</a></li>
+<li><a href="/wiki/Geographical_distribution_of_Portuguese_speakers" title="Geographical distribution of Portuguese speakers">Portuguese</a></li>
+<li><a href="/wiki/Geographical_distribution_of_Russian_speakers" title="Geographical distribution of Russian speakers">Russian</a></li>
+<li><a href="/wiki/Hispanophone" title="Hispanophone">Spanish</a></li>
+<li><a href="/wiki/Ukrainophone" class="mw-redirect" title="Ukrainophone">Ukrainian</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1336
+Cached time: 20191023195201
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.416 seconds
+Real time usage: 0.584 seconds
+Preprocessor visited node count: 1749/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 24657/2097152 bytes
+Template argument size: 2490/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 6963/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.211/10.000 seconds
+Lua memory usage: 12.2 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  499.302      1 -total
+ 28.09%  140.272      1 Template:Lang-pt
+ 19.97%   99.694      1 Template:Reflist
+ 14.88%   74.277      2 Template:Cite_web
+ 11.70%   58.420     10 Template:Flagicon
+ 10.43%   52.080      1 Template:Short_description
+ 10.23%   51.081      2 Template:Cn
+  9.70%   48.416      1 Template:Pagetype
+  8.33%   41.584      2 Template:Fix
+  5.50%   27.447      5 Template:Category_handler
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:652528-0!canonical and timestamp 20191023195201 and revision id 915429527
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Lusophone&amp;oldid=915429527">https://en.wikipedia.org/w/index.php?title=Lusophone&amp;oldid=915429527</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Lusophone_culture" title="Category:Lusophone culture">Lusophone culture</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Articles_containing_Portuguese-language_text" title="Category:Articles containing Portuguese-language text">Articles containing Portuguese-language text</a></li><li><a href="/wiki/Category:Articles_containing_Greek-language_text" title="Category:Articles containing Greek-language text">Articles containing Greek-language text</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2018" title="Category:Articles with unsourced statements from May 2018">Articles with unsourced statements from May 2018</a></li><li><a href="/wiki/Category:Articles_with_Portuguese-language_external_links" title="Category:Articles with Portuguese-language external links">Articles with Portuguese-language external links</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Lusophone" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Lusophone" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Lusophone" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Lusophone" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Lusophone">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Lusophone&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Lusophone&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Lusophone" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Lusophone" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Lusophone&amp;oldid=915429527" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Lusophone&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1258241" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Lusophone&amp;id=915429527" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Lusophone">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Lusophone&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Lusophone&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Lusofon%C3%ADa" title="Lusofonía – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9B%D1%83%D0%B7%D0%B0%D1%84%D0%BE%D0%BD%D1%8B" title="Лузафоны – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9B%D1%83%D0%B7%D0%BE%D1%84%D0%BE%D0%BD" title="Лузофон – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Lusofonia" title="Lusofonia – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Lusophonie" title="Lusophonie – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A0%CE%BF%CF%81%CF%84%CE%BF%CE%B3%CE%B1%CE%BB%CE%BF%CF%86%CF%89%CE%BD%CE%AF%CE%B1" title="Πορτογαλοφωνία – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Lusofon%C3%ADa" title="Lusofonía – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Lusophonie" title="Lusophonie – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Lusofon%C3%ADa" title="Lusofonía – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%8F%AC%EB%A5%B4%ED%88%AC%EA%B0%88%EC%96%B4%EA%B6%8C" title="포르투갈어권 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Lusofon" title="Lusofon – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%9B%D1%83%D0%B7%D0%BE%D1%84%D0%BE%D0%BD%D1%82%C3%A6" title="Лузофонтæ – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9A%E1%83%A3%E1%83%96%E1%83%9D%E1%83%A4%E1%83%9D%E1%83%9C%E1%83%94%E1%83%91%E1%83%98" title="ლუზოფონები – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Lusophonie" title="Lusophonie – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Lusofon" title="Lusofon – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Lusophonia" title="Lusophonia – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%BE%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2" title="ルゾフォニア – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Lusofoni" title="Lusofoni – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Lusofoni" title="Lusofoni – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Lusofonia" title="Lusofonia – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9B%D1%83%D0%B7%D0%BE%D1%84%D0%BE%D0%BD%D1%8B" title="Лузофоны – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Lusofoni" title="Lusofoni – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9B%D1%83%D0%B7%D0%BE%D1%84%D0%BE%D0%BD%D1%96%D1%8F" title="Лузофонія – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%91%A1%E8%90%84%E7%89%99%E8%AA%9E%E5%9C%88" title="葡萄牙語圈 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1258241#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 13 September 2019, at 06:42<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Lusophone&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.416","walltime":"0.584","ppvisitednodes":{"value":1749,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":24657,"limit":2097152},"templateargumentsize":{"value":2490,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":6963,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  499.302      1 -total"," 28.09%  140.272      1 Template:Lang-pt"," 19.97%   99.694      1 Template:Reflist"," 14.88%   74.277      2 Template:Cite_web"," 11.70%   58.420     10 Template:Flagicon"," 10.43%   52.080      1 Template:Short_description"," 10.23%   51.081      2 Template:Cn","  9.70%   48.416      1 Template:Pagetype","  8.33%   41.584      2 Template:Fix","  5.50%   27.447      5 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.211","limit":"10.000"},"limitreport-memusage":{"value":12792213,"limit":52428800}},"cachereport":{"origin":"mw1336","timestamp":"20191023195201","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Lusophone","url":"https:\/\/en.wikipedia.org\/wiki\/Lusophone","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1258241","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1258241","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-05-13T20:46:09Z","dateModified":"2019-09-13T06:42:17Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/3c\/Map_of_the_portuguese_language_in_the_world.svg","headline":"people who speak the Portuguese language"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":114,"wgHostname":"mw1273"});});</script>
+</body>
+</html>

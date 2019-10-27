@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Miss - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Miss","wgTitle":"Miss","wgCurRevisionId":921407250,"wgRevisionId":921407250,"wgArticleId":23807088,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from November 2010","All articles needing additional references","Articles with limited geographic scope from May 2012","USA-centric","All articles with unsourced statements","Articles with unsourced statements from March 2015","Articles needing additional references from April 2016","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from October 2011","Women's social titles","Titles","Honorifics"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Miss","wgRelevantArticleId":23807088,"wgRequestId":"XaXnBwpAMEwAABkGpOkAAABM","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q13359947",
+"wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.cite.tracking","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard",
+"ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.1"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Miss"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Miss&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Miss&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Miss"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Miss rootpage-Miss skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Miss</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">"Misses" redirects here. For the clothing size, see <a href="/wiki/US_standard_clothing_size#Women&#39;s_sizes" class="mw-redirect" title="US standard clothing size">US standard clothing size §&#160;Women's sizes</a>. For the term used to describe married women, see <a href="/wiki/Mrs." title="Mrs.">Mrs.</a> For other uses, see <a href="/wiki/Miss_(disambiguation)" class="mw-disambig" title="Miss (disambiguation)">Miss (disambiguation)</a>.</div>
+<table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Miss&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Miss%22">"Miss"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Miss%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Miss%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Miss%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Miss%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Miss%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">November 2010</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="box-Globalize plainlinks metadata ambox ambox-content ambox-globalize" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="Globe icon." src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/48px-Ambox_globe_content.svg.png" decoding="async" width="48" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/73px-Ambox_globe_content.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/97px-Ambox_globe_content.svg.png 2x" data-file-width="350" data-file-height="290" /></div></td><td class="mbox-text"><div class="mbox-text-span">The examples and perspective in this article <b>deal primarily with the United States and do not represent a <a href="/wiki/Wikipedia:WikiProject_Countering_systemic_bias" title="Wikipedia:WikiProject Countering systemic bias">worldwide view</a> of the subject</b>.<span class="hide-when-compact"> You may <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Miss&amp;action=edit">improve this article</a>, discuss the issue on the <a href="/wiki/Talk:Miss" title="Talk:Miss">talk page</a>, or <a href="/wiki/Wikipedia:Article_wizard" title="Wikipedia:Article wizard">create a new article</a>, as appropriate.</span>  <small class="date-container"><i>(<span class="date">May 2012</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p><b>Miss</b> (pronounced <span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="&#39;m&#39; in &#39;my&#39;">m</span><span title="/ɪ/: &#39;i&#39; in &#39;kit&#39;">ɪ</span><span title="&#39;s&#39; in &#39;sigh&#39;">s</span></span>/</a></span></span>) is an English language <a href="/wiki/English_honorific" class="mw-redirect" title="English honorific">honorific</a> traditionally used only for an unmarried woman (not using another title such as "<a href="/wiki/Doctor_(title)" title="Doctor (title)">Doctor</a>" or "<a href="/wiki/Dame_(title)" class="mw-redirect" title="Dame (title)">Dame</a>"). Originating in the 17th century, it is a contraction of <i><a href="/wiki/Mistress_(form_of_address)" title="Mistress (form of address)">mistress</a></i>, which was used for all women. A period is not used to signify the contraction. Its counterparts are <a href="/wiki/Mrs." title="Mrs.">Mrs.</a>, usually used only for married women, and <a href="/wiki/Ms." title="Ms.">Ms.</a>, which can be used for married or unmarried women.
+</p><p>The plural <i><b>Misses</b></i> may be used, such as in <i>The Misses Doe</i>. The traditional French "<b>Mademoiselle</b>" (abbreviation "<b>Mlle</b>") may also be used as the plural in English language conversation or correspondence. In Australian, British, and Irish schools the term miss is used interchangeably with female teacher.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Use_as_a_title_(honorific)_in_the_United_States"><span class="tocnumber">1</span> <span class="toctext">Use as a title (honorific) in the United States</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Use_alone_as_a_form_of_address"><span class="tocnumber">2</span> <span class="toctext">Use alone as a form of address</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Other_uses"><span class="tocnumber">3</span> <span class="toctext">Other uses</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span id="Use_as_a_title_.28honorific.29_in_the_United_States"></span><span class="mw-headline" id="Use_as_a_title_(honorific)_in_the_United_States">Use as a title (honorific) in the United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Miss&amp;action=edit&amp;section=1" title="Edit section: Use as a title (honorific) in the United States">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The usage of "Miss" as a title in the United States is most frequently seen when referring to young women, or women whose marital status is unknown. Though <i>Miss</i> is less commonly used as a title by unmarried adult <a href="/wiki/Women" class="mw-redirect" title="Women">women</a> in the United States than in the past, some still prefer to be referred to as such. Twenty-first century <a href="/wiki/Etiquette" title="Etiquette">etiquette</a> honors an adult woman's personal preference of title. However, if the preference is not known, "Ms." is used. "Ms." is the preferred choice as the female title in business. It is the equivalent to the male title "Mr." as neither is marital status specific.
+</p><p><i>Miss</i> was formerly the default title for businesswomen, but has largely been replaced by <a href="/wiki/Ms." title="Ms.">Ms.</a> in this context. It was a default title for actresses <i>(Miss <a href="/wiki/Helen_Hayes" title="Helen Hayes">Helen Hayes</a>, Miss <a href="/wiki/Barbara_Stanwyck" title="Barbara Stanwyck">Barbara Stanwyck</a>)</i> or other celebrities <i>(Miss <a href="/wiki/Amelia_Earhart" title="Amelia Earhart">Amelia Earhart</a>)</i>. Such default usage has also proved problematic; the poet <a href="/wiki/Dorothy_Parker" title="Dorothy Parker">Dorothy Parker</a> was often referred to as <i>Miss Parker</i>, even though <i>Parker</i> was the name of her first husband and she herself preferred <i>Mrs. Parker</i>. Later in the century, the use of "Miss" or "Mrs." became a problem for <i>The New York Times</i> in referring to political candidate <a href="/wiki/Geraldine_Ferraro" title="Geraldine Ferraro">Geraldine Ferraro</a><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2015)">citation needed</span></a></i>&#93;</sup>, a married woman who did not use her husband's surname, since <i>Mrs.</i> has been used with a woman's maiden name only in limited circumstances in public life before the 1980s. (See more at <a href="/wiki/Ms." title="Ms.">Ms.</a>)
+</p>
+<h2><span class="mw-headline" id="Use_alone_as_a_form_of_address">Use alone as a form of address</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Miss&amp;action=edit&amp;section=2" title="Edit section: Use alone as a form of address">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="box-Unreferenced plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Miss&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span>  <small class="date-container"><i>(<span class="date">April 2016</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p><i>Miss</i> is an honorific for addressing a woman who is not married, and is known by her maiden name. It is a shortened form of <i>mistress</i>, and departed from <i>misses/missus</i> which became used to signify marital attachment in the 18th and 19th centuries. It does not imply age, though youth corresponds (as marriage implies adulthood).
+</p><p>Those seeking to diminish the importance of marriage status to a woman's social identity began to appropriate the office expedience of <i>Ms.</i> (unpunctuated in the UK) in the early 1970s, when it rose 700%. In formal correspondence as women entered the workforce, <i>Ms.</i> pronounced "mizz," served/serves some conservative social functions in avoiding unpleasantness where a woman might keep a marriage name after a divorce, or where the interpersonal gaffe of failing to acknowledge the important marriage event might cause offense (or indicate junior authorship of correspondence). The use of <i>Ms.</i>, nevertheless, is in decline. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Other_uses">Other uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Miss&amp;action=edit&amp;section=3" title="Edit section: Other uses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="box-Unreferenced plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Miss&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span>  <small class="date-container"><i>(<span class="date">April 2016</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>In some American subcultures, such as the <a href="/wiki/American_South" class="mw-redirect" title="American South">American South</a> and some urban cultures, <i>Miss</i> is sometimes used irrespective of marital status with a woman's first name in direct or indirect informal address, as <i>Miss Ellen</i> from <i><a href="/wiki/Gone_with_the_Wind_(novel)" title="Gone with the Wind (novel)">Gone with the Wind</a></i> or <a href="/wiki/Miss_Ellie_Ewing" title="Miss Ellie Ewing"><i>Miss Ellie</i></a> from <i><a href="/wiki/Dallas_(1978_TV_series)" title="Dallas (1978 TV series)">Dallas</a></i>. This form was also used in <a href="/wiki/Upper_class" title="Upper class">upper class</a> households in some English-speaking countries by <a href="/wiki/Servant" class="mw-redirect" title="Servant">servants</a> to address or refer to the unmarried ladies of the household, and occasionally in family-run businesses in the same manner, though more commonly it was used to address servants if they were addressed by title at all. This is also common with female child-care givers; small children will refer to their preschool teacher or nanny as "Miss" and their first name, regardless of marital status.  In some school districts in the United States, this custom extends through the early primary school grades.
+</p><p>In some styles of <a href="/wiki/Etiquette" title="Etiquette">etiquette</a><sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Avoid_weasel_words" class="mw-redirect" title="Wikipedia:Avoid weasel words"><span title="The material near this tag possibly uses too vague attribution or weasel words. (October 2011)">which?</span></a></i>&#93;</sup>, the eldest daughter of a family was addressed on paper simply as <i>Miss <a href="/wiki/John_Doe" title="John Doe">Doe</a></i>, with the younger daughters being addressed as <i>Miss Jane Doe</i> and <i>Miss Rebecca Doe</i>. In person, as in when making introductions, the styling would have been extended to unmarried cousins with the same surname.
+</p><p>Another notable use of <i>Miss</i> is as the title of a <a href="/wiki/Beauty_queen" class="mw-redirect" title="Beauty queen">beauty queen</a> (given that in most pageants it is a requirement that contestants be unmarried), such as <i><a href="/wiki/Miss_America" title="Miss America">Miss America</a></i>, <i><a href="/wiki/Miss_World" title="Miss World">Miss World</a></i>, and <i><a href="/wiki/Miss_Universe" title="Miss Universe">Miss Universe</a></i>. Other languages, such as <a href="/wiki/French_language" title="French language">French</a>, <a href="/wiki/Spanish_language" title="Spanish language">Spanish</a>, <a href="/wiki/German_language" title="German language">German</a>, and <a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>, have borrowed the English <i>Miss</i> to refer to the winner of a beauty pageant.
+</p><p>In some Mexican schools (particularly, but not exclusively, in bilingual schools), the term <i>Miss</i> and <i>female teacher</i> are used interchangeably; students often address their female teachers simply as <i>Miss</i>.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Miss&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Fr%C3%A4ulein" title="Fräulein">Fräulein</a> (German-language term for <i>Miss</i>, gained popularity due to the <i>Fräuleinwunder</i>, lit. <i>Miracle of the Miss</i>)</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Miss&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Ngram, Google. <a rel="nofollow" class="external text" href="https://books.google.com/ngrams/graph?content=Mrs%2CMs%2CMiss%2CMs.%2CMrs.%2Cmiss%2Cms.&amp;year_start=1800&amp;year_end=2018&amp;corpus=15&amp;smoothing=3&amp;share=&amp;direct_url=t1%3B%2CMrs%3B%2Cc0%3B.t1%3B%2CMs%3B%2Cc0%3B.t1%3B%2CMiss%3B%2Cc0%3B.t1%3B%2CMs.%3B%2Cc0%3B.t1%3B%2CMrs.%3B%2Cc0%3B.t1%3B%2Cmiss%3B%2Cc0%3B.t1%3B%2Cms%20.%3B%2Cc0">"Google Ngram Viewer"</a>. Google<span class="reference-accessdate">. Retrieved <span class="nowrap">7 January</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Google+Ngram+Viewer&amp;rft.pub=Google&amp;rft.aulast=Ngram&amp;rft.aufirst=Google&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fngrams%2Fgraph%3Fcontent%3DMrs%252CMs%252CMiss%252CMs.%252CMrs.%252Cmiss%252Cms.%26year_start%3D1800%26year_end%3D2018%26corpus%3D15%26smoothing%3D3%26share%3D%26direct_url%3Dt1%253B%252CMrs%253B%252Cc0%253B.t1%253B%252CMs%253B%252Cc0%253B.t1%253B%252CMiss%253B%252Cc0%253B.t1%253B%252CMs.%253B%252Cc0%253B.t1%253B%252CMrs.%253B%252Cc0%253B.t1%253B%252Cmiss%253B%252Cc0%253B.t1%253B%252Cms%2520.%253B%252Cc0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMiss" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="English_social_honorific_titles" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Social_titles" title="Template:Social titles"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Social_titles" title="Template talk:Social titles"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Social_titles&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="English_social_honorific_titles" style="font-size:114%;margin:0 4em"><a href="/wiki/English_honorifics" title="English honorifics">English</a> social <a href="/wiki/Honorific" title="Honorific">honorific</a> <a href="/wiki/Title" title="Title">titles</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Feminine</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mrs." title="Mrs.">Mrs.</a></li>
+<li><a class="mw-selflink selflink">Miss</a></li>
+<li><a href="/wiki/Ms." title="Ms.">Ms.</a></li>
+<li><a href="/wiki/Mistress_(form_of_address)" title="Mistress (form of address)">Mistress</a></li>
+<li><a href="/wiki/Madam" title="Madam">Madam</a></li>
+<li><a href="/wiki/Dame" title="Dame">Dame</a></li>
+<li><a href="/wiki/Lady" title="Lady">Lady</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Masculine</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mr." title="Mr.">Mr.</a></li>
+<li><a href="/wiki/Master_(form_of_address)" title="Master (form of address)">Master</a></li>
+<li><a href="/wiki/Esquire" title="Esquire">Esquire</a></li>
+<li><a href="/wiki/Sir" title="Sir">Sir</a></li>
+<li><a href="/wiki/Sire" title="Sire">Sire</a></li>
+<li><a href="/wiki/Lord" title="Lord">Lord</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Gender-neutral_title" title="Gender-neutral title">Neutral</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mx_(title)" title="Mx (title)">Mx</a></li>
+<li><a href="/wiki/Doctor_(title)" title="Doctor (title)">Dr</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1283
+Cached time: 20191015153346
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.256 seconds
+Real time usage: 0.611 seconds
+Preprocessor visited node count: 864/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 35460/2097152 bytes
+Template argument size: 1333/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 3499/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.142/10.000 seconds
+Lua memory usage: 3.19 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  577.123      1 -total
+ 46.45%  268.046      1 Template:IPAc-en
+ 15.91%   91.828      1 Template:Reflist
+ 15.31%   88.366      4 Template:Ambox
+ 13.90%   80.225      1 Template:Refimprove
+ 13.74%   79.274      1 Template:Cite_web
+  6.94%   40.079      2 Template:Fix
+  6.24%   36.026      1 Template:Redirect
+  5.91%   34.090      1 Template:Citation_needed
+  5.45%   31.477      1 Template:Find_sources_mainspace
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:23807088-0!canonical and timestamp 20191015153355 and revision id 921407250
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Miss&amp;oldid=921407250">https://en.wikipedia.org/w/index.php?title=Miss&amp;oldid=921407250</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Women%27s_social_titles" title="Category:Women&#039;s social titles">Women's social titles</a></li><li><a href="/wiki/Category:Titles" title="Category:Titles">Titles</a></li><li><a href="/wiki/Category:Honorifics" title="Category:Honorifics">Honorifics</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_November_2010" title="Category:Articles needing additional references from November 2010">Articles needing additional references from November 2010</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_with_limited_geographic_scope_from_May_2012" title="Category:Articles with limited geographic scope from May 2012">Articles with limited geographic scope from May 2012</a></li><li><a href="/wiki/Category:USA-centric" title="Category:USA-centric">USA-centric</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2015" title="Category:Articles with unsourced statements from March 2015">Articles with unsourced statements from March 2015</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_April_2016" title="Category:Articles needing additional references from April 2016">Articles needing additional references from April 2016</a></li><li><a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">All articles with specifically marked weasel-worded phrases</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_October_2011" title="Category:Articles with specifically marked weasel-worded phrases from October 2011">Articles with specifically marked weasel-worded phrases from October 2011</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Miss" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Miss" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Miss" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Miss" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Miss">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Miss&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Miss&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Miss" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Miss" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Miss&amp;oldid=921407250" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Miss&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q13359947" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Miss&amp;id=921407250" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Miss">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Miss&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Miss&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D8%B3_(%D9%84%D9%82%D8%A8)" title="مس (لقب) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Si%C3%B3-chi%C3%A1" title="Sió-chiá – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Sle%C4%8Dna" title="Slečna – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AF%D9%88%D8%B4%DB%8C%D8%B2%D9%87" title="دوشیزه – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Juffrouw" title="Juffrouw – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B9_(%E6%95%AC%E7%A7%B0)" title="ミス (敬称) – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Sipas" title="Sipas – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%81%D1%81" title="Мисс – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Miss" title="Miss – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Miss" title="Miss – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9C%D1%96%D1%81" title="Міс – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%B0%8F%E5%A7%90" title="小姐 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q13359947#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 15 October 2019, at 15:33<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Miss&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.256","walltime":"0.611","ppvisitednodes":{"value":864,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":35460,"limit":2097152},"templateargumentsize":{"value":1333,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3499,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  577.123      1 -total"," 46.45%  268.046      1 Template:IPAc-en"," 15.91%   91.828      1 Template:Reflist"," 15.31%   88.366      4 Template:Ambox"," 13.90%   80.225      1 Template:Refimprove"," 13.74%   79.274      1 Template:Cite_web","  6.94%   40.079      2 Template:Fix","  6.24%   36.026      1 Template:Redirect","  5.91%   34.090      1 Template:Citation_needed","  5.45%   31.477      1 Template:Find_sources_mainspace"]},"scribunto":{"limitreport-timeusage":{"value":"0.142","limit":"10.000"},"limitreport-memusage":{"value":3348038,"limit":52428800}},"cachereport":{"origin":"mw1283","timestamp":"20191015153346","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Miss","url":"https:\/\/en.wikipedia.org\/wiki\/Miss","sameAs":"http:\/\/www.wikidata.org\/entity\/Q13359947","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q13359947","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-03-31T04:45:47Z","dateModified":"2019-10-15T15:33:55Z","headline":"honorific traditionally used only for an unmarried woman"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":148,"wgHostname":"mw1241"});});</script>
+</body>
+</html>

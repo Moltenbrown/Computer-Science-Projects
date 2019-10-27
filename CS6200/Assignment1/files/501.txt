@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Extended family - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Extended_family","wgTitle":"Extended family","wgCurRevisionId":919284037,"wgRevisionId":919284037,"wgArticleId":247274,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Wikipedia articles needing clarification from May 2014","All articles with unsourced statements","Articles with unsourced statements from December 2013","Vague or ambiguous geographic scope from May 2014","Articles with unsourced statements from February 2007","Articles with unsourced statements from June 2013","Articles with limited geographic scope from April 2018","All articles with vague or ambiguous time","Vague or ambiguous time from May 2014","Family","Living arrangements"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext",
+"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Extended_family","wgRelevantArticleId":247274,"wgRequestId":"XbCbhwpAMFAAAFq667IAAAAD","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":
+"wikipedia","wgWikibaseItemId":"Q721790","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice",
+"ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.2"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Extended_family"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Extended_family&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Extended_family&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Extended_family"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Extended_family rootpage-Extended_family skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Extended family</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="vertical-navbox nowraplinks hlist nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><th class="navbox-title" style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Child_care" title="Child care">Caring for children</a></th></tr><tr><th class="navbox-abovebelow" style="padding:0.1em">
+At home</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Parent" title="Parent">Parents</a></li>
+<li><a class="mw-selflink selflink">Extended family</a></li>
+<li><a href="/wiki/Au_pair" title="Au pair">Au pair</a></li>
+<li><a href="/wiki/Babysitting" title="Babysitting">Babysitting</a></li>
+<li><a href="/wiki/Governess" title="Governess">Governess</a></li>
+<li><a href="/wiki/Nanny" title="Nanny">Nanny</a></li></ul></td>
+</tr><tr><th class="navbox-abovebelow" style="padding:0.1em">
+Outside the home</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Child_care" title="Child care">Day care</a></li>
+<li><a href="/wiki/Pre-school_playgroup" title="Pre-school playgroup">Pre-school playgroup</a></li></ul></td>
+</tr><tr><th class="navbox-abovebelow" style="padding:0.1em">
+Educational settings</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Early_childhood_education" title="Early childhood education">Early childhood education</a></li>
+<li><a href="/wiki/Pre-kindergarten" title="Pre-kindergarten">Pre-kindergarten</a></li>
+<li><a href="/wiki/Preschool" title="Preschool">Preschool</a></li>
+<li><a href="/wiki/Kindergarten" title="Kindergarten">Kindergarten</a></li>
+<li><a href="/wiki/Elementary_school" class="mw-redirect" title="Elementary school">Elementary school</a></li>
+<li><a href="/wiki/Primary_school" title="Primary school">Primary school</a></li></ul></td>
+</tr><tr><th class="navbox-abovebelow" style="padding:0.1em">
+Institutions and standards</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Child_protection" title="Child protection">Child protection</a></li>
+<li><i><a href="/wiki/In_loco_parentis" title="In loco parentis">In loco parentis</a></i></li>
+<li><a href="/wiki/Minor_(law)" title="Minor (law)">Minor (law)</a></li></ul></td>
+</tr><tr><th class="navbox-abovebelow" style="padding:0.1em">
+Related</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Child_abuse" title="Child abuse">Child abuse</a></li>
+<li><a href="/wiki/Child_marriage" title="Child marriage">Child marriage</a></li>
+<li><a href="/wiki/Child_Online_Protection" title="Child Online Protection">Child Online Protection</a></li>
+<li><a href="/wiki/Family_law" title="Family law">Family law</a></li>
+<li><a href="/wiki/Men_in_early_childhood_education" title="Men in early childhood education">Men in early childhood education</a></li>
+<li><a href="/wiki/Orphanage" title="Orphanage">Orphanage</a></li>
+<li><a href="/wiki/Parenting" title="Parenting">Parenting</a></li></ul></td>
+</tr><tr><td style="text-align:right;font-size:115%"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Childcare" title="Template:Childcare"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Childcare" title="Template talk:Childcare"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Childcare&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p>An <b>extended family</b> is a family that extends beyond the <a href="/wiki/Nuclear_family" title="Nuclear family">nuclear family</a>, consisting of parents like father, mother, and their children, aunts, uncles, grandparents, and cousins, all living in the same household.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Sociology"><span class="tocnumber">2</span> <span class="toctext">Sociology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Around_the_world"><span class="tocnumber">3</span> <span class="toctext">Around the world</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Indian_Subcontinent"><span class="tocnumber">3.1</span> <span class="toctext">Indian Subcontinent</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Recent_trend_in_the_United_States"><span class="tocnumber">3.2</span> <span class="toctext">Recent trend in the United States</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Mexico"><span class="tocnumber">3.3</span> <span class="toctext">Mexico</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Economic_background"><span class="tocnumber">3.4</span> <span class="toctext">Economic background</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Complex_family"><span class="tocnumber">4</span> <span class="toctext">Complex family</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Extended_family&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In some circumstances, the extended family comes to live either with or in a place of a member of the immediate family. These families include, in one household, near relatives in addition to an immediate family. An example would be an elderly parent who moves in with his or her children due to old age. In modern Western cultures dominated by <a href="/wiki/Immediate_family" title="Immediate family">immediate family</a> constructs, the term has come to be used generically to refer to grandparents, uncles, aunts, and cousins, whether they live together within the same household or not.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> However, it may also refer to a family unit in which several generations live together within a single household. In some cultures, the term is used synonymously with <a href="/wiki/Consanguineous_family" class="mw-redirect" title="Consanguineous family">consanguineous family</a>.
+</p><p>In a stem family, a type of extended family, first presented by <a href="/wiki/Fr%C3%A9d%C3%A9ric_Le_Play" class="mw-redirect" title="Frédéric Le Play">Frédéric Le Play</a>, parents will live with one child and his or her spouse, as well as the children of both, while other children will leave the house or remain in it unmarried. The stem family is sometimes associated with inegalitarian inheritance practices, as in <a href="/wiki/Japan" title="Japan">Japan</a> and <a href="/wiki/Korea" title="Korea">Korea</a>, but the term has also been used in some contexts to describe a family type where parents live with a married child and his or her spouse and children, but the transfer of land and moveable property is more or less egalitarian, as in the case of traditional <a href="/wiki/Romania" title="Romania">Romania</a>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> northeastern <a href="/wiki/Thailand" title="Thailand">Thailand</a><sup id="cite_ref-KertzerFricke1997_3-0" class="reference"><a href="#cite_note-KertzerFricke1997-3">&#91;3&#93;</a></sup> or <a href="/wiki/Mesoamerican" class="mw-redirect" title="Mesoamerican">Mesoamerican</a> indigenous peoples.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> In these cases, the child who cares for the parents usually receives the house in addition to his or her own share of land and moveable property.
+</p><p>In an extended family, parents and their children's families may often live under a single roof. This type of <b>joint family</b> often includes multiple generations in the family. Three to four generations stay together under a single roof. The joint family follow common culture, have equal rights over property and celebrate all the festivals and functions of the family together. They are a coherent group.  From culture to culture, the variance of the term may have different meanings. For instance, in <a href="/wiki/India" title="India">India</a>, the family is a <a href="/wiki/Patriarchal" class="mw-redirect" title="Patriarchal">patriarchal</a> society, with the sons' families often staying in the same house. The patriarch or the eldest male in the family is known as the Karta. The Karta is the main person and takes all decisions related to the family. Karta provides financial, mental, social etc. security to the family members and so the family members allow the karta to take decisions on their behalf. The family members feel secure in the presence of the karta. The authority of the family is passed on by the law of primogeneture. After the death of the karta, his eldest son becomes the karta and take charge of the family. The joint family in India is very unique. It has various positive and negative aspects. With globalization, increasing urbanization people have become more individualistic and consider family secondary.   
+</p><p>In the joint family, the workload is shared among the members. The patriarch of the family (often the oldest male member) is the head of the household. Grandparents are usually involved in the raising process of the children along with guidance and education.  Like any family unit, the success and structure are dependent on the personalities of the individuals involved.
+</p><p>Amy Goyer, <a href="/wiki/AARP" title="AARP">AARP</a> multigenerational issues expert, said the most common multigenerational household is one with a grandparent as head of the household and his adult children having moved in with their children, an arrangement usually spurred by the needs of one or both to combine resources and save money. The second most popular is a grandparent moving in with an adult child's family, usually for care-giving reasons. She noted that 2.5&#160;million grandparents say they are responsible for the basic needs of the grandchild living with them.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="Are the statements in this paragraph referring to the United States? If so, this has to be explicitly stated. (May 2014)">clarification needed</span></a></i>&#93;</sup>
+</p><p>The house often has a large reception area and a common kitchen. Each family has their own bedroom.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2013)">citation needed</span></a></i>&#93;</sup> The members of the household also look after each other when a member is ill.
+</p>
+<h2><span class="mw-headline" id="Sociology">Sociology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Extended_family&amp;action=edit&amp;section=2" title="Edit section: Sociology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It has often been presumed that extended family groups sharing a single household enjoy certain advantages, such as a greater sense of security and belonging due to sharing a wider pool of members to serve as resources during a crisis, and more role models to help perpetuate desired behavior and cultural values. However, even in cultures in which adults are expected to leave home after marriage to begin their own nuclear-based households, the extended family often forms an important support network offering similar advantages. Particularly in working-class communities, grown children tend to establish their own households within the same general area as their parents, aunts, uncles, and grandparents. These extended family members tend to gather often for family events and to feel responsible for helping and supporting one another, both emotionally and financially.<sup id="cite_ref-Browne,_Ken_2011_p._107_6-0" class="reference"><a href="#cite_note-Browne,_Ken_2011_p._107-6">&#91;6&#93;</a></sup>
+</p><p>While contemporary families may be considered more mobile in general than in the past, sociologists find that this has not necessarily resulted in the disintegration of extended family networks. Rather, technological aids such as the Internet and <a href="/wiki/Social_networking_service" title="Social networking service">social networking sites</a> such as <a href="/wiki/Facebook" title="Facebook">Facebook</a> are now commonly used<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Naming_conventions_(geographic_names)" title="Wikipedia:Naming conventions (geographic names)"><span title="The geographic scope near this tag is ambiguous. (May 2014)">where?</span></a></i>&#93;</sup> to retain contact and maintain these family ties.<sup id="cite_ref-Browne,_Ken_2011_p._107_6-1" class="reference"><a href="#cite_note-Browne,_Ken_2011_p._107-6">&#91;6&#93;</a></sup>
+</p><p>Particularly in the case of single-parent households, it can be helpful for extended family members to share a single household in order to share the burden of meeting expenses. On the other hand, sharing a household can present a disadvantage depending on the sizes and number of families involved, particularly when only a few members shoulder most of the responsibility to meet expenses for the family's basic needs.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>An estimated 49&#160;million Americans (16.1% of the total population) live in homes comprising three or more generations, up from 42&#160;million in 2000. This situation is similar in Western Europe. Another 34 percent live within a kilometer of their children.<sup id="cite_ref-pewsocialtrends_8-0" class="reference"><a href="#cite_note-pewsocialtrends-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Around_the_world">Around the world</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Extended_family&amp;action=edit&amp;section=3" title="Edit section: Around the world">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In many cultures, such as in those of many of the <a href="/wiki/Asians" class="mw-redirect" title="Asians">Asians</a>, <a href="/wiki/Middle_Easterners" class="mw-redirect" title="Middle Easterners">Middle Easterners</a>, <a href="/wiki/Africans" class="mw-redirect" title="Africans">Africans</a>, <a href="/wiki/Eastern_Europeans" class="mw-redirect" title="Eastern Europeans">Eastern Europeans</a>, <a href="/wiki/Southern_Europe" title="Southern Europe">Southern Europe</a>, indigenous <a href="/wiki/Latin_Americans" title="Latin Americans">Latin Americans</a> and <a href="/wiki/Pacific_Islanders" class="mw-redirect" title="Pacific Islanders">Pacific Islanders</a>, <i>extended families</i> are the basic family unit. Even in Western <a href="/wiki/Europe" title="Europe">Europe</a>, extended families (mostly of the stem type) were also clearly prevalent, <a href="/wiki/England" title="England">England</a> being a rare exception.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> Some people have stated that the relative "uniqueness" of the traditional English family (the absolute nuclear family) was at least partly responsible for the birth of <a href="/wiki/Industrialization" class="mw-redirect" title="Industrialization">industrialization</a>, <a href="/wiki/Free-market_capitalism" class="mw-redirect" title="Free-market capitalism">free-market capitalism</a> and <a href="/wiki/Liberalism" title="Liberalism">liberalism</a> in that country.
+</p><p>It is common for today's world to have older children in nuclear families to reach walking up to driving age ranges before meeting extended family members. Geographical isolation is common for middle-class families who move based on occupational opportunities while family branches "retain [their] basic independence".<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> Some extended families hold family reunions or opportunities for gathering regularly, normally around holiday time frames, to reestablish and integrate a stronger family connection. This allows individual nuclear families to connect with extended family members.
+</p><p><a href="/wiki/Australian_Aborigines" class="mw-redirect" title="Australian Aborigines">Australian Aborigines</a> are another group for whom the concept of family extends well beyond the nuclear model. Aboriginal immediate families include aunts, uncles and a number of other relatives who would be considered "distant relations" in the context of the nuclear family. Aboriginal families have strict social rules regarding whom they can marry. Their family structure incorporates a shared responsibility for all tasks.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2007)">citation needed</span></a></i>&#93;</sup>
+</p><p>Where families consist of multiple generations living together, the family is usually headed by the oldest man. More often than not, it consists of grandparents, their sons, and their sons' families. Extended families make discussions together and solve the problem.
+</p>
+<h3><span class="mw-headline" id="Indian_Subcontinent">Indian Subcontinent</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Extended_family&amp;action=edit&amp;section=4" title="Edit section: Indian Subcontinent">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Hindu_joint_family" title="Hindu joint family">Hindu joint family</a></div>
+<p>Historically, for generations <a href="/wiki/South_Asia" title="South Asia">South Asia</a> had a prevailing tradition of the <i>joint family system</i> or <i>undivided family</i>. The joint family system is an extended family arrangement prevalent throughout the <a href="/wiki/Indian_subcontinent" title="Indian subcontinent">Indian subcontinent</a>, particularly in <a href="/wiki/India" title="India">India</a>, consisting of many generations living in the same home, all bound by the common relationship.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> A patrilineal joint family consists of an older man and his wife, his sons and unmarried daughters, his sons’ wives and children. The family is headed by a patriarch, usually the oldest male, who makes decisions on economic and social matters on behalf of the entire family. The patriarch's wife generally exerts control over the household, minor religious practices and often wields considerable influence in domestic matters. Family income flows into a common pool, from which resources are drawn to meet the needs of all members, which are regulated by the heads of the family.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Recent_trend_in_the_United_States">Recent trend in the United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Extended_family&amp;action=edit&amp;section=5" title="Edit section: Recent trend in the United States">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/American_family_structure" class="mw-redirect" title="American family structure">American family structure</a></div>
+<p>In the early stages of the twentieth century, it was not very common to find many families with extended kin in their household, which may have been due to the idea that the young people in these times typically waited to establish themselves and start a household before they married and filled a home.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2013)">citation needed</span></a></i>&#93;</sup> As life expectancy becomes older and programs such as Social Security benefit the elderly, the old are now beginning to live longer than prior generations, which then may lead to generations mixing together.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> According to results of a study by <a href="/wiki/Pew_Research_Center" title="Pew Research Center">Pew Research Center</a> in 2010, approximately 50&#160;million (nearly one in six) Americans, including rising numbers of seniors, live in households with at least two adult generations, and often three. It has become an ongoing trend for elderly generations to move in and live with their children, as they can give them support and help with everyday living. The main reasons cited for this shift are an increase in unemployment and slumped housing prices and arrival of new immigrants from Asian and South American countries.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> According to the U.S. Census Bureau, there were 2.7 million grandparents raising their grandchildren in 2009.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> The dramatic increase in grandparent-headed households has been attributed to many factors including parental substance abuse.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>, In 2003, the number of U.S. "family groups" where one or more subfamilies live in a household (e.g. a householder's daughter has a child. The mother-child is a subfamily) was 79&#160;million. Two-point-six million of U.S. multigenerational family households in 2000 had a householder, the householder's children, and the householder's grandchildren. That's 65 percent of multigenerational family households in the U.S. So it is twice as common for a grandparent to be the householder than for adult children to bring parents into their home.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> The increase in the number of multigenerational households has created complex legal issues, such as who in the household has authority to consent to police searches of the family home or private bedrooms.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Mexico">Mexico</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Extended_family&amp;action=edit&amp;section=6" title="Edit section: Mexico">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Mexican society is composed of three-generational units consisting of grandparents, children, and grandchildren. Further close relationships are maintained with the <a href="/wiki/Progenitor" title="Progenitor">progenitors</a> of these families and are known as kin or "cousins". When one is born, they are born into two extended families, a kinship group of sometimes 70 people. The group traditionally acts as a cohesive unit, pooling resources and influence. The extended family also consists of spouses and siblings. This is in contrast to the two generational American nuclear family.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</p><p>Some scholars have used the term "grand-family" to describe the close relationship between grandparents, children, and grandchildren in Mexican society.<sup id="cite_ref-Lomnitz_21-0" class="reference"><a href="#cite_note-Lomnitz-21">&#91;21&#93;</a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup> Larissa A. Lomnitz and Marisol Perez-Lizaur, for example, describe the grand-family as "the basic unit of family solidarity in Mexico", where basic family obligations between grandparents, children, and grandchildren include "economic support, participation in family rituals, and social recognition".<sup id="cite_ref-Lomnitz_21-1" class="reference"><a href="#cite_note-Lomnitz-21">&#91;21&#93;</a></sup> Katie Willis and Cathy Mcilwaine also note that grand-families are a "distinctive feature" of "low-income", "middle-income", as well as "elite sectors" of Mexican society.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Economic_background">Economic background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Extended_family&amp;action=edit&amp;section=7" title="Edit section: Economic background">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="box-Globalize plainlinks metadata ambox ambox-content ambox-globalize" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="Globe icon." src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/48px-Ambox_globe_content.svg.png" decoding="async" width="48" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/73px-Ambox_globe_content.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/97px-Ambox_globe_content.svg.png 2x" data-file-width="350" data-file-height="290" /></div></td><td class="mbox-text"><div class="mbox-text-span">The examples and perspective in this article <b>may not represent a <a href="/wiki/Wikipedia:WikiProject_Countering_systemic_bias" title="Wikipedia:WikiProject Countering systemic bias">worldwide view</a> of the subject</b>.<span class="hide-when-compact"> You may <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Extended_family&amp;action=edit">improve this article</a>, discuss the issue on the <a href="/wiki/Talk:Extended_family" title="Talk:Extended family">talk page</a>, or <a href="/wiki/Wikipedia:Article_wizard" title="Wikipedia:Article wizard">create a new article</a>, as appropriate.</span>  <small class="date-container"><i>(<span class="date">April 2018</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>Economic background has become a very prominent factor in the likelihood of living in an extended family. Many families<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Naming_conventions_(geographic_names)" title="Wikipedia:Naming conventions (geographic names)"><span title="The geographic scope near this tag is ambiguous. (May 2014)">where?</span></a></i>&#93;</sup> who live in low-income areas are beginning<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers"><span title="The time period mentioned near this tag is ambiguous. (May 2014)">when?</span></a></i>&#93;</sup> to move in with one another for financial and emotional support. The relative economic deprivation of racial and ethnic minorities leads to higher levels of extended family involvement; primarily because blacks and Latinos have less money and education than whites, they are more likely to give and receive help from kin.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup> Having family on which one can rely is very important in times of economic hardship especially if there are children involved. Living in an extended family provides constant care for children and support for other members of the family as well. Analysis of the National Survey of Families and Households<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="Whose nation&#39;s &#39;National Survey&#39;? (May 2014)">clarification needed</span></a></i>&#93;</sup> suggests there are differences between whites and other ethnic groups because of economic differences among racial groups: blacks and Latinos less often have the economic resources that allow the kind of privatization that the nuclear family entails. Extended kinship, then, is a survival strategy in the face of economic difficulties.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup> Being able to rely on not only two parents but grandparents, aunts, uncles, brothers, and sisters helps to create a support system which in turn brings families closer together. Living in an extended family provides many things that a nuclear family does not.
+</p><p>The number of multigenerational households has been steadily rising because of the economic hardships people are experiencing today.<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers"><span title="The time period mentioned near this tag is ambiguous. (May 2014)">when?</span></a></i>&#93;</sup> According to the AARP, multigenerational households have increased from 5&#160;million in 2000 to 6.2&#160;million in 2008.<sup id="cite_ref-Metcalf,_E._R._2010_26-0" class="reference"><a href="#cite_note-Metcalf,_E._R._2010-26">&#91;26&#93;</a></sup>"There's no question that with some ethnicities that are growing in America, it is more mainstream and traditional to have multigenerational households. We're going to see that increasing in the general population as well," says AARP's Ginzler.<sup id="cite_ref-Metcalf,_E._R._2010_26-1" class="reference"><a href="#cite_note-Metcalf,_E._R._2010-26">&#91;26&#93;</a></sup> While high unemployment and housing foreclosures of the recession have played a key role in the trend, Pew Research Center exec VP and co-author of its multigenerational household study Paul Taylor said it has been growing over several decades, fueled by demographic and cultural shifts such as the rising number of immigrants and the rising average age of young-adult marriages.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup> The importance of an extended family is one that many people may not realize, but having a support system and many forms of income may help people today because of the difficulties in finding a job and bringing in enough money.<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="Are the statements in this paragraph or in fact the whole section referring to the United States? If so, this has to be explicitly stated. Or it could be moved to or merged with, as perhaps a subsection, the &#39;Recent trend in the United States&#39; section. (May 2014)">clarification needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="Complex_family">Complex family</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Extended_family&amp;action=edit&amp;section=8" title="Edit section: Complex family">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"Complex family" is a generic term for any family structure involving more than two adults. The term can refer to any extended family, <a href="/wiki/Polyamory" title="Polyamory">polyamorous</a> or to a <a href="/wiki/Polygamy" title="Polygamy">polygamy</a> of any type. It is often used to refer to the <a href="/wiki/Group_marriage" title="Group marriage">group marriage</a> form of polygamy.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Extended_family&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cluster_genealogy" title="Cluster genealogy">Cluster genealogy</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Extended_family&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Andersen, Margaret L and Taylor, Howard Francis (2007). The extended family may live together for many reasons, such as to help raise children, support for an ill relative, or help with financial problems. Sociology: Understanding a diverse society. p. 396 <style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-495-00742-0" title="Special:BookSources/0-495-00742-0">0-495-00742-0</a>.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Gender and Well-Being  Interactions between Work, Family and Public Policies  COST ACTION A 34  Second Symposium:  The Transmission of Well-Being: Marriage Strategies  and Inheritance Systems in Europe (17th-20th Centuries)  25th -28th April 2007  University of Minho  Guimarães-Portugal <a rel="nofollow" class="external free" href="http://www.ub.edu/tig/GWBNet/MinhoPapers/Constanta%20Ghitulescu.pdf">http://www.ub.edu/tig/GWBNet/MinhoPapers/Constanta%20Ghitulescu.pdf</a></span>
+</li>
+<li id="cite_note-KertzerFricke1997-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-KertzerFricke1997_3-0">^</a></b></span> <span class="reference-text"><cite class="citation book">David I. Kertzer; Thomas Earl Fricke (15 July 1997). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=NTk-o1tn6CwC&amp;pg=PA62"><i>Anthropological Demography: Toward a New Synthesis</i></a>. University of Chicago Press. pp.&#160;62–. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-226-43195-6" title="Special:BookSources/978-0-226-43195-6"><bdi>978-0-226-43195-6</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Anthropological+Demography%3A+Toward+a+New+Synthesis&amp;rft.pages=62-&amp;rft.pub=University+of+Chicago+Press&amp;rft.date=1997-07-15&amp;rft.isbn=978-0-226-43195-6&amp;rft.au=David+I.+Kertzer&amp;rft.au=Thomas+Earl+Fricke&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DNTk-o1tn6CwC%26pg%3DPA62&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExtended+family" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Robichaux, David Luke (1 January 1997). "Residence Rules and Ultimogeniture in Tlaxcala and Mesoamerica". <i>Ethnology</i>. <b>36</b> (2): 149–171. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.2307%2F3774080">10.2307/3774080</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/3774080">3774080</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Ethnology&amp;rft.atitle=Residence+Rules+and+Ultimogeniture+in+Tlaxcala+and+Mesoamerica&amp;rft.volume=36&amp;rft.issue=2&amp;rft.pages=149-171&amp;rft.date=1997-01-01&amp;rft_id=info%3Adoi%2F10.2307%2F3774080&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F3774080&amp;rft.aulast=Robichaux&amp;rft.aufirst=David+Luke&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExtended+family" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Bulik, B. (2010). We Are Family-And More Of Us Are Living Under One Roof. (Cover story). Advertising Age, 81(30), 1-20.</span>
+</li>
+<li id="cite_note-Browne,_Ken_2011_p._107-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Browne,_Ken_2011_p._107_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Browne,_Ken_2011_p._107_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Browne, Ken (2011). Introduction to Sociology. p. 107 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7456-5008-2" title="Special:BookSources/0-7456-5008-2">0-7456-5008-2</a>.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Pillitteri, Adele (2009). Maternal and Child Health Nursing: Care of the Childbearing and Childrearing Family. p. 42 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-58255-999-6" title="Special:BookSources/1-58255-999-6">1-58255-999-6</a>.</span>
+</li>
+<li id="cite_note-pewsocialtrends-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-pewsocialtrends_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pewsocialtrends.org/2010/03/18/the-return-of-the-multi-generational-family-household/">"The Return of the Multi-Generational Family Household &#124; Pew Research Center's Social &amp; Demographic Trends Project"</a>. pewsocialtrends.org. 2010-03-18<span class="reference-accessdate">. Retrieved <span class="nowrap">August 8,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Return+of+the+Multi-Generational+Family+Household+%26%23124%3B+Pew+Research+Center%27s+Social+%26amp%3B+Demographic+Trends+Project&amp;rft.pub=pewsocialtrends.org&amp;rft.date=2010-03-18&amp;rft_id=http%3A%2F%2Fwww.pewsocialtrends.org%2F2010%2F03%2F18%2Fthe-return-of-the-multi-generational-family-household%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExtended+family" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">It is also said that in an extended family grandfathers and grandmothers take care of the children staying home, mother works in the kitchen and father does the financial work</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Family Types and the Persistence of Regional Disparities in Europe <a rel="nofollow" class="external free" href="http://eprints.lse.ac.uk/33152/1/sercdp0009.pdf">http://eprints.lse.ac.uk/33152/1/sercdp0009.pdf</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Meyerhoff, Michael. Discovery Fit and Health. <i>Understanding Family Structure and Dynamics: The Extended Family</i>. Discovery Communications, LLC. 2012. Web. <a rel="nofollow" class="external autonumber" href="http://health.howstuffworks.com/pregnancy-and-parenting/parenting/understanding-family-structures-and-dynamics-ga2.htm">[1]</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web">Talwar, Swati. <a rel="nofollow" class="external text" href="http://taxpaisa.com/meaning-huf-hindu-undivided-family/">"Meaning of HUF (Hindu Undivided Family)"</a>. Taxpaisa.com<span class="reference-accessdate">. Retrieved <span class="nowrap">June 29,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Meaning+of+HUF+%28Hindu+Undivided+Family%29&amp;rft.pub=Taxpaisa.com&amp;rft.aulast=Talwar&amp;rft.aufirst=Swati&amp;rft_id=http%3A%2F%2Ftaxpaisa.com%2Fmeaning-huf-hindu-undivided-family%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExtended+family" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite id="CITEREFHenry_Orenstein_and_Michael_Micklin1966" class="citation journal">Henry Orenstein and Michael Micklin (1966). "The Hindu Joint Family: The Norms and the Numbers". <i>Pacific Affairs</i>. <b>39</b> (3/4): 314–325. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.2307%2F2754275">10.2307/2754275</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/2754275">2754275</a>. <q>Autumn, 1966</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Pacific+Affairs&amp;rft.atitle=The+Hindu+Joint+Family%3A+The+Norms+and+the+Numbers&amp;rft.volume=39&amp;rft.issue=3%2F4&amp;rft.pages=314-325&amp;rft.date=1966&amp;rft_id=info%3Adoi%2F10.2307%2F2754275&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F2754275&amp;rft.au=Henry+Orenstein+and+Michael+Micklin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExtended+family" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation book">Cherlin, Andrew J. (2010). <i>Public and Private families</i>. McGraw Hill.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Public+and+Private+families&amp;rft.pub=McGraw+Hill&amp;rft.date=2010&amp;rft.aulast=Cherlin&amp;rft.aufirst=Andrew+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExtended+family" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.usnews.com/money/blogs/the-best-life/2010/03/21/surge-in-multigenerational-households-.html">Surge in Multigenerational Households</a>, <i>U.S. News</i> (March 21, 2010).</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Lee, Y., &amp; Blitz, L. V. (2016). "We’re GRAND: a qualitative design and development pilot project
+addressing the needs and strengths of grandparents raising grandchildren. Child &amp; Family Social Work, 21(4), 381–390." <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1111%2Fcfs.12153">10.1111/cfs.12153</a></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Cox, Carole. B.(2000). "To Grandmother's House We Go And Stay: Perspectives on Custodial Grandparents."<a rel="nofollow" class="external autonumber" href="http://www.web.a.ebscohost.com.ezproxy.umsl.edu/ehost/ebookviewer/ebook/ZTAwMHhuYV9fMjU3NDE0X19BTg2?sid=edb920de-bab1-4816-b71d-7c31a211fc1c@sdc-v-sessmgr01&amp;vid=0&amp;format=EB&amp;rid=1">[2]</a></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Bronson, Po. Multiple Generation/Extended Family Households. <i>The Factbook: eye-opening memos on everything family.</i> 2000 <a rel="nofollow" class="external autonumber" href="http://www.pobronson.com/factbook/pages/41.html">[3]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170718193601/http://www.pobronson.com/factbook/pages/41.html">Archived</a> 2017-07-18 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://ssrn.com/abstract=1532243">When is a Parent's Authority Apparent? Reconsidering Third Party Consent Searches of an Adult Child's Private Bedroom and Property</a>, <i>Criminal Justice</i>, Vol. 24, pp. 34–37, Winter 2010.</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">The Family on the Threshold of the 21st Century: Trends and Implications  By Solly Dreman</span>
+</li>
+<li id="cite_note-Lomnitz-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-Lomnitz_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Lomnitz_21-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Lomnitz, Larissa A.; Perez-Lizaur, Marisol (2003). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=H86sRSfV6oMC&amp;pg=PA377">"Dynastic Growth and Survival Strategies: The Solidarity of Mexican Grand Families"</a>.  In Cheal, David (ed.). <i>Family: Critical Concepts in Sociology</i>. Psychology Press. p.&#160;377. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0415226325" title="Special:BookSources/978-0415226325"><bdi>978-0415226325</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 13,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Dynastic+Growth+and+Survival+Strategies%3A+The+Solidarity+of+Mexican+Grand+Families&amp;rft.btitle=Family%3A+Critical+Concepts+in+Sociology&amp;rft.pages=377&amp;rft.pub=Psychology+Press&amp;rft.date=2003&amp;rft.isbn=978-0415226325&amp;rft.aulast=Lomnitz&amp;rft.aufirst=Larissa+A.&amp;rft.au=Perez-Lizaur%2C+Marisol&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DH86sRSfV6oMC%26pg%3DPA377&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExtended+family" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation book">Jelin, Elizabeth (1991). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=JEOaAAAAIAAJ"><i>Family, Household and Gender Relations in Latin America</i></a>. Kegan Paul International. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-9231026577" title="Special:BookSources/978-9231026577"><bdi>978-9231026577</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Family%2C+Household+and+Gender+Relations+in+Latin+America&amp;rft.pub=Kegan+Paul+International&amp;rft.date=1991&amp;rft.isbn=978-9231026577&amp;rft.aulast=Jelin&amp;rft.aufirst=Elizabeth&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DJEOaAAAAIAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExtended+family" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation book">Willis, Katie; Mcilwaine, Cathy (2014). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=VUGgBAAAQBAJ&amp;pg=PT69"><i>Challenges and Change in Middle America: Perspectives on Development in Mexico, Central America and the Caribbean</i></a>. Routledge. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1317876885" title="Special:BookSources/978-1317876885"><bdi>978-1317876885</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Challenges+and+Change+in+Middle+America%3A+Perspectives+on+Development+in+Mexico%2C+Central+America+and+the+Caribbean&amp;rft.pub=Routledge&amp;rft.date=2014&amp;rft.isbn=978-1317876885&amp;rft.aulast=Willis&amp;rft.aufirst=Katie&amp;rft.au=Mcilwaine%2C+Cathy&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DVUGgBAAAQBAJ%26pg%3DPT69&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExtended+family" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation journal">Gerstel, N (2011). "Rethinking Families and Community: The Color, Class, and Centrality of Extended Kin Ties". <i>Sociological Forum</i>. <b>26</b> (1): 1–20. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1111%2Fj.1573-7861.2010.01222.x">10.1111/j.1573-7861.2010.01222.x</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Sociological+Forum&amp;rft.atitle=Rethinking+Families+and+Community%3A+The+Color%2C+Class%2C+and+Centrality+of+Extended+Kin+Ties&amp;rft.volume=26&amp;rft.issue=1&amp;rft.pages=1-20&amp;rft.date=2011&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1573-7861.2010.01222.x&amp;rft.aulast=Gerstel&amp;rft.aufirst=N&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExtended+family" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">Gerstel, N. (2011). Rethinking Families and Community: The Color, Class, and Centrality of Extended Kin Ties. <i>Sociological Forum</i>, 26(1), 1-20. doi:10.1111/ j.1573-7861.2010.01222.x</span>
+</li>
+<li id="cite_note-Metcalf,_E._R._2010-26"><span class="mw-cite-backlink">^ <a href="#cite_ref-Metcalf,_E._R._2010_26-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Metcalf,_E._R._2010_26-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Metcalf, E. R. (2010). "The Family That Stays Together". <i>Saturday Evening Post</i>. <b>282</b> (1): 39.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Saturday+Evening+Post&amp;rft.atitle=The+Family+That+Stays+Together&amp;rft.volume=282&amp;rft.issue=1&amp;rft.pages=39&amp;rft.date=2010&amp;rft.aulast=Metcalf&amp;rft.aufirst=E.+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExtended+family" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bulik, B (2010). "We Are Family-And More Of Us Are Living Under One Roof. (Cover story)". <i>Advertising Age</i>. <b>81</b> (30): 1–20.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Advertising+Age&amp;rft.atitle=We+Are+Family-And+More+Of+Us+Are+Living+Under+One+Roof.+%28Cover+story%29&amp;rft.volume=81&amp;rft.issue=30&amp;rft.pages=1-20&amp;rft.date=2010&amp;rft.aulast=Bulik&amp;rft.aufirst=B&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExtended+family" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div>
+<div role="navigation" class="navbox" aria-labelledby="Family" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Family" title="Template:Family"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Family" title="Template talk:Family"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Family&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Family" style="font-size:114%;margin:0 4em"><a href="/wiki/Family" title="Family">Family</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_History&amp;#10;*_Household&amp;#10;*_Nuclear_family&amp;#10;*_Extended_family&amp;#10;*_Conjugal_family&amp;#10;*_Immediate_family&amp;#10;*_Matrifocal_family&amp;#10;*_Stepfamily&amp;#10;*_Dysfunctional_family&amp;#10;*_Polyfidelitous_families">
+<ul><li><a href="/wiki/History_of_the_family" title="History of the family">History</a></li>
+<li><a href="/wiki/Household" title="Household">Household</a></li>
+<li><a href="/wiki/Nuclear_family" title="Nuclear family">Nuclear family</a></li>
+<li><a class="mw-selflink selflink">Extended family</a></li>
+<li><a href="/wiki/Conjugal_family" title="Conjugal family">Conjugal family</a></li>
+<li><a href="/wiki/Immediate_family" title="Immediate family">Immediate family</a></li>
+<li><a href="/wiki/Matrifocal_family" title="Matrifocal family">Matrifocal family</a></li>
+<li><a href="/wiki/Stepfamily" title="Stepfamily">Stepfamily</a></li>
+<li><a href="/wiki/Dysfunctional_family" title="Dysfunctional family">Dysfunctional family</a></li>
+<li><a href="/wiki/Polyfidelity" title="Polyfidelity">Polyfidelitous families</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/First-degree_relatives" title="First-degree relatives">First-degree relatives</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Parent" title="Parent">Parent</a>
+<ul><li><a href="/wiki/Father" title="Father">father</a></li>
+<li><a href="/wiki/Mother" title="Mother">mother</a></li></ul></li>
+<li><a href="/wiki/Child" title="Child">Child</a>
+<ul><li><a href="/wiki/Son" title="Son">son</a></li>
+<li><a href="/wiki/Daughter" title="Daughter">daughter</a></li></ul></li>
+<li><a href="/wiki/Sibling" title="Sibling">Sibling</a>
+<ul><li><a href="/wiki/Brother" title="Brother">brother</a></li>
+<li><a href="/wiki/Sister" title="Sister">sister</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Second-degree_relative" title="Second-degree relative">Second-degree relatives</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Grandparent" title="Grandparent">Grandparent</a></li>
+<li><a href="/wiki/Grandchild" class="mw-redirect" title="Grandchild">Grandchild</a></li>
+<li><a href="/wiki/Aunt" title="Aunt">Aunt</a></li>
+<li><a href="/wiki/Uncle" title="Uncle">Uncle</a></li>
+<li><a href="/wiki/Niece_and_nephew" title="Niece and nephew">Niece and nephew</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Third-degree_relative" title="Third-degree relative">Third-degree relatives</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Great-grandparent" class="mw-redirect" title="Great-grandparent">Great-grandparent</a></li>
+<li><a href="/wiki/Great-grandchild" class="mw-redirect" title="Great-grandchild">Great-grandchild</a></li>
+<li><a href="/wiki/Niece_and_nephew" title="Niece and nephew">Grandnephew and grandniece</a></li>
+<li><a href="/wiki/Uncle" title="Uncle">Great-Uncle</a></li>
+<li><a href="/wiki/Aunt" title="Aunt">Great-Aunt</a></li>
+<li><a href="/wiki/Cousin" title="Cousin">Cousin</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Affinity_(law)" title="Affinity (law)">Family-in-law</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Spouse" title="Spouse">Spouse</a>
+<ul><li><a href="/wiki/Wife" title="Wife">wife</a></li>
+<li><a href="/wiki/Husband" title="Husband">husband</a></li></ul></li>
+<li><a href="/wiki/Parent-in-law" title="Parent-in-law">Parents-in-law</a></li>
+<li><a href="/wiki/Sibling-in-law" title="Sibling-in-law">Siblings-in-law</a></li>
+<li><a href="/wiki/Son-in-law" class="mw-redirect" title="Son-in-law">Son-in-law</a></li>
+<li><a href="/wiki/Daughter-in-law" class="mw-redirect" title="Daughter-in-law">Daughter-in-law</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Stepfamily" title="Stepfamily">Stepfamily</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Stepfather" title="Stepfather">Stepfather</a></li>
+<li><a href="/wiki/Stepmother" title="Stepmother">Stepmother</a></li>
+<li><a href="/wiki/Stepchild" title="Stepchild">Stepchild</a></li>
+<li><a href="/wiki/Stepsibling" title="Stepsibling">Stepsibling</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Kinship_terminology" title="Kinship terminology">Kinship terminology</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kinship" title="Kinship">Kinship</a></li>
+<li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal kinship</a></li>
+<li><a href="/wiki/Adoption" title="Adoption">Adoption</a></li>
+<li><a href="/wiki/Affinity_(law)" title="Affinity (law)">Affinity</a></li>
+<li><a href="/wiki/Consanguinity" title="Consanguinity">Consanguinity</a></li>
+<li><a href="/wiki/Disownment" title="Disownment">Disownment</a></li>
+<li><a href="/wiki/Divorce" title="Divorce">Divorce</a></li>
+<li><a href="/wiki/Family_estrangement" title="Family estrangement">Estrangement</a></li>
+<li><a href="/wiki/Fictive_kinship" title="Fictive kinship">Fictive kinship</a></li>
+<li><a href="/wiki/Marriage" title="Marriage">Marriage</a></li>
+<li><a href="/wiki/Nurture_kinship" title="Nurture kinship">Nurture kinship</a></li>
+<li><a href="/wiki/Hawaiian_kinship" title="Hawaiian kinship">Hawaiian kinship</a></li>
+<li><a href="/wiki/Sudanese_kinship" title="Sudanese kinship">Sudanese kinship</a></li>
+<li><a href="/wiki/Eskimo_kinship" title="Eskimo kinship">Eskimo kinship</a></li>
+<li><a href="/wiki/Iroquois_kinship" title="Iroquois kinship">Iroquois kinship</a></li>
+<li><a href="/wiki/Crow_kinship" title="Crow kinship">Crow kinship</a></li>
+<li><a href="/wiki/Omaha_kinship" title="Omaha kinship">Omaha kinship</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ancestor" title="Ancestor">Lineage</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bilateral_descent" title="Bilateral descent">Bilateral descent</a></li>
+<li><a href="/wiki/Most_recent_common_ancestor" title="Most recent common ancestor">Common ancestor</a></li>
+<li><a href="/wiki/Surname" title="Surname">Family name</a></li>
+<li><a href="/wiki/Family_tree" title="Family tree">Family tree</a></li>
+<li><a href="/wiki/Genealogy" title="Genealogy">Genealogy</a></li>
+<li><a href="/wiki/Heirloom" title="Heirloom">Heirloom</a></li>
+<li><a href="/wiki/Heredity" title="Heredity">Heredity</a></li>
+<li><a href="/wiki/Inheritance" title="Inheritance">Inheritance</a></li>
+<li><a href="/wiki/Lineal_descendant" title="Lineal descendant">Lineal descendant</a></li>
+<li><a href="/wiki/Matrilineality" title="Matrilineality">Matrilineality</a></li>
+<li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineality</a></li>
+<li><a href="/wiki/Pedigree_chart" title="Pedigree chart">Pedigree chart</a></li>
+<li><a href="/wiki/Progenitor" title="Progenitor">Progenitor</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Relationships</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Agape" title="Agape">Agape (parental love)</a></li>
+<li><a href="/wiki/Eros_(concept)" title="Eros (concept)">Eros (marital love)</a></li>
+<li><a href="/wiki/Filial_piety" title="Filial piety">Filial piety</a></li>
+<li><a href="/wiki/Storge" title="Storge">Storge (familial love)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Holidays</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mother%27s_Day" title="Mother&#39;s Day">Mother's Day</a>
+<ul><li><a href="/wiki/Mother%27s_Day_(United_States)" title="Mother&#39;s Day (United States)">U.S.</a></li></ul></li>
+<li><a href="/wiki/Father%27s_Day" title="Father&#39;s Day">Father's Day</a></li>
+<li><a href="/wiki/Father-Daughter_Day" class="mw-redirect" title="Father-Daughter Day">Father-Daughter Day</a></li>
+<li><a href="/wiki/Siblings_Day" title="Siblings Day">Siblings Day</a></li>
+<li><a href="/wiki/National_Grandparents_Day" title="National Grandparents Day">National Grandparents Day</a></li>
+<li><a href="/wiki/Parents%27_Day" title="Parents&#39; Day">Parents' Day</a></li>
+<li><a href="/wiki/Children%27s_Day" title="Children&#39;s Day">Children's Day</a></li>
+<li><a href="/wiki/Family_Day" title="Family Day">Family Day</a>
+<ul><li><a href="/wiki/Family_Day_(Canada)" title="Family Day (Canada)">Canada</a></li></ul></li>
+<li><a href="/wiki/American_Family_Day" title="American Family Day">American Family Day</a></li>
+<li><a href="/wiki/National_Family_Week" title="National Family Week">National Family Week</a>
+<ul><li><a href="/wiki/National_Family_Week_(UK)" title="National Family Week (UK)">UK</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wedding_anniversary" title="Wedding anniversary">Wedding anniversary</a></li>
+<li><a href="/wiki/Sociology_of_the_family" title="Sociology of the family">Sociology of the family</a></li>
+<li><a href="/wiki/Museum_of_Motherhood" title="Museum of Motherhood">Museum of Motherhood</a></li>
+<li><a href="/wiki/Incest" title="Incest">Incest</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Accommodation" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Accommodation" title="Template:Accommodation"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/w/index.php?title=Template_talk:Accommodation&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Accommodation (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Accommodation&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Accommodation" style="font-size:114%;margin:0 4em"><a href="/wiki/Dwelling" title="Dwelling">Accommodation</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Type</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/House" title="House">House</a></li>
+<li><a href="/wiki/Lodging" title="Lodging">Lodging</a></li>
+<li><a href="/wiki/Habitual_residence" title="Habitual residence">Habitual residence</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Arrangements</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Roomsharing" title="Roomsharing">Roomsharing</a></li>
+<li><a href="/wiki/Roommate" title="Roommate">Roommate</a></li>
+<li><a href="/wiki/Cohabitation" title="Cohabitation">Cohabitation</a></li>
+<li><a href="/wiki/Recluse" title="Recluse">Recluse</a></li>
+<li><a href="/wiki/Solitude" title="Solitude">Solitude</a></li>
+<li><a href="/wiki/Parasite_single" title="Parasite single">Parasite single</a></li>
+<li><a href="/wiki/Nuclear_family" title="Nuclear family">Nuclear family</a></li>
+<li><a href="/wiki/Group_home" title="Group home">Group home</a></li>
+<li><a href="/wiki/Housing_cooperative" title="Housing cooperative">Housing cooperative</a></li>
+<li><a class="mw-selflink selflink">Extended family</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Lacking</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Homelessness" title="Homelessness">Homelessness</a></li>
+<li><a href="/wiki/Squatting" title="Squatting">Squatting</a></li>
+<li><a href="/wiki/No_fixed_abode" title="No fixed abode">No fixed abode</a></li>
+<li><a href="/wiki/Street_children" title="Street children">Street children</a></li>
+<li><a href="/wiki/Runaway_(dependent)" title="Runaway (dependent)">Runaway (dependent)</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Parenting" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Parenting" title="Template:Parenting"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Parenting" title="Template talk:Parenting"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Parenting&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Parenting" style="font-size:114%;margin:0 4em"><a href="/wiki/Parenting" title="Parenting">Parenting</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Kinship_terminology" title="Kinship terminology">Kinship terminology</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Adoption" title="Adoption">Adoptive</a></li>
+<li><a href="/wiki/Alloparenting" title="Alloparenting">Alloparenting</a></li>
+<li><a href="/wiki/Coparenting" title="Coparenting">Coparenting</a></li>
+<li><a class="mw-selflink selflink">Extended family</a></li>
+<li><a href="/wiki/Foster_care" title="Foster care">Foster care</a></li>
+<li><a href="/wiki/Kommune_1" title="Kommune 1">Kommune 1</a></li>
+<li><a href="/wiki/Noncustodial_parent" title="Noncustodial parent">Noncustodial</a></li>
+<li><a href="/wiki/Nuclear_family" title="Nuclear family">Nuclear family</a></li>
+<li><a href="/wiki/Orphan" title="Orphan">Orphaned</a></li>
+<li><a href="/wiki/Shared_parenting" title="Shared parenting">Shared parenting</a></li>
+<li><a href="/wiki/Single_parent" title="Single parent">Single parent</a></li>
+<li><a href="/wiki/Stepfamily" title="Stepfamily">Blended family</a></li>
+<li><a href="/wiki/Surrogacy" title="Surrogacy">Surrogacy</a></li>
+<li><i><a href="/wiki/In_loco_parentis" title="In loco parentis">In loco parentis</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Theories&#160;<b>·</b> Areas</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Attachment_theory" title="Attachment theory">Attachment theory</a></li>
+<li><a href="/wiki/Applied_behavior_analysis" title="Applied behavior analysis">Applied behavior analysis</a></li>
+<li><a href="/wiki/Behaviorism" title="Behaviorism">Behaviorism</a></li>
+<li><a href="/wiki/Child_development" title="Child development">Child development</a></li>
+<li><a href="/wiki/Cognitive_development" title="Cognitive development">Cognitive development</a></li>
+<li><a href="/wiki/Developmental_psychology" title="Developmental psychology">Developmental psychology</a></li>
+<li><a href="/wiki/Development_of_the_human_body" title="Development of the human body">Human development</a></li>
+<li><a href="/wiki/Love" title="Love">Love</a></li>
+<li><a href="/wiki/Maternal_bond" title="Maternal bond">Maternal bond</a></li>
+<li><a href="/wiki/Nature_versus_nurture" title="Nature versus nurture">Nature versus nurture</a></li>
+<li><a href="/wiki/Parental_investment" title="Parental investment">Parental investment</a></li>
+<li><a href="/wiki/Paternal_bond" title="Paternal bond">Paternal bond</a></li>
+<li><a href="/wiki/Pediatrics" title="Pediatrics">Pediatrics</a></li>
+<li><a href="/wiki/Social_psychology" title="Social psychology">Social psychology</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Parenting_styles" title="Parenting styles">Styles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Attachment_parenting" title="Attachment parenting">Attachment parenting</a></li>
+<li><a href="/wiki/Baby_talk" title="Baby talk">Baby talk</a></li>
+<li><a href="/wiki/Concerted_cultivation" title="Concerted cultivation">Concerted cultivation</a></li>
+<li><a href="/wiki/Gatekeeper_parent" title="Gatekeeper parent">Gatekeeper parent</a></li>
+<li><a href="/wiki/Helicopter_parent" title="Helicopter parent">Helicopter parent</a></li>
+<li><a href="/wiki/Nurturant_parent_model" title="Nurturant parent model">Nurturant parenting</a></li>
+<li><a href="/wiki/Slow_parenting" title="Slow parenting">Slow parenting</a></li>
+<li><a href="/wiki/Soccer_mom" title="Soccer mom">Soccer mom</a></li>
+<li><a href="/wiki/Strict_father_model" title="Strict father model">Strict father model</a></li>
+<li><a href="/wiki/Taking_children_seriously" class="mw-redirect" title="Taking children seriously">Taking children seriously</a></li>
+<li><a href="/wiki/Tiger_parenting" title="Tiger parenting">Tiger parenting</a></li>
+<li><a href="/wiki/Work_at_home_parent" title="Work at home parent">Work at home parent</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Techniques</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/After-school_activity" title="After-school activity">After-school activity</a></li>
+<li><a href="/wiki/Allowance_(money)#Allowances_for_children" title="Allowance (money)">Allowance</a></li>
+<li><a href="/wiki/Bedtime" title="Bedtime">Bedtime</a></li>
+<li><a href="/wiki/Child_care" title="Child care">Child care</a></li>
+<li><a href="/wiki/Co-sleeping" title="Co-sleeping">Co-sleeping</a></li>
+<li><a href="/wiki/Homeschooling" title="Homeschooling">Homeschooling</a></li>
+<li><a href="/wiki/Latchkey_kid" title="Latchkey kid">Latchkey kid</a></li>
+<li><a href="/wiki/Parent_management_training" title="Parent management training">Parent management training</a></li>
+<li><a href="/wiki/Play_(activity)" title="Play (activity)">Play</a>&#160;(<a href="/wiki/Play_date" title="Play date">date</a>)</li>
+<li><a href="/wiki/Role_model" title="Role model">Role model</a></li>
+<li><a href="/wiki/Spoiled_child" title="Spoiled child">Spoiled child</a></li>
+<li><a href="/wiki/Social_aspects_of_television" title="Social aspects of television">Television</a></li>
+<li><a href="/wiki/Toy" title="Toy">Toy</a>&#160;(<a href="/wiki/Educational_toy" title="Educational toy">educational</a>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Child_discipline" title="Child discipline">Child discipline</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Blanket_training" title="Blanket training">Blanket training</a></li>
+<li><a href="/wiki/Corporal_punishment_in_the_home" title="Corporal punishment in the home">Corporal punishment in the home</a></li>
+<li><a href="/wiki/Curfew" title="Curfew">Curfew</a></li>
+<li><a href="/wiki/Grounding_(discipline_technique)" title="Grounding (discipline technique)">Grounding</a></li>
+<li><a href="/wiki/Silent_treatment" title="Silent treatment">Tactical ignoring</a></li>
+<li><a href="/wiki/Time-out_(parenting)" title="Time-out (parenting)">Time-out</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Abuse</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Child_abandonment" title="Child abandonment">Child abandonment</a></li>
+<li><a href="/wiki/Child_abuse" title="Child abuse">Child abuse</a></li>
+<li><a href="/wiki/Child_labour" title="Child labour">Child labour</a></li>
+<li><a href="/wiki/Child_neglect" title="Child neglect">Child neglect</a></li>
+<li><a href="/wiki/Cinderella_effect" title="Cinderella effect">Cinderella effect</a></li>
+<li><a href="/wiki/Incest" title="Incest">Incest</a></li>
+<li><a href="/wiki/Narcissistic_parent" title="Narcissistic parent">Narcissistic parent</a></li>
+<li><a href="/wiki/Parental_abuse_by_children" title="Parental abuse by children">Parental abuse by children</a></li>
+<li><a href="/wiki/Parental_alienation" title="Parental alienation">Parental alienation</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Legal and social<br />aspects</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Child_custody" title="Child custody">Child custody</a></li>
+<li><a href="/wiki/Child_support" title="Child support">Child support</a></li>
+<li><a href="/wiki/Cost_of_raising_a_child" title="Cost of raising a child">Cost of raising a child</a></li>
+<li><a href="/wiki/Deadbeat_parent" title="Deadbeat parent">Deadbeat parent</a></li>
+<li><a href="/wiki/Disownment" title="Disownment">Disownment</a></li>
+<li><a href="/wiki/Marriage" title="Marriage">Marriage</a></li>
+<li><a href="/wiki/Parental_responsibility_(access_and_custody)" title="Parental responsibility (access and custody)">Parental responsibility</a></li>
+<li><a href="/wiki/Paternity_law" title="Paternity law">Paternity</a></li>
+<li><a href="/wiki/Shared_parenting" title="Shared parenting">Shared parenting</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Experts</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/T._Berry_Brazelton" title="T. Berry Brazelton">T. Berry Brazelton</a></li>
+<li><a href="/wiki/Tanya_Byron" title="Tanya Byron">Tanya Byron</a></li>
+<li><a href="/wiki/Bryan_Caplan" title="Bryan Caplan">Bryan Caplan</a></li>
+<li><a href="/wiki/Rudolf_Dreikurs" title="Rudolf Dreikurs">Rudolf Dreikurs</a></li>
+<li><a href="/wiki/David_Elkind" title="David Elkind">David Elkind</a></li>
+<li><a href="/wiki/Jo_Frost" title="Jo Frost">Jo Frost</a></li>
+<li><a href="/wiki/Haim_Ginott" title="Haim Ginott">Haim Ginott</a></li>
+<li><a href="/wiki/Thomas_Gordon_(psychologist)" title="Thomas Gordon (psychologist)">Thomas Gordon</a></li>
+<li><a href="/wiki/Alan_E._Kazdin" title="Alan E. Kazdin">Alan E. Kazdin</a></li>
+<li><a href="/wiki/Truby_King" title="Truby King">Truby King</a></li>
+<li><a href="/wiki/Edward_Kruk" title="Edward Kruk">Edward Kruk</a></li>
+<li><a href="/wiki/Annette_Lareau" title="Annette Lareau">Annette Lareau</a></li>
+<li><a href="/wiki/Penelope_Leach" title="Penelope Leach">Penelope Leach</a></li>
+<li><a href="/wiki/Madeline_Levine" title="Madeline Levine">Madeline Levine</a></li>
+<li><a href="/wiki/Linda_Nielsen" title="Linda Nielsen">Linda Nielsen</a></li>
+<li><a href="/wiki/William_Sears_(physician)" title="William Sears (physician)">William Sears</a></li>
+<li><a href="/wiki/B._F._Skinner" title="B. F. Skinner">B. F. Skinner</a></li>
+<li><a href="/wiki/Benjamin_Spock" title="Benjamin Spock">Benjamin Spock</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Books</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/The_Common_Sense_Book_of_Baby_and_Child_Care" title="The Common Sense Book of Baby and Child Care">Baby and Child Care</a></i></li>
+<li><i><a href="/wiki/Parenting_for_Everyone" title="Parenting for Everyone">Parenting for Everyone</a></i></li>
+<li><i><a href="/wiki/Real_Boys" title="Real Boys">Real Boys</a></i></li>
+<li><i><a href="/wiki/Strong_Fathers,_Strong_Daughters" title="Strong Fathers, Strong Daughters">Strong Fathers, Strong Daughters</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Organizations</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Families_Need_Fathers" title="Families Need Fathers">Families Need Fathers</a></li>
+<li><a href="/wiki/Mothers_Apart_from_Their_Children" title="Mothers Apart from Their Children">Mothers Apart from Their Children</a></li>
+<li><a href="/wiki/Mothers%27_Union" title="Mothers&#39; Union">Mothers' Union</a></li>
+<li><a href="/wiki/National_Childbirth_Trust" title="National Childbirth Trust">National Childbirth Trust</a></li>
+<li><a href="/wiki/National_Parents_Organization" title="National Parents Organization">National Parents Organization</a></li>
+<li><a href="/wiki/Parent%E2%80%93teacher_association" title="Parent–teacher association">Parent–teacher association</a></li>
+<li><a href="/wiki/Parents_Against_Child_Sexual_Exploitation" title="Parents Against Child Sexual Exploitation">Parents Against Child Sexual Exploitation</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1280
+Cached time: 20191002212055
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.524 seconds
+Real time usage: 0.665 seconds
+Preprocessor visited node count: 3075/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 98814/2097152 bytes
+Template argument size: 6747/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 9/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 49907/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.231/10.000 seconds
+Lua memory usage: 5.82 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  574.005      1 -total
+ 50.32%  288.860      1 Template:Reflist
+ 15.10%   86.655      5 Template:Cite_journal
+ 13.48%   77.394      3 Template:ISBN
+ 12.96%   74.403      3 Template:Clarify
+ 11.55%   66.322      3 Template:Fix-span
+ 11.43%   65.617      7 Template:Fix
+ 10.62%   60.962     18 Template:Category_handler
+ 10.32%   59.255      5 Template:Cite_book
+  8.85%   50.777     10 Template:Delink
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:247274-0!canonical and timestamp 20191002212056 and revision id 919284037
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Extended_family&amp;oldid=919284037">https://en.wikipedia.org/w/index.php?title=Extended_family&amp;oldid=919284037</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Family" title="Category:Family">Family</a></li><li><a href="/wiki/Category:Living_arrangements" title="Category:Living arrangements">Living arrangements</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_May_2014" title="Category:Wikipedia articles needing clarification from May 2014">Wikipedia articles needing clarification from May 2014</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2013" title="Category:Articles with unsourced statements from December 2013">Articles with unsourced statements from December 2013</a></li><li><a href="/wiki/Category:Vague_or_ambiguous_geographic_scope_from_May_2014" title="Category:Vague or ambiguous geographic scope from May 2014">Vague or ambiguous geographic scope from May 2014</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2007" title="Category:Articles with unsourced statements from February 2007">Articles with unsourced statements from February 2007</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2013" title="Category:Articles with unsourced statements from June 2013">Articles with unsourced statements from June 2013</a></li><li><a href="/wiki/Category:Articles_with_limited_geographic_scope_from_April_2018" title="Category:Articles with limited geographic scope from April 2018">Articles with limited geographic scope from April 2018</a></li><li><a href="/wiki/Category:All_articles_with_vague_or_ambiguous_time" title="Category:All articles with vague or ambiguous time">All articles with vague or ambiguous time</a></li><li><a href="/wiki/Category:Vague_or_ambiguous_time_from_May_2014" title="Category:Vague or ambiguous time from May 2014">Vague or ambiguous time from May 2014</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Extended+family" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Extended+family" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Extended_family" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Extended_family" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Extended_family">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Extended_family&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Extended_family&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Extended_family" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Extended_family" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Extended_family&amp;oldid=919284037" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Extended_family&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q721790" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Extended_family&amp;id=919284037" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Families" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Extended+family">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Extended+family&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Extended_family&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Grossfamilie" title="Grossfamilie – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D8%A9_%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%AF%D8%A9" title="الأسرة الممتدة – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Familia_estensa" title="Familia estensa – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%9A%D0%B8%D2%A3%D3%99%D0%B9%D1%82%D0%B5%D0%BB%D0%B3%D3%99%D0%BD_%D2%93%D0%B0%D0%B8%D0%BB%D3%99" title="Киңәйтелгән ғаилә – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li><li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%9C%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%A4_%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0" title="संजुक्त परिवार – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Teulu_estynedig" title="Teulu estynedig – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Storfamilie" title="Storfamilie – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Gro%C3%9Ffamilie" title="Großfamilie – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Familia_extensa" title="Familia extensa – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Etenda_familio" title="Etenda familio – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%88%D8%A7%D8%AF%D9%87_%DA%AF%D8%B3%D8%AA%D8%B1%D8%AF%D9%87" title="خانواده گسترده – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Famille_%C3%A9largie" title="Famille élargie – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Familia_extensa" title="Familia extensa – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Pro%C5%A1irena_obitelj" title="Proširena obitelj – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Keluarga_besar" title="Keluarga besar – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/St%C3%B3rfj%C3%B6lskylda" title="Stórfjölskylda – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Famiglia_estesa" title="Famiglia estesa – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%9A%D3%A9%D0%BF_%D0%B1%D0%B0%D0%BB%D0%B0%D0%BB%D1%8B_%D0%BE%D1%82%D0%B1%D0%B0%D1%81%D1%8B" title="Көп балалы отбасы – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Familia_pana" title="Familia pana – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%8F%E0%A4%95%E0%A4%A4%E0%A5%8D%E0%A4%B0_%E0%A4%95%E0%A5%81%E0%A4%9F%E0%A5%81%E0%A4%82%E0%A4%AC_%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A5%80" title="एकत्र कुटुंब पद्धती – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/B%C3%B9ng-t%C3%A0u" title="Bùng-tàu – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E5%AE%B6%E7%B3%BB" title="家系 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-or"><a href="https://or.wikipedia.org/wiki/%E0%AC%AF%E0%AD%8C%E0%AC%A5_%E0%AC%AA%E0%AC%B0%E0%AC%BF%E0%AC%AC%E0%AC%BE%E0%AC%B0" title="ଯୌଥ ପରିବାର – Odia" lang="or" hreflang="or" class="interlanguage-link-target">ଓଡ଼ିଆ</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Rodzina_wielopokoleniowa" title="Rodzina wielopokoleniowa – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Fam%C3%ADlia_extensa" title="Família extensa – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B5%D0%BC%D1%8C%D1%8F" title="Расширенная семья – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Extended_family" title="Extended family – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/Pro%C5%A1irena_porodica" title="Proširena porodica – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Suurperhe" title="Suurperhe – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Utvidgad_familj" title="Utvidgad familj – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%BF%E0%AE%B0%E0%AE%BF%E0%AE%A8%E0%AF%8D%E0%AE%A4_%E0%AE%95%E0%AF%81%E0%AE%9F%E0%AF%81%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AE%AE%E0%AF%8D" title="விரிந்த குடும்பம் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%89%E0%B0%AE%E0%B1%8D%E0%B0%AE%E0%B0%A1%E0%B0%BF_%E0%B0%95%E0%B1%81%E0%B0%9F%E0%B1%81%E0%B0%82%E0%B0%AC%E0%B0%82" title="ఉమ్మడి కుటుంబం – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Geni%C5%9F_aile" title="Geniş aile – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B0_%D1%81%D1%96%D0%BC%27%D1%8F" title="Розширена сім&#039;я – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%AA%D9%88%D8%B3%DB%8C%D8%B9_%D8%B4%D8%AF%DB%81_%D8%AE%D8%A7%D9%86%D8%AF%D8%A7%D9%86" title="توسیع شدہ خاندان – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E5%AE%B6%E6%97%8F" title="家族 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%AE%B6%E6%97%8F" title="家族 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q721790#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 2 October 2019, at 21:20<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Extended_family&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.524","walltime":"0.665","ppvisitednodes":{"value":3075,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":98814,"limit":2097152},"templateargumentsize":{"value":6747,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":49907,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  574.005      1 -total"," 50.32%  288.860      1 Template:Reflist"," 15.10%   86.655      5 Template:Cite_journal"," 13.48%   77.394      3 Template:ISBN"," 12.96%   74.403      3 Template:Clarify"," 11.55%   66.322      3 Template:Fix-span"," 11.43%   65.617      7 Template:Fix"," 10.62%   60.962     18 Template:Category_handler"," 10.32%   59.255      5 Template:Cite_book","  8.85%   50.777     10 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.231","limit":"10.000"},"limitreport-memusage":{"value":6104584,"limit":52428800}},"cachereport":{"origin":"mw1280","timestamp":"20191002212055","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Extended family","url":"https:\/\/en.wikipedia.org\/wiki\/Extended_family","sameAs":"http:\/\/www.wikidata.org\/entity\/Q721790","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q721790","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-06-16T09:22:25Z","dateModified":"2019-10-02T21:20:56Z","headline":"family that extends beyond the immediate family"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":97,"wgHostname":"mw1245"});});</script>
+</body>
+</html>

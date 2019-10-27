@@ -1,0 +1,649 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wright - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Wright","wgTitle":"Wright","wgCurRevisionId":922337207,"wgRevisionId":922337207,"wgArticleId":558682,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing potentially dated statements from 2014","All articles containing potentially dated statements","Articles with short description","All set index articles","Surnames","Occupational surnames","English-language surnames","Surnames of English origin"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May",
+"Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wright","wgRelevantArticleId":558682,"wgRequestId":"Xa7vJgpAMFoAAKwwOi8AAABL","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2594455","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready",
+"user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.cite.tracking","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents",
+"ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.2"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Wright"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Wright&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Wright&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Wright"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Wright rootpage-Wright skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Wright</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about the surname. For other uses, see <a href="/wiki/Wright_(disambiguation)" class="mw-disambig" title="Wright (disambiguation)">Wright (disambiguation)</a>.</div>
+<table class="infobox" style="width:22em"><caption>Wright</caption><tbody><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Origin</th></tr><tr><th scope="row">Meaning</th><td>Worker, maker</td></tr><tr><th scope="row">Region of origin</th><td>England</td></tr><tr><td colspan="2" style="text-align:center;border-top: #a2a9b1 1px solid;">Frequency Comparisons<sup id="cite_ref-BDF_1-0" class="reference"><a href="#cite_note-BDF-1">&#91;1&#93;</a></sup></td></tr></tbody></table>
+<p><b>Wright</b> is an <a href="/wiki/Occupational_surname" class="mw-redirect" title="Occupational surname">occupational surname</a> originating in England.<sup id="cite_ref-BDF_1-1" class="reference"><a href="#cite_note-BDF-1">&#91;1&#93;</a></sup> The term 'Wright' comes from the circa 700 AD <a href="/wiki/Old_English" title="Old English">Old English</a> word 'wryhta' or 'wyrhta', meaning worker or shaper of wood. Later it became any occupational worker<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> (for example, a <a href="/wiki/Shipwright" class="mw-redirect" title="Shipwright">shipwright</a> is a person who builds ships), and is used as a British <a href="/wiki/Family_name" class="mw-redirect" title="Family name">family name</a>.
+</p><p>The word's use as an occupational title continued until the mid-19th century, often combined with other words such as in shipwright, <a href="/wiki/Wheelwright" title="Wheelwright">wheelwright</a>,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> <a href="/wiki/Wainwright" title="Wainwright">wainwright</a> and <a href="/wiki/Playwright" title="Playwright">playwright</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> As of 2014<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wright&amp;action=edit">&#91;update&#93;</a></sup><i>, Wright</i> was the eleventh most common surname in England.<sup id="cite_ref-BDF_1-2" class="reference"><a href="#cite_note-BDF-1">&#91;1&#93;</a></sup>
+</p><p>The word <a href="/wiki/Carpenter_(surname)" title="Carpenter (surname)"><i>carpentier</i>, now "carpenter"</a>, was introduced into England in the years after the <a href="/wiki/Norman_conquest_of_England" title="Norman conquest of England">Norman conquest</a> in 1066 and slowly replaced the traditional name and meaning of wright in most of England. 'Wright' is still used in Scottish English in the original meaning of 'skilled woodworker'. The Incorporation of Wrights of the Trades House of Glasgow,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> and the Incorporation of Wrights and Masons of Edinburgh Trades<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> retain the word in its original meaning in their role of promoting the woodworking trade.
+</p><p>Wright is also an <a href="/wiki/Anglicisation" title="Anglicisation">anglicised</a> version of the <a href="/wiki/Scottish_Gaelic" title="Scottish Gaelic">Scots Gaelic</a> <a href="/wiki/Scottish_clan" title="Scottish clan">clan</a> name "<a href="/wiki/MacIntyre" title="MacIntyre">MacIntyre</a>" or "Mac an t-Saoir", meaning "son of the wright" (son of the carpenter).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+In Ireland, the native Gaelic Mac an Cheairt <a href="/wiki/Sept" title="Sept">sept</a> of <a href="/wiki/County_Mayo" title="County Mayo">County Mayo</a> occasionally changed their name to Wright. This is a literal translation meaning, "son of the right or righteous".<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="People_with_the_family_name">People with the family name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wright&amp;action=edit&amp;section=1" title="Edit section: People with the family name">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" id="toc" class="toc plainlinks hlist" aria-label="Contents" style="text-align:left;">
+<div style="margin:auto;white-space:nowrap;display:inline-block;">         
+<ul><li><a href="#A">A</a></li>
+<li><a href="#B">B</a></li>
+<li><a href="#C">C</a></li>
+<li><a href="#D">D</a></li>
+<li><a href="#E">E</a></li>
+<li><a href="#F">F</a></li>
+<li><a href="#G">G</a></li>
+<li><a href="#H">H</a></li>
+<li><a href="#I">I</a></li>
+<li><a href="#J">J</a></li>
+<li><a href="#K">K</a></li>
+<li><a href="#L">L</a></li>
+<li><a href="#M">M</a></li>
+<li><a href="#N">N</a></li>
+<li><a href="#O">O</a></li>
+<li><a href="#P">P</a></li>
+<li><a href="#Q">Q</a></li>
+<li><a href="#R">R</a></li>
+<li><a href="#S">S</a></li>
+<li><a href="#T">T</a></li>
+<li><a href="#V">V</a></li>
+<li><a href="#W">W</a> </li></ul>
+<p class="mw-empty-elt">
+</p>
+<ul><li><a href="#Fictional_entities">Fictional</a></li>
+<li><a href="#See_also">See also</a></li>
+<li><a href="#References">References</a></li></ul>
+</div></div>
+<h3><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wright&amp;action=edit&amp;section=2" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Aaron_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Aaron Wright (disambiguation)">Aaron Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Adam_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Adam Wright (disambiguation)">Adam Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Albert_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Albert Wright (disambiguation)">Albert Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Alexander_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Alexander Wright (disambiguation)">Alexander Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Alex_Wright" title="Alex Wright">Alex Wright</a>, former wrestler</li>
+<li><a href="/wiki/Alex_Wright_(footballer_born_1925)" class="mw-redirect" title="Alex Wright (footballer born 1925)">Alex Wright (footballer born 1925)</a>, Scottish footballer</li>
+<li><a href="/wiki/Alfred_Wright_(missionary)" title="Alfred Wright (missionary)">Alfred Wright (missionary)</a> (1788–1853), American Presbyterian minister, missionary and doctor</li>
+<li><a href="/wiki/Allen_Wright" title="Allen Wright">Allen Wright</a>, Choctaw chief credited with creating the name "Oklahoma"</li>
+<li><a href="/wiki/Almroth_Wright" title="Almroth Wright">Almroth Wright</a>, British bacteriologist</li>
+<li><a href="/wiki/Alonzo_Wright" title="Alonzo Wright">Alonzo Wright</a>, Canadian politician</li>
+<li><a href="/wiki/Ambrose_R._Wright" title="Ambrose R. Wright">Ambrose R. Wright</a>, American Confederate General</li>
+<li><a href="/wiki/Amos_Wright" title="Amos Wright">Amos Wright</a>, Canadian politician</li>
+<li><a href="/wiki/Amy_Wright" title="Amy Wright">Amy Wright</a>, American actress</li>
+<li><a href="/wiki/Amy_Wright_(activist)" title="Amy Wright (activist)">Amy Wright (activist)</a>, American advocate for the disabled</li>
+<li><a href="/wiki/Andrew_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Andrew Wright (disambiguation)">Andrew Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Anthony_Wright_(disambiguation)" class="mw-redirect" title="Anthony Wright (disambiguation)">Anthony Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Antoine_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Antoine Wright (disambiguation)">Antoine Wright (disambiguation)</a>, several people, including:
+<ul><li><a href="/wiki/Antoine_Wright_(basketball)" title="Antoine Wright (basketball)">Antoine Wright (basketball)</a> (born 1984), American basketball player</li>
+<li><a href="/wiki/Antoine_Wright_(politician)" title="Antoine Wright (politician)">Antoine Wright (politician)</a> (born 1960), Vanuatuan politician</li></ul></li>
+<li><a href="/wiki/Aron_Wright" title="Aron Wright">Aron Wright</a> (1810–1885), American physician and educator</li>
+<li><a href="/wiki/Arthur_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Arthur Wright (disambiguation)">Arthur Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/A._Gilbert_Wright" title="A. Gilbert Wright">A. Gilbert Wright</a> (1909–1987), American zoologist</li>
+<li><a href="/wiki/Ashley_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Ashley Wright (disambiguation)">Ashley Wright (disambiguation)</a>, multiple people</li></ul>
+<h3><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wright&amp;action=edit&amp;section=3" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Bailey_Wright" title="Bailey Wright">Bailey Wright</a>, Australian footballer</li>
+<li><a href="/wiki/Barry_Wright" title="Barry Wright">Barry Wright</a>, English footballer</li>
+<li><a href="/wiki/Beals_Wright" title="Beals Wright">Beals Wright</a>, American tennis player</li>
+<li><a href="/wiki/Beatrice_Wright_(psychologist)" title="Beatrice Wright (psychologist)">Beatrice Wright (psychologist)</a>, American Gestalt psychologist and rehabilitation specialist</li>
+<li><a href="/wiki/Ben_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Ben Wright (disambiguation)">Ben Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Bernie_Wright" title="Bernie Wright">Bernie Wright</a>, British footballer and TV personality</li>
+<li><a href="/wiki/Betsey_Wright" title="Betsey Wright">Betsey Wright</a>, American political consultant, lobbyist, and activist</li>
+<li><a href="/wiki/Betty_Wright" title="Betty Wright">Betty Wright</a> (born 1953), American musician</li>
+<li><a href="/wiki/Bill_Wright_(outfielder)" title="Bill Wright (outfielder)">Bill Wright (outfielder)</a> (1914–1996), baseball player</li>
+<li><a href="/wiki/Bill_Wright_(catcher)" title="Bill Wright (catcher)">Bill Wright (catcher)</a>, baseball player</li>
+<li><a href="/wiki/Billy_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Billy Wright (disambiguation)">Billy Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Blanche_Fisher_Wright" title="Blanche Fisher Wright">Blanche Fisher Wright</a>, illustrator</li>
+<li><a href="/wiki/Bob_Wright" title="Bob Wright">Bob Wright</a>, American television businessman and president, CEO, and chairman of NBC</li>
+<li><a href="/wiki/Bonnie_Wright" title="Bonnie Wright">Bonnie Wright</a>, English actress, known for playing Ginny Weasley in Harry Potter Film series.</li>
+<li><a href="/wiki/Brad_Wright" title="Brad Wright">Brad Wright</a>, TV writer</li>
+<li><a href="/wiki/Brad_Wright_(basketball)" title="Brad Wright (basketball)">Brad Wright (basketball)</a> (born 1962), American basketball player</li>
+<li><a href="/wiki/Bradley_Wright-Phillips" title="Bradley Wright-Phillips">Bradley Wright-Phillips</a>, English footballer</li>
+<li><a href="/wiki/Brian_Wright_(rugby_league)" title="Brian Wright (rugby league)">Brian Wright (rugby league)</a>, Australian rugby league player</li>
+<li><a href="/wiki/Brian_Wright_(Scottish_footballer)" title="Brian Wright (Scottish footballer)">Brian Wright (Scottish footballer)</a></li></ul>
+<h3><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wright&amp;action=edit&amp;section=4" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Carl_Wright_(civil_servant)" title="Carl Wright (civil servant)">Carl Wright (civil servant)</a>, British civil servant</li>
+<li><a href="/wiki/Carolyn_Wright_(Chief_Justice)" title="Carolyn Wright (Chief Justice)">Carolyn Wright (Chief Justice)</a>, the Chief Justice of the Fifth Court of Appeals of Texas</li>
+<li><a href="/wiki/Carolyn_D._Wright" title="Carolyn D. Wright">Carolyn D. Wright</a> (1949–2016), American poet</li>
+<li><a href="/wiki/Carroll_D._Wright" title="Carroll D. Wright">Carroll D. Wright</a>, American statistician</li>
+<li><a href="/wiki/Chalky_Wright" title="Chalky Wright">Chalky Wright</a>, Mexican boxer</li>
+<li><a href="/wiki/Charles_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Charles Wright (disambiguation)">Charles Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Chauncey_Wright" title="Chauncey Wright">Chauncey Wright</a>, American philosopher and mathematician</li>
+<li><a href="/wiki/Chely_Wright" title="Chely Wright">Chely Wright</a> (born 1970), American singer</li>
+<li><a href="/wiki/Chris_Wright_(footballer)" title="Chris Wright (footballer)">Chris Wright (footballer)</a>, English footballer</li>
+<li><a href="/wiki/Christopher_B._Wright" title="Christopher B. Wright">Christopher B. Wright</a>, American webcomic writer</li>
+<li><a href="/wiki/Cindy_Wright" title="Cindy Wright">Cindy Wright</a> (born 1972), Belgian artist</li>
+<li><a href="/wiki/Claud_William_Wright" title="Claud William Wright">Claud William Wright</a> (1917–2010), British amateur paleontologist and public servant</li>
+<li><a href="/wiki/Clarissa_Dickson_Wright" title="Clarissa Dickson Wright">Clarissa Dickson Wright</a>, English celebrity chef</li>
+<li><a href="/wiki/Claire_Wright" title="Claire Wright">Claire Wright</a>, British trampolinist</li>
+<li><a href="/wiki/Cliff_Wright" title="Cliff Wright">Cliff Wright</a>, British illustrator</li>
+<li><a href="/wiki/Clyde_Wright" title="Clyde Wright">Clyde Wright</a>, former baseball player</li>
+<li><a href="/wiki/Craig_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Craig Wright (disambiguation)">Craig Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Cobina_Wright" title="Cobina Wright">Cobina Wright</a>, singer, actress, and newspaper columnist</li>
+<li><a href="/wiki/Cobina_Wright_Jr." title="Cobina Wright Jr.">Cobina Wright Jr.</a>, singer and actress</li>
+<li><a href="/wiki/Crispin_Wright" title="Crispin Wright">Crispin Wright</a>, British philosopher</li></ul>
+<h3><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wright&amp;action=edit&amp;section=5" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Dale_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Dale Wright (disambiguation)">Dale Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Dana_Wright" title="Dana Wright">Dana Wright</a> (born 1959), Canadian former hurdler</li>
+<li><a href="/wiki/Daniel_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Daniel Wright (disambiguation)">Daniel Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Dare_Wright" title="Dare Wright">Dare Wright</a>, Canadian children's writer</li>
+<li><a href="/wiki/David_Wright_(disambiguation)" class="mw-disambig" title="David Wright (disambiguation)">David Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Demetrius_Wright" title="Demetrius Wright">Demetrius Wright</a>, American football player</li>
+<li><a href="/wiki/Denny_Wright" title="Denny Wright">Denny Wright</a>, British guitarist</li>
+<li><a href="/wiki/Don_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Don Wright (disambiguation)">Don Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Dorell_Wright" title="Dorell Wright">Dorell Wright</a>, American basketball player</li>
+<li><a href="/wiki/Doug_Wright" title="Doug Wright">Doug Wright</a>, American playwright</li>
+<li><a href="/wiki/Doug_Wright_II" class="mw-redirect" title="Doug Wright II">Doug Wright II</a>, Canadian cartoonist</li>
+<li><a href="/wiki/Doug_Wright_(cricketer)" title="Doug Wright (cricketer)">Doug Wright (cricketer)</a>, English cricketer</li>
+<li><a href="/wiki/Douglas_E._Wright" title="Douglas E. Wright">Douglas E. Wright</a>, Canadian horror writer</li></ul>
+<h3><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wright&amp;action=edit&amp;section=6" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/E._M._Wright" title="E. M. Wright">E. M. Wright</a> (1906–2005), British mathematician and coauthor of the "Hardy &amp; Wright" number theory textbook</li>
+<li><a href="/wiki/Edgar_Wright" title="Edgar Wright">Edgar Wright</a>, English film director</li>
+<li><a href="/wiki/Edward_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Edward Wright (disambiguation)">Edward Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Edwin_M._Wright" title="Edwin M. Wright">Edwin M. Wright</a>, American foreign relations expert</li>
+<li><a href="/wiki/Edythe_Wright" title="Edythe Wright">Edythe Wright</a>, American singer who recorded with the Tommy Dorsey Orchestra</li>
+<li><a href="/wiki/Elizabeth_Oehlkers_Wright" title="Elizabeth Oehlkers Wright">Elizabeth Oehlkers Wright</a>, American translator</li>
+<li><a href="/wiki/Elizur_Wright" title="Elizur Wright">Elizur Wright</a>, abolitionist, American theorist of life insurance</li>
+<li><a href="/wiki/Eric_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Eric Wright (disambiguation)">Eric Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Erik_Olin_Wright" title="Erik Olin Wright">Erik Olin Wright</a> (1947&#8211;2019), American sociologist</li>
+<li><a href="/wiki/Ernest_Vincent_Wright" title="Ernest Vincent Wright">Ernest Vincent Wright</a>, American writer</li>
+<li><a href="/wiki/Ethel_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Ethel Wright (disambiguation)">Ethel Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Eugene_Wright" title="Eugene Wright">Eugene Wright</a> (born 1923), musician</li></ul>
+<h3><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wright&amp;action=edit&amp;section=7" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Farnsworth_Wright" title="Farnsworth Wright">Farnsworth Wright</a> (1888–1940), editor of <i>Weird Tales</i></li>
+<li><a href="/wiki/Fielding_L._Wright" title="Fielding L. Wright">Fielding L. Wright</a>, American politician</li>
+<li><a href="/wiki/Finbar_Wright" title="Finbar Wright">Finbar Wright</a> (born 1957), Irish singer, songwriter, musician and poet</li>
+<li><a href="/wiki/Frances_Wright" title="Frances Wright">Frances Wright</a> (1795–1852), British-American lecturer</li>
+<li><a href="/wiki/Frank_Edwin_Wright_III" class="mw-redirect" title="Frank Edwin Wright III">Frank Edwin Wright III</a> (aka Tré Cool, born 1972), German-born American drummer for the punk rock band Green Day</li>
+<li><a href="/wiki/Frank_Lloyd_Wright" title="Frank Lloyd Wright">Frank Lloyd Wright</a>, architect</li>
+<li><a href="/wiki/Franz_Wright" title="Franz Wright">Franz Wright</a> (born 1953), poet</li>
+<li><a href="/wiki/Fred_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Fred Wright (disambiguation)">Fred Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Freda_Wright-Sorce" title="Freda Wright-Sorce">Freda Wright-Sorce</a>, American radio personality</li></ul>
+<h3><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wright&amp;action=edit&amp;section=8" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/G._V._Wright" title="G. V. Wright">G. V. Wright</a>, Irish politician</li>
+<li><a href="/wiki/Gary_Wright" title="Gary Wright">Gary Wright</a>, American musician</li>
+<li><a href="/wiki/Georg_Henrik_von_Wright" title="Georg Henrik von Wright">Georg Henrik von Wright</a> (1916–2003), Finland-Swedish philosopher</li>
+<li><a href="/wiki/George_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="George Wright (disambiguation)">George Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Gertrude_Baniszewski" class="mw-redirect" title="Gertrude Baniszewski">Gertrude Baniszewski</a>, American murderer, also known as Gertrude Wright</li>
+<li><a href="/wiki/Gillian_Wright" title="Gillian Wright">Gillian Wright</a>, British actress</li>
+<li><a href="/wiki/Ginny_Wright" title="Ginny Wright">Ginny Wright</a>, American singer</li>
+<li><a href="/wiki/Gordon_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Gordon Wright (disambiguation)">Gordon Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Gregory_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Gregory Wright (disambiguation)">Gregory Wright (disambiguation)</a>, multiple people</li></ul>
+<h3><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wright&amp;action=edit&amp;section=9" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Harold_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Harold Wright (disambiguation)">Harold Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Harry_Wright" title="Harry Wright">Harry Wright</a>, baseball player</li>
+<li><a href="/wiki/Helena_Rosa_Wright" title="Helena Rosa Wright">Helena Rosa Wright</a>, pioneer in birth control</li>
+<li><a href="/wiki/Henry_T._Wright" title="Henry T. Wright">Henry T. Wright</a>, American archaeologist, National Geographic, University of Michigan</li>
+<li><a href="/wiki/Henry_W._Wright" title="Henry W. Wright">Henry W. Wright</a></li>
+<li><a href="/wiki/Herbert_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Herbert Wright (disambiguation)">Herbert Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Hiram_A._Wright" title="Hiram A. Wright">Hiram A. Wright</a>, American politician</li>
+<li><a href="/wiki/Horatio_Wright" title="Horatio Wright">Horatio Wright</a>, American general</li></ul>
+<h3><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wright&amp;action=edit&amp;section=10" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Ian_Wright" title="Ian Wright">Ian Wright</a>, English footballer and TV presenter</li>
+<li><a href="/wiki/Ian_Wright_(traveller)" title="Ian Wright (traveller)">Ian Wright (traveller)</a>, British traveller</li>
+<li><a href="/wiki/Iain_Wright" title="Iain Wright">Iain Wright</a> (born 1972), British politician</li>
+<li><a href="/wiki/Imogen_Wright" title="Imogen Wright">Imogen Wright</a></li>
+<li><a href="/wiki/Irene_Aloha_Wright" title="Irene Aloha Wright">Irene Aloha Wright</a> (1879–1972), American historian</li>
+<li><a href="/wiki/Isaac_Wright" title="Isaac Wright">Isaac Wright</a></li></ul>
+<h3><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wright&amp;action=edit&amp;section=11" title="Edit section: J">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/J._Skelly_Wright" title="J. Skelly Wright">J. Skelly Wright</a> (1911–1988), American circuit and district judge</li>
+<li><a href="/wiki/Jackie_Wright" title="Jackie Wright">Jackie Wright</a> (c.1905–1989), British comedian</li>
+<li><a href="/wiki/Jackie_Wright_(footballer)" title="Jackie Wright (footballer)">Jackie Wright (footballer)</a> (d.2005), English footballer</li>
+<li><a href="/wiki/Jaguar_Wright" title="Jaguar Wright">Jaguar Wright</a>, American singer</li>
+<li><a href="/wiki/Jake_Wright" title="Jake Wright">Jake Wright</a>, British football player</li>
+<li><a href="/wiki/James_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="James Wright (disambiguation)">James Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Jamey_Wright" title="Jamey Wright">Jamey Wright</a>, American baseball player</li>
+<li><a href="/wiki/Jamie_Wright" title="Jamie Wright">Jamie Wright</a> (born 1976), Canadian ice hockey player</li>
+<li><a href="/wiki/Janet_Wright" title="Janet Wright">Janet Wright</a> (1945–2016), Canadian actress</li>
+<li><a href="/wiki/Jaret_Wright" title="Jaret Wright">Jaret Wright</a>, American baseball player</li>
+<li><a href="/wiki/Jarvis_T._Wright" title="Jarvis T. Wright">Jarvis T. Wright</a> (1830–1886), American businessman and politician</li>
+<li><a href="/wiki/Jay_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Jay Wright (disambiguation)">Jay Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Jeffrey_Wright" title="Jeffrey Wright">Jeffrey Wright</a>, American actor</li>
+<li><a href="/wiki/Jeremy_Wright" title="Jeremy Wright">Jeremy Wright</a>, English politician</li>
+<li><a href="/wiki/Jeremiah_Wright" title="Jeremiah Wright">Jeremiah Wright</a>, American pastor</li>
+<li><a href="/wiki/Jim_Wright" title="Jim Wright">Jim Wright</a> (1922–2015), American politician</li>
+<li><a href="/wiki/Joanne_Goode" title="Joanne Goode">Joanne Goode</a> (born 1972), British badminton player</li>
+<li><a href="/wiki/Joanne_Nicholas" title="Joanne Nicholas">Joanne Nicholas</a> (born 1977), British badminton player</li>
+<li><a href="/wiki/Jocky_Wright" title="Jocky Wright">Jocky Wright</a> (1873–1946), Scottish footballer</li>
+<li><a href="/wiki/Joe_Wright" title="Joe Wright">Joe Wright</a>, British film director (<i>Pride &amp; Prejudice</i> and <i>Atonement</i>)</li>
+<li><a href="/wiki/John_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="John Wright (disambiguation)">John Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Johnnie_Wright" title="Johnnie Wright">Johnnie Wright</a> (1914–2011), American musician</li>
+<li><a href="/wiki/Johnny_Wright_(footballer)" title="Johnny Wright (footballer)">Johnny Wright (footballer)</a>, Northern Irish footballer</li>
+<li><a href="/wiki/Johnny_Wright_(music_manager)" title="Johnny Wright (music manager)">Johnny Wright (music manager)</a>, American music act manager</li>
+<li><a href="/wiki/Jos%C3%A9_Roberto_Wright" title="José Roberto Wright">José Roberto Wright</a>, former Brazilian football (soccer) referee</li>
+<li><a href="/wiki/Joseph_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Joseph Wright (disambiguation)">Joseph Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Joshua_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Joshua Wright (disambiguation)">Joshua Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Judith_Wright" title="Judith Wright">Judith Wright</a> (1915–2000), Australian poet</li>
+<li><a href="/wiki/Julia_McNair_Wright" title="Julia McNair Wright">Julia McNair Wright</a> (1840–1903), American writer</li>
+<li><a href="/wiki/Julia_M._Wright" title="Julia M. Wright">Julia M. Wright</a>, academic</li>
+<li><a href="/wiki/Justine_Wright" title="Justine Wright">Justine Wright</a>, film editor from New Zealand</li></ul>
+<h3><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wright&amp;action=edit&amp;section=12" title="Edit section: K">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Katharine_Wright" title="Katharine Wright">Katharine Wright</a>, high school teacher; sister of Wilbur and Orville</li>
+<li><a href="/wiki/Katie_Wright" title="Katie Wright">Katie Wright</a>, American actress</li>
+<li><a href="/wiki/Keith_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Keith Wright (disambiguation)">Keith Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Kenneth_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Kenneth Wright (disambiguation)">Kenneth Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Kit_Wright" title="Kit Wright">Kit Wright</a>, English poet and children's author</li>
+<li><a href="/wiki/Kristy_Wright" title="Kristy Wright">Kristy Wright</a>, Australian actress</li></ul>
+<h3><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wright&amp;action=edit&amp;section=13" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/L._R._Wright" title="L. R. Wright">L. R. Wright</a> (1939–2001), Canadian writer</li>
+<li><a href="/wiki/Lawrence_Wright" title="Lawrence Wright">Lawrence Wright</a>, American author</li>
+<li><a href="/wiki/Laura_Wright_(disambiguation)" class="mw-disambig" title="Laura Wright (disambiguation)">Laura Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Leo_Wright" title="Leo Wright">Leo Wright</a>, American jazz musician</li>
+<li><a href="/wiki/Liza_Wright" title="Liza Wright">Liza Wright</a>, American politician</li>
+<li><a href="/wiki/Lloyd_Wright" title="Lloyd Wright">Lloyd Wright</a>, architect</li>
+<li><a href="/wiki/Lorenzen_Wright" title="Lorenzen Wright">Lorenzen Wright</a> (1975–2010), basketball player</li>
+<li><a href="/wiki/Lorenzo_Wright" title="Lorenzo Wright">Lorenzo Wright</a>, American athlete</li>
+<li><a href="/wiki/Louis_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Louis Wright (disambiguation)">Louis Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Lucilla_Wright" title="Lucilla Wright">Lucilla Wright</a>, English field hockey player</li>
+<li><a href="/wiki/Luke_Edward_Wright" title="Luke Edward Wright">Luke Edward Wright</a>, American politician</li>
+<li><a href="/wiki/Luke_Wright" title="Luke Wright">Luke Wright</a>, English cricketer</li>
+<li><a href="/wiki/Luther_Wright" title="Luther Wright">Luther Wright</a>, former basketball player</li>
+<li><a href="/wiki/Lyle_Wright" title="Lyle Wright">Lyle Wright</a>, United States Hockey Hall of fame inductee</li></ul>
+<h3><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wright&amp;action=edit&amp;section=14" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Manuel_Wright" title="Manuel Wright">Manuel Wright</a>, American football player</li>
+<li><a href="/wiki/Marc_Wright" title="Marc Wright">Marc Wright</a> (1890–1975), American pole vaulter</li>
+<li><a href="/wiki/Margaret_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Margaret Wright (disambiguation)">Margaret Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Marian_Wright_Edelman" title="Marian Wright Edelman">Marian Wright Edelman</a> (born 1939), American lawyer and founder of the Children's Defense Fund</li>
+<li><a href="/wiki/Marie_Robinson_Wright" title="Marie Robinson Wright">Marie Robinson Wright</a> (1853–1914), American journalist, traveler, historian, author</li>
+<li><a href="/wiki/Mark_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Mark Wright (disambiguation)">Mark Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Martha_Griffiths" title="Martha Griffiths">Martha Griffiths</a>, American lawyer, also known as Martha Edna Wright</li>
+<li><a href="/wiki/Martin_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Martin Wright (disambiguation)">Martin Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/The_Boogeyman_(wrestler)" title="The Boogeyman (wrestler)">The Boogeyman (wrestler)</a>, American wrestler</li>
+<li><a href="/wiki/Matthew_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Matthew Wright (disambiguation)">Matthew Wright (disambiguation)</a></li>
+<li><a href="/wiki/Mauricio_Wright" title="Mauricio Wright">Mauricio Wright</a>, Costa Rican soccer player</li>
+<li><a href="/wiki/Max_Wright" title="Max Wright">Max Wright</a> (1943&#8211;2019), American actor</li>
+<li><a href="/wiki/Max_Wright_(Australian_footballer)" title="Max Wright (Australian footballer)">Max Wright (Australian footballer)</a> (1901&#8211;1988), Australian footballer</li>
+<li><a href="/wiki/Micah_Wright" title="Micah Wright">Micah Wright</a>, American writer</li>
+<li><a href="/wiki/Michael_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Michael Wright (disambiguation)">Michael Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Mickey_Wright" title="Mickey Wright">Mickey Wright</a>, American golfer</li>
+<li><a href="/wiki/Mike_Wright_(American_football)" title="Mike Wright (American football)">Mike Wright (American football)</a>, American football player</li>
+<li><a href="/wiki/Milton_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Milton Wright (disambiguation)">Milton Wright (disambiguation)</a>, multiple people</li></ul>
+<h3><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wright&amp;action=edit&amp;section=15" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/N._T._Wright" title="N. T. Wright">N. T. Wright</a>, English theologian and prolific writer</li>
+<li><a href="/wiki/Nate_Wright" title="Nate Wright">Nate Wright</a>, American football player</li>
+<li><a href="/wiki/Nathan_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Nathan Wright (disambiguation)">Nathan Wright (disambiguation)</a>, multiple people</li></ul>
+<h3><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wright&amp;action=edit&amp;section=16" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/O._V._Wright" title="O. V. Wright">O. V. Wright</a> (1939–1980), American singer</li>
+<li><a href="/wiki/Orville_Wright" class="mw-redirect" title="Orville Wright">Orville Wright</a> (1871–1948), American airplane inventor</li></ul>
+<h3><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wright&amp;action=edit&amp;section=17" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Pamela_Payton-Wright" title="Pamela Payton-Wright">Pamela Payton-Wright</a>, American actress</li>
+<li><a href="/wiki/Patrick_Wright_(historian)" title="Patrick Wright (historian)">Patrick Wright (historian)</a>, British cultural studies academic</li>
+<li><a href="/wiki/Patrick_Wright,_Baron_Wright_of_Richmond" title="Patrick Wright, Baron Wright of Richmond">Patrick Wright, Baron Wright of Richmond</a>, British diplomat</li>
+<li><a href="/wiki/Pete_Wright_(musician)" title="Pete Wright (musician)">Pete Wright (musician)</a>, bass player for the band Crass from 1977 until 1984</li>
+<li><a href="/wiki/Peter_Coleman-Wright" title="Peter Coleman-Wright">Peter Coleman-Wright</a> (born 1958), Australian baritone opera singer</li>
+<li><a href="/wiki/Peter_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Peter Wright (disambiguation)">Peter Wright (disambiguation)</a>, multiple people, including:
+<ul><li><a href="/wiki/Peter_Wright_(MI5_officer)" title="Peter Wright (MI5 officer)">Peter Wright (MI5 officer)</a> (1916–1995), English counterintelligence officer, <i>Spycatcher</i> author</li>
+<li><a href="/wiki/Peter_Wright_(ceramicist)" title="Peter Wright (ceramicist)">Peter Wright (ceramicist)</a> (1919–2003), English ceramic artist</li>
+<li><a href="/wiki/Peter_Wright_(Jesuit)" title="Peter Wright (Jesuit)">Peter Wright (Jesuit)</a> (1603–1651), English Jesuit and martyr</li>
+<li><a href="/wiki/Peter_Wright_(rugby_league)" title="Peter Wright (rugby league)">Peter Wright (rugby league)</a>, Australian rugby league footballer</li>
+<li><a href="/wiki/Peter_Wright_(rugby_union)" title="Peter Wright (rugby union)">Peter Wright (rugby union)</a>, Scottish rugby union footballer and coach</li></ul></li>
+<li><a href="/wiki/Philemon_Wright" title="Philemon Wright">Philemon Wright</a>, Canadian farmer</li>
+<li><a href="/wiki/Phillip_Wright" title="Phillip Wright">Phillip Wright</a>, Australian pastoralist and philanthropist, chancellor of the University of New England</li></ul>
+<h3><span class="mw-headline" id="Q">Q</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wright&amp;action=edit&amp;section=18" title="Edit section: Q">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Quincy_Wright" title="Quincy Wright">Quincy Wright</a>, American political scientist</li></ul>
+<h3><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wright&amp;action=edit&amp;section=19" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Ralph_Wright" title="Ralph Wright">Ralph Wright</a>, American animator, storyboard writer and voice actor</li>
+<li><a href="/wiki/Randy_Wright" title="Randy Wright">Randy Wright</a>, American football player</li>
+<li><a href="/wiki/Rebecca_Wright" title="Rebecca Wright">Rebecca Wright</a>, American ballet teacher</li>
+<li><a href="/wiki/Richard_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Richard Wright (disambiguation)">Richard Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Rob_Wright" title="Rob Wright">Rob Wright</a>, Canadian songwriter</li>
+<li><a href="/wiki/Robert_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Robert Wright (disambiguation)">Robert Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Robin_Wright_(author)" title="Robin Wright (author)">Robin Wright (author)</a>, <i>Washington Post</i> staff writer</li>
+<li><a href="/wiki/Robin_Wright" title="Robin Wright">Robin Wright</a> (born 1966), American actress</li>
+<li><a href="/wiki/Roger_Wright_(music_administrator)" title="Roger Wright (music administrator)">Roger Wright (music administrator)</a> (born 1956), British music administrator</li>
+<li><a href="/wiki/Roger_Wright" title="Roger Wright">Roger Wright</a> (born 1974), American pianist</li>
+<li><a href="/wiki/Ronald_Wright" title="Ronald Wright">Ronald Wright</a>, Canadian writer</li>
+<li><a href="/wiki/Ronald_Selby_Wright" class="mw-redirect" title="Ronald Selby Wright">Ronald Selby Wright</a>, Church of Scotland minister</li>
+<li><a href="/wiki/Roy_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Roy Wright (disambiguation)">Roy Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Ruby_Wright_(big_band-era_singer)" title="Ruby Wright (big band-era singer)">Ruby Wright (big band-era singer)</a> (1914–2004), American singer and songwriter</li>
+<li><a href="/wiki/Ruby_Wright_(country_singer)" title="Ruby Wright (country singer)">Ruby Wright (country singer)</a> (1939–2009), American country music singer-songwriter</li>
+<li><a href="/wiki/Ruggles_Wright" title="Ruggles Wright">Ruggles Wright</a>, Canadian lumber merchant</li></ul>
+<h3><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wright&amp;action=edit&amp;section=20" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Samuel_E._Wright" title="Samuel E. Wright">Samuel E. Wright</a>, American actor</li>
+<li><a href="/wiki/Sarah_Wright" title="Sarah Wright">Sarah Wright</a>, American actress</li>
+<li><a href="/wiki/Sarah_E._Wright" title="Sarah E. Wright">Sarah E. Wright</a>, American writer</li>
+<li><a href="/wiki/Scooby_Wright_III" class="mw-redirect" title="Scooby Wright III">Scooby Wright III</a> (born 1994), American football player</li>
+<li><a href="/wiki/Sewall_Wright" title="Sewall Wright">Sewall Wright</a> (1889–1988), biologist</li>
+<li><a href="/wiki/Shannon_Wright" title="Shannon Wright">Shannon Wright</a>, American singer-songwriter</li>
+<li><a href="/wiki/Shaun_Wright-Phillips" title="Shaun Wright-Phillips">Shaun Wright-Phillips</a> (born 1981), English footballer</li>
+<li><a href="/wiki/Silas_Wright" title="Silas Wright">Silas Wright</a> (<a href="/wiki/Floruit" title="Floruit">fl.</a> 1840s), American politician</li>
+<li><a href="/wiki/Simon_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Simon Wright (disambiguation)">Simon Wright (disambiguation)</a>, multiple people
+<ul><li><a href="/wiki/Simon_Wright_(musician)" title="Simon Wright (musician)">Simon Wright (musician)</a>, Australian drummer</li>
+<li><a href="/wiki/Simon_Wright_(politician)" title="Simon Wright (politician)">Simon Wright (politician)</a>, British Liberal Democrat Member of Parliament</li></ul></li>
+<li><a href="/wiki/Sophie_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Sophie Wright (disambiguation)">Sophie Wright (disambiguation)</a>, multiple people, including:
+<ul><li><a href="/wiki/Sophie_B._Wright" title="Sophie B. Wright">Sophie B. Wright</a>, 1866–1912), American educator</li>
+<li><a href="/wiki/Sophie_Wright_(chef)" title="Sophie Wright (chef)">Sophie Wright (chef)</a>, British chef</li></ul></li>
+<li><a href="/wiki/Stanton_Macdonald-Wright" title="Stanton Macdonald-Wright">Stanton Macdonald-Wright</a>, American painter</li>
+<li><a href="/wiki/Stephen_Wright_(English_footballer)" title="Stephen Wright (English footballer)">Stephen Wright (English footballer)</a>, English footballer</li>
+<li><a href="/wiki/Stephen_Wright_(writer)" title="Stephen Wright (writer)">Stephen Wright (writer)</a>, American writer</li>
+<li><a href="/wiki/Steve_Wright_(DJ)" title="Steve Wright (DJ)">Steve Wright (DJ)</a>, English broadcaster</li>
+<li><a href="/wiki/Steve_Wright_(serial_killer)" title="Steve Wright (serial killer)">Steve Wright (serial killer)</a> (born 1958), British serial killer</li>
+<li><a href="/wiki/Steven_Wright" title="Steven Wright">Steven Wright</a> (born 1955), comedian</li>
+<li><a href="/wiki/Stevie_Wright" title="Stevie Wright">Stevie Wright</a></li>
+<li><a href="/wiki/Stuart_Wright" title="Stuart Wright">Stuart Wright</a>, English rugby league player</li>
+<li><a href="/wiki/Susan_Barrantes" title="Susan Barrantes">Susan Barrantes</a>, mother of Sarah, Duchess of York; also known as Susan Mary Wright</li>
+<li><a href="/wiki/Susan_Webber_Wright" title="Susan Webber Wright">Susan Webber Wright</a>, American judge</li>
+<li><a href="/wiki/Susanna_Wright" title="Susanna Wright">Susanna Wright</a>, American poet</li>
+<li><a href="/wiki/Sydney_Fowler_Wright" class="mw-redirect" title="Sydney Fowler Wright">Sydney Fowler Wright</a>, English writer</li>
+<li><a href="/wiki/Syreeta_Wright" title="Syreeta Wright">Syreeta Wright</a>, American singer-songwriter</li></ul>
+<h3><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wright&amp;action=edit&amp;section=21" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Teresa_Wright" title="Teresa Wright">Teresa Wright</a>, American actress</li>
+<li><a href="/wiki/Terry_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Terry Wright (disambiguation)">Terry Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Theodore_Wright" title="Theodore Wright">Theodore Wright</a>, British soldier</li>
+<li><a href="/wiki/Theodore_Paul_Wright" title="Theodore Paul Wright">Theodore Paul Wright</a>, American aeronautical engineer</li>
+<li><a href="/wiki/Theodore_S._Wright" title="Theodore S. Wright">Theodore S. Wright</a>, African-American abolitionist</li>
+<li><a href="/wiki/Thomas_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Thomas Wright (disambiguation)">Thomas Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Timothy_Wright" title="Timothy Wright">Timothy Wright</a>, American gospel singer, and pastor</li>
+<li><a href="/wiki/T._M._Wright" title="T. M. Wright">T. M. Wright</a>, American writer</li>
+<li><a href="/wiki/Todd_Wright" title="Todd Wright">Todd Wright</a>, American sports broadcaster</li>
+<li><a href="/wiki/Tom_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Tom Wright (disambiguation)">Tom Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Tommy_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Tommy Wright (disambiguation)">Tommy Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Tony_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="Tony Wright (disambiguation)">Tony Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Roger_Wright" title="Roger Wright">Trey Wright</a> (born 1974), American pianist</li>
+<li><a href="/wiki/Turbutt_Wright" title="Turbutt Wright">Turbutt Wright</a> (1741–1783), American planter and politician</li>
+<li><a href="/wiki/Tyler_Wright" title="Tyler Wright">Tyler Wright</a>, Canadian ice hockey player</li></ul>
+<h3><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wright&amp;action=edit&amp;section=22" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Victoria_Wright" title="Victoria Wright">Victoria Wright</a> (born 1976), female badminton player from France</li></ul>
+<h3><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wright&amp;action=edit&amp;section=23" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Wallace_Wright_(footballer)" title="Wallace Wright (footballer)">Wallace Wright (footballer)</a>, Scottish footballer</li>
+<li><a href="/wiki/Wallace_Duffield_Wright" title="Wallace Duffield Wright">Wallace Duffield Wright</a>, British soldier</li>
+<li><a href="/wiki/Warren_Wright" title="Warren Wright">Warren Wright</a> (1893–1962), American politician</li>
+<li><a href="/wiki/Whitaker_Wright" title="Whitaker Wright">Whitaker Wright</a>, English businessman</li>
+<li><a href="/wiki/Wilbur_Wright" class="mw-redirect" title="Wilbur Wright">Wilbur Wright</a> (1867–1912), American airplane inventor</li>
+<li><a href="/wiki/Will_Wright_(actor)" title="Will Wright (actor)">Will Wright (actor)</a> (born 1891), American character actor</li>
+<li><a href="/wiki/Will_Wright_(cyclist)" title="Will Wright (cyclist)">Will Wright (cyclist)</a> (born 1973), Welsh cyclist</li>
+<li><a href="/wiki/Will_Wright_(game_designer)" title="Will Wright (game designer)">Will Wright (game designer)</a>, American computer game designer most known for developing <i>SimCity</i> and <i>The Sims</i></li>
+<li><a href="/wiki/S._S._Van_Dine" title="S. S. Van Dine">S. S. Van Dine</a>, American writer, also known as Willard Huntington Wright</li>
+<li><a href="/wiki/William_Wright_(disambiguation)" class="mw-redirect mw-disambig" title="William Wright (disambiguation)">William Wright (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/William_Robert_Wright" class="mw-redirect" title="William Robert Wright">William Robert Wright</a>, Latter Day Saint historian</li>
+<li><a href="/wiki/Wilmer_Cave_Wright" title="Wilmer Cave Wright">Wilmer Cave Wright</a> (1868–1951), British-born American classical philologist</li>
+<li><a href="/wiki/Winky_Wright" title="Winky Wright">Winky Wright</a>, American boxer</li>
+<li>The <a href="/wiki/Wright_brothers" title="Wright brothers">Wright brothers</a> (Wilbur and Orville Wright), airplane inventors</li></ul>
+<h2><span class="mw-headline" id="Fictional_entities">Fictional entities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wright&amp;action=edit&amp;section=24" title="Edit section: Fictional entities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Pastor Leon Wright, a character in <a href="/wiki/The_Returned_(U.S._TV_series)" class="mw-redirect" title="The Returned (U.S. TV series)"><i>The Returned</i> (U.S. TV series)</a></li>
+<li><a href="/wiki/Phoenix_Wright_(character)" title="Phoenix Wright (character)">Phoenix Wright (character)</a>, a defense attorney in the <i>Ace Attorney</i> video game series</li>
+<li>Seth Wright, press secretary in Netflix's 2016 series <i><a href="/wiki/Designated_Survivor_(TV_series)" title="Designated Survivor (TV series)">Designated Survivor</a></i></li>
+<li>Trucy Wright, a character in the <i><a href="/wiki/Ace_Attorney" title="Ace Attorney">Ace Attorney</a></i> video game series</li>
+<li><a href="/wiki/Vivian_Wright" class="mw-redirect" title="Vivian Wright">Vivian Wright</a>, a character in the <i>Dream Team</i> TV series</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wright&amp;action=edit&amp;section=25" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cartwright_(disambiguation)" class="mw-disambig" title="Cartwright (disambiguation)">Cartwright (disambiguation)</a></li>
+<li><a href="/wiki/Von_Wright" title="Von Wright">Von Wright</a></li>
+<li><a href="/wiki/Wainwright_(disambiguation)" class="mw-disambig" title="Wainwright (disambiguation)">Wainwright (disambiguation)</a></li>
+<li><a href="/wiki/Wheelwright_(disambiguation)" class="mw-disambig" title="Wheelwright (disambiguation)">Wheelwright (disambiguation)</a></li>
+<li><a href="/wiki/Wright_(disambiguation)" class="mw-disambig" title="Wright (disambiguation)">Wright (disambiguation)</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wright&amp;action=edit&amp;section=26" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-BDF-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-BDF_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BDF_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-BDF_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://forebears.co.uk/surnames/wright">Wright Surname at Forebears</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book"><span class="cs1-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/webstersnewcolle02spri"><i>Webster's New Collegiate Dictionary</i></a></span>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-87779-338-7" title="Special:BookSources/0-87779-338-7"><bdi>0-87779-338-7</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Webster%27s+New+Collegiate+Dictionary&amp;rft.isbn=0-87779-338-7&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fwebstersnewcolle02spri&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWright" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Harrison, Henry (1969). <i>Surnames of the United Kingdom: A Concise Etymological Dictionary</i>. <b>2</b>. Genealogical Publishing Company. p.&#160;311.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Surnames+of+the+United+Kingdom%3A+A+Concise+Etymological+Dictionary&amp;rft.pages=311&amp;rft.pub=Genealogical+Publishing+Company&amp;rft.date=1969&amp;rft.aulast=Harrison&amp;rft.aufirst=Henry&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWright" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.wheelwrights.org/">Worshipful Company of Wheelwrights</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.amazon.com/dp/0199563837/">"Oxford English Dictionary, 2nd Edition, Version 4.0 (Windows &amp; Mac)"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Oxford+English+Dictionary%2C+2nd+Edition%2C+Version+4.0+%28Windows+%26+Mac%29&amp;rft_id=https%3A%2F%2Fwww.amazon.com%2Fdp%2F0199563837%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWright" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.tradeshouse.org.uk/14-incorporated-crafts/wrights.aspx">Incorporation of Wrights of the Trades House of Glasgow</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://edinburghtrades.org/wrights-masons/">Incorporation of Wrights and Masons of Edinburgh Trades</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.scotweb.co.uk/info/macintyre/">MacIntyre at Scotweb Clan</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.greatscottishclans.com/clans/macintyre.php">MacIntyre Clan myth</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.macintyreclan.org/about.html">Clan MacIntyre Association</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.libraryireland.com/names/maca/mac-an-cheairt.php">http://www.libraryireland.com/names/maca/mac-an-cheairt.php</a></span>
+</li>
+</ol></div></div>
+<style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
+<table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
+<tbody><tr>
+<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Wright</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Wright&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
+</tr>
+</tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="Surnames_associated_with_the_occupation_of_Carpenter" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Carpenter-surname" title="Template:Carpenter-surname"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Carpenter-surname" title="Template talk:Carpenter-surname"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Carpenter-surname&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Surnames_associated_with_the_occupation_of_Carpenter" style="font-size:114%;margin:0 4em"><a href="/wiki/Carpenter_(surname)" title="Carpenter (surname)">Surnames associated with</a> the occupation of <a href="/wiki/Carpenter" class="mw-redirect" title="Carpenter">Carpenter</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Celtic</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/MacIntyre" title="MacIntyre">MacIntyre</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Germanic</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Schreiner" title="Schreiner">Schreiner</a></li>
+<li><a href="/wiki/Timmerman" title="Timmerman">Timmerman</a></li>
+<li><a href="/wiki/Tischler" title="Tischler">Tischler</a></li>
+<li><a href="/wiki/Tishler" title="Tishler">Tishler</a></li>
+<li><a class="mw-selflink selflink">Wright</a></li>
+<li><a href="/wiki/Zimmerer" class="mw-redirect" title="Zimmerer">Zimmerer</a></li>
+<li><a href="/wiki/Zimmerman_(surname)" title="Zimmerman (surname)">Zimmerman</a></li>
+<li><a href="/wiki/Zimmermann_(surname)" class="mw-redirect" title="Zimmermann (surname)">Zimmermann</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Romance</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carpender" title="Carpender">Carpender</a></li>
+<li><a href="/wiki/Carpenter_(surname)" title="Carpenter (surname)">Carpenter</a></li>
+<li><a href="/wiki/Carpentier" title="Carpentier">Carpentier</a></li>
+<li><a href="/wiki/Carpinteiro" title="Carpinteiro">Carpinteiro</a></li>
+<li><a href="/wiki/Carpintero" title="Carpintero">Carpintero</a></li>
+<li><a href="/wiki/Charpentier" title="Charpentier">Charpentier</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Semitic</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Najjar" title="Najjar">Najjar</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Slavic</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ciesielski" title="Ciesielski">Ciesielski</a></li>
+<li><a href="/wiki/Cie%C5%9Bla" title="Cieśla">Cieśla</a></li>
+<li><a href="/wiki/Cie%C5%9Blar" title="Cieślar">Cieślar</a></li>
+<li><a href="/wiki/Cie%C5%9Blik" title="Cieślik">Cieślik</a></li>
+<li><a href="/wiki/Plotnick" title="Plotnick">Plotnick</a></li>
+<li><a href="/wiki/Plotnikov" title="Plotnikov">Plotnikov</a></li>
+<li><a href="/wiki/Stolarski" title="Stolarski">Stolarski</a></li>
+<li><a href="/wiki/Stola%C5%99" title="Stolař">Stolař</a></li>
+<li><a href="/wiki/Stolarz" title="Stolarz">Stolarz</a></li>
+<li><a href="/wiki/Stolyar" title="Stolyar">Stolyar</a></li>
+<li><a href="/wiki/Stolyarenko" title="Stolyarenko">Stolyarenko</a></li>
+<li><a href="/wiki/Stolyarov" title="Stolyarov">Stolyarov</a></li>
+<li><a href="/wiki/Tesa%C5%99" title="Tesař">Tesař</a></li>
+<li><a href="/wiki/Teslya" title="Teslya">Teslya</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Uralic</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%C3%81cs_(surname)" class="mw-redirect" title="Ács (surname)">Ács</a>, <a href="/wiki/Asztalos" title="Asztalos">Asztalos</a>, <a href="/wiki/Puusepp" title="Puusepp">Puusepp</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1243
+Cached time: 20191021141401
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.476 seconds
+Real time usage: 0.646 seconds
+Preprocessor visited node count: 1519/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 20692/2097152 bytes
+Template argument size: 1370/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 11763/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.165/10.000 seconds
+Lua memory usage: 2.75 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  467.961      1 -total
+ 33.81%  158.241      1 Template:Reflist
+ 26.50%  124.021      2 Template:Cite_book
+ 20.11%   94.096      1 Template:Infobox_surname
+ 14.51%   67.890      1 Template:Infobox
+ 14.22%   66.552      1 Template:About
+ 12.30%   57.576      1 Template:Surname
+  9.40%   43.988      1 Template:Dmbox
+  6.67%   31.221      1 Template:As_of
+  6.47%   30.258      1 Template:Carpenter-surname
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:558682-0!canonical and timestamp 20191021141401 and revision id 922337207
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wright&amp;oldid=922337207">https://en.wikipedia.org/w/index.php?title=Wright&amp;oldid=922337207</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:Occupational_surnames" title="Category:Occupational surnames">Occupational surnames</a></li><li><a href="/wiki/Category:English-language_surnames" title="Category:English-language surnames">English-language surnames</a></li><li><a href="/wiki/Category:Surnames_of_English_origin" title="Category:Surnames of English origin">Surnames of English origin</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2014" title="Category:Articles containing potentially dated statements from 2014">Articles containing potentially dated statements from 2014</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wright" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wright" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Wright" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Wright" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Wright">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Wright&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Wright&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wright" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wright" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wright&amp;oldid=922337207" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wright&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2594455" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Wright&amp;id=922337207" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Wright_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wright">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Wright&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wright&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B9%D1%82" title="Райт – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B9%D1%82" title="Райт – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Wright_(p%C5%99%C3%ADjmen%C3%AD)" title="Wright (příjmení) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Wright_(Familienname)" title="Wright (Familienname) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B9%D1%82_(%D0%BF%D1%80%D1%96%D0%B7%D0%B2%D0%B8%D1%89%D0%B5)" title="Райт (прізвище) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2594455#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 21 October 2019, at 14:14<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Wright&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.476","walltime":"0.646","ppvisitednodes":{"value":1519,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":20692,"limit":2097152},"templateargumentsize":{"value":1370,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":11763,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  467.961      1 -total"," 33.81%  158.241      1 Template:Reflist"," 26.50%  124.021      2 Template:Cite_book"," 20.11%   94.096      1 Template:Infobox_surname"," 14.51%   67.890      1 Template:Infobox"," 14.22%   66.552      1 Template:About"," 12.30%   57.576      1 Template:Surname","  9.40%   43.988      1 Template:Dmbox","  6.67%   31.221      1 Template:As_of","  6.47%   30.258      1 Template:Carpenter-surname"]},"scribunto":{"limitreport-timeusage":{"value":"0.165","limit":"10.000"},"limitreport-memusage":{"value":2888182,"limit":52428800}},"cachereport":{"origin":"mw1243","timestamp":"20191021141401","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Wright","url":"https:\/\/en.wikipedia.org\/wiki\/Wright","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2594455","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2594455","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-03-28T00:26:22Z","dateModified":"2019-10-21T14:14:01Z","headline":"family name"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":130,"wgHostname":"mw1255"});});</script>
+</body>
+</html>

@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Brother - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Brother","wgTitle":"Brother","wgCurRevisionId":922856491,"wgRevisionId":922856491,"wgArticleId":4098495,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia indefinitely move-protected pages","Articles with short description","Sibling","Brothers"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Brother","wgRelevantArticleId":4098495,"wgRequestId":"XbI9JgpAICMAAKQMCJsAAAAT","wgCSPNonce":!1,
+"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q10861465","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles"
+:"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Panamanian_Brothers_%288627444206%29.jpg/1200px-Panamanian_Brothers_%288627444206%29.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Brother"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Brother&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Brother&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Brother"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Brother rootpage-Brother skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Brother</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Male sibling</div>
+<div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Brother_(disambiguation)" class="mw-disambig" title="Brother (disambiguation)">Brother (disambiguation)</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable">"Brothers" redirects here. For other uses, see <a href="/wiki/Brothers_(disambiguation)" class="mw-disambig" title="Brothers (disambiguation)">Brothers (disambiguation)</a>.</div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Panamanian_Brothers_(8627444206).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Panamanian_Brothers_%288627444206%29.jpg/220px-Panamanian_Brothers_%288627444206%29.jpg" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Panamanian_Brothers_%288627444206%29.jpg/330px-Panamanian_Brothers_%288627444206%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Panamanian_Brothers_%288627444206%29.jpg/440px-Panamanian_Brothers_%288627444206%29.jpg 2x" data-file-width="4368" data-file-height="2912" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Panamanian_Brothers_(8627444206).jpg" class="internal" title="Enlarge"></a></div>Biological brothers who share many <a href="/wiki/Heredity" title="Heredity">genetic</a> facial features</div></div></div>
+<p>A <b>brother</b> is a <a href="/wiki/Man" title="Man">man</a> or <a href="/wiki/Boy" title="Boy">boy</a> who shares one or more parents with another.<sup id="cite_ref-Oxford_1-0" class="reference"><a href="#cite_note-Oxford-1">&#91;1&#93;</a></sup> The female counterpart is a <a href="/wiki/Sister" title="Sister">sister</a>. Although the term typically refers to a <a href="/wiki/Family" title="Family">familial</a> relationship, it is sometimes used endearingly to refer to non-familial relationships.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> A full brother is a <a href="/wiki/First_degree_relative" class="mw-redirect" title="First degree relative">first degree relative</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Fraternal_relationship"><span class="tocnumber">2</span> <span class="toctext">Fraternal relationship</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Famous_brothers"><span class="tocnumber">3</span> <span class="toctext">Famous brothers</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Other_works_about_brothers"><span class="tocnumber">4</span> <span class="toctext">Other works about brothers</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brother&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Grave_stele_of_Eukarpos_and_Philoxenos_from_Athens._2nd_c._A.D.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Grave_stele_of_Eukarpos_and_Philoxenos_from_Athens._2nd_c._A.D.jpg/220px-Grave_stele_of_Eukarpos_and_Philoxenos_from_Athens._2nd_c._A.D.jpg" decoding="async" width="220" height="330" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Grave_stele_of_Eukarpos_and_Philoxenos_from_Athens._2nd_c._A.D.jpg/330px-Grave_stele_of_Eukarpos_and_Philoxenos_from_Athens._2nd_c._A.D.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Grave_stele_of_Eukarpos_and_Philoxenos_from_Athens._2nd_c._A.D.jpg/440px-Grave_stele_of_Eukarpos_and_Philoxenos_from_Athens._2nd_c._A.D.jpg 2x" data-file-width="4000" data-file-height="6000" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Grave_stele_of_Eukarpos_and_Philoxenos_from_Athens._2nd_c._A.D.jpg" class="internal" title="Enlarge"></a></div>Grave stele of brothers Eukarpos and Philoxenos of <a href="/wiki/Miletus" title="Miletus">Miletus</a> 2nd c. A.D.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></div></div></div>
+<p>The term <i>brother</i> comes from the <a href="/wiki/Proto-Indo-European_language" title="Proto-Indo-European language">Proto-Indo-European</a> *bʰréh₂tēr, which becomes <a href="/wiki/Latin_language" class="mw-redirect" title="Latin language">Latin</a> <i>frater</i>, of the same meaning. <a href="/wiki/Sibling" title="Sibling">Sibling</a> warmth, or sibling affect between male siblings has been correlated to some more negative effects. In pairs of brothers higher sibling warmth is related to more risk taking behaviour although risk taking behaviour is not related to sibling warmth in any other type of sibling pair. The cause of this phenomenon in which sibling warmth is only correlated with risk taking behaviours in brother pairs still is unclear. This finding does, however, suggest that although sibling conflict is a risk factor for risk taking behaviour, sibling warmth does not serve as a protective factor.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> Some studies suggest that girls having an older brother delays the onset of <a href="/wiki/Menarche" title="Menarche">menarche</a> by roughly one year.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> Research also suggests that the likelihood of being <a href="/wiki/Homosexuality" title="Homosexuality">gay</a> increases with the more older brothers a man has.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> Some analyzers have suggested that a man's attractiveness to a heterosexual woman may increase with the more he resembles her brother, while his <a href="/wiki/Unattractiveness" title="Unattractiveness">unattractiveness</a> may increase the more his likeness diverges from her brother.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> Females with a twin or very close-in-age brother, sometimes view him as their male alter ego, or what they would have been like, if they had a Y chromosomes.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Fraternal_relationship">Fraternal relationship</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brother&amp;action=edit&amp;section=2" title="Edit section: Fraternal relationship">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:SFFf-1989091.162778_(4544868861).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/SFFf-1989091.162778_%284544868861%29.jpg/220px-SFFf-1989091.162778_%284544868861%29.jpg" decoding="async" width="220" height="281" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/SFFf-1989091.162778_%284544868861%29.jpg/330px-SFFf-1989091.162778_%284544868861%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/SFFf-1989091.162778_%284544868861%29.jpg/440px-SFFf-1989091.162778_%284544868861%29.jpg 2x" data-file-width="3804" data-file-height="4866" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:SFFf-1989091.162778_(4544868861).jpg" class="internal" title="Enlarge"></a></div>Three brothers</div></div></div>
+<p>The book Nicomachean Ethics, Book VIII written by Aristotle in ¬350 B.C.E., offers a way in which people should view the relationships between biological brothers. The relationship of brothers is laid out with the following quote: 
+"The friendship of brothers has the characteristics found in that of comrades and in general between people who are like each other, is as much as they belong more to each other and start with a love for each other from their very birth, and in as much as those born to the same parents and brought up together and similarly educated are more akin in character; and the test of time has been applied most fully and convincingly in their case".<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+For these reasons, it is the job of the older brother to influence the ethics of the younger brother by being a person of good action. Aristotle says "by imitating and reenacting the acts of good people, a child becomes habituated to good action". Over time the younger brother will develop the good actions of the older brother as well and be like him. Aristotle also adds this on the matter of retaining the action of doing good once imitated: "Once the habits of ethics or immorality become entrenched, they are difficult to break."<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> The good habits that are created by the influence of the older brother become habit in the life of the younger brother and turn out to be seemingly permanent. It is the role of the older brother to be a positive influence on the development of the younger brother's upbringing when it comes to the education of ethics and good actions. When positive characteristics are properly displayed to the younger brother by the older brother, these habits and characteristics are imitated and foster an influential understanding of good ethics and positive actions.
+</p>
+<h2><span class="mw-headline" id="Famous_brothers">Famous brothers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brother&amp;action=edit&amp;section=3" title="Edit section: Famous brothers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Eugene_Guillaume_-_the_Gracchi.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Eugene_Guillaume_-_the_Gracchi.jpg/220px-Eugene_Guillaume_-_the_Gracchi.jpg" decoding="async" width="220" height="149" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Eugene_Guillaume_-_the_Gracchi.jpg/330px-Eugene_Guillaume_-_the_Gracchi.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Eugene_Guillaume_-_the_Gracchi.jpg/440px-Eugene_Guillaume_-_the_Gracchi.jpg 2x" data-file-width="2894" data-file-height="1964" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Eugene_Guillaume_-_the_Gracchi.jpg" class="internal" title="Enlarge"></a></div>The <a href="/wiki/Gracchi" title="Gracchi">Gracchi</a> brothers</div></div></div>
+<ul><li><a href="/wiki/Gracchi" title="Gracchi">Gracchi</a>, Ancient Roman reformers</li>
+<li><a href="/wiki/Ben_Affleck" title="Ben Affleck">Ben Affleck</a> and <a href="/wiki/Casey_Affleck" title="Casey Affleck">Casey Affleck</a>, actors</li>
+<li><a href="/wiki/Alec_Baldwin" title="Alec Baldwin">Alec Baldwin</a>, <a href="/wiki/William_Baldwin" title="William Baldwin">William Baldwin</a>, <a href="/wiki/Stephen_Baldwin" title="Stephen Baldwin">Stephen Baldwin</a>, <a href="/wiki/Daniel_Baldwin" title="Daniel Baldwin">Daniel Baldwin</a>, also known as the <a href="/wiki/Baldwin_brothers" class="mw-redirect" title="Baldwin brothers">Baldwin brothers</a>; actors</li>
+<li><a href="/wiki/The_Alexander_Brothers" title="The Alexander Brothers">The Alexander Brothers</a>; musicians</li>
+<li><a href="/wiki/John_Barrymore" title="John Barrymore">John</a> and <a href="/wiki/Lionel_Barrymore" title="Lionel Barrymore">Lionel Barrymore</a>, actors</li>
+<li><a href="/wiki/Chang_and_Eng_Bunker" title="Chang and Eng Bunker">Chang and Eng Bunker</a>, the original <a href="/wiki/Siamese_twins" class="mw-redirect" title="Siamese twins">Siamese twins</a></li>
+<li><a href="/wiki/David_Carradine" title="David Carradine">David Carradine</a>, <a href="/wiki/Keith_Carradine" title="Keith Carradine">Keith Carradine</a>, and <a href="/wiki/Robert_Carradine" title="Robert Carradine">Robert Carradine</a>, American actors</li>
+<li><a href="/wiki/Bill_Clinton" title="Bill Clinton">Bill Clinton</a>, 42nd <a href="/wiki/President_of_the_United_States" title="President of the United States">President of the United States</a>,  and <a href="/wiki/Roger_Clinton_Jr." title="Roger Clinton Jr.">Roger Clinton, Jr.</a>, his younger half-brother</li>
+<li><a href="/wiki/Coen_brothers" title="Coen brothers">Joel and Ethan Coen</a>; filmmakers</li>
+<li><a href="/wiki/Dizzy_Dean" title="Dizzy Dean">Dizzy</a> and <a href="/wiki/Paul_Dean_(baseball)" title="Paul Dean (baseball)">Daffy Dean</a>, Major League Baseball pitchers</li>
+<li><a href="/wiki/Mark_DeBarge" title="Mark DeBarge">Mark DeBarge</a>, <a href="/wiki/Randy_DeBarge" title="Randy DeBarge">Randy DeBarge</a>, <a href="/wiki/El_DeBarge" title="El DeBarge">El DeBarge</a>, <a href="/wiki/James_DeBarge" title="James DeBarge">James DeBarge</a>, and <a href="/wiki/Bobby_DeBarge" title="Bobby DeBarge">Bobby DeBarge</a>, the male members of the singing group <a href="/wiki/DeBarge" title="DeBarge">DeBarge</a></li>
+<li><a href="/wiki/Emilio_Estevez" title="Emilio Estevez">Emilio Estevez</a> and <a href="/wiki/Charlie_Sheen" title="Charlie Sheen">Charlie Sheen</a>, actors</li>
+<li><a href="/wiki/Isaac_Everly" class="mw-redirect" title="Isaac Everly">Isaac Everly</a> and <a href="/wiki/Phil_Everly" class="mw-redirect" title="Phil Everly">Phil Everly</a>, <a href="/wiki/The_Everly_Brothers" title="The Everly Brothers">The Everly Brothers</a>, singers</li>
+<li><a href="/wiki/Liam_Gallagher" title="Liam Gallagher">Liam Gallagher</a> and <a href="/wiki/Noel_Gallagher" title="Noel Gallagher">Noel Gallagher</a>, members of <a href="/wiki/Oasis_(band)" title="Oasis (band)">Oasis (band)</a></li>
+<li><a href="/wiki/Barry_Gibb" title="Barry Gibb">Barry Gibb</a>, <a href="/wiki/Robin_Gibb" title="Robin Gibb">Robin Gibb</a>, and <a href="/wiki/Maurice_Gibb" title="Maurice Gibb">Maurice Gibb</a>, members of the <a href="/wiki/Brothers_Gibb" class="mw-redirect" title="Brothers Gibb">Brothers Gibb</a> or "Bee Gees" singing group</li>
+<li><a href="/wiki/John_Gotti" title="John Gotti">John Gotti</a>, <a href="/wiki/Gene_Gotti" title="Gene Gotti">Eugene "Gene" Gotti</a>, <a href="/wiki/Peter_Gotti" title="Peter Gotti">Peter Gotti</a> and <a href="/wiki/Richard_V._Gotti" title="Richard V. Gotti">Richard V. Gotti</a>, and <a href="/w/index.php?title=Vincent_Gotti&amp;action=edit&amp;redlink=1" class="new" title="Vincent Gotti (page does not exist)">Vincent Gotti</a>, New York "<a href="/wiki/Made_men" class="mw-redirect" title="Made men">made men</a>" with the <a href="/wiki/Gambino_crime_family" title="Gambino crime family">Gambino crime family</a></li>
+<li><a href="/wiki/Jacob_Grimm" title="Jacob Grimm">Jacob Grimm</a> and <a href="/wiki/Wilhelm_Grimm" title="Wilhelm Grimm">Wilhelm Grimm</a>, known as the <a href="/wiki/Brothers_Grimm" title="Brothers Grimm">Brothers Grimm</a>, German academics and folk tale collectors</li>
+<li><a href="/wiki/Matt_Hardy" title="Matt Hardy">Matt Hardy</a> and <a href="/wiki/Jeff_Hardy" title="Jeff Hardy">Jeff Hardy</a>, professional wrestlers</li>
+<li><a href="/wiki/O%27Kelly_Isley,_Jr." class="mw-redirect" title="O&#39;Kelly Isley, Jr.">O'Kelly Isley, Jr.</a>, <a href="/wiki/Rudolph_Isley" title="Rudolph Isley">Rudolph Isley</a>, and <a href="/wiki/Ronald_Isley" title="Ronald Isley">Ronald Isley</a>, <a href="/wiki/Ernie_Isley" title="Ernie Isley">Ernie Isley</a>, <a href="/wiki/Marvin_Isley" title="Marvin Isley">Marvin Isley</a>, and <a href="/wiki/Vernon_Isley" class="mw-redirect" title="Vernon Isley">Vernon Isley</a>, members of <a href="/wiki/The_Isley_Brothers" title="The Isley Brothers">The Isley Brothers</a> singer-songwriting group and band, which also included their brother-in-law, <a href="/wiki/Chris_Jasper" title="Chris Jasper">Chris Jasper</a></li>
+<li><a href="/wiki/Jackie_Jackson" title="Jackie Jackson">Jackie Jackson</a>, <a href="/wiki/Tito_Jackson" title="Tito Jackson">Tito Jackson</a>, <a href="/wiki/Jermaine_Jackson" title="Jermaine Jackson">Jermaine Jackson</a>, <a href="/wiki/Marlon_Jackson" title="Marlon Jackson">Marlon Jackson</a>, <a href="/wiki/Michael_Jackson" title="Michael Jackson">Michael Jackson</a> and <a href="/wiki/Randy_Jackson_(The_Jacksons)" class="mw-redirect" title="Randy Jackson (The Jacksons)">Randy Jackson</a>, members of <a href="/wiki/The_Jackson_5" title="The Jackson 5">The Jackson 5</a> and later, <a href="/wiki/The_Jacksons" class="mw-redirect" title="The Jacksons">The Jacksons</a></li>
+<li><a href="/wiki/Jesse_James" title="Jesse James">Jesse</a> and <a href="/wiki/Frank_James" title="Frank James">Frank James</a>, Old West outlaws</li>
+<li><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Kennedy_brothers.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kennedy_brothers.jpg/220px-Kennedy_brothers.jpg" decoding="async" width="220" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kennedy_brothers.jpg/330px-Kennedy_brothers.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/0/0d/Kennedy_brothers.jpg 2x" data-file-width="341" data-file-height="232" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Kennedy_brothers.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/John_F._Kennedy" title="John F. Kennedy">John</a>, <a href="/wiki/Robert_F._Kennedy" title="Robert F. Kennedy">Robert</a> and <a href="/wiki/Ted_Kennedy" title="Ted Kennedy">Ted Kennedy</a></div></div></div><a href="/wiki/John_F._Kennedy" title="John F. Kennedy">John</a>, <a href="/wiki/Robert_F._Kennedy" title="Robert F. Kennedy">Robert</a> and <a href="/wiki/Ted_Kennedy" title="Ted Kennedy">Ted Kennedy</a>, politicians</li>
+<li><a href="/wiki/Terry_Labonte" title="Terry Labonte">Terry Labonte</a> and <a href="/wiki/Bobby_Labonte" title="Bobby Labonte">Bobby Labonte</a>, race car drivers</li>
+<li><a href="/wiki/Eli_Manning" title="Eli Manning">Eli</a> and <a href="/wiki/Peyton_Manning" title="Peyton Manning">Peyton Manning</a>, National Football League quarterbacks</li>
+<li><a href="/wiki/Mario" title="Mario">Mario</a> and <a href="/wiki/Luigi" title="Luigi">Luigi</a>, video game characters</li>
+<li><a href="/wiki/Justin_McElroy" title="Justin McElroy">Justin</a>, <a href="/wiki/Travis_McElroy" title="Travis McElroy">Travis</a>, and <a href="/wiki/Griffin_McElroy" title="Griffin McElroy">Griffin McElroy</a>, podcasters</li>
+<li><a href="/wiki/Billy_Leon_McCrary" class="mw-redirect" title="Billy Leon McCrary">Billy Leon McCrary</a> (December 7, 1946 – July 14, 1979) and <a href="/wiki/Benny_Loyd_McCrary" class="mw-redirect" title="Benny Loyd McCrary">Benny Loyd McCrary</a>, wrestlers known as <a href="/wiki/The_McGuire_Twins" title="The McGuire Twins">The McGuire Twins</a></li>
+<li><a href="/wiki/Ringling_brothers" title="Ringling brothers">Ringling brothers</a>, circus performers and owners</li>
+<li><a href="/wiki/Russo_brothers" title="Russo brothers">Russo brothers</a>, filmmakers, producers, and directors</li>
+<li><a href="/wiki/Alan_Osmond" title="Alan Osmond">Alan Osmond</a>, <a href="/wiki/Wayne_Osmond" title="Wayne Osmond">Wayne Osmond</a>, <a href="/wiki/Merrill_Osmond" title="Merrill Osmond">Merrill Osmond</a>, <a href="/wiki/Jay_Osmond" title="Jay Osmond">Jay Osmond</a> and <a href="/wiki/Donny_Osmond" title="Donny Osmond">Donny Osmond</a>, members of [[The Osmonds]</li>
+<li><a href="/wiki/Logan_Paul" title="Logan Paul">Logan Paul</a> and <a href="/wiki/Jake_Paul" title="Jake Paul">Jake Paul</a>, Youtubers, internet personalities, and actors</li>
+<li><a href="/wiki/John_D._Rockefeller" title="John D. Rockefeller">John D. Rockefeller</a> and <a href="/wiki/William_Rockefeller" title="William Rockefeller">William Rockefeller</a>, co-founders of <a href="/wiki/Standard_Oil" title="Standard Oil">Standard Oil</a> and members of the <a href="/wiki/Rockefeller_family" title="Rockefeller family">Rockefeller family</a></li>
+<li><a href="/wiki/Thomas_Smothers" class="mw-redirect" title="Thomas Smothers">Thomas "Tommy" Smothers</a> and <a href="/wiki/Dick_Smothers" title="Dick Smothers">Richard "Dick" Smothers</a>, performing artists known as the <a href="/wiki/Smothers_Brothers" title="Smothers Brothers">Smothers Brothers</a></li>
+<li><a href="/wiki/Damon_Wayans" title="Damon Wayans">Damon Wayans</a>, <a href="/wiki/Dwayne_Wayans" title="Dwayne Wayans">Dwayne Wayans</a>, <a href="/wiki/Keenan_Ivory_Wayans" class="mw-redirect" title="Keenan Ivory Wayans">Keenan Ivory Wayans</a>, <a href="/wiki/Marlon_Wayans" title="Marlon Wayans">Marlon Wayans</a>, <a href="/wiki/Shawn_Wayans" title="Shawn Wayans">Shawn Wayans</a>, performing artists, directors and producers</li>
+<li><a href="/wiki/Bob_Weinstein" title="Bob Weinstein">Bob Weinstein</a> and <a href="/wiki/Harvey_Weinstein" title="Harvey Weinstein">Harvey Weinstein</a>, film producers</li>
+<li><a href="/wiki/Brian_Wilson" title="Brian Wilson">Brian Wilson</a>, <a href="/wiki/Dennis_Wilson" title="Dennis Wilson">Dennis Wilson</a>, and <a href="/wiki/Carl_Wilson" title="Carl Wilson">Carl Wilson</a>, members of <a href="/wiki/The_Beach_Boys" title="The Beach Boys">The Beach Boys</a></li>
+<li><a href="/wiki/Marvin_Winans" title="Marvin Winans">Marvin Winans</a>, <a href="/wiki/Carvin_Winans" class="mw-redirect" title="Carvin Winans">Carvin Winans</a>, <a href="/w/index.php?title=Michael_Winans&amp;action=edit&amp;redlink=1" class="new" title="Michael Winans (page does not exist)">Michael Winans</a>, and <a href="/wiki/Ronald_Winans" title="Ronald Winans">Ronald Winans</a>, members of <a href="/wiki/The_Winans" title="The Winans">The Winans</a>, singers and musicians</li>
+<li><a href="/wiki/Orville_Wright" class="mw-redirect" title="Orville Wright">Orville Wright</a> and <a href="/wiki/Wilbur_Wright" class="mw-redirect" title="Wilbur Wright">Wilbur Wright</a>, known as the <a href="/wiki/Wright_brothers" title="Wright brothers">Wright brothers</a>, pioneer aviators</li>
+<li><a href="/wiki/Daniel_Sedin" title="Daniel Sedin">Daniel Sedin</a> and <a href="/wiki/Henrik_Sedin" title="Henrik Sedin">Henrik Sedin</a>, professional hockey players</li>
+<li><a href="/wiki/Wallace_Shawn" title="Wallace Shawn">Wallace Shawn</a> and <a href="/wiki/Allen_Shawn" title="Allen Shawn">Allen Shawn</a>, writer and composer of <a href="/wiki/The_Fever_(2004_film)" title="The Fever (2004 film)">The Fever</a></li>
+<li><a href="/wiki/Wario" title="Wario">Wario</a> and <a href="/wiki/Waluigi" title="Waluigi">Waluigi</a>, brothers from the <a href="/wiki/Super_Mario" title="Super Mario">Super Mario</a> series</li></ul>
+<h2><span class="mw-headline" id="Other_works_about_brothers">Other works about brothers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brother&amp;action=edit&amp;section=4" title="Edit section: Other works about brothers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Cain_and_Abel._Mironov.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cain_and_Abel._Mironov.jpg/220px-Cain_and_Abel._Mironov.jpg" decoding="async" width="220" height="196" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cain_and_Abel._Mironov.jpg/330px-Cain_and_Abel._Mironov.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cain_and_Abel._Mironov.jpg/440px-Cain_and_Abel._Mironov.jpg 2x" data-file-width="4724" data-file-height="4199" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Cain_and_Abel._Mironov.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Cain_and_Abel" title="Cain and Abel">Cain and Abel</a></div></div></div>
+<ul><li>In the <a href="/wiki/Bible" title="Bible">Bible</a>:
+<ul><li><a href="/wiki/Cain_and_Abel" title="Cain and Abel">Cain and Abel</a>, the sons of <a href="/wiki/Adam_and_Eve" title="Adam and Eve">Adam and Eve</a></li>
+<li><a href="/wiki/Jacob" title="Jacob">Jacob</a> and <a href="/wiki/Esau" title="Esau">Esau</a>, the sons of <a href="/wiki/Isaac" title="Isaac">Isaac</a> and <a href="/wiki/Rebecca" title="Rebecca">Rebecca</a></li>
+<li><a href="/wiki/Moses" title="Moses">Moses</a> and <a href="/wiki/Aaron" title="Aaron">Aaron</a>, prophet</li>
+<li>Sts. <a href="/wiki/Saint_Peter" title="Saint Peter">Peter</a> and <a href="/wiki/Andrew_the_Apostle" title="Andrew the Apostle">Andrew</a>, apostles</li>
+<li>Sts. <a href="/wiki/James,_son_of_Zebedee" class="mw-redirect" title="James, son of Zebedee">James</a> and <a href="/wiki/John_the_Apostle" title="John the Apostle">John</a>, apostles</li></ul></li>
+<li><a href="/wiki/My_Brother,_My_Brother_and_Me" title="My Brother, My Brother and Me"><i>My Brother, My Brother, and Me</i></a>, podcast</li>
+<li><i><a href="/wiki/Saving_Private_Ryan" title="Saving Private Ryan">Saving Private Ryan</a></i> (1998), film</li>
+<li><i><a href="/wiki/Simon_%26_Simon" title="Simon &amp; Simon">Simon &amp; Simon</a></i>, television series</li>
+<li><a href="/wiki/Supernatural_(U.S._TV_series)" class="mw-redirect" title="Supernatural (U.S. TV series)"><i>Supernatural</i></a>, American television series</li>
+<li><i><a href="/wiki/The_Brothers_Karamazov" title="The Brothers Karamazov">The Brothers Karamazov</a></i>, novel</li>
+<li><i><a href="/wiki/The_Wayans_Bros." title="The Wayans Bros.">The Wayans Bros.</a></i>, television series</li>
+<li><i><a href="/wiki/Bonanza" title="Bonanza">Bonanza</a></i> (1959–1973), television series</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brother&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Sister" title="Sister">Sister</a></li>
+<li><a href="/wiki/Brotherhood_(disambiguation)" class="mw-redirect mw-disambig" title="Brotherhood (disambiguation)">Brotherhood (disambiguation)</a></li>
+<li><a href="/wiki/Stepsibling" title="Stepsibling">Stepsibling</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brother&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Oxford-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Oxford_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://en.oxforddictionaries.com/definition/brother">"Definition of brother in English by Oxford Dictionaries"</a>. <i>Oxford Dictionaries</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-05-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Oxford+Dictionaries&amp;rft.atitle=Definition+of+brother+in+English+by+Oxford+Dictionaries&amp;rft_id=https%3A%2F%2Fen.oxforddictionaries.com%2Fdefinition%2Fbrother&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrother" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Mufwene, Salikoko S. For example Beau is brother to Serge as they have the same mother and father."The pragmatics of kinship terms in Kituba." (1988): 441–454.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Walters, Elizabeth J. (1988). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=7gmpS49c1wgC"><i>Attic Grave Reliefs that Represent Women in the Dress of Isis</i></a>. ASCSA. p.&#160;47. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780876615225" title="Special:BookSources/9780876615225"><bdi>9780876615225</bdi></a>. <q>From the stele of brothers Eukarpos and Philoxenos</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Attic+Grave+Reliefs+that+Represent+Women+in+the+Dress+of+Isis&amp;rft.pages=47&amp;rft.pub=ASCSA&amp;rft.date=1988&amp;rft.isbn=9780876615225&amp;rft.aulast=Walters&amp;rft.aufirst=Elizabeth+J.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D7gmpS49c1wgC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrother" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Solmeyer, Anna; McHale, Susan; Crouter, Ann (February 2014). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3797172">"Longitudinal Associations Between Sibling Relationship Qualities and Risky Behavior Across Adolescence"</a>. <i>Developmental Psychology</i>. <b>50</b>: 600–610. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1037%2Fa0033207">10.1037/a0033207</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3797172">3797172</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Developmental+Psychology&amp;rft.atitle=Longitudinal+Associations+Between+Sibling+Relationship+Qualities+and+Risky+Behavior+Across+Adolescence&amp;rft.volume=50&amp;rft.pages=600-610&amp;rft.date=2014-02&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3797172&amp;rft_id=info%3Adoi%2F10.1037%2Fa0033207&amp;rft.aulast=Solmeyer&amp;rft.aufirst=Anna&amp;rft.au=McHale%2C+Susan&amp;rft.au=Crouter%2C+Ann&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3797172&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrother" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Wednesday, 18 August 2010 Anna SallehABC (August 18, 2010). <a rel="nofollow" class="external text" href="http://www.abc.net.au/science/articles/2010/08/18/2985389.htm">"Brothers 'delay' onset of sister's periods"</a>. <i>www.abc.net.au</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.abc.net.au&amp;rft.atitle=Brothers+%27delay%27+onset+of+sister%27s+periods&amp;rft.date=2010-08-18&amp;rft.aulast=Wednesday&amp;rft.aufirst=18+August+2010+Anna+SallehABC&amp;rft_id=http%3A%2F%2Fwww.abc.net.au%2Fscience%2Farticles%2F2010%2F08%2F18%2F2985389.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrother" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Carter, Claire (September 5, 2013). <a rel="nofollow" class="external text" href="https://www.telegraph.co.uk/news/health/news/10287958/Having-more-older-brothers-increases-likelihood-of-being-gay.html">"Having more older brothers increases likelihood of being gay"</a> &#8211; via www.telegraph.co.uk.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Having+more+older+brothers+increases+likelihood+of+being+gay&amp;rft.date=2013-09-05&amp;rft.aulast=Carter&amp;rft.aufirst=Claire&amp;rft_id=https%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2Fhealth%2Fnews%2F10287958%2FHaving-more-older-brothers-increases-likelihood-of-being-gay.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrother" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Bereczkei, Tamas, Petra Gyuris, and Glenn E. Weisfeld. "Sexual imprinting in human mate choice." Proceedings of the Royal Society of London, Series B: Biological Sciences 271.1544 (2004): 1129–1134.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">McCallum, Robyn. "Other selves: subjectivity and the doppelganger in Australian adolescent fiction." Writing the Australian child: Texts and contexts in fictions for children (1996): 17–36.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Aristotle, and W.D Ross. "The Internet Classics Archive | Nicomachean Ethics by Aristotle." The Internet Classics Archive | Nicomachean Ethics by Aristotle. Classics Archive, 2009.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Rogers Victor, Kelly. "Raising Ethical Kids with Insights from Plato and Aristotle." Smartparenting.com. SMRT, 26 Mar. 2014. Web. 2 Dec. 2014.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brother&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/File:Wiktionary-logo-en-v2.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/16px-Wiktionary-logo-en-v2.svg.png" decoding="async" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/24px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/32px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512" /></a> The dictionary definition of <a href="https://en.wiktionary.org/wiki/brother" class="extiw" title="wiktionary:brother"><i>brother</i></a> at Wiktionary</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Family" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Family" title="Template:Family"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Family" title="Template talk:Family"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Family&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Family" style="font-size:114%;margin:0 4em"><a href="/wiki/Family" title="Family">Family</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_History&amp;#10;*_Household&amp;#10;*_Nuclear_family&amp;#10;*_Extended_family&amp;#10;*_Conjugal_family&amp;#10;*_Immediate_family&amp;#10;*_Matrifocal_family&amp;#10;*_Stepfamily&amp;#10;*_Dysfunctional_family&amp;#10;*_Polyfidelitous_families">
+<ul><li><a href="/wiki/History_of_the_family" title="History of the family">History</a></li>
+<li><a href="/wiki/Household" title="Household">Household</a></li>
+<li><a href="/wiki/Nuclear_family" title="Nuclear family">Nuclear family</a></li>
+<li><a href="/wiki/Extended_family" title="Extended family">Extended family</a></li>
+<li><a href="/wiki/Conjugal_family" title="Conjugal family">Conjugal family</a></li>
+<li><a href="/wiki/Immediate_family" title="Immediate family">Immediate family</a></li>
+<li><a href="/wiki/Matrifocal_family" title="Matrifocal family">Matrifocal family</a></li>
+<li><a href="/wiki/Stepfamily" title="Stepfamily">Stepfamily</a></li>
+<li><a href="/wiki/Dysfunctional_family" title="Dysfunctional family">Dysfunctional family</a></li>
+<li><a href="/wiki/Polyfidelity" title="Polyfidelity">Polyfidelitous families</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/First-degree_relatives" title="First-degree relatives">First-degree relatives</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Parent" title="Parent">Parent</a>
+<ul><li><a href="/wiki/Father" title="Father">father</a></li>
+<li><a href="/wiki/Mother" title="Mother">mother</a></li></ul></li>
+<li><a href="/wiki/Child" title="Child">Child</a>
+<ul><li><a href="/wiki/Son" title="Son">son</a></li>
+<li><a href="/wiki/Daughter" title="Daughter">daughter</a></li></ul></li>
+<li><a href="/wiki/Sibling" title="Sibling">Sibling</a>
+<ul><li><a class="mw-selflink selflink">brother</a></li>
+<li><a href="/wiki/Sister" title="Sister">sister</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Second-degree_relative" title="Second-degree relative">Second-degree relatives</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Grandparent" title="Grandparent">Grandparent</a></li>
+<li><a href="/wiki/Grandchild" class="mw-redirect" title="Grandchild">Grandchild</a></li>
+<li><a href="/wiki/Aunt" title="Aunt">Aunt</a></li>
+<li><a href="/wiki/Uncle" title="Uncle">Uncle</a></li>
+<li><a href="/wiki/Niece_and_nephew" title="Niece and nephew">Niece and nephew</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Third-degree_relative" title="Third-degree relative">Third-degree relatives</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Great-grandparent" class="mw-redirect" title="Great-grandparent">Great-grandparent</a></li>
+<li><a href="/wiki/Great-grandchild" class="mw-redirect" title="Great-grandchild">Great-grandchild</a></li>
+<li><a href="/wiki/Niece_and_nephew" title="Niece and nephew">Grandnephew and grandniece</a></li>
+<li><a href="/wiki/Uncle" title="Uncle">Great-Uncle</a></li>
+<li><a href="/wiki/Aunt" title="Aunt">Great-Aunt</a></li>
+<li><a href="/wiki/Cousin" title="Cousin">Cousin</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Affinity_(law)" title="Affinity (law)">Family-in-law</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Spouse" title="Spouse">Spouse</a>
+<ul><li><a href="/wiki/Wife" title="Wife">wife</a></li>
+<li><a href="/wiki/Husband" title="Husband">husband</a></li></ul></li>
+<li><a href="/wiki/Parent-in-law" title="Parent-in-law">Parents-in-law</a></li>
+<li><a href="/wiki/Sibling-in-law" title="Sibling-in-law">Siblings-in-law</a></li>
+<li><a href="/wiki/Son-in-law" class="mw-redirect" title="Son-in-law">Son-in-law</a></li>
+<li><a href="/wiki/Daughter-in-law" class="mw-redirect" title="Daughter-in-law">Daughter-in-law</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Stepfamily" title="Stepfamily">Stepfamily</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Stepfather" title="Stepfather">Stepfather</a></li>
+<li><a href="/wiki/Stepmother" title="Stepmother">Stepmother</a></li>
+<li><a href="/wiki/Stepchild" title="Stepchild">Stepchild</a></li>
+<li><a href="/wiki/Stepsibling" title="Stepsibling">Stepsibling</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Kinship_terminology" title="Kinship terminology">Kinship terminology</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kinship" title="Kinship">Kinship</a></li>
+<li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal kinship</a></li>
+<li><a href="/wiki/Adoption" title="Adoption">Adoption</a></li>
+<li><a href="/wiki/Affinity_(law)" title="Affinity (law)">Affinity</a></li>
+<li><a href="/wiki/Consanguinity" title="Consanguinity">Consanguinity</a></li>
+<li><a href="/wiki/Disownment" title="Disownment">Disownment</a></li>
+<li><a href="/wiki/Divorce" title="Divorce">Divorce</a></li>
+<li><a href="/wiki/Family_estrangement" title="Family estrangement">Estrangement</a></li>
+<li><a href="/wiki/Fictive_kinship" title="Fictive kinship">Fictive kinship</a></li>
+<li><a href="/wiki/Marriage" title="Marriage">Marriage</a></li>
+<li><a href="/wiki/Nurture_kinship" title="Nurture kinship">Nurture kinship</a></li>
+<li><a href="/wiki/Hawaiian_kinship" title="Hawaiian kinship">Hawaiian kinship</a></li>
+<li><a href="/wiki/Sudanese_kinship" title="Sudanese kinship">Sudanese kinship</a></li>
+<li><a href="/wiki/Eskimo_kinship" title="Eskimo kinship">Eskimo kinship</a></li>
+<li><a href="/wiki/Iroquois_kinship" title="Iroquois kinship">Iroquois kinship</a></li>
+<li><a href="/wiki/Crow_kinship" title="Crow kinship">Crow kinship</a></li>
+<li><a href="/wiki/Omaha_kinship" title="Omaha kinship">Omaha kinship</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ancestor" title="Ancestor">Lineage</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bilateral_descent" title="Bilateral descent">Bilateral descent</a></li>
+<li><a href="/wiki/Most_recent_common_ancestor" title="Most recent common ancestor">Common ancestor</a></li>
+<li><a href="/wiki/Surname" title="Surname">Family name</a></li>
+<li><a href="/wiki/Family_tree" title="Family tree">Family tree</a></li>
+<li><a href="/wiki/Genealogy" title="Genealogy">Genealogy</a></li>
+<li><a href="/wiki/Heirloom" title="Heirloom">Heirloom</a></li>
+<li><a href="/wiki/Heredity" title="Heredity">Heredity</a></li>
+<li><a href="/wiki/Inheritance" title="Inheritance">Inheritance</a></li>
+<li><a href="/wiki/Lineal_descendant" title="Lineal descendant">Lineal descendant</a></li>
+<li><a href="/wiki/Matrilineality" title="Matrilineality">Matrilineality</a></li>
+<li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineality</a></li>
+<li><a href="/wiki/Pedigree_chart" title="Pedigree chart">Pedigree chart</a></li>
+<li><a href="/wiki/Progenitor" title="Progenitor">Progenitor</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Relationships</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Agape" title="Agape">Agape (parental love)</a></li>
+<li><a href="/wiki/Eros_(concept)" title="Eros (concept)">Eros (marital love)</a></li>
+<li><a href="/wiki/Filial_piety" title="Filial piety">Filial piety</a></li>
+<li><a href="/wiki/Storge" title="Storge">Storge (familial love)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Holidays</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mother%27s_Day" title="Mother&#39;s Day">Mother's Day</a>
+<ul><li><a href="/wiki/Mother%27s_Day_(United_States)" title="Mother&#39;s Day (United States)">U.S.</a></li></ul></li>
+<li><a href="/wiki/Father%27s_Day" title="Father&#39;s Day">Father's Day</a></li>
+<li><a href="/wiki/Father-Daughter_Day" class="mw-redirect" title="Father-Daughter Day">Father-Daughter Day</a></li>
+<li><a href="/wiki/Siblings_Day" title="Siblings Day">Siblings Day</a></li>
+<li><a href="/wiki/National_Grandparents_Day" title="National Grandparents Day">National Grandparents Day</a></li>
+<li><a href="/wiki/Parents%27_Day" title="Parents&#39; Day">Parents' Day</a></li>
+<li><a href="/wiki/Children%27s_Day" title="Children&#39;s Day">Children's Day</a></li>
+<li><a href="/wiki/Family_Day" title="Family Day">Family Day</a>
+<ul><li><a href="/wiki/Family_Day_(Canada)" title="Family Day (Canada)">Canada</a></li></ul></li>
+<li><a href="/wiki/American_Family_Day" title="American Family Day">American Family Day</a></li>
+<li><a href="/wiki/National_Family_Week" title="National Family Week">National Family Week</a>
+<ul><li><a href="/wiki/National_Family_Week_(UK)" title="National Family Week (UK)">UK</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wedding_anniversary" title="Wedding anniversary">Wedding anniversary</a></li>
+<li><a href="/wiki/Sociology_of_the_family" title="Sociology of the family">Sociology of the family</a></li>
+<li><a href="/wiki/Museum_of_Motherhood" title="Museum of Motherhood">Museum of Motherhood</a></li>
+<li><a href="/wiki/Incest" title="Incest">Incest</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1313
+Cached time: 20191024192511
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.260 seconds
+Real time usage: 0.374 seconds
+Preprocessor visited node count: 674/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 28271/2097152 bytes
+Template argument size: 175/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 17226/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.122/10.000 seconds
+Lua memory usage: 3.09 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  284.462      1 -total
+ 60.05%  170.808      1 Template:Reflist
+ 30.73%   87.405      3 Template:Cite_web
+ 18.44%   52.449      1 Template:Cite_journal
+  9.50%   27.025      1 Template:Short_description
+  9.31%   26.495      1 Template:Pp-move-indef
+  8.33%   23.691      1 Template:Pagetype
+  6.56%   18.659      1 Template:Family
+  5.25%   14.947      1 Template:Navbox
+  4.89%   13.910      1 Template:Redirect
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4098495-0!canonical and timestamp 20191024192511 and revision id 922856491
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Brother&amp;oldid=922856491">https://en.wikipedia.org/w/index.php?title=Brother&amp;oldid=922856491</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Sibling" title="Category:Sibling">Sibling</a></li><li><a href="/wiki/Category:Brothers" title="Category:Brothers">Brothers</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_indefinitely_move-protected_pages" title="Category:Wikipedia indefinitely move-protected pages">Wikipedia indefinitely move-protected pages</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Brother" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Brother" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Brother" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Brother" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Brother">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Brother&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Brother&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Brother" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Brother" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Brother&amp;oldid=922856491" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Brother&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q10861465" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Brother&amp;id=922856491" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Brothers" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Brother">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Brother&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Brother&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D8%AE" title="أخ – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Hia%E2%81%BF-t%C4%AB" title="Hiaⁿ-tī – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%88" title="भाई – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Brat" title="Brat – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Breur" title="Breur – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Bratr" title="Bratr – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Bror" title="Bror – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Vend" title="Vend – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%91%CE%B4%CE%B5%CE%BB%CF%86%CF%8C%CF%82" title="Αδελφός – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-eml"><a href="https://eml.wikipedia.org/wiki/Frad%C3%AAl" title="Fradêl – Emiliano-Romagnolo" lang="egl" hreflang="egl" class="interlanguage-link-target">Emiliàn e rumagnòl</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Frato" title="Frato – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%A7%D8%AF%D8%B1" title="برادر – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Fr%C3%A8re" title="Frère – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Broer" title="Broer – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Br%C3%A0thair" title="Bràthair – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li><li class="interlanguage-link interwiki-glk"><a href="https://glk.wikipedia.org/wiki/%DA%A9%D8%A7%DA%A9%D9%88" title="کاکو – Gilaki" lang="glk" hreflang="glk" class="interlanguage-link-target">گیلکی</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%98%95%EC%A0%9C" title="형제 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%88" title="भाई – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Brat" title="Brat – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-ig"><a href="https://ig.wikipedia.org/wiki/Nwanne" title="Nwanne – Igbo" lang="ig" hreflang="ig" class="interlanguage-link-target">Igbo</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Adik" title="Adik – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%85%E0%B2%A3%E0%B3%8D%E0%B2%A3" title="ಅಣ್ಣ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Ndugu" title="Ndugu – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Fr%C3%A8" title="Frè – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Frater" title="Frater – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Abang" title="Abang – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Broer" title="Broer – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E5%85%84%E5%BC%9F" title="兄弟 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Bror" title="Bror – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Bror" title="Bror – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Brat" title="Brat – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Frate" title="Frate – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Brither" title="Brither – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/V%C3%ABllai" title="Vëllai – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Frati" title="Frati – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li><li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Aboowe" title="Aboowe – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D1%82" title="Брат – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Brat" title="Brat – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Veli" title="Veli – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Bror" title="Bror – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D1%82" title="Брат – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A8%DA%BE%D8%A7%D8%A6%DB%8C" title="بھائی – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E5%85%84%E5%BC%9F" title="兄弟 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/B%C4%B1ra" title="Bıra – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%85%84%E5%BC%9F" title="兄弟 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q10861465#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 24 October 2019, at 19:25<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Brother&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.260","walltime":"0.374","ppvisitednodes":{"value":674,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":28271,"limit":2097152},"templateargumentsize":{"value":175,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":17226,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  284.462      1 -total"," 60.05%  170.808      1 Template:Reflist"," 30.73%   87.405      3 Template:Cite_web"," 18.44%   52.449      1 Template:Cite_journal","  9.50%   27.025      1 Template:Short_description","  9.31%   26.495      1 Template:Pp-move-indef","  8.33%   23.691      1 Template:Pagetype","  6.56%   18.659      1 Template:Family","  5.25%   14.947      1 Template:Navbox","  4.89%   13.910      1 Template:Redirect"]},"scribunto":{"limitreport-timeusage":{"value":"0.122","limit":"10.000"},"limitreport-memusage":{"value":3236708,"limit":52428800}},"cachereport":{"origin":"mw1313","timestamp":"20191024192511","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Brother","url":"https:\/\/en.wikipedia.org\/wiki\/Brother","sameAs":"http:\/\/www.wikidata.org\/entity\/Q10861465","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q10861465","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-02-16T23:41:28Z","dateModified":"2019-10-24T19:25:05Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/c6\/Panamanian_Brothers_%288627444206%29.jpg","headline":"male sibling"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":106,"wgHostname":"mw1333"});});</script>
+</body>
+</html>

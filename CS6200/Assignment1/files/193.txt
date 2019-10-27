@@ -1,0 +1,873 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Simpson (name) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Simpson_(name)","wgTitle":"Simpson (name)","wgCurRevisionId":918582509,"wgRevisionId":918582509,"wgArticleId":16835764,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","All set index articles","Surnames","English-language surnames","Surnames of English origin","Scottish surnames","Patronymic surnames"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Simpson_(name)",
+"wgRelevantArticleId":16835764,"wgRequestId":"XbJ4QgpAAEQAAEC45OMAAAAC","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Simpson_(surname)","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Simpson_(name)","wgWikibaseItemId":"Q2800825","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready",
+"user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging",
+"ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Simpson_(name)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Simpson_(name)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Simpson_(name)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Simpson_(name)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Simpson_name rootpage-Simpson_name skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Simpson (name)</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Simpson_(surname)&amp;redirect=no" class="mw-redirect" title="Simpson (surname)">Simpson (surname)</a>)</span></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="Simpson (disambiguation)">Simpson (disambiguation)</a>.</div>
+<table class="infobox" style="width:22em"><caption>Simpson</caption><tbody><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Origin</th></tr><tr><th scope="row">Word/name</th><td>England and Scotland</td></tr><tr><th scope="row">Meaning</th><td>"son of Simme"</td></tr><tr><th scope="row">Region of origin</th><td>England and Scotland</td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Other names</th></tr><tr><th scope="row">Variant form(s)</th><td>Simson</td></tr></tbody></table>
+<p><b>Simpson</b> is an English/Scottish <a href="/wiki/Patronymic" title="Patronymic">patronymic</a> <a href="/wiki/Surname" title="Surname">surname</a> from the <a href="/wiki/Medieval" class="mw-redirect" title="Medieval">medieval</a> <a href="/wiki/Masculine" class="mw-redirect" title="Masculine">masculine</a> <a href="/wiki/Given_name" title="Given name">given name</a> 'Simme'.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> The earliest public record of the name was in 1353 in <a href="/wiki/Staffordshire" title="Staffordshire">Staffordshire</a>, <a href="/wiki/West_Midlands_(region)" title="West Midlands (region)">West Midlands</a> region of England.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<style data-mw-deduplicate="TemplateStyles:r886046785">.mw-parser-output .toclimit-2 .toclevel-1 ul,.mw-parser-output .toclimit-3 .toclevel-2 ul,.mw-parser-output .toclimit-4 .toclevel-3 ul,.mw-parser-output .toclimit-5 .toclevel-4 ul,.mw-parser-output .toclimit-6 .toclevel-5 ul,.mw-parser-output .toclimit-7 .toclevel-6 ul{display:none}</style><div class="toclimit-2"><div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Notable_surnames"><span class="tocnumber">1</span> <span class="toctext">Notable surnames</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#A"><span class="tocnumber">1.1</span> <span class="toctext">A</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#B"><span class="tocnumber">1.2</span> <span class="toctext">B</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#C"><span class="tocnumber">1.3</span> <span class="toctext">C</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#D"><span class="tocnumber">1.4</span> <span class="toctext">D</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#E"><span class="tocnumber">1.5</span> <span class="toctext">E</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#F"><span class="tocnumber">1.6</span> <span class="toctext">F</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#G"><span class="tocnumber">1.7</span> <span class="toctext">G</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#H"><span class="tocnumber">1.8</span> <span class="toctext">H</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#I"><span class="tocnumber">1.9</span> <span class="toctext">I</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#J"><span class="tocnumber">1.10</span> <span class="toctext">J</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#K"><span class="tocnumber">1.11</span> <span class="toctext">K</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#L"><span class="tocnumber">1.12</span> <span class="toctext">L</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#M"><span class="tocnumber">1.13</span> <span class="toctext">M</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#N"><span class="tocnumber">1.14</span> <span class="toctext">N</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#O"><span class="tocnumber">1.15</span> <span class="toctext">O</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#P"><span class="tocnumber">1.16</span> <span class="toctext">P</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#R"><span class="tocnumber">1.17</span> <span class="toctext">R</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#S"><span class="tocnumber">1.18</span> <span class="toctext">S</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#T"><span class="tocnumber">1.19</span> <span class="toctext">T</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#V"><span class="tocnumber">1.20</span> <span class="toctext">V</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#W"><span class="tocnumber">1.21</span> <span class="toctext">W</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-23"><a href="#Fictional_characters"><span class="tocnumber">2</span> <span class="toctext">Fictional characters</span></a>
+<ul>
+<li class="toclevel-2 tocsection-24"><a href="#The_Simpsons"><span class="tocnumber">2.1</span> <span class="toctext">The Simpsons</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-25"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-26"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+</div>
+<h2><span class="mw-headline" id="Notable_surnames">Notable surnames</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simpson_(name)&amp;action=edit&amp;section=1" title="Edit section: Notable surnames">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-label="Contents" style="margin-left:auto;margin-right:auto; text-align:left;">
+<div style="margin:auto;white-space:nowrap;">         
+<ul><li><a href="#A">A</a></li>
+<li><a href="#B">B</a></li>
+<li><a href="#C">C</a></li>
+<li><a href="#D">D</a></li>
+<li><a href="#E">E</a></li>
+<li><a href="#F">F</a></li>
+<li><a href="#G">G</a></li>
+<li><a href="#H">H</a></li>
+<li><a href="#I">I</a></li>
+<li><a href="#J">J</a></li>
+<li><a href="#K">K</a></li>
+<li><a href="#L">L</a></li>
+<li><a href="#M">M</a></li>
+<li><a href="#N">N</a></li>
+<li><a href="#O">O</a></li>
+<li><a href="#P">P</a></li>
+<li><a href="#Q">Q</a></li>
+<li><a href="#R">R</a></li>
+<li><a href="#S">S</a></li>
+<li><a href="#T">T</a></li>
+<li><a href="#U">U</a></li>
+<li><a href="#V">V</a></li>
+<li><a href="#W">W</a></li>
+<li><a href="#X">X</a></li>
+<li><a href="#Y">Y</a></li>
+<li><a href="#Z">Z</a> </li></ul>
+<p class="mw-empty-elt">       
+</p>
+</div></div></div>
+<h3><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simpson_(name)&amp;action=edit&amp;section=2" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Aaron_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="Aaron Simpson (disambiguation)">Aaron Simpson</a>, several people
+<ul><li><a href="/wiki/Aaron_Simpson_(producer)" title="Aaron Simpson (producer)">Aaron Simpson (producer)</a> (born 1971), American animation producer</li>
+<li><a href="/wiki/Aaron_Simpson_(entrepreneur)" title="Aaron Simpson (entrepreneur)">Aaron Simpson (entrepreneur)</a> (born 1972), British businessman</li>
+<li><a href="/wiki/Aaron_Simpson_(fighter)" title="Aaron Simpson (fighter)">Aaron Simpson (fighter)</a> (born 1974), American mixed martial artist</li></ul></li>
+<li><a href="/wiki/Adam_Simpson" title="Adam Simpson">Adam Simpson</a> (born 1976), Australian rules footballer</li>
+<li><a href="/wiki/Adele_Simpson" title="Adele Simpson">Adele Simpson</a> (1903–1995), American child performer and fashion designer</li>
+<li><a href="/wiki/Adrian_Simpson" title="Adrian Simpson">Adrian Simpson</a> (born 1971), British TV presenter</li>
+<li><a href="/wiki/Al_Simpson" title="Al Simpson">Al Simpson</a> (1916–1976), American football coach</li>
+<li><a href="/wiki/Alan_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="Alan Simpson (disambiguation)">Alan Simpson (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Albert_Benjamin_Simpson" title="Albert Benjamin Simpson">Albert Benjamin Simpson</a> (1843–1919), Canadian evangelist; founder of the Christian and Missionary Alliance</li>
+<li><a href="/wiki/Alex_Simpson" title="Alex Simpson">Alex Simpson</a> (1924–2008), Scottish soccer player</li>
+<li><a href="/wiki/Alexander_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="Alexander Simpson (disambiguation)">Alexander Simpson (disambiguation)</a>, several people</li>
+<li><a href="/wiki/A._W._B._Simpson" title="A. W. B. Simpson">A. W. B. Simpson</a> (Alfred, 1931–2011), British legal historian</li>
+<li><a href="/wiki/Alfred_Allen_Simpson" title="Alfred Allen Simpson">Alfred Allen Simpson</a> (1875-1939), South Australian industrialist</li>
+<li><a href="/wiki/Alfred_Edward_Simpson" title="Alfred Edward Simpson">Alfred Edward Simpson</a> (1868–1940), South Australian architect</li>
+<li><a href="/wiki/Alfred_Muller_Simpson" class="mw-redirect" title="Alfred Muller Simpson">Alfred Muller Simpson</a> (1843-1917), South Australian industrialist</li>
+<li><a href="/wiki/Allan_Simpson" title="Allan Simpson">Allan Simpson</a> (born 1977), baseball player</li>
+<li><a href="/wiki/Amanda_Simpson" title="Amanda Simpson">Amanda Simpson</a> (born 1961), American civil servant</li>
+<li><a href="/wiki/Andrew_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="Andrew Simpson (disambiguation)">Andrew Simpson (disambiguation)</a>, several people
+<ul><li><a href="/wiki/Andrew_Simpson_(animal_trainer)" title="Andrew Simpson (animal trainer)">Andrew Simpson (animal trainer)</a> (born 1966/1967), Scottish animal trainer</li>
+<li><a href="/wiki/Andrew_Simpson_(sailor)" title="Andrew Simpson (sailor)">Andrew Simpson (sailor)</a> (1976–2013), British sailor</li>
+<li><a href="/wiki/Andrew_Simpson_(actor)" title="Andrew Simpson (actor)">Andrew Simpson (actor)</a> (born 1989), Irish actor</li>
+<li><a href="/wiki/Andrew_Clive_Simpson" title="Andrew Clive Simpson">Andrew Clive Simpson</a>, British computer scientist</li></ul></li>
+<li><a href="/wiki/Ann_Marie_Simpson" class="mw-redirect" title="Ann Marie Simpson">Ann Marie Simpson</a> (born 1980), American violinist</li>
+<li><a href="/wiki/Anna_Simpson" title="Anna Simpson">Anna Simpson</a> (born 1985), American actress and singer</li>
+<li><a href="/wiki/Anne_Simpson" title="Anne Simpson">Anne Simpson</a> (born 1956), Canadian poet</li>
+<li><a href="/wiki/Ant_Simpson" title="Ant Simpson">Ant Simpson</a> (born 19??), Australian radio host, TV presenter and voiceover artist</li>
+<li><a href="/wiki/Anthony_Simpson" title="Anthony Simpson">Anthony Simpson</a> (born 1935), British MEP</li>
+<li><a href="/wiki/Archibald_Simpson" title="Archibald Simpson">Archibald Simpson</a> (1790–1847), Scottish architect</li>
+<li><a href="/wiki/Archie_Simpson" title="Archie Simpson">Archie Simpson</a> (1866–1955), Scottish golfer, golf course designer and club maker</li>
+<li><a href="/wiki/Arnold_Simpson" title="Arnold Simpson">Arnold Simpson</a> (born 1952), American politician in Kentucky</li>
+<li><a href="/wiki/Ashlee_Simpson" title="Ashlee Simpson">Ashlee Simpson</a>, American pop singer; sister of Jessica Simpson</li></ul>
+<h3><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simpson_(name)&amp;action=edit&amp;section=3" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Bart_Simpson_(filmmaker)" title="Bart Simpson (filmmaker)">Bart Simpson (filmmaker)</a> (born 19??), Canadian producer and director</li>
+<li><a href="/wiki/Becky_Simpson" title="Becky Simpson">Becky Simpson</a> (born 1986), British actress, writer and musician</li>
+<li><a href="/wiki/Ben_Simpson" title="Ben Simpson">Ben Simpson</a> (1878–1964), Canadian football player</li>
+<li><a href="/wiki/Bill_Simpson_(disambiguation)" class="mw-disambig" title="Bill Simpson (disambiguation)">Bill and Billy Simpson (disambiguation)</a>, multiple people
+<ul><li><a href="/wiki/Bill_Simpson_(actor)" title="Bill Simpson (actor)">Bill Simpson (actor)</a> (1931–1986), Scottish actor</li>
+<li><a href="/wiki/Bill_Simpson" title="Bill Simpson">Bill Simpson</a> (born 1940), American racecar driver and founder of <i>Simpson Performance Products</i></li>
+<li><a href="/wiki/Bill_Simpson_(American_football)" title="Bill Simpson (American football)">Bill Simpson (American football)</a> (born 1951), American football defensive backer</li>
+<li><a href="/wiki/Billy_Simpson_(footballer,_born_1878)" title="Billy Simpson (footballer, born 1878)">Billy Simpson (footballer, born 1878)</a> (1878–1962), English football player for Sunderland and Lincoln City</li>
+<li><a href="/wiki/Billy_Simpson_(singer)" title="Billy Simpson (singer)">Billy Simpson (singer)</a> (born 1987), Indonesian singer-songwriter</li></ul></li>
+<li><a href="/wiki/Robert_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="Robert Simpson (disambiguation)">Bob and Bobby Simpson (disambiguation)</a>, multiple people
+<ul><li><a href="/wiki/Bob_R._Simpson" title="Bob R. Simpson">Bob R. Simpson</a>, American business executive, Major League Baseball Texas Rangers co-owner</li>
+<li><a href="/wiki/Bob_Simpson_(Canadian_football)" title="Bob Simpson (Canadian football)">Bob Simpson (Canadian football)</a> (1930–2007), CFL football player</li>
+<li><a href="/wiki/Bob_Simpson_(cricketer)" title="Bob Simpson (cricketer)">Bob Simpson (cricketer)</a> (born 1936), Australian cricketer</li>
+<li><a href="/wiki/Bob_Simpson_(journalist)" title="Bob Simpson (journalist)">Bob Simpson (journalist)</a> (1944–2006), foreign correspondent for the BBC</li>
+<li><a href="/wiki/Bob_Simpson_(British_Columbia_politician)" title="Bob Simpson (British Columbia politician)">Bob Simpson (British Columbia politician)</a> (born 19??), member of Legislative Assembly of British Columbia</li>
+<li><a href="/w/index.php?title=Bobby_Simpson_(Louisiana_politician)&amp;action=edit&amp;redlink=1" class="new" title="Bobby Simpson (Louisiana politician) (page does not exist)">Bobby Simpson (Louisiana politician)</a> (born 1953), Louisiana politician</li>
+<li><a href="/wiki/Bobby_Simpson_(ice_hockey)" title="Bobby Simpson (ice hockey)">Bobby Simpson (ice hockey)</a> (born 1956), Canadian NHL ice hockey player</li></ul></li>
+<li><a href="/wiki/Brandon_Simpson" title="Brandon Simpson">Brandon Simpson</a> (born 1981), American sprinter who represents Bahrain</li>
+<li><a href="/wiki/Brett_Simpson" title="Brett Simpson">Brett Simpson</a> (born 1985), American surfer</li>
+<li><a href="/wiki/Brian_Simpson" title="Brian Simpson">Brian Simpson</a> (born 1953), British member of the European Parliament</li>
+<li><a href="/wiki/Britney_Simpson" title="Britney Simpson">Britney Simpson</a> (born 1996), American pair skater</li>
+<li><a href="/wiki/Bruce_Simpson_(athlete)" title="Bruce Simpson (athlete)">Bruce Simpson (athlete)</a> (born 1950), Canadian pole vaulter</li>
+<li><a href="/wiki/Bruce_Simpson_(blogger)" title="Bruce Simpson (blogger)">Bruce Simpson (blogger)</a> (born 19??), New Zealand blogger</li></ul>
+<h3><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simpson_(name)&amp;action=edit&amp;section=4" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Cam_Simpson" title="Cam Simpson">Cam Simpson</a> (born 19??), American journalist</li>
+<li><a href="/wiki/Carl_Simpson" title="Carl Simpson">Carl Simpson</a> (born 1970), American footballer</li>
+<li><a href="/wiki/Carlos_Simpson" title="Carlos Simpson">Carlos Simpson</a> (born 1962), American mathematician</li>
+<li><a href="/wiki/Carole_Simpson" title="Carole Simpson">Carole Simpson</a> (born 1941), American news presenter and author</li>
+<li><a href="/wiki/Cather_Simpson" title="Cather Simpson">Cather Simpson</a>, New Zealand chemistry and physics professor</li>
+<li><a href="/wiki/Charles_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="Charles Simpson (disambiguation)">Charles and Charlie Simpson (disambiguation)</a>, multiple people
+<ul><li><a href="/wiki/Charles_Torrey_Simpson" title="Charles Torrey Simpson">Charles Torrey Simpson</a> (1846–1932), American biologist</li>
+<li><a href="/wiki/Charles_Walter_Simpson_(Canadian_artist)" title="Charles Walter Simpson (Canadian artist)">Charles Walter Simpson (Canadian artist)</a> (1878–1942), Canadian artist and illustrator</li>
+<li><a href="/wiki/Charles_Walter_Simpson_(English_artist)" title="Charles Walter Simpson (English artist)">Charles Walter Simpson (English artist)</a> (1885–1971), English painter</li>
+<li><a href="/wiki/Charles_Ralph_Simpson_III" title="Charles Ralph Simpson III">Charles Ralph Simpson III</a> (born 1945), United States federal judge</li>
+<li><a href="/wiki/Charlie_Simpson_(footballer)" title="Charlie Simpson (footballer)">Charlie Simpson (footballer)</a> (1861–?), English soccer player</li>
+<li><a href="/wiki/Charlie_Simpson" title="Charlie Simpson">Charlie Simpson</a>, English singer of the British rock bands <a href="/wiki/Fightstar" title="Fightstar">Fightstar</a> and <a href="/wiki/Busted_(band)" title="Busted (band)">Busted</a></li>
+<li><a href="/wiki/Charlie_Simpson_(fundraiser)" class="mw-redirect" title="Charlie Simpson (fundraiser)">Charlie Simpson (fundraiser)</a>, 7-year-old British boy who raised over £200,000 ($300,000) for the 2010 Haiti earthquake relief efforts</li></ul></li>
+<li><a href="/wiki/Chris_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="Chris Simpson (disambiguation)">Chris, Christine and Christopher Simpson (disambiguation)</a>, multiple people
+<ul><li><a href="/wiki/Chris_Simpson_(cricketer)" title="Chris Simpson (cricketer)">Chris Simpson (cricketer)</a> (born 1982), Australian cricketer</li>
+<li><a href="/wiki/Chris_Simpson_(squash_player)" title="Chris Simpson (squash player)">Chris Simpson (squash player)</a> (born 1987), British squash player</li>
+<li><a href="/wiki/Christine_Simpson" title="Christine Simpson">Christine Simpson</a> (born 1964), Canadian television presenter</li>
+<li><a href="/wiki/Christopher_Simpson" title="Christopher Simpson">Christopher Simpson</a> (c.1604–1669), English composer and musician</li>
+<li><a href="/wiki/Christopher_Simpson_(actor)" title="Christopher Simpson (actor)">Christopher Simpson (actor)</a> (born 1975), Irish actor</li></ul></li>
+<li><a href="/wiki/Claire_Simpson" title="Claire Simpson">Claire Simpson</a> (born 19??), British film editor</li>
+<li><a href="/wiki/Clement_Pearson_Simpson" title="Clement Pearson Simpson">Clement Pearson Simpson</a> (1868–1948), English rugby union player</li>
+<li><a href="/wiki/Cody_Simpson" title="Cody Simpson">Cody Simpson</a> (born 1997), Australian singer</li>
+<li><a href="/wiki/Colin_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="Colin Simpson (disambiguation)">Colin Simpson (disambiguation)</a>, multiple people
+<ul><li><a href="/wiki/Colin_Hall_Simpson" title="Colin Hall Simpson">Colin Hall Simpson</a> (1894–1964), Australian general</li>
+<li><a href="/wiki/Colin_M._Simpson" title="Colin M. Simpson">Colin M. Simpson</a> (born 1959), American politician</li>
+<li><a href="/wiki/Colin_Simpson_(author)" title="Colin Simpson (author)">Colin Simpson (author)</a> (born 19??), Canadian software developer and author of textbooks</li></ul></li>
+<li><a href="/wiki/Coreen_Simpson" title="Coreen Simpson">Coreen Simpson</a> (born 1942), American photographer and jewelry designer</li>
+<li><a href="/wiki/Craig_Simpson" title="Craig Simpson">Craig Simpson</a> (born 1967), Canadian ice hockey player</li>
+<li><a href="/wiki/Craig_Simpson_(footballer)" title="Craig Simpson (footballer)">Craig Simpson (footballer)</a> (born 19??), New Zealand international football (soccer) player</li>
+<li><a href="/wiki/Cuthbert_Simpson" title="Cuthbert Simpson">Cuthbert Simpson</a> (1892–1969), Anglican Dean of Christchurch, Oxford, 1959–1969</li></ul>
+<h3><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simpson_(name)&amp;action=edit&amp;section=5" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Dana_Simpson" title="Dana Simpson">Dana Simpson</a> (born 1977), cartoonist</li>
+<li><a href="/wiki/Daniel_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="Daniel Simpson (disambiguation)">Daniel and Danny Simpson (disambiguation)</a>, multiple people
+<ul><li><a href="/wiki/Daniel_H._Simpson" title="Daniel H. Simpson">Daniel H. Simpson</a> (1927–2015), American diplomat</li>
+<li><a href="/wiki/Daniel_R._Simpson" title="Daniel R. Simpson">Daniel R. Simpson</a> (born 1939), American politician</li>
+<li><a href="/wiki/Danny_Simpson_(early_footballer)" title="Danny Simpson (early footballer)">Danny Simpson (early footballer)</a> (fl. 1896–1903), an English footballer</li>
+<li><a href="/wiki/Danny_Simpson" title="Danny Simpson">Danny Simpson</a> (born 1987), English footballer</li></ul></li>
+<li><a href="/wiki/Darren_Simpson" class="mw-redirect" title="Darren Simpson">Darren Simpson</a> (born 1978), South African radio presenter</li>
+<li><a href="/wiki/David_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="David Simpson (disambiguation)">David Simpson (disambiguation)</a>, several people
+<ul><li><a href="/wiki/Dave_Simpson_(ice_hockey)" title="Dave Simpson (ice hockey)">Dave Simpson (ice hockey)</a> (born 1962), Canadian ice hockey player</li>
+<li><a href="/wiki/Dave_Simpson_(soccer)" title="Dave Simpson (soccer)">Dave Simpson (soccer)</a> (born 1983), Canadian soccer player</li>
+<li><a href="/wiki/David_Simpson_(priest)" title="David Simpson (priest)">David Simpson (priest)</a> (1745–1799), English priest</li>
+<li><a href="/wiki/David_Simpson_(Canadian_politician)" title="David Simpson (Canadian politician)">David Simpson (Canadian politician)</a> (1911-1965), Canadian politician</li>
+<li><a href="/wiki/David_Simpson_(artist)" title="David Simpson (artist)">David Simpson (artist)</a> (born 1928), American artist</li>
+<li><a href="/wiki/David_Simpson_(Northern_Ireland_politician)" title="David Simpson (Northern Ireland politician)">David Simpson (Northern Ireland politician)</a> (born 1959), Democratic Unionist Party  politician in Northern Ireland</li>
+<li><a href="/wiki/David_Simpson_(Texas_politician)" title="David Simpson (Texas politician)">David Simpson (Texas politician)</a> (born 1961), Texas Representative</li>
+<li><a href="/wiki/David_Simpson_(cricketer)" title="David Simpson (cricketer)">David Simpson (cricketer)</a> (born 1983), Irish cricketer</li></ul></li>
+<li><a href="/wiki/Dawson_Simpson" title="Dawson Simpson">Dawson Simpson</a> (born 1989), Australian rules footballer</li>
+<li><a href="/wiki/Deborah_Simpson" title="Deborah Simpson">Deborah Simpson</a> (born 19??), American politician in Maine</li>
+<li><a href="/wiki/Dennis_Simpson" title="Dennis Simpson">Dennis Simpson</a> (1919–2002), English footballer</li>
+<li><a href="/wiki/Derek_Simpson_(cellist)" title="Derek Simpson (cellist)">Derek Simpson (cellist)</a> (1928–2007), English cellist</li>
+<li><a href="/wiki/Derek_Simpson_(trade_unionist)" title="Derek Simpson (trade unionist)">Derek Simpson (trade unionist)</a> (born 1944), British trade union leader</li>
+<li><a href="/wiki/Dick_Simpson" title="Dick Simpson">Dick Simpson</a> (born 1943), American baseball player</li>
+<li><a href="/wiki/Dillon_Simpson" title="Dillon Simpson">Dillon Simpson</a> (born 1993), Canadian ice hockey player</li>
+<li><a href="/wiki/Don_Simpson" title="Don Simpson">Don Simpson</a> (1943–1996), American film producer</li>
+<li><a href="/wiki/Don_Simpson_(cartoonist)" title="Don Simpson (cartoonist)">Don Simpson (cartoonist)</a> (born 1961), American comic book artist</li>
+<li><a href="/wiki/Donna_Simpson_(internet_personality)" class="mw-redirect" title="Donna Simpson (internet personality)">Donna Simpson (internet personality)</a> (born 1967)</li>
+<li><a href="/wiki/Donna_Simpson" title="Donna Simpson">Donna Simpson</a> (born 19??), member of Australian folk rock band <i>The Waifs</i></li>
+<li><a href="/wiki/Dorothy_Simpson" title="Dorothy Simpson">Dorothy Simpson</a> (born 1933), British author</li>
+<li><a href="/wiki/Douglas_Simpson" title="Douglas Simpson">Douglas Simpson</a> (born 1982), Scottish field hockey forward</li>
+<li><a href="/wiki/Dudley_Simpson" title="Dudley Simpson">Dudley Simpson</a> (1922–2017)), Australian television composer</li>
+<li><a href="/wiki/Duke_Simpson" title="Duke Simpson">Duke Simpson</a> (born 1927), American baseball player</li></ul>
+<h3><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simpson_(name)&amp;action=edit&amp;section=6" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Eber_Simpson_(politician)" title="Eber Simpson (politician)">Eber Simpson (politician)</a> (1863–1919), American politician</li>
+<li><a href="/wiki/Eber_Simpson" title="Eber Simpson">Eber Simpson</a> (1895–1964), American football player</li>
+<li><a href="/wiki/Edmund_Simpson" title="Edmund Simpson">Edmund Simpson</a> (1784–1848), English actor and theatre manager</li>
+<li><a href="/wiki/Edward_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="Edward Simpson (disambiguation)">Edward Simpson (disambiguation)</a>, multiple people
+<ul><li><a href="/wiki/Edward_Simpson_(forger)" title="Edward Simpson (forger)">Edward Simpson (forger)</a> (1815–?), British geologist and forger</li>
+<li><a href="/wiki/Edward_Simpson_(naval_officer)" title="Edward Simpson (naval officer)">Edward Simpson (naval officer)</a> (1824–1888), officer in the U.S. Navy</li>
+<li><a href="/wiki/Edward_Simpson_(cricketer)" title="Edward Simpson (cricketer)">Edward Simpson (cricketer)</a> (1867–1944), English cricketer</li>
+<li><a href="/wiki/Edward_Sydney_Simpson" title="Edward Sydney Simpson">Edward Sydney Simpson</a> (1875–1939), Australian mineralogist and geochemist</li>
+<li><a href="/wiki/Edward_Simpson_(governor)" title="Edward Simpson (governor)">Edward Simpson (governor)</a>, Naval commandant and 20th Naval Governor of Guam</li>
+<li><a href="/wiki/Edward_A._Simpson" title="Edward A. Simpson">Edward A. Simpson</a> (1892–19??), British World War I flying ace</li>
+<li><a href="/wiki/Edward_H._Simpson" title="Edward H. Simpson">Edward H. Simpson</a> (born 1922), British statistician</li></ul></li>
+<li><a href="/wiki/Edwin_Simpson" title="Edwin Simpson">Edwin Simpson</a> (1909–1973), English footballer</li>
+<li><a href="/wiki/Eli_Simpson" title="Eli Simpson">Eli Simpson</a> (1884–1962), British caver and speleologist</li>
+<li><a href="/wiki/Elizabeth_Inchbald" title="Elizabeth Inchbald">Elizabeth Inchbald</a> née Simpson (1753–1821), English novelist, actress and dramatist</li>
+<li><a href="/wiki/Elizabeth_Simpson_(biologist)" title="Elizabeth Simpson (biologist)">Elizabeth Simpson (biologist)</a> (born 19??), British biologist</li>
+<li><a href="/wiki/Elliott_Simpson" title="Elliott Simpson">Elliott Simpson</a> (born 1976), English footballer</li>
+<li><a href="/wiki/Eric_Simpson" title="Eric Simpson">Eric Simpson</a> (born 19??), American basketball coach</li>
+<li><a href="/wiki/Erik_Simpson" title="Erik Simpson">Erik Simpson</a> (born 19??), American politician in Idaho</li>
+<li><a href="/wiki/Ernest_Aldrich_Simpson" class="mw-redirect" title="Ernest Aldrich Simpson">Ernest Aldrich Simpson</a> (1897–1958), Anglo-American shipping executive; 2nd husband of <a href="/wiki/Duchess_of_Windsor" class="mw-redirect" title="Duchess of Windsor">Wallis, Duchess of Windsor</a></li></ul>
+<h3><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simpson_(name)&amp;action=edit&amp;section=7" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Fiona_Simpson" title="Fiona Simpson">Fiona Simpson</a> (born 1965), Australian politician</li>
+<li><a href="/wiki/Florence_Simpson" title="Florence Simpson">Florence Simpson</a> (1874–1956), British army officer</li>
+<li><a href="/wiki/Frank_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="Frank Simpson (disambiguation)">Frank Simpson (disambiguation)</a>, multiple people
+<ul><li><a href="/wiki/Frank_W._Simpson" title="Frank W. Simpson">Frank W. Simpson</a> (1872–1929), America college football coach</li>
+<li><a href="/wiki/Frank_B._Simpson" title="Frank B. Simpson">Frank B. Simpson</a> (1883–1966), American architect</li>
+<li><a href="/wiki/Frank_Simpson_(British_Army_officer)" title="Frank Simpson (British Army officer)">Frank Simpson (British Army officer)</a> (1899–1986), British Army General</li>
+<li><a href="/wiki/Frank_Simpson_(cricketer)" title="Frank Simpson (cricketer)">Frank Simpson (cricketer)</a> (1909–1992), British Army officer and cricketer</li></ul></li>
+<li><a href="/wiki/Frederick_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="Frederick Simpson (disambiguation)">Fred, Freddy and Frederick Simpson (disambiguation)</a>, multiple people
+<ul><li><a href="/wiki/Fred_Simpson_(politician)" title="Fred Simpson (politician)">Fred Simpson (politician)</a> (1886–1939), British Labour Party politician, MP for Ashton-under-Lyne 1935–1939</li>
+<li><a href="/wiki/Freddy_Simpson" title="Freddy Simpson">Freddy Simpson</a> (1883 – after 1907), English footballer for Lincoln City</li>
+<li><a href="/wiki/Frederick_Simpson_(athlete)" title="Frederick Simpson (athlete)">Frederick Simpson (athlete)</a> (1878–1945), Canadian long distance runner</li>
+<li><a href="/wiki/Frederick_Simpson_(boxer)" title="Frederick Simpson (boxer)">Frederick Simpson (boxer)</a> (1916–1975), British boxer</li></ul></li></ul>
+<h3><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simpson_(name)&amp;action=edit&amp;section=8" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Gary_Simpson_(footballer_born_1959)" class="mw-redirect" title="Gary Simpson (footballer born 1959)">Gary Simpson (footballer born 1959)</a>, English footballer</li>
+<li><a href="/wiki/Gary_Simpson_(footballer_born_1961)" class="mw-redirect" title="Gary Simpson (footballer born 1961)">Gary Simpson (footballer born 1961)</a>, English footballer and manager
+<ul><li><a href="/wiki/Garry_Simpson" title="Garry Simpson">Garry Simpson</a> (1914–2011), American director, writer and producer</li></ul></li>
+<li><a href="/wiki/Geoff_Simpson" title="Geoff Simpson">Geoff Simpson</a> (born 19??), American politician in Washington State</li>
+<li><a href="/wiki/Geoffrey_Simpson" title="Geoffrey Simpson">Geoffrey Simpson</a> (born 19??), Australian cinematographer</li>
+<li><a href="/wiki/George_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="George Simpson (disambiguation)">George Simpson (disambiguation)</a>, several people including:
+<ul><li>Sir <a href="/wiki/George_Simpson_(administrator)" class="mw-redirect" title="George Simpson (administrator)">George Simpson (administrator)</a> (c. 1792–1860), explorer and administrator of the Hudson's Bay Company</li>
+<li><a href="/wiki/George_Buchan_Simpson" title="George Buchan Simpson">George Buchan Simpson</a> (1820–1892), Scottish art collector, connoisseur and patron of Scottish painters</li>
+<li><a href="/wiki/George_Bowen_Simpson" title="George Bowen Simpson">George Bowen Simpson</a> (1838–1915), politician and judge in New South Wales, Australia</li>
+<li><a href="/wiki/George_Simpson_(Canadian_politician)" title="George Simpson (Canadian politician)">George Simpson (Canadian politician)</a> (1858–1906), politician in Prince Edward Island, Canada</li>
+<li><a href="/wiki/George_W._Simpson" title="George W. Simpson">George W. Simpson</a> (1870–1951), New York politician and judge</li>
+<li><a href="/wiki/George_Simpson_(footballer)" title="George Simpson (footballer)">George Simpson (footballer)</a> (1876–1955), English football player for Doncaster Rovers and Chesterfield</li>
+<li><a href="/wiki/George_Simpson_(meteorologist)" title="George Simpson (meteorologist)">George Simpson (meteorologist)</a> (1878–1965), meteorologist for Scott's Antarctic expedition</li>
+<li><a href="/wiki/George_Goodman_Simpson" title="George Goodman Simpson">George Goodman Simpson</a> (1896–1990), Australian flying ace</li>
+<li><a href="/wiki/George_Gaylord_Simpson" title="George Gaylord Simpson">George Gaylord Simpson</a> (1902–1984), American paleontologist</li>
+<li><a href="/wiki/George_Simpson_(sprinter)" title="George Simpson (sprinter)">George Simpson (athlete)</a> (1908–1961), American runner</li>
+<li><a href="/wiki/George_Simpson,_Baron_Simpson_of_Dunkeld" title="George Simpson, Baron Simpson of Dunkeld">George Simpson, Baron Simpson of Dunkeld</a> (born 1942), British politician</li></ul></li>
+<li>Gerald Simpson (born 1967) a British musician known as <a href="/wiki/A_Guy_Called_Gerald" title="A Guy Called Gerald">A Guy Called Gerald</a> and former member of 808 State</li>
+<li><a href="/wiki/Gerard_Simpson" title="Gerard Simpson">Gerard Simpson</a> (1886–1957), Scottish cricketer for Kent and Argentina</li>
+<li><a href="/wiki/Gerry_Simpson" title="Gerry Simpson">Gerry Simpson</a> (born 19??), Scottish-born Australian law professor</li>
+<li><a href="/wiki/Gil_Simpson" title="Gil Simpson">Gil Simpson</a> (born 1948), New Zealand businessman</li>
+<li><a href="/wiki/Gilbert_Murray_Simpson" title="Gilbert Murray Simpson">Gilbert Murray Simpson</a> (1869–1954), English architect based in Brighton</li>
+<li><a href="/wiki/Glenn_Simpson_(field_hockey)" title="Glenn Simpson (field hockey)">Glenn Simpson (field hockey)</a> (born 1987), Australian hockey player</li>
+<li><a href="/wiki/Glenn_R._Simpson" title="Glenn R. Simpson">Glenn R. Simpson</a>, American journalist and political researcher</li>
+<li><a href="/wiki/Gord_Simpson" title="Gord Simpson">Gord Simpson</a> (born 1928), Canadian ice hockey player</li>
+<li><a href="/wiki/Gordon_Simpson" title="Gordon Simpson">Gordon Simpson</a> (born 1929), Australian politician</li>
+<li><a href="/wiki/Grace_Simpson" title="Grace Simpson">Grace Simpson</a> (1920–2007), British archaeologist</li></ul>
+<h3><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simpson_(name)&amp;action=edit&amp;section=9" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Habbie_Simpson" title="Habbie Simpson">Habbie Simpson</a> (1550–1620), Scottish piper</li>
+<li><a href="/wiki/Hack_Simpson" title="Hack Simpson">Hack Simpson</a> (Harold Alfred Simpson, 1910–1978), Canadian ice hockey player</li>
+<li><a href="/wiki/Harold_Simpson_(cricketer)" title="Harold Simpson (cricketer)">Harold Simpson (cricketer)</a> (1879–1924), English cricketer</li>
+<li>Harold <a href="/wiki/Bullet_Joe_Simpson" title="Bullet Joe Simpson">Bullet Joe Simpson</a> (1893–1973), Canadian ice hockey player</li>
+<li><a href="/wiki/Harry_Simpson_(disambiguation)" class="mw-disambig" title="Harry Simpson (disambiguation)">Harry Simpson (disambiguation)</a>, multiple people
+<ul><li><a href="/wiki/Harry_Simpson" title="Harry Simpson">Harry Simpson</a> (1925–1979),  American baseball player</li>
+<li><a href="/wiki/Harry_Simpson_(footballer,_born_1869)" title="Harry Simpson (footballer, born 1869)">Harry Simpson (footballer, born 1869)</a>, Scottish footballer for Stoke</li>
+<li><a href="/wiki/Harry_Simpson_(English_footballer)" title="Harry Simpson (English footballer)">Harry Simpson (English footballer)</a> (1875–1???), English footballer for Crewe Alexandra and Stoke</li>
+<li><a href="/wiki/Harry_Simpson_(footballer,_born_1888)" title="Harry Simpson (footballer, born 1888)">Harry Simpson (footballer, born 1888)</a>, Scottish footballer for Leicester Fosse</li></ul></li>
+<li><a href="/wiki/Harvey_Simpson" title="Harvey Simpson">Harvey Simpson</a> (1862–1928), Canadian politician in Manitoba</li>
+<li><a href="/wiki/Hazel_Simpson" class="mw-redirect" title="Hazel Simpson">Hazel Simpson</a> née Robson (born 1979), British Paralympian athlete</li>
+<li><a href="/wiki/Heather_Simpson" title="Heather Simpson">Heather Simpson</a> (born 19??), Scottish broadcast journalist and presenter</li>
+<li><a href="/wiki/Helen_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="Helen Simpson (disambiguation)">Helen Simpson (disambiguation)</a>, multiple people
+<ul><li><a href="/wiki/Helen_Macdonald_Simpson" class="mw-redirect" title="Helen Macdonald Simpson">Helen Macdonald Simpson</a> (1890–1960), New Zealand teacher, university lecturer and writer</li>
+<li><a href="/wiki/Helen_de_Guerry_Simpson" title="Helen de Guerry Simpson">Helen de Guerry Simpson</a> (1897–1940), Australian novelist</li>
+<li><a href="/wiki/Helen_Simpson_(author)" title="Helen Simpson (author)">Helen Simpson (author)</a> (born 1959), British short story writer</li></ul></li>
+<li><a href="/wiki/Heli_Simpson" title="Heli Simpson">Heli Simpson</a>, Australian actress and singer</li>
+<li><a href="/wiki/Henry_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="Henry Simpson (disambiguation)">Henry Simpson (disambiguation)</a> multiple people
+<ul><li><a href="/wiki/Henry_Simpson_(shipping)" title="Henry Simpson (shipping)">Henry Simpson (shipping)</a> (1815–1884), merchant and ship owner in South Australia</li>
+<li><a href="/wiki/Henry_Lakin_Simpson" title="Henry Lakin Simpson">Henry Lakin Simpson</a> (1859–1881), United States Navy sailor and Medal of Honor recipient</li>
+<li><a href="/wiki/Henry_Simpson_(Toronto)" title="Henry Simpson (Toronto)">Henry Simpson (Toronto)</a> (1864–1926), architect active in Toronto, Ontario</li>
+<li><a href="/wiki/Henry_Simpson_(Poets%27_Club_founder)" title="Henry Simpson (Poets&#39; Club founder)">Henry Simpson (Poets' Club founder)</a> (died 1939), banker and founder/president of the Poets' Club in London</li></ul></li>
+<li><a href="/wiki/Herbert_Simpson" title="Herbert Simpson">Herbert Simpson</a>, English footballer</li></ul>
+<h3><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simpson_(name)&amp;action=edit&amp;section=10" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Ian_Simpson_(architect)" title="Ian Simpson (architect)">Ian Simpson (architect)</a> (born c.1956), English architect</li>
+<li><a href="/wiki/Ian_Simpson_(motorcycle_racer)" class="mw-redirect" title="Ian Simpson (motorcycle racer)">Ian Simpson (motorcycle racer)</a> (born 1970), Scottish motorcycle road racer</li>
+<li>India Arie Simpson (born 1975), American singer-songwriter, musician, record producer known as <a href="/wiki/India_Arie" title="India Arie">India Arie</a></li>
+<li><a href="/wiki/Ivan_Simpson" title="Ivan Simpson">Ivan Simpson</a> (1875–1951), Scottish film and theatre actor</li></ul>
+<h3><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simpson_(name)&amp;action=edit&amp;section=11" title="Edit section: J">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Jack and <a href="/wiki/Jackie_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="Jackie Simpson (disambiguation)">Jackie Simpson (disambiguation)</a>, multiple people
+<ul><li><a href="/wiki/Jack_Simpson" title="Jack Simpson">Jack Simpson</a> (1859–1895), Scottish golfer</li>
+<li><a href="/wiki/Jack_Simpson" title="Jack Simpson">Jack Simpson</a> (1929–2015), Australian politician</li>
+<li><a href="/wiki/Jackie_Simpson_(defensive_back)" title="Jackie Simpson (defensive back)">Jackie Simpson (defensive back)</a> (born 1934), American football defensive back</li>
+<li><a href="/wiki/Jackie_Simpson_(linebacker)" title="Jackie Simpson (linebacker)">Jackie Simpson (linebacker)</a> (1936–1983), American football linebacker</li></ul></li>
+<li><a href="/wiki/Jacqueline_Simpson" title="Jacqueline Simpson">Jacqueline Simpson</a> (born 1930), British folklorist and author</li>
+<li><a href="/wiki/Jake_Simpson" title="Jake Simpson">Jake Simpson</a> (born 1990), English soccer player</li>
+<li><a href="/wiki/James_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="James Simpson (disambiguation)">James Simpson (disambiguation)</a>, multiple people
+<ul><li><a href="/wiki/James_Simpson_(advocate)" title="James Simpson (advocate)">James Simpson (advocate)</a> (1781–1853), Scottish advocate and author</li>
+<li><a href="/wiki/James_Simpson_(civil_servant)" title="James Simpson (civil servant)">James Simpson (civil servant)</a> (c. 1792–1857), early Australian civil servant and property developer</li>
+<li><a href="/wiki/James_Simpson_(British_Army_officer)" title="James Simpson (British Army officer)">James Simpson (British Army officer)</a> (1792–1868), general of the British Army</li>
+<li><a href="/wiki/James_Simpson_(engineer)" title="James Simpson (engineer)">James Simpson (engineer)</a> (1799–1869), British civil engineer</li>
+<li><a href="/wiki/James_Jenkins_Simpson" title="James Jenkins Simpson">James Jenkins Simpson</a> (1881-1936), British zoologist</li>
+<li><a href="/wiki/James_Young_Simpson" title="James Young Simpson">James Young Simpson</a> (1811–1870), Scottish doctor and pioneer in use of chloroform as anaesthetic</li>
+<li><a href="/wiki/James_H._Simpson" title="James H. Simpson">James H. Simpson</a> (1813–1883), surveyor of the American West for the U.S. Army</li>
+<li><a href="/wiki/James_Simpson_(priest)" title="James Simpson (priest)">James Simpson (priest)</a> (1865–1948), Dean of Peterborough, 1928–1942</li>
+<li><a href="/wiki/James_Young_Simpson_(scientist)" class="mw-redirect" title="James Young Simpson (scientist)">James Young Simpson (scientist)</a> (1873–1934), Scottish professor of natural science and diplomat</li>
+<li><a href="/wiki/James_Simpson_(politician)" title="James Simpson (politician)">James Simpson (politician)</a> (1873–1938), Canadian trade unionist and mayor of Toronto, 1935</li>
+<li><a href="/wiki/James_Simpson_(Australian_politician)" class="mw-redirect" title="James Simpson (Australian politician)">James Simpson (Australian politician)</a> (1905–1968), member of the New South Wales Legislative Assembly</li>
+<li><a href="/wiki/James_Simpson,_Jr." class="mw-redirect" title="James Simpson, Jr.">James Simpson, Jr.</a> (1905–1960), U.S. Representative from Illinois</li>
+<li><a href="/wiki/James_Simpson_(explorer)" title="James Simpson (explorer)">James Simpson (explorer)</a> (1911–2002), British polar explorer</li>
+<li><a href="/wiki/William_James_Simpson" title="William James Simpson">William James Simpson</a> (born 1954), Australian-American academic commonly known as <b>James Simpson</b></li>
+<li><a href="/wiki/James_Simpson_(government_official)" title="James Simpson (government official)">James Simpson (government official)</a> (born 19??), US government official</li>
+<li><a href="/wiki/James_B._Simpson" title="James B. Simpson">James B. Simpson</a> (died 2002), US journalist and priest, known for <i>Simpson's Contemporary Quotations</i></li></ul></li>
+<li><a href="/wiki/Jamie_Simpson" title="Jamie Simpson">Jamie Simpson</a> (born 1986), Australian rugby league footballer</li>
+<li><a href="/wiki/Jane_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="Jane Simpson (disambiguation)">Jane Simpson (disambiguation)</a>, multiple people
+<ul><li><a href="/wiki/Jane_Cross_Simpson" title="Jane Cross Simpson">Jane Cross Simpson</a> (1811–1886), Scottish hymnist and poet</li>
+<li><a href="/wiki/Jane_Simpson_(artist)" title="Jane Simpson (artist)">Jane Simpson (artist)</a> (born 1965), English artist</li>
+<li><a href="/wiki/Jane_Simpson_(footballer)" title="Jane Simpson (footballer)">Jane Simpson (footballer)</a> (born 1971), New Zealand international football (soccer) player</li>
+<li><a href="/wiki/Jane_Simpson_(solicitor)" title="Jane Simpson (solicitor)">Jane Simpson (solicitor)</a> (born 19??), English lawyer</li></ul></li>
+<li><a href="/wiki/Jared_Simpson" title="Jared Simpson">Jared Simpson</a>, English rugby league footballer</li>
+<li><a href="/wiki/Jay_Simpson_(actor)" title="Jay Simpson (actor)">Jay Simpson (actor)</a> (born 1967), English film, television and stage actor</li>
+<li><a href="/wiki/Jay_Simpson" title="Jay Simpson">Jay Simpson</a> (born 1988), English footballer</li>
+<li><a href="/wiki/Jeanmarie_Simpson" title="Jeanmarie Simpson">Jeanmarie Simpson</a> (born 1959), American peace activist and theatre and film artist</li>
+<li><a href="/wiki/Jeff_Simpson" title="Jeff Simpson">Jeff Simpson</a> (born 1950), New Zealand tennis player</li>
+<li><a href="/wiki/Jeffrey_Simpson" title="Jeffrey Simpson">Jeffrey Simpson</a> (born 1949), Canadian journalist</li>
+<li><a href="/wiki/Jemma_Simpson" title="Jemma Simpson">Jemma Simpson</a> (born 1984), British middle-distance runner</li>
+<li><a href="/wiki/Jennie_Simpson_(bowls)" title="Jennie Simpson (bowls)">Jennie Simpson (bowls)</a> (born 19??), New Zealand lawn bowls player</li>
+<li><a href="/wiki/Jennie_Simpson" title="Jennie Simpson">Jennie Simpson</a> (born 1987), Irish camogie player</li>
+<li><a href="/wiki/Jennifer_Simpson" class="mw-redirect" title="Jennifer Simpson">Jennifer Simpson</a> (born 1986), American middle-distance runner and steeplechaser</li>
+<li><a href="/wiki/Jenny_Simpson" title="Jenny Simpson">Jenny Simpson</a> (born 1973), American country music singer</li>
+<li><a href="/wiki/Jerry_Simpson" title="Jerry Simpson">Jerry Simpson</a> (1842–1905), American politician</li>
+<li><a href="/wiki/Jesse_L._Simpson" title="Jesse L. Simpson">Jesse L. Simpson</a> (1884-1973), American jurist</li>
+<li><a href="/wiki/Jessica_Simpson" title="Jessica Simpson">Jessica Simpson</a> (born 1980), American pop singer and actress</li>
+<li><a href="/wiki/Jessie_L._Simpson" title="Jessie L. Simpson">Jessie L. Simpson</a> (1882 — 1974), staff member in the United States Senate</li>
+<li><a href="/wiki/James_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="James Simpson (disambiguation)">Jim, Jimbo, Jimmi and Jimmy Simpson (disambiguation)</a>, multiple people
+<ul><li><a href="/wiki/Jim_Simpson_(Australian_politician)" title="Jim Simpson (Australian politician)">Jim Simpson (Australian politician)</a> (1905–1968), member of the New South Wales Legislative Assembly</li>
+<li><a href="/wiki/Jim_Simpson_(sportscaster)" title="Jim Simpson (sportscaster)">Jim Simpson (sportscaster)</a> (1927–2016), American sportscaster</li>
+<li><a href="/wiki/Jim_Simpson_(footballer)" class="mw-redirect" title="Jim Simpson (footballer)">Jim Simpson (footballer)</a>, English footballer</li>
+<li><a href="/wiki/Jimbo_Simpson" title="Jimbo Simpson">Jimbo Simpson</a> (born 19??), Northern Irish Loyalist terrorist</li>
+<li><a href="/wiki/Jimmi_Simpson" title="Jimmi Simpson">Jimmi Simpson</a> (born 1975), American actor</li>
+<li><a href="/wiki/Jimmy_Simpson_(American_football)" title="Jimmy Simpson (American football)">Jimmy Simpson (American football)</a> (1897–?), blocking back in the National Football League</li>
+<li><a href="/wiki/Jimmy_Simpson_(footballer,_born_1908)" title="Jimmy Simpson (footballer, born 1908)">Jimmy Simpson (footballer, born 1908)</a> (1908–1972), Scottish international footballer</li>
+<li><a href="/wiki/Jimmy_Simpson_(footballer,_born_1923)" title="Jimmy Simpson (footballer, born 1923)">Jimmy Simpson (footballer, born 1923)</a> (1923–2010), English footballer</li>
+<li><a href="/wiki/Jimmy_Simpson_(racing_driver)" title="Jimmy Simpson (racing driver)">Jimmy Simpson (racing driver)</a> (born 1992), American racing driver</li></ul></li>
+<li><a href="/wiki/Jock_Simpson" title="Jock Simpson">Jock Simpson</a> (1886–1959), English footballer</li>
+<li><a href="/wiki/Joe_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="Joe Simpson (disambiguation)">Joe Simpson (disambiguation)</a>, several people
+<ul><li><a href="/wiki/Joe_Simpson_(rugby_union,_born_1856)" title="Joe Simpson (rugby union, born 1856)">Joe Simpson (rugby union, born 1856)</a> (1856–1911), English rugby union player for London Wasps</li>
+<li><a href="/wiki/Joe_Simpson_(baseball)" title="Joe Simpson (baseball)">Joe Simpson (baseball)</a> (born 1951), American baseball player and broadcaster</li>
+<li><a href="/wiki/Joe_Simpson_(mountaineer)" title="Joe Simpson (mountaineer)">Joe Simpson (mountaineer)</a> (born 1960), English mountaineer and author</li>
+<li><a href="/wiki/Joe_Simpson_(artist)" title="Joe Simpson (artist)">Joe Simpson (artist)</a> (born 1984), English artist best known for cinematic oil paintings</li>
+<li><a href="/wiki/Joe_Simpson_(rugby_union,_born_1988)" title="Joe Simpson (rugby union, born 1988)">Joe Simpson (rugby union, born 1988)</a>, Australian-born English rugby union player</li></ul></li>
+<li><a href="/wiki/John_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="John Simpson (disambiguation)">John and Johnny Simpson (disambiguation)</a>, several people
+<ul><li><a href="/wiki/John_Simpson_(Presbyterian)" title="John Simpson (Presbyterian)">John Simpson (Presbyterian)</a> (1740–1808), of South Carolina, in the American Revolutionary War</li>
+<li><a href="/wiki/John_Simpson_(Unitarian)" title="John Simpson (Unitarian)">John Simpson (Unitarian)</a> (1746–1812), of Bath, English Unitarian minister and religious writer</li>
+<li><a href="/wiki/John_Simpson_(soldier)" title="John Simpson (soldier)">John Simpson (soldier)</a> (1748–1825), American Revolutionary War soldier at the Battle of Bunker Hill</li>
+<li><a href="/wiki/John_Simpson_(MP)" title="John Simpson (MP)">John Simpson (MP)</a> (1763–1850), English politician, Member of Parliament for Wenlock</li>
+<li><a href="/wiki/John_Simpson_(artist)" title="John Simpson (artist)">John Simpson (artist)</a> (1782–1847) British painter who painted <i>The Captive Slave'</i></li>
+<li><a href="/wiki/John_Simpson_(Quebec_politician)" title="John Simpson (Quebec politician)">John Simpson (Quebec politician)</a> (1788–1873), government official and politician in Quebec</li>
+<li><a href="/wiki/John_Simpson_(Canada_West_politician)" title="John Simpson (Canada West politician)">John Simpson (Canada West politician)</a> (1807–1878), Canadian businessman and politician</li>
+<li><a href="/wiki/John_Palgrave_Simpson" title="John Palgrave Simpson">John Palgrave Simpson</a> (1807–1887), British playwright</li>
+<li><a href="/wiki/John_Simpson_(Ontario_politician)" title="John Simpson (Ontario politician)">John Simpson (Ontario politician)</a> (1812–1885), Ontario banker and member of the Senate of Canada</li>
+<li><a href="/wiki/John_Simpson_(VC)" title="John Simpson (VC)">John Simpson (VC)</a> (1826–1884), Scottish recipient of the Victoria Cross</li>
+<li><a href="/wiki/John_Woodruff_Simpson" title="John Woodruff Simpson">John Woodruff Simpson</a> (1850–1920), American lawyer and founding partner at Simpson Thacher &amp; Bartlett</li>
+<li><a href="/wiki/John_A._Simpson" title="John A. Simpson">John A. Simpson</a> (1854–1916), Canadian politician</li>
+<li>Sir <a href="/wiki/John_William_Simpson" title="John William Simpson">John William Simpson</a> (1858–1933), English architect</li>
+<li>Sir <a href="/wiki/John_Hope_Simpson" title="John Hope Simpson">John Hope Simpson</a> (1868–1961), English administrator in India</li>
+<li><a href="/wiki/John_Thomas_Simpson" title="John Thomas Simpson">John Thomas Simpson</a> (1870–1965), Conservative member of the Canadian House of Commons</li>
+<li><a href="/wiki/John_Simpson_Kirkpatrick" title="John Simpson Kirkpatrick">John Simpson Kirkpatrick</a> (1892–1915), Australian World War I war hero (who enlisted as "John Simpson")</li>
+<li><a href="/wiki/John_Baird_Simpson" title="John Baird Simpson">John Baird Simpson</a> (1894–1960), Scottish geologist</li>
+<li><a href="/wiki/John_Milton_Bryan_Simpson" title="John Milton Bryan Simpson">John Milton Bryan Simpson</a> (1903–1987), American judge</li>
+<li><a href="/wiki/John_Herbert_Thomas_Simpson" title="John Herbert Thomas Simpson">John Herbert Thomas Simpson</a> (1907–1967), senior RAF officer and eighth Commandant Royal Observer Corps</li>
+<li><a href="/wiki/John_Wistar_Simpson" title="John Wistar Simpson">John Wistar Simpson</a> (1914–2007), American electrical engineer</li>
+<li><a href="/wiki/John_Alexander_Simpson" title="John Alexander Simpson">John Alexander Simpson</a> (1916–2000), American physicist</li>
+<li><a href="/wiki/John_Simpson_(footballer,_born_1918)" title="John Simpson (footballer, born 1918)">John Simpson (footballer, born 1918)</a> (1918–2000), English footballer for Huddersfield Town and York City</li>
+<li><a href="/wiki/John_Simpson_(British_Army_officer)" title="John Simpson (British Army officer)">John Simpson (British Army officer)</a> (1927–2007), British Army officer and Director SAS</li>
+<li><a href="/wiki/John_Simpson_(fencer)" title="John Simpson (fencer)">John Simpson (fencer)</a> (born 1927), Australian Olympic fencer</li>
+<li><a href="/wiki/John_Simpson_(police_official)" title="John Simpson (police official)">John Simpson (police official)</a> (born 1932), former director of US Secret Service and Interpol</li>
+<li><a href="/wiki/John_Simpson_(footballer,_born_1933)" title="John Simpson (footballer, born 1933)">John Simpson (footballer, born 1933)</a> (1933–1993), English footballer for Lincoln City and Gillingham</li>
+<li><a href="/wiki/John_Simpson_(priest)" title="John Simpson (priest)">John Simpson (priest)</a> (born 1933), Anglican clergyman</li>
+<li><a href="/wiki/John_Simpson_(journalist)" title="John Simpson (journalist)">John Simpson (journalist)</a> (born 1944), British BBC journalist, foreign correspondent and author</li></ul></li>
+<li><a href="/wiki/John_Simpson_Kirkpatrick" title="John Simpson Kirkpatrick">John Simpson Kirkpatrick</a>, iconic Australian figure of World War I ("Simpson and his donkey")
+<ul><li><a href="/wiki/John_B._Simpson" title="John B. Simpson">John B. Simpson</a> (born 1947), American president of the University at Buffalo</li>
+<li><a href="/wiki/John_Simpson_(journalist/consumer_advocate)" title="John Simpson (journalist/consumer advocate)">John Simpson (journalist/consumer advocate)</a> (born 1948), American consumer rights advocate and journalist</li>
+<li><a href="/wiki/John_Simpson_(lexicographer)" title="John Simpson (lexicographer)">John Simpson (lexicographer)</a> (born 1953) English Chief Editor of the Oxford English Dictionary</li>
+<li><a href="/wiki/John_Simpson_(architect)" title="John Simpson (architect)">John Simpson (architect)</a> (born 1954), British modern-day classical architect</li>
+<li><a href="/wiki/John_L._Simpson" title="John L. Simpson">John L. Simpson</a> (born 1963), Australian film and theatre producer, writer and distributor</li>
+<li><a href="/wiki/John_Simpson_(boxer)" title="John Simpson (boxer)">John Simpson (boxer)</a> (born 1983), Scottish featherweight boxer</li>
+<li><a href="/wiki/John_Simpson_(English_cricketer)" title="John Simpson (English cricketer)">John Simpson (English cricketer)</a> (born 1988), English cricketer</li>
+<li><a href="/wiki/John_Simpson_(basketball)" title="John Simpson (basketball)">John Simpson (basketball)</a> (born 19??), British basketball player</li>
+<li><a href="/wiki/Johnny_Simpson" title="Johnny Simpson">Johnny Simpson</a> (1922–2010), New Zealand rugby union international</li></ul></li>
+<li><a href="/wiki/Jordan_Simpson" title="Jordan Simpson">Jordan Simpson</a> (born 1985), Australian soccer player</li>
+<li><a href="/wiki/Joseph_Simpson_(disambiguation)" class="mw-disambig" title="Joseph Simpson (disambiguation)">Joseph Simpson (disambiguation)</a>, several people
+<ul><li><a href="/wiki/Joseph_Simpson_(artist,_printmaker)" class="mw-redirect" title="Joseph Simpson (artist, printmaker)">Joseph Simpson (artist, printmaker)</a> (1879–1939), British painter and etcher</li>
+<li>Sir <a href="/wiki/Joseph_Simpson_(politician)" title="Joseph Simpson (politician)">Joseph Simpson (politician)</a> (1908–1994), British-born Ugandan politician and businessman</li>
+<li>Sir <a href="/wiki/Joseph_Simpson" title="Joseph Simpson">Joseph Simpson</a> (1909–1968), Commissioner of the London Metropolitan Police, 1958–1968</li></ul></li>
+<li><a href="/wiki/Josh_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="Josh Simpson (disambiguation)">Josh Simpson (disambiguation)</a>, several people
+<ul><li><a href="/wiki/Josh_Simpson_(glass_artist)" title="Josh Simpson (glass artist)">Josh Simpson (glass artist)</a> (born 1949), American glass artist</li>
+<li><a href="/wiki/Josh_Simpson_(Canadian_soccer)" class="mw-redirect" title="Josh Simpson (Canadian soccer)">Josh Simpson (Canadian soccer)</a> (born 1983), Canadian soccer player</li>
+<li><a href="/wiki/Josh_Simpson_(English_footballer)" title="Josh Simpson (English footballer)">Josh Simpson (English footballer)</a> (born 1987), English footballer</li>
+<li><a href="/wiki/Josh_Simpson_(Australian_footballer)" title="Josh Simpson (Australian footballer)">Josh Simpson (Australian footballer)</a> (born 1994), Australian rules footballer</li></ul></li></ul>
+<h3><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simpson_(name)&amp;action=edit&amp;section=12" title="Edit section: K">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Kade_Simpson" title="Kade Simpson">Kade Simpson</a> (born 1984), Australian rules footballer</li>
+<li><a href="/wiki/Karen_Simpson" title="Karen Simpson">Karen Simpson</a> (born 1975), Canadian actress and fashion designer</li>
+<li><a href="/wiki/Karl_Simpson" title="Karl Simpson">Karl Simpson</a> (born 1976), English footballer</li>
+<li><a href="/wiki/Keith_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="Keith Simpson (disambiguation)">Keith Simpson (disambiguation)</a>, multiple people
+<ul><li><a href="/wiki/Keith_Simpson_(professor)" class="mw-redirect" title="Keith Simpson (professor)">Keith Simpson (professor)</a> (1907–1985), British pathologist</li>
+<li><a href="/wiki/Keith_Simpson_(politician)" title="Keith Simpson (politician)">Keith Simpson (politician)</a> (born 1949), British politician, Conservative MP for Broadland</li>
+<li><a href="/wiki/Keith_Simpson_(American_football)" title="Keith Simpson (American football)">Keith Simpson (American football)</a> (born 1956), American football safety</li></ul></li>
+<li><a href="/wiki/Ken_Simpson" title="Ken Simpson">Ken Simpson</a> (1938-2014), Australian ornithologist</li>
+<li><a href="/wiki/Kenneth_F._Simpson" title="Kenneth F. Simpson">Kenneth F. Simpson</a> (1895–1941), American politician</li>
+<li><a href="/wiki/Kent_Simpson_(ice_hockey,_born_1975)" title="Kent Simpson (ice hockey, born 1975)">Kent Simpson (ice hockey, born 1975)</a>, Canadian ice hockey left winger</li>
+<li><a href="/wiki/Kent_Simpson_(ice_hockey,_born_1992)" title="Kent Simpson (ice hockey, born 1992)">Kent Simpson (ice hockey, born 1992)</a>, Canadian ice hockey goaltender</li>
+<li><a href="/wiki/Ko_Simpson" title="Ko Simpson">Ko Simpson</a> (born 1983), American footballer</li></ul>
+<h3><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simpson_(name)&amp;action=edit&amp;section=13" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Lee_Simpson" title="Lee Simpson">Lee Simpson</a> (born 19??), British actor and comedian</li>
+<li><a href="/wiki/Leonard_Jennett_Simpson" title="Leonard Jennett Simpson">Leonard Jennett Simpson</a> (1882–1940), Canadian politician</li>
+<li><a href="/wiki/Les_Simpson" title="Les Simpson">Les Simpson</a> (1894–1968), Australian farmer, soldier and soldier-settlement administrator</li>
+<li><a href="/wiki/Lorena_Simpson" title="Lorena Simpson">Lorena Simpson</a>, Brazilian <a href="/wiki/Dance-pop" title="Dance-pop">dance-pop</a> singer</li>
+<li><a href="/wiki/Louis_Simpson" title="Louis Simpson">Louis Simpson</a> (1923–2012), Jamaican-born American poet</li>
+<li><a href="/wiki/Luke_Simpson" title="Luke Simpson">Luke Simpson</a> (born 1994), English footballer</li>
+<li><a href="/wiki/Lynn_Simpson" title="Lynn Simpson">Lynn Simpson</a> (born 1971), British slalom canoer</li></ul>
+<h3><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simpson_(name)&amp;action=edit&amp;section=14" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Maggie_Simpson_(musician)" title="Maggie Simpson (musician)">Maggie Simpson (musician)</a> (born 19??), American singer-songwriter</li>
+<li><a href="/wiki/Malcolm_Simpson" title="Malcolm Simpson">Malcolm Simpson</a> (born 1933), New Zealand Olympic cyclist</li>
+<li><a href="/wiki/Margaret_Simpson" title="Margaret Simpson">Margaret Simpson</a> (born 1981), Ghanaian heptathlete</li>
+<li><a href="/wiki/Mark_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="Mark Simpson (disambiguation)">Mark Simpson (disambiguation)</a>, multiple people
+<ul><li><a href="/wiki/Mark_Simpson_(soccer)" title="Mark Simpson (soccer)">Mark Simpson (soccer)</a> (born 1966), American soccer player</li>
+<li><a href="/wiki/Mark_Simpson_(Ireland_correspondent)" title="Mark Simpson (Ireland correspondent)">Mark Simpson (Ireland correspondent)</a> (born c.1968), journalist and BBC Ireland correspondent</li>
+<li><a href="/wiki/Mark_Simpson_(comics)" class="mw-redirect" title="Mark Simpson (comics)">Mark Simpson (comics)</a> (born 1972), British comic artist under the pseudonym "Jock"</li>
+<li><a href="/wiki/Mark_Simpson_(clarinetist)" title="Mark Simpson (clarinetist)">Mark Simpson (clarinetist)</a> (born 1988), winner of the BBC Young Musician of the Year, 2006</li>
+<li><a href="/wiki/Mark_Simpson_(journalist)" title="Mark Simpson (journalist)">Mark Simpson (journalist)</a> (born 19??), British journalist, broadcaster and author</li></ul></li>
+<li><a href="/wiki/Martin_Simpson_(geologist)" title="Martin Simpson (geologist)">Martin Simpson (geologist)</a> (1800–1892), British geologist</li>
+<li><a href="/wiki/Martin_Simpson" title="Martin Simpson">Martin Simpson</a>, English singer/songwriter and guitarist</li>
+<li><a href="/wiki/Martin_I._Simpson" title="Martin I. Simpson">Martin I. Simpson</a> (born 19??), English paleontologist</li>
+<li><a href="/wiki/Marty_Simpson_(baseball)" title="Marty Simpson (baseball)">Marty Simpson (baseball)</a>, 19th-century baseball player</li>
+<li><a href="/wiki/Marty_Simpson_(comedian)" title="Marty Simpson (comedian)">Marty Simpson (comedian)</a> (born 1972), American comedian and actor</li>
+<li><a href="/wiki/Mary_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="Mary Simpson (disambiguation)">Mary Simpson (disambiguation)</a>, multiple people
+<ul><li><a href="/wiki/Mary_Elizabeth_Simpson" title="Mary Elizabeth Simpson">Mary Elizabeth Simpson</a> (1865–1948), New Zealand religious teacher, healer and writer</li>
+<li><a href="/wiki/Mary_Simpson_(Episcopal_priest)" title="Mary Simpson (Episcopal priest)">Mary Simpson (Episcopal priest)</a> (1925–2011), one of the first women to be ordained an Episcopal priest</li>
+<li><a href="/wiki/Mary_Simpson_(Northern_Ireland_politician)" title="Mary Simpson (Northern Ireland politician)">Mary Simpson (Northern Ireland politician)</a>, Unionist politician in Northern Ireland in the 1970s and 1980s</li>
+<li><a href="/wiki/Mary_Simpson_(violinist)" title="Mary Simpson (violinist)">Mary Simpson (violinist)</a>, American violinist known for performing in Yanni's orchestra</li></ul></li>
+<li>Matt and Matthew Simpson, multiple people
+<ul><li><a href="/wiki/Matt_Simpson_(poet)" title="Matt Simpson (poet)">Matt Simpson (poet)</a> (1936–2009), British poet and literary critic</li>
+<li><a href="/wiki/Matt_Simpson_(beer_judge)" title="Matt Simpson (beer judge)">Matt Simpson (beer judge)</a> (born 19??), American beer judge</li>
+<li><a href="/wiki/Matthew_Simpson" title="Matthew Simpson">Matthew Simpson</a> (1811–1884), American bishop of the Methodist Episcopal Church</li>
+<li><a href="/wiki/Matthew_Simpson_(footballer)" title="Matthew Simpson (footballer)">Matthew Simpson (footballer)</a> (born 1967), Australian rules footballer</li></ul></li>
+<li><a href="/wiki/Michael_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="Michael Simpson (disambiguation)">Michael, Mickey and Mike Simpson (disambiguation)</a>, multiple people
+<ul><li><a href="/wiki/Michael_Simpson_(footballer)" title="Michael Simpson (footballer)">Michael Simpson (footballer)</a> (born 1974), English football player</li>
+<li><a href="/wiki/Michael_Simpson_(producer)" title="Michael Simpson (producer)">Michael Simpson (producer)</a>, record producer and member of the electronic group Dust Brothers</li>
+<li><a href="/wiki/Mickey_Simpson" title="Mickey Simpson">Mickey Simpson</a> (1913–1985), American TV and film actor</li>
+<li><a href="/wiki/Mike_Simpson_(American_football)" title="Mike Simpson (American football)">Mike Simpson (American football)</a> (born 1947), American football player</li>
+<li><a href="/wiki/Mike_Simpson" title="Mike Simpson">Mike Simpson</a> (born 1950), U.S. congressman from Idaho</li>
+<li><a href="/wiki/Mike_Simpson_(Michigan_politician)" title="Mike Simpson (Michigan politician)">Mike Simpson (Michigan politician)</a> (1962–2009), member of the Michigan House of Representatives</li>
+<li><a href="/wiki/Mike_Simpson_(writer)" title="Mike Simpson (writer)">Mike Simpson (writer)</a> (born 19??), British writer and educator</li>
+<li><a href="/wiki/M._J._Simpson" title="M. J. Simpson">M. J. Simpson</a> (Mike, born 19??), British movie journalist, author and screenwriter</li></ul></li>
+<li><a href="/wiki/Milward_L._Simpson" class="mw-redirect" title="Milward L. Simpson">Milward L. Simpson</a> (1897–1993), American politician, Governor of Wyoming</li>
+<li><a href="/wiki/Minnie_Cravath_Simpson" class="mw-redirect" title="Minnie Cravath Simpson">Minnie Cravath Simpson</a> (1860-1945) African-American anti-lynching activist</li>
+<li><a href="/wiki/Mona_Simpson" title="Mona Simpson">Mona Simpson</a> (born 1957), American novelist</li>
+<li><a href="/wiki/Monica_Simpson" title="Monica Simpson">Monica Simpson</a>, American reproductive rights activist</li></ul>
+<h3><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simpson_(name)&amp;action=edit&amp;section=15" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Nate_Simpson" title="Nate Simpson">Nate Simpson</a> (born 1954), American football running back</li>
+<li><a href="/wiki/Neil_Simpson" title="Neil Simpson">Neil Simpson</a> (born 1961), Scottish footballer</li>
+<li><a href="/wiki/Neil_Simpson_(boxer)" title="Neil Simpson (boxer)">Neil Simpson (boxer)</a> (born 1974), English boxer</li>
+<li><a href="/wiki/Nichola_Simpson" title="Nichola Simpson">Nichola Simpson</a> (born 1956), British archer</li>
+<li><a href="/wiki/Nicole_Brown_Simpson" title="Nicole Brown Simpson">Nicole Brown Simpson</a> (1959–1994), murder victim who was the ex-wife of O. J. Simpson</li>
+<li><a href="/wiki/Nigel_Simpson" title="Nigel Simpson">Nigel Simpson</a> (born 1975), Samoan-English rugby union player</li>
+<li><a href="/wiki/Norm_Simpson" title="Norm Simpson">Norm Simpson</a> (1905–1990), Australian rules footballer</li>
+<li><a href="/wiki/N._F._Simpson" title="N. F. Simpson">N. F. Simpson</a> (Norman F. Simpson, 1919–2011), British playwright</li></ul>
+<h3><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simpson_(name)&amp;action=edit&amp;section=16" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/O._J._Simpson" title="O. J. Simpson">O. J. Simpson</a>, American football player, actor, who was acquitted of murdering his ex-wife</li>
+<li><a href="/wiki/Oramel_H._Simpson" title="Oramel H. Simpson">Oramel H. Simpson</a>, American politician</li>
+<li><a href="/wiki/Owen_Simpson" title="Owen Simpson">Owen Simpson</a> (born 1943), English footballer</li></ul>
+<h3><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simpson_(name)&amp;action=edit&amp;section=17" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Pascal_Simpson" title="Pascal Simpson">Pascal Simpson</a> (born 1971), Swedish footballer</li>
+<li><a href="/wiki/Paul_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="Paul Simpson (disambiguation)">Paul Simpson (disambiguation)</a>, multiple people
+<ul><li><a href="/wiki/Paul_Hardrock_Simpson" title="Paul Hardrock Simpson">Paul Hardrock Simpson</a> (1904–1978), American ultra distance runner</li>
+<li><a href="/wiki/Paul_Simpson_(footballer)" title="Paul Simpson (footballer)">Paul Simpson (footballer)</a> (born 1966), English football player and manager</li>
+<li><a href="/wiki/Paul_Simpson_(musician)" title="Paul Simpson (musician)">Paul Simpson (musician)</a> (born 19??), musician, vocalist, lyricist and writer from Liverpool, England</li></ul></li>
+<li><a href="/wiki/Peggy_Simpson" title="Peggy Simpson">Peggy Simpson</a> (1913–1994), British actress</li>
+<li><a href="/wiki/Peter_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="Peter Simpson (disambiguation)">Pete and Peter Simpson (disambiguation)</a>, multiple people
+<ul><li><a href="/wiki/Pete_Simpson" title="Pete Simpson">Pete Simpson</a> (born 1930), American historian, educator and politician</li>
+<li><a href="/wiki/Peter_Simpson_(Native_rights_activist)" title="Peter Simpson (Native rights activist)">Peter Simpson (Native rights activist)</a> (c. 1871–1947), Tsimshian activist for Alaska Native rights</li>
+<li><a href="/wiki/Peter_Simpson_(Scottish_footballer)" title="Peter Simpson (Scottish footballer)">Peter Simpson (Scottish footballer)</a> (1904/05–1974), Scottish football striker</li>
+<li><a href="/wiki/Peter_Simpson_(footballer,_born_1940)" title="Peter Simpson (footballer, born 1940)">Peter Simpson (footballer, born 1940)</a>, English footballer who played for Burnley and Bury</li>
+<li><a href="/wiki/Peter_Simpson_(writer)" title="Peter Simpson (writer)">Peter Simpson (writer)</a> (born 1942), member of the New Zealand Parliament</li>
+<li><a href="/wiki/Peter_Simpson_(footballer,_born_1945)" title="Peter Simpson (footballer, born 1945)">Peter Simpson (footballer, born 1945)</a>, English footballer who played for Arsenal</li>
+<li>Sir <a href="/wiki/Peter_Jeffery_Simpson" title="Peter Jeffery Simpson">Peter Jeffery Simpson</a> (born 19??), British; president of the Royal College of Anaesthetists</li></ul></li>
+<li><a href="/wiki/Philemon_Simpson" title="Philemon Simpson">Philemon Simpson</a> (1819–1895), American politician and lawyer</li>
+<li><a href="/wiki/Portia_Simpson-Miller" title="Portia Simpson-Miller">Portia Simpson-Miller</a> (born 1945), Jamaican prime minister</li></ul>
+<h3><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simpson_(name)&amp;action=edit&amp;section=18" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/R._A._Simpson" title="R. A. Simpson">R. A. Simpson</a>, Australian poet</li>
+<li><a href="/wiki/Ray_Simpson_(VC)" class="mw-redirect" title="Ray Simpson (VC)">Ray Simpson (VC)</a> (1926–1978), Australian recipient of the Victoria Cross</li>
+<li><a href="/wiki/Ray_Simpson" title="Ray Simpson">Ray Simpson</a> (born 1954), lead singer with <i>Village People</i></li>
+<li><a href="/wiki/Rebecca_Simpson_(footballer)" class="mw-redirect" title="Rebecca Simpson (footballer)">Rebecca Simpson (footballer)</a> (born 1982), New Zealand international football (soccer) player</li>
+<li><a href="/wiki/Red_Simpson" title="Red Simpson">Red Simpson</a> (1934–2016), American country music singer-songwriter</li>
+<li><a href="/wiki/Reg_Simpson" title="Reg Simpson">Reg Simpson</a> (1920–2013), English cricketer</li>
+<li><a href="/wiki/Reid_Simpson" title="Reid Simpson">Reid Simpson</a> (born 1969), Canadian ice hockey player</li>
+<li><a href="/wiki/Rene_Simpson" title="Rene Simpson">Rene Simpson</a> (1966–2013), Canadian tennis player</li>
+<li><a href="/wiki/Rhona_Simpson" title="Rhona Simpson">Rhona Simpson</a> (born 1972), Scottish field hockey player
+<ul><li><a href="/wiki/Richard_Simpson_(martyr)" title="Richard Simpson (martyr)">Richard Simpson (martyr)</a> (c. 1553–1588), English Catholic priest, martyred during the reign of Elizabeth I</li>
+<li><a href="/wiki/Richard_F._Simpson" title="Richard F. Simpson">Richard F. Simpson</a> (1798–1882), U.S. Representative from South Carolina</li>
+<li><a href="/wiki/Richard_Simpson_(writer)" title="Richard Simpson (writer)">Richard Simpson (writer)</a> (1820–1876), Catholic writer and literary scholar</li>
+<li><a href="/wiki/Richard_Simpson_(rugby_union)" title="Richard Simpson (rugby union)">Richard Simpson (rugby union)</a> (c.1885–19??), rugby union player who represented Australia</li>
+<li><a href="/wiki/Richard_M._Simpson" title="Richard M. Simpson">Richard M. Simpson</a> (1900–1960), US Congressman from Pennsylvania</li>
+<li><a href="/wiki/Richard_Simpson_(Scottish_politician)" title="Richard Simpson (Scottish politician)">Richard Simpson (Scottish politician)</a> (born 1942), Scottish politician</li>
+<li>Richard Simpson (born 1968), New York-based rapper known as <a href="/wiki/Chubb_Rock" title="Chubb Rock">Chubb Rock</a></li>
+<li><a href="/wiki/Richard_J._Simpson" title="Richard J. Simpson">Richard J. Simpson</a> (born 19??), Australian professor of biochemistry</li>
+<li><a href="/wiki/Rick_Simpson" title="Rick Simpson">Rick Simpson</a> (born 19??), American set director</li>
+<li><a href="/wiki/Rik_Simpson" title="Rik Simpson">Rik Simpson</a> (born 19??), British record producer, musician and songwriter</li></ul></li>
+<li><a href="/wiki/Robert_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="Robert Simpson (disambiguation)">Robert and Robbie Simpson (disambiguation)</a>, multiple people
+<ul><li><a href="/wiki/Robert_Winthrop_Simpson" title="Robert Winthrop Simpson">Robert Winthrop Simpson</a> (1799–1887), Rear-Admiral of the Chilean Navy, hero of the War of the Confederation</li>
+<li><a href="/wiki/Robert_Simpson_(brewer)" title="Robert Simpson (brewer)">Robert Simpson (brewer)</a>, first mayor of Barrie, Ontario and founder of the Robert Simpson Brewing Company</li>
+<li><a href="/wiki/Robert_Simpson_(merchant)" title="Robert Simpson (merchant)">Robert Simpson (merchant)</a> (1834–1897), Canadian founder of Simpson's Department Store</li>
+<li><a href="/wiki/Robert_Kirkpatrick_Simpson" title="Robert Kirkpatrick Simpson">Robert Kirkpatrick Simpson</a> (1837–1921), member of the New Zealand Legislative Council</li>
+<li><a href="/wiki/Robert_Simpson_(athlete)" class="mw-redirect" title="Robert Simpson (athlete)">Robert Simpson (athlete)</a> (1892–1974), American track and field athlete and coach</li>
+<li><a href="/wiki/Robert_L._Simpson_(film_editor)" title="Robert L. Simpson (film editor)">Robert L. Simpson (film editor)</a> (1910–1977), American film editor</li>
+<li><a href="/wiki/Robert_Simpson_(Manitoba_politician)" title="Robert Simpson (Manitoba politician)">Robert Simpson (Manitoba politician)</a> (1910–1997), member of the Canadian House of Commons</li>
+<li><a href="/wiki/Robert_A._Simpson" title="Robert A. Simpson">Robert A. Simpson</a> (1910–1998), Alberta politician in Calgary North Hill</li>
+<li><a href="/wiki/Robert_Simpson_(meteorologist)" title="Robert Simpson (meteorologist)">Robert Simpson (meteorologist)</a> (1912-2014), American meteorologist</li>
+<li><a href="/wiki/Robert_L._Simpson_(Mormon)" title="Robert L. Simpson (Mormon)">Robert L. Simpson (Mormon)</a> (1915–2003), American general authority of The Church of Jesus Christ of Latter-day Saints</li>
+<li><a href="/wiki/Robert_Simpson_(composer)" title="Robert Simpson (composer)">Robert Simpson (composer)</a> (1921–1997), English composer</li>
+<li><a href="/wiki/Robert_Simpson_(Northern_Ireland_politician)" title="Robert Simpson (Northern Ireland politician)">Robert Simpson (Northern Ireland politician)</a> (1923–1997), Northern Irish politician</li>
+<li><a href="/wiki/Robert_B._Simpson" title="Robert B. Simpson">Robert B. Simpson</a> (born 1943), New Brunswick politician</li>
+<li><a href="/wiki/Robert_Simpson_(cricketer)" title="Robert Simpson (cricketer)">Robert Simpson (cricketer)</a> (born 1962), English cricketer</li>
+<li>Robert Simpson (born 1979) comedian, actor and presenter known as <a href="/wiki/Rufus_Hound" title="Rufus Hound">Rufus Hound</a></li>
+<li><a href="/wiki/Robert_L._Simpson,_Jr." class="mw-redirect" title="Robert L. Simpson, Jr.">Robert L. Simpson, Jr.</a> (born 19??), American artificial intelligence scientist</li>
+<li><a href="/wiki/Robbie_Simpson" title="Robbie Simpson">Robbie Simpson</a> (born 1975), Australian rugby league footballer</li>
+<li><a href="/wiki/Robbie_Simpson" title="Robbie Simpson">Robbie Simpson</a> (born 1985), English footballer</li></ul></li>
+<li><a href="/wiki/Roger_Simpson" title="Roger Simpson">Roger Simpson</a> (born 1967), English rugby league footballer</li>
+<li><a href="/wiki/Roland_Simpson" class="mw-redirect" title="Roland Simpson">Roland Simpson</a> (1969–2004), Australian base jumper</li>
+<li><a href="/wiki/Ron_Simpson" title="Ron Simpson">Ron Simpson</a> (1934–2010), English footballer</li>
+<li>Ronald Simpson (1962–2014), British guitarist known as <a href="/wiki/Ronny_Jordan" title="Ronny Jordan">Ronny Jordan</a></li>
+<li><a href="/wiki/Ronnie_Simpson" title="Ronnie Simpson">Ronnie Simpson</a> (1930–2004), Scottish football goalkeeper</li>
+<li><a href="/wiki/R._A._Simpson" title="R. A. Simpson">R. A. Simpson</a> (Ronald Albert Simpson, 1929–2002), Australian poet and artist</li>
+<li><a href="/wiki/Rose_Simpson" title="Rose Simpson">Rose Simpson</a> (born 19??), British musician (Incredible String Band) and Mayoress of Aberystwyth</li>
+<li><a href="/wiki/Russell_Simpson_(actor)" title="Russell Simpson (actor)">Russell Simpson (actor)</a> (1880–1959), American character actor</li>
+<li><a href="/wiki/Russell_Simpson_(tennis)" title="Russell Simpson (tennis)">Russell Simpson (tennis)</a> (born 1954), New Zealand tennis player</li>
+<li><a href="/wiki/Ruth_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="Ruth Simpson (disambiguation)">Ruth Simpson (disambiguation)</a>, multiple people</li></ul>
+<h3><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simpson_(name)&amp;action=edit&amp;section=19" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Sarah_Simpson" title="Sarah Simpson">Sarah Simpson</a> (died 1739), Colonial American executed for the murder of her child</li>
+<li><a href="/wiki/Scott_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="Scott Simpson (disambiguation)">Scott Simpson (disambiguation)</a>, multiple people
+<ul><li><a href="/wiki/Scott_Simpson_(golfer)" title="Scott Simpson (golfer)">Scott Simpson (golfer)</a> (born 1955), PGA Tour golfer</li>
+<li><a href="/wiki/Scott_Simpson_(politician)" title="Scott Simpson (politician)">Scott Simpson (politician)</a> (born 1959), New Zealand National Party MP</li>
+<li><a href="/wiki/Scott_Simpson_(athlete)" class="mw-redirect" title="Scott Simpson (athlete)">Scott Simpson (athlete)</a> (born 1979), Welsh pole-vaulter</li></ul></li>
+<li><a href="/wiki/Sean_Simpson" title="Sean Simpson">Sean Simpson</a> (born 1960),  Canadian ice hockey player and coach</li>
+<li><a href="/wiki/Sean_Simpson_(footballer)" title="Sean Simpson (footballer)">Sean Simpson (footballer)</a> (born 1970), Australian rules footballer</li>
+<li><a href="/wiki/Shane_Simpson" title="Shane Simpson">Shane Simpson</a> (born 19??), Canadian politician in British Columbia</li>
+<li><a href="/wiki/Shane_Simpson" title="Shane Simpson">Shane Simpson</a> (born 19??), Canadian musician</li>
+<li><a href="/wiki/Shaun_Simpson_(wrestler)" title="Shaun Simpson (wrestler)">Shaun Simpson (wrestler)</a> (born 1966), South African wrestler</li>
+<li><a href="/wiki/Shaun_Simpson" title="Shaun Simpson">Shaun Simpson</a> (born 1988), Scottish motocross racer</li>
+<li><a href="/wiki/Sherone_Simpson" title="Sherone Simpson">Sherone Simpson</a>, Jamaican athlete</li>
+<li><a href="/wiki/Sid_Simpson" title="Sid Simpson">Sid Simpson</a> (born 1894–1958), American politician</li>
+<li><a href="/wiki/Steve_Simpson_(disambiguation)" class="mw-redirect mw-disambig" title="Steve Simpson (disambiguation)">Stephen and Steve Simpson (disambiguation)</a>, multiple people
+<ul><li><a href="/wiki/Stephen_Simpson_(writer)" title="Stephen Simpson (writer)">Stephen Simpson (writer)</a> (1789-1854), American author</li>
+<li><a href="/wiki/Stephen_Simpson_(doctor)" title="Stephen Simpson (doctor)">Stephen Simpson (doctor)</a> (1793–1869), Australian pioneer</li>
+<li><a href="/wiki/Stephen_Simpson" title="Stephen Simpson">Stephen Simpson</a> (born 1984), South African racing driver</li>
+<li><a href="/wiki/Steve_Simpson_(baseball)" title="Steve Simpson (baseball)">Steve Simpson (baseball)</a> (1948–1989), Major League Baseball pitcher</li>
+<li><a href="/wiki/Steve_Simpson_(wrestler)" title="Steve Simpson (wrestler)">Steve Simpson (wrestler)</a> (born 1963), South African wrestler</li>
+<li><a href="/wiki/Steve_Simpson_(rugby_league)" title="Steve Simpson (rugby league)">Steve Simpson (rugby league)</a> (born 1979), Australian rugby league player</li></ul></li></ul>
+<h3><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simpson_(name)&amp;action=edit&amp;section=20" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Terry_Simpson" title="Terry Simpson">Terry Simpson</a> (born 1938), English footballer</li>
+<li><a href="/wiki/Terry_Simpson" title="Terry Simpson">Terry Simpson</a> (born 1943), Canadian ice hockey player and coach</li>
+<li><a href="/wiki/Thomas_Simpson_(disambiguation)" class="mw-disambig" title="Thomas Simpson (disambiguation)">Thomas Simpson (disambiguation)</a>, multiple people
+<ul><li><a href="/wiki/Thomas_Simpson_(composer)" title="Thomas Simpson (composer)">Thomas Simpson (composer)</a> (1582-c.1628), English composer</li>
+<li><a href="/wiki/Thomas_Simpson" title="Thomas Simpson">Thomas Simpson</a> (1710–1761), English mathematician, FRS</li>
+<li><a href="/wiki/Thomas_Simpson_(engineer)" title="Thomas Simpson (engineer)">Thomas Simpson (engineer)</a> (1755–1823), a British civil engineer</li>
+<li><a href="/wiki/Thomas_Simpson_(explorer)" title="Thomas Simpson (explorer)">Thomas Simpson (explorer)</a> (1808-1840), explorer with the Hudson's Bay Company</li>
+<li><a href="/wiki/Thomas_Simpson_(architect)" title="Thomas Simpson (architect)">Thomas Simpson (architect)</a> (1825–1908), Scottish architect based in Brighton</li>
+<li><a href="/wiki/Thomas_Simpson_(footballer)" title="Thomas Simpson (footballer)">Thomas Simpson (footballer)</a> (born 1935), Australian footballer</li></ul></li>
+<li><a href="/wiki/Tim_Simpson" title="Tim Simpson">Tim Simpson</a> (born 1956), American golfer</li>
+<li><a href="/wiki/Tim_Simpson_(American_football)" title="Tim Simpson (American football)">Tim Simpson (American football)</a> (born 1969), American football player</li>
+<li><a href="/wiki/Todd_Simpson" title="Todd Simpson">Todd Simpson</a> (born 1973), Canadian ice hockey player</li>
+<li><a href="/wiki/Thomas_Simpson_(disambiguation)" class="mw-disambig" title="Thomas Simpson (disambiguation)">Tom and Tommy Simpson (disambiguation)</a>, multiple people
+<ul><li><a href="/wiki/Tom_Simpson_(footballer)" title="Tom Simpson (footballer)">Tom Simpson (footballer)</a> (1880–19??), early soccer player</li>
+<li><a href="/wiki/Tom_Simpson" title="Tom Simpson">Tom Simpson</a> (1937–1967), British cyclist</li>
+<li><a href="/wiki/Tom_Simpson_(ice_hockey)" title="Tom Simpson (ice hockey)">Tom Simpson (ice hockey)</a> (born 1952), Canadian ice hockey player</li>
+<li><a href="/wiki/Tom_Simpson_(musician)" title="Tom Simpson (musician)">Tom Simpson (musician)</a> (born 1972), Scottish musician, keyboard player for the band Snow Patrol</li>
+<li><a href="/wiki/Tommy_Simpson_(footballer)" class="mw-redirect mw-disambig" title="Tommy Simpson (footballer)">Tommy Simpson (footballer)</a> (born 1930), Scottish football defender active in the 1950s</li></ul></li>
+<li><a href="/wiki/Tony_Simpson" title="Tony Simpson">Tony Simpson</a> (born 1965), Australian politician</li>
+<li><a href="/wiki/Tyler_Simpson" title="Tyler Simpson">Tyler Simpson</a> (1985–2011), Australian soccer player</li></ul>
+<h3><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simpson_(name)&amp;action=edit&amp;section=21" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Valerie_Simpson" class="mw-redirect" title="Valerie Simpson">Valerie Simpson</a> (born 1946), American singer and songwriter, and a part of duo <a href="/wiki/Ashford_%26_Simpson" title="Ashford &amp; Simpson">Ashford &amp; Simpson</a></li>
+<li><a href="/wiki/Vi_Simpson" title="Vi Simpson">Vi Simpson</a> (born 1946), American politician in Indiana</li>
+<li><a href="/wiki/Victor_Simpson" title="Victor Simpson">Victor Simpson</a> (born 1960), New Zealand rugby union footballer</li>
+<li><a href="/wiki/Vikki_Thorn" title="Vikki Thorn">Vikki Thorn</a> (née Simpson, born 19??), one-third of Australian band The Waifs</li></ul>
+<h3><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simpson_(name)&amp;action=edit&amp;section=22" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Wallis Simpson (1896–1986), (<a href="/wiki/Wallis,_Duchess_of_Windsor" class="mw-redirect" title="Wallis, Duchess of Windsor">Wallis, Duchess of Windsor</a>)</li>
+<li>"Walter Simpson", alias of <a href="/wiki/Arthur_Evans_(VC)" title="Arthur Evans (VC)">Arthur Evans (VC)</a> (1891–1936), English recipient of the Victoria Cross</li>
+<li><a href="/wiki/Warren_Simpson" title="Warren Simpson">Warren Simpson</a> (c.1922–1980), Australian snooker player</li>
+<li><a href="/wiki/Wayne_Simpson" title="Wayne Simpson">Wayne Simpson</a> (born 1948), American baseball player</li>
+<li><a href="/wiki/Wayne_Simpson_(ice_hockey)" title="Wayne Simpson (ice hockey)">Wayne Simpson</a> (born 1989), American ice hockey player</li>
+<li><a href="/wiki/Webb_Simpson" title="Webb Simpson">Webb Simpson</a> (born 1985), American professional golfer and 2012 US Open champion</li>
+<li><a href="/wiki/Wilbur_Simpson" title="Wilbur Simpson">Wilbur Simpson</a> (1917–1997), American bassoonist</li>
+<li><a href="/wiki/Will_C._Simpson" class="mw-redirect" title="Will C. Simpson">Will C. Simpson</a>, mayor of Ashland, Kentucky 1936–1940</li>
+<li><a href="/wiki/Will_Simpson_(equestrian)" title="Will Simpson (equestrian)">Will Simpson (equestrian)</a> (born 1959), American Olympic show jumper</li>
+<li><a href="/wiki/Will_Simpson_(comics)" title="Will Simpson (comics)">Will Simpson (comics)</a> (born 19??), Northern Irish comic book illustrator</li>
+<li><a href="/wiki/William_Simpson_(artist)" title="William Simpson (artist)">William Simpson (artist)</a> (1823–1899), Scottish war artist and correspondent</li>
+<li><a href="/wiki/William_Simpson_(judge)" title="William Simpson (judge)">William Simpson (judge)</a> (1894–1966), Australian Supreme Court judge</li>
+<li><a href="/wiki/William_Simpson_(rugby_league)" title="William Simpson (rugby league)">William Simpson (rugby league)</a>, rugby league footballer of the 1900s, and 1910s</li>
+<li><a href="/wiki/W._Douglas_Simpson" title="W. Douglas Simpson">W. Douglas Simpson</a> (William, 1896–1968), Scottish architecture and archaeology academic and writer</li>
+<li><a href="/wiki/William_Dunlap_Simpson" title="William Dunlap Simpson">William Dunlap Simpson</a> (1823–1890), Governor of South Carolina from 1879</li>
+<li><a href="/wiki/William_Gayley_Simpson" title="William Gayley Simpson">William Gayley Simpson</a> (1892–1991), American racial activist and author</li>
+<li><a href="/wiki/William_Hood_Simpson" title="William Hood Simpson">William Hood Simpson</a> (1888–1980), US general who commanded the US Ninth Army in Europe in World War II</li>
+<li><a href="/wiki/William_John_Simpson" title="William John Simpson">William John Simpson</a> (1851–1901), journalist and political figure in Quebec</li>
+<li><a href="/wiki/William_Kelly_Simpson" title="William Kelly Simpson">William Kelly Simpson</a> (born 1928), American professor emeritus of Egyptology and archaeology</li>
+<li><a href="/wiki/William_James_Simpson" title="William James Simpson">William James Simpson</a> (born 1954), Australian academic</li>
+<li><a href="/wiki/William_R._Simpson" title="William R. Simpson">William R. Simpson</a> (born 1966), Alaskan chemist</li>
+<li><a href="/wiki/William_T._Simpson" title="William T. Simpson">William T. Simpson</a> (1886–1980), New York politician</li></ul>
+<h2><span class="mw-headline" id="Fictional_characters">Fictional characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simpson_(name)&amp;action=edit&amp;section=23" title="Edit section: Fictional characters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Andrew_Simpson_(Neighbours)" class="mw-redirect" title="Andrew Simpson (Neighbours)">Andrew Simpson (<i>Neighbors</i>)</a>, a fictional character from the soap opera <i>Neighbours</i></li>
+<li><a href="/wiki/Archie_%22Snake%22_Simpson" class="mw-redirect" title="Archie &quot;Snake&quot; Simpson">Archie "Snake" Simpson</a>, a fictional character in the <i>Degrassi</i> franchise</li>
+<li><a href="/wiki/Bobby_Simpson_(Home_and_Away)" title="Bobby Simpson (Home and Away)">Bobby Simpson (<i>Home and Away</i>)</a>, soap opera character</li>
+<li>Frank Simpson, fictional supervillain in the Marvel Universe known as <a href="/wiki/Nuke_(Marvel_Comics)" title="Nuke (Marvel Comics)">Nuke (Marvel Comics)</a></li>
+<li><a href="/wiki/Roxanne_Simpson" title="Roxanne Simpson">Roxanne Simpson</a>, supporting character of Marvel Comics' <i>Ghost Rider</i></li>
+<li><a href="/w/index.php?title=Samantha_Simpson&amp;action=edit&amp;redlink=1" class="new" title="Samantha Simpson (page does not exist)">Samantha Simpson</a> is a reporter alias used by Sam in <i><a href="/wiki/Totally_Spies" class="mw-redirect" title="Totally Spies">Totally Spies</a></i></li>
+<li><a href="/wiki/Sophie_Simpson" title="Sophie Simpson">Sophie Simpson</a>,  a fictional character from the soap opera <i>Home and Away</i></li></ul>
+<h3><span class="mw-headline" id="The_Simpsons">The Simpsons</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simpson_(name)&amp;action=edit&amp;section=24" title="Edit section: The Simpsons">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>The <a href="/wiki/Simpson_family" title="Simpson family">Simpson family</a> from Television series <i><a href="/wiki/The_Simpsons" title="The Simpsons">The Simpsons</a></i>:
+<ul><li><a href="/wiki/Abe_Simpson" class="mw-redirect" title="Abe Simpson">Abe Simpson</a></li>
+<li><a href="/wiki/Bart_Simpson" title="Bart Simpson">Bart Simpson</a></li>
+<li><a href="/wiki/Homer_Simpson" title="Homer Simpson">Homer Simpson</a></li>
+<li><a href="/wiki/Lisa_Simpson" title="Lisa Simpson">Lisa Simpson</a></li>
+<li><a href="/wiki/Maggie_Simpson" title="Maggie Simpson">Maggie Simpson</a></li>
+<li><a href="/wiki/Marge_Simpson" title="Marge Simpson">Marge Simpson</a></li>
+<li><a href="/wiki/Mona_Simpson_(The_Simpsons)" title="Mona Simpson (The Simpsons)">Mona Simpson</a></li></ul></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simpson_(name)&amp;action=edit&amp;section=25" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Simson_(name)" title="Simson (name)">Simson (name)</a></li>
+<li><a href="/wiki/Simpsons_(department_store)" title="Simpsons (department store)">Simpsons (department store)</a>, Canadian department store chain</li>
+<li><a href="/wiki/Simpson_River" title="Simpson River">Simpson River</a>, Chilean river</li>
+<li><a href="/wiki/Simpson_River_(British_Columbia)" title="Simpson River (British Columbia)">Simpson River (British Columbia)</a>, river in British Columbia</li>
+<li><a href="/wiki/Simpson_River_National_Reserve" title="Simpson River National Reserve">Simpson River National Reserve</a>, national reserve in southern Chile</li>
+<li><a href="/wiki/Bryan_Simpson_United_States_Courthouse" title="Bryan Simpson United States Courthouse">Bryan Simpson United States Courthouse</a>, courthouse and federal government facility in Jacksonville, Florida</li>
+<li><a href="/wiki/Clara_Simpson_Three-Decker" title="Clara Simpson Three-Decker">Clara Simpson Three-Decker</a>, historic house in Worcester, Massachusetts</li>
+<li><a href="/wiki/Hope_Simpson_Enquiry" title="Hope Simpson Enquiry">Hope Simpson Enquiry</a>, British Commission addressing immigration and settlement in British Palestine (1930)</li>
+<li><a href="/wiki/Ian_Simpson_Architects" class="mw-redirect" title="Ian Simpson Architects">Ian Simpson Architects</a>, an English architecture practice established in 1987 by Ian Simpson and Rachel Haugh</li>
+<li><a href="/wiki/Jenny_Simpson_(album)" title="Jenny Simpson (album)">Jenny Simpson (album)</a>, eponymous country music album</li>
+<li>Robert Simpson Island, in Kiribati, now known as <a href="/wiki/Abemama" title="Abemama">Abemama</a></li>
+<li><a href="/wiki/Samuel_Simpson_House" title="Samuel Simpson House">Samuel Simpson House</a>, historic house in Wallingford, Connecticut</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simpson_(name)&amp;action=edit&amp;section=26" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://gbnames.publicprofiler.org/Map2.aspx?name=SIMPSON&amp;year=1881&amp;altyear=1998&amp;country=GB&amp;type=name">Great Britain Family Names – Public Profiler</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.surnamedb.com/surname.aspx?name=Simpson">"Surname: Simpson"</a>. surnamedb.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-04-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Surname%3A+Simpson&amp;rft.pub=surnamedb.com&amp;rft_id=http%3A%2F%2Fwww.surnamedb.com%2Fsurname.aspx%3Fname%3DSimpson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASimpson+%28name%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+</ol></div></div>
+<style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
+<table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
+<tbody><tr>
+<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Simpson</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Simpson_(name)&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
+</tr>
+</tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1289
+Cached time: 20191005104506
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.268 seconds
+Real time usage: 0.373 seconds
+Preprocessor visited node count: 1441/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 7403/2097152 bytes
+Template argument size: 1034/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 3857/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.098/10.000 seconds
+Lua memory usage: 2.52 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  258.746      1 -total
+ 36.93%   95.551      1 Template:Reflist
+ 34.13%   88.304      1 Template:Cite_web
+ 23.30%   60.278      1 Template:Surname
+ 20.27%   52.435      1 Template:Dmbox
+ 19.12%   49.468      1 Template:Infobox_surname
+ 14.02%   36.283      1 Template:Infobox
+  9.54%   24.694      1 Template:Short_description
+  8.55%   22.114      1 Template:Pagetype
+  8.53%   22.062      1 Template:Other_uses2
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:16835764-0!canonical and timestamp 20191005104505 and revision id 918582509
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Simpson_(name)&amp;oldid=918582509">https://en.wikipedia.org/w/index.php?title=Simpson_(name)&amp;oldid=918582509</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:English-language_surnames" title="Category:English-language surnames">English-language surnames</a></li><li><a href="/wiki/Category:Surnames_of_English_origin" title="Category:Surnames of English origin">Surnames of English origin</a></li><li><a href="/wiki/Category:Scottish_surnames" title="Category:Scottish surnames">Scottish surnames</a></li><li><a href="/wiki/Category:Patronymic_surnames" title="Category:Patronymic surnames">Patronymic surnames</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Simpson+%28name%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Simpson+%28name%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Simpson_(name)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Simpson_(name)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Simpson_(name)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Simpson_(name)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Simpson_(name)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Simpson_(name)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Simpson_(name)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Simpson_(name)&amp;oldid=918582509" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Simpson_(name)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2800825" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Simpson_%28name%29&amp;id=918582509" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Simpson_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Simpson+%28name%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Simpson+%28name%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Simpson_(name)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Simpson_(mi%C3%A2)" title="Simpson (miâ) – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Simpson_(Familienname)" title="Simpson (Familienname) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Simpson" title="Simpson – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Simpson" title="Simpson – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D1%96%D0%BC%D0%BF%D1%81%D0%BE%D0%BD_(%D0%BF%D1%80%D1%96%D0%B7%D0%B2%D0%B8%D1%89%D0%B5)" title="Сімпсон (прізвище) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2800825#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 29 September 2019, at 11:07<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Simpson_(name)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.268","walltime":"0.373","ppvisitednodes":{"value":1441,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":7403,"limit":2097152},"templateargumentsize":{"value":1034,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3857,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  258.746      1 -total"," 36.93%   95.551      1 Template:Reflist"," 34.13%   88.304      1 Template:Cite_web"," 23.30%   60.278      1 Template:Surname"," 20.27%   52.435      1 Template:Dmbox"," 19.12%   49.468      1 Template:Infobox_surname"," 14.02%   36.283      1 Template:Infobox","  9.54%   24.694      1 Template:Short_description","  8.55%   22.114      1 Template:Pagetype","  8.53%   22.062      1 Template:Other_uses2"]},"scribunto":{"limitreport-timeusage":{"value":"0.098","limit":"10.000"},"limitreport-memusage":{"value":2640258,"limit":52428800}},"cachereport":{"origin":"mw1289","timestamp":"20191005104506","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Simpson (name)","url":"https:\/\/en.wikipedia.org\/wiki\/Simpson_(name)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2800825","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2800825","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-04-09T00:36:02Z","dateModified":"2019-09-29T11:07:59Z","headline":"family name"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":156,"wgHostname":"mw1273"});});</script>
+</body>
+</html>

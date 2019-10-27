@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Fuxi - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Fuxi","wgTitle":"Fuxi","wgCurRevisionId":912909362,"wgRevisionId":912909362,"wgArticleId":165964,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Chinese-language text","Wikipedia articles needing clarification from February 2019","All articles with unsourced statements","Articles with unsourced statements from May 2016","Commons category link is on Wikidata","Chinese gods","Chinese mythology","29th-century BC people","28th-century BC people","Chinese monarchs","Chinese emperors","History of ancient China","Legendary rulers","Mythological hybrids"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January",
+"February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Fuxi","wgRelevantArticleId":165964,"wgRequestId":"Xay9mwpAICIAAJ32UMQAAAAA","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Fu_Xi","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Fuxi","wgWikibaseItemId":"Q236972","wgCentralAuthMobileDomain":
+!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","ext.cite.tracking","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert",
+"ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.1"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4a/Anonymous-Fuxi_and_N%C3%BCwa.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Fuxi"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Fuxi&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Fuxi&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Fuxi"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Fuxi rootpage-Fuxi skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Fuxi</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Fu_Xi&amp;redirect=no" class="mw-redirect" title="Fu Xi">Fu Xi</a>)</span></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color:#b0c4de">Fuxi</th></tr><tr style="display:none;"><td colspan="2" style="text-align:center"></td></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Anonymous-Fuxi_and_N%C3%BCwa.jpg" class="image"><img alt="Anonymous-Fuxi and Nüwa.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Anonymous-Fuxi_and_N%C3%BCwa.jpg/220px-Anonymous-Fuxi_and_N%C3%BCwa.jpg" decoding="async" width="220" height="460" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Anonymous-Fuxi_and_N%C3%BCwa.jpg/330px-Anonymous-Fuxi_and_N%C3%BCwa.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Anonymous-Fuxi_and_N%C3%BCwa.jpg/440px-Anonymous-Fuxi_and_N%C3%BCwa.jpg 2x" data-file-width="1013" data-file-height="2117" /></a><div>An ancient painting of Fuxi (right) and <a href="/wiki/N%C3%BCwa" title="Nüwa">Nüwa</a> (left) unearthed in the <a href="/wiki/Astana_Cemetery" title="Astana Cemetery">Astana Cemetery</a>, <a href="/wiki/Xinjiang" title="Xinjiang">Xinjiang</a></div></td></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Chinese_language" title="Chinese language">Chinese</a></th><td><span lang="zh-Hani" style="font-size:1rem;" title="Chinese language text"><a href="https://en.wiktionary.org/wiki/%E4%BC%8F%E7%BE%B2" class="extiw" title="wikt:伏羲">伏羲</a></span></td></tr><tr><td colspan="2" style="text-align:center"><table class="collapsible collapsed" style="padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size: 100%; text-align: left; background-color: #f9ffbc;">Transcriptions</th></tr><tr><th colspan="2" style="text-align:center;background-color: #dcffc9;"><a href="/wiki/Standard_Chinese" title="Standard Chinese">Standard Mandarin</a></th></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Hanyu_Pinyin" class="mw-redirect" title="Hanyu Pinyin">Hanyu Pinyin</a></th><td><span style="font-style:normal" lang="zh-Latn" title="Chinese-language romanization">Fúxī</span></td></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Wade%E2%80%93Giles" title="Wade–Giles">Wade–Giles</a></th><td><span style="font-style:normal" lang="zh-Latn" title="Chinese-language romanization">Fu-hsi</span></td></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Help:IPA/Mandarin" title="Help:IPA/Mandarin">IPA</a></th><td><span style="font-style:normal" lang="zh-Latn" title="Chinese-language romanization">fǔ ɕí</span></td></tr></tbody></table></td></tr><tr><th colspan="2" style="text-align:center;background-color: #b0c4de;">Paoxi</th></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Traditional_Chinese_characters" title="Traditional Chinese characters">Traditional&#160;Chinese</a></th><td><span lang="zh-Hant" style="font-size:1rem;" title="Chinese language text"><a href="https://en.wiktionary.org/wiki/%E5%BA%96%E7%8A%A7" class="extiw" title="wikt:庖犧">庖犧</a></span></td></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Simplified_Chinese_characters" title="Simplified Chinese characters">Simplified Chinese</a></th><td><span lang="zh-Hans" style="font-size:1rem;" title="Chinese language text"><a href="https://en.wiktionary.org/wiki/%E5%BA%96%E7%89%BA" class="extiw" title="wikt:庖牺">庖牺</a></span></td></tr><tr><td colspan="2" style="text-align:center"><table class="collapsible collapsed" style="padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size: 100%; text-align: left; background-color: #f9ffbc;">Transcriptions</th></tr><tr><th colspan="2" style="text-align:center;background-color: #dcffc9;"><a href="/wiki/Standard_Chinese" title="Standard Chinese">Standard Mandarin</a></th></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Hanyu_Pinyin" class="mw-redirect" title="Hanyu Pinyin">Hanyu Pinyin</a></th><td><span style="font-style:normal" lang="zh-Latn" title="Chinese-language romanization">Páoxī</span></td></tr><tr><th scope="row" style="font-weight:normal;"><a href="/wiki/Wade%E2%80%93Giles" title="Wade–Giles">Wade–Giles</a></th><td><span style="font-style:normal" lang="zh-Latn" title="Chinese-language romanization">P'ao-hsi</span></td></tr></tbody></table></td></tr><tr style="display:none"><td colspan="2">
+</td></tr></tbody></table>
+<p><b>Fuxi</b> (伏羲), also known as <b>Paoxi</b>, is a <a href="/wiki/Culture_hero" title="Culture hero">culture hero</a> in <a href="/wiki/Chinese_legend" class="mw-redirect" title="Chinese legend">Chinese legend</a> and <a href="/wiki/Chinese_mythology" title="Chinese mythology">mythology</a>, credited along with his sister <a href="/wiki/N%C3%BCwa" title="Nüwa">Nüwa</a> with <a href="/wiki/List_of_protoplasts" class="mw-redirect" title="List of protoplasts">creating humanity</a> and the invention of hunting, fishing, domestication, and cooking as well as the <a href="/wiki/Cangjie#Legend_of_character_creation" title="Cangjie">Cangjie</a> system of writing <a href="/wiki/Chinese_characters" title="Chinese characters">Chinese characters</a> around 2,000<span class="nowrap">&#160;</span>BCE. Fuxi was counted as the first of the <a href="/wiki/Three_August_Ones_and_Five_Emperors" class="mw-redirect" title="Three August Ones and Five Emperors">Three Sovereigns</a> at the beginning of the <a href="/wiki/List_of_Chinese_dynasties" class="mw-redirect" title="List of Chinese dynasties">Chinese dynastic period</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Origin"><span class="tocnumber">1</span> <span class="toctext">Origin</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Creation_legend"><span class="tocnumber">2</span> <span class="toctext">Creation legend</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Social_importance"><span class="tocnumber">3</span> <span class="toctext">Social importance</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Gallery"><span class="tocnumber">4</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Death"><span class="tocnumber">5</span> <span class="toctext">Death</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Origin">Origin</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fuxi&amp;action=edit&amp;section=1" title="Edit section: Origin">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Pangu" title="Pangu">Pangu</a> was said to be the creation god in <a href="/wiki/Chinese_mythology" title="Chinese mythology">Chinese mythology</a>. He was a giant sleeping within an egg of chaos. As he awoke, he stood up and divided the sky and the earth. Pangu then died after standing up, and his body turned into rivers, mountains, plants, animals, and everything else in the world, among which is a powerful being known as Hua Hsu.<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (February 2019)">clarification needed</span></a></i>&#93;</sup> Hua Hsu gave birth to a twin brother and sister, Fuxi and Nüwa. Fuxi and Nüwa are said to be creatures that have faces of human and bodies of snakes.
+</p><p>Fuxi was known as the "original human", and he was said to have been born in the lower-middle reaches of the <a href="/wiki/Yellow_River" title="Yellow River">Yellow River</a> in a place called Chengji (possibly modern <a href="/wiki/Lantian_County" title="Lantian County">Lantian</a>, <a href="/wiki/Shaanxi" title="Shaanxi">Shaanxi</a> province, or <a href="/wiki/Tianshui" title="Tianshui">Tianshui</a>, <a href="/wiki/Gansu" title="Gansu">Gansu</a> province).<sup id="cite_ref-flp1_1-0" class="reference"><a href="#cite_note-flp1-1">&#91;1&#93;</a></sup>
+</p><p>In reality, many Chinese people believe<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2016)">citation needed</span></a></i>&#93;</sup> that Hua Hsu was a leader during the matriarchal society (<abbr title="circa">c.</abbr><span style="white-space:nowrap;">&#8201;2,600</span><span class="nowrap">&#160;</span>BC) as early Chinese developed language skill while Fuxi and Nüwa were leaders in the early patriarchal society (<abbr title="circa">c.</abbr><span style="white-space:nowrap;">&#8201;2,600</span><span class="nowrap">&#160;</span>BCE) while Chinese began the marriage rituals.
+</p>
+<h2><span class="mw-headline" id="Creation_legend">Creation legend</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fuxi&amp;action=edit&amp;section=2" title="Edit section: Creation legend">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to the <i><a href="/wiki/Classic_of_Mountains_and_Seas" title="Classic of Mountains and Seas">Classic of Mountains and Seas</a></i>, Fuxi and Nüwa were the original humans who lived on the mythological <a href="/wiki/Kunlun_Mountain_(mythology)" class="mw-redirect" title="Kunlun Mountain (mythology)">Kunlun Mountain</a> (today's Huashan). One day they set up two separated piles of fire, and the fire eventually became one. Under the fire, they decided to become husband and wife. Fuxi and Nüwa used clay to create offspring, and with the divine power they made the clay figures come alive.<sup id="cite_ref-flp1_1-1" class="reference"><a href="#cite_note-flp1-1">&#91;1&#93;</a></sup> These clay figures were the earliest human beings. Fuxi and Nüwa were usually recognized by Chinese as two of the Three Emperors in the early patriarchal society in China (<abbr title="circa">c.</abbr><span style="white-space:nowrap;">&#8201;2,600</span><span class="nowrap">&#160;</span>BCE), based on the myth about Fuxi establishing marriage ritual in his tribe. The creation of human beings was a symbolic story of having a larger family structure that included the figure of a father.
+</p>
+<h2><span class="mw-headline" id="Social_importance">Social importance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fuxi&amp;action=edit&amp;section=3" title="Edit section: Social importance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On one of the columns of the Fuxi Temple in Gansu Province, the following couplet describes Fuxi's importance: "Among the three primogenitors of <a href="/wiki/Huaxia" title="Huaxia">Huaxia</a> civilization, Fu Xi in Huaiyang Country ranks first."<sup id="cite_ref-flp1_1-2" class="reference"><a href="#cite_note-flp1-1">&#91;1&#93;</a></sup> During the time of his predecessor <a href="/wiki/N%C3%BCwa" title="Nüwa">Nüwa</a>, society was matriarchal.
+</p>
+<style data-mw-deduplicate="TemplateStyles:r886047036">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><p>In the beginning there was as yet no moral or social order.  Men knew their mothers only, not their fathers.  When hungry, they searched for food; when satisfied, they threw away the remnants.  They devoured their food hide and hair, drank the blood, and clad themselves in skins and rushes.  Then came Fu Xi and looked upward and contemplated the images in the heavens, and looked downward and contemplated the occurrences on earth.  He united man and wife, regulated the five stages of change, and laid down the laws of humanity.  He devised the eight <a href="/wiki/Bagua_(concept)" class="mw-redirect" title="Bagua (concept)">trigrams</a>, in order to gain mastery over the world.</p><div class="templatequotecite">—&#8201;<cite>Ban Gu, Baihu tongyi<sup id="cite_ref-iching_2-0" class="reference"><a href="#cite_note-iching-2">&#91;2&#93;</a></sup></cite></div>
+</blockquote>
+<p>Fuxi taught his subjects to cook, to fish with nets, and to hunt with weapons made of bone, wood, or bamboo. He instituted marriage and offered the first open-air sacrifices to heaven. A stone tablet, dated AD 160, shows Fuxi with Nüwa.
+</p><p>Traditionally, Fuxi is considered the originator of the <i><a href="/wiki/I_Ching" title="I Ching">I Ching</a></i>, which work is attributed to his reading of the <i>He Map</i> (or the <a href="/wiki/Yellow_River_Map" title="Yellow River Map">Yellow River Map</a>). According to this tradition, Fuxi had the arrangement of the <a href="/wiki/Bagua_(concept)" class="mw-redirect" title="Bagua (concept)">trigrams</a> of the <i>I Ching</i> revealed to him in the markings on the back of a mythical <a href="/wiki/Longma" title="Longma">dragon horse</a> (sometimes said to be a <a href="/wiki/Tortoise" title="Tortoise">tortoise</a>) that emerged from the <a href="/wiki/Luo_River_(Henan)" title="Luo River (Henan)">Luo River</a>. This arrangement precedes the compilation of the <i>I Ching</i> during the <a href="/wiki/Zhou_Dynasty" class="mw-redirect" title="Zhou Dynasty">Zhou dynasty</a>. This discovery is said to have been the origin of calligraphy. Fuxi is also credited with the invention of the <a href="/wiki/Guqin" title="Guqin">Guqin</a> musical instrument, though credit for this is also given to <a href="/wiki/Shennong" title="Shennong">Shennong</a> and <a href="/wiki/Yellow_Emperor" title="Yellow Emperor">Yellow Emperor</a>.
+</p><p>The <a href="/wiki/Figurism" title="Figurism">Figurists</a> viewed Fuxi as <a href="/wiki/Enoch_(ancestor_of_Noah)" title="Enoch (ancestor of Noah)">Enoch</a>, the Biblical patriarch. 
+</p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fuxi&amp;action=edit&amp;section=4" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Ma-Lin-Fuxi-and-turtle.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ma-Lin-Fuxi-and-turtle.jpg/55px-Ma-Lin-Fuxi-and-turtle.jpg" decoding="async" width="55" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ma-Lin-Fuxi-and-turtle.jpg/82px-Ma-Lin-Fuxi-and-turtle.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ma-Lin-Fuxi-and-turtle.jpg/110px-Ma-Lin-Fuxi-and-turtle.jpg 2x" data-file-width="677" data-file-height="1480" /></a></div></div>
+			<div class="gallerytext">
+<p>Seated portrait depicting Fuxi, painted by <a href="/wiki/Ma_Lin_(painter)" title="Ma Lin (painter)">Ma Lin</a> of the <a href="/wiki/Song_dynasty" title="Song dynasty">Song dynasty</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:39px auto;"><a href="/wiki/File:Guo_Xu_album_dated_1503_(1).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Guo_Xu_album_dated_1503_%281%29.jpg/120px-Guo_Xu_album_dated_1503_%281%29.jpg" decoding="async" width="120" height="72" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Guo_Xu_album_dated_1503_%281%29.jpg/180px-Guo_Xu_album_dated_1503_%281%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/Guo_Xu_album_dated_1503_%281%29.jpg/240px-Guo_Xu_album_dated_1503_%281%29.jpg 2x" data-file-width="4000" data-file-height="2407" /></a></div></div>
+			<div class="gallerytext">
+<p>Painting of Fuxi looking at a <a href="/wiki/Bagua" title="Bagua">trigram</a> sketch, painted by Guo Xu of the <a href="/wiki/Ming_dynasty" title="Ming dynasty">Ming dynasty</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Chinese_woodcut,_Famous_medical_figures;_Emperor_Fuxi_Wellcome_L0039312.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Chinese_woodcut%2C_Famous_medical_figures%3B_Emperor_Fuxi_Wellcome_L0039312.jpg/80px-Chinese_woodcut%2C_Famous_medical_figures%3B_Emperor_Fuxi_Wellcome_L0039312.jpg" decoding="async" width="80" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Chinese_woodcut%2C_Famous_medical_figures%3B_Emperor_Fuxi_Wellcome_L0039312.jpg/120px-Chinese_woodcut%2C_Famous_medical_figures%3B_Emperor_Fuxi_Wellcome_L0039312.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Chinese_woodcut%2C_Famous_medical_figures%3B_Emperor_Fuxi_Wellcome_L0039312.jpg/160px-Chinese_woodcut%2C_Famous_medical_figures%3B_Emperor_Fuxi_Wellcome_L0039312.jpg 2x" data-file-width="2069" data-file-height="3104" /></a></div></div>
+			<div class="gallerytext">
+<p>Emperor Fuxi, woodcut print by Gan Bozong of the <a href="/wiki/Tang_dynasty" title="Tang dynasty">Tang dynasty</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Fuxi,_Qiu_Ying_(painting).jpeg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Fuxi%2C_Qiu_Ying_%28painting%29.jpeg/120px-Fuxi%2C_Qiu_Ying_%28painting%29.jpeg" decoding="async" width="120" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Fuxi%2C_Qiu_Ying_%28painting%29.jpeg/180px-Fuxi%2C_Qiu_Ying_%28painting%29.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Fuxi%2C_Qiu_Ying_%28painting%29.jpeg/240px-Fuxi%2C_Qiu_Ying_%28painting%29.jpeg 2x" data-file-width="1240" data-file-height="1242" /></a></div></div>
+			<div class="gallerytext">
+<p>Fuxi, painted by <a href="/wiki/Qiu_Ying" title="Qiu Ying">Qiu Ying</a> of the Ming dynasty, as depicted in <i>Orthodoxy of Rule Through the Ages</i>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Chinese_Emperor_Fu_Hsi,_wearing_traditional_costume,_Wellcome_V0018487.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Chinese_Emperor_Fu_Hsi%2C_wearing_traditional_costume%2C_Wellcome_V0018487.jpg/93px-Chinese_Emperor_Fu_Hsi%2C_wearing_traditional_costume%2C_Wellcome_V0018487.jpg" decoding="async" width="93" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Chinese_Emperor_Fu_Hsi%2C_wearing_traditional_costume%2C_Wellcome_V0018487.jpg/139px-Chinese_Emperor_Fu_Hsi%2C_wearing_traditional_costume%2C_Wellcome_V0018487.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Chinese_Emperor_Fu_Hsi%2C_wearing_traditional_costume%2C_Wellcome_V0018487.jpg/186px-Chinese_Emperor_Fu_Hsi%2C_wearing_traditional_costume%2C_Wellcome_V0018487.jpg 2x" data-file-width="2424" data-file-height="3126" /></a></div></div>
+			<div class="gallerytext">
+<p>Chinese emperor Fuxi, wearing a traditional costume, holding the <a href="/wiki/Yin_yang" class="mw-redirect" title="Yin yang">yin yang</a> symbol, 19th century
+</p>
+			</div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fuxi&amp;action=edit&amp;section=5" title="Edit section: Death">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Fuxi is said to have lived for 197 years altogether and died at a place called <a href="/wiki/Chen_(state)" title="Chen (state)">Chen</a> (modern <a href="/wiki/Huaiyang_County" class="mw-redirect" title="Huaiyang County">Huaiyang</a>, <a href="/wiki/Henan" title="Henan">Henan</a>), where a monument to him can still be found and visited as a tourist attraction.<sup id="cite_ref-flp1_1-3" class="reference"><a href="#cite_note-flp1-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fuxi&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="flag" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/32px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="32" height="21" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/48px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/64px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:China" title="Portal:China">China portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/Fish_in_Chinese_mythology" title="Fish in Chinese mythology">Fish in Chinese mythology</a></li>
+<li><a href="/wiki/Snakes_in_Chinese_mythology" title="Snakes in Chinese mythology">Snakes in Chinese mythology</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fuxi&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Fuxi" class="extiw" title="commons:Category:Fuxi"><span style="">Fuxi</span></a></b></i>.</td></tr>
+</tbody></table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" decoding="async" width="34" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="https://en.wikiquote.org/wiki/I_Ching" class="extiw" title="q:I Ching">I Ching</a></b></i></td></tr>
+</tbody></table>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-flp1-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-flp1_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-flp1_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-flp1_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-flp1_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><i>Worshiping the Three Sage Kings and Five Virtuous Emperors - The Imperial Temple of Emperors of Successive Dynasties in Beijing</i>. Beijing: Foreign Language Press. 2007. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-7-119-04635-8" title="Special:BookSources/978-7-119-04635-8"><bdi>978-7-119-04635-8</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Worshiping+the+Three+Sage+Kings+and+Five+Virtuous+Emperors+-+The+Imperial+Temple+of+Emperors+of+Successive+Dynasties+in+Beijing&amp;rft.place=Beijing&amp;rft.pub=Foreign+Language+Press&amp;rft.date=2007&amp;rft.isbn=978-7-119-04635-8&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFuxi" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-iching-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-iching_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Wilhelm, Richard; Baines, Cary F. (1967). <i>I Ching</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=I+Ching&amp;rft.date=1967&amp;rft.aulast=Wilhelm&amp;rft.aufirst=Richard&amp;rft.au=Baines%2C+Cary+F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFuxi" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+
+<tbody><tr>
+<td colspan="3" style="border-top: 5px solid #FFD700; text-align:center;"><div>Fuxi </div><div><b><a href="/wiki/Three_Sovereigns_and_Five_Emperors" title="Three Sovereigns and Five Emperors">Three Sovereigns and Five Emperors</a></b></div>
+</td></tr>
+<tr>
+<th colspan="3" style="border-top: 5px solid #ACE777;">Regnal titles
+</th></tr>
+
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<br /><span style="font-weight: bold"><a href="/wiki/Suiren" title="Suiren">Suiren</a></span>
+</td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b> <a href="/wiki/Table_of_Chinese_monarchs" class="mw-redirect" title="Table of Chinese monarchs">Mythological Emperor of China</a></b><br />c. 2852–2737 BCE
+</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br /><span style="font-weight: bold"><a href="/wiki/Shennong" title="Shennong">Shennong</a></span>
+</td></tr>
+</tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1296
+Cached time: 20191020180124
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.540 seconds
+Real time usage: 0.759 seconds
+Preprocessor visited node count: 1893/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 34829/2097152 bytes
+Template argument size: 2964/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 11399/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.310/10.000 seconds
+Lua memory usage: 13.96 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  716.785      1 -total
+ 41.57%  297.953      1 Template:Chinese
+ 40.78%  292.306      1 Template:Infobox
+ 15.50%  111.111      1 Template:Reflist
+ 12.51%   89.634      2 Template:Cite_book
+  9.73%   69.779      1 Template:What?
+  8.15%   58.383      1 Template:Fix-span
+  7.84%   56.198      1 Template:Commons_category
+  6.76%   48.456      1 Template:Quotation
+  5.82%   41.707      4 Template:Category_handler
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:165964-0!canonical and timestamp 20191020180124 and revision id 912909362
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Fuxi&amp;oldid=912909362">https://en.wikipedia.org/w/index.php?title=Fuxi&amp;oldid=912909362</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Chinese_gods" title="Category:Chinese gods">Chinese gods</a></li><li><a href="/wiki/Category:Chinese_mythology" title="Category:Chinese mythology">Chinese mythology</a></li><li><a href="/wiki/Category:29th-century_BC_people" title="Category:29th-century BC people">29th-century BC people</a></li><li><a href="/wiki/Category:28th-century_BC_people" title="Category:28th-century BC people">28th-century BC people</a></li><li><a href="/wiki/Category:Chinese_monarchs" title="Category:Chinese monarchs">Chinese monarchs</a></li><li><a href="/wiki/Category:Chinese_emperors" title="Category:Chinese emperors">Chinese emperors</a></li><li><a href="/wiki/Category:History_of_ancient_China" title="Category:History of ancient China">History of ancient China</a></li><li><a href="/wiki/Category:Legendary_rulers" title="Category:Legendary rulers">Legendary rulers</a></li><li><a href="/wiki/Category:Mythological_hybrids" title="Category:Mythological hybrids">Mythological hybrids</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_Chinese-language_text" title="Category:Articles containing Chinese-language text">Articles containing Chinese-language text</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_February_2019" title="Category:Wikipedia articles needing clarification from February 2019">Wikipedia articles needing clarification from February 2019</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2016" title="Category:Articles with unsourced statements from May 2016">Articles with unsourced statements from May 2016</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Fuxi" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Fuxi" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Fuxi" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Fuxi" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Fuxi">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Fuxi&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Fuxi&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Fuxi" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Fuxi" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Fuxi&amp;oldid=912909362" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Fuxi&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q236972" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Fuxi&amp;id=912909362" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Fuxi" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Fuxi">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Fuxi&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Fuxi&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%8D%89%E1%88%A2" title="ፉሢ – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/H%C5%AB-hi" title="Hū-hi – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A4%D1%83_%D0%A1%D0%B8" title="Фу Си – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Fu_Xi" title="Fu Xi – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Fu-si" title="Fu-si – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Fu_Xi" title="Fu Xi – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Fu_Xi" title="Fu Xi – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Fuxi" title="Fuxi – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Fu_Xi" title="Fu Xi – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%81%D9%88_%D9%87%D8%B3%DB%8C" title="فو هسی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Fuxi" title="Fuxi – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Phu%CC%8Dk-h%C3%AE" title="Phu̍k-hî – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B3%B5%ED%9D%AC" title="복희 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Fu_Xi" title="Fu Xi – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/F%C3%BAx%C4%AB" title="Fúxī – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Fu_Xi" title="Fu Xi – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A4%D7%95_%D7%A9%D7%99" title="פו שי – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A4%E1%83%A3%E1%83%A1%E1%83%98" title="ფუსი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Fu%C5%A1i" title="Fuši – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Fu-hszi" title="Fu-hszi – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Fu_Xi" title="Fu Xi – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Fuxi" title="Fuxi – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E4%BC%8F%E7%BE%B2" title="伏羲 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Fuxi" title="Fuxi – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Fuxi" title="Fuxi – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Fu_Xi" title="Fu Xi – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A4%D1%83_%D0%A1%D0%B8" title="Фу Си – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Fu_si" title="Fu si – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Fu_Hsi" title="Fu Hsi – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Fuxi" title="Fuxi – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9D%E0%B8%B9%E0%B8%8B%E0%B8%B5" title="ฝูซี – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Fu_Xi" title="Fu Xi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A4%D1%83-%D1%81%D1%96" title="Фу-сі – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ph%E1%BB%A5c_Hy" title="Phục Hy – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E4%BC%8F%E7%BE%B2" title="伏羲 – Classical Chinese" lang="lzh" hreflang="lzh" class="interlanguage-link-target">文言</a></li><li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E4%BC%8F%E7%BE%B2" title="伏羲 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E4%BC%8F%E7%BE%B2" title="伏羲 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E4%BC%8F%E7%BE%B2" title="伏羲 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q236972#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 28 August 2019, at 17:21<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Fuxi&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.540","walltime":"0.759","ppvisitednodes":{"value":1893,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":34829,"limit":2097152},"templateargumentsize":{"value":2964,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":11399,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  716.785      1 -total"," 41.57%  297.953      1 Template:Chinese"," 40.78%  292.306      1 Template:Infobox"," 15.50%  111.111      1 Template:Reflist"," 12.51%   89.634      2 Template:Cite_book","  9.73%   69.779      1 Template:What?","  8.15%   58.383      1 Template:Fix-span","  7.84%   56.198      1 Template:Commons_category","  6.76%   48.456      1 Template:Quotation","  5.82%   41.707      4 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.310","limit":"10.000"},"limitreport-memusage":{"value":14635774,"limit":52428800}},"cachereport":{"origin":"mw1296","timestamp":"20191020180124","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Fuxi","url":"https:\/\/en.wikipedia.org\/wiki\/Fuxi","sameAs":"http:\/\/www.wikidata.org\/entity\/Q236972","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q236972","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-01-06T07:54:28Z","dateModified":"2019-08-28T17:21:57Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/4a\/Anonymous-Fuxi_and_N%C3%BCwa.jpg","headline":"culture hero in Chinese legend and mythology, credited with creating humanity and the invention of hunting, fishing, cooking, animal husbandry, and Chinese characters"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":119,"wgHostname":"mw1332"});});</script>
+</body>
+</html>
