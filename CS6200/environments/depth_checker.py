@@ -15,7 +15,7 @@ def depth_checker(depth, url, tracker):
 		holder = urllib.request.urlopen(url).read()
 		holder = holder.decode('ISO-8859-1')
 		print(holder)
-		next_level = re.findall(r"^(?:http(s)?:\/\/en\.wikipedia\.org\/wiki)(?!Main_Page)\w+", holder)
+		next_level = re.findall(r"\/wiki\/)(?!Main_Page)\w+", holder)
 		for level in next_level:
 			if level not in tracker.visited
 			depth_checker(depth, url, tracker)

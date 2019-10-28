@@ -67,15 +67,13 @@ class tracker:
 		#checking so see whether this is parseable based on topics
 		#checking so see whether this is parseable based on topics
 		if url is not None:
-			# if robot.can_fetch("*",url): - removed this line because it led to long wait times.
-			# 	print("robot")
-			print(url)
+			# if robot.can_fetch("*",url):
 			try:
 				start = url_handler.open(url, timeout=5) 
 			except:
 				pass
 			else: 
-				if not self.visited_list.find(url):
+				if not url in self.visited_list:
 					cantral = start.info()
 					current_size = cantral.get("Content-Length")
 					if current_size is not None:
@@ -91,6 +89,7 @@ class tracker:
 						file = open(filename, "wb")
 						counter += 1
 						file.write(page.content)
+						print(filename)
 						file.close()
 			
 
