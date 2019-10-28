@@ -2,36 +2,34 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Miller - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Miller","wgTitle":"Miller","wgCurRevisionId":910551546,"wgRevisionId":910551546,"wgArticleId":2159644,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from June 2013","All articles needing additional references","Pages using deprecated image syntax","Wikipedia articles with GND identifiers","Wikipedia articles with NDL identifiers","Industrial occupations","Grinding mills"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May",
-"Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Miller","wgRelevantArticleId":2159644,"wgRequestId":"Xaia6ApAAEUAAFY4T68AAABC","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q694116","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready",
-"user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.cite.tracking","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
-"ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Lord (surname) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Lord_(surname)","wgTitle":"Lord (surname)","wgCurRevisionId":896984164,"wgRevisionId":896984164,"wgArticleId":7007771,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","All set index articles","Surnames"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Lord_(surname)","wgRelevantArticleId":7007771,"wgRequestId":"XbYmMgpAIDAAAAGl3uUAAAAX","wgCSPNonce":!1,
+"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q15138573","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready",
+"ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.1"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/a/a0/%22Den_Hoed%22%2C_molenaar_bij_maalbak_-_Kruiningen_-_20128156_-_RCE.jpg"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Miller"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Miller&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Miller&amp;action=edit"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Lord_(surname)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Lord_(surname)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Lord_(surname)&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Miller"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Lord_(surname)"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Miller rootpage-Miller skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Lord_surname rootpage-Lord_surname skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -40,7 +38,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Miller</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Lord (surname)</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -51,99 +49,109 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Miller&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Miller%22">"Miller"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Miller%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Miller%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Miller%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Miller%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Miller%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">June 2013</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
-<div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Miller_(disambiguation)" class="mw-disambig" title="Miller (disambiguation)">Miller (disambiguation)</a>.</div>
-<table class="infobox" style="width:22em"><caption>Miller</caption><tbody><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:%22Den_Hoed%22,_molenaar_bij_maalbak_-_Kruiningen_-_20128156_-_RCE.jpg" class="image"><img alt="&quot;Den Hoed&quot;, molenaar bij maalbak - Kruiningen - 20128156 - RCE.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%22Den_Hoed%22%2C_molenaar_bij_maalbak_-_Kruiningen_-_20128156_-_RCE.jpg/225px-%22Den_Hoed%22%2C_molenaar_bij_maalbak_-_Kruiningen_-_20128156_-_RCE.jpg" decoding="async" width="225" height="224" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%22Den_Hoed%22%2C_molenaar_bij_maalbak_-_Kruiningen_-_20128156_-_RCE.jpg/338px-%22Den_Hoed%22%2C_molenaar_bij_maalbak_-_Kruiningen_-_20128156_-_RCE.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%22Den_Hoed%22%2C_molenaar_bij_maalbak_-_Kruiningen_-_20128156_-_RCE.jpg/450px-%22Den_Hoed%22%2C_molenaar_bij_maalbak_-_Kruiningen_-_20128156_-_RCE.jpg 2x" data-file-width="1200" data-file-height="1193" /></a><div>Miller at work in the <a href="/wiki/De_Hoed,_Waarde" class="mw-redirect" title="De Hoed, Waarde">De Hoed, Waarde</a> windmill, in the Netherlands.</div></td></tr><tr><th colspan="2" style="text-align:center">Occupation</th></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Occupation type</div></th><td>vocation</td></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Activity sectors</div></th><td>Agriculture</td></tr><tr><th colspan="2" style="text-align:center">Description</th></tr><tr><th scope="row">Competencies</th><td>Buying &amp; Selling,<br />Math, Machine repair,</td></tr></tbody></table>
-<p>A <b>miller</b> is a person who operates a <a href="/wiki/Gristmill" title="Gristmill">mill</a>, a machine to grind a grain (for example corn or wheat) to make <a href="/wiki/Flour" title="Flour">flour</a>. <a href="/wiki/Mill_(grinding)" title="Mill (grinding)">Milling</a> is among the oldest of human occupations. "Miller", "Milne", and other variants are common surnames,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> as are their equivalents in other languages around the world ("<a href="/wiki/Melnyk_(surname)" class="mw-redirect" title="Melnyk (surname)">Melnyk</a>" in <a href="/wiki/Ukrainian_language" title="Ukrainian language">Ukrainian</a>, "<a href="/wiki/Meunier_(disambiguation)" class="mw-redirect" title="Meunier (disambiguation)">Meunier</a>" in <a href="/wiki/French_language" title="French language">French</a>, "<a href="/wiki/M%C3%BCller_(surname)" title="Müller (surname)">Müller</a>" or "<a href="/wiki/German_surname" class="mw-redirect" title="German surname">Mueller</a>" in <a href="/wiki/German_language" title="German language">German</a>, "<a href="/wiki/Mulder" title="Mulder">Mulder</a>" and "<a href="/wiki/Molenaar" title="Molenaar">Molenaar</a>" in <a href="/wiki/Dutch_language" title="Dutch language">Dutch</a>, "<a href="/wiki/Moln%C3%A1r" title="Molnár">Molnár</a>" in <a href="/wiki/Hungarian_language" title="Hungarian language">Hungarian</a>, "<a href="/wiki/Molinero" title="Molinero">Molinero</a>" in <a href="/wiki/Spanish_language" title="Spanish language">Spanish</a>, "<a href="/wiki/Molinaro" title="Molinaro">Molinaro</a>" or "<a href="/wiki/Molinari" title="Molinari">Molinari</a>" in <a href="/wiki/Italian_language" title="Italian language">Italian</a> etc.). Milling existed in <a href="/wiki/Hunter-gatherer" title="Hunter-gatherer">hunter-gatherer</a> communities, and later millers were important to the <a href="/wiki/History_of_agriculture" title="History of agriculture">development of agriculture</a>.
-</p><p>The materials ground by millers are often <a href="/wiki/Foodstuff" class="mw-redirect" title="Foodstuff">foodstuffs</a> and particularly <a href="/wiki/Cereal" title="Cereal">grain</a>.  The physical grinding of the food allows for the easier digestion of its <a href="/wiki/Nutrient" title="Nutrient">nutrients</a> and saves wear on the teeth. Non-food substances needed in a fine, powdered form, such as <a href="/wiki/Building_materials" class="mw-redirect" title="Building materials">building materials</a>, may be processed by a miller.
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Lord</b> is a surname, and may refer to:
 </p>
-<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
-<ul>
-<li class="toclevel-1 tocsection-1"><a href="#Quern-stone"><span class="tocnumber">1</span> <span class="toctext">Quern-stone</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Status"><span class="tocnumber">2</span> <span class="toctext">Status</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#Carnival"><span class="tocnumber">3</span> <span class="toctext">Carnival</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#Miller&#39;s_thumb"><span class="tocnumber">4</span> <span class="toctext">Miller's thumb</span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
-<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-7"><a href="#Surname"><span class="tocnumber">7</span> <span class="toctext">Surname</span></a></li>
-</ul>
-</div>
-
-<h2><span class="mw-headline" id="Quern-stone">Quern-stone</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Miller&amp;action=edit&amp;section=1" title="Edit section: Quern-stone">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Bedandrind.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bedandrind.jpg/220px-Bedandrind.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bedandrind.jpg/330px-Bedandrind.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bedandrind.jpg/440px-Bedandrind.jpg 2x" data-file-width="2288" data-file-height="1712" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Bedandrind.jpg" class="internal" title="Enlarge"></a></div>A bedstone and rind. <a href="/wiki/Dalgarven_Mill" class="mw-redirect" title="Dalgarven Mill">Dalgarven Mill</a>, Scotland.</div></div></div>
-<p>The most basic tool for a miller was the <a href="/wiki/Quern-stone" title="Quern-stone">quern-stone</a>—simply a large, fixed stone as a base and another movable stone operated by hand, similar to a <a href="/wiki/Mortar_and_pestle" title="Mortar and pestle">mortar and pestle</a>.  As technology and <a href="/wiki/Millstones" class="mw-redirect" title="Millstones">millstones</a> (the <a href="/wiki/Bedstone" title="Bedstone">bedstone</a> and <a href="/wiki/Millrind" title="Millrind">rynd</a>) improved, more elaborate machines such as <a href="/wiki/Watermill" title="Watermill">watermills</a> and <a href="/wiki/Windmill" title="Windmill">windmills</a> were developed to do the grinding work. These mills harnessed available energy sources including animal, water, wind, and electrical power.  Mills are some of <a href="/wiki/Mill_(factory)" class="mw-redirect" title="Mill (factory)">the oldest factories</a> in human history, so factories making other items are sometimes known as mills, for example, <a href="/wiki/Cotton_mill" title="Cotton mill">cotton mills</a> and <a href="/wiki/Steel_mill" title="Steel mill">steel mills</a>.  These factory workers are also called millers.
-</p><p>The rynd in <a href="/wiki/History_of_Scotland" title="History of Scotland">pre-reformation Scotland</a> was often carved on millers' gravestones as a symbol of their trade.
-</p>
-<h2><span class="mw-headline" id="Status">Status</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Miller&amp;action=edit&amp;section=2" title="Edit section: Status">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>In a traditional <a href="/wiki/Rural" class="mw-redirect" title="Rural">rural</a> society, a miller is often wealthier than ordinary peasants, which can lead to jealousy. Millers are often accused of associating with thieves, and were targeted in <a href="/wiki/Bread_riots" class="mw-redirect" title="Bread riots">bread riots</a> at times of <a href="/wiki/Famine" title="Famine">famine</a>. Conversely, millers might be in a stronger position vis-a-vis <a href="/wiki/Feudal" class="mw-redirect" title="Feudal">feudal</a> land owners than are ordinary peasants.
-</p>
-<h2><span class="mw-headline" id="Carnival">Carnival</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Miller&amp;action=edit&amp;section=3" title="Edit section: Carnival">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Monselice_z21.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Monselice_z21.JPG/220px-Monselice_z21.JPG" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Monselice_z21.JPG/330px-Monselice_z21.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Monselice_z21.JPG/440px-Monselice_z21.JPG 2x" data-file-width="1024" data-file-height="768" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Monselice_z21.JPG" class="internal" title="Enlarge"></a></div>A man dressed as a <a href="/wiki/Middle_Ages" title="Middle Ages">medieval</a> miller at a festival in <a href="/wiki/Monselice" title="Monselice">Monselice</a>, in <a href="/wiki/Italy" title="Italy">Italy</a>.</div></div></div>
-<p>The traditional carnival held annually in the city of <a href="/wiki/Ivrea#Culture" title="Ivrea">Ivrea</a>, <a href="/wiki/Italy" title="Italy">Italy</a>, commemorates a spirited "Mugnaia" (miller's daughter) who supposedly  refused to let a local duke exercise his <a href="/wiki/Right_of_the_first_night" class="mw-redirect" title="Right of the first night">right of the first night</a>, and proceeded to chop the duke's head off and spark a revolution. Whatever the historical validity  of the story, it is significant it was the daughter of a miller to whom folk tradition assigned this rebellious role.
-</p>
-<h2><span id="Miller.27s_thumb"></span><span class="mw-headline" id="Miller's_thumb">Miller's thumb</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Miller&amp;action=edit&amp;section=4" title="Edit section: Miller&#039;s thumb">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>As an important part of his job, the miller repeatedly takes into his hand samples of the ground meal coming out of the spout in order to feel the quality and character of the product. The miller rubs the grain between his thumb and forefinger. After years of doing this the miller's thumb changes shape and becomes broad and flattened. This is known as a "miller's thumb".
-</p><p>Sayings such as "worth a millerˈs thumb" and "an honest miller hath a golden thumb" refers to the profit the miller makes as a result of this skill.
-</p><p>The shape of a miller's thumb is said to have the appearance of the head of a fish. The <a href="/wiki/European_bullhead" title="European bullhead">European bullhead</a> (<i>Cottus gobio</i>), a freshwater fish, is commonly called a miller's thumb for this reason.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
-</p>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Miller&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Gristmill" title="Gristmill">Gristmill</a>, a name for grain mills</li>
-<li><a href="/wiki/List_of_early_medieval_watermills" title="List of early medieval watermills">Medieval watermills</a>, a list of early medieval watermills</li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Miller&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="reflist" style="list-style-type: decimal;">
-<div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=k8hrAAAAMAAJ&amp;pg=PA165">Surname Book and Racial History: A Compilation and Arrangement of ...</a></i>, p. 165, at <a href="/wiki/Google_Books" title="Google Books">Google Books</a></span>
-</li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.co.uk/books?id=qrhHAQAAIAAJ&amp;pg=PA297&amp;dq=%22Miller%27s+thumb%22+etymology&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwj4naHviNvSAhUnDcAKHdjQCew4FBDoAQg6MAY#v=onepage&amp;q=%22Miller&#39;s%20thumb%22%20etymology&amp;f=false"><i>The Athenaeum</i>, Issues 375-426 (London, 1835) p. 297</a>.</span>
-</li>
-</ol></div></div>
-<h2><span class="mw-headline" id="Surname">Surname</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Miller&amp;action=edit&amp;section=7" title="Edit section: Surname">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p><a href="/wiki/Miller_(name)" class="mw-redirect" title="Miller (name)">Miller</a> (also known as Millar) is a common surname derived from the old English surname <i>Milleiir</i>. The name, and its many other variants, can be found widely across the Europe in countries like the UK, Ireland, and many other countries across the world. </p><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q694116&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q694116&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q694116" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4208219-5">4208219-5</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00570306">00570306</a></span></span></li></ul>
-</div></td></tr></tbody></table></div>
+<ul><li><a href="/wiki/Lord_family" title="Lord family">Lord family</a>, fictional family</li>
+<li><a href="/wiki/Albert_Lord" title="Albert Lord">Albert Lord</a>, (1912–1991), Professor of Slavic literature</li>
+<li><a href="/wiki/Amnon_Lord" title="Amnon Lord">Amnon Lord</a> (born 1952), Israeli journalist</li>
+<li><a href="/wiki/Andrew_Lord_(disambiguation)" class="mw-redirect mw-disambig" title="Andrew Lord (disambiguation)">Andrew Lord (disambiguation)</a></li>
+<li><a href="/wiki/Austin_W._Lord" title="Austin W. Lord">Austin W. Lord</a> (1860–1922), American architect</li>
+<li><a href="/wiki/Ava_Lord" title="Ava Lord">Ava Lord</a></li>
+<li><a href="/wiki/Bernard_Lord" title="Bernard Lord">Bernard Lord</a> (born 1965), Canadian politician</li>
+<li><a href="/wiki/Bette_Bao_Lord" title="Bette Bao Lord">Bette Bao Lord</a></li>
+<li><a href="/wiki/Buff_Lord" title="Buff Lord">Buff Lord</a>, rugby league footballer of the 1910s, and 1920s</li>
+<li><a href="/wiki/Charles_Lord" title="Charles Lord">Charles Lord</a> (1928–1993), United States investment banker</li>
+<li><a href="/wiki/Chester_Sanders_Lord" title="Chester Sanders Lord">Chester Sanders Lord</a> (1850–1933), New York journalist</li>
+<li><a href="/wiki/David_Lord" title="David Lord">David Lord</a></li>
+<li><a href="/wiki/Del_Lord" title="Del Lord">Del Lord</a> (1894–1970), film director and actor best known as a director of <a href="/wiki/Three_Stooges" class="mw-redirect" title="Three Stooges">Three Stooges</a> films</li>
+<li><a href="/wiki/Dorian_Lord" title="Dorian Lord">Dorian Lord</a>, fictional character</li>
+<li><a href="/wiki/Eda_Hurd_Lord" title="Eda Hurd Lord">Eda Hurd Lord</a> (1854 - 1938), American  businesswoman</li>
+<li><a href="/wiki/Edwin_Chesley_Estes_Lord" title="Edwin Chesley Estes Lord">Edwin Chesley Estes Lord</a> (born 1868), American geologist and petrographer</li>
+<li><a href="/wiki/Elyse_Ashe_Lord" title="Elyse Ashe Lord">Elyse Ashe Lord</a> (1900 - 1971), British artist</li>
+<li><a href="/wiki/Frank_Lord" title="Frank Lord">Frank Lord</a>, English footballer and manager</li>
+<li><a href="/wiki/Gary_Lord" title="Gary Lord">Gary Lord</a> (born 1952), Ohio-based faux painting artist and teacher</li>
+<li><a href="/wiki/Gary_Lord_(rugby_league)" title="Gary Lord (rugby league)">Gary Lord (rugby league)</a> (born 1966), rugby league footballer of the 1980s, 1990s and 2000s (older brother of <a href="/wiki/Paul_Lord_(rugby_league)" title="Paul Lord (rugby league)">Paul Lord (rugby league)</a>)</li>
+<li><a href="/wiki/George_Lord" title="George Lord">George Lord</a> (1818–1880), Australian politician</li>
+<li><a href="/wiki/George_Edwin_Lord" title="George Edwin Lord">George Edwin Lord</a> (1846–1876), U.S. Army assistant surgeon</li>
+<li><a href="/wiki/George_P._Lord" title="George P. Lord">George P. Lord</a> (1831–1917), New York politician</li>
+<li><a href="/wiki/Herbert_Gardiner_Lord" title="Herbert Gardiner Lord">Herbert Gardiner Lord</a> (1849–1930), American  philosopher</li>
+<li><a href="/wiki/Jack_Lord" title="Jack Lord">Jack Lord</a></li>
+<li><a href="/wiki/James_Lord_(disambiguation)" class="mw-redirect mw-disambig" title="James Lord (disambiguation)">James Lord (disambiguation)</a>, various</li>
+<li><a href="/wiki/Jammal_Lord" title="Jammal Lord">Jammal Lord</a></li>
+<li><a href="/wiki/Jarvis_Lord" title="Jarvis Lord">Jarvis Lord</a> (1816–1887), New York politician</li>
+<li><a href="/wiki/Joe_Lord" title="Joe Lord">Joe Lord</a> (1922–1986), American professional basketball player</li>
+<li><a href="/wiki/John_Lord_(disambiguation)" class="mw-redirect mw-disambig" title="John Lord (disambiguation)">John Lord (disambiguation)</a>, various</li>
+<li><a href="/wiki/Jon_Lord_(politician)" title="Jon Lord (politician)">Jon Lord (politician)</a></li>
+<li><a href="/wiki/Jon_Lord" title="Jon Lord">Jon Lord</a> (1941–2012), English composer and pianist (Deep Purple)</li>
+<li><a href="/wiki/Jonathan_Lord" title="Jonathan Lord">Jonathan Lord</a> British MP</li>
+<li><a href="/wiki/Jonathan_Luke_Lord" class="mw-redirect" title="Jonathan Luke Lord">Jonathan Luke Lord</a></li>
+<li><a href="/wiki/Justine_Lord" title="Justine Lord">Justine Lord</a></li>
+<li><a href="/wiki/Kara_Lord" title="Kara Lord">Kara Lord</a>, Miss Guyana Universe 2011</li>
+<li><a href="/wiki/Marjorie_Lord" title="Marjorie Lord">Marjorie Lord</a> (1918–2015), American actress</li>
+<li><a href="/wiki/Mary_Lou_Lord" title="Mary Lou Lord">Mary Lou Lord</a></li>
+<li><a href="/wiki/Maxwell_Lord" title="Maxwell Lord">Maxwell Lord</a>, fictional character</li>
+<li><a href="/wiki/Meredith_Lord" title="Meredith Lord">Meredith Lord</a>, fictional character</li>
+<li><a href="/wiki/Miles_Lord" title="Miles Lord">Miles Lord</a> (1919-2016), American jurist</li>
+<li><a href="/wiki/Paul_Lord_(rugby_league)" title="Paul Lord (rugby league)">Paul Lord (rugby league)</a> (born 1967), rugby league footballer of the 1980s and 1990s (younger brother of <a href="/wiki/Gary_Lord_(rugby_league)" title="Gary Lord (rugby league)">Gary Lord (rugby league)</a>)</li>
+<li><a href="/wiki/Phil_Lord_and_Christopher_Miller" title="Phil Lord and Christopher Miller">Phil Lord</a>, film writer and director</li>
+<li><a href="/wiki/Peter_Lord" title="Peter Lord">Peter Lord</a></li>
+<li><a href="/wiki/Rebecca_Lord" title="Rebecca Lord">Rebecca Lord</a></li>
+<li><a href="/wiki/Susan_Lord" title="Susan Lord">Susan Lord</a>, American engineer</li>
+<li><a href="/wiki/Thomas_Lord" title="Thomas Lord">Thomas Lord</a></li>
+<li><a href="/wiki/Tina_Lord" title="Tina Lord">Tina Lord</a>, fictional character</li>
+<li><a href="/wiki/Victor_Lord" title="Victor Lord">Victor Lord</a>, fictional character</li>
+<li><a href="/wiki/Victoria_Lord" title="Victoria Lord">Victoria Lord</a>, fictional character</li>
+<li><a href="/wiki/Walter_Lord" title="Walter Lord">Walter Lord</a></li>
+<li><a href="/wiki/William_Lord_(disambiguation)" class="mw-redirect mw-disambig" title="William Lord (disambiguation)">William Lord (disambiguation)</a>, various</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lord_(surname)&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Laud_(disambiguation)" class="mw-redirect mw-disambig" title="Laud (disambiguation)">Laud</a></li>
+<li><a href="/wiki/Lords_(disambiguation)" class="mw-redirect mw-disambig" title="Lords (disambiguation)">Lords</a></li></ul>
+<style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
+<table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
+<tbody><tr>
+<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Lord</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Lord_(surname)&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
+</tr>
+</tbody></table>
 <!-- 
 NewPP limit report
-Parsed by mw1248
-Cached time: 20191016175212
+Parsed by mw1320
+Cached time: 20191001035906
 Cache expiry: 2592000
 Dynamic content: false
 Complications: []
-CPU time usage: 0.236 seconds
-Real time usage: 0.362 seconds
-Preprocessor visited node count: 471/1000000
+CPU time usage: 0.084 seconds
+Real time usage: 0.125 seconds
+Preprocessor visited node count: 180/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 14108/2097152 bytes
-Template argument size: 489/2097152 bytes
-Highest expansion depth: 9/40
-Expensive parser function count: 3/500
+Post‐expand include size: 2512/2097152 bytes
+Template argument size: 720/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 1/500
 Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 1076/5000000 bytes
-Number of Wikibase entities loaded: 1/400
-Lua time usage: 0.104/10.000 seconds
-Lua memory usage: 2.41 MB/50 MB
+Unstrip post‐expand size: 247/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.023/10.000 seconds
+Lua memory usage: 861 KB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  302.598      1 -total
- 39.64%  119.936      1 Template:Refimprove
- 30.89%   93.463      1 Template:Ambox
- 22.98%   69.533      1 Template:Infobox_occupation
- 21.41%   64.794      1 Template:Infobox
- 20.08%   60.756      1 Template:Authority_control
- 12.05%   36.476      1 Template:Find_sources_mainspace
-  9.82%   29.716      1 Template:Reflist
-  6.17%   18.679      1 Template:Other_uses
-  3.28%    9.922      1 Template:PAGENAMEBASE
+100.00%   98.869      1 -total
+100.00%   98.869      1 Template:Surname
+ 85.65%   84.683      1 Template:Dmbox
+ 48.05%   47.508      1 Template:Short_description
+ 44.79%   44.282      1 Template:Pagetype
+ 23.64%   23.369      1 Template:Category_handler
+  2.71%    2.679      1 Template:Main_other
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:2159644-0!canonical and timestamp 20191016175212 and revision id 910551546
+<!-- Saved in parser cache with key enwiki:pcache:idhash:7007771-0!canonical and timestamp 20191001035906 and revision id 896984164
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Miller&amp;oldid=910551546">https://en.wikipedia.org/w/index.php?title=Miller&amp;oldid=910551546</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Lord_(surname)&amp;oldid=896984164">https://en.wikipedia.org/w/index.php?title=Lord_(surname)&amp;oldid=896984164</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Industrial_occupations" title="Category:Industrial occupations">Industrial occupations</a></li><li><a href="/wiki/Category:Grinding_mills" title="Category:Grinding mills">Grinding mills</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_June_2013" title="Category:Articles needing additional references from June 2013">Articles needing additional references from June 2013</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -159,13 +167,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Miller" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Miller" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Lord+%28surname%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Lord+%28surname%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Miller" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Miller" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Lord_(surname)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Lord_(surname)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -180,7 +188,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Miller">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Miller&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Miller&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Lord_(surname)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Lord_(surname)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Lord_(surname)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -219,35 +227,35 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Miller" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Miller" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Miller&amp;oldid=910551546" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Miller&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q694116" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Miller&amp;id=910551546" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Lord_(surname)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Lord_(surname)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Lord_(surname)&amp;oldid=896984164" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Lord_(surname)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q15138573" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Lord_%28surname%29&amp;id=896984164" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
 			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
 			<div class="body">
 								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Millers" hreflang="en">Wikimedia Commons</a></li>				</ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Lord_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Miller">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Miller&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Miller&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Lord+%28surname%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Lord+%28surname%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Lord_(surname)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%9C%D0%BB%D1%8B%D0%BD%D0%B0%D1%80" title="Млынар – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Miliner" title="Miliner – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Moliner" title="Moliner – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/M%C3%B8ller" title="Møller – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/M%C3%BCller_(Berufsbezeichnung)" title="Müller (Berufsbezeichnung) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Moulin#Métiers_autour_du_moulin" title="Moulin – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Mugnaio" title="Mugnaio – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%98%D7%95%D7%97%D7%9F" title="טוחן – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/M%C5%82%C3%ABn%C3%B4rz" title="Młënôrz – Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Moln%C3%A1r" title="Molnár – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Miller" title="Miller – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Molenaar" title="Molenaar – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nds-nl"><a href="https://nds-nl.wikipedia.org/wiki/Mulder" title="Mulder – Low Saxon" lang="nds-NL" hreflang="nds-NL" class="interlanguage-link-target">Nedersaksies</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E8%A3%BD%E7%B2%89" title="製粉 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/M%C3%B8llar" title="Møllar – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Moleiro" title="Moleiro – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Мельник – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Myll%C3%A4ri" title="Mylläri – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Mj%C3%B6lnare" title="Mjölnare – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/M%C3%B4n%C3%AE" title="Mônî – Walloon" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li><li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/Ardwan" title="Ardwan – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q694116#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q15138573#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 12 August 2019, at 21:14<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 14 May 2019, at 01:32<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -258,7 +266,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Miller&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Lord_(surname)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -270,8 +278,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.236","walltime":"0.362","ppvisitednodes":{"value":471,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":14108,"limit":2097152},"templateargumentsize":{"value":489,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1076,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  302.598      1 -total"," 39.64%  119.936      1 Template:Refimprove"," 30.89%   93.463      1 Template:Ambox"," 22.98%   69.533      1 Template:Infobox_occupation"," 21.41%   64.794      1 Template:Infobox"," 20.08%   60.756      1 Template:Authority_control"," 12.05%   36.476      1 Template:Find_sources_mainspace","  9.82%   29.716      1 Template:Reflist","  6.17%   18.679      1 Template:Other_uses","  3.28%    9.922      1 Template:PAGENAMEBASE"]},"scribunto":{"limitreport-timeusage":{"value":"0.104","limit":"10.000"},"limitreport-memusage":{"value":2529129,"limit":52428800}},"cachereport":{"origin":"mw1248","timestamp":"20191016175212","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Miller","url":"https:\/\/en.wikipedia.org\/wiki\/Miller","sameAs":"http:\/\/www.wikidata.org\/entity\/Q694116","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q694116","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-07-03T02:33:01Z","dateModified":"2019-08-12T21:14:06Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/a0\/%22Den_Hoed%22%2C_molenaar_bij_maalbak_-_Kruiningen_-_20128156_-_RCE.jpg","headline":"person who produces flour or other products by operating a mill"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":123,"wgHostname":"mw1274"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.084","walltime":"0.125","ppvisitednodes":{"value":180,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":2512,"limit":2097152},"templateargumentsize":{"value":720,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":247,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   98.869      1 -total","100.00%   98.869      1 Template:Surname"," 85.65%   84.683      1 Template:Dmbox"," 48.05%   47.508      1 Template:Short_description"," 44.79%   44.282      1 Template:Pagetype"," 23.64%   23.369      1 Template:Category_handler","  2.71%    2.679      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.023","limit":"10.000"},"limitreport-memusage":{"value":881322,"limit":52428800}},"cachereport":{"origin":"mw1320","timestamp":"20191001035906","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Lord (surname)","url":"https:\/\/en.wikipedia.org\/wiki\/Lord_(surname)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q15138573","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q15138573","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-09-15T19:58:19Z","dateModified":"2019-05-14T01:32:09Z","headline":"family name"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":94,"wgHostname":"mw1327"});});</script>
 </body>
 </html>

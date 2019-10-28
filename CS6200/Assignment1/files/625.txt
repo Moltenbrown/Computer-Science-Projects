@@ -2,35 +2,35 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Akan names - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Akan_names","wgTitle":"Akan names","wgCurRevisionId":917851964,"wgRevisionId":917851964,"wgArticleId":2741859,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Akan given names","Akan language"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Akan_names","wgRelevantArticleId":2741859,"wgRequestId":"Xa53wwpAIDEAAL4ki4gAAABJ","wgCSPNonce":!1,"wgIsProbablyEditable":!0,
-"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q415699","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":
-"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.cite.tracking","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns"
-,"ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Serbian names - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Serbian_names","wgTitle":"Serbian names","wgCurRevisionId":919895404,"wgRevisionId":919895404,"wgArticleId":14647718,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1: long volume value","Articles needing additional references from August 2009","All articles needing additional references","Articles containing Serbian-language text","Articles containing Hungarian-language text","Articles containing Macedonian-language text","Articles containing Romanian-language text","CS1 errors: missing periodical","Names by culture","Serbian culture","Slavic-language names","Serbian-language names"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy",
+"wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Serbian_names","wgRelevantArticleId":14647718,"wgRequestId":"XbYsrgpAMEsAAE9osBIAAADR","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q7452919","wgCentralAuthMobileDomain":!1,
+"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard",
+"ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.2"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Akan_names"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Akan_names&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Akan_names&amp;action=edit"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Serbian_names"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Serbian_names&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Serbian_names&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Akan_names"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Serbian_names"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Akan_names rootpage-Akan_names skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Serbian_names rootpage-Serbian_names skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -39,7 +39,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Akan names</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Serbian names</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -50,1636 +50,288 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>The <b><a href="/wiki/Akan_people" title="Akan people">Akan people</a></b> of  <a href="/wiki/Ghana" title="Ghana">Ghana</a> frequently name their children after the day of the week they were born and the order in which they were born. These "day names" have further meanings concerning the soul and character of the person. Middle names have considerably more variety and can refer to their birth order, twin status, or an ancestor's middle name.
-</p><p>This naming tradition is shared throughout <a href="/wiki/West_Africa" title="West Africa">West Africa</a> and the <a href="/wiki/African_diaspora" title="African diaspora">African diaspora</a>. During the 18th–19th centuries, slaves in the Caribbean from the region that is modern-day Ghana were referred to as <a href="/wiki/Coromantees" class="mw-redirect" title="Coromantees">Coromantees</a>. Many of the leaders of slave rebellions had "day names" including <a href="/wiki/Cuffy_(Guyanese_rebel)" title="Cuffy (Guyanese rebel)">Cuffy</a> or Kofi, <a href="/wiki/Cudjoe" title="Cudjoe">Cudjoe</a> or Kojo, and <a href="/wiki/Quamina" title="Quamina">Quamina</a> or Kwame/Kwamina.
-</p><p>Most <a href="/wiki/Ghanaian_people" title="Ghanaian people">Ghanaians</a> have at least one name from this system, even if they also have an English or Christian name. Notable figures with day names include Ghana's first president <a href="/wiki/Kwame_Nkrumah" title="Kwame Nkrumah">Kwame Nkrumah</a> and former <a href="/wiki/United_Nations" title="United Nations">United Nations</a> <a href="/wiki/UNSG" class="mw-redirect" title="UNSG">Secretary-General</a> <a href="/wiki/Kofi_Annan" title="Kofi Annan">Kofi Annan</a>.
-</p><p>In the official orthography of the <a href="/wiki/Twi" title="Twi">Twi</a> language, the <a href="/wiki/Ashanti_language" class="mw-redirect" title="Ashanti language">Ashanti</a> versions of these names as spoken in <a href="/wiki/Kumasi" title="Kumasi">Kumasi</a> are as follows. The diacritics on á a̍ à represent high, mid, and low tone (tone does not need to be marked on every vowel), while the diacritic on a̩ is used for vowel harmony and can be ignored. (Diacritics are frequently dropped in any case.) Variants of the names are used in other languages, or may represent different <a href="/wiki/Transliteration" title="Transliteration">transliteration</a> schemes. The variants mostly consist of different <a href="/wiki/Affix" title="Affix">affixes</a> (in Ashanti, <i>kwa-</i> or <i>ko-</i> for men and <i>a-</i> plus <i>-a</i> or <i>-wa</i> for women). For example, among the <a href="/wiki/Fante_people" title="Fante people">Fante</a>, the prefixes are <i>kwe-</i> and <i>e-</i>, respectively. Akan <i>d̩wo</i> is pronounced something like English <i>Joe</i>, but there do appear to be two sets of names for those born on Tuesday. 
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Serbian_names&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Serbian+names%22">"Serbian names"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Serbian+names%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Serbian+names%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Serbian+names%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Serbian+names%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Serbian+names%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">August 2009</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Names_of_the_Serbs" class="mw-redirect" title="Names of the Serbs">Names of the Serbs</a></div>
+<p>This article features the <b>naming culture</b> of <b><a href="/wiki/Personal_name" title="Personal name">personal names</a></b> of ethnic <a href="/wiki/Serbs" title="Serbs">Serbs</a> and the <a href="/wiki/Serbian_language" title="Serbian language">Serbian language</a>. Serbian names are rendered in the "Western name order" with the <a href="/wiki/Surname" title="Surname">surname</a> placed after the <a href="/wiki/Given_name" title="Given name">given name</a>. "Eastern name order" may be used when multiple names appear in a sorted list, particularly in official notes and legal documents when the last name is capitalized (e.g. MILOVANOVIĆ Janko).
 </p>
 <div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Day_names"><span class="tocnumber">1</span> <span class="toctext">Day names</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Twin_names"><span class="tocnumber">2</span> <span class="toctext">Twin names</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#Birth-order_names"><span class="tocnumber">3</span> <span class="toctext">Birth-order names</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#Special_delivery"><span class="tocnumber">4</span> <span class="toctext">Special delivery</span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="#Family_names"><span class="tocnumber">5</span> <span class="toctext">Family names</span></a></li>
-<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
-<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-8"><a href="#Additional_references"><span class="tocnumber">8</span> <span class="toctext">Additional references</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#Given_names"><span class="tocnumber">1</span> <span class="toctext">Given names</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Surnames"><span class="tocnumber">2</span> <span class="toctext">Surnames</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Sources"><span class="tocnumber">6</span> <span class="toctext">Sources</span></a></li>
 </ul>
 </div>
 
-<h2><span class="mw-headline" id="Day_names">Day names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Akan_names&amp;action=edit&amp;section=1" title="Edit section: Day names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<table class="wikitable">
-<tbody><tr>
-<th rowspan="2">Day born</th>
-<th colspan="2">Twi</th>
-<th colspan="2">Variants</th>
-<th rowspan="2">Root</th>
-<th rowspan="2">Assoc.<sup id="cite_ref-Bartle_80–84_1-0" class="reference"><a href="#cite_note-Bartle_80–84-1">&#91;1&#93;</a></sup></th>
-<th rowspan="2"><a href="/wiki/Afro-Jamaican" title="Afro-Jamaican">Jamaican</a>/ <a href="/wiki/Asante_people" class="mw-redirect" title="Asante people">Asante</a> names <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
-</th></tr>
-<tr>
-<th>Male name</th>
-<th>Female name</th>
-<th></th>
-<th><a href="/wiki/Ndyuka_people" title="Ndyuka people">Ndyuka</a>
-</th></tr>
-<tr>
-<td><i>Sunday<br />(Kwasíada)</i></td>
-<td><a href="/wiki/Kwasi" title="Kwasi">Kwasí</a></td>
-<td>Akosua</td>
-<td>Kwesi, Siisi, Akwasi, Kosi;<br />Akasi, Akosi, Akosiwa, Así, Esi, Kwasiba, Awusi.</td>
-<td>Kwasi, Kwasiba</td>
-<td>Asi</td>
-<td>Universe</td>
-<td>Quashie, Quasheba
-</td></tr>
-<tr>
-<td><i>Monday<br />(Ɛdwóada)</i></td>
-<td><a href="/wiki/Kwadwo" title="Kwadwo">Kwadwó</a></td>
-<td><a href="/wiki/Adwoa" title="Adwoa">Adwoa</a></td>
-<td>Kodjó, Kojo, Jojo, Cudjoe;<br />Adjua, Ajwoba, Adwoba, Adjoa, Adjowa</td>
-<td>Kodyo, Adyuba</td>
-<td>Dwo</td>
-<td>Peace</td>
-<td>Cudjoe/Kojo/Quajo, Adjoa/Ajuba/Juba
-</td></tr>
-<tr>
-<td><i>Tuesday<br />(Ɛbénada)</i></td>
-<td><a href="/wiki/Kwabena" title="Kwabena">Kwabená</a></td>
-<td>Abenaa, Abénaa</td>
-<td>Komlá, Komlã, Komlan,Kabenla Kobby, Ebo, Kobi Kobina;<br />Ablá, Ablã, Abena, Araba, Abrema</td>
-<td>Abeni</td>
-<td>Bene</td>
-<td>Ocean</td>
-<td>Quabena, Abena/Bena
-</td></tr>
-<tr>
-<td><i>Wednesday<br />(Wukúada)</i></td>
-<td><a href="/wiki/Kwaku" title="Kwaku">Kwakú</a></td>
-<td>Akua, Akúá, Akuba</td>
-<td>Koku, Kokou, Kweku, Kaku, Kuuku;<br />Akú, Ekua</td>
-<td><a href="/wiki/Kwaku" title="Kwaku">Kwaku</a>, Akuba</td>
-<td>Wukuo</td>
-<td><a href="/wiki/Anansi" title="Anansi">Spider</a></td>
-<td>Quaco, Aqua/Acooba/Cooba
-</td></tr>
-<tr>
-<td><i>Thursday<br />(Yáwóada)</i></td>
-<td>Yaw</td>
-<td><a href="/wiki/Yaa_(name)" title="Yaa (name)">Yaa</a></td>
-<td>Yao, Yawo, Yawu, Kwaw; <br />Ayawa, Baaba, Yaaba, Yaba, Aba, Abina, Ekow, Kow;</td>
-<td>Yaw, Yaba</td>
-<td>Ya</td>
-<td>Earth</td>
-<td>Quaw, Aba/Yaaba
-</td></tr>
-<tr>
-<td><i>Friday<br />(Efíada)</i></td>
-<td><a href="/wiki/Kofi" title="Kofi">Kofí</a></td>
-<td>Afua</td>
-<td>Koffi, Fiifi, Yoofi;<br />Afí, Afua, Afia, Afiba, Efia, Efua</td>
-<td>Kofi, Afiba</td>
-<td>Afi,</td>
-<td>Fertility</td>
-<td>Cuffy, Afiba/Fiba
-</td></tr>
-<tr>
-<td><i>Saturday<br />(Méméneda)</i></td>
-<td><a href="/wiki/Kwame" title="Kwame">Kwámè</a>, Kwǎmè,</td>
-<td>Ama, Ám̀ma, Ámmá</td>
-<td>Kwami, Kuw-ame, Kw-amena, Kwamina, Komi;<br />Ame, Ama, Ami, Amba, Ameyo,</td>
-<td>Kwami, Amba</td>
-<td>Amene</td>
-<td>God</td>
-<td>Quame/Quamina, Ama
-</td></tr></tbody></table>
-<h2><span class="mw-headline" id="Twin_names">Twin names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Akan_names&amp;action=edit&amp;section=2" title="Edit section: Twin names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>There are also special names for elder and younger twins. The second twin to be born is considered the elder as they were mature enough to help their sibling out first.
+<h2><span class="mw-headline" id="Given_names">Given names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Serbian_names&amp;action=edit&amp;section=1" title="Edit section: Given names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Serbian_given_names" class="mw-redirect" title="Serbian given names">Serbian given names</a></div>
+<p>As with most European cultures, a child is <a href="/wiki/Given_name" title="Given name">given a first name</a> chosen by their parents or <a href="/wiki/Godparent" title="Godparent">godparents</a>. The given name comes first, the surname last, e.g. "Željko Popović", where "Željko" is a first name and "Popović" is a family name.
+</p><p>Serbian first names largely originate from <a href="/wiki/Slavic_names" title="Slavic names">Slavic roots</a>: e.g. <a href="/wiki/Miroslav_(given_name)" title="Miroslav (given name)">Miroslav</a>, <a href="/wiki/Vladimir_(name)" title="Vladimir (name)">Vladimir</a>, <a href="/wiki/Zoran" title="Zoran">Zoran</a>, <a href="/wiki/Lubomir_(given_name)" class="mw-redirect" title="Lubomir (given name)">Ljubomir</a>, <a href="/wiki/Vesna_(name)" class="mw-redirect" title="Vesna (name)">Vesna</a>, <a href="/wiki/Radmila" title="Radmila">Radmila</a>, <a href="/wiki/Milica" title="Milica">Milica</a>, <a href="/wiki/Svetlana" title="Svetlana">Svetlana</a>, <a href="/wiki/Slavica_(disambiguation)" class="mw-redirect mw-disambig" title="Slavica (disambiguation)">Slavica</a>, <a href="/w/index.php?title=Bo%C5%BEidarka&amp;action=edit&amp;redlink=1" class="new" title="Božidarka (page does not exist)">Božidarka</a>, <a href="/wiki/Milorad" title="Milorad">Milorad</a>, <a href="/wiki/Dragan" title="Dragan">Dragan</a>, <a href="/wiki/Milan_(given_name)" title="Milan (given name)">Milan</a>, <a href="/wiki/Goran_(Slavic_name)" title="Goran (Slavic name)">Goran</a>, <a href="/wiki/Radomir_(given_name)" title="Radomir (given name)">Radomir</a>, <a href="/wiki/Vuka%C5%A1in" title="Vukašin">Vukašin</a>, <a href="/wiki/Miomir" title="Miomir">Miomir</a>, <a href="/wiki/Branimir" title="Branimir">Branimir</a>, <a href="/wiki/Budimir_(disambiguation)" class="mw-redirect mw-disambig" title="Budimir (disambiguation)">Budimir</a>; see also <a href="/wiki/Slavic_names" title="Slavic names">Slavic names</a>, or the <a href="https://sr.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%B0%D0%BA_%D1%81%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D1%85_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0" class="extiw" title="sr:Списак словенских имена">list of Slavic names in the Serbian Wikipedia</a>)
+</p><p>Some may be non-<a href="/wiki/Slavic_languages" title="Slavic languages">Slavic</a> but chosen to reflect <a href="/wiki/Christianity" title="Christianity">Christian</a> faith. Names of this nature may often originate from <a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a> for <a href="/wiki/Bible" title="Bible">Biblical</a> reasons. Christian names include: e.g. <a href="/wiki/Nikola" title="Nikola">Nikola</a>, <a href="/wiki/Ivan_(name)" title="Ivan (name)">Ivan</a>, <a href="/wiki/Jovan" title="Jovan">Jovan</a>, <a href="/wiki/Maria_(given_name)" title="Maria (given name)">Marija</a>, <a href="/wiki/Anna_(given_name)" title="Anna (given name)">Ana</a>, Mihailo. Along similar lines of non-Slavic names among Christians, the origins for many such names are <a href="/wiki/Greeks" title="Greeks">Greek</a>: e.g. <a href="/wiki/Aleksandar" class="mw-redirect" title="Aleksandar">Aleksandar</a>, <a href="/wiki/Andrej" class="mw-redirect" title="Andrej">Andrej</a>, <a href="/wiki/Teodora" title="Teodora">Teodora</a>, <a href="/wiki/Jelena_(disambiguation)" class="mw-redirect" title="Jelena (disambiguation)">Jelena</a>, <a href="/wiki/Sophia_(name)" class="mw-redirect" title="Sophia (name)">Sofija</a>, <a href="/wiki/Katarina_(given_name)" title="Katarina (given name)">Katarina</a>, <a href="/wiki/Nikola" title="Nikola">Nikola</a>, <a href="/wiki/%C4%90or%C4%91e" title="Đorđe">Đorđe</a>, <a href="/wiki/Stefan_(given_name)" title="Stefan (given name)">Stefan</a>, <a href="/wiki/Petar" class="mw-redirect" title="Petar">Petar</a>, <a href="/wiki/Vasilije" title="Vasilije">Vasilije</a>, <a href="/wiki/Todor" title="Todor">Todor</a>. Names of <a href="/wiki/Latin" title="Latin">Latin</a> origin include: e.g. <a href="/wiki/Marko_(given_name)" title="Marko (given name)">Marko</a>, <a href="/wiki/Angela_(given_name)" title="Angela (given name)">Anđelka</a>, <a href="/wiki/Anthony_(given_name)" title="Anthony (given name)">Antonije</a>, <a href="/wiki/Paul_(name)" class="mw-redirect" title="Paul (name)">Pavle</a>, <a href="/wiki/Sr%C4%91an" title="Srđan">Srđan</a>, <a href="/wiki/Marina_(given_name)" title="Marina (given name)">Marina</a>, <a href="/wiki/Natalia_(given_name)" title="Natalia (given name)">Natalija</a>, Kornelije. Names of <a href="/wiki/Germanic_languages" title="Germanic languages">Germanic</a> origin, entering through Russian, include: e.g. <a href="/wiki/Igor_(given_name)" title="Igor (given name)">Igor</a>, <a href="/wiki/Oliver_(given_name)" title="Oliver (given name)">Oliver</a>, <a href="/wiki/Olga_(name)" title="Olga (name)">Olga</a>.
+</p><p>In Serbian naming culture, apotropaic names (<i>zaštitna imena</i>, "protective names") include <a href="/wiki/Vuk_(name)" title="Vuk (name)">Vuk</a> (and its many derivatives), <a href="/wiki/Nenad" title="Nenad">Nenad</a>, <a href="/wiki/Prodan" title="Prodan">Prodan</a>, <a href="/w/index.php?title=Sredoje&amp;action=edit&amp;redlink=1" class="new" title="Sredoje (page does not exist)">Sredoje</a>, <a href="/wiki/Stani%C5%A1a" title="Staniša">Staniša</a>, and others.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
 </p>
-<table class="wikitable">
-<tbody><tr>
-<th>Twin</th>
-<th>Male name</th>
-<th>Female name</th>
-<th>Variants
+<div class="mw-collapsible mw-collapsible-leftside-toggle mw-collapsed" style="box-sizing:border-box;width:100%;font-size:95%;padding:4px;border:none;"><div style="font-size:100%;line-height:1.6;font-weight:bold;background:transparent;text-align:left;;">Examples (table)</div><div class="mw-collapsible-content" style="background:transparent;text-align:left;;">
+<table class="wikitable sortable">
+
+<tbody><tr bgcolor="#ececec" align="center">
+<th><a href="/wiki/Serbian_language" title="Serbian language">Serbian</a></th>
+<th>Derivation</th>
+<th>Origin</th>
+<th>Meaning</th>
+<th><small>Related<br />(Forms)</small></th>
+<th>Female
 </th></tr>
 <tr>
-<td>Twin</td>
-<td>Atá</td>
-<td>Ataá</td>
-<td>Atta
+<td><a href="/wiki/Miroslav_(given_name)" title="Miroslav (given name)">Miroslav</a><br />Мирослав
+</td>
+<td>
+</td>
+<td><a href="/wiki/Slavic_languages" title="Slavic languages">Slavic</a>
+</td>
+<td>Peace and Glory
+</td>
+<td><a href="/wiki/Miros%C5%82aw_(given_name)" title="Mirosław (given name)">Mirosław</a>, Mirko
+</td>
+<td>Mira, Miroslava
 </td></tr>
 <tr>
-<td>First born ("younger"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> twin)</td>
-<td>Atá Pánin</td>
-<td>Ataá Pánin</td>
-<td>Panyin
+<td><a href="/wiki/Vladimir_(name)" title="Vladimir (name)">Vladimir</a><br />Владимир
+</td>
+<td>Владимѣръ
+</td>
+<td><a href="/wiki/Slavic_languages" title="Slavic languages">Slavic</a><br /><small><a href="/wiki/Old_Church_Slavonic" title="Old Church Slavonic">Old Church Slavonic</a></small>
+</td>
+<td>Rule in Peace
+</td>
+<td><i>Vlada</i>, <i>Vlado</i>
+</td>
+<td>Vladimira, Vlada
 </td></tr>
 <tr>
-<td>Second born ("elder" twin)</td>
-<td>Atá Kúmaa</td>
-<td>Ataá Kúmaa</td>
-<td>Akwetee (m), Atsú, Kaakra, Kakraba, Kakira
+<td><a href="/wiki/Vuka%C5%A1in" title="Vukašin">Vukašin</a><br />Вукашин
+</td>
+<td>
+</td>
+<td><a href="/wiki/Slavic_peoples" class="mw-redirect" title="Slavic peoples">Slavic</a>
+</td>
+<td>Son of the wolf, younger wolf
+</td>
+<td>Vuki, Vuk, Vule, Vučko, Vukosav
+</td>
+<td>Vuka, Vukica
 </td></tr>
 <tr>
-<td>Born after twins</td>
-<td colspan="2" align="center">Táwia
+<td><a href="/wiki/Zoran" title="Zoran">Zoran</a><br />Зоран
+</td>
+<td>
+</td>
+<td><a href="/wiki/Slavic_languages" title="Slavic languages">Slavic</a>
+</td>
+<td>Daybreak
+</td>
+<td><i>Zoki</i>, <i>Zoća</i>
+</td>
+<td>Zora, Zorana, Zorica
 </td></tr>
 <tr>
-<td>Born after <i>Tawia</i></td>
-<td align="center">Gaddo</td>
-<td>Nyankómàgó
-</td></tr></tbody></table>
-<h2><span class="mw-headline" id="Birth-order_names">Birth-order names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Akan_names&amp;action=edit&amp;section=3" title="Edit section: Birth-order names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>There are also names based on the order of birth, the order born after twins, and the order born after remarriage.
-</p>
-<table class="wikitable">
-<tbody><tr>
-<th>Order</th>
-<th>Male name</th>
-<th>Female name</th>
-<th>Variants
-</th></tr>
-<tr>
-<td><i>First born</i></td>
-<td align="center" colspan="2">Píèsíe</td>
-<td>Berko (m), Arko (m), Dede (f), Dedei (f), Abaka, Kande (f)?
+<td><a href="/wiki/Goran_(Slavic_name)" title="Goran (Slavic name)">Goran</a><br />Горан
+</td>
+<td>
+</td>
+<td><a href="/wiki/Slavic_languages" title="Slavic languages">Slavic</a>
+</td>
+<td>Woodsman, Highlander<br />"The tall one"
+</td>
+<td>
+</td>
+<td>Gora, Gorana, Gorica, Goga, Gorjanka
 </td></tr>
 <tr>
-<td><i>Second born</i></td>
-<td>Mǎnu</td>
-<td>Máanu</td>
+<td><a href="/wiki/Aleksandar" class="mw-redirect" title="Aleksandar">Aleksandar</a><br />Александар
+</td>
+<td>Aléxandros<br />Αλέξανδρος
+</td>
+<td><a href="/wiki/Greek_language" title="Greek language">Greek</a>
+</td>
+<td>Protector of Man
+</td>
+<td>Aleksa, <i>Saša</i>, <i>Sale</i>
+</td>
+<td>Aleksandra, Saša, Saška
+</td></tr>
+<tr>
+<td><a href="/wiki/John_(given_name)" title="John (given name)">Jovan</a><br />Jован
+</td>
+<td>Ioannis<br />Ιωάννης
+</td>
+<td><a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a><br /><small>(Biblical)</small>
+</td>
+<td>God is gracious
+</td>
+<td><a href="/wiki/Ivan_(name)" title="Ivan (name)">Ivan</a><br />Jovo, Jovica, Joca, Jole
+</td>
+<td>Jovana, Ivana, Ivanka, Iva
+</td></tr>
+<tr>
+<td><a href="/wiki/Marko_(given_name)" title="Marko (given name)">Marko</a><br />Марко
+</td>
+<td><a href="/wiki/Marcus_(name)" title="Marcus (name)">Marcus</a>
+</td>
+<td><a href="/wiki/Latin" title="Latin">Latin</a>
+</td>
+<td>
+</td>
+<td>Maki, Mare
+</td>
 <td>
 </td></tr>
 <tr>
-<td><i>Third born</i></td>
-<td>Meńsã́</td>
-<td>Mánsã</td>
-<td>Mensah, Mansah babatundi
+<td><a href="/wiki/Nikola" title="Nikola">Nikola</a><br />Никола
+</td>
+<td><a href="/wiki/Nikolaos" title="Nikolaos">Nikolaos</a><br />Νικόλαος
+</td>
+<td><a href="/wiki/Greek_language" title="Greek language">Greek</a>
+</td>
+<td>Victory of the people
+</td>
+<td><i>Nidža</i>, Niko
+</td>
+<td>Nikoleta, Nikolina
 </td></tr>
 <tr>
-<td><i>Fourth born</i></td>
-<td align="center" colspan="2">Anan, Anané</td>
-<td>Annan
+<td><a href="/wiki/%C4%90or%C4%91e" title="Đorđe">Đorđe</a><br />Ђopђe
+</td>
+<td><a href="/wiki/Georgios" title="Georgios">Georgios</a><br />Γεώργιος
+</td>
+<td><a href="/wiki/Greek_language" title="Greek language">Greek</a>
+</td>
+<td>Farmer
+</td>
+<td><a href="/wiki/%C4%90ura%C4%91_(disambiguation)" class="mw-redirect" title="Đurađ (disambiguation)">Đurađ</a><br /><i>Đuro</i>, <i>Đole</i>, <i>Đoka</i>, Đorđa, Đorđo
+</td>
+<td>Đorđica, Đurđica, Đurđina
 </td></tr>
 <tr>
-<td><i>Fifth born</i></td>
-<td align="center" colspan="2">Núm, Anúm</td>
-<td>
-</td></tr>
-<tr>
-<td><i>Sixth born</i></td>
-<td align="center" colspan="2">Nsĩã́</td>
-<td>Essien
-</td></tr>
-<tr>
-<td><i>Seventh born</i></td>
-<td>Asón</td>
-<td>Nsṍwaa</td>
-<td>Esson, Ansong, Ashon
-</td></tr>
-<tr>
-<td><i>Eighth born</i></td>
-<td align="center" colspan="2">Bótwe</td>
-<td>Awotwe, Awotwie, Atwotwe
-</td></tr>
-<tr>
-<td><i>Ninth born</i></td>
-<td>Ákron, Nkróma</td>
-<td>Nkróma</td>
-<td>Akun, Ackon, Nkrumah
-</td></tr>
-<tr>
-<td><i>Tenth born</i></td>
-<td>Badú</td>
-<td>Badúwaa</td>
-<td>Bedu
-</td></tr>
-<tr>
-<td><i>Eleventh born</i></td>
-<td align="center" colspan="2">Dúkũ</td>
-<td>Adeben
-</td></tr>
-<tr>
-<td><i>Twelfth born</i></td>
-<td align="center" colspan="2">Dúnu</td>
-<td>
-</td></tr>
-<tr>
-<td><i>Thirteenth born</i></td>
-<td align="center" colspan="2">Adusa</td>
-<td>
-</td></tr>
-<tr>
-<td><i>Fourteenth born</i></td>
-<td align="center" colspan="2">Agyeman</td>
-<td>
-</td></tr>
-<tr>
-<td><i>Last born</i></td>
-<td align="center" colspan="2">Kaakyire</td>
+<td><a href="/wiki/Mihajlo" title="Mihajlo">Mihajlo</a><br />Михајло
+</td>
+<td><a href="/wiki/Mikha%27el" class="mw-redirect" title="Mikha&#39;el">Mikha'el</a><br />מִיכָאֵל
+</td>
+<td><a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a><br /><small>(Biblical)</small>
+</td>
+<td>"He who is like God"
+</td>
+<td>Mika, Miki, <i>Miha</i>
+</td>
 <td>
 </td></tr>
 </tbody></table>
-<h2><span class="mw-headline" id="Special_delivery">Special delivery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Akan_names&amp;action=edit&amp;section=4" title="Edit section: Special delivery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Children are also given names when delivered under special circumstances.
+</div></div>
+<h2><span class="mw-headline" id="Surnames">Surnames</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Serbian_names&amp;action=edit&amp;section=2" title="Edit section: Surnames">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Most <b>Serbian surnames</b> have the surname <a href="/wiki/Suffix" title="Suffix">suffix</a> <i lang="sr-Latn" title="Serbian language text"><a href="/wiki/-i%C4%87" class="mw-redirect" title="-ić">-ić</a></i> (<a href="/wiki/Serbian_Cyrillic_alphabet" title="Serbian Cyrillic alphabet">Serbian Cyrillic</a>: <span lang="sr-Cyrl" title="Serbian language text">-ић</span>) (<small></small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Serbo-Croatian" title="Help:IPA/Serbo-Croatian">[itɕ]</a></span>). This can sometimes further be transcribed as <i>-ic</i>, but in history, Serbian names have often been transcribed with a phonetic ending, <i>-ich</i> or <i>-itch</i>.
+</p><p>This form is often associated with <a href="/wiki/Serbs" title="Serbs">Serbs</a> from before the early 20th century: hence <a href="/wiki/Milutin_Milankovi%C4%87" title="Milutin Milanković">Milutin Milanković</a> is usually referred to, for historical reasons, as Milutin Milankovitch, and <a href="/wiki/Mileva_Mari%C4%87" title="Mileva Marić">Mileva Marić</a>, born in <a href="/wiki/Vojvodina" title="Vojvodina">Vojvodina</a> (then a part of Hungary) has sometimes been rendered as Marity (e.g. in the claim of "Einstein-Marity" theory).
+</p><p>The <i lang="sr-Latn" title="Serbian language text">-ić</i> suffix is a <a href="/wiki/Slavic_languages" title="Slavic languages">Slavic</a> <a href="/wiki/Diminutive" title="Diminutive">diminutive</a>, originally functioning to create <a href="/wiki/Patronymic" title="Patronymic">patronymics</a>. Thus the surname <a href="/wiki/Petrovi%C4%87" title="Petrović">Petrović</a> means the little son of Petar (Petrić signifies the little son of Petra, the widow).
+</p><p>Most Serbian surnames are paternal (father), maternal (mother), occupational, or derived from personal traits.
+</p><p>Other common surname suffixes are <i lang="sr-Latn" title="Serbian language text">-ov</i> (<span lang="sr-Cyrl" title="Serbian language text">-ов</span>), <i lang="sr-Latn" title="Serbian language text">-ev</i> (<span lang="sr-Cyrl" title="Serbian language text">-ев</span>), <i lang="sr-Latn" title="Serbian language text">-in</i> (<span lang="sr-Cyrl" title="Serbian language text">-ин</span>) and <i lang="sr-Latn" title="Serbian language text">-ski</i> (<span lang="sr-Cyrl" title="Serbian language text">-ски</span>; also <i lang="sr-Latn" title="Serbian language text">-cki</i>(<span lang="sr-Cyrl" title="Serbian language text">-цки</span>)/<i lang="sr-Latn" title="Serbian language text">čki</i>(<span lang="sr-Cyrl" title="Serbian language text">чки</span>)/<i lang="sr-Latn" title="Serbian language text">ški</i>(<span lang="sr-Cyrl" title="Serbian language text">шки</span>)) which is the Slavic <a href="/wiki/Genitive_case" title="Genitive case">possessive case</a> suffix, thus Nikola's son becomes Nikolin, Petar's son Petrov, and Jovan's son Jovanov. The two suffixes are often combined, most commonly as <i lang="sr-Latn" title="Serbian language text">-ović</i> (<span lang="sr-Cyrl" title="Serbian language text">-овић</span>). Other, less common suffices are <i lang="sr-Latn" title="Serbian language text">-alj</i>(<span lang="sr-Cyrl" title="Serbian language text">-аљ</span>)/<i lang="sr-Latn" title="Serbian language text">olj</i>(<span lang="sr-Cyrl" title="Serbian language text">ољ</span>)/<i lang="sr-Latn" title="Serbian language text">elj</i>(<span lang="sr-Cyrl" title="Serbian language text">ељ</span>), <i lang="sr-Latn" title="Serbian language text">-ija</i> (<span lang="sr-Cyrl" title="Serbian language text">-ија</span>), <i lang="sr-Latn" title="Serbian language text">-ica</i> (<span lang="sr-Cyrl" title="Serbian language text">-ица</span>), <i lang="sr-Latn" title="Serbian language text">-ar</i>(<span lang="sr-Cyrl" title="Serbian language text">-ар</span>)/<i lang="sr-Latn" title="Serbian language text">ac</i>(<span lang="sr-Cyrl" title="Serbian language text">ац</span>)/<i lang="sr-Latn" title="Serbian language text">an</i>(<span lang="sr-Cyrl" title="Serbian language text">ан</span>).
+</p><p>When marrying, the woman most often adopts her husband's family name, though she can also keep both of her last names or not change her last name at all.
+</p><p>It is estimated that some two thirds of all Serbian surnames end in <i lang="sr-Latn" title="Serbian language text">-ić</i>. The ten most common surnames in <a href="/wiki/Serbia" title="Serbia">Serbia</a>, in order, are <a href="/wiki/Jovanovi%C4%87" title="Jovanović">Jovanović</a>, <a href="/wiki/Petrovi%C4%87" title="Petrović">Petrović</a>, <a href="/wiki/Nikoli%C4%87" title="Nikolić">Nikolić</a>, <a href="/wiki/Markovi%C4%87" title="Marković">Marković</a>, <a href="/wiki/%C4%90or%C4%91evi%C4%87" title="Đorđević">Đorđević</a>, <a href="/wiki/Stojanovi%C4%87" title="Stojanović">Stojanović</a>, <a href="/wiki/Ili%C4%87" title="Ilić">Ilić</a>, <a href="/wiki/Stankovi%C4%87" title="Stanković">Stanković</a>, <a href="/wiki/Pavlovi%C4%87" title="Pavlović">Pavlović</a> and <a href="/wiki/Milo%C5%A1evi%C4%87" class="mw-redirect" title="Milošević">Milošević</a>.<sup id="cite_ref-Politika_2-0" class="reference"><a href="#cite_note-Politika-2">&#91;2&#93;</a></sup>
+</p><p>Outside Serbian countries, Slavic suffixes have been transliterated. <a href="/wiki/Serbs_in_Hungary" title="Serbs in Hungary">Serbs in Hungary</a> have the endings <i lang="hu" title="Hungarian language text">-ity</i>, <i lang="hu" title="Hungarian language text">-ics</i> <i lang="hu" title="Hungarian language text">-its</i>, <a href="/wiki/Serbs_in_North_Macedonia" class="mw-redirect" title="Serbs in North Macedonia">Serbs in North Macedonia</a> <i lang="mk-Latn" title="Macedonian-language romanization">-ikj</i> (or <i lang="mk-Latn" title="Macedonian-language romanization">iḱ</i>; <a href="/wiki/Macedonian_language" title="Macedonian language">Macedonian</a>: <span lang="mk" title="Macedonian language text">иќ</span>), and <a href="/wiki/Serbs_in_Romania" class="mw-redirect" title="Serbs in Romania">Serbs in Romania</a> <i lang="ro" title="Romanian language text">-ici</i>.
+</p><p>Although far less common than patronymic surnames, matronymic surnames are widespread both in Serbia and in neighboring countries where Serbs live. Examples include surnames such as Katić, Sinđelić, Nedić, Marić, Višnjić, Janjić, Sarić, Miličić, Milenić, Natalić, Zorić, Smiljić, Anđelić and many others. Sometimes it is difficult to ascertain if the name of a specific family is patronymic or matronymic considering many Serbian names have both male and female version (for example, surname Miljanić could come from both m.- Miljan and f.- Miljana). Cases where widows had to become heads of households were not uncommon during 18th and 19th century and when surnames were first standardized in Serbia in 1851 it was decided they would be based on the names of eldest living heads of households which in some cases were women. People who did not know their father well would also often take matronymic surnames, with a notable case being the hero of the First Serbian Uprising Stevan Sinđelić, who took that surname in honor of his mother Sinđelija.
 </p>
-<table class="wikitable">
-<tbody><tr>
-<th>Circumstance</th>
-<th>Male/Female name</th>
-<th>Translation
-</th></tr>
-<tr>
-<td><i>on the field</i></td>
-<td>Afúom</td>
-<td>"The field"
-</td></tr>
-<tr>
-<td><i>on the road</i></td>
-<td>Ɔkwán</td>
-<td>"The road"
-</td></tr>
-<tr>
-<td><i>in war</i></td>
-<td>Bekṍe, Bedíàkṍ</td>
-<td>"war time"
-</td></tr>
-<tr>
-<td><i>happy circumstances</i></td>
-<td>Afiríyie</td>
-<td>"good year"
-</td></tr>
-<tr>
-<td><i>one who loves</i></td>
-<td>Adofo</td>
-<td>"the special one from God,warrior"
-</td></tr>
-<tr>
-<td><i>great one</i></td>
-<td>Agyenim</td>
-<td>"the great one from God"
-</td></tr>
-<tr>
-<td><i>after long childlessness</i></td>
-<td>Nyamékyε</td>
-<td>"gift from God"
-</td></tr>
-<tr>
-<td><i>premature or sickly</i></td>
-<td>Nyaméama</td>
-<td>"what God has given (no man can take away)"
-</td></tr>
-<tr>
-<td><i>forceful</i></td>
-<td>Kumi</td>
-<td>"forcefulness"
-</td></tr>
-<tr>
-<td><i>after death of father</i></td>
-<td>Antó</td>
-<td>"it didn't meet him"
-</td></tr>
-<tr>
-<td rowspan="2"><i>father refuses <br />responsibility</i></td>
-<td>Obím̀pέ</td>
-<td>"nobody wants"
-</td></tr>
-<tr>
-<td>Yεmpέw</td>
-<td>"we don't want you"
-</td></tr></tbody></table>
-<h2><span class="mw-headline" id="Family_names">Family names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Akan_names&amp;action=edit&amp;section=5" title="Edit section: Family names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p><a href="/wiki/Ashanti_people" title="Ashanti people">Ashanti people</a> given-names are concluded with a <a href="/wiki/Family_name" class="mw-redirect" title="Family name">family name</a> (<a href="/wiki/Surname" title="Surname">surname</a>) preceded by a <a href="/wiki/Given_name" title="Given name">given name</a>.<sup id="cite_ref-List_of_Ashanti_(Twi,_Asante)_Names_4-0" class="reference"><a href="#cite_note-List_of_Ashanti_(Twi,_Asante)_Names-4">&#91;4&#93;</a></sup><sup id="cite_ref-The_Sociolinguistic_of_Ashanti_Personal_Names_5-0" class="reference"><a href="#cite_note-The_Sociolinguistic_of_Ashanti_Personal_Names-5">&#91;5&#93;</a></sup> The family name (surname) are always given after close relatives and sometimes friends.<sup id="cite_ref-List_of_Ashanti_(Twi,_Asante)_Names_4-1" class="reference"><a href="#cite_note-List_of_Ashanti_(Twi,_Asante)_Names-4">&#91;4&#93;</a></sup><sup id="cite_ref-The_Sociolinguistic_of_Ashanti_Personal_Names_5-1" class="reference"><a href="#cite_note-The_Sociolinguistic_of_Ashanti_Personal_Names-5">&#91;5&#93;</a></sup> Since Ashanti names are always given by the men if a couple receives a son as their first born-baby then the son is named after the father of the husband and if the baby is a girl then she will be named after her mother of the  husband.<sup id="cite_ref-List_of_Ashanti_(Twi,_Asante)_Names_4-2" class="reference"><a href="#cite_note-List_of_Ashanti_(Twi,_Asante)_Names-4">&#91;4&#93;</a></sup><sup id="cite_ref-The_Sociolinguistic_of_Ashanti_Personal_Names_5-2" class="reference"><a href="#cite_note-The_Sociolinguistic_of_Ashanti_Personal_Names-5">&#91;5&#93;</a></sup> As a result if the man is called <i>Osei Kofi</i> and his wife gives birth to a girl as their first born, the girl may be called <i>Yaa Dufie</i> even if she was not born on Friday.<sup id="cite_ref-List_of_Ashanti_(Twi,_Asante)_Names_4-3" class="reference"><a href="#cite_note-List_of_Ashanti_(Twi,_Asante)_Names-4">&#91;4&#93;</a></sup><sup id="cite_ref-The_Sociolinguistic_of_Ashanti_Personal_Names_5-3" class="reference"><a href="#cite_note-The_Sociolinguistic_of_Ashanti_Personal_Names-5">&#91;5&#93;</a></sup> The reason is that the  mother of the  husband (<i>Osei Kofi</i>) is called <i>Yaa Dufie</i>.<sup id="cite_ref-List_of_Ashanti_(Twi,_Asante)_Names_4-4" class="reference"><a href="#cite_note-List_of_Ashanti_(Twi,_Asante)_Names-4">&#91;4&#93;</a></sup><sup id="cite_ref-The_Sociolinguistic_of_Ashanti_Personal_Names_5-4" class="reference"><a href="#cite_note-The_Sociolinguistic_of_Ashanti_Personal_Names-5">&#91;5&#93;</a></sup> The Ashanti people usually give these names so that the names of close relatives be maintained in the families to show the love for their families.<sup id="cite_ref-List_of_Ashanti_(Twi,_Asante)_Names_4-5" class="reference"><a href="#cite_note-List_of_Ashanti_(Twi,_Asante)_Names-4">&#91;4&#93;</a></sup><sup id="cite_ref-The_Sociolinguistic_of_Ashanti_Personal_Names_5-5" class="reference"><a href="#cite_note-The_Sociolinguistic_of_Ashanti_Personal_Names-5">&#91;5&#93;</a></sup>
-</p><p>In the olden days of <a href="/wiki/Ashanti_Region" title="Ashanti Region">Ashanti</a> it was a disgrace if an Ashanti man was not able to name any child after his father and/or  mother because that was the pride of every Ashanti household.<sup id="cite_ref-List_of_Ashanti_(Twi,_Asante)_Names_4-6" class="reference"><a href="#cite_note-List_of_Ashanti_(Twi,_Asante)_Names-4">&#91;4&#93;</a></sup><sup id="cite_ref-The_Sociolinguistic_of_Ashanti_Personal_Names_5-6" class="reference"><a href="#cite_note-The_Sociolinguistic_of_Ashanti_Personal_Names-5">&#91;5&#93;</a></sup> Most of the ethnic-Ashanti family name (surname) given to boys could also be given to girls just by adding the letters "aa".<sup id="cite_ref-List_of_Ashanti_(Twi,_Asante)_Names_4-7" class="reference"><a href="#cite_note-List_of_Ashanti_(Twi,_Asante)_Names-4">&#91;4&#93;</a></sup><sup id="cite_ref-The_Sociolinguistic_of_Ashanti_Personal_Names_5-7" class="reference"><a href="#cite_note-The_Sociolinguistic_of_Ashanti_Personal_Names-5">&#91;5&#93;</a></sup> Some Ashanti family names (surnames) can be given to both boys and girls without changing or adding anything.<sup id="cite_ref-List_of_Ashanti_(Twi,_Asante)_Names_4-8" class="reference"><a href="#cite_note-List_of_Ashanti_(Twi,_Asante)_Names-4">&#91;4&#93;</a></sup><sup id="cite_ref-The_Sociolinguistic_of_Ashanti_Personal_Names_5-8" class="reference"><a href="#cite_note-The_Sociolinguistic_of_Ashanti_Personal_Names-5">&#91;5&#93;</a></sup> However, there are other ethnic-Ashanti family name (surnames) that are exclusively male names, while others are exclusively female names.<sup id="cite_ref-List_of_Ashanti_(Twi,_Asante)_Names_4-9" class="reference"><a href="#cite_note-List_of_Ashanti_(Twi,_Asante)_Names-4">&#91;4&#93;</a></sup><sup id="cite_ref-The_Sociolinguistic_of_Ashanti_Personal_Names_5-9" class="reference"><a href="#cite_note-The_Sociolinguistic_of_Ashanti_Personal_Names-5">&#91;5&#93;</a></sup>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Serbian_names&amp;action=edit&amp;section=3" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The names of early Serbian rulers like <a href="/wiki/Mutimir" class="mw-redirect" title="Mutimir">Mutimir</a> are <a href="/wiki/Slavic_dithematic_names" class="mw-redirect" title="Slavic dithematic names">Slavic dithematic names</a>, as per Old Slavic tradition, until the 9th century and Christianization after which Christian names appear.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p><a href="/wiki/Demetrios_Chomatenos" title="Demetrios Chomatenos">Demetrios Chomatenos</a> (<a href="/wiki/Archbishop_of_Ohrid" title="Archbishop of Ohrid">Archbishop of Ohrid</a> from 1216 to 1236) registered the naming culture of the <a href="/wiki/South_Slavs" title="South Slavs">South Slavs</a> in <a href="/wiki/Byzantine_lands" class="mw-redirect" title="Byzantine lands">Byzantine lands</a>. In the 11th and 12th century, family names became more common and stable in Byzantium, adapted by the majority of people in <a href="/wiki/Macedonia_(region)#Medieval_Macedonia" title="Macedonia (region)">Byzantine Macedonia</a>, <a href="/wiki/Epirus" title="Epirus">Epirus</a> and other regions (including women, sometimes even monks), not only aristocrats. The South Slavs, however, maintained the tradition of only giving a personal name, sometimes with a <a href="/wiki/Patronymic" title="Patronymic">Patronymic</a>. There are only 2 cases of family names used by South Slavs during this time; Bogdanopoulos and Serbopoulos, both Serbian names with the Greek suffix -opoulos (όπουλος, originating in <a href="/wiki/Peloponnese" title="Peloponnese">Peloponnese</a> in the 10th century)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>. Patronymics ending on -ić, on the other hand, seem to have been the norm by late 14th and early 15th century because nearly all letters of correspondence between Dubrovnik and Serbia and Bosnia from that period contain them. In that same period proper family names of Slavic origin, not just patronymics, appear in Dubrovnik and soon in Hum and then in Serbia and Bosnia where during 15th-century nobles start using proper surnames. However this never became common among ordinary people and since nobility of Serbia and Bosnia was mostly wiped out by 16th century, only their remnants in Venice, Hungary and later Habsburg monarchy as well as some members of high clergy used standard surnames during following centuries. Due to general lack of safety clans started to form in regions of Montenegro and Herzegovina from 15th century onwards. These clans were territorially based but each was subdivided into fraternities so some people used names of these fraternities as a surname in those regions but only when speaking to outsiders and more as a toponymic rather than proper surname.
+</p><p>In older naming convention which was common in Serbia up until the mid 19th century a person's name would consist of three distinct parts: the person's given name, the patronymic derived from father's personal name, and the family or fraternity name, as seen in for example in the name of language reformer Vuk Stefanović Karadžić. However, use of this convention depended on a person's education and interest in his ancestry. Most ordinary people were still referred to mostly by their given name and sometimes with a patronymic, profession or toponymic. Serbian surnames as used today were first standardized in Principality of Serbia during 1851 and on the census of 1854, the population was recorded by their fixed surnames for the first time. Surnames were mostly formed as patronymics (or in some cases matronymics) derived from names of at the time eldest living heads of households rather than distant ancestors, though there were exceptions. In most cases, such patronymics were already in use so they were simply "frozen" and turned into surnames that carried on into future generations. This swift introduction of surnames is one of the reasons why, in comparison to other regions where Serbs live, there is less variation in forms of surnames within central Serbia, where vast majority of surnames ends with suffixes -ović (in patronymic surnames) and -ić (can be used both for patronymic and for matronymic surnames).
+</p><p>Among Serbs that lived across the rivers Drina, Sava and Danube, in addition to surnames with these most common suffixes there were many surnames based on professions, nicknames, toponymics, traits, etc. In case of what was then Southern Hungary, Serb suffixes were often intentionally changed by Austro-Hungarian administrators from -ović, -ević and -ić into -ov, -ev, -in and -ski which in their mind sounded less typically Serbian. This process started around 1817 but was particularly intensified after 1860/61 when Duchy of Serbia and Tamiš Banate was abolished and 1867 when Habsburg monarchy was reformed into Austro-Hungary. By 1900s it had only moderate success and it never achieved its true goal of culturally separating Vojvodina Serbs from their brethren to the south. In some regions with Serbian majority which were only liberated during wars of 1912–1918, standardized surnames were finally introduced with the creation of Kingdom of Serbs, Croats and Slovenes and recorded for the first time during population census of 1921.
 </p>
-<table class="wikitable collapsible uncollapsed" style="font-size:90%" width="95%">
-
-<tbody><tr>
-<th style="background:#EEEEEE" align="center"><b>Ethnic-Ashanti <a href="/wiki/Family_name" class="mw-redirect" title="Family name">family names</a> (<a href="/wiki/Surname" title="Surname">surnames</a>)</b><sup id="cite_ref-List_of_Ashanti_(Twi,_Asante)_Names_4-10" class="reference"><a href="#cite_note-List_of_Ashanti_(Twi,_Asante)_Names-4">&#91;4&#93;</a></sup><sup id="cite_ref-The_Sociolinguistic_of_Ashanti_Personal_Names_5-10" class="reference"><a href="#cite_note-The_Sociolinguistic_of_Ashanti_Personal_Names-5">&#91;5&#93;</a></sup><sup id="cite_ref-The_Ashanti_and_their_names_6-0" class="reference"><a href="#cite_note-The_Ashanti_and_their_names-6">&#91;6&#93;</a></sup>
-</th></tr>
-<tr>
-<td>
-<table border="1" cellpadding="2">
-<tbody><tr>
-<th class="unsortable" rowspan="86" style="background:black">
-</th>
-<th class="unsortable">#
-</th>
-<th class="unsortable" colspan="4">Ethnic-Ashanti family name<sup id="cite_ref-List_of_Ashanti_(Twi,_Asante)_Names_4-11" class="reference"><a href="#cite_note-List_of_Ashanti_(Twi,_Asante)_Names-4">&#91;4&#93;</a></sup><sup id="cite_ref-The_Sociolinguistic_of_Ashanti_Personal_Names_5-11" class="reference"><a href="#cite_note-The_Sociolinguistic_of_Ashanti_Personal_Names-5">&#91;5&#93;</a></sup><sup id="cite_ref-The_Ashanti_and_their_names_6-1" class="reference"><a href="#cite_note-The_Ashanti_and_their_names-6">&#91;6&#93;</a></sup>
-</th>
-<th class="unsortable" rowspan="86" style="background:black">
-</th>
-<th class="unsortable">#
-</th>
-<th class="unsortable" colspan="4">Ethnic-Ashanti family name<sup id="cite_ref-List_of_Ashanti_(Twi,_Asante)_Names_4-12" class="reference"><a href="#cite_note-List_of_Ashanti_(Twi,_Asante)_Names-4">&#91;4&#93;</a></sup><sup id="cite_ref-The_Sociolinguistic_of_Ashanti_Personal_Names_5-12" class="reference"><a href="#cite_note-The_Sociolinguistic_of_Ashanti_Personal_Names-5">&#91;5&#93;</a></sup><sup id="cite_ref-The_Ashanti_and_their_names_6-2" class="reference"><a href="#cite_note-The_Ashanti_and_their_names-6">&#91;6&#93;</a></sup>
-</th>
-<th class="unsortable" rowspan="86" style="background:black">
-</th>
-<th class="unsortable">#
-</th>
-<th class="unsortable" colspan="4">Ethnic-Ashanti family name <sup id="cite_ref-List_of_Ashanti_(Twi,_Asante)_Names_4-13" class="reference"><a href="#cite_note-List_of_Ashanti_(Twi,_Asante)_Names-4">&#91;4&#93;</a></sup><sup id="cite_ref-The_Sociolinguistic_of_Ashanti_Personal_Names_5-13" class="reference"><a href="#cite_note-The_Sociolinguistic_of_Ashanti_Personal_Names-5">&#91;5&#93;</a></sup><sup id="cite_ref-The_Ashanti_and_their_names_6-3" class="reference"><a href="#cite_note-The_Ashanti_and_their_names-6">&#91;6&#93;</a></sup>
-</th>
-<th class="unsortable" rowspan="86" style="background:black">
-</th></tr>
-<tr>
-<th align="center">1
-</th>
-<th align="center" colspan="4">Abeberese
-</th>
-<th align="center">84
-</th>
-<th align="center" colspan="4">Baafi
-</th>
-<th align="center">168
-</th>
-<th align="center" colspan="4">Mensah
-</th></tr>
-<tr>
-<th align="center">2
-</th>
-<th align="center" colspan="4">Abeyie
-</th>
-<th align="center">85
-</th>
-<th align="center" colspan="4">Baah
-</th>
-<th align="center">169
-</th>
-<th align="center" colspan="4">Mintah
-</th></tr>
-<tr>
-<th align="center">3
-</th>
-<th align="center" colspan="4">Aboagye
-</th>
-<th align="center">86
-</th>
-<th align="center" colspan="4">Bafuor
-</th>
-<th align="center">170
-</th>
-<th align="center" colspan="4">Misa
-</th></tr>
-<tr>
-<th align="center">4
-</th>
-<th align="center" colspan="4">Aboah
-</th>
-<th align="center">87
-</th>
-<th align="center" colspan="4">Baffoe
-</th>
-<th align="center">171
-</th>
-<th align="center" colspan="4">Mmorosa
-</th></tr>
-<tr>
-<th align="center">5
-</th>
-<th align="center" colspan="4">Aborah
-</th>
-<th align="center">88
-</th>
-<th align="center" colspan="4">Baako
-</th>
-<th align="center">172
-</th>
-<th align="center" colspan="4">Mpong
-</th></tr>
-<tr>
-<th align="center">6
-</th>
-<th align="center" colspan="4">Aborampah
-</th>
-<th align="center">89
-</th>
-<th align="center" colspan="4">Baidoo
-</th>
-<th align="center">173
-</th>
-<th align="center" colspan="4">Munuo
-</th></tr>
-<tr>
-<th align="center">7
-</th>
-<th align="center" colspan="4">Abrafi
-</th>
-<th align="center">90
-</th>
-<th align="center" colspan="4">Barwuah
-</th>
-<th align="center">174
-</th>
-<th align="center" colspan="4">Narh
-</th></tr>
-<tr>
-<th align="center">8
-</th>
-<th align="center" colspan="4">Abrefa
-</th>
-<th align="center">91
-</th>
-<th align="center" colspan="4">Banahene
-</th>
-<th align="center">175
-</th>
-<th align="center" colspan="4">Nduom
-</th></tr>
-<tr>
-<th align="center">9
-</th>
-<th align="center" colspan="4">Acheampong
-</th>
-<th align="center">92
-</th>
-<th align="center" colspan="4">Bediako
-</th>
-<th align="center">176
-</th>
-<th align="center" colspan="3">Nimo</th>
-<th>Nimoh
-</th></tr>
-<tr>
-<th align="center">10
-</th>
-<th align="center" colspan="4">Achamfour
-</th>
-<th align="center">93
-</th>
-<th align="center" colspan="4">Bekoe
-</th>
-<th align="center">177
-</th>
-<th align="center" colspan="3">Nkansa</th>
-<th>Nkansah
-</th></tr>
-<tr>
-<th align="center">11
-</th>
-<th align="center" colspan="4">Acquah
-</th>
-<th align="center">94
-</th>
-<th align="center" colspan="4">Bemah
-</th>
-<th align="center">178
-</th>
-<th align="center" colspan="4">Nkrumah
-</th></tr>
-<tr>
-<th align="center">12
-</th>
-<th align="center" colspan="4">Adade
-</th>
-<th align="center">95
-</th>
-<th align="center" colspan="4">Boadi
-</th>
-<th align="center">179
-</th>
-<th align="center" colspan="4">Nsiah
-</th></tr>
-<tr>
-<th align="center">13
-</th>
-<th align="center" colspan="4">Addai
-</th>
-<th align="center">96
-</th>
-<th align="center" colspan="4">Boadu
-</th>
-<th align="center">180
-</th>
-<th align="center" colspan="3">Nsonwah</th>
-<th>Nsonwaa
-</th></tr>
-<tr>
-<th align="center">14
-</th>
-<th align="center" colspan="4">Addo
-</th>
-<th align="center">97
-</th>
-<th align="center" colspan="4">Boahen
-</th>
-<th align="center">181
-</th>
-<th align="center" colspan="4">Nsor
-</th></tr>
-<tr>
-<th align="center">15
-</th>
-<th align="center" colspan="4">Adiyiah
-</th>
-<th align="center">98
-</th>
-<th align="center" colspan="4">Boakye
-</th>
-<th align="center">182
-</th>
-<th align="center" colspan="3">Ntiamoa</th>
-<th>Ntiamoah
-</th></tr>
-<tr>
-<th align="center">16
-</th>
-<th align="center" colspan="4">Adomah
-</th>
-<th align="center">99
-</th>
-<th align="center" colspan="4">Boamah
-</th>
-<th align="center">183
-</th>
-<th align="center" colspan="4">Ntim
-</th></tr>
-<tr>
-<th align="center">17
-</th>
-<th align="center" colspan="4">Adomako
-</th>
-<th align="center">100
-</th>
-<th align="center" colspan="4">Boampong
-</th>
-<th align="center">184
-</th>
-<th align="center" colspan="4">Ntow
-</th></tr>
-<tr>
-<th align="center">18
-</th>
-<th align="center" colspan="4">Adusei
-</th>
-<th align="center">101
-</th>
-<th align="center" colspan="4">Boasiako
-</th>
-<th align="center">185
-</th>
-<th align="center" colspan="4">Nuako
-</th></tr>
-<tr>
-<th align="center">19
-</th>
-<th align="center" colspan="4">Adwubi
-</th>
-<th align="center">102
-</th>
-<th align="center" colspan="4">Boateng
-</th>
-<th align="center">186
-</th>
-<th align="center" colspan="4">Nkruamah
-</th></tr>
-<tr>
-<th align="center">20
-</th>
-<th align="center" colspan="4">Afoakwah
-</th>
-<th align="center">103
-</th>
-<th align="center" colspan="4">Boatei
-</th>
-<th align="center">187
-</th>
-<th align="center" colspan="4">Nyamekye
-</th></tr>
-<tr>
-<th align="center">21
-</th>
-<th align="center" colspan="4">Afreh
-</th>
-<th align="center">104
-</th>
-<th align="center" colspan="4">Bonah
-</th>
-<th align="center">188
-</th>
-<th align="center" colspan="4">Nyantah
-</th></tr>
-<tr>
-<th align="center">22
-</th>
-<th align="center" colspan="4">Afram
-</th>
-<th align="center">105
-</th>
-<th align="center" colspan="4">Bonsu
-</th>
-<th align="center">189
-</th>
-<th align="center" colspan="4">Nyantakyi
-</th></tr>
-<tr>
-<th align="center">23
-</th>
-<th align="center" colspan="4">Afrane
-</th>
-<th align="center">106
-</th>
-<th align="center" colspan="3">Bonsra</th>
-<th>Bonsrah
-</th>
-<th align="center">190
-</th>
-<th align="center" colspan="4">Nyarko
-</th></tr>
-<tr>
-<th align="center">24
-</th>
-<th align="center" colspan="3">Afrakoma</th>
-<th>Afrakomah
-</th>
-<th align="center">107
-</th>
-<th align="center" colspan="4">Brempong
-</th>
-<th align="center">191
-</th>
-<th align="center" colspan="3">Obeng</th>
-<th>Oteng
-</th></tr>
-<tr>
-<th align="center">25
-</th>
-<th align="center" colspan="3">Afrifa</th>
-<th>Afirifa
-</th>
-<th align="center">108
-</th>
-<th align="center" colspan="3">Busia</th>
-<th>Busiah
-</th>
-<th align="center">192
-</th>
-<th align="center" colspan="4">Obuor
-</th></tr>
-<tr>
-<th align="center">26
-</th>
-<th align="center" colspan="4">Afriyie
-</th>
-<th align="center">109
-</th>
-<th align="center" colspan="2">Cofie</th>
-<th>Cuffee</th>
-<th>Kofi
-</th>
-<th align="center">193
-</th>
-<th align="center" colspan="4">Oduro
-</th></tr>
-<tr>
-<th align="center">27
-</th>
-<th align="center" colspan="4">Afful
-</th>
-<th align="center">110
-</th>
-<th align="center" colspan="4">Crentsil
-</th>
-<th align="center">194
-</th>
-<th align="center" colspan="4">Ofori
-</th></tr>
-<tr>
-<th align="center">28
-</th>
-<th align="center" colspan="4">Ahinful
-</th>
-<th align="center">111
-</th>
-<th align="center" colspan="3">Daako</th>
-<th>Darko
-</th>
-<th align="center">195
-</th>
-<th align="center" colspan="4">Ofosu
-</th></tr>
-<tr>
-<th align="center">29
-</th>
-<th align="center" colspan="4">Arkorful
-</th>
-<th align="center">112
-</th>
-<th align="center" colspan="3">Dankwah</th>
-<th>Danquah
-</th>
-<th align="center">196
-</th>
-<th align="center" colspan="4">Ogyampah
-</th></tr>
-<tr>
-<th align="center">30
-</th>
-<th align="center" colspan="4">Agyapong
-</th>
-<th align="center">113
-</th>
-<th align="center" colspan="4">Danso
-</th>
-<th align="center">197
-</th>
-<th align="center" colspan="4">Ohemeng
-</th></tr>
-<tr>
-<th align="center">31
-</th>
-<th align="center" colspan="4">Agyare
-</th>
-<th align="center">114
-</th>
-<th align="center" colspan="2">Dapaa</th>
-<th>Dapaah</th>
-<th>Depay
-</th>
-<th align="center">198
-</th>
-<th align="center" colspan="4">Ohene
-</th></tr>
-<tr>
-<th align="center">32
-</th>
-<th align="center" colspan="4">Agyei
-</th>
-<th align="center">115
-</th>
-<th align="center" colspan="4">Diawuo
-</th>
-<th align="center">199
-</th>
-<th align="center" colspan="4">Okese
-</th></tr>
-<tr>
-<th align="center">33
-</th>
-<th align="center" colspan="3">Agyeman</th>
-<th>Agyemang
-</th>
-<th align="center">116
-</th>
-<th align="center" colspan="2">Donkor</th>
-<th>Donkoh</th>
-<th>Dontoh
-</th>
-<th align="center">200
-</th>
-<th align="center" colspan="4">Okoromansah
-</th></tr>
-<tr>
-<th align="center">34
-</th>
-<th align="center" colspan="4">Akaminko
-</th>
-<th align="center">117
-</th>
-<th align="center" colspan="4">Domfe
-</th>
-<th align="center">201
-</th>
-<th align="center" colspan="4">Okyere
-</th></tr>
-<tr>
-<th align="center">35
-</th>
-<th align="center" colspan="3">Akenten</th>
-<th>Akenteng
-</th>
-<th align="center">118
-</th>
-<th align="center" colspan="4">Dorkenoo
-</th>
-<th align="center">202
-</th>
-<th align="center" colspan="3">Omenah</th>
-<th>Omenaa
-</th></tr>
-<tr>
-<th align="center">36
-</th>
-<th align="center" colspan="4">Akomeah
-</th>
-<th align="center">119
-</th>
-<th align="center" colspan="4">Duah
-</th>
-<th align="center">203
-</th>
-<th align="center" colspan="4">Opambuor
-</th></tr>
-<tr>
-<th align="center">37
-</th>
-<th align="center" colspan="4">Akomfrah
-</th>
-<th align="center">120
-</th>
-<th align="center" colspan="4">Dufie
-</th>
-<th align="center">204
-</th>
-<th align="center" colspan="4">Opare
-</th></tr>
-<tr>
-<th align="center">38
-</th>
-<th align="center" colspan="4">Akosah
-</th>
-<th align="center">121
-</th>
-<th align="center" colspan="4">Duodu
-</th>
-<th align="center">205
-</th>
-<th align="center" colspan="4">Opoku
-</th></tr>
-<tr>
-<th align="center">39
-</th>
-<th align="center" colspan="4">Akoto
-</th>
-<th align="center">122
-</th>
-<th align="center" colspan="3">Dwamena</th>
-<th>Dwamenah
-</th>
-<th align="center">206
-</th>
-<th align="center" colspan="4">Oppong
-</th></tr>
-<tr>
-<th align="center">40
-</th>
-<th align="center" colspan="4">Akuamoah
-</th>
-<th align="center">123
-</th>
-<th align="center" colspan="4">Dwomoh
-</th>
-<th align="center">207
-</th>
-<th align="center" colspan="4">Opuni
-</th></tr>
-<tr>
-<th align="center">41
-</th>
-<th align="center" colspan="4">Akuffo
-</th>
-<th align="center">124
-</th>
-<th align="center" colspan="4">Ekuoba
-</th>
-<th align="center">208
-</th>
-<th align="center" colspan="4">Osafo
-</th></tr>
-<tr>
-<th align="center">42
-</th>
-<th align="center" colspan="4">Akrofi
-</th>
-<th align="center">125
-</th>
-<th align="center" colspan="4">Enninful
-</th>
-<th align="center">209
-</th>
-<th align="center" colspan="4">Osam
-</th></tr>
-<tr>
-<th align="center">43
-</th>
-<th align="center" colspan="4">Akyaw
-</th>
-<th align="center">126
-</th>
-<th align="center" colspan="4">Essien
-</th>
-<th align="center">210
-</th>
-<th align="center" colspan="4">Otuo
-</th></tr>
-<tr>
-<th align="center">44
-</th>
-<th align="center" colspan="4">Amakye
-</th>
-<th align="center">127
-</th>
-<th align="center" colspan="4">Farkyi
-</th>
-<th align="center">211
-</th>
-<th align="center" colspan="4">Osei
-</th></tr>
-<tr>
-<th align="center">45
-</th>
-<th align="center" colspan="4">Amamfo
-</th>
-<th align="center">128
-</th>
-<th align="center" colspan="4">Firikyi
-</th>
-<th align="center">212
-</th>
-<th align="center" colspan="4">Owoahene
-</th></tr>
-<tr>
-<th align="center">46
-</th>
-<th align="center" colspan="3">Amankona</th>
-<th>Amankonah
-</th>
-<th align="center">129
-</th>
-<th align="center" colspan="4">Fofie
-</th>
-<th align="center">213
-</th>
-<th align="center" colspan="4">Owusu
-</th></tr>
-<tr>
-<th align="center">47
-</th>
-<th align="center" colspan="4">Amankwah
-</th>
-<th align="center">130
-</th>
-<th align="center" colspan="4">Fokuo
-</th>
-<th align="center">214
-</th>
-<th align="center" colspan="4">Oyiakwan
-</th></tr>
-<tr>
-<th align="center">48
-</th>
-<th align="center" colspan="4">Ameyaw
-</th>
-<th align="center">131
-</th>
-<th align="center" colspan="4">Fordjour
-</th>
-<th align="center">215
-</th>
-<th align="center" colspan="4">Paintsil
-</th></tr>
-<tr>
-<th align="center">49
-</th>
-<th align="center" colspan="4">Amissah
-</th>
-<th align="center">132
-</th>
-<th align="center" colspan="4">Forobuor
-</th>
-<th align="center">216
-</th>
-<th align="center" colspan="4">Pappoe
-</th></tr>
-<tr>
-<th align="center">50
-</th>
-<th align="center" colspan="4">Amoabeng
-</th>
-<th align="center">133
-</th>
-<th align="center" colspan="3">Fredua</th>
-<th>Freduah
-</th>
-<th align="center">217
-</th>
-<th align="center" colspan="4">Peprah
-</th></tr>
-<tr>
-<th align="center">51
-</th>
-<th align="center" colspan="4">Amoah
-</th>
-<th align="center">134
-</th>
-<th align="center" colspan="4">Fremah
-</th>
-<th align="center">218
-</th>
-<th align="center" colspan="4">Pinaman
-</th></tr>
-<tr>
-<th align="center">52
-</th>
-<th align="center" colspan="4">Amoako
-</th>
-<th align="center">135
-</th>
-<th align="center" colspan="2">Frimpong</th>
-<th>Frempon</th>
-<th>Frempong
-</th>
-<th align="center">219
-</th>
-<th align="center" colspan="4">Poku
-</th></tr>
-<tr>
-<th align="center">53
-</th>
-<th align="center" colspan="4">Amoateng
-</th>
-<th align="center">136
-</th>
-<th align="center" colspan="4">Gyakari
-</th>
-<th align="center">220
-</th>
-<th align="center" colspan="4">Prempeh
-</th></tr>
-<tr>
-<th align="center">54
-</th>
-<th align="center" colspan="4">Amofah
-</th>
-<th align="center">137
-</th>
-<th align="center" colspan="2">Gyan</th>
-<th>Djan</th>
-<th>Djansi
-</th>
-<th align="center">221
-</th>
-<th align="center" colspan="4">Quainoo
-</th></tr>
-<tr>
-<th align="center">55
-</th>
-<th align="center" colspan="4">Ampadu
-</th>
-<th align="center">138
-</th>
-<th align="center" colspan="3">Gyamera</th>
-<th>Gyamerah
-</th>
-<th align="center">222
-</th>
-<th align="center" colspan="4">Quansah
-</th></tr>
-<tr>
-<th align="center">56
-</th>
-<th align="center" colspan="4">Ampem
-</th>
-<th align="center">139
-</th>
-<th align="center" colspan="3">Gyamah</th>
-<th>Gyaama
-</th>
-<th align="center">223
-</th>
-<th align="center" colspan="3">Safo</th>
-<th>Sarfo
-</th></tr>
-<tr>
-<th align="center">57
-</th>
-<th align="center" colspan="4">Ampofo
-</th>
-<th align="center">140
-</th>
-<th align="center" colspan="4">Gyamfi
-</th>
-<th align="center">224
-</th>
-<th align="center" colspan="4">Sakyi
-</th></tr>
-<tr>
-<th align="center">58
-</th>
-<th align="center" colspan="4">Amponsah
-</th>
-<th align="center">141
-</th>
-<th align="center" colspan="4">Gyambibi
-</th>
-<th align="center">225
-</th>
-<th align="center" colspan="4">Sarkodie
-</th></tr>
-<tr>
-<th align="center">59
-</th>
-<th align="center" colspan="4">Amponsem
-</th>
-<th align="center">142
-</th>
-<th align="center" colspan="4">Gyasi
-</th>
-<th align="center">226
-</th>
-<th align="center" colspan="3">Sarpei</th>
-<th>Yartei
-</th></tr>
-<tr>
-<th align="center">60
-</th>
-<th align="center" colspan="4">Andoh
-</th>
-<th align="center">143
-</th>
-<th align="center" colspan="4">Gyeabuor
-</th>
-<th align="center">227
-</th>
-<th align="center" colspan="3">Sarpon</th>
-<th>Sarpong
-</th></tr>
-<tr>
-<th align="center">61
-</th>
-<th align="center" colspan="4">Ankobiah
-</th>
-<th align="center">144
-</th>
-<th align="center" colspan="4">Gyimah
-</th>
-<th align="center">228
-</th>
-<th align="center" colspan="4">Sasraku
-</th></tr>
-<tr>
-<th align="center">62
-</th>
-<th align="center" colspan="4">Ankomah
-</th>
-<th align="center">145
-</th>
-<th align="center" colspan="4">Inkoom
-</th>
-<th align="center">229
-</th>
-<th align="center" colspan="4">Siabuor
-</th></tr>
-<tr>
-<th align="center">63
-</th>
-<th align="center" colspan="4">Ankrah
-</th>
-<th align="center">146
-</th>
-<th align="center" colspan="4">Karikari
-</th>
-<th align="center">230
-</th>
-<th align="center" colspan="4">Siaw
-</th></tr>
-
-<tr>
-<th align="center">147
-</th>
-<th align="center" colspan="4">Katakyie
-</th>
-<th align="center">231
-</th>
-<th align="center" colspan="4">Sika
-</th></tr>
-<tr>
-<th align="center">65
-</th>
-<th align="center" colspan="4">Anokye
-</th>
-<th align="center">148
-</th>
-<th align="center" colspan="4">Kenu
-</th>
-<th align="center">232
-</th>
-<th align="center" colspan="4">Sikafuo
-</th></tr>
-<tr>
-<th align="center">66
-</th>
-<th align="center" colspan="4">Ansah
-</th>
-<th align="center">149
-</th>
-<th align="center" colspan="4">Koduah
-</th>
-<th align="center">233
-</th>
-<th align="center" colspan="4">Sintim
-</th></tr>
-<tr>
-<th align="center">67
-</th>
-<th align="center" colspan="4">Apori       Antwi
-</th>
-<th align="center">150
-</th>
-<th align="center" colspan="4">Kokote
-</th>
-<th align="center">234
-</th>
-<th align="center" colspan="4">Siriboe
-</th></tr>
-<tr>
-<th align="center">68
-</th>
-<th align="center" colspan="4">Apau
-</th>
-<th align="center">151
-</th>
-<th align="center" colspan="4">Konadu
-</th>
-<th align="center">235
-</th>
-<th align="center" colspan="3">Soadwa</th>
-<th>Soadwah
-</th></tr>
-<tr>
-<th align="center">69
-</th>
-<th align="center" colspan="4">Appiah
-</th>
-<th align="center">152
-</th>
-<th align="center" colspan="3">Koranten</th>
-<th>Koranteng
-</th>
-<th align="center">236
-</th>
-<th align="center" colspan="4">Sowah
-</th></tr>
-<tr>
-<th align="center">70
-</th>
-<th align="center" colspan="4">Asamoah
-</th>
-<th align="center">153
-</th>
-<th align="center" colspan="4">Korsah
-</th>
-<th align="center">237
-</th>
-<th align="center" colspan="4">Tagoe
-</th></tr>
-<tr>
-<th align="center">71
-</th>
-<th align="center" colspan="3">Asante</th>
-<th>Asantewaa
-</th>
-<th align="center">154
-</th>
-<th align="center" colspan="4">Kouassi
-</th>
-<th align="center">238
-</th>
-<th align="center" colspan="4">Takyi
-</th></tr>
-<tr>
-<th align="center">72
-</th>
-<th align="center" colspan="4">Asare
-</th>
-<th align="center">155
-</th>
-<th align="center" colspan="3">Kufuor</th>
-<th>Kuffour
-</th>
-<th align="center">239
-</th>
-<th align="center" colspan="4">Tandoh
-</th></tr>
-<tr>
-<th align="center">73
-</th>
-<th align="center" colspan="4">Asenso
-</th>
-<th align="center">156
-</th>
-<th align="center" colspan="4">Kumankama
-</th>
-<th align="center">240
-</th>
-<th align="center" colspan="4">Tawiah
-</th></tr>
-<tr>
-<th align="center">74
-</th>
-<th align="center" colspan="4">Ashia
-</th>
-<th align="center">157
-</th>
-<th align="center" colspan="3">Kusi</th>
-<th>Kusiwaa
-</th>
-<th align="center">241
-</th>
-<th align="center" colspan="4">Tuffour
-</th></tr>
-<tr>
-<th align="center">75
-</th>
-<th align="center" colspan="4">Asiamah
-</th>
-<th align="center">158
-</th>
-<th align="center" colspan="4">Kwaata
-</th>
-<th align="center">242
-</th>
-<th align="center" colspan="4">Twasam
-</th></tr>
-<tr>
-<th align="center">76
-</th>
-<th align="center" colspan="4">Asiedu
-</th>
-<th align="center">159
-</th>
-<th align="center" colspan="4">Kwakye
-</th>
-<th align="center">243
-</th>
-<th align="center" colspan="3">Tweneboa</th>
-<th>Tweneboah
-</th></tr>
-<tr>
-<th align="center">77
-</th>
-<th align="center" colspan="4">Asomadu
-</th>
-<th align="center">160
-</th>
-<th align="center" colspan="3">Kwateng</th>
-<th>Kwarteng
-</th>
-<th align="center">244
-</th>
-<th align="center" colspan="4">Twerefuo
-</th></tr>
-<tr>
-<th align="center">77
-</th>
-<th align="center" colspan="4">Asomaning
-</th>
-<th align="center">161
-</th>
-<th align="center" colspan="4">Kwayie
-</th>
-<th align="center">245
-</th>
-<th align="center" colspan="3">Twum</th>
-<th>Twumasi
-</th></tr>
-<tr>
-<th align="center">78
-</th>
-<th align="center" colspan="4">Assifuah
-</th>
-<th align="center">162
-</th>
-<th align="center" colspan="4">Kyei
-</th>
-<th align="center">246
-</th>
-<th align="center" colspan="4">Vorsah
-</th></tr>
-<tr>
-<th align="center">79
-</th>
-<th align="center" colspan="4">Asubonteng
-</th>
-<th align="center">163
-</th>
-<th align="center" colspan="4">Kyekyeku
-</th>
-<th align="center">247
-</th>
-<th align="center" colspan="3">Wiafe</th>
-<th>Wiredu
-</th></tr>
-<tr>
-<th align="center">80
-</th>
-<th align="center" colspan="4">Ayeh
-</th>
-<th align="center">164
-</th>
-<th align="center" colspan="4">Kyem
-</th>
-<th align="center">248
-</th>
-<th align="center" colspan="4">Yamoah
-</th></tr>
-<tr>
-<th align="center">81
-</th>
-<th align="center" colspan="4">Ayensu
-</th>
-<th align="center">165
-</th>
-<th align="center" colspan="2">Kyereme</th>
-<th>Kyerematen</th>
-<th>Kyeremateng
-</th>
-<th align="center">249
-</th>
-<th align="center" colspan="4">Yankah
-</th></tr>
-<tr>
-<th align="center">82
-</th>
-<th align="center" colspan="4">Ayew
-</th>
-<th align="center">166
-</th>
-<th align="center" colspan="3">Kyerewa</th>
-<th>Kyerewaa
-</th>
-<th align="center">250
-</th>
-<th align="center" colspan="4">Yeboah
-</th></tr>
-<tr>
-<th align="center">83
-</th>
-<th align="center" colspan="4">Awuah
-</th>
-<th align="center">167
-</th>
-<th align="center" colspan="4">Manso
-</th>
-<th align="center">251
-</th>
-<th align="center" colspan="4">Yiadom
-</th></tr>
-</tbody></table>
-</td></tr></tbody></table>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Akan_names&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Akan_calendar" title="Akan calendar">Akan calendar</a></li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Akan_names&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
-<ol class="references">
-<li id="cite_note-Bartle_80–84-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bartle_80–84_1-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bartle, Philip F. W. (January 1978). <a rel="nofollow" class="external text" href="http://cec.vcn.bc.ca/rdi/kw-40.htm">"Forty Days: The Akan Calendar"</a>. <i>Africa: Journal of the International African Institute</i>. Edinburgh University Press. <b>48</b> (1): 80–84. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.2307%2F1158712">10.2307/1158712</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/1158712">1158712</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Africa%3A+Journal+of+the+International+African+Institute&amp;rft.atitle=Forty+Days%3A+The+Akan+Calendar&amp;rft.volume=48&amp;rft.issue=1&amp;rft.pages=80-84&amp;rft.date=1978-01&amp;rft_id=info%3Adoi%2F10.2307%2F1158712&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F1158712&amp;rft.aulast=Bartle&amp;rft.aufirst=Philip+F.+W.&amp;rft_id=http%3A%2F%2Fcec.vcn.bc.ca%2Frdi%2Fkw-40.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAkan+names" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
-</li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Neita, Lance, <a rel="nofollow" class="external text" href="http://www.jamaicaobserver.com/columns/So-what-s-in-a-name-_17438845">"So what's in a name?"</a>, <i><a href="/wiki/Jamaica_Observer" class="mw-redirect" title="Jamaica Observer">Jamaica Observer</a></i>, 30 August 2014.</span>
-</li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">For the Akan, the first-born twin is considered the younger, as the elder is thought to have stayed behind to help the younger out.</span>
-</li>
-<li id="cite_note-List_of_Ashanti_(Twi,_Asante)_Names-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-List_of_Ashanti_(Twi,_Asante)_Names_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-List_of_Ashanti_(Twi,_Asante)_Names_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-List_of_Ashanti_(Twi,_Asante)_Names_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-List_of_Ashanti_(Twi,_Asante)_Names_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-List_of_Ashanti_(Twi,_Asante)_Names_4-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-List_of_Ashanti_(Twi,_Asante)_Names_4-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-List_of_Ashanti_(Twi,_Asante)_Names_4-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-List_of_Ashanti_(Twi,_Asante)_Names_4-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-List_of_Ashanti_(Twi,_Asante)_Names_4-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-List_of_Ashanti_(Twi,_Asante)_Names_4-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-List_of_Ashanti_(Twi,_Asante)_Names_4-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-List_of_Ashanti_(Twi,_Asante)_Names_4-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-List_of_Ashanti_(Twi,_Asante)_Names_4-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-List_of_Ashanti_(Twi,_Asante)_Names_4-13"><sup><i><b>n</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.afropedea.org/akan-names">"List of Ashanti (Twi, Asante) Names"</a>. <i>afropedea.org</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=afropedea.org&amp;rft.atitle=List+of+Ashanti+%28Twi%2C+Asante%29+Names&amp;rft_id=http%3A%2F%2Fwww.afropedea.org%2Fakan-names&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAkan+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-The_Sociolinguistic_of_Ashanti_Personal_Names-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-The_Sociolinguistic_of_Ashanti_Personal_Names_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-The_Sociolinguistic_of_Ashanti_Personal_Names_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-The_Sociolinguistic_of_Ashanti_Personal_Names_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-The_Sociolinguistic_of_Ashanti_Personal_Names_5-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-The_Sociolinguistic_of_Ashanti_Personal_Names_5-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-The_Sociolinguistic_of_Ashanti_Personal_Names_5-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-The_Sociolinguistic_of_Ashanti_Personal_Names_5-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-The_Sociolinguistic_of_Ashanti_Personal_Names_5-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-The_Sociolinguistic_of_Ashanti_Personal_Names_5-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-The_Sociolinguistic_of_Ashanti_Personal_Names_5-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-The_Sociolinguistic_of_Ashanti_Personal_Names_5-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-The_Sociolinguistic_of_Ashanti_Personal_Names_5-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-The_Sociolinguistic_of_Ashanti_Personal_Names_5-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-The_Sociolinguistic_of_Ashanti_Personal_Names_5-13"><sup><i><b>n</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.njas.helsinki.fi/pdf-files/vol15num2/agyekum.pdf">"The Sociolinguistic of Ashanti Personal Names"</a> <span class="cs1-format">(PDF)</span>. <i>njas.helsinki.fi</i> (PDF).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=njas.helsinki.fi&amp;rft.atitle=The+Sociolinguistic+of+Ashanti+Personal+Names&amp;rft_id=http%3A%2F%2Fwww.njas.helsinki.fi%2Fpdf-files%2Fvol15num2%2Fagyekum.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAkan+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-The_Ashanti_and_their_names-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-The_Ashanti_and_their_names_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-The_Ashanti_and_their_names_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-The_Ashanti_and_their_names_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-The_Ashanti_and_their_names_6-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140314103015/http://asanteman.freeservers.com/contact.html">"The Ashanti and their names"</a>. <i>asanteman.freeservers.com</i>. Archived from <a rel="nofollow" class="external text" href="http://www.asanteman.freeservers.com/contact.html">the original</a> on 14 March 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=asanteman.freeservers.com&amp;rft.atitle=The+Ashanti+and+their+names&amp;rft_id=http%3A%2F%2Fwww.asanteman.freeservers.com%2Fcontact.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAkan+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-</ol></div>
-<h2><span class="mw-headline" id="Additional_references">Additional references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Akan_names&amp;action=edit&amp;section=8" title="Edit section: Additional references">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li>J. E. Redden and N. Owusu (1963, 1995). <i>Twi Basic Course</i>. Foreign Service Institute (Hippocrene reprint). <sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;1&#93;</a></sup><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7818-0394-2" title="Special:BookSources/0-7818-0394-2">0-7818-0394-2</a></li>
-<li>Florence Abena Dolphyne (1996). <i>A Comprehensive Course in Twi (Asante) for the Non-Twi Learner</i>. Accra: Ghana Universities Press. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9964302452" title="Special:BookSources/9964302452">9964302452</a></li>
-<li><a rel="nofollow" class="external text" href="http://www.akan.org/akan_cd/ALIAKAN/course/U-Akan.html">Akan Teleteaching course</a></li>
-<li><a rel="nofollow" class="external text" href="http://www.sil.org/americas/suriname/Aukan/English/AukanEngLLIndex.html">Aukan Library</a> (Ndyuka)</li></ul>
-<div role="navigation" class="navbox" aria-labelledby="Akan_topics" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Akan_topics" title="Template:Akan topics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Akan_topics" title="Template talk:Akan topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Akan_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Akan_topics" style="font-size:114%;margin:0 4em"><a href="/wiki/Akan_people" title="Akan people">Akan</a> topics</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">History</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Bonoman" class="mw-redirect" title="Bonoman">Bonoman</a> <small>(<a href="/wiki/Gyaaman" title="Gyaaman">Gyaaman</a> • <a href="/wiki/Denkyira" title="Denkyira">Denkyira</a>)</small></li>
-<li><a href="/wiki/Ashantiland" class="mw-redirect" title="Ashantiland">Ashantiland Peninsula</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Demographics</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><b><a href="/wiki/Akan_people" title="Akan people">Akan people</a></b>
-<ul><li><a href="/wiki/List_of_Akan_people" title="List of Akan people">List of Akan people</a></li></ul></li>
-<li><a href="/wiki/Ndyuka_people" title="Ndyuka people">Ndyuka</a> <small>(<a href="/wiki/Suriname" title="Suriname">Suriname</a>, <a href="/wiki/French_Guiana" title="French Guiana">French Guiana</a> and <a href="/wiki/Guyana" title="Guyana">Guyana</a> • <a href="/wiki/Cuffy_(Guyanese_rebel)" title="Cuffy (Guyanese rebel)">Cuffy (Guyanese rebel)</a>)</small></li>
-<li><a href="/wiki/Coromantee" title="Coromantee">Coromantee</a> <small>(<a href="/wiki/Jamaica" title="Jamaica">Jamaica</a>)</small></li>
-<li><a href="/wiki/Baoul%C3%A9_people" title="Baoulé people">Baoule</a> <small>(Ivory Coast)</small></li>
-<li><a href="/wiki/Afro-Barbadian" title="Afro-Barbadian">Afro-Barbadian</a> <small>(<a href="/wiki/Barbados" title="Barbados">Barbados</a>)</small></li>
-<li><a href="/wiki/Afro-Bahamian" title="Afro-Bahamian">Afro-Bahamian</a> <small>(<a href="/wiki/The_Bahamas" title="The Bahamas">The Bahamas</a>)</small></li>
-<li><a href="/wiki/Afro-Costa_Rican" class="mw-redirect" title="Afro-Costa Rican">Afro-Costa Rican</a> <small>(<a href="/wiki/Costa_Rica" title="Costa Rica">Costa Rica</a>)</small></li>
-<li><a href="/wiki/Afro-Panamanian" class="mw-redirect" title="Afro-Panamanian">Afro-Panamanian</a> <small>(<a href="/wiki/Panama" title="Panama">Panama</a>)</small></li>
-<li><a href="/wiki/Afro-Dominican_(Dominica)" title="Afro-Dominican (Dominica)">Afro-Dominican (Dominica)</a> <small>(<a href="/wiki/Dominica" title="Dominica">Dominica</a>)</small></li>
-<li><a href="/wiki/Afro-Antiguan_and_Barbudan" title="Afro-Antiguan and Barbudan">Afro-Antiguan and Barbudan</a> <small>(<a href="/wiki/Antigua_and_Barbuda" title="Antigua and Barbuda">Antigua and Barbuda</a>)</small></li>
-<li><a href="/wiki/Afro-Jamaican" title="Afro-Jamaican">Afro-Jamaican</a> <small>(<a href="/wiki/Jamaica" title="Jamaica">Jamaica</a>)</small></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Subgroups</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><b><a href="/wiki/Ashanti_people" title="Ashanti people">Ashanti</a></b></li>
-<li><b><a href="/wiki/Akuapem_people" title="Akuapem people">Akuapem</a></b></li>
-<li><b><a href="/wiki/Fante_people" title="Fante people">Fante</a></b></li>
-<li><a href="/wiki/Abb%C3%A9_people" title="Abbé people">Abbe</a></li>
-<li><a href="/wiki/Abidji_people" title="Abidji people">Abidji</a></li>
-<li><a href="/wiki/Adjoukrou_people" title="Adjoukrou people">Adjoukrou</a></li>
-<li><a href="/wiki/Ahafo" title="Ahafo">Ahafo</a></li>
-<li><a href="/wiki/Ahanta_people" title="Ahanta people">Ahanta</a></li>
-<li><a href="/wiki/Akwamu" title="Akwamu">Akwamu</a></li>
-<li><a href="/wiki/Akyem" title="Akyem">Akyem</a></li>
-<li><a href="/wiki/Anyi_people" title="Anyi people">Anyi</a></li>
-<li><a href="/wiki/Aowin" title="Aowin">Aowin</a></li>
-<li><a href="/wiki/Assin" title="Assin">Assin</a></li>
-<li><a href="/wiki/Attie_people" title="Attie people">Attie</a></li>
-<li><a href="/wiki/Avatime_people" title="Avatime people">Avatime</a></li>
-<li><a href="/wiki/Avikam_people" title="Avikam people">Avikam</a></li>
-<li><a href="/wiki/Baoul%C3%A9_people" title="Baoulé people">Baoule</a></li>
-<li><a href="/wiki/Abron_tribe" title="Abron tribe">Brong</a></li>
-<li><a href="/wiki/Chakosi_people" title="Chakosi people">Chokosi</a></li>
-<li><a href="/wiki/Coromantee" title="Coromantee">Coromantee</a></li>
-<li><a href="/wiki/Denkyira" title="Denkyira">Denkyira</a></li>
-<li><a href="/wiki/Evalue_people" title="Evalue people">Evalue</a></li>
-<li><a href="/wiki/Kwahu" title="Kwahu">Kwahu</a></li>
-<li><a href="/wiki/M%27Bato" title="M&#39;Bato">M'Bato</a></li>
-<li><a href="/wiki/Ndyuka_people" title="Ndyuka people">Ndyuka</a></li>
-<li><a href="/wiki/Nzema_people" title="Nzema people">Nzema</a></li>
-<li><a href="/wiki/Sefwi_people" title="Sefwi people">Sefwi</a></li>
-<li><a href="/wiki/Tchaman" title="Tchaman">Tchaman</a></li>
-<li><a href="/wiki/Wassa" title="Wassa">Wassa</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Linguistics" title="Linguistics">Linguistics</a><br />(<a href="/wiki/Language" title="Language">language</a>)</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Akan_language" title="Akan language">Akan language</a> <small>(<a href="/wiki/Akan_languages" class="mw-redirect" title="Akan languages">Akan languages</a>)</small></li>
-<li><a href="/wiki/Adamorobe_Sign_Language" title="Adamorobe Sign Language">Adamorobe Sign Language</a> <small>(<a href="/wiki/Nanabin_Sign_Language" title="Nanabin Sign Language">Nanabin Sign Language</a>)</small></li>
-<li><a href="/wiki/Akan_Orthography_Committee" title="Akan Orthography Committee">Akan Orthography Committee</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Politics</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/List_of_rulers_of_the_Akan_state_of_Adanse" title="List of rulers of the Akan state of Adanse">Rulers of Adanse</a></li>
-<li><a href="/wiki/List_of_rulers_of_the_Akan_state_of_Akuapem" title="List of rulers of the Akan state of Akuapem">Rulers of the Akan state of Akuapem</a>
-<ul><li><a href="/wiki/List_of_rulers_of_the_Akan_state_of_Akuapem_Okere" title="List of rulers of the Akan state of Akuapem Okere">Rulers of the Akan state of Akuapem Okere</a></li>
-<li><a href="/wiki/List_of_rulers_of_the_Akan_state_of_Akuapem_Anafo" class="mw-redirect" title="List of rulers of the Akan state of Akuapem Anafo">Rulers of the Akan state of Akuapem Anafo</a></li>
-<li><a href="/wiki/List_of_rulers_of_the_Akan_state_of_Akuapem_Guan" title="List of rulers of the Akan state of Akuapem Guan">Rulers of the Akan state of Akuapem Guan</a></li></ul></li>
-<li><a href="/wiki/List_of_rulers_of_the_Akan_states_of_Akwamu_and_Twifo-Heman" title="List of rulers of the Akan states of Akwamu and Twifo-Heman">Rulers of Akwamu and Twifo-Heman</a></li>
-<li><a href="/wiki/Rulers_of_the_Akan_state_of_Akyem_Abuakwa" class="mw-redirect" title="Rulers of the Akan state of Akyem Abuakwa">Rulers of Akyem Abuakwa</a>
-<ul><li><a href="/wiki/List_of_rulers_of_the_Akan_state_of_Akyem_Bosume" title="List of rulers of the Akan state of Akyem Bosume">Rulers of the Akan state of Akyem Bosume</a></li>
-<li><a href="/wiki/List_of_rulers_of_the_Akan_state_of_Akyem_Kotoku" title="List of rulers of the Akan state of Akyem Kotoku">Rulers of the Akan state of Akyem Kotoku</a></li></ul></li>
-<li><a href="/wiki/List_of_rulers_of_the_Akan_state_of_Assin_Apimenem" title="List of rulers of the Akan state of Assin Apimenem">Rulers of the Akan state of Assin Apimenem</a>
-<ul><li><a href="/wiki/List_of_rulers_of_the_Akan_state_of_Assin_Atadanso" title="List of rulers of the Akan state of Assin Atadanso">Rulers of the Akan state of Assin Atadanso</a></li></ul></li>
-<li><a href="/wiki/List_of_rulers_of_the_Akan_state_of_Bono-Tekyiman" title="List of rulers of the Akan state of Bono-Tekyiman">Rulers of the Akan state of Bono-Tekyiman</a></li>
-<li><a href="/wiki/List_of_rulers_of_the_Akan_state_of_Denkyira" title="List of rulers of the Akan state of Denkyira">Rulers of Denkyira</a></li>
-<li><a href="/wiki/List_of_rulers_of_the_Akan_state_of_Dwaben" title="List of rulers of the Akan state of Dwaben">Rulers of the Akan state of Dwaben</a></li>
-<li><a href="/wiki/List_of_rulers_of_the_Akan_state_of_Manya_Krobo" title="List of rulers of the Akan state of Manya Krobo">Rulers of the Akan state of Manya Krobo</a></li>
-<li><a href="/wiki/List_of_rulers_of_the_Akan_state_of_Gyaaman" title="List of rulers of the Akan state of Gyaaman">Rulers of Gyaaman</a></li>
-<li><a href="/wiki/List_of_rulers_of_the_Fante_Confederation" title="List of rulers of the Fante Confederation">Rulers of the Fante Confederation</a></li>
-<li><a href="/wiki/Rulers_of_the_Akan_state_of_Asante" class="mw-redirect" title="Rulers of the Akan state of Asante">Rulers of Asante</a></li>
-<li><a href="/wiki/Asantehene" class="mw-redirect" title="Asantehene">Asantehene</a> <small>(<a href="/wiki/Manhyia_Palace" title="Manhyia Palace">Manhyia Palace</a> • <a href="/wiki/Akan_Chieftaincy" class="mw-redirect" title="Akan Chieftaincy">Akan Chieftaincy</a>)</small></li></ul>
-</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Political_party:" scope="row" class="navbox-group" style="width:1%">Political party:</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/New_Patriotic_Party" title="New Patriotic Party">New Patriotic Party</a> <small>(NPP)</small></li></ul>
-</div></td></tr></tbody></table><div>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Culture</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Akan_art" title="Akan art">Akan Art</a></li>
-<li><a href="/wiki/Akan_goldweights" title="Akan goldweights">Akan Goldweights</a></li>
-<li><a href="/wiki/Akan_Calendar" class="mw-redirect" title="Akan Calendar">Akan Calendar</a></li></ul>
-</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Faiths:</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Akan_religion" title="Akan religion">Akan Religion</a> <small>(<a href="/wiki/Nyame" title="Nyame">Nyame</a>)</small></li>
-<li><a href="/wiki/House_of_Israel_(Ghana)" title="House of Israel (Ghana)">Akan Judaism</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Music:</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Hiplife" title="Hiplife">Hiplife</a></li>
-<li><a href="/wiki/Akan_Drum" title="Akan Drum">Akan Drum</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Festivals:</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Akwasidae_Festival" title="Akwasidae Festival">Akwasidae Festival</a></li>
-<li><a href="/wiki/Ashanti_Yam_Festival" title="Ashanti Yam Festival">Ashanti Yam Festival</a></li>
-<li><a href="/wiki/Adae_Festival" title="Adae Festival">Adae Festival</a></li>
-<li><a href="/wiki/Awukudae_Festival" title="Awukudae Festival">Awukudae Festival</a></li>
-<li><a href="/wiki/Fancy_Dress_Festival" title="Fancy Dress Festival">Fancy Dress Festival</a></li>
-<li><a href="/wiki/Aboakyer_festival" title="Aboakyer festival">Aboakyer Festival</a></li>
-<li><a href="/wiki/Akrokre_Festival" title="Akrokre Festival">Akrokre Festival</a></li>
-<li><a href="/wiki/Akwambo_festival" title="Akwambo festival">Akwambo Festival</a></li>
-<li><a href="/wiki/Apoo_festival" title="Apoo festival">Apoo Festival</a></li>
-<li><a href="/wiki/Bakatue_Festival" title="Bakatue Festival">Bakatue Festival</a></li>
-<li><a href="/wiki/Fetu_Afahye" title="Fetu Afahye">Fetu Afahye Festival</a></li>
-<li><a href="/wiki/Fofie_Yam_Festival" title="Fofie Yam Festival">Fofie Yam Festival</a></li>
-<li><a href="/wiki/Gmayem_festival" title="Gmayem festival">Gmayem Festival</a></li>
-<li><a href="/wiki/Kobine_festival" title="Kobine festival">Kobine Festival</a></li>
-<li><a href="/wiki/Kundum_Festival" title="Kundum Festival">Kundum Festival</a></li>
-<li><a href="/wiki/Mmoaninko_festival" title="Mmoaninko festival">Mmoaninko Festival</a></li></ul>
-</div></td></tr></tbody></table><div>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Geography<br />(<a href="/wiki/Ashantiland" class="mw-redirect" title="Ashantiland">Ashantiland Peninsula</a>)</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Geographic entities:</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Akosombo" title="Akosombo">Akosombo</a> <small>(<a href="/wiki/Akosombo_Dam" title="Akosombo Dam">Akosombo Dam</a> • <a href="/wiki/Kpong_Dam" title="Kpong Dam">Kpong Dam</a>)</small></li>
-<li><a href="/wiki/Atewa_Range" class="mw-redirect" title="Atewa Range">Atewa Range</a> <small>(<a href="/wiki/Kwahu_Plateau" title="Kwahu Plateau">Kwahu Plateau</a>)</small></li>
-<li><a href="/wiki/Birim_River" title="Birim River">Birim River</a> <small>(<a href="/wiki/Pra_River_(Ghana)" title="Pra River (Ghana)">Pra River</a> • <a href="/wiki/Lake_Bosumtwi" title="Lake Bosumtwi">Lake Bosumtwi</a>)</small></li>
-<li><a href="/wiki/Cape_Three_Points" title="Cape Three Points">Cape Three Points</a></li>
-<li><a href="/wiki/Bobowasi_Island" title="Bobowasi Island">Bobowasi Island</a></li>
-<li><a href="/wiki/Dodi_Island" title="Dodi Island">Dodi Island</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Territories:</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Ashanti_Region" title="Ashanti Region">Ashanti</a></li>
-<li><a href="/wiki/Brong-Ahafo_Region" title="Brong-Ahafo Region">Brong-Ahafo</a></li>
-<li><a href="/wiki/Central_Region_(Ghana)" title="Central Region (Ghana)">Central Ashantiland</a></li>
-<li><a href="/wiki/Eastern_Region_(Ghana)" title="Eastern Region (Ghana)">Eastern Ashantiland</a></li>
-<li><a href="/wiki/Greater_Accra_Region" title="Greater Accra Region">Greater Accra</a></li>
-<li><a href="/wiki/Western_Region_(Ghana)" title="Western Region (Ghana)">Western Ashantiland</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Major <a href="/wiki/Human_settlement" title="Human settlement">settlements</a>:</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Kumasi_Metropolitan_Assembly" title="Kumasi Metropolitan Assembly">Kumasi</a> <small>(<a href="/wiki/Obuasi" title="Obuasi">Obuasi</a>)</small></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Historic states</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Efutu_people" title="Efutu people">Efutu</a></li>
-<li><a href="/wiki/Akyem" title="Akyem">Akyem</a>
-<ul><li><a href="/wiki/Akyem_Bosome" title="Akyem Bosome">Bosome</a></li>
-<li><a href="/wiki/Akyem_Abuakwa" title="Akyem Abuakwa">Abuakwa</a></li>
-<li><a href="/wiki/Akyem_Kotoku" title="Akyem Kotoku">Kotoku</a></li></ul></li>
-<li><a href="/wiki/Adansi" title="Adansi">Adanse</a></li>
-<li><a href="/wiki/Akropong%E2%80%93Akuapem" title="Akropong–Akuapem">Akuapem</a></li>
-<li><a href="/wiki/Akwamu" title="Akwamu">Akwamu</a>
-<ul><li><a href="/wiki/Twifo-Heman" title="Twifo-Heman">Twifo-Heman</a></li></ul></li>
-<li><a href="/wiki/Asen_(state)" title="Asen (state)">Asen</a></li>
-<li><a href="/wiki/Mankessim_Kingdom" title="Mankessim Kingdom">Mankessim</a>
-<ul><li><a href="/wiki/Fante_people" title="Fante people">Fante</a></li></ul></li>
-<li>Dwabena</li>
-<li><a href="/wiki/Gyaaman" title="Gyaaman">Gyaaman</a>
-<ul><li><a href="/wiki/Abron_tribe" title="Abron tribe">Abron</a></li></ul></li>
-<li><a href="/wiki/Bono_state" title="Bono state">Bono</a></li>
-<li><a href="/wiki/Denkyira" title="Denkyira">Denkyira</a></li>
-<li><span class="nowrap"><a href="/wiki/Ashanti_Empire" title="Ashanti Empire">Ashanti Empire (Asanteman)</a> (<a href="/wiki/Asante_people" class="mw-redirect" title="Asante people">Ashantis</a>)</span></li></ul>
-</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Wikipedia</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="https://ak.wikipedia.org/wiki/Krataafa_Titiriw" class="extiw" title="ak:Krataafa Titiriw">Akan Wikipedia</a></li></ul>
-</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Akan" title="Category:Akan">Category</a></b></div></td></tr></tbody></table></div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Serbian_names&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Serbs" title="Category:Serbs">a series</a> of articles on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;font-size: 200%;"><a href="/wiki/Serbs" title="Serbs">Serbs</a></th></tr><tr><td style="padding:0.2em 0 0.4em"><a href="/wiki/File:Serbian_Cross.svg" class="image"><img alt="Serbian Cross.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Serbian_Cross.svg/70px-Serbian_Cross.svg.png" decoding="async" width="70" height="93" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Serbian_Cross.svg/105px-Serbian_Cross.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Serbian_Cross.svg/140px-Serbian_Cross.svg.png 2x" data-file-width="451" data-file-height="600" /></a></td></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #aaa;">Native communities</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><b><a href="/wiki/Serbia" title="Serbia">Serbia</a></b>
+<ul><li><b><a href="/wiki/Kosovo_Serbs" title="Kosovo Serbs">Kosovo and Metohija</a></b></li>
+<li><b><a href="/wiki/Serbs_of_Vojvodina" class="mw-redirect" title="Serbs of Vojvodina">Vojvodina</a></b></li></ul></li>
+<li><b><a href="/wiki/Serbs_of_Bosnia_and_Herzegovina" title="Serbs of Bosnia and Herzegovina">Bosnia and Herzegovina</a></b></li>
+<li><b><a href="/wiki/Serbs_of_Montenegro" title="Serbs of Montenegro">Montenegro</a></b></li>
+<li><b><a href="/wiki/Serbs_of_Croatia" title="Serbs of Croatia">Croatia</a></b></li>
+<li><b><a href="/wiki/Serbs_in_the_Republic_of_Macedonia" class="mw-redirect" title="Serbs in the Republic of Macedonia">Macedonia</a></b><br /></li>
+<li><a href="/wiki/Serbs_of_Romania" title="Serbs of Romania">Romania</a></li>
+<li><a href="/wiki/Serbs_in_Hungary" title="Serbs in Hungary">Hungary</a></li>
+<li><a href="/wiki/Serbs_in_Albania" class="mw-redirect" title="Serbs in Albania">Albania</a></li>
+<li><a href="/wiki/Serbs_in_Bulgaria" title="Serbs in Bulgaria">Bulgaria</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #aaa;"><a href="/wiki/Serb_diaspora" title="Serb diaspora">Diaspora</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><i>Europe</i>
+<ul><li><a href="/wiki/Serbs_in_Germany" title="Serbs in Germany">Germany</a></li>
+<li><a href="/wiki/Serbs_in_Austria" title="Serbs in Austria">Austria</a></li>
+<li><a href="/wiki/Immigration_from_the_former_Yugoslavia_to_Switzerland" title="Immigration from the former Yugoslavia to Switzerland">Switzerland</a></li>
+<li><a href="/wiki/Serbs_in_France" title="Serbs in France">France</a></li>
+<li><a href="/wiki/Serbian_Luxembourger" class="mw-redirect" title="Serbian Luxembourger">Luxembourg</a></li>
+<li><a href="/wiki/Serbs_in_Sweden" class="mw-redirect" title="Serbs in Sweden">Sweden</a></li>
+<li><a href="/wiki/Serbs_in_the_United_Kingdom" title="Serbs in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Serbs_in_Italy" title="Serbs in Italy">Italy</a></li>
+<li><a href="/wiki/Serbs_in_Slovenia" title="Serbs in Slovenia">Slovenia</a></li>
+<li><a href="/wiki/Serbian_Russians" class="mw-redirect" title="Serbian Russians">Russia</a></li>
+<li><a href="/wiki/Serbs_in_Greece" title="Serbs in Greece">Greece</a></li>
+<li><a href="/wiki/Serbs_in_Norway" title="Serbs in Norway">Norway</a></li>
+<li><a href="/wiki/Spanish_Serbs" class="mw-redirect" title="Spanish Serbs">Spain</a></li>
+<li><a href="/wiki/Serbs_of_Slovakia" title="Serbs of Slovakia">Slovakia</a></li>
+<li><a href="/wiki/Ukrainian_Serbs" class="mw-redirect" title="Ukrainian Serbs">Ukraine</a></li></ul>
+<p><i>Overseas</i>
+</p>
+<ul><li><a href="/wiki/Serbian_American" class="mw-redirect" title="Serbian American">United States</a></li>
+<li><a href="/wiki/Serbian_Canadians" title="Serbian Canadians">Canada</a></li>
+<li><a href="/wiki/Serbian_Australian" class="mw-redirect" title="Serbian Australian">Australia</a></li>
+<li><a href="/wiki/Serbian_New_Zealander" class="mw-redirect" title="Serbian New Zealander">New Zealand</a></li>
+<li><a href="/wiki/Serbian_Argentine" class="mw-redirect" title="Serbian Argentine">Argentina</a></li>
+<li><a href="/wiki/Serbian_Brazilian" title="Serbian Brazilian">Brazil</a></li>
+<li><a href="/wiki/Serbian_Venezuelan" class="mw-redirect" title="Serbian Venezuelan">Venezuela</a></li>
+<li><a href="/wiki/Serbian_South_African" class="mw-redirect" title="Serbian South African">South Africa</a></li>
+<li><a href="/wiki/Serbs_in_Botswana" title="Serbs in Botswana">Botswana</a></li>
+<li><a href="/wiki/Turkish_Serbs" class="mw-redirect" title="Turkish Serbs">Turkey</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #aaa;"><a href="/wiki/Serbian_culture" title="Serbian culture">Culture</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Symbols_of_Serbia" class="mw-redirect" title="Symbols of Serbia">Symbols</a></li></ul>
+<ul><li><a href="/wiki/Serbian_Orthodox_Church" title="Serbian Orthodox Church">Religion</a>
+<ul><li><a href="/wiki/Slava" title="Slava">Slava</a></li>
+<li><a href="/wiki/Serbian_Christmas_traditions" title="Serbian Christmas traditions">Christmas traditions</a></li></ul></li></ul>
+<ul><li><a href="/wiki/Cultural_Property_of_Great_Importance" class="mw-redirect" title="Cultural Property of Great Importance">Cultural Heritage sites</a></li>
+<li><a href="/wiki/Architecture_of_Serbia" title="Architecture of Serbia">Architecture</a></li></ul>
+<ul><li><a href="/wiki/Serbian_art" title="Serbian art">Art</a></li>
+<li><a href="/wiki/Serbian_literature" title="Serbian literature">Literature</a>
+<ul><li><a href="/wiki/Serbian_epic_poetry" title="Serbian epic poetry">Epic poetry</a></li></ul></li></ul>
+<ul><li><a href="/wiki/Music_of_Serbia" title="Music of Serbia">Music</a></li>
+<li><a href="/wiki/Cinema_of_Serbia" title="Cinema of Serbia">Cinema</a></li></ul>
+<ul><li><a href="/wiki/Serbian_dress" class="mw-redirect" title="Serbian dress">Costume</a></li>
+<li><a href="/wiki/Serbian_dances" title="Serbian dances">Dances</a></li>
+<li><a href="/wiki/Serbian_cuisine" title="Serbian cuisine">Cuisine</a></li>
+<li><a href="/wiki/Serbian_kinship" class="mw-redirect" title="Serbian kinship">Kinship</a></li></ul>
+<ul><li><a href="/wiki/Sport_in_Serbia" title="Sport in Serbia">Sport</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #aaa;"><a href="/wiki/History_of_the_Serbs" title="History of the Serbs">History</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Names_of_the_Serbs" class="mw-redirect" title="Names of the Serbs">Name</a></li>
+<li><a href="/wiki/History_of_the_Serbs" title="History of the Serbs">History of Serbs</a></li>
+<li><a href="/wiki/History_of_Serbia" title="History of Serbia">History of Serbia</a></li>
+<li><a href="/wiki/Serbian_lands" class="mw-redirect" title="Serbian lands">Serbian lands</a></li>
+<li><a href="/wiki/List_of_Serbian_monarchs" title="List of Serbian monarchs">Serbian rulers</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #aaa;"><a href="/wiki/Serbian_language" title="Serbian language">Language</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Serbian_language" title="Serbian language">Serbian</a></li></ul>
+<ul><li><a href="/wiki/Shtokavian_dialect" class="mw-redirect" title="Shtokavian dialect">Shtokavian</a></li>
+<li><a href="/wiki/Torlakian_dialect" title="Torlakian dialect">Torlakian</a></li>
+<li><a href="/wiki/Church_Slavonic_language" title="Church Slavonic language">Church Slavonic</a>
+<ul><li><a href="/wiki/Old_Church_Slavonic" title="Old Church Slavonic">Old</a></li></ul></li></ul>
+<ul><li><a href="/wiki/Serbo-Croatian" title="Serbo-Croatian">Serbo-Croat</a></li>
+<li><a href="/wiki/South_Slavic_languages" title="South Slavic languages">South Slavic</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #aaa;">Related groups</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Bosniaks" title="Bosniaks">Bosniaks</a></li>
+<li><a href="/wiki/Croats" title="Croats">Croats</a></li>
+<li><a href="/wiki/Macedonians_(ethnic_group)" title="Macedonians (ethnic group)">Macedonians</a></li>
+<li><a href="/wiki/Montenegrins" title="Montenegrins">Montenegrins</a></li></ul></div></div></td>
+</tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Serbs" title="Template:Serbs"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Serbs" title="Template talk:Serbs"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Serbs&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<ul><li><a href="/wiki/Serbian-language_given_names" title="Serbian-language given names">Serbian-language given names</a></li>
+<li><a href="/wiki/Slavic_names" title="Slavic names">Slavic names</a></li>
+<li><a href="/wiki/Slavic_surnames" class="mw-redirect" title="Slavic surnames">Slavic surnames</a></li></ul>
 <div role="navigation" class="navbox" aria-labelledby="Personal_names_and_anthroponymy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Personal_names" title="Template:Personal names"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Personal_names" title="Template talk:Personal names"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Personal_names&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Personal_names_and_anthroponymy" style="font-size:114%;margin:0 4em"><a href="/wiki/Personal_name" title="Personal name">Personal names</a> and <a href="/wiki/Anthroponymy" title="Anthroponymy">anthroponymy</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*Personal_identity">
 <ul><li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a></li></ul>
 </div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Personal_name" title="Personal name">Personal name</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
@@ -1737,7 +389,7 @@
 <li><a href="/wiki/Ancient_Greek_personal_names" title="Ancient Greek personal names">Ancient Greek</a></li>
 <li><a href="/wiki/Arabic_name" title="Arabic name">Arabic</a></li>
 <li><a href="/wiki/Armenian_name" title="Armenian name">Armenian</a></li>
-<li><a class="mw-selflink selflink">Ashanti</a></li>
+<li><a href="/wiki/Akan_names" title="Akan names">Ashanti</a></li>
 <li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal</a></li>
 <li><a href="/wiki/Azerbaijani_name" title="Azerbaijani name">Azerbaijani</a></li>
 <li><a href="/wiki/Bangladeshi_name" class="mw-redirect" title="Bangladeshi name">Bangladeshi</a></li>
@@ -1811,7 +463,7 @@
 <li><a href="/wiki/Eastern_Slavic_naming_customs" title="Eastern Slavic naming customs">Russian</a></li>
 <li><a href="/wiki/Yakut_names" title="Yakut names">Sakha</a></li>
 <li><a href="/wiki/Scottish_Gaelic_name" title="Scottish Gaelic name">Scottish Gaelic</a></li>
-<li><a href="/wiki/Serbian_names" title="Serbian names">Serbian</a></li>
+<li><a class="mw-selflink selflink">Serbian</a></li>
 <li><a href="/wiki/Slavic_names" title="Slavic names">Slavic</a></li>
 <li><a href="/wiki/Slovak_name" title="Slovak name">Slovak</a></li>
 <li><a href="/wiki/Somali_name" title="Somali name">Somali</a></li>
@@ -1893,52 +545,78 @@
 <li><a href="/wiki/Naming_taboo" title="Naming taboo">Naming taboo</a></li></ul>
 </div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
 <ul><li><a href="/wiki/Category:Lists_of_names" title="Category:Lists of names">Category:Lists of names</a></li></ul>
-</div></td></tr></tbody></table></div><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.nba.com/kings/home">"Sacramento Kings | The Official Site of the Sacramento Kings"</a>. <i>Sacramento Kings</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-06-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Sacramento+Kings&amp;rft.atitle=Sacramento+Kings+%7C+The+Official+Site+of+the+Sacramento+Kings&amp;rft_id=https%3A%2F%2Fwww.nba.com%2Fkings%2Fhome&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAkan+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</div></td></tr></tbody></table></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Serbian_names&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Grković, Milica (1977). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=1D9CAQAAIAAJ"><i>Rečnik ličnih imena kod Srba</i></a>. Belgrade: Vuk Karadžić.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Re%C4%8Dnik+li%C4%8Dnih+imena+kod+Srba&amp;rft.place=Belgrade&amp;rft.pub=Vuk+Karad%C5%BEi%C4%87&amp;rft.date=1977&amp;rft.aulast=Grkovi%C4%87&amp;rft.aufirst=Milica&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D1D9CAQAAIAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
 </li>
-</ol></div>
+<li id="cite_note-Politika-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Politika_2-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.politika.rs/rubrike/Drustvo/U-Srbiji-najvise-Jovanovica-Petrovica-i-Nikolica.lt.html">http://www.politika.rs/rubrike/Drustvo/U-Srbiji-najvise-Jovanovica-Petrovica-i-Nikolica.lt.html</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">SANU (1995). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=CLcrAQAAIAAJ"><i>Glas</i></a>. 377-381. Srpska akademija nauka i umetnosti. p.&#160;37.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Glas&amp;rft.pages=37&amp;rft.pub=Srpska+akademija+nauka+i+umetnosti&amp;rft.date=1995&amp;rft.au=SANU&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DCLcrAQAAIAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://en.scientificcommons.org/41510473">http://en.scientificcommons.org/41510473</a></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Serbian_names&amp;action=edit&amp;section=6" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dt>Books</dt></dl>
+<ul><li><cite id="CITEREFGrković1977" class="citation book">Grković, Milica (1977). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=1D9CAQAAIAAJ"><i>Rečnik ličnih imena kod Srba</i></a>. Belgrade: Vuk Karadžić.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Re%C4%8Dnik+li%C4%8Dnih+imena+kod+Srba&amp;rft.place=Belgrade&amp;rft.pub=Vuk+Karad%C5%BEi%C4%87&amp;rft.date=1977&amp;rft.aulast=Grkovi%C4%87&amp;rft.aufirst=Milica&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D1D9CAQAAIAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book">Jovičević, Radojica (1985). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=Fc0cAAAAMAAJ"><i>Lična imena u staroslovenskom jeziku</i></a>. Filološki fakultet Beogradskog Univerziteta.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Li%C4%8Dna+imena+u+staroslovenskom+jeziku&amp;rft.pub=Filolo%C5%A1ki+fakultet+Beogradskog+Univerziteta&amp;rft.date=1985&amp;rft.aulast=Jovi%C4%8Devi%C4%87&amp;rft.aufirst=Radojica&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DFc0cAAAAMAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book">Stojanović, Katarina (2007). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=oIDhGAAACAAJ"><i>Srpska imena: narodna i hrišćanska</i></a>. Gramatik. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-86-84421-51-9" title="Special:BookSources/978-86-84421-51-9"><bdi>978-86-84421-51-9</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Srpska+imena%3A+narodna+i+hri%C5%A1%C4%87anska&amp;rft.pub=Gramatik&amp;rft.date=2007&amp;rft.isbn=978-86-84421-51-9&amp;rft.aulast=Stojanovi%C4%87&amp;rft.aufirst=Katarina&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DoIDhGAAACAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book">Janjatović, Đorđe (1993). <i>Презимена Срба у Босни</i>. Sombor: Prosveta-Trgovina.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0+%D0%A1%D1%80%D0%B1%D0%B0+%D1%83+%D0%91%D0%BE%D1%81%D0%BD%D0%B8&amp;rft.place=Sombor&amp;rft.pub=Prosveta-Trgovina&amp;rft.date=1993&amp;rft.aulast=Janjatovi%C4%87&amp;rft.aufirst=%C4%90or%C4%91e&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book">Milićević, Risto (2005). <i>Hercegovačka prezimena</i>. Belgrade.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Hercegova%C4%8Dka+prezimena&amp;rft.place=Belgrade&amp;rft.date=2005&amp;rft.aulast=Mili%C4%87evi%C4%87&amp;rft.aufirst=Risto&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book">Vuković, Gordana; Nedeljkov, Ljiljana (1983). <i>Речник презимена шајкашке (XVIII и XIX vek)</i>. Novi Sad: Филозофски факултет.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%D0%A0%D0%B5%D1%87%D0%BD%D0%B8%D0%BA+%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0+%D1%88%D0%B0%D1%98%D0%BA%D0%B0%D1%88%D0%BA%D0%B5+%28XVIII+%D0%B8+XIX+vek%29&amp;rft.place=Novi+Sad&amp;rft.pub=%D0%A4%D0%B8%D0%BB%D0%BE%D0%B7%D0%BE%D1%84%D1%81%D0%BA%D0%B8+%D1%84%D0%B0%D0%BA%D1%83%D0%BB%D1%82%D0%B5%D1%82&amp;rft.date=1983&amp;rft.aulast=Vukovi%C4%87&amp;rft.aufirst=Gordana&amp;rft.au=Nedeljkov%2C+Ljiljana&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book">Mihajlović, Velimir (2002). <i>Српски презименик</i>. Novi Sad: Аурора.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%D0%A1%D1%80%D0%BF%D1%81%D0%BA%D0%B8+%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%D0%BA&amp;rft.place=Novi+Sad&amp;rft.pub=%D0%90%D1%83%D1%80%D0%BE%D1%80%D0%B0&amp;rft.date=2002&amp;rft.aulast=Mihajlovi%C4%87&amp;rft.aufirst=Velimir&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book">Šimunović, Petar (1985). <i>Naša prezimena</i>. Zagreb: Matica hrvatska.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Na%C5%A1a+prezimena&amp;rft.place=Zagreb&amp;rft.pub=Matica+hrvatska&amp;rft.date=1985&amp;rft.aulast=%C5%A0imunovi%C4%87&amp;rft.aufirst=Petar&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<dl><dt>Journals</dt></dl>
+<ul><li><cite class="citation journal">Vukanović, Tatomir (1940).  Drobnjaković, Borivoje (ed.). <a rel="nofollow" class="external text" href="http://etnografskimuzej.rs/wp-content/uploads/2014/01/Glasnik-Etnografskog-muzeja-u-Beogradu-knjiga-15-godina-19401.pdf">"Lična imena kod Srba"</a> <span class="cs1-format">(PDF)</span>. <i>Гласник Етнографског музеја у Београду</i>. Етнографски музеј у Београду. <b>15</b>: 56–75.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=%D0%93%D0%BB%D0%B0%D1%81%D0%BD%D0%B8%D0%BA+%D0%95%D1%82%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%81%D0%BA%D0%BE%D0%B3+%D0%BC%D1%83%D0%B7%D0%B5%D1%98%D0%B0+%D1%83+%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D1%83&amp;rft.atitle=Li%C4%8Dna+imena+kod+Srba&amp;rft.volume=15&amp;rft.pages=56-75&amp;rft.date=1940&amp;rft.aulast=Vukanovi%C4%87&amp;rft.aufirst=Tatomir&amp;rft_id=http%3A%2F%2Fetnografskimuzej.rs%2Fwp-content%2Fuploads%2F2014%2F01%2FGlasnik-Etnografskog-muzeja-u-Beogradu-knjiga-15-godina-19401.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation journal">Zujić, Krunoslav (1995). "Prezimena i porodični nadimci u Imotskoj krajini". <i>Imotski zbornik</i>. <b>3</b>: 45–133.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Imotski+zbornik&amp;rft.atitle=Prezimena+i+porodi%C4%8Dni+nadimci+u+Imotskoj+krajini&amp;rft.volume=3&amp;rft.pages=45-133&amp;rft.date=1995&amp;rft.aulast=Zuji%C4%87&amp;rft.aufirst=Krunoslav&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<dl><dt>Other</dt></dl>
+<ul><li><cite class="citation journal">Republic of Serbia (2012) [2011]. <a rel="nofollow" class="external text" href="http://pod2.stat.gov.rs/ObjavljenePublikacije/Popis2011/Najcesca%20imena%20i%20pezimena.pdf">"Најчешћа имена и презимена у Србији"</a> <span class="cs1-format">(PDF)</span>. Republic of Serbia.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=%D0%9D%D0%B0%D1%98%D1%87%D0%B5%D1%88%D1%9B%D0%B0+%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0+%D0%B8+%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0+%D1%83+%D0%A1%D1%80%D0%B1%D0%B8%D1%98%D0%B8&amp;rft.date=2012&amp;rft.au=Republic+of+Serbia&amp;rft_id=http%3A%2F%2Fpod2.stat.gov.rs%2FObjavljenePublikacije%2FPopis2011%2FNajcesca%2520imena%2520i%2520pezimena.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite journal requires <code class="cs1-code">&#124;journal=</code> (<a href="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.poreklo.rs/2012/04/05/srpska-prezimena-u-dalmaciji/">"Српска презимена у Далмацији"</a>. Poreklo. 5 April 2012.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%D0%A1%D1%80%D0%BF%D1%81%D0%BA%D0%B0+%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0+%D1%83+%D0%94%D0%B0%D0%BB%D0%BC%D0%B0%D1%86%D0%B8%D1%98%D0%B8&amp;rft.pub=Poreklo&amp;rft.date=2012-04-05&amp;rft_id=http%3A%2F%2Fwww.poreklo.rs%2F2012%2F04%2F05%2Fsrpska-prezimena-u-dalmaciji%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.poreklo.rs/2012/07/03/poreklo-prezimena-srba-u-potkozarju/">"Порекло презимена Срба у Поткозарју"</a>. Poreklo. 3 July 2012.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%D0%9F%D0%BE%D1%80%D0%B5%D0%BA%D0%BB%D0%BE+%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0+%D0%A1%D1%80%D0%B1%D0%B0+%D1%83+%D0%9F%D0%BE%D1%82%D0%BA%D0%BE%D0%B7%D0%B0%D1%80%D1%98%D1%83&amp;rft.pub=Poreklo&amp;rft.date=2012-07-03&amp;rft_id=http%3A%2F%2Fwww.poreklo.rs%2F2012%2F07%2F03%2Fporeklo-prezimena-srba-u-potkozarju%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
 <!-- 
 NewPP limit report
-Parsed by mw1320
-Cached time: 20191019134210
+Parsed by mw1262
+Cached time: 20191027024459
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.376 seconds
-Real time usage: 0.491 seconds
-Preprocessor visited node count: 1180/1000000
+CPU time usage: 0.608 seconds
+Real time usage: 0.765 seconds
+Preprocessor visited node count: 1402/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 86808/2097152 bytes
-Template argument size: 1041/2097152 bytes
-Highest expansion depth: 13/40
-Expensive parser function count: 2/500
+Post‐expand include size: 91946/2097152 bytes
+Template argument size: 146/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 1/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 26106/5000000 bytes
-Number of Wikibase entities loaded: 2/400
-Lua time usage: 0.139/10.000 seconds
-Lua memory usage: 3.65 MB/50 MB
+Unstrip post‐expand size: 30767/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.392/10.000 seconds
+Lua memory usage: 16.79 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  367.236      1 -total
- 54.42%  199.855      1 Template:Reflist
- 40.46%  148.567      1 Template:Cite_journal
- 17.03%   62.546      6 Template:Navbox
- 13.99%   51.390      2 Template:ISBN
- 11.21%   41.185      1 Template:Akan_topics
-  7.49%   27.514      4 Template:Cite_web
-  6.00%   22.034      2 Template:Catalog_lookup_link
-  4.55%   16.725      1 Template:Names_in_world_cultures
-  3.62%   13.304      2 Template:Error-small
+100.00%  636.537      1 -total
+ 37.39%  238.006     41 Template:Lang
+ 22.35%  142.276     10 Template:Cite_book
+ 17.22%  109.620      1 Template:Reflist
+ 15.00%   95.491      1 Template:Refimprove
+ 11.79%   75.073      1 Template:Ambox
+  4.69%   29.825      1 Template:Find_sources_mainspace
+  3.58%   22.786      1 Template:Serbs
+  3.45%   21.966      1 Template:Names_in_world_cultures
+  2.95%   18.764      1 Template:Sidebar_with_collapsible_lists
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:2741859-0!canonical and timestamp 20191019134210 and revision id 917851964
+<!-- Saved in parser cache with key enwiki:pcache:idhash:14647718-0!canonical and timestamp 20191027024458 and revision id 919895404
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Akan_names&amp;oldid=917851964">https://en.wikipedia.org/w/index.php?title=Akan_names&amp;oldid=917851964</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Serbian_names&amp;oldid=919895404">https://en.wikipedia.org/w/index.php?title=Serbian_names&amp;oldid=919895404</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Akan_given_names" title="Category:Akan given names">Akan given names</a></li><li><a href="/wiki/Category:Akan_language" title="Category:Akan language">Akan language</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Names_by_culture" title="Category:Names by culture">Names by culture</a></li><li><a href="/wiki/Category:Serbian_culture" title="Category:Serbian culture">Serbian culture</a></li><li><a href="/wiki/Category:Slavic-language_names" title="Category:Slavic-language names">Slavic-language names</a></li><li><a href="/wiki/Category:Serbian-language_names" title="Category:Serbian-language names">Serbian-language names</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1:_long_volume_value" title="Category:CS1: long volume value">CS1: long volume value</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_August_2009" title="Category:Articles needing additional references from August 2009">Articles needing additional references from August 2009</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_containing_Serbian-language_text" title="Category:Articles containing Serbian-language text">Articles containing Serbian-language text</a></li><li><a href="/wiki/Category:Articles_containing_Hungarian-language_text" title="Category:Articles containing Hungarian-language text">Articles containing Hungarian-language text</a></li><li><a href="/wiki/Category:Articles_containing_Macedonian-language_text" title="Category:Articles containing Macedonian-language text">Articles containing Macedonian-language text</a></li><li><a href="/wiki/Category:Articles_containing_Romanian-language_text" title="Category:Articles containing Romanian-language text">Articles containing Romanian-language text</a></li><li><a href="/wiki/Category:CS1_errors:_missing_periodical" title="Category:CS1 errors: missing periodical">CS1 errors: missing periodical</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -1954,13 +632,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Akan+names" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Akan+names" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Serbian+names" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Serbian+names" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Akan_names" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Akan_names" rel="discussion" class="mw-redirect" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Serbian_names" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Serbian_names" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -1975,7 +653,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Akan_names">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Akan_names&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Akan_names&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Serbian_names">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Serbian_names&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Serbian_names&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -2014,28 +692,28 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Akan_names" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Akan_names" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Akan_names&amp;oldid=917851964" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Akan_names&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q415699" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Akan_names&amp;id=917851964" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Serbian_names" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Serbian_names" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Serbian_names&amp;oldid=919895404" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Serbian_names&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7452919" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Serbian_names&amp;id=919895404" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Akan+names">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Akan+names&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Akan_names&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Serbian+names">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Serbian+names&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Serbian_names&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Akan-Vorname" title="Akan-Vorname – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Akanaj_nomoj" title="Akanaj nomoj – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%84%EC%B9%B8_%EC%9D%B4%EB%A6%84" title="아칸 이름 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Akan-voornamen" title="Akan-voornamen – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q415699#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B1_%D0%B8%D1%81%D0%B5%D0%BC%D0%B5" title="Серб исеме – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A3%CE%B5%CF%81%CE%B2%CE%B9%CE%BA%CE%AC_%CE%BF%CE%BD%CF%8C%CE%BC%CE%B1%CF%84%CE%B1" title="Σερβικά ονόματα – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8D%D5%A5%D6%80%D5%A2%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A1%D5%B6%D5%B8%D6%82%D5%B6" title="Սերբական անուն – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%90%E1%83%AE%E1%83%94%E1%83%9A%E1%83%98%E1%83%A1_%E1%83%93%E1%83%90%E1%83%A0%E1%83%A5%E1%83%9B%E1%83%94%E1%83%95%E1%83%98%E1%83%A1_%E1%83%A1%E1%83%94%E1%83%A0%E1%83%91%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%A2%E1%83%A0%E1%83%90%E1%83%93%E1%83%98%E1%83%AA%E1%83%98%E1%83%94%E1%83%91%E1%83%98" title="სახელის დარქმევის სერბული ტრადიციები – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A1%D1%80%D0%BF%D1%81%D0%BA%D0%B8_%D0%BB%D0%B8%D1%87%D0%BD%D0%B8_%D0%B8%D0%BC%D0%B8%D1%9A%D0%B0" title="Српски лични имиња – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B1%D1%81%D0%BA%D0%BE%D0%B5_%D0%B8%D0%BC%D1%8F" title="Сербское имя – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Tradita_e_emrave_n%C3%AB_Serbi" title="Tradita e emrave në Serbi – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A1%D1%80%D0%BF%D1%81%D0%BA%D0%B0_%D0%BB%D0%B8%D1%87%D0%BD%D0%B0_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0" title="Српска лична имена – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B1%D1%81%D1%8C%D0%BA%D1%96_%D1%96%D0%BC%D0%B5%D0%BD%D0%B0" title="Сербські імена – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7452919#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 25 September 2019, at 19:58<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 6 October 2019, at 13:45<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -2046,7 +724,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Akan_names&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Serbian_names&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -2058,8 +736,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.376","walltime":"0.491","ppvisitednodes":{"value":1180,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":86808,"limit":2097152},"templateargumentsize":{"value":1041,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":26106,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  367.236      1 -total"," 54.42%  199.855      1 Template:Reflist"," 40.46%  148.567      1 Template:Cite_journal"," 17.03%   62.546      6 Template:Navbox"," 13.99%   51.390      2 Template:ISBN"," 11.21%   41.185      1 Template:Akan_topics","  7.49%   27.514      4 Template:Cite_web","  6.00%   22.034      2 Template:Catalog_lookup_link","  4.55%   16.725      1 Template:Names_in_world_cultures","  3.62%   13.304      2 Template:Error-small"]},"scribunto":{"limitreport-timeusage":{"value":"0.139","limit":"10.000"},"limitreport-memusage":{"value":3826353,"limit":52428800}},"cachereport":{"origin":"mw1320","timestamp":"20191019134210","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Akan names","url":"https:\/\/en.wikipedia.org\/wiki\/Akan_names","sameAs":"http:\/\/www.wikidata.org\/entity\/Q415699","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q415699","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-09-24T00:14:13Z","dateModified":"2019-09-25T19:58:14Z"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":92,"wgHostname":"mw1328"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.608","walltime":"0.765","ppvisitednodes":{"value":1402,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":91946,"limit":2097152},"templateargumentsize":{"value":146,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":30767,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  636.537      1 -total"," 37.39%  238.006     41 Template:Lang"," 22.35%  142.276     10 Template:Cite_book"," 17.22%  109.620      1 Template:Reflist"," 15.00%   95.491      1 Template:Refimprove"," 11.79%   75.073      1 Template:Ambox","  4.69%   29.825      1 Template:Find_sources_mainspace","  3.58%   22.786      1 Template:Serbs","  3.45%   21.966      1 Template:Names_in_world_cultures","  2.95%   18.764      1 Template:Sidebar_with_collapsible_lists"]},"scribunto":{"limitreport-timeusage":{"value":"0.392","limit":"10.000"},"limitreport-memusage":{"value":17603707,"limit":52428800}},"cachereport":{"origin":"mw1262","timestamp":"20191027024459","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Serbian names","url":"https:\/\/en.wikipedia.org\/wiki\/Serbian_names","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7452919","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7452919","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-12-10T20:26:29Z","dateModified":"2019-10-06T13:45:39Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":152,"wgHostname":"mw1240"});});</script>
 </body>
 </html>

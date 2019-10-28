@@ -2,35 +2,35 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Hamilton (name) - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Hamilton_(name)","wgTitle":"Hamilton (name)","wgCurRevisionId":922524505,"wgRevisionId":922524505,"wgArticleId":14395074,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing rewrite from February 2018","All articles needing rewrite","Wikipedia articles with style issues from October 2015","All articles with style issues","Commons category link is on Wikidata","Articles with short description","All set index articles","Surnames","Scottish families","Scottish-language surnames","Surnames of Lowland Scottish origin","Surnames of Ulster-Scottish origin","Given names"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy",
-"wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hamilton_(name)","wgRelevantArticleId":14395074,"wgRequestId":"XbFvvwpAADwAAJmfXHAAAABQ","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Hamilton_(surname_and_title)","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":
-"/wiki/Hamilton_(name)","wgWikibaseItemId":"Q21450552","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","ext.cite.tracking","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice",
-"ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Ryan (surname) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Ryan_(surname)","wgTitle":"Ryan (surname)","wgCurRevisionId":918022501,"wgRevisionId":918022501,"wgArticleId":12629319,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","All set index articles","Surnames","Anglicised Irish-language surnames","English-language surnames","Surnames of Irish origin"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ryan_(surname)",
+"wgRelevantArticleId":12629319,"wgRequestId":"XbTkNQpAAD4AAAmVQisAAACC","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q5263823","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.2"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Hamilton_(name)"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Hamilton_(name)&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Hamilton_(name)&amp;action=edit"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ryan_(surname)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ryan_(surname)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ryan_(surname)&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Hamilton_(name)"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ryan_(surname)"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Hamilton_name rootpage-Hamilton_name skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Ryan_surname rootpage-Ryan_surname skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -39,455 +39,430 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Hamilton (name)</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Ryan (surname)</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
-		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Hamilton_(surname_and_title)&amp;redirect=no" class="mw-redirect" title="Hamilton (surname and title)">Hamilton (surname and title)</a>)</span></div>
+		<div id="contentSub"></div>
 		
 		
 		
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For any other use, see <a href="/wiki/Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Hamilton (disambiguation)">Hamilton (disambiguation)</a>.</div>
-<table class="box-Cleanup_rewrite plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Crystal_Clear_app_kedit.svg" class="image"><img alt="Crystal Clear app kedit.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Crystal_Clear_app_kedit.svg/40px-Crystal_Clear_app_kedit.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Crystal_Clear_app_kedit.svg/60px-Crystal_Clear_app_kedit.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Crystal_Clear_app_kedit.svg/80px-Crystal_Clear_app_kedit.svg.png 2x" data-file-width="128" data-file-height="128" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article may need to be <b>rewritten</b> to comply with Wikipedia's <a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">quality standards</a>.<span class="hide-when-compact"> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Hamilton_(name)&amp;action=edit">You can help</a>. The <a href="/wiki/Talk:Hamilton_(name)" title="Talk:Hamilton (name)">discussion page</a> may contain suggestions.</span>  <small class="date-container"><i>(<span class="date">February 2018</span>)</i></small></div></td></tr></tbody></table>
-<p>The name <b>Hamilton</b> probably originated in the village of <a href="/wiki/Hamilton,_Leicestershire" class="mw-redirect" title="Hamilton, Leicestershire">Hamilton, Leicestershire</a>, England,<sup id="cite_ref-Reaney_1-0" class="reference"><a href="#cite_note-Reaney-1">&#91;1&#93;</a></sup><sup id="cite_ref-HH_2-0" class="reference"><a href="#cite_note-HH-2">&#91;2&#93;</a></sup><sup id="cite_ref-Cottle_3-0" class="reference"><a href="#cite_note-Cottle-3">&#91;3&#93;</a></sup> but bearers of that name became established in the 13th century in <a href="/wiki/Lanarkshire" title="Lanarkshire">Lanarkshire</a>, Scotland.<sup id="cite_ref-Cottle_3-1" class="reference"><a href="#cite_note-Cottle-3">&#91;3&#93;</a></sup> The town of <a href="/wiki/Hamilton,_South_Lanarkshire" title="Hamilton, South Lanarkshire">Hamilton, South Lanarkshire</a> was named after the family some time before 1445.<sup id="cite_ref-Dorward_4-0" class="reference"><a href="#cite_note-Dorward-4">&#91;4&#93;</a></sup><sup id="cite_ref-Whyte_5-0" class="reference"><a href="#cite_note-Whyte-5">&#91;5&#93;</a></sup> Contemporary Hamiltons are either descended from the original noble family, or descended from people named after the town.<sup id="cite_ref-HH_2-1" class="reference"><a href="#cite_note-HH-2">&#91;2&#93;</a></sup><sup id="cite_ref-Dorward_4-1" class="reference"><a href="#cite_note-Dorward-4">&#91;4&#93;</a></sup>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Ryan </b> (Irish: <i>Ó Riain</i>) is a common <a href="/wiki/Surname" title="Surname">surname</a> of <a href="/wiki/Irish_name" title="Irish name">Irish</a> origin, as well as being a common <a href="/wiki/Given_name" title="Given name">given name</a> in the <a href="/wiki/Anglosphere" title="Anglosphere">English-speaking world</a>.
 </p>
 <div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Scottish_nobility"><span class="tocnumber">1</span> <span class="toctext">Scottish nobility</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#People_with_the_surname"><span class="tocnumber">2</span> <span class="toctext">People with the surname</span></a>
+<li class="toclevel-1 tocsection-1"><a href="#Origins_and_meaning"><span class="tocnumber">1</span> <span class="toctext">Origins and meaning</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#List_of_persons_with_the_surname_Ryan"><span class="tocnumber">2</span> <span class="toctext">List of persons with the surname Ryan</span></a>
 <ul>
-<li class="toclevel-2 tocsection-3"><a href="#Names_borne_by_several_notable_people"><span class="tocnumber">2.1</span> <span class="toctext">Names borne by several notable people</span></a></li>
-<li class="toclevel-2 tocsection-4"><a href="#Individuals"><span class="tocnumber">2.2</span> <span class="toctext">Individuals</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#A–D"><span class="tocnumber">2.1</span> <span class="toctext">A–D</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#E–L"><span class="tocnumber">2.2</span> <span class="toctext">E–L</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#M–R"><span class="tocnumber">2.3</span> <span class="toctext">M–R</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#S–Z"><span class="tocnumber">2.4</span> <span class="toctext">S–Z</span></a></li>
 </ul>
 </li>
-<li class="toclevel-1 tocsection-5"><a href="#People_with_the_given_name"><span class="tocnumber">3</span> <span class="toctext">People with the given name</span></a>
-<ul>
-<li class="toclevel-2 tocsection-6"><a href="#People_with_the_middle_name"><span class="tocnumber">3.1</span> <span class="toctext">People with the middle name</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-7"><a href="#Fictional_characters"><span class="tocnumber">4</span> <span class="toctext">Fictional characters</span></a></li>
-<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Fictional_characters"><span class="tocnumber">3</span> <span class="toctext">Fictional characters</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Bibliography"><span class="tocnumber">6</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
 </ul>
 </div>
 
-<h2><span class="mw-headline" id="Scottish_nobility">Scottish nobility</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamilton_(name)&amp;action=edit&amp;section=1" title="Edit section: Scottish nobility">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Duke_of_Hamilton" title="Duke of Hamilton">Duke of Hamilton</a>, a title in the Peerage of Scotland</li>
-<li><a href="/wiki/Douglas-Hamilton" title="Douglas-Hamilton">Douglas-Hamilton</a>, the family surname of the Dukes of Hamilton and Earls of Selkirk</li>
-<li><a href="/wiki/Duke_of_Abercorn" title="Duke of Abercorn">Duke of Abercorn</a>, a title in the Peerage of Ireland, the dukes having the surname Hamilton</li>
-<li><a href="/wiki/Earl_of_Haddington" title="Earl of Haddington">Earl of Haddington</a>, a title in the Peerage of Scotland, the earls having the surname Bailie-Hamilton</li>
-<li><a href="/wiki/Lord_Belhaven_and_Stenton" title="Lord Belhaven and Stenton">Lord Belhaven and Stenton</a>, a title in the Peerage of Scotland, the lords having the surname Hamilton</li>
-<li><a href="/wiki/Baron_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Baron Hamilton (disambiguation)">Baron Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Lord_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Lord Hamilton (disambiguation)">Lord Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Clan_Hamilton" title="Clan Hamilton">Clan Hamilton</a></li></ul>
-<h2><span class="mw-headline" id="People_with_the_surname">People with the surname</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamilton_(name)&amp;action=edit&amp;section=2" title="Edit section: People with the surname">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Names_borne_by_several_notable_people">Names borne by several notable people</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamilton_(name)&amp;action=edit&amp;section=3" title="Edit section: Names borne by several notable people">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<table class="box-MOS plainlinks metadata ambox ambox-style ambox-mos" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div></td><td class="mbox-text"><div class="mbox-text-span">This section <b>needs editing for compliance with Wikipedia's <a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">Manual of Style</a>.</b><span class="hide-when-compact"> Please <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Hamilton_(name)&amp;action=edit">help improve it</a> if you can.</span>  <small class="date-container"><i>(<span class="date">October 2015</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
-<div>
-
-&#32;
-<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;"><tbody><tr>
-<td style="width: 50%;text-align: left; vertical-align: top;">
-<ul><li><a href="/wiki/Adam_Hamilton_(disambiguation)" class="mw-disambig" title="Adam Hamilton (disambiguation)">Adam Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Alexander_Hamilton_(disambiguation)" class="mw-disambig" title="Alexander Hamilton (disambiguation)">Alexander Hamilton (disambiguation)</a> (including <b>Alex Hamilton</b>)</li>
-<li><a href="/wiki/Archibald_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Archibald Hamilton (disambiguation)">Archibald Hamilton (disambiguation)</a> (including <b>Archie Hamilton</b>)</li>
-<li><a href="/wiki/Andrew_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Andrew Hamilton (disambiguation)">Andrew Hamilton (disambiguation)</a> (including <b>Andy Hamilton</b>)</li>
-<li><a href="/wiki/Ann_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Ann Hamilton (disambiguation)">Ann Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Anne_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Anne Hamilton (disambiguation)">Anne Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Anthony_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Anthony Hamilton (disambiguation)">Anthony Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Barbara_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Barbara Hamilton (disambiguation)">Barbara Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Bob_Hamilton_(disambiguation)" class="mw-disambig" title="Bob Hamilton (disambiguation)">Bob Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Brian_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Brian Hamilton (disambiguation)">Brian Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Carl_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Carl Hamilton (disambiguation)">Carl Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Carolyn_Hamilton_(disambiguation)" class="mw-disambig" title="Carolyn Hamilton (disambiguation)">Carolyn Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Charles_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Charles Hamilton (disambiguation)">Charles Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Claire_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Claire Hamilton (disambiguation)">Claire Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Claud_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Claud Hamilton (disambiguation)">Claud Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Clayton_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Clayton Hamilton (disambiguation)">Clayton Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Curtis_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Curtis Hamilton (disambiguation)">Curtis Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Daniel_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Daniel Hamilton (disambiguation)">Daniel Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/David_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="David Hamilton (disambiguation)">David Hamilton (disambiguation)</a> (including <b>Dave Hamilton</b> and <b>Davey Hamilton</b>)</li>
-<li><a href="/wiki/Doug_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Doug Hamilton (disambiguation)">Doug Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Douglas_Hamilton_(disambiguation)" class="mw-disambig" title="Douglas Hamilton (disambiguation)">Douglas Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Douglas_Douglas-Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Douglas Douglas-Hamilton (disambiguation)">Douglas Douglas-Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Duncan_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Duncan Hamilton (disambiguation)">Duncan Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Edward_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Edward Hamilton (disambiguation)">Edward Hamilton (disambiguation)</a> (including <b>Ed Hamilton</b>)</li>
-<li><a href="/wiki/Elizabeth_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Elizabeth Hamilton (disambiguation)">Elizabeth Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Francis_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Francis Hamilton (disambiguation)">Francis Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Frank_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Frank Hamilton (disambiguation)">Frank Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Fred_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Fred Hamilton (disambiguation)">Fred Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Frederick_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Frederick Hamilton (disambiguation)">Frederick Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Gary_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Gary Hamilton (disambiguation)">Gary Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Gavin_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Gavin Hamilton (disambiguation)">Gavin Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/George_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="George Hamilton (disambiguation)">George Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Gerald_Hamilton_(disambiguation)" class="mw-disambig" title="Gerald Hamilton (disambiguation)">Gerald Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Gordon_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Gordon Hamilton (disambiguation)">Gordon Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Grace_Hamilton_(disambiguation)" class="mw-disambig" title="Grace Hamilton (disambiguation)">Grace Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Gustavus_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Gustavus Hamilton (disambiguation)">Gustavus Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Henry_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Henry Hamilton (disambiguation)">Henry Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Hugh_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Hugh Hamilton (disambiguation)">Hugh Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Hugo_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Hugo Hamilton (disambiguation)">Hugo Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Iain_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Iain Hamilton (disambiguation)">Iain Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Ian_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Ian Hamilton (disambiguation)">Ian Hamilton (disambiguation)</a></li></ul>
-<p>&#32;
+<h2><span class="mw-headline" id="Origins_and_meaning">Origins and meaning</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ryan_(surname)&amp;action=edit&amp;section=1" title="Edit section: Origins and meaning">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:DSC00987_-_Copy.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/DSC00987_-_Copy.jpg/220px-DSC00987_-_Copy.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/DSC00987_-_Copy.jpg/330px-DSC00987_-_Copy.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/DSC00987_-_Copy.jpg/440px-DSC00987_-_Copy.jpg 2x" data-file-width="3264" data-file-height="2448" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:DSC00987_-_Copy.jpg" class="internal" title="Enlarge"></a></div>Ryan coat of arms at Valley Inn pub, Glenstal, Co. Limerick</div></div></div>
+<p>There are several different origins for the surname. In some cases it may be a shortened form of <i>O'Ryan</i>, which is an Anglicized adaptation of the <a href="/wiki/Irish_language" title="Irish language">Gaelic</a> surname <i>Ó Riain</i>, meaning "descendant of <i>Rian</i>".<sup id="cite_ref-American_1-0" class="reference"><a href="#cite_note-American-1">&#91;1&#93;</a></sup> It can also be a shortened form of <i>Mulryan</i> or <i>O'Mulryan</i>, which are derived from the Gaelic <i><a href="/wiki/%C3%93_Maoilriain" title="Ó Maoilriain">Ó Maoilriain</a></i>, meaning "descendant of the follower of <i>Rian</i>".<sup id="cite_ref-American_1-1" class="reference"><a href="#cite_note-American-1">&#91;1&#93;</a></sup><sup id="cite_ref-Grehan_2-0" class="reference"><a href="#cite_note-Grehan-2">&#91;2&#93;</a></sup>
+</p><p>The meaning of the <a href="/wiki/Old_Irish" title="Old Irish">Old Irish</a> name <i>Rian</i> is unknown.<sup id="cite_ref-MacLysaght_3-0" class="reference"><a href="#cite_note-MacLysaght-3">&#91;3&#93;</a></sup> Some sources have suggested that it is related to the Old Irish word <i>rían</i>, meaning "water" or "ocean".<sup id="cite_ref-SurnameDB_4-0" class="reference"><a href="#cite_note-SurnameDB-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> Others have suggested that it is related to the Old Irish word <i><a href="/wiki/R%C3%AD" title="Rí">rí</a></i>, meaning "king".<sup id="cite_ref-O&#39;Boyle_6-0" class="reference"><a href="#cite_note-O&#39;Boyle-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> Both of these etymologies have been discounted by scholars, however.<sup id="cite_ref-MacLysaght_3-1" class="reference"><a href="#cite_note-MacLysaght-3">&#91;3&#93;</a></sup>
+</p><p>Popular sources typically suggest that <i>Ryan</i> means "little king"<sup id="cite_ref-Smith_8-0" class="reference"><a href="#cite_note-Smith-8">&#91;8&#93;</a></sup><sup id="cite_ref-Rosenkrantz_9-0" class="reference"><a href="#cite_note-Rosenkrantz-9">&#91;9&#93;</a></sup> or "illustrious".<sup id="cite_ref-Grehan_2-1" class="reference"><a href="#cite_note-Grehan-2">&#91;2&#93;</a></sup><sup id="cite_ref-Little_10-0" class="reference"><a href="#cite_note-Little-10">&#91;10&#93;</a></sup>
+</p><p>There are also cases in which <i>Ryan</i> is an Americanized form of the German surname <i>Rein</i>.<sup id="cite_ref-American_1-2" class="reference"><a href="#cite_note-American-1">&#91;1&#93;</a></sup>
 </p>
-</td>
-<td style="width: 50%;text-align: left; vertical-align: top;">
-<ul><li><a href="/wiki/Jack_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Jack Hamilton (disambiguation)">Jack Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/James_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="James Hamilton (disambiguation)">James Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Jamie_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Jamie Hamilton (disambiguation)">Jamie Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Jane_Hamilton_(disambiguation)" class="mw-disambig" title="Jane Hamilton (disambiguation)">Jane Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Jim_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Jim Hamilton (disambiguation)">Jim Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Jeff_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Jeff Hamilton (disambiguation)">Jeff Hamilton (disambiguation)</a> (including <b>Jeffrey Hamilton</b>)</li>
-<li><a href="/wiki/Jo_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Jo Hamilton (disambiguation)">Jo Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/John_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="John Hamilton (disambiguation)">John Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Joseph_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Joseph Hamilton (disambiguation)">Joseph Hamilton (disambiguation)</a> (including <b>Joe Hamilton</b>, <b>Jody Hamilton</b>, and <b>Joey Hamilton</b>)</li>
-<li><a href="/wiki/Justin_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Justin Hamilton (disambiguation)">Justin Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Keith_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Keith Hamilton (disambiguation)">Keith Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Lee_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Lee Hamilton (disambiguation)">Lee Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Lynn_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Lynn Hamilton (disambiguation)">Lynn Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Malcolm_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Malcolm Hamilton (disambiguation)">Malcolm Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Margaret_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Margaret Hamilton (disambiguation)">Margaret Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Mark_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Mark Hamilton (disambiguation)">Mark Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Mary_Hamilton_(disambiguation)" class="mw-disambig" title="Mary Hamilton (disambiguation)">Mary Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Matt_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Matt Hamilton (disambiguation)">Matt Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Michael_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Michael Hamilton (disambiguation)">Michael Hamilton (disambiguation)</a> (including <b>Mike Hamilton</b>)</li>
-<li><a href="/wiki/Neil_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Neil Hamilton (disambiguation)">Neil Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Nigel_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Nigel Hamilton (disambiguation)">Nigel Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Patrick_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Patrick Hamilton (disambiguation)">Patrick Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Paul_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Paul Hamilton (disambiguation)">Paul Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Peter_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Peter Hamilton (disambiguation)">Peter Hamilton (disambiguation)</a> (including <b>Pete Hamilton</b>)</li>
-<li><a href="/wiki/Raymond_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Raymond Hamilton (disambiguation)">Raymond Hamilton (disambiguation)</a> (including <b>Ray Hamilton</b>)</li>
-<li><a href="/wiki/Reginald_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Reginald Hamilton (disambiguation)">Reginald Hamilton (disambiguation)</a> (including <b>Reggie Hamilton</b> and <b>Reg Hamilton</b>)</li>
-<li><a href="/wiki/Richard_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Richard Hamilton (disambiguation)">Richard Hamilton (disambiguation)</a> (including <b>Rick Hamilton</b>)</li>
-<li><a href="/wiki/Robert_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Robert Hamilton (disambiguation)">Robert Hamilton (disambiguation)</a> (including <b>Bob Hamilton</b> and <b>Bobby Hamilton</b>)</li>
-<li><a href="/wiki/Russ_Hamilton_(disambiguation)" class="mw-disambig" title="Russ Hamilton (disambiguation)">Russ Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Scott_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Scott Hamilton (disambiguation)">Scott Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Steve_Hamilton_(disambiguation)" class="mw-disambig" title="Steve Hamilton (disambiguation)">Steve Hamilton (disambiguation)</a> (including <b>Steven Hamilton</b> or <b>Stephen Hamilton</b>)</li>
-<li><a href="/wiki/Sue_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Sue Hamilton (disambiguation)">Sue Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Thomas_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Thomas Hamilton (disambiguation)">Thomas Hamilton (disambiguation)</a> (including <b>Tom Hamilton</b>)</li>
-<li><a href="/wiki/Tim_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Tim Hamilton (disambiguation)">Tim Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/Wendy_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="Wendy Hamilton (disambiguation)">Wendy Hamilton (disambiguation)</a></li>
-<li><a href="/wiki/William_Hamilton_(disambiguation)" class="mw-redirect mw-disambig" title="William Hamilton (disambiguation)">William Hamilton (disambiguation)</a> (including <b>Bill Hamilton</b>, <b>Billy Hamilton</b> and <b>Willie Hamilton</b>)</li></ul>
-<p>&#32;
-</p>
-</td></tr></tbody></table></div>
-<h3><span class="mw-headline" id="Individuals">Individuals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamilton_(name)&amp;action=edit&amp;section=4" title="Edit section: Individuals">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<div>
-
-&#32;
-<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;"><tbody><tr>
-<td style="width: 50%;text-align: left; vertical-align: top;">
-<ul><li><a href="/wiki/Al_Hamilton" title="Al Hamilton">Al Hamilton</a> (born 1946), Canadian ice hockey player</li>
-<li><a href="/wiki/Alfred_Douglas-Hamilton,_13th_Duke_of_Hamilton" title="Alfred Douglas-Hamilton, 13th Duke of Hamilton">Alfred Douglas-Hamilton, 13th Duke of Hamilton</a> (1862–1940), Scottish nobleman and sailor.</li>
-<li><a href="/wiki/Alfred_Starr_Hamilton" title="Alfred Starr Hamilton">Alfred Starr Hamilton</a> (1914–2005), U.S. poet</li>
-<li><a href="/wiki/Alice_Hamilton" title="Alice Hamilton">Alice Hamilton</a> (1869–1970), U.S. medical researcher</li>
-<li><a href="/wiki/Allen_Hamilton" title="Allen Hamilton">Allen Hamilton</a> (1798–1864), founding father of Fort Wayne, Indiana</li>
-<li><a href="/wiki/Alvin_Hamilton" title="Alvin Hamilton">Alvin Hamilton</a> (1912–2004), Canadian politician</li>
-<li><a href="/wiki/Alwyn_Hamilton" title="Alwyn Hamilton">Alwyn Hamilton</a>, author of <i><a href="/wiki/Rebel_of_the_Sands" title="Rebel of the Sands">Rebel of the Sands</a></i></li>
-<li><a href="/wiki/Amanda_Hamilton" title="Amanda Hamilton">Amanda Hamilton</a>, Scottish nutritionist and television presenter</li>
-<li><a href="/wiki/Andrea_Hamilton" title="Andrea Hamilton">Andrea Hamilton</a>, Peruvian fine-art photographer</li>
-<li><a href="/wiki/Angelica_Hamilton" title="Angelica Hamilton">Angelica Hamilton</a> (1784–1857), daughter of Alexander Hamilton and Eliza Schuyler Hamilton</li>
-<li><a href="/wiki/Angus_Douglas-Hamilton,_15th_Duke_of_Hamilton" title="Angus Douglas-Hamilton, 15th Duke of Hamilton">Angus Douglas-Hamilton, 15th Duke of Hamilton</a> (1938–2010), Scottish nobleman</li>
-<li><a href="/wiki/Angus_Falconer_Douglas-Hamilton" class="mw-redirect" title="Angus Falconer Douglas-Hamilton">Angus Falconer Douglas-Hamilton</a> (1863–1915), Scottish recipient of the Victoria Cross</li>
-<li><a href="/wiki/Anna_Hamilton" title="Anna Hamilton">Anna Hamilton</a> (1864—1935), French medical doctor</li>
-<li><a href="/wiki/Anne_Hamilton,_3rd_Duchess_of_Hamilton" title="Anne Hamilton, 3rd Duchess of Hamilton">Anne Hamilton, 3rd Duchess of Hamilton</a> (1631–1716), Scottish noblewoman</li>
-<li><a href="/wiki/Antoine_Hamilton" title="Antoine Hamilton">Antoine Hamilton</a> (1646–1720), French classical author</li>
-<li><a href="/wiki/Antony_Hamilton" title="Antony Hamilton">Antony Hamilton</a> (1952–1995), Australian actor</li>
-<li><a href="/wiki/Argus_Hamilton" title="Argus Hamilton">Argus Hamilton</a>, U.S. comedian</li>
-<li><a href="/wiki/Arthur_Hamilton" title="Arthur Hamilton">Arthur Hamilton</a>, U.S. songwriter ("<a href="/wiki/Cry_Me_a_River_(1953_song)" class="mw-redirect" title="Cry Me a River (1953 song)">Cry Me a River</a>")</li>
-<li><a href="/wiki/Arthur_Hamilton,_Lord_Hamilton" title="Arthur Hamilton, Lord Hamilton">Arthur Hamilton, Lord Hamilton</a> (born 1942), Scottish judge</li>
-<li><a href="/wiki/Ashley_Hamilton" title="Ashley Hamilton">Ashley Hamilton</a> (born 1974), U.S. actor</li>
-<li><a href="/wiki/Augustus_Hamilton" title="Augustus Hamilton">Augustus Hamilton</a> (1853–1913), English/New Zealand biologist and ethnologist</li>
-<li><a href="/wiki/Ben_Hamilton" title="Ben Hamilton">Ben Hamilton</a> (born 1977), U.S. football player</li>
-<li><a href="/wiki/Bernie_Hamilton" title="Bernie Hamilton">Bernie Hamilton</a> (born 1928), U.S. actor</li>
-<li><a href="/wiki/Bethany_Hamilton" title="Bethany Hamilton">Bethany Hamilton</a> (born 1990), U.S. surfer</li>
-<li><a href="/wiki/Betty_Hamilton" title="Betty Hamilton">Betty Hamilton</a> (1904–1994), British Trotskyist</li>
-<li><a href="/wiki/Bj%C3%B6rn_Hamilton" title="Björn Hamilton">Björn Hamilton</a> (born 1945), Swedish politician</li>
-<li><a href="/wiki/Blayney_Hamilton" title="Blayney Hamilton">Blayney Hamilton</a> (1872–1946), Irish cricketer</li>
-<li><a href="/wiki/Brutus_Hamilton" title="Brutus Hamilton">Brutus Hamilton</a> (1900–1970), U.S. athlete</li>
-<li><a href="/wiki/Bryan_Hamilton" title="Bryan Hamilton">Bryan Hamilton</a> (born 1946), Northern Irish football player</li>
-<li><a href="/wiki/Carrick_Hamilton" title="Carrick Hamilton">Carrick Hamilton</a>, Scottish footballer</li>
-<li><a href="/wiki/Carrie_Hamilton" title="Carrie Hamilton">Carrie Hamilton</a> (1963–2002), U.S. actress</li>
-<li><a href="/wiki/Chico_Hamilton" title="Chico Hamilton">Chico Hamilton</a> (1921–2013), U.S. jazz band leader</li>
-<li><a href="/wiki/Christine_Hamilton" title="Christine Hamilton">Christine Hamilton</a> (born 1949), English television personality, wife of former MP Neil Hamilton</li>
-<li><a href="/wiki/Chuck_Hamilton" title="Chuck Hamilton">Chuck Hamilton</a> (born 1939), Canadian ice hockey player</li>
-<li><a href="/wiki/Cicely_Hamilton" title="Cicely Hamilton">Cicely Hamilton</a> (1872–1952), English actress and writer</li>
-<li><a href="/wiki/Clark_Hamilton" title="Clark Hamilton">Clark Hamilton</a>, U.S. politician</li>
-<li><a href="/wiki/Clive_Hamilton" title="Clive Hamilton">Clive Hamilton</a>, Australian Professor of Public Ethics</li>
-<li><a href="/wiki/Constance_Hamilton" title="Constance Hamilton">Constance Hamilton</a> (1862–1945), Canadian politician</li>
-<li><a href="/wiki/Cornelius_S._Hamilton" title="Cornelius S. Hamilton">Cornelius S. Hamilton</a> (1821–1867), U.S. politician</li>
-<li><a href="/wiki/Cosmo_Hamilton" title="Cosmo Hamilton">Cosmo Hamilton</a> (1870–1942), English playwright and novelist</li>
-<li><a href="/wiki/Craig_Hamilton" title="Craig Hamilton">Craig Hamilton</a> (born 1979), Scottish rugby union player</li>
-<li><a href="/wiki/Cuthbert_Hamilton" title="Cuthbert Hamilton">Cuthbert Hamilton</a> (1885–1959), British artist</li>
-<li><a href="/wiki/Cyril_Hamilton" title="Cyril Hamilton">Cyril Hamilton</a> (1909–1941), English cricketer</li>
-<li><a href="/wiki/DaeSean_Hamilton" title="DaeSean Hamilton">DaeSean Hamilton</a> (born 1995), American football player</li>
-<li><a href="/wiki/Dana_Hamilton" title="Dana Hamilton">Dana Hamilton</a> (born 1950), U.S. hammered dulcimer player</li>
-<li><a href="/wiki/Dale_E._Hamilton" title="Dale E. Hamilton">Dale E. Hamilton</a> (1909–2002), U.S. collegiate coach</li>
-<li><a href="/wiki/Darius_Hamilton" title="Darius Hamilton">Darius Hamilton</a> (born 1993), American football player</li>
-<li><a href="/wiki/Darryl_Hamilton" title="Darryl Hamilton">Darryl Hamilton</a> (1964–2015), U.S. baseball player</li>
-<li><a href="/wiki/Dean_Hamilton" title="Dean Hamilton">Dean Hamilton</a> (born 1961), Canadian actor and director</li>
-<li><a href="/wiki/Dennis_Hamilton" title="Dennis Hamilton">Dennis Hamilton</a> (1944–2012), U.S. basketball player</li>
-<li><a href="/wiki/Derrick_Hamilton" title="Derrick Hamilton">Derrick Hamilton</a> (born 1981), U.S. football player</li>
-<li><a href="/wiki/Derrick_Hamilton_(basketball)" title="Derrick Hamilton (basketball)">Derrick Hamilton (basketball)</a> (born 1966), American basketball player</li>
-<li><a href="/wiki/Des_Hamilton" title="Des Hamilton">Des Hamilton</a> (born 1976), English footballer</li>
-<li><a href="/wiki/Diane_Hamilton" title="Diane Hamilton">Diane Hamilton</a> (born 1925), U.S. heiress; founder of <i>Tradition Records</i></li>
-<li><a href="/wiki/Diana_Hamilton" title="Diana Hamilton">Diana Hamilton</a>, British romance novelist</li>
-<li><a href="/wiki/Don_Hamilton" title="Don Hamilton">Don Hamilton</a> (1887–1959), U.S. football player</li>
-<li><a href="/wiki/Donald_Hamilton" title="Donald Hamilton">Donald Hamilton</a> (1916–2006), U.S. writer</li>
-<li><a href="/wiki/Donald_Cameron_Hamilton" title="Donald Cameron Hamilton">Donald Cameron Hamilton</a> (1883–1925), New Zealand rugby union player and cricketer</li>
-<li><a href="/wiki/Doreen_Hamilton" title="Doreen Hamilton">Doreen Hamilton</a> (born 1951), Canadian politician</li>
-<li><a href="/wiki/Eamon_Hamilton" title="Eamon Hamilton">Eamon Hamilton</a>, musician</li>
-<li><a href="/wiki/Earl_Hamilton" title="Earl Hamilton">Earl Hamilton</a> (1891–1968), U.S. baseball player</li>
-<li><a href="/wiki/Earl_J._Hamilton" title="Earl J. Hamilton">Earl J. Hamilton</a> (1899–1989), U.S. historian</li>
-<li><a href="/wiki/Edith_Hamilton" title="Edith Hamilton">Edith Hamilton</a> (1867–1963), U.S. writer</li>
-<li><a href="/wiki/Eliza_Hamilton_Holly" title="Eliza Hamilton Holly">Eliza Hamilton Holly</a> (1799–1859), daughter of Alexander Hamilton and Eliza Schuyler Hamilton</li>
-<li><a href="/wiki/Edmond_Hamilton" title="Edmond Hamilton">Edmond Hamilton</a>, U.S. sci-fi writer</li>
-<li><a href="/wiki/Emily_Hamilton" title="Emily Hamilton">Emily Hamilton</a> (born 1971), British actress</li>
-<li><a href="/wiki/Emma,_Lady_Hamilton" title="Emma, Lady Hamilton">Emma, Lady Hamilton</a> (1761–1815), mistress of Lord Nelson</li>
-<li><a href="/wiki/Eric_Hamilton" title="Eric Hamilton">Eric Hamilton</a> (born 1953), U.S. football coach</li>
-<li><a href="/wiki/Erin_Hamilton" title="Erin Hamilton">Erin Hamilton</a> (born 1968), U.S. singer</li>
-<li><a href="/wiki/Lord_Ernest_Hamilton" title="Lord Ernest Hamilton">Lord Ernest Hamilton</a> (1858–1939), British politician</li>
-<li><a href="/wiki/Eugene_Hamilton" title="Eugene Hamilton">Eugene Hamilton</a> (1910–2005), U.S. obstetrician, writer, and medical researcher</li>
-<li><a href="/wiki/Eugene_Lee-Hamilton" title="Eugene Lee-Hamilton">Eugene Lee-Hamilton</a> (1845–1907), English poet</li>
-<li><a href="/wiki/Fabian_Hamilton" title="Fabian Hamilton">Fabian Hamilton</a> (born 1955), British politician</li>
-<li><a href="/wiki/Filippa_Palmstierna_Hamilton" class="mw-redirect" title="Filippa Palmstierna Hamilton">Filippa Palmstierna Hamilton</a> (born 1985), Swedish-French fashion model</li>
-<li><a href="/wiki/Finley_Hamilton" title="Finley Hamilton">Finley Hamilton</a> (1886–1940), U.S. politician</li>
-<li><a href="/wiki/Franklin_Elmer_Ellsworth_Hamilton" title="Franklin Elmer Ellsworth Hamilton">Franklin Elmer Ellsworth Hamilton</a> (1866–1918), U.S. theologian;  Bishop of the Methodist Episcopal Church</li>
-<li><a href="/wiki/Frederic_C._Hamilton" title="Frederic C. Hamilton">Frederic C. Hamilton</a> (1927–2016), U.S. oilman and philanthropist</li>
-<li><a href="/wiki/Gary_Hamilton_(footballer_born_1980)" class="mw-redirect" title="Gary Hamilton (footballer born 1980)">Gary Hamilton (footballer born 1980)</a>, footballer from Northern Ireland</li>
-<li><a href="/wiki/Gary_Hamilton_(footballer_born_1965)" class="mw-redirect" title="Gary Hamilton (footballer born 1965)">Gary Hamilton (footballer born 1965)</a>, Scottish former footballer</li>
-<li><a href="/wiki/Gay_Hamilton" title="Gay Hamilton">Gay Hamilton</a> (born 1943), Scottish actress</li>
-<li><a href="/wiki/Gene_Hamilton" title="Gene Hamilton">Gene Hamilton</a>, U.S. mountain bike racer</li>
-<li><a href="/wiki/Geoff_Hamilton" title="Geoff Hamilton">Geoff Hamilton</a> (1936–1996), British gardener and broadcaster</li>
-<li><a href="/wiki/Gilbert_Van_Tassel_Hamilton" title="Gilbert Van Tassel Hamilton">Gilbert Van Tassel Hamilton</a> (1877–1943), U.S. physician and writer</li>
-<li><a href="/wiki/Gustav_Hamilton" title="Gustav Hamilton">Gustav Hamilton</a> (late 1650s – 1691), Anglo-Irish governor of <a href="/wiki/Enniskillen" title="Enniskillen">Enniskillen</a></li>
-<li><a href="/wiki/Guy_Hamilton" title="Guy Hamilton">Guy Hamilton</a> (1922–2016), English film director</li>
-<li><a href="/wiki/Hamilton_Hamilton" title="Hamilton Hamilton">Hamilton Hamilton</a> (1847-1928) English born, American painter</li>
-<li><a href="/wiki/Hans_Hamilton" title="Hans Hamilton">Hans Hamilton</a> (c. 1758–1822), Anglo-Irish politician</li>
-<li><a href="/wiki/Hans_Hamilton,_4th_Baron_HolmPatrick" title="Hans Hamilton, 4th Baron HolmPatrick">Hans Hamilton, 4th Baron HolmPatrick</a> (born 1955), British politician</li>
-<li><a href="/wiki/Harley_Hamilton_(conductor)" class="mw-redirect" title="Harley Hamilton (conductor)">Harley Hamilton (conductor)</a> (1861–1933), U.S. conductor, composer and violinist</li>
-<li><a href="/wiki/Harold_P._Hamilton" title="Harold P. Hamilton">Harold P. Hamilton</a> (1924–2003), U.S. college president and state government official</li>
-<li><a href="/wiki/Harry_Hamilton" title="Harry Hamilton">Harry Hamilton</a> (born 1962), U.S. football player.</li>
-<li>Lady <a href="/wiki/Henrietta_Hamilton" title="Henrietta Hamilton">Henrietta Hamilton</a> (1780–1857), painter; wife of Sir Charles Hamilton</li>
-<li><a href="/wiki/Holly_Hamilton" title="Holly Hamilton">Holly Hamilton</a>, British journalist and presenter</li>
-<li><a href="/wiki/Homer_Hamilton" title="Homer Hamilton">Homer Hamilton</a> (1913–1997), Canadian politician</li>
-<li><a href="/wiki/Hubert_Hamilton" title="Hubert Hamilton">Hubert Hamilton</a> (1861–1914), British general</li>
-<li><a href="/wiki/Ion_Hamilton,_1st_Baron_HolmPatrick" title="Ion Hamilton, 1st Baron HolmPatrick">Ion Hamilton, 1st Baron HolmPatrick</a> (1839–1898), Anglo-Irish politician</li>
-<li><a href="/wiki/Isaac_Hamilton" title="Isaac Hamilton">Isaac Hamilton</a> (born 1994), U.S. basketball player</li>
-<li><a href="/wiki/Isaac_Miller_Hamilton" title="Isaac Miller Hamilton">Isaac Miller Hamilton</a> (1864–1952), U.S. banker and politician</li>
-<li><a href="/wiki/Jacinta_Hamilton" class="mw-redirect" title="Jacinta Hamilton">Jacinta Hamilton</a> (born 1983), Australian basketball player</li>
-<li><a href="/wiki/Jackie_Hamilton" title="Jackie Hamilton">Jackie Hamilton</a> (1937–2003), British comedian</li>
-<li><a href="/wiki/Jackie_Hamilton_(ice_hockey)" title="Jackie Hamilton (ice hockey)">Jackie Hamilton (ice hockey)</a> (born 1925), Canadian ice hockey player</li>
-<li><a href="/wiki/Jan_Hamilton" class="mw-redirect" title="Jan Hamilton">Jan Hamilton</a> (born 1964), first officer in the British Army to complete gender reassignment from male to female</li></ul>
-<p>&#32;
-</p>
-</td>
-<td style="width: 50%;text-align: left; vertical-align: top;">
-<ul><li><a href="/wiki/Jane_Hamilton-Merritt" title="Jane Hamilton-Merritt">Jane Hamilton-Merritt</a> (b. 1947), American photojournalist</li>
-<li><a href="/wiki/Janet_Hamilton" title="Janet Hamilton">Janet Hamilton</a> (1795–1873), Scottish poet</li>
-<li><a href="/wiki/Jon_Hamilton" title="Jon Hamilton">Jon Hamilton</a>, American radio science correspondent</li>
-<li><a href="/wiki/Jordan_Hamilton" title="Jordan Hamilton">Jordan Hamilton</a>, American professional basketball player</li>
-<li><a href="/wiki/Jordan_Hamilton_(soccer)" title="Jordan Hamilton (soccer)">Jordan Hamilton (soccer)</a>, Canadian soccer forward</li>
-<li><a href="/wiki/Jos%C3%A9_Ignacio_Garc%C3%ADa_Hamilton" title="José Ignacio García Hamilton">José Ignacio García Hamilton</a> (born 1943), Argentine writer</li>
-<li><a href="/wiki/Josh_Hamilton_(actor)" title="Josh Hamilton (actor)">Josh Hamilton (actor)</a> (born 1969), U.S. actor</li>
-<li><a href="/wiki/Josh_Hamilton" title="Josh Hamilton">Josh Hamilton</a> (born 1981), U.S. baseball player</li>
-<li><a href="/wiki/Julian_Hamilton" title="Julian Hamilton">Julian Hamilton</a> (born 1976), Australian musician</li>
-<li><a href="/wiki/Kathleen_Hamilton,_Duchess_of_Abercorn" title="Kathleen Hamilton, Duchess of Abercorn">Kathleen Hamilton, Duchess of Abercorn</a> (1905–1990), Mistress of the Robes to Queen Elizabeth II</li>
-<li><a href="/wiki/Kevan_Hamilton" title="Kevan Hamilton">Kevan Hamilton</a> (born 1934), Australian rules footballer</li>
-<li><a href="/wiki/Kenneth_Hamilton" title="Kenneth Hamilton">Kenneth Hamilton</a> Scottish pianist</li>
-<li><a href="/wiki/Kim_Hamilton" title="Kim Hamilton">Kim Hamilton</a> (1932–2013), U.S. actress</li>
-<li><a href="/wiki/Kipp_Hamilton" title="Kipp Hamilton">Kipp Hamilton</a> (1935–1981), U.S. actress</li>
-<li><a href="/wiki/Kyle_Hamilton_(rower)" class="mw-redirect" title="Kyle Hamilton (rower)">Kyle Hamilton (rower)</a> (born 1978), Canadian rower</li>
-<li><a href="/wiki/Laird_Hamilton" title="Laird Hamilton">Laird Hamilton</a> (born 1964), U.S. big-wave surfer</li>
-<li><a href="/wiki/Lance_Hamilton" title="Lance Hamilton">Lance Hamilton</a> (born 1973), New Zealand cricketer</li>
-<li><a href="/wiki/Larry_Hamilton" class="mw-redirect" title="Larry Hamilton">Larry Hamilton</a> (1931–1996), U.S. professional wrestler</li>
-<li><a href="/wiki/Laurell_K._Hamilton" title="Laurell K. Hamilton">Laurell K. Hamilton</a>, U.S. writer</li>
-<li><a href="/wiki/Laurentine_Hamilton" title="Laurentine Hamilton">Laurentine Hamilton</a> (1826–1882), U.S. cleric</li>
-<li><a href="/wiki/Leonard_Hamilton" title="Leonard Hamilton">Leonard Hamilton</a> (born 1948), U.S. basketball coach</li>
-<li><a href="/wiki/Lewis_Hamilton" title="Lewis Hamilton">Lewis Hamilton</a> (born 1985), British Formula One driver</li>
-<li><a href="/wiki/Lewis_Hamilton_(footballer)" title="Lewis Hamilton (footballer)">Lewis Hamilton (footballer)</a> (born 1984), English footballer</li>
-<li><a href="/wiki/Lillias_Hamilton" title="Lillias Hamilton">Lillias Hamilton</a> (1858–1925), English doctor and author</li>
-<li><a href="/wiki/Linda_Hamilton" title="Linda Hamilton">Linda Hamilton</a> (born 1956), U.S. actress</li>
-<li><a href="/wiki/Lisa_Gay_Hamilton" class="mw-redirect" title="Lisa Gay Hamilton">Lisa Gay Hamilton</a>, U.S. actress</li>
-<li><a href="/wiki/Lloyd_Hamilton" title="Lloyd Hamilton">Lloyd Hamilton</a> (1891–1935), U.S. silent film actor</li>
-<li><a href="/wiki/Lois_Hamilton" title="Lois Hamilton">Lois Hamilton</a> (1943–1999), U.S. model, author, actress, artist and aviator</li>
-<li><a href="/wiki/Lucas_Hamilton" title="Lucas Hamilton">Lucas Hamilton</a> (born 1996), Australian cyclist</li>
-<li><a href="/wiki/Lucy_Hamilton" title="Lucy Hamilton">Lucy Hamilton</a> (also known as China Burg), member of the No Wave band <i>Mars</i></li>
-<li><a href="/wiki/Lyn_Hamilton" title="Lyn Hamilton">Lyn Hamilton</a>, Canadian author of archaeological mystery novels</li>
-<li><a href="/wiki/Lynell_Hamilton" title="Lynell Hamilton">Lynell Hamilton</a> (born 1985), U.S. football player</li>
-<li><a href="/wiki/Lynley_Hamilton" title="Lynley Hamilton">Lynley Hamilton</a>, Australian cricketer</li>
-<li><a href="/wiki/Lynne_Hamilton" title="Lynne Hamilton">Lynne Hamilton</a>, British singer, Evangelist minister</li>
-<li><a href="/wiki/Mahlon_Hamilton" title="Mahlon Hamilton">Mahlon Hamilton</a> (1880–1960), U.S. actor</li>
-<li><a href="/wiki/Malyk_Hamilton" title="Malyk Hamilton">Malyk Hamilton</a> (born 1999), Canadian soccer player</li>
-<li><a href="/wiki/Marc_Hamilton" title="Marc Hamilton">Marc Hamilton</a> (born 1944), French Canadian singer from Quebec</li>
-<li><a href="/wiki/Marci_Hamilton" title="Marci Hamilton">Marci Hamilton</a>, U.S. constitutional law scholar</li>
-<li><a href="/wiki/Marcus_Hamilton_(American_football)" title="Marcus Hamilton (American football)">Marcus Hamilton (American football)</a> (born 1984), U.S. football player</li>
-<li><a href="/wiki/Marguerite_Hamilton" title="Marguerite Hamilton">Marguerite Hamilton</a> (died 1998), U.S. author</li>
-<li><a href="/wiki/Marvin_Hamilton" title="Marvin Hamilton">Marvin Hamilton</a> (born 1988), English footballer</li>
-<li><a href="/wiki/Masha_Hamilton" title="Masha Hamilton">Masha Hamilton</a>, author and journalist</li>
-<li><a href="/wiki/Maximilian_Reichsgraf_von_Hamilton" title="Maximilian Reichsgraf von Hamilton">Maximilian Reichsgraf von Hamilton</a> (1714–1776), prince bishop of Olmütz</li>
-<li><a href="/wiki/Max_Hamilton" title="Max Hamilton">Max Hamilton</a> (1912–1988), German-born British medical statistician</li>
-<li><a href="/wiki/Melinda_Page_Hamilton" title="Melinda Page Hamilton">Melinda Page Hamilton</a>, U.S. actress</li>
-<li><a href="/wiki/Michelle_Hamilton" class="mw-redirect" title="Michelle Hamilton">Michelle Hamilton</a> (born 1948), U.S. Playboy Playmate, model</li>
-<li><a href="/wiki/Milo_Hamilton" title="Milo Hamilton">Milo Hamilton</a> (1927–2015), U.S. sportscaster</li>
-<li><a href="/wiki/Milton_H._Hamilton,_Jr" class="mw-redirect" title="Milton H. Hamilton, Jr">Milton H. Hamilton, Jr</a> (born 1932), U.S. politician; former majority leader in the Tennessee State Senate</li>
-<li><a href="/wiki/Morgan_C._Hamilton" title="Morgan C. Hamilton">Morgan C. Hamilton</a> (1809–1893), U.S. politician</li>
-<li><a href="/wiki/Murray_Hamilton" title="Murray Hamilton">Murray Hamilton</a> (1923–1986), U.S. actor</li>
-<li><a href="/wiki/Natasha_Hamilton" title="Natasha Hamilton">Natasha Hamilton</a> (born 1982), English singer and member of Atomic Kitten</li>
-<li><a href="/wiki/Nick_Hamilton" class="mw-redirect" title="Nick Hamilton">Nick Hamilton</a> (born 1959), U.S. professional wrestling referee</li>
-<li><a href="/wiki/Norman_R._Hamilton" title="Norman R. Hamilton">Norman R. Hamilton</a> (1877–1964), U.S. politician</li>
-<li><a href="/wiki/Page_Hamilton" title="Page Hamilton">Page Hamilton</a> (born 1960), U.S. guitarist, singer and record producer</li>
-<li><a href="/wiki/Paris_Hamilton" title="Paris Hamilton">Paris Hamilton</a> (born 1981), U.S. football player</li>
-<li><a href="/wiki/Patricia_Hamilton" title="Patricia Hamilton">Patricia Hamilton</a> (born 1938), U.S. actress</li>
-<li><a href="/wiki/Paula_Hamilton" title="Paula Hamilton">Paula Hamilton</a>, U.S. supermodel</li>
-<li><a href="/wiki/Pauline_Kruger_Hamilton" title="Pauline Kruger Hamilton">Pauline Kruger Hamilton</a> (1870–1919), U.S. photographer</li>
-<li><a href="/wiki/Peggy-Kay_Hamilton" title="Peggy-Kay Hamilton">Peggy-Kay Hamilton</a> (1922–1959), U.S. geologist</li>
-<li><a href="/wiki/Pep_Hamilton" title="Pep Hamilton">Pep Hamilton</a>, U.S. football coach</li>
-<li><a href="/wiki/Philip_Hamilton" title="Philip Hamilton">Philip Hamilton</a> (1782–1801), son of Alexander Hamilton, dueling fatality</li>
-<li><a href="/wiki/Philip_Hamilton_(the_second)" title="Philip Hamilton (the second)">Philip Hamilton II</a> (1802–1884), American lawyer and son of Alexander Hamilton</li>
-<li><a href="/wiki/Phillip_Hamilton" title="Phillip Hamilton">Phillip Hamilton</a> (born 1961), U.S. writer</li>
-<li><a href="/wiki/Philippe_Hamilton-Rollings" title="Philippe Hamilton-Rollings">Philippe Hamilton-Rollings</a> (born 1993), Ukrainian football player</li>
-<li><a href="/wiki/Pierpont_M._Hamilton" title="Pierpont M. Hamilton">Pierpont M. Hamilton</a> (1898–1982), United States Army Air Forces officer</li>
-<li><a href="/wiki/R.H._Hamilton" class="mw-redirect" title="R.H. Hamilton">R.H. Hamilton</a>, U.S. sportsman; first head coach of the Baylor college football program from 1899–1900</li>
-<li><a href="/wiki/Ralph_Hamilton" title="Ralph Hamilton">Ralph Hamilton</a> (1921–1993), U.S. professional basketball player</li>
-<li><a href="/wiki/Remy_Hamilton" title="Remy Hamilton">Remy Hamilton</a> (born 1974), U.S. football player</li>
-<li><a href="/wiki/Robin_Hamilton" title="Robin Hamilton">Robin Hamilton</a>, U.S. politician</li>
-<li><a href="/wiki/Roland_Hamilton" title="Roland Hamilton">Roland Hamilton</a> (1886–1953), British politician</li>
-<li><a href="/wiki/Roy_Hamilton" title="Roy Hamilton">Roy Hamilton</a> (1929–1969), U.S. singer</li>
-<li><a href="/wiki/Roy_%22Royalty%22_Hamilton" title="Roy &quot;Royalty&quot; Hamilton">Roy "Royalty" Hamilton</a> (born 1980) U.S. songwriter</li>
-<li><a href="/wiki/Roy_Hamilton_(basketball)" title="Roy Hamilton (basketball)">Roy Hamilton (basketball)</a> (born 1957), American basketball player and sports television producer</li>
-<li><a href="/wiki/Ruth_Hamilton" title="Ruth Hamilton">Ruth Hamilton</a> (1898–2008), U.S. radio talk show host and politician</li>
-<li><a href="/wiki/Schuyler_Hamilton" title="Schuyler Hamilton">Schuyler Hamilton</a>, (1822–1903), U.S. soldier</li>
-<li><a href="/wiki/Sean_Hamilton" title="Sean Hamilton">Sean Hamilton</a> US radio host</li>
-<li><a href="/wiki/Shaun_Dion_Hamilton" title="Shaun Dion Hamilton">Shaun Dion Hamilton</a> (born 1995), American football player</li>
-<li><a href="/wiki/Simon_Hamilton" title="Simon Hamilton">Simon Hamilton</a>, Northern Ireland politician</li>
-<li><a href="/wiki/Suzanna_Hamilton" title="Suzanna Hamilton">Suzanna Hamilton</a> (born 1960), English actress</li>
-<li><a href="/wiki/Suzy_Favor-Hamilton" class="mw-redirect" title="Suzy Favor-Hamilton">Suzy Favor-Hamilton</a> (born 1968), U.S. middle distance runner</li>
-<li><a href="/wiki/Tang_Hamilton" title="Tang Hamilton">Tang Hamilton</a> (born 1978), U.S. basketball player</li>
-<li><a href="/wiki/Todd_Hamilton" title="Todd Hamilton">Todd Hamilton</a>, U.S. professional golfer</li>
-<li><a href="/wiki/Trevor_Hamilton" title="Trevor Hamilton">Trevor Hamilton</a> (born 1982), Northern Irish murderer</li>
-<li><a href="/wiki/Tyler_Hamilton" title="Tyler Hamilton">Tyler Hamilton</a> (born 1971), U.S. professional road bicycle racer</li>
-<li><a href="/wiki/Tyler_Hamilton_(reporter)" title="Tyler Hamilton (reporter)">Tyler Hamilton (reporter)</a> (born 1970), Canadian reporter</li>
-<li><a href="/wiki/Venson_Hamilton" title="Venson Hamilton">Venson Hamilton</a> (born 1977), U.S.-Spanish basketball player</li>
-<li><a href="/wiki/Victoria_Hamilton" title="Victoria Hamilton">Victoria Hamilton</a> (born 1971), British actress</li>
-<li><a href="/wiki/W.D._Hamilton" class="mw-redirect" title="W.D. Hamilton">W. D. Hamilton</a>, British evolutionary biologist</li>
-<li><a href="/wiki/W._O._Hamilton" title="W. O. Hamilton">W. O. Hamilton</a>, U.S. athletics coach</li>
-<li><a href="/wiki/Walter_Alfred_Hamilton" class="mw-redirect" title="Walter Alfred Hamilton">Walter Alfred Hamilton</a> (1863–1955), Australian politician</li>
-<li><a href="/wiki/Walter_Kerr_Hamilton" title="Walter Kerr Hamilton">Walter Kerr Hamilton</a> (1808–1869), Anglican Bishop of Salisbury</li>
-<li><a href="/wiki/Walter_Richard_Pollock_Hamilton" class="mw-redirect" title="Walter Richard Pollock Hamilton">Walter Richard Pollock Hamilton</a> (1856–1879), Irish recipient of the Victoria Cross</li>
-<li><a href="/wiki/Wes_Hamilton" title="Wes Hamilton">Wes Hamilton</a> (born 1953), U.S. football player</li>
-<li><a href="/wiki/Wilbur_H._Hamilton" title="Wilbur H. Hamilton">Wilbur H. Hamilton</a> (1909–1964), American businessman and politician</li>
-<li><a href="/wiki/Willoughby_Hamilton" title="Willoughby Hamilton">Willoughby Hamilton</a> (1864–1943), Irish tennis player</li>
-<li><a href="/wiki/Zendon_Hamilton" title="Zendon Hamilton">Zendon Hamilton</a> (born 1975), U.S. basketball player</li></ul>
-<p>&#32;
-</p>
-</td></tr></tbody></table></div>
-<h2><span class="mw-headline" id="People_with_the_given_name">People with the given name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamilton_(name)&amp;action=edit&amp;section=5" title="Edit section: People with the given name">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Hamilton_Basso" title="Hamilton Basso">Hamilton Basso</a> (1904–1964), American writer</li>
-<li><a href="/wiki/Hamilton_Morris" title="Hamilton Morris">Hamilton Morris</a> (born April 14, 1987), American journalist, pharmacologist</li>
-<li><a href="/wiki/Hamilton_Bohannon" title="Hamilton Bohannon">Hamilton Bohannon</a> (born 1942), American musician and record producer</li>
-<li><a href="/wiki/Ham%C3%ADlton_H%C3%AAnio_Ferreira_Calheiros" title="Hamílton Hênio Ferreira Calheiros">Hamílton Hênio Ferreira Calheiros</a> (born 1980), Brazilian-Togolese footballer</li>
-<li><a href="/wiki/Hamilton_Fish_(disambiguation)" class="mw-disambig" title="Hamilton Fish (disambiguation)">Hamilton Fish (disambiguation)</a>, several people</li>
-<li><a href="/wiki/Hamilton_Green" title="Hamilton Green">Hamilton Green</a> (born 1934), prime minister of Guyana</li>
-<li><a href="/wiki/Hamilton_Harty" title="Hamilton Harty">Hamilton Harty</a> (1879–1941), Irish composer</li>
-<li><a href="/wiki/Hamilton_Jordan" title="Hamilton Jordan">Hamilton Jordan</a> (1944–2008), American politician</li>
-<li><a href="/wiki/Hamilton_Luske" title="Hamilton Luske">Hamilton Luske</a> (1903–1968), American animator and film director</li>
-<li><a href="/wiki/Hamilton_Masakadza" title="Hamilton Masakadza">Hamilton Masakadza</a> (born 1983), Zimbabwean cricketer</li>
-<li><a href="/wiki/H%C3%A1milton_Ricard" title="Hámilton Ricard">Hámilton Ricard</a> (born 1974), Colombian footballer</li>
-<li><a href="/wiki/Hamilton_Sabot" title="Hamilton Sabot">Hamilton Sabot</a> (born 1987), French gymnast</li>
-<li><a href="/wiki/Hamilton_O._Smith" title="Hamilton O. Smith">Hamilton O. Smith</a> (born 1931), American microbiologist</li></ul>
-<h3><span class="mw-headline" id="People_with_the_middle_name">People with the middle name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamilton_(name)&amp;action=edit&amp;section=6" title="Edit section: People with the middle name">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Hamilton_Mour%C3%A3o" title="Hamilton Mourão">Antônio Hamilton Martins Mourão</a> (born 1953), retired Brazilian Army General and Vice President of Brazil</li>
-<li><a href="/wiki/Iain_Kay" title="Iain Kay">James Hamilton Iain Kay</a> (born 1949), Zimbabwean farmer and politician</li></ul>
-<h2><span class="mw-headline" id="Fictional_characters">Fictional characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamilton_(name)&amp;action=edit&amp;section=7" title="Edit section: Fictional characters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li>Audrey fforbes-Hamilton, character from <i><a href="/wiki/To_the_Manor_Born" title="To the Manor Born">To the Manor Born</a></i></li>
-<li><a href="/wiki/Carl_Hamilton_(fictional_character)" class="mw-redirect" title="Carl Hamilton (fictional character)">Carl Hamilton (fictional character)</a>, spy created by <a href="/wiki/Jan_Guillou" title="Jan Guillou">Jan Guillou</a></li>
-<li>Charles Hamilton, first husband of Scarlett O'Hara in <i><a href="/wiki/Gone_with_the_Wind_(novel)" title="Gone with the Wind (novel)">Gone with the Wind</a></i></li>
-<li><a href="/wiki/Melanie_Hamilton" title="Melanie Hamilton">Melanie Hamilton</a>, Scarlett O'Hara's sister-in-law from <i><a href="/wiki/Gone_with_the_Wind_(novel)" title="Gone with the Wind (novel)">Gone with the Wind</a></i></li>
-<li><a href="/wiki/Gil_Hamilton" class="mw-redirect" title="Gil Hamilton">Gil Hamilton</a>, detective created by Larry Niven</li>
-<li>Jack Hamilton, fictional character created by <a href="/wiki/Philip_K._Dick" title="Philip K. Dick">Philip K. Dick</a> and found in the novel <i><a href="/wiki/Eye_in_the_Sky_(novel)" title="Eye in the Sky (novel)">Eye in the Sky</a></i></li>
-<li><a href="/wiki/Marcus_Hamilton_(Angel)" class="mw-redirect" title="Marcus Hamilton (Angel)">Marcus Hamilton (Angel)</a>, a character from the TV series <i>Angel</i></li>
-<li><a href="/wiki/Professor_Hamilton" title="Professor Hamilton">Professor Hamilton</a>, Emil Hamilton, a supporting character from Superman comics</li>
-<li><a href="/wiki/Hamilton_Burger" title="Hamilton Burger">Hamilton Burger</a>, the L.A. district attorney in the Perry Mason novels</li>
-<li>Hamilton Fleming, a character from the short-lived TV series <i><a href="/wiki/Young_Americans_(TV_series)" title="Young Americans (TV series)">Young Americans</a></i></li>
-<li><a href="/wiki/Maggie_and_the_Ferocious_Beast" title="Maggie and the Ferocious Beast">Hamilton Hocks</a>, a stuffed pig character from <i>Maggie and the Ferocious Beast</i></li>
-<li>Mary Rose Hamilton, character in <i><a href="/wiki/Lolita" title="Lolita">Lolita</a></i></li>
-<li>Holly Hamilton played by <a href="/wiki/Hilary_Duff" title="Hilary Duff">Hilary Duff</a> in <i><a href="/wiki/The_Perfect_Man_(2005_film)" title="The Perfect Man (2005 film)">The Perfect Man</a></i></li>
-<li>Hamilton Hamilton played by Hannah Miranda in <i>The Adventures of Hamilton, Danger Dog</i></li>
-<li>Jenna Hamilton (<a href="/wiki/Ashley_Rickards" title="Ashley Rickards">Ashley Rickards</a>) in the <a href="/wiki/MTV" title="MTV">MTV</a> series, <i><a href="/wiki/Awkward_(TV_series)" title="Awkward (TV series)">Awkward</a></i></li>
-<li>Lacey Hamilton (<a href="/wiki/Nikki_DeLoach" title="Nikki DeLoach">Nikki DeLoach</a>) in the <a href="/wiki/MTV" title="MTV">MTV</a> series, <i><a href="/wiki/Awkward_(TV_series)" title="Awkward (TV series)">Awkward</a></i></li>
-<li>Kevin Hamilton (<a href="/wiki/Mike_Faiola" title="Mike Faiola">Mike Faiola</a>) in the <a href="/wiki/MTV" title="MTV">MTV</a> series, <i><a href="/wiki/Awkward_(TV_series)" title="Awkward (TV series)">Awkward</a></i></li>
-<li><a href="/wiki/List_of_Dead_or_Alive_characters#La_Mariposa/Lisa_Hamilton" title="List of Dead or Alive characters">Lisa Hamilton</a> from the video game series, <i><a href="/wiki/Dead_or_Alive_(series)" class="mw-redirect" title="Dead or Alive (series)">Dead or Alive</a></i></li>
-<li><a href="/wiki/Devon_Hamilton" title="Devon Hamilton">Devon Hamilton</a> (<a href="/wiki/Bryton_James" title="Bryton James">Bryton James</a>) on the <a href="/wiki/Soap_opera" title="Soap opera">soap opera</a> <i><a href="/wiki/The_Young_and_the_Restless" title="The Young and the Restless">The Young and the Restless</a></i></li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamilton_(name)&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="List_of_persons_with_the_surname_Ryan">List of persons with the surname Ryan</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ryan_(surname)&amp;action=edit&amp;section=2" title="Edit section: List of persons with the surname Ryan">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="A.E2.80.93D"></span><span class="mw-headline" id="A–D">A–D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ryan_(surname)&amp;action=edit&amp;section=3" title="Edit section: A–D">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Abram_Joseph_Ryan" title="Abram Joseph Ryan">Abram Joseph Ryan</a> (1838–1886), Catholic priest, poet</li>
+<li><a href="/wiki/Aileen_B._Ryan" title="Aileen B. Ryan">Aileen B. Ryan</a> (1912–1987), New York politician</li>
+<li><a href="/wiki/Allan_Ryan_(attorney)" title="Allan Ryan (attorney)">Allan Ryan</a>, American attorney</li>
+<li><a href="/wiki/Allan_A._Ryan,_Jr." class="mw-redirect" title="Allan A. Ryan, Jr.">Allan A. Ryan, Jr.</a> (1903–1981), New York financier and politician</li>
+<li><a href="/wiki/Amy_Ryan" title="Amy Ryan">Amy Ryan</a> (born 1969), American actress</li>
+<li><a href="/wiki/Andrew_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Andrew Ryan (disambiguation)">Andrew Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Anne_Ryan" title="Anne Ryan">Anne Ryan</a> (1889–1954), American artist</li>
+<li><a href="/wiki/Anne_Ryan_(actress)" title="Anne Ryan (actress)">Anne Ryan (actress)</a>, American actress</li>
+<li><a href="/wiki/B._J._Ryan" title="B. J. Ryan">B. J. Ryan</a> (Robert Victor Ryan Jr., born 1975), baseball player</li>
+<li><a href="/wiki/Barry_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Barry Ryan (disambiguation)">Barry Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Bernard_Ryan" class="mw-redirect" title="Bernard Ryan">Bernard Ryan</a> (1900-1921), member of the IRA hanged in Dublin in 1921</li>
+<li><a href="/wiki/Bernard_Ryan,_Jr." class="mw-redirect" title="Bernard Ryan, Jr.">Bernard Ryan, Jr.</a>, American author</li>
+<li><a href="/wiki/Bianca_Ryan" title="Bianca Ryan">Bianca Ryan</a> (born 1994), American singer and America's Got Talent winner</li>
+<li><a href="/wiki/Bill_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Bill Ryan (disambiguation)">Bill Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Billy_Ryan" title="Billy Ryan">Billy Ryan</a> (1887–1951), American football player</li>
+<li><a href="/wiki/Blanchard_Ryan" title="Blanchard Ryan">Blanchard Ryan</a> (born 1967), American actress</li>
+<li><a href="/wiki/Bo_Ryan" title="Bo Ryan">Bo Ryan</a> (William Francis Ryan Jr, born 1947), American basketball coach</li>
+<li><a href="/wiki/Bob_Ryan_(disambiguation)" class="mw-disambig" title="Bob Ryan (disambiguation)">Bob Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Bobby_Ryan_(disambiguation)" class="mw-disambig" title="Bobby Ryan (disambiguation)">Bobby Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Bruce_Ryan" title="Bruce Ryan">Bruce Ryan</a> (1921–2002), Australian rugby league footballer</li>
+<li><a href="/wiki/Buddy_Ryan" title="Buddy Ryan">Buddy Ryan</a> (1931–2016), American football coach</li>
+<li><a href="/wiki/C._J._Ryan" title="C. J. Ryan">C. J. Ryan</a> (1943–2004), British priest and scholar of Italian studies</li>
+<li><a href="/wiki/C._W._Ryan" title="C. W. Ryan">C. W. Ryan</a>, American politician</li>
+<li><a href="/wiki/Chris_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Chris Ryan (disambiguation)">Chris Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Christopher_Ryan" title="Christopher Ryan">Christopher Ryan</a>, British actor</li>
+<li><a href="/wiki/Claude_Ryan" title="Claude Ryan">Claude Ryan</a>, Canadian politician</li>
+<li><a href="/wiki/Cornelius_Ryan" title="Cornelius Ryan">Cornelius Ryan</a>, Irish journalist and author</li>
+<li><a href="/wiki/Debby_Ryan" title="Debby Ryan">Debby Ryan</a>, American actress</li>
+<li><a href="/wiki/Donald_P._Ryan" title="Donald P. Ryan">Donald P. Ryan</a>, American archaeologist and writer</li>
+<li><a href="/wiki/Donnell_Ryan" title="Donnell Ryan">Donnell Ryan</a>, Federal Court of Australia judge</li></ul>
+<h3><span id="E.E2.80.93L"></span><span class="mw-headline" id="E–L">E–L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ryan_(surname)&amp;action=edit&amp;section=4" title="Edit section: E–L">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Edward_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Edward Ryan (disambiguation)">Edward Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Felix_Ryan" title="Felix Ryan">Felix Ryan</a>, Australian rugby league footballer</li>
+<li><a href="/wiki/Francis_T._Ryan" title="Francis T. Ryan">Francis T. Ryan</a>, American Medal of Honor recipient</li>
+<li><a href="/wiki/Frank_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Frank Ryan (disambiguation)">Frank Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Fred_Ryan" title="Fred Ryan">Fred Ryan</a>, CEO of <i>Politico.com</i>, former aide to Ronald Reagan</li>
+<li><a href="/wiki/Frederick_Ryan" title="Frederick Ryan">Frederick Ryan</a> Irish playwright and socialist</li>
+<li><a href="/wiki/George_Ryan" title="George Ryan">George Ryan</a> (born 1934), Governor of Illinois</li>
+<li><a href="/wiki/George_Ryan_(Canadian_politician)" title="George Ryan (Canadian politician)">George Ryan (Canadian politician)</a> (1806–1876), New Brunswick politician</li>
+<li><a href="/wiki/Gerry_Ryan" title="Gerry Ryan">Gerry Ryan</a>, Irish radio presenter</li>
+<li><a href="/wiki/Greg_Ryan" title="Greg Ryan">Greg Ryan</a>, German-American soccer defender</li>
+<li><a href="/wiki/Gig_Ryan" title="Gig Ryan">Gig Ryan</a>, Australian Poet</li>
+<li><a href="/wiki/Harold_M._Ryan" title="Harold M. Ryan">Harold M. Ryan</a> (1911–2007), U.S. Representative from Michigan</li>
+<li><a href="/wiki/Murder_of_Ibolya_Ryan" title="Murder of Ibolya Ryan">Ibolya Ryan</a>, Hungarian-American murder victim</li>
+<li><a href="/wiki/Ida_Annah_Ryan" title="Ida Annah Ryan">Ida Annah Ryan</a>, architect</li>
+<li><a href="/wiki/Irene_Ryan" title="Irene Ryan">Irene Ryan</a>, actress</li>
+<li><a href="/wiki/Jack_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Jack Ryan (disambiguation)">Jack Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Jane_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Jane Ryan (disambiguation)">Jane Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Jeff_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Jeff Ryan (disambiguation)">Jeff Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Jeri_Ryan" title="Jeri Ryan">Jeri Ryan</a>, U.S. actress</li>
+<li><a href="/wiki/Jim_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Jim Ryan (disambiguation)">Jim Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Jimmy_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Jimmy Ryan (disambiguation)">Jimmy Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Joan_Ryan" title="Joan Ryan">Joan Ryan</a>, UK politician</li>
+<li><a href="/wiki/John_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="John Ryan (disambiguation)">John Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Joseph_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Joseph Ryan (disambiguation)">Joseph Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Josephine_Ryan" title="Josephine Ryan">Josephine Ryan</a>, Irish nationalist</li>
+<li><a href="/wiki/Katherine_Ryan" title="Katherine Ryan">Katherine Ryan</a>, Canadian/Irish comedian, writer, presenter and actress</li>
+<li><a href="/wiki/Kathleen_Ryan" title="Kathleen Ryan">Kathleen Ryan</a>, Irish actress</li>
+<li><a href="/wiki/Kelleigh_Ryan" title="Kelleigh Ryan">Kelleigh Ryan</a> (born 1987), Canadian fencer</li>
+<li><a href="/wiki/Kevin_Ryan_(athlete)" title="Kevin Ryan (athlete)">Kevin Ryan</a>, New Zealand long-distance runner</li>
+<li><a href="/wiki/Kyle_Ryan" title="Kyle Ryan">Kyle Ryan</a>, American baseball player</li>
+<li><a href="/wiki/Lacy_Ryan" title="Lacy Ryan">Lacy Ryan</a>, English actor</li>
+<li><a href="/wiki/Lance_Ryan" title="Lance Ryan">Lance Ryan</a> (born 1971), Canadian operatic tenor</li>
+<li><a href="/wiki/Leo_Ryan" title="Leo Ryan">Leo Ryan</a>, Congressman from San Francisco, killed at Jonestown</li>
+<li><a href="/wiki/Lee_Ryan" title="Lee Ryan">Lee Ryan</a> (born 1983), English singer-songwriter and actor</li>
+<li><a href="/wiki/Liam_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Liam Ryan (disambiguation)">Liam Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Liza_Ryan" title="Liza Ryan">Liza Ryan</a> (born 1965), American visual artist</li>
+<li><a href="/wiki/Lola_Ryan" title="Lola Ryan">Lola Ryan</a> (1925-2003), Australian artist</li>
+<li>Lucille Frances Ryan, better known as <a href="/wiki/Lucy_Lawless" title="Lucy Lawless">Lucy Lawless</a> (born 1968), actress from New Zealand</li></ul>
+<h3><span id="M.E2.80.93R"></span><span class="mw-headline" id="M–R">M–R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ryan_(surname)&amp;action=edit&amp;section=5" title="Edit section: M–R">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Marion_Ryan" title="Marion Ryan">Marion Ryan</a> (1931–1999), British singer</li>
+<li><a href="/wiki/Mark_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Mark Ryan (disambiguation)">Mark Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Matthew_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Matthew Ryan (disambiguation)">Matthew Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Meg_Ryan" title="Meg Ryan">Meg Ryan</a> (born 1961), U.S. actress</li>
+<li><a href="/wiki/Michael_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Michael Ryan (disambiguation)">Michael Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Michelle_Ryan" title="Michelle Ryan">Michelle Ryan</a> (born 1984), British actress of Irish ancestry</li>
+<li><a href="/wiki/Miles_Ryan" title="Miles Ryan">Miles Ryan</a>, Irish recipient of the Victoria Cross</li>
+<li><a href="/wiki/Murray_Ryan" title="Murray Ryan">Murray Ryan</a>, American politician</li>
+<li><a href="/wiki/Myles_and_Connor" title="Myles and Connor">Myles and Connor</a> Ryan, British singers</li>
+<li><a href="/wiki/Nolan_Ryan" title="Nolan Ryan">Nolan Ryan</a> (born 1947), baseball player</li>
+<li><a href="/wiki/Patricia_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Patricia Ryan (disambiguation)">Patricia Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Patrick_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Patrick Ryan (disambiguation)">Patrick Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Paul_Ryan_(disambiguation)" class="mw-disambig" title="Paul Ryan (disambiguation)">Paul Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Peggy_Ryan" title="Peggy Ryan">Peggy Ryan</a>, American dancer</li>
+<li><a href="/wiki/Perry_T._Ryan" title="Perry T. Ryan">Perry T. Ryan</a>, American author</li>
+<li><a href="/wiki/Peter_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Peter Ryan (disambiguation)">Peter Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Phil_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Phil Ryan (disambiguation)">Phil Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Phyllis_Ryan" title="Phyllis Ryan">Phyllis Ryan</a>, Irish chemist and nationalist</li>
+<li><a href="/wiki/Phyllis_Ryan_(actress)" title="Phyllis Ryan (actress)">Phyllis Ryan (actress)</a>, Irish actress</li>
+<li><a href="/wiki/Prestin_Ryan" title="Prestin Ryan">Prestin Ryan</a>, Canadian ice hockey player</li>
+<li><a href="/wiki/Rex_Ryan" title="Rex Ryan">Rex Ryan</a>, American football coach</li>
+<li><a href="/wiki/Richard_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Richard Ryan (disambiguation)">Richard Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Richie_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Richie Ryan (disambiguation)">Richie Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Rob_Ryan" title="Rob Ryan">Rob Ryan</a>, American football coach</li>
+<li><a href="/wiki/Robert_Ryan_(disambiguation)" class="mw-disambig" title="Robert Ryan (disambiguation)">Robert Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Ronald_Ryan" title="Ronald Ryan">Ronald Ryan</a> (Last person to be legally executed in Australia.)</li>
+<li><a href="/wiki/Ross_Ryan" title="Ross Ryan">Ross Ryan</a> Australian singer-songwriter</li>
+<li><a href="/wiki/Roz_Ryan" title="Roz Ryan">Roz Ryan</a>, American actress</li></ul>
+<h3><span id="S.E2.80.93Z"></span><span class="mw-headline" id="S–Z">S–Z</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ryan_(surname)&amp;action=edit&amp;section=6" title="Edit section: S–Z">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/S%C3%A9amus_Ryan" title="Séamus Ryan">Séamus Ryan</a>, Irish senator</li>
+<li><a href="/wiki/Sod_Ryan" title="Sod Ryan">Sod Ryan</a> (1905–1964), American football player</li>
+<li><a href="/wiki/Tom%C3%A1s_Ryan" title="Tomás Ryan">Tomás Ryan</a>, Irish hurler</li>
+<li><a href="/wiki/Thomas_Ryan_(disambiguation)" class="mw-redirect" title="Thomas Ryan (disambiguation)">Thomas Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/T._Claude_Ryan" title="T. Claude Ryan">T. Claude Ryan</a> (1898–1982), American aviator and aeronautic engineer</li>
+<li><a href="/wiki/T._J._Ryan" title="T. J. Ryan">T. J. Ryan</a> (Thomas Joseph Ryan, 1876–1921), Australian politician, premier of Queensland</li>
+<li><a href="/wiki/T._J._Ryan_(hurler)" title="T. J. Ryan (hurler)">T. J. Ryan (hurler)</a> (born 1974), Irish hurler</li>
+<li><a href="/wiki/Thomas_Ryan_(disambiguation)" class="mw-redirect" title="Thomas Ryan (disambiguation)">Thomas Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Tim_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Tim Ryan (disambiguation)">Tim Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Tommy_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="Tommy Ryan (disambiguation)">Tommy Ryan (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Tony_Ryan" title="Tony Ryan">Tony Ryan</a> (1936–2007), Irish businessman</li>
+<li><a href="/wiki/Tony_Ryan_(scientist)" title="Tony Ryan (scientist)">Tony Ryan (scientist)</a> (born 1962), British polymer chemist</li>
+<li><a href="/wiki/Una_Ryan" title="Una Ryan">Una Ryan</a> (born 1941), Malaysian born biologist</li>
+<li><a href="/wiki/Walter_D%27Arcy_Ryan" title="Walter D&#39;Arcy Ryan">Walter D'Arcy Ryan</a>, lighting engineer</li>
+<li><a href="/wiki/Warren_Ryan" title="Warren Ryan">Warren Ryan</a>, Australian rugby league football coach</li>
+<li><a href="/wiki/Will_Ryan" title="Will Ryan">Will Ryan</a> (born 1939), American voice actor, singer, and comedian</li>
+<li><a href="/wiki/William_Ryan_(disambiguation)" class="mw-redirect mw-disambig" title="William Ryan (disambiguation)">William Ryan (disambiguation)</a>, several people</li></ul>
+<h2><span class="mw-headline" id="Fictional_characters">Fictional characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ryan_(surname)&amp;action=edit&amp;section=7" title="Edit section: Fictional characters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/April_Ryan" title="April Ryan">April Ryan</a>, appearing in the computer adventure games <i><a href="/wiki/The_Longest_Journey" title="The Longest Journey">The Longest Journey</a></i> and <i><a href="/wiki/Dreamfall" class="mw-redirect" title="Dreamfall">Dreamfall</a></i></li>
+<li>Andrew Ryan, the founder of Rapture and a major character in the 2007 video game <i><a href="/wiki/BioShock" title="BioShock">BioShock</a></i></li>
+<li><a href="/wiki/Archie_Ryan" class="mw-redirect" title="Archie Ryan">Archie Ryan</a>, the pseudonym of <a href="/wiki/Lincoln_Burrows" title="Lincoln Burrows">Lincoln Burrows</a>, a fictional character from the television show <i><a href="/wiki/Prison_Break" title="Prison Break">Prison Break</a></i></li>
+<li><a href="/wiki/Barbara_Ryan" title="Barbara Ryan">Barbara Ryan</a>, character in the soap opera <i><a href="/wiki/As_the_World_Turns" title="As the World Turns">As the World Turns</a></i></li>
+<li><a href="/wiki/Caitlin_Ryan_(Degrassi)" title="Caitlin Ryan (Degrassi)">Caitlin Ryan</a>, a character in the <i>Degrassi</i> franchise</li>
+<li><a href="/wiki/Jack_Ryan_(fictional_character)" class="mw-redirect" title="Jack Ryan (fictional character)">Jack Ryan</a>, character in several Tom Clancy novels</li>
+<li>Jack Ryan, a separate character and the primary protagonist of the 2007 video game <i><a href="/wiki/BioShock" title="BioShock">BioShock</a></i></li>
+<li><a href="/wiki/Jake_Ryan_(Hannah_Montana)" class="mw-redirect" title="Jake Ryan (Hannah Montana)">Jake Ryan</a>, character in <i><a href="/wiki/Sixteen_Candles" title="Sixteen Candles">Sixteen Candles</a></i>/<i><a href="/wiki/Hannah_Montana" title="Hannah Montana">Hannah Montana</a></i>, TV character portrayed by <a href="/wiki/Cody_Linley" title="Cody Linley">Cody Linley</a></li>
+<li>James Francis Ryan, character in the 1998 American war film <i><a href="/wiki/Saving_Private_Ryan" title="Saving Private Ryan">Saving Private Ryan</a></i></li>
+<li>Kevin Ryan, secondary character of the TV thriller show <i><a href="/wiki/Castle_(TV_series)" title="Castle (TV series)">Castle</a></i></li>
+<li>Mary Ryan, also known aka Blue Mary, a character in the <i><a href="/wiki/Fatal_Fury_(series)" class="mw-redirect" title="Fatal Fury (series)">Fatal Fury</a></i> series and <i><a href="/wiki/The_King_of_Fighters" title="The King of Fighters">The King of Fighters</a></i></li>
+<li>Nory Ryan, main character in book <i><a href="/wiki/Nory_Ryan%27s_Song" class="mw-redirect" title="Nory Ryan&#39;s Song">Nory Ryan's Song</a></i> by Patricia Reilly Giff</li>
+<li><a href="/wiki/Richie_Ryan_(Highlander)" title="Richie Ryan (Highlander)">Richie Ryan</a>, fictional character in <i><a href="/wiki/Highlander:_The_Series" title="Highlander: The Series">Highlander: The Series</a></i></li>
+<li><a href="/wiki/Robert_Charles_%22Rusty%22_Ryan" class="mw-redirect" title="Robert Charles &quot;Rusty&quot; Ryan">Robert Charles "Rusty" Ryan</a> in <i>Ocean's 11</i>, <i>12</i>, and <i>13</i></li>
+<li>Professor Sam Ryan, character in the television series <i><a href="/wiki/Silent_Witness_(TV_series)" class="mw-redirect" title="Silent Witness (TV series)">Silent Witness</a></i></li>
+<li>Tommy Ryan, a character in the 1997 film <i><a href="/wiki/Titanic_(1997_film)" title="Titanic (1997 film)">Titanic</a></i></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ryan_(surname)&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Rayan_(Persian_given_name)" title="Rayan (Persian given name)">Rayan (Persian given name)</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ryan_(surname)&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-Reaney-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Reaney_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book">P. H. Reaney (1997). <i>A Dictionary of English Surnames</i>. Oxford University Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Dictionary+of+English+Surnames&amp;rft.pub=Oxford+University+Press&amp;rft.date=1997&amp;rft.au=P.+H.+Reaney&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHamilton+%28name%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+<li id="cite_note-American-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-American_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-American_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-American_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Hanks, Patrick (2003). <i>Dictionary of American Family Names</i>. <b>3</b>. Oxford University Press. p.&#160;242. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0195081374" title="Special:BookSources/0195081374"><bdi>0195081374</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Dictionary+of+American+Family+Names&amp;rft.pages=242&amp;rft.pub=Oxford+University+Press&amp;rft.date=2003&amp;rft.isbn=0195081374&amp;rft.aulast=Hanks&amp;rft.aufirst=Patrick&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyan+%28surname%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
 </li>
-<li id="cite_note-HH-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-HH_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-HH_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Patrick_Hanks" title="Patrick Hanks">Patrick Hanks</a>; Flavia Hodges (1988). <i>A Dictionary of Surnames</i>. Oxford University Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Dictionary+of+Surnames&amp;rft.pub=Oxford+University+Press&amp;rft.date=1988&amp;rft.au=Patrick+Hanks&amp;rft.au=Flavia+Hodges&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHamilton+%28name%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+<li id="cite_note-Grehan-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Grehan_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Grehan_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Grehan, Ida (1997). <i>The Dictionary of Irish Family Names</i>. Lanham, Maryland: Roberts Rinehart Publishers. p.&#160;299. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1568332246" title="Special:BookSources/1568332246"><bdi>1568332246</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Dictionary+of+Irish+Family+Names&amp;rft.place=Lanham%2C+Maryland&amp;rft.pages=299&amp;rft.pub=Roberts+Rinehart+Publishers&amp;rft.date=1997&amp;rft.isbn=1568332246&amp;rft.aulast=Grehan&amp;rft.aufirst=Ida&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyan+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-Cottle-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Cottle_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Cottle_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Cottle, Basil (1978). <i>The Penguin Dictionary of Surnames</i>. Penguin Books.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Penguin+Dictionary+of+Surnames&amp;rft.pub=Penguin+Books&amp;rft.date=1978&amp;rft.aulast=Cottle&amp;rft.aufirst=Basil&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHamilton+%28name%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+<li id="cite_note-MacLysaght-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-MacLysaght_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-MacLysaght_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">MacLysaght, Edward (1964). <i>A Guide to Irish Surnames</i>. Helicon. p.&#160;15.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Guide+to+Irish+Surnames&amp;rft.pages=15&amp;rft.pub=Helicon&amp;rft.date=1964&amp;rft.aulast=MacLysaght&amp;rft.aufirst=Edward&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyan+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-Dorward-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Dorward_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Dorward_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Dorward, David (1995). <i>Scottish Surnames</i>. Collins.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Scottish+Surnames&amp;rft.pub=Collins&amp;rft.date=1995&amp;rft.aulast=Dorward&amp;rft.aufirst=David&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHamilton+%28name%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+<li id="cite_note-SurnameDB-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-SurnameDB_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160820001800/http://www.surnamedb.com/Surname/ryan">"Ryan"</a>. <i>The Internet Surname Database</i>. Archived from <a rel="nofollow" class="external text" href="http://www.surnamedb.com/Surname/ryan">the original</a> on 20 August 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">3 November</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Internet+Surname+Database&amp;rft.atitle=Ryan&amp;rft_id=http%3A%2F%2Fwww.surnamedb.com%2FSurname%2Fryan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyan+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-Whyte-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Whyte_5-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Whyte, Donald (1996). <i>Scottish Surnames &amp; Families</i>. Birlinn.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Scottish+Surnames+%26+Families&amp;rft.pub=Birlinn&amp;rft.date=1996&amp;rft.aulast=Whyte&amp;rft.aufirst=Donald&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHamilton+%28name%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://edil.qub.ac.uk/35219">"rían"</a>. <i>eDIL - Irish Language Dictionary</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 November</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=eDIL+-+Irish+Language+Dictionary&amp;rft.atitle=r%C3%ADan&amp;rft_id=http%3A%2F%2Fedil.qub.ac.uk%2F35219&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyan+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-</ol></div>
-<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamilton_(name)&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Hamilton_(surname)" class="extiw" title="commons:Category:Hamilton (surname)">Hamilton (surname)</a> at Wikimedia Commons
-</p>
+<li id="cite_note-O&#39;Boyle-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-O&#39;Boyle_6-0">^</a></b></span> <span class="reference-text"><cite class="citation book">O'Boyle, Fragrance (2008). <i>Irish Baby Names</i>. United Kingdom: IBN Publishing. p.&#160;125. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0955805708" title="Special:BookSources/0955805708"><bdi>0955805708</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Irish+Baby+Names&amp;rft.place=United+Kingdom&amp;rft.pages=125&amp;rft.pub=IBN+Publishing&amp;rft.date=2008&amp;rft.isbn=0955805708&amp;rft.aulast=O%27Boyle&amp;rft.aufirst=Fragrance&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyan+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://edil.qub.ac.uk/35181">"rí"</a>. <i>eDIL - Irish Language Dictionary</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 November</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=eDIL+-+Irish+Language+Dictionary&amp;rft.atitle=r%C3%AD&amp;rft_id=http%3A%2F%2Fedil.qub.ac.uk%2F35181&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyan+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Smith-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Smith_8-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Smith, Elsdon C. (1969). <a rel="nofollow" class="external text" href="https://archive.org/details/americansurnames0000smit"><i>American Surnames</i></a>. Baltimore: Genealogical Publishing Company. p.&#160;88. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0806311509" title="Special:BookSources/0806311509"><bdi>0806311509</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=American+Surnames&amp;rft.place=Baltimore&amp;rft.pages=88&amp;rft.pub=Genealogical+Publishing+Company&amp;rft.date=1969&amp;rft.isbn=0806311509&amp;rft.aulast=Smith&amp;rft.aufirst=Elsdon+C.&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Famericansurnames0000smit&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyan+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Rosenkrantz-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rosenkrantz_9-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Rosenkrantz, Linda; Satran, Pamela Redmond (2002). <a rel="nofollow" class="external text" href="https://archive.org/details/babynamesnow00lind"><i>Baby Names Now: From Classic to Cool—The Very Last Word on First Names</i></a>. New York: St. Martin's Paperbacks. p.&#160;419. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0312983689" title="Special:BookSources/0312983689"><bdi>0312983689</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Baby+Names+Now%3A+From+Classic+to+Cool%E2%80%94The+Very+Last+Word+on+First+Names&amp;rft.place=New+York&amp;rft.pages=419&amp;rft.pub=St.+Martin%27s+Paperbacks&amp;rft.date=2002&amp;rft.isbn=0312983689&amp;rft.aulast=Rosenkrantz&amp;rft.aufirst=Linda&amp;rft.au=Satran%2C+Pamela+Redmond&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fbabynamesnow00lind&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyan+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Little-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Little_10-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Grehan, Ida (1997). <a rel="nofollow" class="external text" href="https://archive.org/details/littlebookofiris0000greh"><i>A little book of Irish family names</i></a>. San Francisco: Chronicle Books. p.&#160;56. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0811812863" title="Special:BookSources/0811812863"><bdi>0811812863</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+little+book+of+Irish+family+names&amp;rft.place=San+Francisco&amp;rft.pages=56&amp;rft.pub=Chronicle+Books&amp;rft.date=1997&amp;rft.isbn=0811812863&amp;rft.aulast=Grehan&amp;rft.aufirst=Ida&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Flittlebookofiris0000greh&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyan+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ryan_(surname)&amp;action=edit&amp;section=10" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite id="CITEREFLaffan1911" class="citation book">Laffan, Thomas (1911). <i>Tipperary Families&#160;: Being The Hearth Money Records for 1665-1667</i>. James Duffy &amp; Co.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Tipperary+Families+%3A+Being+The+Hearth+Money+Records+for+1665-1667&amp;rft.pub=James+Duffy+%26+Co&amp;rft.date=1911&amp;rft.aulast=Laffan&amp;rft.aufirst=Thomas&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyan+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ryan_(surname)&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://celtic2realms-medievalnews.blogspot.ie/2015/04/ui-drona-kingdom.html">"Uí Dróna Kingdom"</a> by Niall C. E. J. O'Brien, April 27, 2015, <i>Medieval News</i></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Laigin" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Laigin" title="Template:Laigin"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Laigin" title="Template talk:Laigin"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Laigin&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Laigin" style="font-size:114%;margin:0 4em"><a href="/wiki/Laigin" title="Laigin">Laigin</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Kindreds and septs</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Dál Niad Cuirp</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/U%C3%AD_M%C3%A1il" title="Uí Máil">Uí Máil</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>O'Tighe</li>
+<li><a href="/wiki/O%27Kelly" title="O&#39;Kelly">O'Kelly</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/U%C3%AD_D%C3%BAnlainge" title="Uí Dúnlainge">Uí Dúnlainge</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Fitzdermot</li>
+<li><a href="/wiki/O%27Toole_family" title="O&#39;Toole family">O'Toole</a></li>
+<li><a href="/wiki/O%27Byrne_family" title="O&#39;Byrne family">O'Byrne</a></li>
+<li><a href="/wiki/Cosgrave" title="Cosgrave">O'Cosgrave</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/U%C3%AD_Cheinnselaig" class="mw-redirect" title="Uí Cheinnselaig">Uí Cheinnselaig</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/MacMurrough_dynasty" class="mw-redirect" title="MacMurrough dynasty">MacMurrough Kavanagh</a></li>
+<li><a href="/wiki/Kinsella" title="Kinsella">Kinsella</a></li>
+<li><a href="/wiki/Kehoe" title="Kehoe">Kehoe</a></li>
+<li><a href="/wiki/Finneran" title="Finneran">O'Finneran</a></li>
+<li><a href="/wiki/Murphy" title="Murphy">O'Murphy</a></li>
+<li><a href="/wiki/O%27Garvey" class="mw-redirect" title="O&#39;Garvey">O'Garvey</a></li>
+<li><a href="/wiki/Hartley_(surname)" title="Hartley (surname)">O'Hartley</a></li>
+<li><a href="/wiki/O%27Ryan" title="O&#39;Ryan">O'Ryan</a></li>
+<li><a href="/wiki/Morrow_(surname)" title="Morrow (surname)">Morrow</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/U%C3%AD_Failghe" class="mw-redirect" title="Uí Failghe">Uí Failghe</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/O%27Connor_Faly" class="mw-redirect" title="O&#39;Connor Faly">O'Connor Faly</a></li>
+<li><a href="/wiki/O%27Dunne" class="mw-redirect" title="O&#39;Dunne">O'Dunne</a></li>
+<li><a href="/wiki/O%27Dempsey" class="mw-redirect" title="O&#39;Dempsey">O'Dempsey</a></li>
+<li><a href="/wiki/Kavanagh_(surname)" title="Kavanagh (surname)">Kavanagh</a></li>
+<li><a href="/wiki/Branagh" title="Branagh">Branagh</a></li>
+<li><a href="/wiki/Fitzpatrick_(surname)" title="Fitzpatrick (surname)">MacGilpatrick (Fitzpatrick)</a></li>
+<li><a href="/wiki/O%27Dwyer_(surname)" title="O&#39;Dwyer (surname)">O'Dwyer</a></li>
+<li><a href="/wiki/O%27Holohan" class="mw-redirect" title="O&#39;Holohan">O'Holohan</a></li>
+<li><a href="/wiki/O%27Hennessy" class="mw-redirect" title="O&#39;Hennessy">O'Hennessy</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/U%C3%AD_Bairrche" title="Uí Bairrche">Uí Bairrche</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/MacGorman" title="MacGorman">MacGorman</a></li>
+<li><a href="/wiki/Kearney_(disambiguation)" class="mw-redirect mw-disambig" title="Kearney (disambiguation)">Kearney</a></li>
+<li><a href="/wiki/Tracy_(name)" title="Tracy (name)">Tracy</a></li>
+<li><a href="/wiki/Hughes_(disambiguation)" class="mw-redirect mw-disambig" title="Hughes (disambiguation)">Hughes</a></li>
+<li><a href="/wiki/Mooney" title="Mooney">Mooney</a></li>
+<li><a href="/wiki/Carney_(surname)" title="Carney (surname)">Carney</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/U%C3%AD_Enechglaiss" title="Uí Enechglaiss">Uí Enechglaiss</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>O'Feary</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Uí Crimthainn Áin</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>O'Duff</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Dál Cairpre Arad</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>O'Kealy</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/D%C3%A1l_Messin_Corb" title="Dál Messin Corb">Dál Messin Corb</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/O%27Farrell" title="O&#39;Farrell">O'Farrell</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Personalities</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%C3%9Againe_M%C3%B3r" title="Úgaine Mór">Úgaine Mór</a></li>
+<li><a href="/wiki/L%C3%B3egaire_Lorc" title="Lóegaire Lorc">Lóegaire Lorc</a></li>
+<li><a href="/wiki/Labraid_Loingsech" title="Labraid Loingsech">Labraid Loingsech</a></li>
+<li><a href="/wiki/%C3%93engus_Ollom" title="Óengus Ollom">Óengus Ollom</a></li>
+<li><a href="/wiki/Fergus_Fortamail" title="Fergus Fortamail">Fergus Fortamail</a></li>
+<li><a href="/wiki/Crimthann_Coscrach" title="Crimthann Coscrach">Crimthann Coscrach</a></li>
+<li><a href="/wiki/Nuadu_Necht" title="Nuadu Necht">Nuadu Necht</a></li>
+<li><a href="/wiki/Cumhall" title="Cumhall">Cumhall</a></li>
+<li><a href="/wiki/Fionn_mac_Cumhaill" title="Fionn mac Cumhaill">Fionn mac Cumhaill</a></li>
+<li><a href="/wiki/Ois%C3%ADn" title="Oisín">Oisín</a></li>
+<li><a href="/wiki/Oscar_(Irish_mythology)" title="Oscar (Irish mythology)">Oscar</a></li>
+<li><a href="/wiki/Conchobar_Abradruad" title="Conchobar Abradruad">Conchobar Abradruad</a></li>
+<li><a href="/wiki/Cathair_M%C3%B3r" title="Cathair Mór">Cathair Mór</a></li>
+<li><a href="/wiki/%C3%89nnae_Cennsalach" title="Énnae Cennsalach">Énnae Cennsalach</a></li>
+<li><a href="/wiki/Crimthann_mac_%C3%89nnai" title="Crimthann mac Énnai">Crimthann mac Énnai</a></li>
+<li><a href="/wiki/%C3%81ed_mac_Colggen" title="Áed mac Colggen">Áed mac Colggen</a></li>
+<li><a href="/wiki/Augaire_mac_Ailella" title="Augaire mac Ailella">Augaire mac Ailella</a></li>
+<li><a href="/wiki/M%C3%A1el_M%C3%B3rda_mac_Murchada" title="Máel Mórda mac Murchada">Máel Mórda mac Murchada</a></li>
+<li><a href="/wiki/Diarmait_Mac_Murchada" title="Diarmait Mac Murchada">Diarmait Mac Murchada</a></li>
+<li><a href="/wiki/Fiach_McHugh_O%27Byrne" title="Fiach McHugh O&#39;Byrne">Fiach McHugh O'Byrne</a></li>
+<li><a href="/wiki/Art_%C3%93g_mac_Murchadha_Caomh%C3%A1nach" title="Art Óg mac Murchadha Caomhánach">Art Óg mac Murchadha Caomhánach</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Places</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Naas" title="Naas">Naas</a></li>
+<li><a href="/wiki/Mullaghmast" title="Mullaghmast">Mullaghmast</a></li>
+<li><a href="/wiki/Lyons_Hill" title="Lyons Hill">Lyons Hill</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Battles</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Battle_of_Confey" title="Battle of Confey">Confey</a></li>
+<li><a href="/wiki/Battle_of_Glenmama" title="Battle of Glenmama">Glenmama</a></li>
+<li><a href="/wiki/Battle_of_Clontarf" title="Battle of Clontarf">Clontarf</a></li>
+<li><a href="/wiki/Battle_of_M%C3%B3in_Mh%C3%B3r" title="Battle of Móin Mhór">Móin Mhór</a></li>
+<li><a href="/wiki/Battle_of_Ros-Mhic-Thri%C3%BAin" title="Battle of Ros-Mhic-Thriúin">Ros-Mhic-Thriúin</a></li>
+<li><a href="/wiki/Battle_of_Glenmalure" title="Battle of Glenmalure">Glenmalure</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related articles</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gaels" title="Gaels">Gaels</a></li>
+<li><a href="/wiki/Milesians_(Irish)" title="Milesians (Irish)">Milesians</a></li>
+<li><a href="/wiki/%C3%89rim%C3%B3n" title="Érimón">Heremonians</a></li>
+<li><a href="/wiki/Mythological_Cycle" title="Mythological Cycle">Mythological Cycle</a></li>
+<li><a href="/wiki/Dindsenchas" title="Dindsenchas">Dindsenchas</a></li>
+<li><a href="/wiki/Book_of_Leinster" title="Book of Leinster">Book of Leinster</a></li>
+<li><a href="/wiki/List_of_Kings_of_Leinster" class="mw-redirect" title="List of Kings of Leinster">List of Kings of Leinster</a></li>
+<li><a href="/wiki/Kingdom_of_Leinster" class="mw-redirect" title="Kingdom of Leinster">Kingdom of Leinster</a></li>
+<li><a href="/wiki/O%27Rahilly%27s_historical_model" title="O&#39;Rahilly&#39;s historical model">O'Rahilly's historical model</a></li>
+<li><a href="/wiki/Gaelic_nobility_of_Ireland" title="Gaelic nobility of Ireland">Gaelic nobility of Ireland</a></li>
+<li><i><a href="/wiki/Follow_Me_up_to_Carlow" title="Follow Me up to Carlow">Follow Me up to Carlow</a></i></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Gaels" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Gaels" title="Template:Gaels"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Gaels" title="Template talk:Gaels"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Gaels&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Gaels" style="font-size:114%;margin:0 4em"><a href="/wiki/Gaels" title="Gaels">Gaels</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">General history</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gaelic_Ireland" title="Gaelic Ireland">Gaelic Ireland</a></li>
+<li><a href="/wiki/High_King_of_Ireland" title="High King of Ireland">High King of Ireland</a></li>
+<li><a href="/wiki/List_of_Irish_kingdoms" title="List of Irish kingdoms">Irish kingdoms</a></li>
+<li><a href="/wiki/D%C3%A1l_Riata" title="Dál Riata">Dál Riata</a></li>
+<li><a href="/wiki/Kingdom_of_Alba" title="Kingdom of Alba">Alba</a></li>
+<li><a href="/wiki/Nine_Years%27_War_(Ireland)" title="Nine Years&#39; War (Ireland)">Nine Years' War</a></li>
+<li><a href="/wiki/Statutes_of_Iona" title="Statutes of Iona">Statutes of Iona</a></li>
+<li><a href="/wiki/Flight_of_the_Earls" title="Flight of the Earls">Flight of the Earls</a></li>
+<li><a href="/wiki/Plantation_of_Ulster" title="Plantation of Ulster">Plantation of Ulster</a></li>
+<li><a href="/wiki/Irish_Rebellion_of_1641" title="Irish Rebellion of 1641">1641 Rebellion</a></li>
+<li><a href="/wiki/Act_for_the_Settlement_of_Ireland_1652" title="Act for the Settlement of Ireland 1652">Act for the Settlement of Ireland 1652</a></li>
+<li><a href="/wiki/Jacobite_risings" title="Jacobite risings">Jacobite risings</a></li>
+<li><a href="/wiki/Jacobite_rising_of_1745" title="Jacobite rising of 1745">Bliadhna Theàrlaich</a></li>
+<li><a href="/wiki/Penal_Laws_(Ireland)" class="mw-redirect" title="Penal Laws (Ireland)">Penal Laws</a></li>
+<li><a href="/wiki/Great_Famine_(Ireland)" title="Great Famine (Ireland)">Great Hunger</a></li>
+<li><a href="/wiki/Irish_diaspora" title="Irish diaspora">Irish diaspora</a></li>
+<li><a href="/wiki/Highland_Clearances" title="Highland Clearances">Highland Clearances</a></li>
+<li><a href="/wiki/Gaelic_revival" title="Gaelic revival">Gaelic Revival</a></li>
+<li><a href="/wiki/Gaeltacht" title="Gaeltacht">Gaeltacht</a></li>
+<li><a href="/wiki/G%C3%A0idhealtachd" title="Gàidhealtachd">Gàidhealtachd</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Gaelic culture</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ogham" title="Ogham">Ogham</a></li>
+<li><a href="/wiki/Early_Irish_law" title="Early Irish law">Brehon law</a></li>
+<li><a href="/wiki/Irish_mythology" title="Irish mythology">Gaelic mythology</a></li>
+<li><i><a href="/wiki/Lebor_Gab%C3%A1la_%C3%89renn" title="Lebor Gabála Érenn">Lebor Gabála Érenn</a></i></li>
+<li><a href="/wiki/Gaelic_warfare" title="Gaelic warfare">Gaelic warfare</a></li>
+<li><a href="/wiki/Early_Irish_astrology" title="Early Irish astrology">Gaelic astrology</a></li>
+<li><a href="/wiki/Irish_kinship" title="Irish kinship">Gaelic kinship</a></li>
+<li><a href="/wiki/Irish_bardic_poetry" title="Irish bardic poetry">Bardic poetry</a></li>
+<li><a href="/wiki/Gaelic_literature" title="Gaelic literature">Gaelic literature</a> (<a href="/wiki/Early_Irish_literature" title="Early Irish literature">Early Irish</a>, <a href="/wiki/Modern_literature_in_Irish" title="Modern literature in Irish">Modern Irish</a>, <a href="/wiki/Scottish_Gaelic_literature" title="Scottish Gaelic literature">Scottish Gaelic</a> &amp; <a href="/wiki/Manx_literature" title="Manx literature">Manx</a>)</li>
+<li><a href="/wiki/Gaelic_type" title="Gaelic type">Gaelic type</a></li>
+<li><a href="/wiki/Insular_script" title="Insular script">Insular script</a></li>
+<li><a href="/wiki/F%C3%A1inne" title="Fáinne">Fáinne</a></li>
+<li><a href="/wiki/Traditional_Gaelic_music" title="Traditional Gaelic music">Gaelic music</a></li>
+<li><a href="/wiki/Sean-n%C3%B3s_song" title="Sean-nós song">Sean-nós song</a></li>
+<li><a href="/wiki/Oireachtas_na_Gaeilge" title="Oireachtas na Gaeilge">Oireachtas na Gaeilge</a></li>
+<li><a href="/wiki/Royal_National_M%C3%B2d" title="Royal National Mòd">Am Mòd</a></li>
+<li><a href="/wiki/Gaelic_games" title="Gaelic games">Gaelic games</a></li>
+<li><a href="/wiki/Highland_games" title="Highland games">Highland games</a></li>
+<li><a href="/wiki/Celtic_Christianity" title="Celtic Christianity">Insular Christianity</a></li>
+<li><a href="/wiki/Hiberno-Scottish_mission" title="Hiberno-Scottish mission">Gaelic Christian mission</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Goidelic_languages" title="Goidelic languages">Language</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Primitive_Irish" title="Primitive Irish">Primitive Irish</a></i></li>
+<li><i><a href="/wiki/Old_Irish" title="Old Irish">Old Irish</a></i></li>
+<li><i><a href="/wiki/Middle_Irish" title="Middle Irish">Middle Irish</a></i></li>
+<li><i><a href="/wiki/Classical_Gaelic" title="Classical Gaelic">Classical Gaelic</a></i></li>
+<li><a href="/wiki/Irish_language" title="Irish language">Irish</a></li>
+<li><a href="/wiki/Manx_language" title="Manx language">Manx</a></li>
+<li><a href="/wiki/Scottish_Gaelic" title="Scottish Gaelic">Scottish Gaelic</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Irish_clans" title="List of Irish clans">Major tribes<br />or clans</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Connachta" title="Connachta">Connachta</a> (incl. <a href="/wiki/U%C3%AD_N%C3%A9ill" title="Uí Néill">Uí Néill</a>, <a href="/wiki/Airg%C3%ADalla" title="Airgíalla">Clan Colla</a>, <a href="/wiki/Clan_Donald" title="Clan Donald">Clan Donald</a>, <a href="/wiki/U%C3%AD_Maine" title="Uí Maine">Uí Maine</a>, etc)</li>
+<li><a href="/wiki/D%C3%A1l_gCais" class="mw-redirect" title="Dál gCais">Dál gCais</a> (incl. <a href="/wiki/D%C3%A9isi" title="Déisi">Déisi</a>)</li>
+<li><a href="/wiki/E%C3%B3ganachta" title="Eóganachta">Eóganachta</a></li>
+<li><a href="/wiki/Iverni" title="Iverni">Érainn</a> (incl. <a href="/wiki/D%C3%A1l_Riata" title="Dál Riata">Dál Riata</a>, <a href="/wiki/Corcu_Lo%C3%ADgde" title="Corcu Loígde">Corcu Loígde</a>, <a href="/wiki/Clan_Conla" class="mw-redirect" title="Clan Conla">Clan Conla</a>, <a href="/wiki/D%C3%A1l_Fiatach" title="Dál Fiatach">Dál Fiatach</a>, etc)</li>
+<li><a href="/wiki/Laigin" title="Laigin">Laigin</a></li>
+<li><a href="/wiki/Ulaid" title="Ulaid">Ulaid</a> (incl. <a href="/wiki/D%C3%A1l_nAraidi" title="Dál nAraidi">Dál nAraidi</a>, <a href="/wiki/Conmha%C3%ADcne" title="Conmhaícne">Conmhaícne</a>, <a href="/wiki/Ciarraige" title="Ciarraige">Ciarraige</a>, etc)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related<br />organisations</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%C3%9Adar%C3%A1s_na_Gaeltachta" title="Údarás na Gaeltachta">Údarás na Gaeltachta</a></li>
+<li><a href="/wiki/Foras_na_Gaeilge" title="Foras na Gaeilge">Foras na Gaeilge</a></li>
+<li><a href="/wiki/B%C3%B2rd_na_G%C3%A0idhlig" title="Bòrd na Gàidhlig">Bòrd na Gàidhlig</a></li>
+<li><a href="/wiki/Culture_Vannin" title="Culture Vannin">Culture Vannin</a></li>
+<li><a href="/wiki/Conradh_na_Gaeilge" title="Conradh na Gaeilge">Conradh na Gaeilge</a></li>
+<li><a href="/wiki/An_Comunn_G%C3%A0idhealach" title="An Comunn Gàidhealach">An Comunn Gàidhealach</a></li>
+<li><a href="/wiki/Manx_Gaelic_Society" title="Manx Gaelic Society">Manx Gaelic Society</a></li>
+<li><a href="/wiki/Seachtain_na_Gaeilge" title="Seachtain na Gaeilge">Seachtain na Gaeilge</a></li>
+<li><a href="/wiki/Gael_Linn" title="Gael Linn">Gael Linn</a></li>
+<li><a href="/wiki/ULTACH_Trust" title="ULTACH Trust">ULTACH Trust</a></li>
+<li><a href="/wiki/Comunn_na_G%C3%A0idhlig" title="Comunn na Gàidhlig">Comunn na Gàidhlig</a></li>
+<li><a href="/wiki/Columba_Project" title="Columba Project">Columba Project</a></li>
+<li><a href="/wiki/Clans_of_Ireland" title="Clans of Ireland">Clans of Ireland</a></li>
+<li><a href="/wiki/An_Coimisin%C3%A9ir_Teanga" title="An Coimisinéir Teanga">An Coimisinéir Teanga</a></li>
+<li><a href="/wiki/An_Comunn_G%C3%A0idhealach_America" title="An Comunn Gàidhealach America">An Comunn Gàidhealach America</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related subjects</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Haplogroup_R-M269" title="Haplogroup R-M269">Haplogroup R-M269</a> (<a href="/wiki/Genetic_history_of_the_British_Isles" title="Genetic history of the British Isles">human genetics</a>)</li>
+<li><a href="/wiki/Celts" title="Celts">Celts</a></li>
+<li><a href="/wiki/Norse%E2%80%93Gaels" title="Norse–Gaels">Norse–Gaels</a> (incl. <a href="/wiki/U%C3%AD_%C3%8Dmair" title="Uí Ímair">Uí Ímair</a> and <a href="/wiki/Clan_MacLeod" title="Clan MacLeod">Clan MacLeod</a>)</li>
+<li><a href="/wiki/Kingdom_of_the_Isles" title="Kingdom of the Isles">Kingdom of the Isles</a></li>
+<li><a href="/wiki/Gaelicisation" title="Gaelicisation">Gaelicisation</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Gaels" title="Category:Gaels">Category</a></li></ul>
+</div></td></tr></tbody></table></div>
 <style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
 <table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
 <tbody><tr>
 <td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
-<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Hamilton</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Hamilton_(name)&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Ryan</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Ryan_(surname)&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
 </tr>
 </tbody></table>
 <!-- 
 NewPP limit report
-Parsed by mw1348
-Cached time: 20191022173348
+Parsed by mw1346
+Cached time: 20191026222754
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.276 seconds
-Real time usage: 0.384 seconds
-Preprocessor visited node count: 980/1000000
+CPU time usage: 0.288 seconds
+Real time usage: 0.378 seconds
+Preprocessor visited node count: 1001/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 15581/2097152 bytes
-Template argument size: 976/2097152 bytes
-Highest expansion depth: 9/40
-Expensive parser function count: 3/500
+Post‐expand include size: 66939/2097152 bytes
+Template argument size: 798/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 1/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 13821/5000000 bytes
+Unstrip post‐expand size: 31680/5000000 bytes
 Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.104/10.000 seconds
-Lua memory usage: 3.54 MB/50 MB
+Lua time usage: 0.129/10.000 seconds
+Lua memory usage: 3.05 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  269.603      1 -total
- 34.13%   92.027      5 Template:Cite_book
- 15.67%   42.243      1 Template:Cleanup_rewrite
- 15.37%   41.441      1 Template:Surname
- 14.72%   39.673      1 Template:Commons_category_inline
- 14.00%   37.734      2 Template:Ambox
- 11.40%   30.724      1 Template:Dmbox
-  9.69%   26.137      1 Template:For
-  5.58%   15.051      1 Template:Short_description
-  4.64%   12.506      1 Template:Pagetype
+100.00%  264.529      1 -total
+ 55.84%  147.711      1 Template:Reflist
+ 42.68%  112.905      8 Template:Cite_book
+ 24.82%   65.663      1 Template:Surname
+ 21.21%   56.119      1 Template:Dmbox
+ 17.19%   45.485      4 Template:Navbox
+  9.98%   26.411      1 Template:Laigin
+  9.33%   24.691      1 Template:Short_description
+  7.94%   21.009      1 Template:Pagetype
+  7.85%   20.777      1 Template:Category_handler
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:14395074-0!canonical and timestamp 20191022173420 and revision id 922524505
+<!-- Saved in parser cache with key enwiki:pcache:idhash:12629319-0!canonical and timestamp 20191026222753 and revision id 918022501
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Hamilton_(name)&amp;oldid=922524505">https://en.wikipedia.org/w/index.php?title=Hamilton_(name)&amp;oldid=922524505</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ryan_(surname)&amp;oldid=918022501">https://en.wikipedia.org/w/index.php?title=Ryan_(surname)&amp;oldid=918022501</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:Scottish_families" title="Category:Scottish families">Scottish families</a></li><li><a href="/wiki/Category:Scottish-language_surnames" title="Category:Scottish-language surnames">Scottish-language surnames</a></li><li><a href="/wiki/Category:Surnames_of_Lowland_Scottish_origin" title="Category:Surnames of Lowland Scottish origin">Surnames of Lowland Scottish origin</a></li><li><a href="/wiki/Category:Surnames_of_Ulster-Scottish_origin" title="Category:Surnames of Ulster-Scottish origin">Surnames of Ulster-Scottish origin</a></li><li><a href="/wiki/Category:Given_names" title="Category:Given names">Given names</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_needing_rewrite_from_February_2018" title="Category:Wikipedia articles needing rewrite from February 2018">Wikipedia articles needing rewrite from February 2018</a></li><li><a href="/wiki/Category:All_articles_needing_rewrite" title="Category:All articles needing rewrite">All articles needing rewrite</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_style_issues_from_October_2015" title="Category:Wikipedia articles with style issues from October 2015">Wikipedia articles with style issues from October 2015</a></li><li><a href="/wiki/Category:All_articles_with_style_issues" title="Category:All articles with style issues">All articles with style issues</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:Anglicised_Irish-language_surnames" title="Category:Anglicised Irish-language surnames">Anglicised Irish-language surnames</a></li><li><a href="/wiki/Category:English-language_surnames" title="Category:English-language surnames">English-language surnames</a></li><li><a href="/wiki/Category:Surnames_of_Irish_origin" title="Category:Surnames of Irish origin">Surnames of Irish origin</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -503,13 +478,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Hamilton+%28name%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hamilton+%28name%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ryan+%28surname%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ryan+%28surname%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Hamilton_(name)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Hamilton_(name)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Ryan_(surname)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Ryan_(surname)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -524,7 +499,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Hamilton_(name)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Hamilton_(name)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Hamilton_(name)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Ryan_(surname)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Ryan_(surname)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ryan_(surname)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -563,35 +538,35 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Hamilton_(name)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Hamilton_(name)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Hamilton_(name)&amp;oldid=922524505" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Hamilton_(name)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q21450552" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Hamilton_%28name%29&amp;id=922524505" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ryan_(surname)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ryan_(surname)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ryan_(surname)&amp;oldid=918022501" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ryan_(surname)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5263823" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ryan_%28surname%29&amp;id=918022501" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
 			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
 			<div class="body">
 								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Hamilton_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Ryan_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Hamilton+%28name%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Hamilton+%28name%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Hamilton_(name)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ryan+%28surname%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Ryan+%28surname%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ryan_(surname)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Hamilton_(anv-tud)" title="Hamilton (anv-tud) – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Hamilton_(p%C5%99%C3%ADjmen%C3%AD)" title="Hamilton (příjmení) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Hamilton_(Familienname)" title="Hamilton (Familienname) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Hamilton_(apellido)" title="Hamilton (apellido) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Hamilton_(cognome)" title="Hamilton (cognome) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Hamilton_(name)" title="Hamilton (name) – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Hamilton_(priimek)" title="Hamilton (priimek) – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%93%D0%B0%D0%BC%D1%96%D0%BB%D1%8C%D1%82%D0%BE%D0%BD_(%D1%96%D0%BC%27%D1%8F)" title="Гамільтон (ім&#039;я) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q21450552#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Ryan_(s%C3%A8%E2%81%BF)" title="Ryan (sèⁿ) – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Ryan_(p%C5%99%C3%ADjmen%C3%AD)" title="Ryan (příjmení) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Ryan_(Familienname)" title="Ryan (Familienname) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Ryan" title="Ryan – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Ryan" title="Ryan – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3" title="ライアン – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5263823#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 22 October 2019, at 17:34<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 26 September 2019, at 16:46<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -602,7 +577,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Hamilton_(name)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ryan_(surname)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -614,8 +589,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.276","walltime":"0.384","ppvisitednodes":{"value":980,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":15581,"limit":2097152},"templateargumentsize":{"value":976,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":13821,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  269.603      1 -total"," 34.13%   92.027      5 Template:Cite_book"," 15.67%   42.243      1 Template:Cleanup_rewrite"," 15.37%   41.441      1 Template:Surname"," 14.72%   39.673      1 Template:Commons_category_inline"," 14.00%   37.734      2 Template:Ambox"," 11.40%   30.724      1 Template:Dmbox","  9.69%   26.137      1 Template:For","  5.58%   15.051      1 Template:Short_description","  4.64%   12.506      1 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.104","limit":"10.000"},"limitreport-memusage":{"value":3713789,"limit":52428800}},"cachereport":{"origin":"mw1348","timestamp":"20191022173348","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Hamilton (name)","url":"https:\/\/en.wikipedia.org\/wiki\/Hamilton_(name)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q21450552","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q21450552","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-11-24T10:43:12Z","dateModified":"2019-10-22T17:34:20Z","headline":"family name"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw1265"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.288","walltime":"0.378","ppvisitednodes":{"value":1001,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":66939,"limit":2097152},"templateargumentsize":{"value":798,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":31680,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  264.529      1 -total"," 55.84%  147.711      1 Template:Reflist"," 42.68%  112.905      8 Template:Cite_book"," 24.82%   65.663      1 Template:Surname"," 21.21%   56.119      1 Template:Dmbox"," 17.19%   45.485      4 Template:Navbox","  9.98%   26.411      1 Template:Laigin","  9.33%   24.691      1 Template:Short_description","  7.94%   21.009      1 Template:Pagetype","  7.85%   20.777      1 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.129","limit":"10.000"},"limitreport-memusage":{"value":3194199,"limit":52428800}},"cachereport":{"origin":"mw1346","timestamp":"20191026222754","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Ryan (surname)","url":"https:\/\/en.wikipedia.org\/wiki\/Ryan_(surname)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5263823","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5263823","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-08-05T16:18:37Z","dateModified":"2019-09-26T16:46:08Z","headline":"family name"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":105,"wgHostname":"mw1267"});});</script>
 </body>
 </html>

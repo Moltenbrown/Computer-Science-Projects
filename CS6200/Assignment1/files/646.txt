@@ -2,35 +2,35 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>French name - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"French_name","wgTitle":"French name","wgCurRevisionId":916850698,"wgRevisionId":916850698,"wgArticleId":2682894,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with French-language external links","CS1 French-language sources (fr)","Articles with short description","Articles needing additional references from December 2017","All articles needing additional references","Articles needing additional references from November 2012","All articles with unsourced statements","Articles with unsourced statements from January 2016","Articles with unsourced statements from December 2015","All accuracy disputes","Articles with disputed statements from December 2013","Articles containing French-language text",
-"Articles with unsourced statements from August 2018","CS1: long volume value","French given names","French-language surnames","Names by culture"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"French_name","wgRelevantArticleId":2682894,"wgRequestId":"XaxyPApAICAAACS@KjIAAACG","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr"
-,"pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q3342922","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements",
-"ext.cite.tracking","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Theophoric name - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Theophoric_name","wgTitle":"Theophoric name","wgCurRevisionId":919992851,"wgRevisionId":919992851,"wgArticleId":1242447,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Ancient Greek-language text","Webarchive template wayback links","Articles that may contain original research from December 2010","All articles that may contain original research","Articles with too many examples from February 2010","All articles with too many examples","Wikipedia articles with style issues from February 2010","Articles with multiple maintenance issues","All articles with unsourced statements","Articles with unsourced statements from November 2010","Theophoric names","Given name types","Greek words and phrases","Names","Onomastics","Religious behaviour and experience"],
+"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Theophoric_name","wgRelevantArticleId":1242447,"wgRequestId":"XbYtCgpAMFQAACLgDrMAAADF","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},
+"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1501358","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest",
+"ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.1"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/French_name"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=French_name&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=French_name&amp;action=edit"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Theophoric_name"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Theophoric_name&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Theophoric_name&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/French_name"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Theophoric_name"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-French_name rootpage-French_name skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Theophoric_name rootpage-Theophoric_name skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -39,7 +39,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">French name</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Theophoric name</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -50,281 +50,436 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Conventions for using people's names in France</div>
-<table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=French_name&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22French+name%22">"French name"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22French+name%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22French+name%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22French+name%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22French+name%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22French+name%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">December 2017</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
-<p>This article describes the conventions for using people's <b>names in <a href="/wiki/France" title="France">France</a></b>, including the norms of custom and practice, as well as the legal aspects.
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-Multiple_issues plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span"><div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Theophoric_name&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Theophoric_name" title="Talk:Theophoric name">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+      <table class="box-Original_research plainlinks metadata ambox ambox-content ambox-Original_research" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>possibly contains <a href="/wiki/Wikipedia:No_original_research" title="Wikipedia:No original research">original research</a></b>.<span class="hide-when-compact"> Please <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Theophoric_name&amp;action=edit">improve it</a> by <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verifying</a> the claims made and adding <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a>. Statements consisting only of original research should be removed.</span>  <small class="date-container"><i>(<span class="date">December 2010</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="box-Example_farm plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>may contain <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_an_indiscriminate_collection_of_information" title="Wikipedia:What Wikipedia is not">indiscriminate</a>, <a href="/wiki/Wikipedia:Manual_of_Style/Embedded_lists#List_size" class="mw-redirect" title="Wikipedia:Manual of Style/Embedded lists">excessive</a>, or <a href="/wiki/Wikipedia:Neutral_point_of_view#Due_and_undue_weight" title="Wikipedia:Neutral point of view">irrelevant</a> examples</b>.<span class="hide-when-compact"> Please <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Theophoric_name&amp;action=edit">improve the article</a> by adding more descriptive text and removing <a href="/wiki/Wikipedia:Example_cruft" title="Wikipedia:Example cruft">less pertinent examples</a>. See Wikipedia's <a href="/wiki/Wikipedia:Writing_better_articles" title="Wikipedia:Writing better articles">guide to writing better articles</a> for further suggestions.</span>  <small class="date-container"><i>(<span class="date">February 2010</span>)</i></small></div></td></tr></tbody></table>
+    </div>
+</div><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>A <b>theophoric name</b> (from <a href="/wiki/Greek_language" title="Greek language">Greek</a>: <span lang="grc" title="Ancient Greek language text">θεόφορος</span>, <i>theophoros</i>, literally "bearing or carrying a god")<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> embeds the name of a god, both invoking and displaying the protection of that deity. For example, names embedding <a href="/wiki/Apollo" title="Apollo">Apollo</a>, such as <i>Apollonios</i> or <i>Apollodorus</i>, existed in Greek antiquity.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>Theophoric personal names, containing the name of a god in whose care the individual is entrusted (or a generic word for <i>god</i>), were also exceedingly common in the <a href="/wiki/Ancient_Near_East" title="Ancient Near East">ancient Near East</a> and <a href="/wiki/Mesopotamia" title="Mesopotamia">Mesopotamia</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>  Some names of theophoric origin remain common today, such as <a href="/wiki/Theodore_(given_name)" class="mw-redirect" title="Theodore (given name)">Theodore</a> (<i>theo-</i>, "god"; <i>-dore</i>, origin of word compound in Greek: <i>doron</i>, "gift"; hence "God's gift"; in Greek: <i>Theodoros</i>) or less recognisably as <a href="/wiki/Jonathan_(name)" title="Jonathan (name)">Jonathan</a> (from <a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a> <i>Yonatan/Yehonatan</i>, meaning "Yahweh has given").
 </p>
 <div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Styles_and_forms_of_address"><span class="tocnumber">1</span> <span class="toctext">Styles and forms of address</span></a>
+<li class="toclevel-1 tocsection-1"><a href="#Classical_theophoric_names"><span class="tocnumber">1</span> <span class="toctext">Classical theophoric names</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Christian_theophoric_names"><span class="tocnumber">2</span> <span class="toctext">Christian theophoric names</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Germanic_theophoric_names"><span class="tocnumber">3</span> <span class="toctext">Germanic theophoric names</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Hinduism"><span class="tocnumber">4</span> <span class="toctext">Hinduism</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Islam"><span class="tocnumber">5</span> <span class="toctext">Islam</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Judaism_and_biblical"><span class="tocnumber">6</span> <span class="toctext">Judaism and biblical</span></a>
 <ul>
-<li class="toclevel-2 tocsection-2"><a href="#Madame,_Mademoiselle,_Monsieur"><span class="tocnumber">1.1</span> <span class="toctext">Madame, Mademoiselle, Monsieur</span></a></li>
-<li class="toclevel-2 tocsection-3"><a href="#Military"><span class="tocnumber">1.2</span> <span class="toctext">Military</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#El"><span class="tocnumber">6.1</span> <span class="toctext">El</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Yahweh"><span class="tocnumber">6.2</span> <span class="toctext">Yahweh</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Referring_to_other_gods"><span class="tocnumber">6.3</span> <span class="toctext">Referring to other gods</span></a></li>
 </ul>
 </li>
-<li class="toclevel-1 tocsection-4"><a href="#Given_names"><span class="tocnumber">2</span> <span class="toctext">Given names</span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="#Family_names"><span class="tocnumber">3</span> <span class="toctext">Family names</span></a>
-<ul>
-<li class="toclevel-2 tocsection-6"><a href="#Most_common_family_names"><span class="tocnumber">3.1</span> <span class="toctext">Most common family names</span></a></li>
-<li class="toclevel-2 tocsection-7"><a href="#Particles"><span class="tocnumber">3.2</span> <span class="toctext">Particles</span></a></li>
-<li class="toclevel-2 tocsection-8"><a href="#Changes_of_names"><span class="tocnumber">3.3</span> <span class="toctext">Changes of names</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
-<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
 </ul>
 </div>
 
-<h2><span class="mw-headline" id="Styles_and_forms_of_address">Styles and forms of address</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=French_name&amp;action=edit&amp;section=1" title="Edit section: Styles and forms of address">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<table class="box-Unreferenced_section plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=French_name&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span>  <small class="date-container"><i>(<span class="date">November 2012</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
-<h3><span id="Madame.2C_Mademoiselle.2C_Monsieur"></span><span class="mw-headline" id="Madame,_Mademoiselle,_Monsieur">Madame, Mademoiselle, Monsieur</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=French_name&amp;action=edit&amp;section=2" title="Edit section: Madame, Mademoiselle, Monsieur">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>In normal polite usage, a person's name is usually preceded by:
+<h2><span class="mw-headline" id="Classical_theophoric_names">Classical theophoric names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Theophoric_name&amp;action=edit&amp;section=1" title="Edit section: Classical theophoric names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Demetrius" title="Demetrius">Demetrius</a> and its derivatives mean "follower of <a href="/wiki/Demeter" title="Demeter">Demeter</a>."</li>
+<li><a href="/wiki/Dennis" title="Dennis">Dennis</a>, in Latin <i>Dionysius</i>, and its relatives mean "of <a href="/wiki/Dionysus" title="Dionysus">Dionysus</a>."</li>
+<li><a href="/wiki/Martin_(name)" title="Martin (name)">Martin</a> and its relatives mean "of <a href="/wiki/Mars_(mythology)" title="Mars (mythology)">Mars</a>."</li>
+<li><a href="/wiki/Zeno_(disambiguation)" class="mw-redirect mw-disambig" title="Zeno (disambiguation)">Zeno</a> and Diodoros or Diodorus from <a href="/wiki/Zeus" title="Zeus">Zeus</a> (genitive of Zeus is 'dios'); Poseidonios from <a href="/wiki/Poseidon" title="Poseidon">Poseidon</a>; Athenodoros/Athenodora from <a href="/wiki/Athena" title="Athena">Athena</a> and Minervina from <a href="/wiki/Minerva" title="Minerva">Minerva</a>; Apollodoros/Apollodora and Apollonios from <a href="/wiki/Apollo" title="Apollo">Apollon</a>; Artemisia and Artemidoros/Artemidora from <a href="/wiki/Artemis" title="Artemis">Artemis</a>; Aphrodesia from <a href="/wiki/Aphrodite" title="Aphrodite">Aphrodite</a>; Hephaistion from <a href="/wiki/Hephaistos" class="mw-redirect" title="Hephaistos">Hephaistos</a>; Aria from <a href="/wiki/Ares" title="Ares">Ares</a>; Hermione from <a href="/wiki/Hermes" title="Hermes">Hermes</a>; Heliodoros/a from <a href="/wiki/Helios" title="Helios">Helios</a>; Fortunatus from <a href="/wiki/Fortuna" title="Fortuna">Fortuna</a>; Serapion from <a href="/wiki/Serapis" title="Serapis">Serapis</a> and Isidoros or Isidora from <a href="/wiki/Isis" title="Isis">Isis</a>.</li>
+<li>Certain names of classical gods are sometimes given as personal names. The most common is <a href="/wiki/Diana_(given_name)" class="mw-redirect" title="Diana (given name)">Diana</a> and its variants, such as <a href="/wiki/Diane_(given_name)" title="Diane (given name)">Diane</a>; others include <a href="/wiki/Minerva_(mythology)" class="mw-redirect" title="Minerva (mythology)">Minerva</a>, <a href="/wiki/Aphrodite" title="Aphrodite">Aphrodite</a>, <a href="/wiki/Venus_(mythology)" title="Venus (mythology)">Venus</a>, <a href="/wiki/Isis" title="Isis">Isis</a>, or <a href="/wiki/Juno_(mythology)" title="Juno (mythology)">Juno</a>. The first <a href="/wiki/Pope" title="Pope">pope</a> to take a <a href="/wiki/Regnal_name" title="Regnal name">regnal name</a>, <a href="/wiki/Pope_John_II" title="Pope John II">Pope John II</a>, had the given name <a href="/wiki/Mercury_(god)" class="mw-redirect" title="Mercury (god)">Mercurius</a> and changed his name as he considered it inappropriate for the Pope to have the name of a pagan deity.</li></ul>
+<h2><span class="mw-headline" id="Christian_theophoric_names">Christian theophoric names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Theophoric_name&amp;action=edit&amp;section=2" title="Edit section: Christian theophoric names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Amadeus_(name)" title="Amadeus (name)">Amadeus</a>: (Latin) "lover of God"</li>
+<li><a href="/wiki/Bogdan" title="Bogdan">Bogdan</a>: (Slavic) "Godgiven"</li>
+<li><a href="/wiki/Bogomil_(name)" title="Bogomil (name)">Bogomil</a>: (Slavic) "dear to God"</li>
+<li><a href="/wiki/Bozhidar" title="Bozhidar">Bozhidar</a>: (Slavic) "gift of God"</li>
+<li><a href="/wiki/Christian_(given_name)" title="Christian (given name)">Christian</a>: (Greek) "believer in Christ"</li>
+<li><a href="/wiki/Christopher_(name)" class="mw-redirect" title="Christopher (name)">Christopher</a>: (Greek) "Christ-bearer".</li>
+<li><a href="/wiki/Deusdedit_(disambiguation)" class="mw-redirect mw-disambig" title="Deusdedit (disambiguation)">Deodatus/Deusdedit</a>: (Latin) "God-given"</li>
+<li>Dorotheus/<a href="/wiki/Dorothea" title="Dorothea">Dorothea</a>: (Greek) "gift to God"</li>
+<li><a href="/wiki/Furchgott" title="Furchgott">Fürchtgott</a>: (Germanic) "God-fearing"</li>
+<li><a href="/wiki/Gottfried" title="Gottfried">Gottfried</a>: (Germanic) "God's protection"</li>
+<li><a href="/wiki/Gottlieb_(name)" title="Gottlieb (name)">Gottlieb</a>: (Germanic) "God's love"</li>
+<li>Philothea/<a href="/wiki/Philothei" title="Philothei">Philothei</a>/<a href="/wiki/Philotheos_(disambiguation)" class="mw-redirect mw-disambig" title="Philotheos (disambiguation)">Philotheos</a>: (Greek) "lover of God"</li>
+<li><a href="/wiki/Shenouda_(disambiguation)" class="mw-redirect mw-disambig" title="Shenouda (disambiguation)">Shenouda</a>: (Coptic) "son of God"</li>
+<li><a href="/wiki/Theodore_(name)" title="Theodore (name)">Theodore</a>/<a href="/wiki/Theodora_(given_name)" title="Theodora (given name)">Theodora</a>: (Greek) "gift of God"</li>
+<li><a href="/wiki/Theodosius_(disambiguation)" class="mw-redirect" title="Theodosius (disambiguation)">Theodosius</a>/<a href="/wiki/Theodosia_(disambiguation)" class="mw-redirect mw-disambig" title="Theodosia (disambiguation)">Theodosia</a>, Theodotos/Theodotē and <a href="/wiki/Dositheus_(disambiguation)" class="mw-redirect mw-disambig" title="Dositheus (disambiguation)">Dositheus</a>/Dosithea: (Greek) "God-given"</li>
+<li>Theodotus: (Greek): "given by God"</li>
+<li><a href="/wiki/Theophilus_(disambiguation)" class="mw-disambig" title="Theophilus (disambiguation)">Theophilus</a>: (Greek) "one who loves God"</li>
+<li><a href="/wiki/Theognis" class="mw-redirect" title="Theognis">Theognis</a>: (Greek) "God-knowing"</li>
+<li><a href="/wiki/Theophanes_(disambiguation)" class="mw-redirect mw-disambig" title="Theophanes (disambiguation)">Theophanes</a>: (Greek) "manifestation of God"</li>
+<li><a href="/wiki/Theophrastus" title="Theophrastus">Theophrastus</a>: (Greek) "godly speech"</li>
+<li><a href="/wiki/Theaetetus_(disambiguation)" class="mw-redirect mw-disambig" title="Theaetetus (disambiguation)">Theaetetus</a>: (Greek) "one who pleads to God"</li>
+<li>Timothy/<a href="/wiki/Timotheus_(disambiguation)" class="mw-redirect mw-disambig" title="Timotheus (disambiguation)">Timotheus</a>: (Greek) "one who honors God"</li></ul>
+<p>Some Christian saints have polytheistic theophoric names (such as <a href="/wiki/Saint_Dionysius" class="mw-redirect" title="Saint Dionysius">Saint Dionysius</a>, <a href="/wiki/Saint_Mercurius" title="Saint Mercurius">Saint Mercurius</a>, <a href="/wiki/Saint_Saturninus_(disambiguation)" class="mw-redirect mw-disambig" title="Saint Saturninus (disambiguation)">Saint Saturninus</a>, <a href="/wiki/Saint_Hermes" title="Saint Hermes">Saint Hermes</a>, Saint <a href="/wiki/Martin_of_Tours" title="Martin of Tours">Martin of Tours</a>, <a href="/wiki/Saint_Demetrius_of_Thessaloniki" class="mw-redirect" title="Saint Demetrius of Thessaloniki">Saint Demetrius of Thessaloniki</a>,).
 </p>
-<ul><li><i>Monsieur</i>, for males (etymologically, <i>monsieur</i> means "my lord", cf. English "<a href="https://en.wiktionary.org/wiki/sir" class="extiw" title="wikt:sir">sir</a>"); pronounced <small></small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/French" title="Help:IPA/French">[məsjø]</a></span>; plural: <i>messieurs</i>, pronounced <small></small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/French" title="Help:IPA/French">[mesjø]</a></span>; abbreviation: singular <i>M.</i>; plural: <i>MM.</i>. The singular form <i>M<sup>r</sup></i> is very often found, but is considered incorrect by purists, although it appears (together with its rare plural form <i>M<sup>rs</sup></i>) in some dictionaries.</li>
-<li><i>Madame</i>, for females (etymologically, <i>madame</i> means "my lady", cf. English "<a href="https://en.wiktionary.org/wiki/dame" class="extiw" title="wikt:dame">dame</a>"); pronounced <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[madam]</span>; plural: <i>mesdames</i>, pronounced <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[medam]</span>; abbreviation: <i>M<sup>me</sup></i>; plural: <i>M<sup>mes</sup></i>. <i>Madame</i> must also be used in the case where one does not know whether the addressed woman is married or not and in the case where one does not know whether the addressed woman consider the usage as discriminating or disrespectful.</li>
-<li><i>Mademoiselle</i>, for an unmarried female (cf. English "<a href="https://en.wiktionary.org/wiki/damsel" class="extiw" title="wikt:damsel">damsel</a>"); pronounced <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[madmwazɛl]</span>; plural: <i>mesdemoiselles</i>, pronounced <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[medmwazɛl]</span>; abbreviation: <i>M<sup>lle</sup></i> or <i>M<sup>le</sup></i>; plural: <i>M<sup>lles</sup></i> or <i>M<sup>les</sup></i>. Etymologically, this means "my damsel". This form of address is informal and is now tending to be less used in favour of "madame" by some groups such as women's rights movements,<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2016)">citation needed</span></a></i>&#93;</sup> because they consider the usage to be discriminating and disrespectful.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> However, one tendency that remains fairly common is the addressing of young-looking females <i>mademoiselle</i>, and older females <i>madame</i>. Actresses are usually always styled <i>mademoiselle</i>, especially in film or theatre credits, regardless of their age or personal situation; one would thus read <i>mademoiselle <a href="/wiki/Catherine_Deneuve" title="Catherine Deneuve">Deneuve</a> est habillée par Soandso</i>.</li></ul>
-<p>Since 2013, French administration does not use the term <i>mademoiselle</i> anymore for its documents in favour of <i>madame</i> regardless of the status and the age of the woman addressed.
+<h2><span class="mw-headline" id="Germanic_theophoric_names">Germanic theophoric names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Theophoric_name&amp;action=edit&amp;section=3" title="Edit section: Germanic theophoric names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Aesir" class="mw-redirect" title="Aesir">Os</a>, meaning "god"
+<ul><li><a href="/wiki/Oslac_(name)" class="mw-redirect" title="Oslac (name)">Oslac</a></li>
+<li><a href="/wiki/Oswald_(given_name)" title="Oswald (given name)">Oswald</a></li>
+<li><a href="/wiki/Oswine_(disambiguation)" class="mw-redirect mw-disambig" title="Oswine (disambiguation)">Oswin</a></li></ul></li>
+<li><a href="/wiki/Thor" title="Thor">Thor</a>, the god of thunder
+<ul><li><a href="/wiki/Torsten" class="mw-redirect" title="Torsten">Thorstein</a> means "Thor's stone"</li>
+<li><a href="/wiki/Thorkel" title="Thorkel">Thorkel</a> means "Thor's craft"</li>
+<li>Thorulf means "Thor's wolf"</li>
+<li><a href="/w/index.php?title=Thordis&amp;action=edit&amp;redlink=1" class="new" title="Thordis (page does not exist)">Thordis</a></li>
+<li><a href="/wiki/Thora_(given_name)" class="mw-redirect" title="Thora (given name)">Thora</a></li></ul></li>
+<li><a href="/wiki/Yngvi" title="Yngvi">Ing</a>, an old name for <a href="/wiki/Freyr" title="Freyr">Freyr</a> (an epithet meaning "lord")
+<ul><li><a href="/wiki/Ingrid_(given_name)" title="Ingrid (given name)">Ingrid</a></li>
+<li><a href="/wiki/Ingeborg" title="Ingeborg">Ingeborg</a></li>
+<li><a href="/wiki/Inger_(given_name)" title="Inger (given name)">Inger</a></li>
+<li><a href="/w/index.php?title=Ingunn&amp;action=edit&amp;redlink=1" class="new" title="Ingunn (page does not exist)">Ingunn</a></li></ul></li></ul>
+<p>Rarely, Germanic names contain the element <i><a href="/wiki/Odhr" class="mw-redirect" title="Odhr">Wod</a></i> (such as <i>Woðu-riðe</i>), potentially pointing to an association with the god <a href="/wiki/Odin" title="Odin">Odin</a>. In connection, numerous names containing <i>wulf</i> "wolf" have been taken as totemistic, expressing association with Odin in the earliest period, although <i>-ulf</i> degenerated into a mere suffix from an early time (Förstemann 1856).
 </p>
-<ul><li><i>Mondamoiseau</i> is an archaic term historically used for a gentleman that had not yet reached the status of <i><a href="/wiki/Knight" title="Knight">chevalier</a></i>, and was used in a similar fashion as the modern <i>mademoiselle</i>; plural: <i>mesdemoiseaux</i>. The term has not been in common use since the 17th century, but it can be found in works of classic French literature, such as <a href="/wiki/Moli%C3%A8re" title="Molière">Molière</a>'s <i>L'Avare</i>.</li>
-<li><i>Maître</i>, for males and females (etymologically, <i>maître</i> means "master"); this title is used by lawyers and few other juridical professions, while carrying out their duties, and for some mature male artists; plural: <i>maîtres</i>; abbreviation: M<sup>e</sup>; there is no abbreviation for <i>maîtres</i>, one should use M<sup>e</sup> X and M<sup>e</sup> Y.</li>
-<li><i><a href="/wiki/Doctor_(title)#France" title="Doctor (title)">Docteur</a></i>, for males and females (etymologically, <i>docteur</i> means "doctor"); this title is reserved for people having a doctorate but tend to be mostly used in everyday language for physician and dentists while carrying out their duties, even when still students thus not having yet a doctorate; plural: <i>docteurs</i>; abbreviation: <i>D<sup>r</sup></i>.</li></ul>
-<p>During the <i><a href="/wiki/Ancien_R%C3%A9gime" title="Ancien Régime">Ancien Régime</a></i>, a female commoner was always addressed as <i>mademoiselle</i>, even when married, <i>madame</i> being limited to women of the high nobility, even if they were not married. This practice ceased after the <a href="/wiki/French_Revolution" title="French Revolution">French Revolution</a>.
-</p><p>A traditional address to a crowd of people is <i>Mesdames, Messieurs</i> or <i>Mesdames, Mesdemoiselles, Messieurs</i>—whose order of words represents decreasing degrees of respect. An informal variant is <i>Messieurs-Dames</i>; it is considered as ill-mannered by purists.
-</p><p>It is normally impolite to address people by their <a href="/wiki/Given_name" title="Given name">given names</a> unless one is a family member, a friend or a close colleague of comparable hierarchic importance. One also does not address people by their last name only unless in a work environment. Also, contrary to English or German usage, it is considered impolite to address someone as <i>monsieur X</i> when talking to that person: a mere <i>monsieur</i> should be used, <i>monsieur X</i> being reserved for talking about M. X to another person.
-</p><p>When speaking of someone, <i>monsieur/madame given name <a href="/wiki/Family_name" class="mw-redirect" title="Family name">family name</a></i>, by far the most polite form of address, is generally reserved for the most solemn occasions. <i>Monsieur/madame family name</i> or <i>given name family name</i> is polite and used in normal formal occasions, as well as in the formal quality press (<i><a href="/wiki/Le_Monde" title="Le Monde">Le Monde</a></i>, <i><a href="/wiki/Le_Monde_diplomatique" title="Le Monde diplomatique">Le Monde diplomatique</a></i>, for example). By contrast, in colloquial usage the family names of personalities are used alone. Formally, a married or widowed woman can be called by the given name of her husband (<i>madame (given name of husband) family name</i> or <i>madame veuve (given name of husband) family name</i>); this is now slightly out of fashion, except on formal invitation cards (in France, on a formal invitation card, the traditional formula is always a variant of <i>"Madame Jean Dupont recevra..."</i>. The traditional use of the first name of the woman's husband is now felt in this context as a way to include the husband as equally inviting alongside his wife, while keeping the tradition of reception being formally held by the wife.
-</p><p>In the workplace or in academic establishments, particularly in a male-dominated environment, it is quite common to refer to male employees by their family name only, but to use <i>madame</i> or <i>mademoiselle</i> before the names of female employees.
+<h2><span class="mw-headline" id="Hinduism">Hinduism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Theophoric_name&amp;action=edit&amp;section=4" title="Edit section: Hinduism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Some traditional Hindu names honor Hindu gods or goddesses. Often, the same name is ascribed to multiple deities.
+</p><p>It is not uncommon to find Hindus with names of gods. Shiva, Krishna, Ganesh, Durga, Radha, and Sita are all names of Hindu gods or goddesses as well as being personal names for Hindus. Hindu gods themselves have multiple names, so it is not always apparent if an Indian name is the name of a god or not.
 </p>
-<h3><span class="mw-headline" id="Military">Military</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=French_name&amp;action=edit&amp;section=3" title="Edit section: Military">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Ranks_in_the_French_Navy" title="Ranks in the French Navy">Ranks in the French Navy</a> and <a href="/wiki/Ranks_in_the_French_Army" title="Ranks in the French Army">Ranks in the French Army</a></div>
-<p>A military officer is addressed by his rank (and under no circumstance by <i>monsieur</i>, but a group of officers can be addressed by plural  <i>messieurs</i>). Male officers of the <a href="/wiki/French_Army" title="French Army">Army</a>, the <a href="/wiki/Gendarmerie" title="Gendarmerie">Gendarmerie</a> and the <a href="/wiki/French_Air_Force" title="French Air Force">Air Force</a> are addressed as <i>Mon [rank]</i> by inferior ranks and deferential civilians. This usage is said not to be the possessive pronoun <i>mon</i>, but an abbreviation of <i>monsieur</i>: consequently, women are not referred to with <i>mon</i>, but with the rank alone (for example <i>Général</i> rather than <i>mon Général</i>). Superiors address their inferiors by their rank only, never with <i>Mon</i>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2015)">citation needed</span></a></i>&#93;</sup>
-</p><p>As a punishment by <a href="/wiki/Napol%C3%A9on_Bonaparte" class="mw-redirect" title="Napoléon Bonaparte">Napoléon Bonaparte</a>, <a href="/wiki/French_Navy" title="French Navy">Navy</a> officers have not been addressed as <i>mon</i> since the <a href="/wiki/Battle_of_Trafalgar" title="Battle of Trafalgar">Battle of Trafalgar</a>. Confusingly, the title generally does not match the rank, but rather an equivalent rank in other forces:  <i>lieutenant</i> is the form of address for an <i>enseigne de vaisseau</i>, <i>capitaine</i> for a <i>lieutenant de vaisseau</i>, and <i>commandant</i> for a <i>capitaine de corvette</i>, <i>frégate</i>, or <i>vaisseau</i>.
-</p><p>In everyday written contexts, ranks are abbreviated.
+<h2><span class="mw-headline" id="Islam">Islam</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Theophoric_name&amp;action=edit&amp;section=5" title="Edit section: Islam">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/List_of_Arabic_theophoric_names" title="List of Arabic theophoric names">List of Arabic theophoric names</a></div>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Allah" title="Allah">Allah</a></div>
+<ul><li><a href="/wiki/Abdullah_(name)" title="Abdullah (name)">Abdullah</a>: "servant of God"</li></ul>
+<h2><span class="mw-headline" id="Judaism_and_biblical">Judaism and biblical</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Theophoric_name&amp;action=edit&amp;section=6" title="Edit section: Judaism and biblical">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Theophory_in_the_Bible" title="Theophory in the Bible">Theophory in the Bible</a></div>
+<table role="presentation" class="metadata mbox-small noprint selfref" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000;width: 22em;">
+<tbody><tr>
+<td class="mbox-image"><a href="/wiki/Shalom" title="Shalom"><img alt="שָׁלוֹם" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Shalom2.svg/40px-Shalom2.svg.png" decoding="async" width="40" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Shalom2.svg/60px-Shalom2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Shalom2.svg/80px-Shalom2.svg.png 2x" data-file-width="741" data-file-height="400" /></a></td>
+<td class="mbox-text plainlist" style="vertical-align:middle; font-size:95%;"><b>This article contains <a href="/wiki/Hebrew_alphabet" title="Hebrew alphabet">Hebrew text</a>.</b> Without proper <a href="/wiki/Help:Hebrew" title="Help:Hebrew">rendering support</a>, you may see <a href="/wiki/Specials_(Unicode_block)#Replacement_character" title="Specials (Unicode block)">question marks, boxes, or other symbols</a>&#32;instead of Hebrew letters.</td></tr>
+</tbody></table>
+<p>Much <a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a> theophory occurs in the <a href="/wiki/Bible" title="Bible">Bible</a>, particularly in the <a href="/wiki/Old_Testament" title="Old Testament">Old Testament</a>. The most prominent theophory involves
 </p>
-<h2><span class="mw-headline" id="Given_names">Given names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=French_name&amp;action=edit&amp;section=4" title="Edit section: Given names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>French people have one, two or more given names (first names). One of them (nowadays almost always the first, in the past often the last) is used in daily life (but someone can also choose a usage name that was not given); the others are solely for official documents, such as passport, birth, death and marriage certificates. Thus, one always speaks of <i><a href="/wiki/Jacques_Chirac" title="Jacques Chirac">Jacques Chirac</a></i> and never of <i>Jacques René Chirac</i>; and <i>Henri Philippe Pétain</i> is always referred to as <a href="/wiki/Philippe_P%C3%A9tain" title="Philippe Pétain">Philippe Pétain</a> (or Marshal Pétain), because <i>Philippe</i> was the given name that he used in daily life. <a href="/wiki/Middle_name" title="Middle name">Middle names</a> in the English sense do not exist, and <a href="/wiki/Middle_initial" class="mw-redirect" title="Middle initial">middle initials</a> are never used for second or further given names. For example, although English-speaking scientific publications may cite <a href="/wiki/Claude_All%C3%A8gre" title="Claude Allègre">Claude Allègre</a> as <i>Claude J. Allègre</i>, this is never done in France. Typically, second and further given names may be somewhat old-fashioned, given in honour of the child's grandparents etc., though such practice has now become less common. As with English, however, a person may choose to use any one (or several) of their names, relegating the unused names to the birth certificate. Although using more than one name is nowadays out of fashion, using two or even three of the given names as a compound name was fairly common until the early 20th century.
-</p><p>Traditionally, most people were given names from the <a href="/wiki/Roman_Catholic" class="mw-redirect" title="Roman Catholic">Roman Catholic</a> calendar of saints. Common names of this type are <i>Jacques</i> (<a href="/wiki/James_(name)" title="James (name)">James</a>), <i>Jean</i> (<a href="/wiki/John_(given_name)" title="John (given name)">John</a>), <i>Michel</i> (<a href="/wiki/Michael" title="Michael">Michael</a>), <i>Pierre</i> (<a href="/wiki/Peter_(name)" class="mw-redirect" title="Peter (name)">Peter</a>), or <i>Jean-Baptiste</i> (<a href="/wiki/John_the_Baptist" title="John the Baptist">John the Baptist</a>) for males; and <i>Marie</i> (<a href="/wiki/Mary_(given_name)" class="mw-redirect" title="Mary (given name)">Mary</a>), <i>Jeanne</i> (<a href="/wiki/Jane_(given_name)" title="Jane (given name)">Jane</a>), <i>Marguerite</i> (<a href="/wiki/Margaret_(name)" class="mw-redirect" title="Margaret (name)">Margaret</a>), <i>Françoise</i> (<a href="/wiki/Francis_(given_name)" title="Francis (given name)">Frances</a>), or <i>Élisabeth</i> (<a href="/wiki/Elizabeth_(given_name)" title="Elizabeth (given name)">Elizabeth</a>) for females. In certain regions such as <a href="/wiki/Brittany" title="Brittany">Brittany</a> or <a href="/wiki/Corsica" title="Corsica">Corsica</a>, more local names (usually of local saints) are often used (in Brittany, for instance, male <i>Corentin</i> or female <i>Anne</i>; in Corsica, <i>Ange</i> (suitable both for males and females, French version corresponding to <a href="/wiki/Corsican_language" title="Corsican language">Corsican</a> <i>Angelo</i>, <i>Angela</i>). However, given names for French citizens from immigrant communities are often from their own culture, such as <i>Mohammed, Karim</i>, <i>Saïd</i>, <i>Toufik</i>, <i>Jorge</i>, etc. for males, <i>Fatima</i>, <i>Fatoumata</i>, etc. for females. Furthermore, in recent decades it has become common to use first names of English or other foreign origin, mainly in the popular classes of the society, such as <i>Kevin</i>, <i>Enzo</i>, or <i>Anthony</i> (instead of <i>Antoine</i> in the upper classes) for males; for females, <i>Jessica</i>, <i>Jennifer</i>, <i>Karine</i> or <i>Barbara</i> (instead of <i>Barbe</i>, now out-of-fashion, because it sounds exactly the same as <i>barbe</i> "beard" as in the expression <i>la barbe!</i> "What a drag! / How boring!"). Also, females are often given names like <a href="/wiki/Jacqueline_(name)" class="mw-redirect" title="Jacqueline (name)">Jacqueline</a> and <a href="/wiki/Gerald" title="Gerald">Géraldine</a> that are feminine forms of traditional common masculine French names.
-</p><p>The prevalence of given names follows <a href="/wiki/Fads_and_trends" class="mw-redirect" title="Fads and trends">trends</a>, with some names being popular in some years, and some considered definitely out-of-fashion. As an example, few children born since 1970 would bear the name <i>Germaine</i>, which is generally associated with the idea of an elderly lady. However, as noted above, such old-fashioned names are frequently used as second or third given names, because in France the second or further given names are traditionally those of the godparents or the grandparents. Some older names, such as <i>Suzanne</i>, <i>Violette</i>, and <i>Madeleine</i>, have become fashionable again in the upper class and in the upper middle class. Others such as <i>Jean</i>, <i>Pierre</i>, <i>Louis</i>, and <i>François</i> never really went out of fashion. <i>Alexandre</i> (Alexander) was never very popular, but is not uncommon in middle and upper classes.
-</p><p>Almost all traditional given names are gender-specific. However, a few given names, such as <i>Dominique</i> (see above: completely gender-neutral), <i>Claude</i> (traditionally masculine), and <i>Camille</i> (traditionally masculine, now mostly feminine<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>), are given to both males and females; for others, the pronunciation is the same but the spelling is different: <i>Frédéric</i> (m) / <i>Frédérique</i> (f). In medieval times, a woman was often named <i>Philippe</i> (Philippa), now an exclusively masculine name (Philip), or a male <i>Anne</i> (Ann), now almost exclusively feminine (except as second or third given name, mostly in Brittany). From the middle 19th-century into the early 20th-century, <i>Marie</i> was a popular first name for both men or women, however, before and after this period it has been almost exclusively given to women as a first given name, even if the practice still exists to give it to males as second or third given name, especially in devout Catholic families.
-</p><p>Compound given names, such as <i>Jean-Luc</i>, <i>Jean-Paul</i>, or <i>Anne-Sophie</i> are not uncommon. These are not considered to be two separate given names. The second part of a compound name may be a given name normally used by the opposite sex. However, the gender of the compound is determined by the first component. Thus, <a href="/wiki/Marie-George_Buffet" title="Marie-George Buffet">Marie-George Buffet</a> has a given name considered as female because it begins with <i>Marie</i>, and <i>George</i> is spelled with a final <i>-e</i> like all the traditional French female given names, instead of <i><a href="/wiki/Georges_(disambiguation)" class="mw-redirect mw-disambig" title="Georges (disambiguation)">Georges</a></i> with <i>-es</i> for a male. The feminine component in male compound names is mostly <i>Marie</i>, as in <a href="/wiki/Jean-Marie_Vianney" class="mw-redirect" title="Jean-Marie Vianney">Jean-Marie Vianney</a>. In the past, some Frenchmen would have <i>Marie</i> or <i>Anne</i> as first name (example: <a href="/wiki/Anne_du_Bourg" title="Anne du Bourg">Anne du Bourg</a>), which is still nowadays in  practice in rare traditional Catholic families (but then the man will have other given names and one of those will be used in everyday life). Second or third given names, which usually are kept private, may also include names normally used by the opposite gender. For instance, in 2006, 81 Frenchmen have <i>Brigitte</i> among their given names, 97 <i>Catherine</i>, 133 <i>Anne</i>, and 204 <i>Julie</i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> In addition to the above-described custom of using <i>Marie</i> for males, this is due to the habit of traditional Catholic French families to give children the names of their godmother and godfather: if there is no counterpart of the opposite gender for the name of the godparent who is not of the same sex as the child, generally the name of the godparent will be left as such. For instance, a male child born to a traditional Catholic family choosing for him the name <i>Nicolas</i> and whose godparents are called <i>Christian</i> and <i>Véronique</i> could be called <i>Nicolas Christian Marie Véronique</i>.<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Accuracy_dispute#Disputed_statement" title="Wikipedia:Accuracy dispute"><span title="The material near this tag is possibly inaccurate or nonfactual. (December 2013)">dubious</span></a>&#32;<span class="metadata"> &#8211; <a href="/wiki/Talk:French_name#Dubious" title="Talk:French name">discuss</a></span></i>&#93;</sup>
-</p><p>First names are chosen by the child's parents. There are no legal <i>a priori</i> constraints on the choice of names nowadays, but this has not always been the case. The choice of given names, originally limited only by the tradition of naming children after a small number of popular saints, was restricted by law at the end of the 18th century, could be accepted.<sup id="cite_ref-NZ_Herald_10619062_4-0" class="reference"><a href="#cite_note-NZ_Herald_10619062-4">&#91;4&#93;</a></sup> Much later, actually in 1966, a new law permitted a limited number of mythological, regional or foreign names, substantives (Olive, Violette), diminutives, and alternative spellings. Only in 1993 were French parents given the freedom to name their child without any constraint whatsoever.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> However, if the birth registrar thinks that the chosen names (alone or in association with the last name) may be detrimental to the child's interests, or to the right of other families to protect their own family name, the registrar may refer the matter to the local prosecutor, who may choose to refer the matter to the local court. The court may then refuse the chosen names. Such refusals are rare and mostly concern given names that may expose the child to mockery.
-</p><p>To change a given name, a request can be made before a court (<i>juge des affaires familiales</i>), but except in a few specific cases (such as the Gallicization of a foreign name), it is necessary to prove a legitimate interest for the change (usually that the current name is a cause of mockery or when put together with the surname, it creates a ridiculous word or sentence, e.g.: <i>Jean Bon</i> sounds <i>jambon</i> "ham", or <i>Annick Mamère</i> = <i>A nique ma mère</i>, slang for "she f**ks my mother").
+<ul><li>names referring to <a href="/wiki/El_(god)" class="mw-redirect" title="El (god)">El</a>, a word meaning <i>might</i>, <i>power</i> and (a) <i>god</i> in general, and hence in Judaism, <i>God</i> and among the Canaanites the name of the god who was the father of Baal.</li>
+<li>names referring to <a href="/wiki/Names_of_God_in_Judaism#Yah" title="Names of God in Judaism">Yah</a>, a shortened form of <a href="/wiki/Yahweh" title="Yahweh">Yahweh</a>.</li>
+<li>names referring to Levantine deities (especially the storm god, <a href="/wiki/Hadad" title="Hadad">Hadad</a>) by the <a href="/wiki/Epithet" title="Epithet">epithet</a> <i><a href="/wiki/Baal" title="Baal">Baal</a></i>, meaning <i>lord</i>.</li></ul>
+<p>In later times, as the conflict between <a href="/wiki/Yahweh#Origins_and_adoption_as_&quot;God_of_Israel&quot;" title="Yahweh">Yahwism</a> and the more popular pagan practices became increasingly intense, these names were censored and <i>Baal</i> was replaced with <i>Bosheth</i>, meaning <i>shameful one</i>. However the name Yahweh does not appear in theophoric names until the time of Joshua, and for the most part is very rare until the time of King Saul, when it began to be very popular.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
 </p>
-<h2><span class="mw-headline" id="Family_names">Family names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=French_name&amp;action=edit&amp;section=5" title="Edit section: Family names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>In France, until 1 January 2005, children were required by law to take the surname of their father. If the father was unknown, the child was given the family name of the mother. Since 1 January 2005, article 311-21 of the French <a href="/wiki/Civil_code" title="Civil code">Civil code</a> permits parents to give their children the name of either their father, mother, or a hyphenation of both - although no more than two names can be hyphenated. In cases of disagreement, both parents' family names are hyphenated, in alphabetic order, with only the first of their names, if they each have a hyphenated name themselves.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> A 1978 declaration by the <a href="/wiki/Council_of_Europe" title="Council of Europe">Council of Europe</a> requires member governments to take measures to adopt equality of rights in the transmission of family names, a measure that was repeated by the United Nations in 1979.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> Similar measures were adopted by <a href="/wiki/Germany" title="Germany">Germany</a> (1976), <a href="/wiki/Sweden" title="Sweden">Sweden</a> (1982), <a href="/wiki/Denmark" title="Denmark">Denmark</a> (1983), <a href="/wiki/Spain" title="Spain">Spain</a> (1999), and <a href="/wiki/Austria" title="Austria">Austria</a> (2013).
-</p><p>In France, a person may use a name of a third party (called the common name)<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> in the following circumstances:
+<h3><span class="mw-headline" id="El">El</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Theophoric_name&amp;action=edit&amp;section=7" title="Edit section: El">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/El_(deity)" title="El (deity)">El (deity)</a></div>
+<ul><li><a href="/wiki/Ariel_(given_name)" class="mw-redirect" title="Ariel (given name)">Ariel</a>: "lion of God"</li>
+<li><a href="/wiki/Daniel" title="Daniel">Daniel</a>: "God is my judge" or "justice from God"</li>
+<li><a href="/wiki/Elias" title="Elias">Elias</a>/Elijah: "my God is Yahweh"</li>
+<li><a href="/wiki/Elisha_(given_name)" title="Elisha (given name)">Elisha</a>: "my God is salvation"</li>
+<li><a href="/wiki/Elizabeth_(given_name)" title="Elizabeth (given name)">Elizabeth</a>: Hebrew <a href="/wiki/Elisheba" title="Elisheba">Elisheba</a> = "my God is an oath" or "my God is abundance"<i></i></li>
+<li>Emmanuel/<a href="/wiki/Immanuel" title="Immanuel">Immanuel</a>: "God is with us"</li>
+<li><a href="/wiki/Ezekiel_(name)" title="Ezekiel (name)">Ezekiel</a>: "God will strengthen"</li>
+<li><a href="/wiki/Gabriel" title="Gabriel">Gabriel</a>: "God is my strength"</li>
+<li><a href="/wiki/Ishmael" title="Ishmael">Ishmael</a>: "God has heard"</li>
+<li><a href="/wiki/Israel_(name)" title="Israel (name)">Israel</a>: "who prevails with God"</li>
+<li><a href="/wiki/Joel_(given_name)" title="Joel (given name)">Joel</a>: "Yahweh is God"</li>
+<li><a href="/wiki/Lemuel" title="Lemuel">Lemuel</a>: "Dedicated/Devoted to God"</li>
+<li><a href="/wiki/Michael" title="Michael">Michael</a>: "Who is like God?"</li>
+<li><a href="/wiki/Nathaniel" title="Nathaniel">Nathaniel</a>: "God-given" or "gift of God"</li>
+<li><a href="/wiki/Raphael_(archangel)" title="Raphael (archangel)">Raphael</a>: "God heals"</li>
+<li><a href="/wiki/Samuel" title="Samuel">Samuel</a>: "name of God"</li>
+<li><a href="/wiki/Uriel" title="Uriel">Uriel</a>: "God is my light"</li></ul>
+<h3><span class="mw-headline" id="Yahweh">Yahweh</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Theophoric_name&amp;action=edit&amp;section=8" title="Edit section: Yahweh">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Yahweh" title="Yahweh">Yahweh</a> and <a href="/wiki/YHWH" class="mw-redirect" title="YHWH">YHWH</a></div>
+<p>The name of the Israelite deity YHWH (usually shortened to Yah or Yahu, and Yeho or Yo) appears as a prefix or suffix in many theophoric names of the <a href="/wiki/First_Temple_Period" class="mw-redirect" title="First Temple Period">First Temple Period</a>. For example, <i>Yirme-yahu</i> (<a href="/wiki/Jeremiah" title="Jeremiah">Jeremiah</a>), <i>Yesha-yahu</i> (<a href="/wiki/Isaiah" title="Isaiah">Isaiah</a>), <i>Netan-yah</i>, <i>Yedid-yah</i>, <i>Adoni-yah</i>, <i>Nekhem-yah</i>, <i>Yeho-natan</i> (<a href="/wiki/Jonathan_(name)" title="Jonathan (name)">Jonathan</a>), <i>Yeho-chanan</i> (<a href="/wiki/John_(given_name)" title="John (given name)">John</a>), <i>Yeho-shua</i> (<a href="/wiki/Joshua" title="Joshua">Joshua</a>), <i>Yeho-tzedek</i>, <i>Zekharya</i> (<a href="/wiki/Zechariah_(given_name)" title="Zechariah (given name)">Zechariah</a>).
+</p><p>"Yahū" or "Yah" is the abbreviation of YHWH when used as a suffix in Hebrew names; as a prefix it appears as "Y<sup>e</sup>hō-", or "Yo". It was formerly thought to be abbreviated from the <a href="/wiki/Masoretes" title="Masoretes">Masoretic</a> pronunciation "<a href="/wiki/Yehovah" class="mw-redirect" title="Yehovah">Yehovah</a>". There is an opinion<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> that, as Yahweh is likely an <a href="/wiki/Imperfective" class="mw-redirect" title="Imperfective">imperfective</a> verb form, "Yahu" is its corresponding <a href="/wiki/Preterite" title="Preterite">preterite</a> or <a href="/wiki/Jussive" class="mw-redirect" title="Jussive">jussive</a> short form: compare <i>yiŝt<sup>a</sup>hawe<sup>h</sup></i> (imperfective), <i>yiŝtáhû</i> (preterit or jussive short form) = "do obeisance".
 </p>
-<ul><li>anyone – to add or use the name of a parent whose name he does not bear. This results from the application of Article 43 of Law No. 85-1372 of 23 December 1985. For example, in the case of children of divorced and remarried parents, to help differentiate the family composition.</li>
-<li>married people or widows – by adding or substituting the name of their spouse. Substituting the name of the husband is an established custom but has never been enshrined in law. For example, social security laws require the wife and husband to provide the "maiden name" or birth name. This right also applies to divorced couples, provided that the ex-spouse does not object and the other has a legitimate interest, such as because they have custody of the couple's children.</li></ul>
-<p>Since Law No. 2003-516 of 18 June 2003 on the devolution of family names, there is no longer any distinction between the name of the mother and the father. A child may receive the family name of one or the other, or both family names. Decree No. 2004-1159 of 29 October 2004 implemented Law No. 2002-304 of 4 March 2002, provided that children born on or after 1 January 2004 and children changing names, may have or use only the family name of the father or the mother or both family names. However, whichever form is used, a person's name must be used consistently on all identification documents, such as a passport or identity card.
-</p><p>The ratio of the number of family names to the population is high in France, due to the fact that most <a href="/wiki/Surnames" class="mw-redirect" title="Surnames">surnames</a> had many orthographic and dialectal variants (more than 40 for some), which were registered as separate names around 1880 when "<a href="https://fr.wikipedia.org/wiki/Livret_de_famille" class="extiw" title="fr:Livret de famille">family vital records booklets</a>" were issued. According to the French Institute for Statistics <a href="/wiki/INSEE" class="mw-redirect" title="INSEE">INSEE</a>, more than 1,300,000 surnames were registered in the country between 1891 and 1990, and about 200,000 have disappeared (mainly orthographic variants). It is believed that the number of family names at any time since 1990 hovers between 800,000 and 1,200,000. Not all family names are of French origin, as many families have some immigrant roots.
-</p><p>According to different estimates, 50 to 80 percent of French citizens may bear rare family names (fewer than 50 bearers alive at the census time).
-</p>
-<h3><span class="mw-headline" id="Most_common_family_names">Most common family names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=French_name&amp;action=edit&amp;section=6" title="Edit section: Most common family names">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>The list for France is different according to the sources. A list including the births between 1891 and 1990 shows&#160;: 1 - <a href="/wiki/Martin_(name)" title="Martin (name)">Martin</a>, 2 - <a href="/wiki/Bernard" title="Bernard">Bernard</a>, 3 - <a href="/wiki/Thomas_(surname)" title="Thomas (surname)">Thomas</a>, 4 - <a href="/wiki/Petit_(disambiguation)" class="mw-redirect mw-disambig" title="Petit (disambiguation)">Petit</a>, 5 - <a href="/wiki/Robert" title="Robert">Robert</a>, 6 - <a href="/wiki/Richard" title="Richard">Richard</a>, 7 - <a href="/wiki/Durand_(surname)" title="Durand (surname)">Durand</a>, 8 - <a href="/wiki/Dubois_(surname)" title="Dubois (surname)">Dubois</a>, 9 - <a href="/wiki/Moreau_(surname)" title="Moreau (surname)">Moreau</a>, 10 - <a href="/wiki/Laurent_(name)" title="Laurent (name)">Laurent</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
-</p><p>A list of birth between 1966 and 1990 yields: 1 - Martin, 2 - Bernard, 3 - Thomas, 4 - Robert, 5 - Petit, 6 - Dubois, 7 - Richard, 8 - <a href="/wiki/Garc%C3%ADa_(surname)" title="García (surname)">Garcia</a> (Spanish), 9 - Durand, 10 - Moreau.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+<ul><li>Elijah/<a href="/wiki/Elias" title="Elias">Elias</a>: "my God is YHWH"</li>
+<li><a href="/wiki/Hezekiah" title="Hezekiah">Hezekiah</a>: "YHWH strengthens"</li>
+<li><a href="/wiki/Isaias_(given_name)" title="Isaias (given name)">Isaiah</a>: "YHWH is salvation"</li>
+<li><a href="/wiki/Jedediah" title="Jedediah">Jedediah</a>: "friend of YHWH"</li>
+<li>Jeremy/<a href="/wiki/Jeremiah_(given_name)" title="Jeremiah (given name)">Jeremiah</a>: "YHWH will raise"</li>
+<li>Jesus/<a href="/wiki/Yeshua" title="Yeshua">Yeshua</a>: "YHWH will save"</li>
+<li><a href="/wiki/Joel_(given_name)" title="Joel (given name)">Joel</a>: "YHWH is God"</li>
+<li><a href="/wiki/Yohanan" title="Yohanan">John</a>: "graced by YHWH"</li>
+<li><a href="/wiki/Jonathan_(name)" title="Jonathan (name)">Jonathan</a>: "YHWH has given"</li>
+<li><a href="/wiki/Joseph" title="Joseph">Joseph</a>: "YHWH shall increase"</li>
+<li><a href="/wiki/Josiah_(given_name)" title="Josiah (given name)">Josiah</a>: "healed by YHWH"</li>
+<li><a href="/wiki/Matthew_(given_name)" title="Matthew (given name)">Matthew</a>: "gift of YHWH"</li>
+<li><a href="/wiki/Book_of_Micah" title="Book of Micah">Micah</a>: "who is like YHWH?"</li>
+<li><a href="/wiki/Nehemiah" title="Nehemiah">Nehemiah</a>: "YHWH comforts"</li>
+<li><a href="/wiki/Obadiah" title="Obadiah">Obadiah</a>: "servant of YHWH"</li>
+<li><a href="/wiki/Tobias" title="Tobias">Tobias</a>: "the goodness of YHWH"</li>
+<li><a href="/wiki/Uriah_(disambiguation)" class="mw-redirect mw-disambig" title="Uriah (disambiguation)">Uriah</a>: "flame of YHWH"</li>
+<li><a href="/wiki/Uzziah" title="Uzziah">Uzziah</a>: "YHWH is my strength"</li>
+<li>Zachary/<a href="/wiki/Zechariah_(given_name)" title="Zechariah (given name)">Zechariah</a>: "YHWH has remembered"</li>
+<li><a href="/wiki/Zephaniah" title="Zephaniah">Zephaniah</a>: "hidden by YHWH"</li></ul>
+<p>However, the name <a href="/wiki/Judah_(Bible)" class="mw-redirect" title="Judah (Bible)">Judah</a> (Y<sup>e</sup>hūda<sup>h</sup>) is not an example.  The name Judah, comes from the root word Yadah = Yud-Dalet-Hey, which means "praise".  The letter Yud is also a prefix pronoun in Hebrew, thus not every name or word beginning with Yud or Yud-Hey is theophoric.
+</p><p>In the table below, 13 theophoric names with "Yeho" have corresponding forms where the letters <i>eh</i> have been omitted. There is a theory by <a href="/wiki/Christian_Ginsburg" class="mw-redirect" title="Christian Ginsburg">Christian Ginsburg</a> that this is due to Hebrew scribes omitting the "h", changing Jeho (<style data-mw-deduplicate="TemplateStyles:r886049626">.mw-parser-output .script-hebrew,.mw-parser-output .script-Hebr{font-size:1.15em;font-family:"Ezra SIL","Ezra SIL SR","Keter Aram Tsova","Taamey Ashkenaz","Taamey David CLM","Taamey Frank CLM","Frank Ruehl CLM","Keter YG","Shofar","David CLM","Hadasim CLM","Simple CLM","Nachlieli","SBL BibLit","SBL Hebrew",Cardo,Alef,"Noto Serif Hebrew","Noto Sans Hebrew","David Libre",David,"Times New Roman",Gisha,Arial,FreeSerif,FreeSans}</style><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יְהוֹ</span>) into Jo (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יוֹ</span>), to make the start of "Y<sup>e</sup>ho-" names not sound like an attempt to pronounce the Divine Name.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
 </p>
 <table class="wikitable">
 
 <tbody><tr>
-<th>France<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup></th>
-<th>Belgium (<a href="/wiki/Wallonia" title="Wallonia">Wallonia</a>, 2008)<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup></th>
-<th>Canada (<a href="/wiki/Qu%C3%A9bec" class="mw-redirect" title="Québec">Québec</a>, 2006)<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+<th colspan="2">Strong's #
+</th>
+<th colspan="4">the name
+</th>
+<th rowspan="2">other element
+</th>
+<th colspan="2">English conventional form
 </th></tr>
 <tr>
-<td>1. <a href="/wiki/Martin_(name)" title="Martin (name)">Martin</a></td>
-<td>1. <a href="/wiki/Dubois_(surname)" title="Dubois (surname)">Dubois</a></td>
-<td>1. <a href="/wiki/Tremblay_(surname)" title="Tremblay (surname)">Tremblay</a>
-</td></tr>
-<tr>
-<td>2. <a href="/wiki/Bernard" title="Bernard">Bernard</a></td>
-<td>2. <a href="/wiki/Lambert_(name)" title="Lambert (name)">Lambert</a></td>
-<td>2. <a href="/wiki/Gagnon_(surname)" title="Gagnon (surname)">Gagnon</a>
-</td></tr>
-<tr>
-<td>3. <a href="/wiki/Dubois_(surname)" title="Dubois (surname)">Dubois</a></td>
-<td>3. <a href="/wiki/Martin_(name)" title="Martin (name)">Martin</a></td>
-<td>3. <a href="/wiki/Roy" title="Roy">Roy</a>
-</td></tr>
-<tr>
-<td>4. <a href="/wiki/Thomas_(surname)" title="Thomas (surname)">Thomas</a></td>
-<td>4. <a href="/wiki/Dupont_(surname)" title="Dupont (surname)">Dupont</a></td>
-<td>4. <a href="/wiki/C%C3%B4t%C3%A9" title="Côté">Côté</a>
-</td></tr>
-<tr>
-<td>5. <a href="/wiki/Robert" title="Robert">Robert</a></td>
-<td>5. <a href="/wiki/Simon_(surname)" title="Simon (surname)">Simon</a></td>
-<td>5. <a href="/wiki/Bouchard" title="Bouchard">Bouchard</a>
-</td></tr>
-<tr>
-<td>6. <a href="/wiki/Richard" title="Richard">Richard</a></td>
-<td>6. <a href="/wiki/Dumont_(surname)" title="Dumont (surname)">Dumont</a></td>
-<td>6. <a href="/wiki/Gauthier" title="Gauthier">Gauthier</a>
-</td></tr>
-<tr>
-<td>7. <a href="/wiki/Petit_(disambiguation)" class="mw-redirect mw-disambig" title="Petit (disambiguation)">Petit</a></td>
-<td>7. <a href="/wiki/Leclercq" title="Leclercq">Leclercq</a></td>
-<td>7. <a href="/w/index.php?title=Morin_(name)&amp;action=edit&amp;redlink=1" class="new" title="Morin (name) (page does not exist)">Morin</a>
-</td></tr>
-<tr>
-<td>8. <a href="/wiki/Durand_(surname)" title="Durand (surname)">Durand</a></td>
-<td>8. <a href="/wiki/Laurent_(name)" title="Laurent (name)">Laurent</a></td>
-<td>8. <a href="/wiki/Lavoie" title="Lavoie">Lavoie</a>
-</td></tr>
-<tr>
-<td>9. <a href="/wiki/Leroy_(name)" title="Leroy (name)">Leroy</a></td>
-<td>9. <a href="/wiki/Lejeune" title="Lejeune">Lejeune</a></td>
-<td>9. <a href="/wiki/Fortin" title="Fortin">Fortin</a>
-</td></tr>
-<tr>
-<td>10. <a href="/wiki/Moreau_(surname)" title="Moreau (surname)">Moreau</a></td>
-<td>10. <a href="/wiki/Renard_(disambiguation)" class="mw-redirect mw-disambig" title="Renard (disambiguation)">Renard</a></td>
-<td>10. <a href="/wiki/Gagn%C3%A9" class="mw-redirect" title="Gagné">Gagné</a>
-</td></tr></tbody></table>
-<p>This list masks strong regional differences in France and the increasing number of foreign names among the French citizens. Table based on births between 1966 and 1990:<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
-</p>
-<table class="wikitable">
-
-<tbody><tr>
-<th>Basse-Normandie</th>
-<th>Alsace</th>
-<th>Brittany</th>
-<th><a href="/wiki/Provence-Alpes-C%C3%B4te_d%27Azur" title="Provence-Alpes-Côte d&#39;Azur">PACA</a></th>
-<th>Île-de-France
+<th>long form</th>
+<th>short form
+</th>
+<th colspan="2">long form
+</th>
+<th colspan="2">short form
+</th>
+<th>long form</th>
+<th>short form
 </th></tr>
 <tr>
-<td>1. Marie</td>
-<td>1. Meyer</td>
-<td>1. Le Gall</td>
-<td>1. <b>Martin</b></td>
-<td>1. <b>Martin</b>
+<td>3059</td>
+<td>3099</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יְהוֹאָחָז</span></td>
+<td>Yᵉhow'achaz</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יוֹאָחָז</span></td>
+<td>Yow'achaz</td>
+<td>achaz [# 270]</td>
+<td>Jehoachaz</td>
+<td>Joachaz
 </td></tr>
 <tr>
-<td>2. <b>Martin</b></td>
-<td>2. Muller</td>
-<td>2. <b>Thomas</b></td>
-<td>2. Garcia (Spanish)</td>
-<td>2. Da Silva (Portuguese)
+<td>3060</td>
+<td>3101</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יְהוֹאָש</span></td>
+<td>Yᵉhow'ash</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יוֹאָש</span></td>
+<td>Yow'ash</td>
+<td>'esh [# 784]</td>
+<td>Jehoash</td>
+<td>Joash
 </td></tr>
 <tr>
-<td>3. Jeanne</td>
-<td>3. Schmitt</td>
-<td>3. Le Goff</td>
-<td>3. Martinez (Spanish)</td>
-<td>3. Pereira (Port.)
+<td>3075</td>
+<td>3107</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יְהוֹזָבָד</span></td>
+<td>Yᵉhowzabad</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יוֹזָבָד</span></td>
+<td>Yowzabad</td>
+<td>zabad [# 2064]</td>
+<td>Jehozabad</td>
+<td>Jozabad
 </td></tr>
 <tr>
-<td>4. Duval</td>
-<td>4. Schneider</td>
-<td>4. Le Roux</td>
-<td>4. Blanc</td>
-<td>4. <b>Petit</b>
+<td>3076</td>
+<td>3110</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יְהוֹחָנָן</span></td>
+<td>Yᵉhowchanan</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יוֹחָנָן</span></td>
+<td>Yowchanan</td>
+<td>chanan [# 2603]</td>
+<td>Jehochanan</td>
+<td>Jochanan
 </td></tr>
 <tr>
-<td>5. Lefèvre</td>
-<td>5. Klein</td>
-<td>5. <b>Martin</b></td>
-<td>5. Fernandez (Spanish)</td>
-<td>5. Dos Santos (Port.)
+<td>3077</td>
+<td>3111</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יְהוֹיָדָע</span></td>
+<td>Yᵉhowyada</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יוֹיָדָע</span></td>
+<td>Yowyada</td>
+<td>yada [# 3045]</td>
+<td>Jehojada</td>
+<td>Jojada
 </td></tr>
 <tr>
-<td>6. <b>Leroy</b></td>
-<td>6. Weber</td>
-<td>6. Simon</td>
-<td>6. Lopez (Spanish)</td>
-<td>6. Ferreira (Port.)
+<td>3078</td>
+<td>3112</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יְהוֹיָכִין</span></td>
+<td>Yᵉhowyakiyn</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יוֹיָכִין</span></td>
+<td>Yowyakiyn</td>
+<td>kuwn [# 3559]</td>
+<td>Jehojakin</td>
+<td>Jojakin
 </td></tr>
 <tr>
-<td>7. Hébert</td>
-<td>7. Fischer</td>
-<td>7. Tanguy</td>
-<td>7. Roux</td>
-<td>7. Rodrigues (Port.)
+<td>3079</td>
+<td>3113</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יְהוֹיָקִים</span></td>
+<td>Yᵉhowyaqiym</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יוֹיָקִים</span></td>
+<td>Yowyaqiym</td>
+<td>quwm [# 3965]</td>
+<td>Jehojakim</td>
+<td>Jojakim
 </td></tr>
 <tr>
-<td>8. Guérin</td>
-<td>8. <b>Martin</b></td>
-<td>8. Hamon</td>
-<td>8. Sanchez (Spanish)</td>
-<td>8. <b>Dubois</b>
+<td>3080</td>
+<td>3114</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יְהוֹיָרִיב</span></td>
+<td>Yᵉhowyariyb</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יוֹיָרִיב</span></td>
+<td>Yowyariyb</td>
+<td>riyb [# 7378]</td>
+<td>Jehojarib</td>
+<td>Jojarib
 </td></tr>
 <tr>
-<td>9. Simon</td>
-<td>9. Weiss</td>
-<td>9. Hervé</td>
-<td>9. Perez (Spanish)</td>
-<td>9. <b>Bernard</b>
+<td>3082</td>
+<td>3122</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יְהוֹנָדָב</span></td>
+<td>Yᵉhownadab</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יוֹנָדָב</span></td>
+<td>Yownadab</td>
+<td>nadab [# 5068]</td>
+<td>Jehonadab</td>
+<td>Jonadab
 </td></tr>
 <tr>
-<td>10. Hamel</td>
-<td>10. Walter</td>
-<td>10. Morvan</td>
-<td>10. Michel</td>
-<td>10. Fernandes (Port.)
+<td>3083</td>
+<td>3129</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יְהוֹנָתָן</span></td>
+<td>Yᵉhownathan</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יוֹנָתָן</span></td>
+<td>Yownathan</td>
+<td>nathan [# 5414]</td>
+<td>Jehonathan</td>
+<td>Jonathan
+</td></tr>
+<tr>
+<td>3085</td>
+<td>—</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">י&#1456;הוֹע&#1463;ד&#1468;&#1464;ה</span></td>
+<td>Yᵉhow'addah</td>
+<td>—</td>
+<td>—</td>
+<td>'adah [# 5710]</td>
+<td>Jehoaddah</td>
+<td>—
+</td></tr>
+<tr>
+<td>3087</td>
+<td>3136</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יְהוֹצָדָק</span></td>
+<td>Yᵉhowtsadaq</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יוֹצָדָק</span></td>
+<td>Yowtsadaq</td>
+<td>tsadaq [# 6663]</td>
+<td>Jehotsadak</td>
+<td>Jotsadak
+</td></tr>
+<tr>
+<td>3088</td>
+<td>3141</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יְהוֹרָם</span></td>
+<td>Yᵉhowram</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יוֹרָם</span></td>
+<td>Yowram</td>
+<td>ruwm [# 7311]</td>
+<td>Jehoram</td>
+<td>Joram
+</td></tr>
+<tr>
+<td>3092</td>
+<td>3146</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יְהוֹשָפָט</span></td>
+<td>Yᵉhowshaphat</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יוֹשָפָט</span></td>
+<td>Yowshaphat</td>
+<td>shaphat [# 8199]</td>
+<td>Jehoshaphat</td>
+<td>Joshaphat
+</td></tr>
+<tr>
+<td colspan="9">
+</td></tr>
+<tr>
+<td>3470a</td>
+<td>3470</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יְשַׁעְיָהוּ</span></td>
+<td>Yᵉsha'yahuw</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יְשַׁעְיָה</span></td>
+<td>Yᵉsha'yah</td>
+<td>yasha [# 3467]</td>
+<td>Jeshajahu</td>
+<td>Jeshajah
+</td></tr>
+<tr>
+<td>5418a</td>
+<td>5418</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">נְתַנְיָהוּ</span></td>
+<td>Nᵉthanyahuw</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">נְתַנְיָה</span></td>
+<td>Nᵉthanyah</td>
+<td>nathan [# 5414]</td>
+<td>Nethanjahu</td>
+<td>Nethanjah
+</td></tr>
+<tr>
+<td>138a</td>
+<td>138</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">אֲדֹנִיָּהוּ</span></td>
+<td>'Adoniyahuw</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">אֲדֹנִיָּה</span></td>
+<td>'Adoniyah</td>
+<td>'adown [# 113]</td>
+<td>Adonijahu</td>
+<td>Adonijah
+</td></tr>
+<tr>
+<td>452a</td>
+<td>452</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">אֵלִיָּהוּ</span></td>
+<td>'Eliyahu</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">אֵלִיָּה</span></td>
+<td>'Eliyah</td>
+<td>'el [# 410]</td>
+<td>Elijahu</td>
+<td>Elijah
+</td></tr>
+<tr>
+<td>3414a</td>
+<td>3414</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יִרְמְיָהוּ</span></td>
+<td>Yirmᵉyahuw</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">יִרְמְיָה</span></td>
+<td>Yirmᵉyah</td>
+<td>ruwm [# 7311]</td>
+<td>Jirmejahu</td>
+<td>Jirmejah
+</td></tr>
+<tr>
+<td>—</td>
+<td>5166</td>
+<td>—</td>
+<td>—</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886049626"/><span class="script-hebrew" style="font-size: 115%;" dir="rtl">נְחֶמְיָה</span></td>
+<td>Nᵉchemyah</td>
+<td>nacham [# 5162]</td>
+<td>—</td>
+<td>Nechemjah
 </td></tr></tbody></table>
-<h3><span class="mw-headline" id="Particles">Particles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=French_name&amp;action=edit&amp;section=7" title="Edit section: Particles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Some French last names include the word <i>De-</i> ("of") or <i>Du-</i> (contraction for <i>de</i> + <i>le</i> = "of the"). <i>Du-</i> may occur when the following part of the name appears to be a masculine noun; the equivalent for a following feminine noun is <i>De la-</i>, but regional variations occur: in the North of France <i>Du-</i> is often rendered by <i>Dele-</i> and in the South of France <i>Del-</i>. When <i>de</i> is separated, it is known as a <a href="/wiki/Nobility_particle" class="mw-redirect" title="Nobility particle">particle</a> (<a href="/wiki/French_language" title="French language">French</a>: <i lang="fr">particule</i>). A particle <i>de</i> should <b>not</b> be alphabetized in name lists, <span class="citation-needed-content" style="padding-left:0.1em; padding-right:0.1em; color:#595959; border:1px solid #DDD;">whereas a particule <i>du</i> should be because it results from the contraction of an article.</span><sup class="noprint Inline-Template Template-Fact" style="margin-left:0.1em; white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2018)">citation needed</span></a></i>&#93;</sup> The <i>particule</i> generally indicates some land or <a href="/wiki/Feudalism" title="Feudalism">feudal</a> origin of the name, being associated with claims to a place, but this is not always the case. The name <a href="/wiki/Charles_de_Gaulle" title="Charles de Gaulle">de Gaulle</a>, for example, may not be a traditional French name with a <i>particule</i>, but a Flemish Dutch name that evolved from a form of <i>De Walle</i> meaning "the wall". 	
-</p><p>A popular misconception is that the <i>particule</i> <i>De-</i> included in the name always indicates membership of the <a href="/wiki/Nobility" title="Nobility">nobility</a>, that is to say, an original separated <i>de</i> that was linked to the name during the French revolution as <i>De-</i>. That is sometimes true. Almost all nobility titles are of the form [title] [<a href="/wiki/Nobility_particle" class="mw-redirect" title="Nobility particle">particle</a> [name of the land]: for instance, <i><a href="/wiki/Louis-Philippe_of_France" class="mw-redirect" title="Louis-Philippe of France">Louis, duc d'Orléans</a></i> ("Louis, <a href="/wiki/Duke" title="Duke">duke</a> of <a href="/wiki/Orl%C3%A9ans" title="Orléans">Orléans</a>"), or simply <i>Louis d'Orléans</i>. However, many non-noble people also have <i>particules</i> in their names, simply because they indicate some geographic origin or property. An example from current political life is <a href="/wiki/Dominique_de_Villepin" title="Dominique de Villepin">Dominique de Villepin</a>. Former president <a href="/wiki/Val%C3%A9ry_Giscard_d%27Estaing" title="Valéry Giscard d&#39;Estaing">Valéry Giscard d'Estaing</a>'s father had his surname legally changed from "Giscard" to "Giscard d'Estaing" in 1922, claiming the name of a family line extinct since the <a href="/wiki/French_Revolution" title="French Revolution">French Revolution</a>. 	
-</p><p>Adding a <i>particule</i> was one way for people of non-noble origins to pretend they were nobles. In the 19th century wealthy commoners buying nobility titles were derisively called <i>Monsieur de Puispeu</i>, a pun on <i>depuis peu</i> meaning "since recently". Similarly, during the <a href="/wiki/French_Revolution" title="French Revolution">French Revolution</a> of 1789-1799, when being associated with the nobility was out of favor and even risky, some people dropped the <i>de</i> from their name, or omitted the mention of their feudal titles (see image). 	
-</p><p>In some cases, names with <i>particules</i> are made of a normal family name and the name of an estate (or even of several estates). Thus, Dominique de Villepin is <i>Dominique Galouzeau de Villepin</i>; <a href="/wiki/H%C3%A9lie_de_Saint_Marc" title="Hélie de Saint Marc">Hélie de Saint Marc</a> is <i>Hélie Denoix de Saint Marc</i> (in both cases, omitting second or other given names). As in these examples, most people with such long family names shorten their name for common use, by keeping only the first estate name (such as Viscount Philippe Le Jolis de Villiers de Saintignon, assuming in everyday life the name of Philippe de Villiers) or, in some cases, only the family name. Whether the family name or the estate name is used for the shortened form depends on a variety of factors: how people feel bearing a <i>particule</i> (people may for instance dislike the connotations of nobility that the <i>particule</i> entails; on the other hand, they may enjoy the impression of nobility), tradition, etc. For instance, Valéry Giscard d'Estaing is never referred to as "d'Estaing", probably because his <i>particule</i> is a recent addition to the family surname by his father. On the contrary, the press often simply refers to him as "Giscard".
-</p><p>Traditionally, the <i>particule</i> <i>de</i> is omitted when citing the name of a person without a preceding given name, title (<i>baron</i>, <i>duc</i> etc.), job description (<i>général</i>, <i>colonel</i>, etc.) or polite address (<i>monsieur</i>, <i>madame</i>, <i>mademoiselle</i>). Thus, one would say <i>Monsieur de La Vieuville</i>, but if calling him familiarly by his last name only, <i>La Vieuville</i> (note the initial capital letter); the same applies for <i><a href="/wiki/G%C3%A9rard_de_La_Martini%C3%A8re" title="Gérard de La Martinière">Gérard de La Martinière</a></i>, who would be called <i>La Martinière</i>. Similarly, <a href="/wiki/Philippe_de_Villiers" title="Philippe de Villiers">Philippe de Villiers</a> talks about the votes he receives as <i>le vote Villiers</i>. However, this usage is now losing ground to a more egalitarian treatment of surnames; it is, for instance, commonplace to hear people talking of <i>de Villiers</i>. 	
-</p><p>Note that <a href="/wiki/American_English" title="American English">American English</a> language <a href="/wiki/Camel_case" title="Camel case"> medial capital</a> spellings such as <i>DeVilliers</i> are <b>never</b> used in France.
+<h3><span class="mw-headline" id="Referring_to_other_gods">Referring to other gods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Theophoric_name&amp;action=edit&amp;section=9" title="Edit section: Referring to other gods">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Jerubbaal" class="mw-redirect" title="Jerubbaal">Jerubbaal</a>, the alternate name of <a href="/wiki/Gideon" title="Gideon">Gideon</a>, variously translated as "<a href="/wiki/Baal" title="Baal">Baal</a> will contend" or "Let <a href="/wiki/Baal" title="Baal">Baal</a> be great"</li>
+<li><a href="/wiki/Abijam" class="mw-redirect" title="Abijam">Abijam</a>: "my father is <a href="/wiki/Yam_(god)" title="Yam (god)">Yam</a>"</li>
+<li><a href="/wiki/Nebuchadnezzar" class="mw-redirect" title="Nebuchadnezzar">Nebuchadnezzar</a> (in <a href="/wiki/Akkadian_language" title="Akkadian language">Babylonian</a>, <i><a href="/wiki/Nabu" title="Nabu">Nabu</a>-kudurri-usur</i>)</li>
+<li><a href="/wiki/Ishbaal" class="mw-redirect" title="Ishbaal">Ishbaal</a>: "man of <a href="/wiki/Baal" title="Baal">Baal</a>".</li>
+<li><a href="/wiki/Mark_(given_name)" title="Mark (given name)">Mark</a>: "dedicated to <a href="/wiki/Mars_(mythology)" title="Mars (mythology)">Mars</a>".</li>
+<li><a href="/wiki/Jezebel" title="Jezebel">Jezebel</a>: "glory to Baal".</li></ul>
+<p>Theophoric names containing "<a href="/wiki/Baal" title="Baal">Baal</a>" were sometimes "censored" as <i>-bosheth</i> = "shameful one", whence <a href="/wiki/Ishbosheth" class="mw-redirect" title="Ishbosheth">Ishbosheth</a> etc.
+</p><p>Some names might be controversial theological statements: <i><a href="/wiki/Bealiah" title="Bealiah">Bealiah</a></i> could mean <i>Baal is Yahweh</i> and <i><a href="/wiki/Elijah" title="Elijah">Elijah</a></i> could mean <i>Yahweh is El</i> (and vice versa, respectively).<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2010)">citation needed</span></a></i>&#93;</sup> On the other hand, as traditionally understood, these names simply mean "YHWH is Master" and "YHWH is God."<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2010)">citation needed</span></a></i>&#93;</sup>
 </p>
-<h3><span class="mw-headline" id="Changes_of_names">Changes of names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=French_name&amp;action=edit&amp;section=8" title="Edit section: Changes of names">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Contrary to popular belief, and also contrary to the practice of some other countries, French women do not legally change names when they marry. However, it is customary that they take their husband's name as a "usage name".<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> This is not a legal obligation (it is a <i>contra legem</i> custom, as French law since the Revolution requiring that no one may be called by any other name than that written on their birth certificate), and not all women decide to do so. However, if they do, they may retain the use of this name, depending on circumstances, even after a divorce. In some cases, the wife, or both spouses, choose to adopt a double-barreled, hyphenated surname made from joining the surnames of both partners.  Thus, both partners' surnames coexist with whatever usage name they choose.
-</p><p>This distinction is important because many official documents use the person's maiden, or legal or true surname, rather than their usage name.
-</p><p>People may also choose to use other names in daily usage, as long as they are not impersonating others and as long as their usage name is socially accepted. One example of this is the custom of actors or singers to use a <a href="/wiki/Stage_name" title="Stage name">stage name</a>. However, identity documents and other official documents will bear only the "real name" of the person.
-</p><p>In some cases, people change their real name to their stage name; for example, the singer <a href="/wiki/Patrick_Bruel" title="Patrick Bruel">Patrick Bruel</a> changed his name from his birth name of <i>Benguigui</i>. Another example of aliases being turned into true names: During <a href="/wiki/World_War_II" title="World War II">World War II</a>, some <a href="/wiki/French_Resistance" title="French Resistance">Resistance</a> fighters (such as <a href="/wiki/Lucie_Aubrac" title="Lucie Aubrac">Lucie Aubrac</a>) and Jews fleeing persecution adopted aliases. Some kept the alias as a legal name after the war or added it to their name (<a href="/wiki/Jacques_Chaban-Delmas" title="Jacques Chaban-Delmas">Jacques Chaban-Delmas</a>' name was <i>Delmas</i>, and <i>Chaban</i> was the last of his wartime aliases; his children  were given the family surname Delmas).
-</p><p>Truly changing one's last name, as opposed to adopting a usage name, is quite complex. Such changes have to be made official by a <a href="/wiki/Decree" title="Decree"><i>décret en Conseil d'État</i></a> taken by the <a href="/wiki/Prime_Minister_of_France" title="Prime Minister of France">Prime Minister</a> after approbation by the <a href="/wiki/Council_of_State_(France)" class="mw-redirect" title="Council of State (France)">Council of State</a>. Requests for such changes must be justified by some legitimate interest, for instance, changing from a foreign name difficult to pronounce in French to a simpler name, or changing from a name with unfavorable connotations.
-</p>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=French_name&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Dutch_name" title="Dutch name">Dutch name</a></li>
-<li><a href="/wiki/French_honorifics" title="French honorifics">French honorifics</a></li>
-<li><a href="/wiki/German_name" title="German name">German name</a></li>
-<li><a href="/wiki/Germanic_name" title="Germanic name">Germanic name</a></li>
-<li><a href="https://fr.wikipedia.org/wiki/Liste_des_pr%C3%A9noms_francophones" class="extiw" title="fr:Liste des prénoms francophones">List of common French given names</a> at the <a href="/wiki/French_Wikipedia" title="French Wikipedia">French Wikipedia</a> <span class="languageicon">(in French)</span></li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=French_name&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl><dt>General</dt></dl>
-<ul><li><cite class="citation journal">Rouhette, Georges (translator); Rouhette-Berton, Anne (translator) (2006-04-04). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110721141318/http://195.83.177.9/code/liste.phtml?lang=uk&amp;c=22&amp;r=246">"CHAPTER II&#160;: Of Records of Birth"</a>. <i>Civil Code</i>. <a href="/wiki/L%C3%A9gifrance" title="Légifrance">Légifrance</a>. Book I: Of Persons, Title II: Of Records of Civil Status. Archived from <a rel="nofollow" class="external text" href="http://195.83.177.9/code/liste.phtml?lang=uk&amp;c=22&amp;r=246">the original</a> on 2011-07-21.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Civil+Code&amp;rft.atitle=CHAPTER+II+%3A+Of+Records+of+Birth&amp;rft.volume=Book+I%3A+Of+Persons%2C+Title+II%3A+Of+Records+of+Civil+Status&amp;rft.date=2006-04-04&amp;rft.aulast=Rouhette&amp;rft.aufirst=Georges+%28translator%29&amp;rft.au=Rouhette-Berton%2C+Anne+%28translator%29&amp;rft_id=http%3A%2F%2F195.83.177.9%2Fcode%2Fliste.phtml%3Flang%3Duk%26c%3D22%26r%3D246&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrench+name" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style> <span class="languageicon">(in English)</span></li>
-<li>Imprimerie Nationale, <i>Lexique des règles typographiques en usage à l'Imprimerie nationale</i>, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/2-7433-0482-0" title="Special:BookSources/2-7433-0482-0">2-7433-0482-0</a> <span class="languageicon">(in French)</span></li></ul>
-<dl><dt>Specific</dt></dl>
-<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
-<ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.npr.org/2012/01/29/146062634/french-town-says-non-to-mademoiselle">"French Town Says Non to 'Mademoiselle<span class="cs1-kern-right">'</span>"</a>. <i><a href="/wiki/All_Things_Considered" title="All Things Considered">All Things Considered</a></i>. <a href="/wiki/NPR" title="NPR">NPR</a>. 29 January 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">26 August</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=All+Things+Considered&amp;rft.atitle=French+Town+Says+Non+to+%27Mademoiselle%27&amp;rft.date=2012-01-29&amp;rft_id=https%3A%2F%2Fwww.npr.org%2F2012%2F01%2F29%2F146062634%2Ffrench-town-says-non-to-mademoiselle&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrench+name" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Theophoric_name&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.merriam-webster.com/dictionary/theophoric">"theophoric"</a>. <a href="/wiki/Merriam-Webster" title="Merriam-Webster">Merriam-Webster online dictionary</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=theophoric&amp;rft.pub=Merriam-Webster+online+dictionary&amp;rft_id=http%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2Ftheophoric&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATheophoric+name" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.linternaute.com/femmes/prenoms/enfant/2009/">"Les prénoms les plus donnés en 2009"</a>. <i>linternaute.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=linternaute.com&amp;rft.atitle=Les+pr%C3%A9noms+les+plus+donn%C3%A9s+en+2009&amp;rft_id=http%3A%2F%2Fwww.linternaute.com%2Ffemmes%2Fprenoms%2Fenfant%2F2009%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrench+name" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=qeo/foros"><span lang="grc" title="Ancient Greek language text">θεόφορος</span></a>. <a href="/wiki/Henry_Liddell" title="Henry Liddell">Liddell, Henry George</a>; <a href="/wiki/Robert_Scott_(philologist)" title="Robert Scott (philologist)">Scott, Robert</a>; <i><a href="/wiki/A_Greek%E2%80%93English_Lexicon" title="A Greek–English Lexicon">A Greek–English Lexicon</a></i> at the <a href="/wiki/Perseus_Project" title="Perseus Project">Perseus Project</a>.</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.meilleursprenoms.com/stats/histogram.php3?recherche=julie&amp;sexe=1">male INSEE stats</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070320213611/http://meilleursprenoms.com/stats/histogram.php3?recherche=Julie&amp;sexe=1">Archived</a> 2007-03-20 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Shendge, Malati J. <i>The Language of the Harappans: From <a href="/wiki/Akkadian_language" title="Akkadian language">Akkadian</a> to <a href="/wiki/Sanskrit_language" class="mw-redirect" title="Sanskrit language">Sanskrit</a></i>, 1997. p 24. "It may also be interpreted as theophorous names, i.e. the name of the god forming part of the name of an individual. The usage is theophorous because besides the <a href="/wiki/Eponymous" class="mw-redirect" title="Eponymous">eponymous</a> Asura, each individual of high or low status has a <a href="/wiki/Personal_name" title="Personal name">personal name</a>."</span>
 </li>
-<li id="cite_note-NZ_Herald_10619062-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-NZ_Herald_10619062_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Lichfield, John (January 8, 2010). <a rel="nofollow" class="external text" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;objectid=10619062">"Double--hyphen surname law gets both barrels"</a>. <i><a href="/wiki/The_New_Zealand_Herald" title="The New Zealand Herald">The New Zealand Herald</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 30,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+New+Zealand+Herald&amp;rft.atitle=Double--hyphen+surname+law+gets+both+barrels&amp;rft.date=2010-01-08&amp;rft.au=Lichfield%2C+John&amp;rft_id=http%3A%2F%2Fwww.nzherald.co.nz%2Fworld%2Fnews%2Farticle.cfm%3Fc_id%3D2%26objectid%3D10619062&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrench+name" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Zadok, R. <i>The Pre-<a href="/wiki/Hellenistic_period" title="Hellenistic period">hellenistic</a> <a href="/wiki/Israelite" class="mw-redirect" title="Israelite">Israelite</a> <a href="/wiki/Anthroponymy" title="Anthroponymy">Anthroponymy</a> and <a href="/wiki/Prosopography" title="Prosopography">Prosopography</a></i>, 1988. p 16. "The Period of the Judges (J) The theophorous names constitute a sizable minority (almost 40%). Many of the hypocoristica possibly originate from compound theophorous names (e.g., Abdon, Gerd, J21 1 1 1 1, 2141 12)."</span>
 </li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="languageicon">(in French)</span> <cite class="citation web">Staff. <a rel="nofollow" class="external text" href="http://www.babyfrance.com/Legislation-sur-les-prenoms">"Législation sur les prénoms (Legislation on names)"</a>. <i>babyfrance.com</i> (in French). Baby on Web<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-07-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=babyfrance.com&amp;rft.atitle=L%C3%A9gislation+sur+les+pr%C3%A9noms+%28Legislation+on+names%29&amp;rft.au=Staff&amp;rft_id=http%3A%2F%2Fwww.babyfrance.com%2FLegislation-sur-les-prenoms&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrench+name" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Benz, Frank L. <i>Personal Names in the <a href="/wiki/Phoenicia" title="Phoenicia">Phoenician</a> and <a href="/wiki/Punic_language" title="Punic language">Punic</a> Inscriptions</i>. p 233. "Any one of the three major types of elements, <a href="/wiki/Divine_name" class="mw-redirect" title="Divine name">divine name</a> or theophorous, nominal, or verbal can make up a Phoenician-Punic <a href="/wiki/Hypocoristic_name" class="mw-redirect" title="Hypocoristic name">hypocoristic name</a>. The divine name <a href="/wiki/Hypocoristic" class="mw-redirect" title="Hypocoristic">hypocoristic</a> is the least attested. The simplest formation is that of a single ..."</span>
 </li>
-<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&amp;idArticle=LEGIARTI000006424849&amp;dateTexte=&amp;categorieLien=cid">"Code civil - Article 311-21 - Legifrance"</a>. <i>legifrance.gouv.fr</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=legifrance.gouv.fr&amp;rft.atitle=Code+civil+-+Article+311-21+-+Legifrance&amp;rft_id=http%3A%2F%2Fwww.legifrance.gouv.fr%2FaffichCodeArticle.do%3FcidTexte%3DLEGITEXT000006070721%26idArticle%3DLEGIARTI000006424849%26dateTexte%3D%26categorieLien%3Dcid&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrench+name" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Drijvers, H. J. W. <i>Cults and Behafs at Edessa</i>, 1980. p 21. "The proper names, which are mainly theophorous ones, may increase our knowledge of the religious feeling of the people of <a href="/wiki/Edessa" title="Edessa">Edessa</a> and of the <a href="/wiki/Cult" title="Cult">cults</a> practiced by them, insofar as their theophorous elements reflect existing beliefs."</span>
 </li>
-<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.hrweb.org/legal/cdw.html">"U.N. Convention on Discrimination against Women"</a>. <i>hrweb.org</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=hrweb.org&amp;rft.atitle=U.N.+Convention+on+Discrimination+against+Women&amp;rft_id=http%3A%2F%2Fwww.hrweb.org%2Flegal%2Fcdw.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrench+name" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Mark Haughwout, "Personal Names Before Exodus 6:2-3" <a rel="nofollow" class="external autonumber" href="http://markhaughwout.com/Bible/Prefixes_suffixes_divine_names_Genesis.htm">[1]</a></span>
 </li>
-<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000685234">Circular of 26 June 1986 implementing Article 43 of Law No. 85-1372 of 23 December 1985.</a>, <a href="/wiki/Journal_officiel_de_la_R%C3%A9publique_fran%C3%A7aise" class="mw-redirect" title="Journal officiel de la République française">JORF</a> No. 153 of 3 July 1986, pp. 8245–8247, sur <a href="/wiki/L%C3%A9gifrance" title="Légifrance">Légifrance</a>.</span>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Anson F. Rainey, <a rel="nofollow" class="external text" href="http://members.fortunecity.com/yahuwthah/Resource-577/AnsonLetter.htm">How Yahweh Was Pronounced</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20111202034811/http://members.fortunecity.com/yahuwthah/Resource-577/AnsonLetter.htm">Archived</a> December 2, 2011, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, QUERIES &amp; COMMENTS.</span>
 </li>
-<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.geopatronyme.com/cgi-bin/carte/hitnom.cgi?periode=5">"LES NOMS DE FAMILLE LES PLUS PORTES PAR NAISSANCE EN FRANCE entre 1891 et 1990"</a>. <i>geopatronyme.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=geopatronyme.com&amp;rft.atitle=LES+NOMS+DE+FAMILLE+LES+PLUS+PORTES+PAR+NAISSANCE+EN+FRANCE+entre+1891+et+1990&amp;rft_id=http%3A%2F%2Fwww.geopatronyme.com%2Fcgi-bin%2Fcarte%2Fhitnom.cgi%3Fperiode%3D5&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrench+name" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a href="/wiki/Christian_Ginsburg" class="mw-redirect" title="Christian Ginsburg">Christian Ginsburg</a>, Introduction To the Massoretico-Critical Edition Of The Hebrew Bible, p 369</span>
 </li>
-<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.geopatronyme.com/cgi-bin/carte/hitnom.cgi?periode=4">"LES NOMS DE FAMILLE LES PLUS PORTES PAR NAISSANCE EN FRANCE entre 1966 et 1990"</a>. <i>geopatronyme.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=geopatronyme.com&amp;rft.atitle=LES+NOMS+DE+FAMILLE+LES+PLUS+PORTES+PAR+NAISSANCE+EN+FRANCE+entre+1966+et+1990&amp;rft_id=http%3A%2F%2Fwww.geopatronyme.com%2Fcgi-bin%2Fcarte%2Fhitnom.cgi%3Fperiode%3D4&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrench+name" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Scott Jones, <a rel="nofollow" class="external text" href="http://www.lamblion.net/Articles/ScottJones/jehovah1.htm">Jehovah</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20051215095417/http://www.lamblion.net/Articles/ScottJones/jehovah1.htm">Archived</a> December 15, 2005, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
 </li>
-<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.linternaute.com/femmes/nom-de-famille/">Noms de famille: les noms de famille les plus portés, l'origine de votre nom de famille</a> (French)</span>
-</li>
-<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://statbel.fgov.be/fr/statistiques/chiffres/population/autres/noms/fam/">Noms de famille les plus fréquents en 2008 – Belgique et Régions (Top 100)</a></span>
-</li>
-<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.stat.gouv.qc.ca/publications/demograp/noms_famille.htm">Les noms de famille au Québec&#160;: aspects statistiques et distribution spatiale</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20131118085330/http://www.stat.gouv.qc.ca/publications/demograp/noms_famille.htm">Archived</a> 2013-11-18 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
-</li>
-<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.geopatronyme.com/cdip/region2.htm">"LES NOMS DE FAMILLE LES PLUS PORTES EN FRANCE PAR REGION"</a>. <i>geopatronyme.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=geopatronyme.com&amp;rft.atitle=LES+NOMS+DE+FAMILLE+LES+PLUS+PORTES+EN+FRANCE+PAR+REGION&amp;rft_id=http%3A%2F%2Fwww.geopatronyme.com%2Fcdip%2Fregion2.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrench+name" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.218.5543&amp;rep=rep1&amp;type=pdf">"The surname of married women in the European Union"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+surname+of+married+women+in+the+European+Union&amp;rft_id=http%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fdownload%3Fdoi%3D10.1.1.218.5543%26rep%3Drep1%26type%3Dpdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrench+name" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/> <a href="https://fr.wikipedia.org/wiki/Population_%26_Soci%C3%A9t%C3%A9s" class="extiw" title="fr:Population &amp; Sociétés">fr:Population &amp; Sociétés</a> No. 367 of April 2001</span>
-</li>
-</ol></div>
-<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=French_name&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110718130222/http://www.prefecturedepolice.interieur.gouv.fr/content/download/6610/54315/file/Liste%20des%20pr%C3%A9noms.pdf">"Liste alphabétique des prénoms"</a> &#91;Official list of French given names&#93; <span class="cs1-format">(PDF)</span> (in French). <a href="/wiki/Prefecture_of_Police" title="Prefecture of Police">Prefecture of Police</a>. October 22, 2009. Archived from <a rel="nofollow" class="external text" href="http://www.prefecturedepolice.interieur.gouv.fr/content/download/6610/54315/file/Liste%20des%20pr%C3%A9noms.pdf">the original</a> <span class="cs1-format">(<a href="/wiki/Portable_Document_Format" class="mw-redirect" title="Portable Document Format">PDF</a>)</span> on July 18, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-02-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Liste+alphab%C3%A9tique+des+pr%C3%A9noms&amp;rft.pub=Prefecture+of+Police&amp;rft.date=2009-10-22&amp;rft_id=http%3A%2F%2Fwww.prefecturedepolice.interieur.gouv.fr%2Fcontent%2Fdownload%2F6610%2F54315%2Ffile%2FListe%2520des%2520pr%25C3%25A9noms.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrench+name" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110708151830/http://frenchbabynames.org/">More French Baby names</a></li>
-<li><a rel="nofollow" class="external text" href="http://french.about.com/od/culture/a/frenchnames_3.htm">French female names</a></li></ul>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Theophoric_name&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Beate Pongratz-Leisten, <a rel="nofollow" class="external text" href="https://pennstate.academia.edu/GRubio/Papers/911426/Gods_and_Scholars_Mapping_the_Pantheon_in_Early_Mesopotamia_in_Reconsidering_the_Concept_of_Revolutionary_Monotheism_2011_"><i>Reconsidering the Concept of Revolutionary Monotheism</i></a> Eisenbrauns 2011</li>
+<li><a rel="nofollow" class="external text" href="http://www.lgpn.ox.ac.uk/names/developments.html">Lexicon of Greek Personal Names</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.edofolks.com/html/pub119.htm">Ogden Goelet, "Moses' Egyptian Name"</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.slate.com/id/2179082/">When Can Muslims Use the Name Mohammed?: Plus, why don't English speakers name their children Jesus?</a> by Michelle Tsai</li></ul>
 <div role="navigation" class="navbox" aria-labelledby="Personal_names_and_anthroponymy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Personal_names" title="Template:Personal names"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Personal_names" title="Template talk:Personal names"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Personal_names&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Personal_names_and_anthroponymy" style="font-size:114%;margin:0 4em"><a href="/wiki/Personal_name" title="Personal name">Personal names</a> and <a href="/wiki/Anthroponymy" title="Anthroponymy">anthroponymy</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*Personal_identity">
 <ul><li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a></li></ul>
 </div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Personal_name" title="Personal name">Personal name</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
@@ -407,7 +562,7 @@
 <li><a href="/wiki/Fijian_name" title="Fijian name">Fijian</a></li>
 <li><a href="/wiki/Filipino_name" title="Filipino name">Filipino</a></li>
 <li><a href="/wiki/Finnish_name" title="Finnish name">Finnish</a></li>
-<li><a class="mw-selflink selflink">French</a></li>
+<li><a href="/wiki/French_name" title="French name">French</a></li>
 <li><a href="/wiki/Spanish_naming_customs#Galician_names" title="Spanish naming customs">Galician</a></li>
 <li><a href="/wiki/Georgian_name" title="Georgian name">Georgian</a></li>
 <li><a href="/wiki/German_name" title="German name">German</a></li>
@@ -483,7 +638,7 @@
 <li><a href="/wiki/Saint%27s_name" title="Saint&#39;s name">Saint's name</a></li></ul></li>
 <li><a href="/wiki/Dharma_name" title="Dharma name">Dharma name</a></li>
 <li><a href="/wiki/Jewish_name" title="Jewish name">Jewish name</a></li>
-<li><a href="/wiki/Theophoric_name" title="Theophoric name">Theophoric name</a></li></ul>
+<li><a class="mw-selflink selflink">Theophoric name</a></li></ul>
 </div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Manners of address<br /><small><a href="/wiki/List_of_titles" title="List of titles">List</a></small><br /><small><a href="/wiki/Title_of_authority" title="Title of authority">of authority</a>/<a href="/wiki/Title_of_honor" title="Title of honor">of honour</a></small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Style_(manner_of_address)" title="Style (manner of address)">Styles</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
 <ul><li><a href="/wiki/Honorific" title="Honorific">Honorific</a>
 <ul><li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
@@ -541,46 +696,46 @@
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1248
-Cached time: 20191020142610
+Parsed by mw1330
+Cached time: 20191027025511
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.836 seconds
-Real time usage: 1.071 seconds
-Preprocessor visited node count: 1889/1000000
+CPU time usage: 0.464 seconds
+Real time usage: 0.604 seconds
+Preprocessor visited node count: 2089/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 82193/2097152 bytes
-Template argument size: 3327/2097152 bytes
-Highest expansion depth: 13/40
-Expensive parser function count: 6/500
+Post‐expand include size: 80480/2097152 bytes
+Template argument size: 9105/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 4/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 36421/5000000 bytes
+Unstrip post‐expand size: 28673/5000000 bytes
 Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.461/10.000 seconds
-Lua memory usage: 13.48 MB/50 MB
+Lua time usage: 0.231/10.000 seconds
+Lua memory usage: 12.37 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  868.333      1 -total
- 24.85%  215.812      1 Template:Lang-fr
- 14.32%  124.313      1 Template:Cite_journal
- 12.99%  112.764      1 Template:Reflist
- 10.65%   92.472      1 Template:More_citations_needed
- 10.14%   88.013      2 Template:Ambox
-  7.04%   61.134     10 Template:Cite_web
-  6.99%   60.692      3 Template:Fix
-  6.89%   59.811      2 Template:Citation_needed
-  5.82%   50.530      1 Template:ISBN
+100.00%  473.493      1 -total
+ 33.82%  160.155      2 Template:Lang
+ 21.77%  103.087      1 Template:Multiple_issues
+ 21.67%  102.619      3 Template:Ambox
+ 19.18%   90.837      1 Template:Reflist
+ 12.72%   60.220      1 Template:Cite_web
+  6.44%   30.512      2 Template:Citation_needed
+  5.46%   25.861      2 Template:Fix
+  5.33%   25.254      1 Template:Personal_names
+  5.26%   24.921      1 Template:Original_research
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:2682894-0!canonical and timestamp 20191020142609 and revision id 916850698
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1242447-0!canonical and timestamp 20191027025510 and revision id 919992851
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=French_name&amp;oldid=916850698">https://en.wikipedia.org/w/index.php?title=French_name&amp;oldid=916850698</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Theophoric_name&amp;oldid=919992851">https://en.wikipedia.org/w/index.php?title=Theophoric_name&amp;oldid=919992851</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:French_given_names" title="Category:French given names">French given names</a></li><li><a href="/wiki/Category:French-language_surnames" title="Category:French-language surnames">French-language surnames</a></li><li><a href="/wiki/Category:Names_by_culture" title="Category:Names by culture">Names by culture</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_with_French-language_external_links" title="Category:Articles with French-language external links">Articles with French-language external links</a></li><li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_December_2017" title="Category:Articles needing additional references from December 2017">Articles needing additional references from December 2017</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_November_2012" title="Category:Articles needing additional references from November 2012">Articles needing additional references from November 2012</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2016" title="Category:Articles with unsourced statements from January 2016">Articles with unsourced statements from January 2016</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2015" title="Category:Articles with unsourced statements from December 2015">Articles with unsourced statements from December 2015</a></li><li><a href="/wiki/Category:All_accuracy_disputes" title="Category:All accuracy disputes">All accuracy disputes</a></li><li><a href="/wiki/Category:Articles_with_disputed_statements_from_December_2013" title="Category:Articles with disputed statements from December 2013">Articles with disputed statements from December 2013</a></li><li><a href="/wiki/Category:Articles_containing_French-language_text" title="Category:Articles containing French-language text">Articles containing French-language text</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2018" title="Category:Articles with unsourced statements from August 2018">Articles with unsourced statements from August 2018</a></li><li><a href="/wiki/Category:CS1:_long_volume_value" title="Category:CS1: long volume value">CS1: long volume value</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Theophoric_names" title="Category:Theophoric names">Theophoric names</a></li><li><a href="/wiki/Category:Given_name_types" title="Category:Given name types">Given name types</a></li><li><a href="/wiki/Category:Greek_words_and_phrases" title="Category:Greek words and phrases">Greek words and phrases</a></li><li><a href="/wiki/Category:Names" title="Category:Names">Names</a></li><li><a href="/wiki/Category:Onomastics" title="Category:Onomastics">Onomastics</a></li><li><a href="/wiki/Category:Religious_behaviour_and_experience" title="Category:Religious behaviour and experience">Religious behaviour and experience</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_Ancient_Greek-language_text" title="Category:Articles containing Ancient Greek-language text">Articles containing Ancient Greek-language text</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_that_may_contain_original_research_from_December_2010" title="Category:Articles that may contain original research from December 2010">Articles that may contain original research from December 2010</a></li><li><a href="/wiki/Category:All_articles_that_may_contain_original_research" title="Category:All articles that may contain original research">All articles that may contain original research</a></li><li><a href="/wiki/Category:Articles_with_too_many_examples_from_February_2010" title="Category:Articles with too many examples from February 2010">Articles with too many examples from February 2010</a></li><li><a href="/wiki/Category:All_articles_with_too_many_examples" title="Category:All articles with too many examples">All articles with too many examples</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_style_issues_from_February_2010" title="Category:Wikipedia articles with style issues from February 2010">Wikipedia articles with style issues from February 2010</a></li><li><a href="/wiki/Category:Articles_with_multiple_maintenance_issues" title="Category:Articles with multiple maintenance issues">Articles with multiple maintenance issues</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2010" title="Category:Articles with unsourced statements from November 2010">Articles with unsourced statements from November 2010</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -596,13 +751,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=French+name" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=French+name" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Theophoric+name" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Theophoric+name" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/French_name" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:French_name" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Theophoric_name" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Theophoric_name" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -617,7 +772,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/French_name">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=French_name&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=French_name&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Theophoric_name">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Theophoric_name&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Theophoric_name&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -656,28 +811,28 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/French_name" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/French_name" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=French_name&amp;oldid=916850698" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=French_name&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3342922" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=French_name&amp;id=916850698" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Theophoric_name" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Theophoric_name" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Theophoric_name&amp;oldid=919992851" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Theophoric_name&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1501358" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Theophoric_name&amp;id=919992851" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=French+name">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=French+name&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=French_name&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Theophoric+name">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Theophoric+name&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Theophoric_name&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Nom_des_personnes_physiques_en_droit_fran%C3%A7ais" title="Nom des personnes physiques en droit français – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%BE%D0%B5_%D0%B8%D0%BC%D1%8F" title="Французское имя – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%8C%D0%BA%D0%B5_%D1%96%D0%BC%27%D1%8F" title="Французьке ім&#039;я – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3342922#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D8%B3%D9%85_%D8%AB%D9%8A%D9%88%D9%81%D9%88%D8%B1%D9%8A" title="اسم ثيوفوري – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Nom_te%C3%B2for" title="Nom teòfor – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Teoforick%C3%A9_jm%C3%A9no" title="Teoforické jméno – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Dwyfenw" title="Dwyfenw – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Theophorer_Name" title="Theophorer Name – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Nombre_teof%C3%B3rico" title="Nombre teofórico – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Nom_th%C3%A9ophore" title="Nom théophore – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Nama_teoforis" title="Nama teoforis – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Nome_teoforico" title="Nome teoforico – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A9%D7%9D_%D7%AA%D7%90%D7%95%D7%A4%D7%95%D7%A8%D7%99" title="שם תאופורי – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Imi%C4%99_teoforyczne" title="Imię teoforyczne – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Nome_te%C3%B3foro" title="Nome teóforo – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%84%D0%BE%D1%80%D0%BD%D1%8B%D0%B5_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0" title="Теофорные имена – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%84%D0%BE%D1%80%D0%BD%D1%96_%D1%96%D0%BC%D0%B5%D0%BD%D0%B0" title="Теофорні імена – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1501358#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 20 September 2019, at 23:47<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 7 October 2019, at 02:39<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -688,7 +843,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=French_name&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Theophoric_name&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -700,8 +855,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.836","walltime":"1.071","ppvisitednodes":{"value":1889,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":82193,"limit":2097152},"templateargumentsize":{"value":3327,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":36421,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  868.333      1 -total"," 24.85%  215.812      1 Template:Lang-fr"," 14.32%  124.313      1 Template:Cite_journal"," 12.99%  112.764      1 Template:Reflist"," 10.65%   92.472      1 Template:More_citations_needed"," 10.14%   88.013      2 Template:Ambox","  7.04%   61.134     10 Template:Cite_web","  6.99%   60.692      3 Template:Fix","  6.89%   59.811      2 Template:Citation_needed","  5.82%   50.530      1 Template:ISBN"]},"scribunto":{"limitreport-timeusage":{"value":"0.461","limit":"10.000"},"limitreport-memusage":{"value":14139478,"limit":52428800}},"cachereport":{"origin":"mw1248","timestamp":"20191020142610","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"French name","url":"https:\/\/en.wikipedia.org\/wiki\/French_name","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3342922","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3342922","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-09-15T12:21:11Z","dateModified":"2019-09-20T23:47:14Z","headline":"conventions for using people's names in France"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":109,"wgHostname":"mw1330"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.464","walltime":"0.604","ppvisitednodes":{"value":2089,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":80480,"limit":2097152},"templateargumentsize":{"value":9105,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":28673,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  473.493      1 -total"," 33.82%  160.155      2 Template:Lang"," 21.77%  103.087      1 Template:Multiple_issues"," 21.67%  102.619      3 Template:Ambox"," 19.18%   90.837      1 Template:Reflist"," 12.72%   60.220      1 Template:Cite_web","  6.44%   30.512      2 Template:Citation_needed","  5.46%   25.861      2 Template:Fix","  5.33%   25.254      1 Template:Personal_names","  5.26%   24.921      1 Template:Original_research"]},"scribunto":{"limitreport-timeusage":{"value":"0.231","limit":"10.000"},"limitreport-memusage":{"value":12971845,"limit":52428800}},"cachereport":{"origin":"mw1330","timestamp":"20191027025511","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Theophoric name","url":"https:\/\/en.wikipedia.org\/wiki\/Theophoric_name","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1501358","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1501358","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-12-04T19:16:07Z","dateModified":"2019-10-07T02:39:05Z","headline":"name embedding the name of a god"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":103,"wgHostname":"mw1249"});});</script>
 </body>
 </html>

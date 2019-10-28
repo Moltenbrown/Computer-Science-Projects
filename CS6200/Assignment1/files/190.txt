@@ -2,35 +2,34 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Adams (surname) - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Adams_(surname)","wgTitle":"Adams (surname)","wgCurRevisionId":920146693,"wgRevisionId":920146693,"wgArticleId":10679176,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","All set index articles","Surnames","Patronymic surnames","Surnames of English origin"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Adams_(surname)","wgRelevantArticleId":10679176,"wgRequestId":
-"XbC2OApAICoAAH7XGbgAAABP","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q351735","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":
-"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP",
-"ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Powell (surname) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Powell_(surname)","wgTitle":"Powell (surname)","wgCurRevisionId":922645347,"wgRevisionId":922645347,"wgArticleId":6338207,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","All set index articles","Surnames","Surnames of Welsh origin","Patronymic surnames"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Powell_(surname)","wgRelevantArticleId":6338207,"wgRequestId":
+"XbUD6gpAAD8AAAyu4hkAAACK","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1158612","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready",
+"mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.2"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Adams_(surname)"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Adams_(surname)&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Adams_(surname)&amp;action=edit"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Powell_(surname)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Powell_(surname)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Powell_(surname)&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Adams_(surname)"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Powell_(surname)"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Adams_surname rootpage-Adams_surname skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Powell_surname rootpage-Powell_surname skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -39,7 +38,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Adams (surname)</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Powell (surname)</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -50,404 +49,187 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em"><caption>Adams</caption><tbody><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Origin</th></tr><tr><th scope="row">Meaning</th><td>"Son of Adam"</td></tr><tr><th scope="row">Region of origin</th><td><a href="/wiki/England" title="England">England</a>, <a href="/wiki/Scotland" title="Scotland">Scotland</a> and <a href="/wiki/Ireland" title="Ireland">Ireland</a></td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Other names</th></tr><tr><th scope="row">Variant form(s)</th><td>MacAdam (in Scotland and Ireland)</td></tr><tr><td colspan="2" style="text-align:center;border-top: #a2a9b1 1px solid;"><sup id="cite_ref-BDF_1-0" class="reference"><a href="#cite_note-BDF-1">&#91;1&#93;</a></sup><sup id="cite_ref-origin1_2-0" class="reference"><a href="#cite_note-origin1-2">&#91;2&#93;</a></sup></td></tr></tbody></table>
-<p><b>Adams</b> is a common <a href="/wiki/Surname" title="Surname">surname</a> of <a href="/wiki/England" title="England">English</a>,  <a href="/wiki/Scotland" title="Scotland">Scottish</a>, and <a href="/wiki/Ireland" title="Ireland">Irish</a> origin, meaning "son of <a href="/wiki/Adam_(name)" class="mw-redirect" title="Adam (name)">Adam</a>".<sup id="cite_ref-Hanks_Coates_McClure_2016_3-0" class="reference"><a href="#cite_note-Hanks_Coates_McClure_2016-3">&#91;3&#93;</a></sup><sup id="cite_ref-origin1_2-1" class="reference"><a href="#cite_note-origin1-2">&#91;2&#93;</a></sup>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Powell</b> is a <a href="/wiki/Surname" title="Surname">surname</a> of <a href="/wiki/Wales" title="Wales">Welsh</a> origin. It is a patronymic form of the Welsh name <i>Hywel</i> (later <a href="/wiki/Anglicized" class="mw-redirect" title="Anglicized">anglicized</a> as <i>Howell</i>), with the prefix <i>ap</i> meaning "son of", together forming <i>ap Hywel</i>, or "son of Hywel". It is an uncommon name among those of Welsh ancestry. It originates in a dynasty of kings in Wales, and Brittany in the 9th and 10th century, and three Welsh royal houses of that time onwards. The <a href="/wiki/House_of_Tudor" title="House of Tudor">House of Tudor</a> one of the Royal houses of England, also descended from them. See also: <a href="/wiki/Howell_(surname)" class="mw-redirect" title="Howell (surname)">Howell (surname)</a>, and <a href="/wiki/Welsh_surnames" title="Welsh surnames">Welsh surnames</a>.
 </p>
 <div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#People_with_the_surname"><span class="tocnumber">1</span> <span class="toctext">People with the surname</span></a>
-<ul>
-<li class="toclevel-2 tocsection-2"><a href="#Politics_and_law"><span class="tocnumber">1.1</span> <span class="toctext">Politics and law</span></a></li>
-<li class="toclevel-2 tocsection-3"><a href="#Sports"><span class="tocnumber">1.2</span> <span class="toctext">Sports</span></a></li>
-<li class="toclevel-2 tocsection-4"><a href="#Literature_and_journalism"><span class="tocnumber">1.3</span> <span class="toctext">Literature and journalism</span></a></li>
-<li class="toclevel-2 tocsection-5"><a href="#Music"><span class="tocnumber">1.4</span> <span class="toctext">Music</span></a></li>
-<li class="toclevel-2 tocsection-6"><a href="#Art_and_photography"><span class="tocnumber">1.5</span> <span class="toctext">Art and photography</span></a></li>
-<li class="toclevel-2 tocsection-7"><a href="#Dance"><span class="tocnumber">1.6</span> <span class="toctext">Dance</span></a></li>
-<li class="toclevel-2 tocsection-8"><a href="#Drama_and_television"><span class="tocnumber">1.7</span> <span class="toctext">Drama and television</span></a></li>
-<li class="toclevel-2 tocsection-9"><a href="#Models"><span class="tocnumber">1.8</span> <span class="toctext">Models</span></a></li>
-<li class="toclevel-2 tocsection-10"><a href="#Military"><span class="tocnumber">1.9</span> <span class="toctext">Military</span></a></li>
-<li class="toclevel-2 tocsection-11"><a href="#Science,_medicine,_and_engineering"><span class="tocnumber">1.10</span> <span class="toctext">Science, medicine, and engineering</span></a></li>
-<li class="toclevel-2 tocsection-12"><a href="#Other"><span class="tocnumber">1.11</span> <span class="toctext">Other</span></a></li>
-<li class="toclevel-2 tocsection-13"><a href="#Disambiguation"><span class="tocnumber">1.12</span> <span class="toctext">Disambiguation</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-14"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
-<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#Deceased"><span class="tocnumber">1</span> <span class="toctext">Deceased</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Living"><span class="tocnumber">2</span> <span class="toctext">Living</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Fictional_characters"><span class="tocnumber">3</span> <span class="toctext">Fictional characters</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
 </ul>
 </div>
 
-<h2><span class="mw-headline" id="People_with_the_surname">People with the surname</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adams_(surname)&amp;action=edit&amp;section=1" title="Edit section: People with the surname">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Politics_and_law">Politics and law</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adams_(surname)&amp;action=edit&amp;section=2" title="Edit section: Politics and law">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/A._A._Adams" title="A. A. Adams">A. A. Adams</a> (1900–1985), American politician</li>
-<li><a href="/wiki/Abigail_Adams" title="Abigail Adams">Abigail Adams</a> (1744–1818), second <a href="/wiki/First_Lady_of_the_United_States" title="First Lady of the United States">First Lady of the United States</a> and mother of John Quincy Adams, sixth President of the United States.</li>
-<li><a href="/wiki/Benjamin_F._Adams" title="Benjamin F. Adams">Benjamin F. Adams</a> (1822–1902), American politician</li>
-<li><a href="/wiki/Brock_Adams" title="Brock Adams">Brock Adams</a> (1927–2004), U.S. representative and U.S. senator from Washington</li>
-<li><a href="/wiki/Bryan_Adams_(Louisiana_politician)" class="mw-redirect" title="Bryan Adams (Louisiana politician)">Bryan Adams (Louisiana politician)</a> (born 1963), member of the Louisiana House of Representatives from Jefferson Parish</li>
-<li><a href="/wiki/Campbell_W._Adams" title="Campbell W. Adams">Campbell W. Adams</a> (1852–1930), NY State Engineer and Surveyor 1894–1898</li>
-<li><a href="/wiki/Charles_C._Adams,_Jr." class="mw-redirect" title="Charles C. Adams, Jr.">Charles C. Adams, Jr.</a> (born 1947), American international arbitration lawyer, civic activist</li>
-<li><a href="/wiki/Charles_Francis_Adams,_Sr." class="mw-redirect" title="Charles Francis Adams, Sr.">Charles Francis Adams, Sr.</a> (1807–1886), U.S. congressman, ambassador</li>
-<li><a href="/wiki/Dick_Adams_(politician)" title="Dick Adams (politician)">Dick Adams (politician)</a> (born 1951), Australian politician</li>
-<li><a href="/wiki/Floyd_Adams,_Jr." class="mw-redirect" title="Floyd Adams, Jr.">Floyd Adams, Jr.</a> (1945–2014), American politician</li>
-<li><a href="/wiki/Fraser_L._Adams" title="Fraser L. Adams">Fraser L. Adams</a> (1891–1979), mayor of Huntsville, Alabama</li>
-<li><a href="/wiki/Gabriel_Adams" title="Gabriel Adams">Gabriel Adams</a> (1790–1864), mayor of Pittsburgh, Pennsylvania</li>
-<li><a href="/wiki/Gerry_Adams" title="Gerry Adams">Gerry Adams</a> (born 1948), Irish republican politician, former Leader of <a href="/wiki/Sinn_F%C3%A9in" title="Sinn Féin">Sinn Féin</a> (1983-2018)</li>
-<li><a href="/wiki/Henry_Cullen_Adams" title="Henry Cullen Adams">Henry Cullen Adams</a> (1850–1906), U.S. representative from Wisconsin</li>
-<li><a href="/wiki/Irene_Adams,_Baroness_Adams_of_Craigielea" class="mw-redirect" title="Irene Adams, Baroness Adams of Craigielea">Irene Adams, Baroness Adams of Craigielea</a> (born 1947), Scottish politician</li>
-<li><a href="/wiki/Isaac_Adams" title="Isaac Adams">Isaac Adams</a> (1802–1883), American politician</li>
-<li><a href="/wiki/Isaac_Adams_(Wisconsin)" title="Isaac Adams (Wisconsin)">Isaac Adams (Wisconsin)</a> (1825–1879), American politician</li>
-<li><a href="/wiki/John_Donley_Adams" title="John Donley Adams">John Donley Adams</a> (born 1974), American lawyer and politician</li>
-<li><a href="/wiki/John_Adams" title="John Adams">John Adams</a> (1735–1826), one of the <a href="/wiki/Founding_Fathers" class="mw-redirect" title="Founding Fathers">Founding Fathers</a>, first <a href="/wiki/Vice_President_of_the_United_States" title="Vice President of the United States">Vice President of the United States</a> and second <a href="/wiki/President_of_the_United_States" title="President of the United States">President of the United States</a>.</li>
-<li><a href="/wiki/John_Adams_(major_general)" class="mw-redirect" title="John Adams (major general)">John Adams (major general)</a> (born 1942), Chief of the Canadian Security Establishment</li>
-<li><a href="/wiki/John_Adams_(New_York)" class="mw-redirect" title="John Adams (New York)">John Adams (New York)</a> (1778–1854), U.S. congressman from New York</li>
-<li><a href="/wiki/John_Quincy_Adams" title="John Quincy Adams">John Quincy Adams</a> (1767–1848), sixth president of the United States and son of John Adams, second president of the United States.</li>
-<li><a href="/wiki/Judith_Adams" title="Judith Adams">Judith Adams</a> (1943–2012), Australian senator</li>
-<li><a href="/wiki/J%C3%BCri_Adams" title="Jüri Adams">Jüri Adams</a> (born 1947), Estonian politician</li>
-<li><a href="/wiki/Natalie_Adams" title="Natalie Adams">Natalie Adams</a>, Australian judge</li>
-<li><a href="/wiki/Nigel_Adams" title="Nigel Adams">Nigel Adams</a> (born 1966), British politician</li>
-<li><a href="/wiki/Philip_Adams" title="Philip Adams">Philip Adams</a> (1915–2001), British diplomat</li>
-<li><a href="/wiki/Platt_Adams_(politician)" title="Platt Adams (politician)">Platt Adams (politician)</a> (1792–1887), New York politician</li>
-<li><a href="/wiki/Robert_Adams,_Jr." class="mw-redirect" title="Robert Adams, Jr.">Robert Adams, Jr.</a> (1849–1906), U.S. representative from Pennsylvania</li>
-<li><a href="/wiki/Robert_H._Adams" title="Robert H. Adams">Robert H. Adams</a> (1792–1830), U.S. senator from Mississippi</li>
-<li><a href="/wiki/Samuel_Adams" title="Samuel Adams">Samuel Adams</a> (1722–1803), American revolutionary</li>
-<li><a href="/wiki/Samuel_Adams_(governor)" class="mw-redirect" title="Samuel Adams (governor)">Samuel Adams (governor)</a> (1805–1850), governor of Arkansas</li>
-<li><a href="/wiki/Thomas_Adams_(politician)" title="Thomas Adams (politician)">Thomas Adams (politician)</a> (1730–1788), American Continental Congressman</li></ul>
-<h3><span class="mw-headline" id="Sports">Sports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adams_(surname)&amp;action=edit&amp;section=3" title="Edit section: Sports">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Alvan_Adams" title="Alvan Adams">Alvan Adams</a> (born 1954), American basketball player</li>
-<li><a href="/wiki/Amanda_Adams" title="Amanda Adams">Amanda Adams</a> (born 1976), American author and archaeologist</li>
-<li><a href="/wiki/Amos_Adams_(footballer)" title="Amos Adams (footballer)">Amos Adams (footballer)</a> (1880–1941), English footballer</li>
-<li><a href="/wiki/Andre_Adams" title="Andre Adams">Andre Adams</a> (born 1975), New Zealand cricketer</li>
-<li><a href="/wiki/Babe_Adams" title="Babe Adams">Babe Adams</a> (1882–1968), American baseball pitcher</li>
-<li><a href="/wiki/Blair_Adams" title="Blair Adams">Blair Adams</a> (born 1991), English footballer</li>
-<li><a href="/wiki/Bob_Adams_(1920s_pitcher)" title="Bob Adams (1920s pitcher)">Bob Adams (1920s pitcher)</a> (1901–1996), American National League baseball pitcher</li>
-<li><a href="/wiki/Bob_Adams_(1930s_pitcher)" title="Bob Adams (1930s pitcher)">Bob Adams (1930s pitcher)</a> (1907–1970), American National League baseball pitcher</li>
-<li><a href="/wiki/Bobby_Adams" title="Bobby Adams">Bobby Adams</a> (1921–1997), American Major League Baseball infielder</li>
-<li><a href="/wiki/Bob_Adams_(tight_end)" class="mw-redirect" title="Bob Adams (tight end)">Bob Adams (tight end)</a> (born 1946), US American football player</li>
-<li><a href="/wiki/Bud_Adams" title="Bud Adams">Bud Adams</a> (1923–2013), owner of American professional football team, Tennessee Titans</li>
-<li><a href="/wiki/Carl_Adams" title="Carl Adams">Carl Adams</a> (born 1942), American NASCAR driver</li>
-<li><a href="/wiki/Charles_Adams_(ice_hockey)" title="Charles Adams (ice hockey)">Charles Adams</a> (1876–1947), American businessman and Boston Bruins founder</li>
-<li><a href="/wiki/Che_Adams" class="mw-redirect" title="Che Adams">Che Adams</a> (born 1996), English footballer</li>
-<li><a href="/wiki/Chris_Adams_(wrestler)" title="Chris Adams (wrestler)">Chris Adams</a> (1955–2001), British judoka and professional wrestler</li>
-<li><a href="/wiki/Chuck_Adams" title="Chuck Adams">Chuck Adams</a> (born 1971), American tennis player</li>
-<li><a href="/wiki/Danesha_Adams" title="Danesha Adams">Danesha Adams</a> (born 1986), American footballer (soccer)</li>
-<li><a href="/wiki/Danielle_Adams" title="Danielle Adams">Danielle Adams</a> (born 1989), American basketball player</li>
-<li><a href="/wiki/Darren_Adams" title="Darren Adams">Darren Adams</a> (born 1974), English footballer</li>
-<li><a href="/wiki/Davante_Adams" title="Davante Adams">Davante Adams</a> (born 1992), American football player</li>
-<li><a href="/wiki/Davey_Adams" title="Davey Adams">Davey Adams</a>, Scottish footballer</li>
-<li><a href="/wiki/Dennis_Adams_(boxer)" title="Dennis Adams (boxer)">Dennis Adams</a> (1934–1971), South African boxer of the 1950s and '60s</li>
-<li><a href="/wiki/Derek_Adams" title="Derek Adams">Derek Adams</a> (born 1975), Scottish footballer and manager</li>
-<li><a href="/wiki/Diane_Adams" title="Diane Adams">Diane Adams</a>, Canadian curler, World champion</li>
-<li><a href="/wiki/Doc_Adams" title="Doc Adams">Doc Adams</a> (1814–1899), American baseball player and executive, credited with inventing the shortstop position</li>
-<li><a href="/wiki/Don_Adams_(basketball)" title="Don Adams (basketball)">Don Adams (basketball)</a> (1947–2013), American basketball player</li>
-<li><a href="/wiki/Emery_Adams" title="Emery Adams">Emery Adams</a> (1911–1960), American baseball player</li>
-<li><a href="/wiki/Frederick_Adams_(basketball)" title="Frederick Adams (basketball)">Frederick Adams (basketball)</a> (born 1957), Filipino basketball player</li>
-<li><a href="/wiki/Gaines_Adams" title="Gaines Adams">Gaines Adams</a> (1983–2010), American football player</li>
-<li><a href="/wiki/Gary_Adams" title="Gary Adams">Gary Adams</a> (born 1939), American college baseball coach</li>
-<li><a href="/wiki/Harry_Adams_(baseball_umpire)" title="Harry Adams (baseball umpire)">Harry Adams (baseball umpire)</a> (1863–1941), American Major League Baseball umpire</li>
-<li><a href="/wiki/Hassan_Adams" title="Hassan Adams">Hassan Adams</a> (born 1984), American basketball player</li>
-<li><a href="/wiki/Jack_Adams" title="Jack Adams">Jack Adams</a> (1894–1968), National Hockey League player, coach, and manager</li>
-<li><a href="/wiki/Jamal_Adams" title="Jamal Adams">Jamal Adams</a> (born 1995), American football player</li>
-<li><a href="/wiki/Jamie_Adams" title="Jamie Adams">Jamie Adams</a> (born 1987), Scottish footballer</li>
-<li><a href="/wiki/Jimmy_Adams_(racing_driver)" title="Jimmy Adams (racing driver)">Jimmy Adams (racing driver)</a> (born 1972), US racecar driver</li>
-<li><a href="/wiki/Jordan_Adams" title="Jordan Adams">Jordan Adams</a> (born 1994), American basketball player</li>
-<li><a href="/wiki/Josh_Adams_(American_football)" title="Josh Adams (American football)">Josh Adams (American football)</a> (born 1996), American football player</li>
-<li><a href="/wiki/Katrina_Adams" title="Katrina Adams">Katrina Adams</a> (born 1968), American professional tennis player</li>
-<li><a href="/wiki/Keion_Adams" title="Keion Adams">Keion Adams</a> (born 1995), American football player</li>
-<li><a href="/wiki/Kevyn_Adams" title="Kevyn Adams">Kevyn Adams</a> (born 1974), American ice hockey player</li>
-<li><a href="/wiki/Marcus_Adams_(footballer)" title="Marcus Adams (footballer)">Marcus Adams (footballer)</a> (born 1993), Australian rules footballer</li>
-<li><a href="/wiki/Martin_Adams" title="Martin Adams">Martin Adams</a> (born 1956), English darts player, 2007 BDO World Champion</li>
-<li><a href="/wiki/Matthew_Adams_(American_football)" title="Matthew Adams (American football)">Matthew Adams (American football)</a> (born 1995), American football player</li>
-<li><a href="/wiki/Michael_Adams_(chess_player)" title="Michael Adams (chess player)">Michael Adams (chess player)</a> (born 1971), English chess grandmaster</li>
-<li><a href="/wiki/Michael_Adams_(basketball)" title="Michael Adams (basketball)">Michael Adams (basketball)</a> (born 1963), American NBA basketball player, college basketball</li>
-<li><a href="/wiki/Micky_Adams" title="Micky Adams">Micky Adams</a> (born 1961), English football (soccer) manager</li>
-<li><a href="/wiki/Mike_Adams_(wide_receiver)" title="Mike Adams (wide receiver)">Mike Adams</a>, (born 1974), professional American football player</li>
-<li><a href="/wiki/Montravius_Adams" title="Montravius Adams">Montravius Adams</a> (born 1995), American football player</li>
-<li><a href="/wiki/Neil_Adams_(judoka)" title="Neil Adams (judoka)">Neil Adams</a> (born 1958), British judoka</li>
-<li><a href="/wiki/Neil_Adams_(footballer)" title="Neil Adams (footballer)">Neil Adams</a> (born 1965), English football (soccer) player</li>
-<li><a href="/wiki/Nicola_Adams" title="Nicola Adams">Nicola Adams</a> (born 1982), English boxer</li>
-<li><a href="/wiki/Ondigui_Adams" title="Ondigui Adams">Ondigui Adams</a> (born 1987), Cameroonian football (soccer) player</li>
-<li><a href="/wiki/Rex_Adams_(footballer)" title="Rex Adams (footballer)">Rex Adams</a> (1928–2014), English footballer</li>
-<li><a href="/wiki/Rodney_Adams" title="Rodney Adams">Rodney Adams</a> (born 1994), American football player</li>
-<li><a href="/wiki/Russ_Adams" title="Russ Adams">Russ Adams</a> (born 1980), American baseball player with the Toronto Blue Jays</li>
-<li><a href="/wiki/Philippe_Adams" title="Philippe Adams">Philippe Adams</a> (born 1969), Belgian F1 driver, 2 GP with Lotus in 1994</li>
-<li><a href="/wiki/Sadick_Adams" title="Sadick Adams">Sadick Adams</a> (born 1990), Ghanaian footballer</li>
-<li><a href="/wiki/Sam_Adams_(American_football)" title="Sam Adams (American football)">Sam Adams</a> (born 1973), US American football player</li>
-<li><a href="/wiki/Sam_Adams,_Sr." class="mw-redirect" title="Sam Adams, Sr.">Sam Adams, Sr.</a> (born 1948), US American football player</li>
-<li><a href="/wiki/Shawn_Adams" title="Shawn Adams">Shawn Adams</a> (born 1974), Canadian curler</li>
-<li><a href="/wiki/Spencer_Adams" title="Spencer Adams">Spencer Adams</a> (1898–1970), American Baseball player</li>
-<li><a href="/wiki/Steven_Adams" title="Steven Adams">Steven Adams</a> (born 1993), New Zealand basketball player; half-brother of Valerie Adams (below)</li>
-<li><a href="/wiki/Steven_Adams_(footballer)" class="mw-redirect" title="Steven Adams (footballer)">Steven Adams</a> (born 1989), Ghanaian football player</li>
-<li><a href="/wiki/Stewart_Adams" title="Stewart Adams">Stewart Adams</a> (1904–1978), Canadian ice hockey player</li>
-<li><a href="/wiki/Tony_Adams_(association_footballer)" class="mw-redirect" title="Tony Adams (association footballer)">Tony Adams</a> (born 1966), English footballer and manager</li>
-<li><a href="/wiki/W._Adams" title="W. Adams">W. Adams</a>, English football manager of Shrewsbury Town Football Club between 1905 and 1912</li>
-<li><a href="/wiki/Valerie_Adams" title="Valerie Adams">Valerie Adams</a> (born 1984), New Zealand shotputter</li>
-<li><a href="/wiki/Vicki_Adams" class="mw-redirect" title="Vicki Adams">Vicki Adams</a> (born 1989), Scottish curler</li>
-<li><a href="/wiki/Vicki_Adams_(trick_rider)" title="Vicki Adams (trick rider)">Vicki Adams</a> (born 1951) rodeo performer</li></ul>
-<h3><span class="mw-headline" id="Literature_and_journalism">Literature and journalism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adams_(surname)&amp;action=edit&amp;section=4" title="Edit section: Literature and journalism">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Bristow_Adams" title="Bristow Adams">Bristow Adams</a> (1875–1957), American journalist, forester, professor, illustrator</li>
-<li><a href="/wiki/Brooks_Adams" title="Brooks Adams">Brooks Adams</a> (1848–1927), American historian and a critic of capitalism</li>
-<li><a href="/wiki/Cecil_Adams" title="Cecil Adams">Cecil Adams</a>, pseudonym of author(s) of a syndicated question-and-answer column, <i>The Straight Dope</i></li>
-<li><a href="/wiki/Douglas_Adams" title="Douglas Adams">Douglas Adams</a> (1952–2001), British comic radio dramatist and writer, author of <i>The Hitchhiker's Guide to the Galaxy</i> series</li>
-<li><a href="/wiki/Eddie_Adams_(photographer)" title="Eddie Adams (photographer)">Eddie Adams</a> (1933–2004), American photojournalist</li>
-<li><a href="/wiki/Francis_Adams_(writer)" title="Francis Adams (writer)">Francis Adams (writer)</a> (1862–1893), Australian essayist, poet, dramatist, novelist and journalist</li>
-<li><a href="/wiki/Franklin_Pierce_Adams" class="mw-redirect" title="Franklin Pierce Adams">Franklin Pierce Adams</a> (1881–1960), American columnist (under the pen name F.P.A.), writer, and wit</li>
-<li><a href="/wiki/Hannah_Adams" title="Hannah Adams">Hannah Adams</a> (1755–1831), American historian and theologian</li>
-<li><a href="/wiki/Harriet_Adams" title="Harriet Adams">Harriet Adams</a> (1892–1982), American novelist and publisher</li>
-<li><a href="/wiki/Henry_Brooks_Adams" class="mw-redirect" title="Henry Brooks Adams">Henry Brooks Adams</a> (1838–1918), American historian, journalist, and novelist</li>
-<li><a href="/wiki/Mary_Hall_Barrett_Adams" title="Mary Hall Barrett Adams">Mary Hall Barrett Adams</a> (1816-1860), American editor, letter writer</li>
-<li><a href="/wiki/Mary_Mathews_Adams" title="Mary Mathews Adams">Mary Mathews Adams</a> (1840–1902), American writer, philanthropist</li>
-<li><a href="/wiki/Matthew_Adams" title="Matthew Adams">Matthew Adams</a> (died 1753), American writer</li>
-<li><a href="/wiki/Phillip_Adams" title="Phillip Adams">Phillip Adams</a> (born 1939), Australian broadcaster, columnist</li>
-<li><a href="/wiki/Poppy_Adams" title="Poppy Adams">Poppy Adams</a>, British television director/producer and novelist</li>
-<li><a href="/wiki/Richard_Adams" title="Richard Adams">Richard Adams</a> (1920–2016), British novelist, author of <i>Watership Down</i> and <i>The Plague Dogs</i></li>
-<li><a href="/wiki/R.J.Q._Adams" class="mw-redirect" title="R.J.Q. Adams">R.J.Q. Adams</a> (born 1943), American historian and professor</li>
-<li><a href="/wiki/Roy_Adams" title="Roy Adams">Roy Adams</a> (born 1940), Canadian author, newspaper columnist, human rights activist, and academic</li>
-<li><a href="/wiki/Samuel_Hopkins_Adams" title="Samuel Hopkins Adams">Samuel Hopkins Adams</a> (1871–1958), American journalist and short story writer</li>
-<li><a href="/wiki/Sarah_Fuller_Flower_Adams" title="Sarah Fuller Flower Adams">Sarah Fuller Flower Adams</a> (1805–1848), English poet, hymnwriter</li></ul>
-<h3><span class="mw-headline" id="Music">Music</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adams_(surname)&amp;action=edit&amp;section=5" title="Edit section: Music">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Ben_Adams" title="Ben Adams">Ben Adams</a> (born 1981), British singer, businessman</li>
-<li><a href="/wiki/Bryan_Adams" title="Bryan Adams">Bryan Adams</a> (born 1959), Canadian singer, guitarist, and songwriter</li>
-<li><a href="/wiki/Charlie_Adams_(drummer)" title="Charlie Adams (drummer)">Charlie Adams (drummer)</a>, American musician</li>
-<li><a href="/wiki/Dave_Adams_(musician)" title="Dave Adams (musician)">Dave Adams</a> (1938–2016), English musician and songwriter</li>
-<li><a href="/wiki/Derroll_Adams" title="Derroll Adams">Derroll Adams</a> (1925–2000), American folk musician</li>
-<li><a href="/wiki/Jay_Boy_Adams" title="Jay Boy Adams">Jay Boy Adams</a> (born 1949), American singer, songwriter, and guitarist</li>
-<li><a href="/wiki/Jim_Adams_(musician)" class="mw-redirect" title="Jim Adams (musician)">Jim Adams (musician)</a> (born 1967), American, songwriter, heavy-metal guitarist with the band Defiance</li>
-<li><a href="/wiki/John_Adams_(composer)" title="John Adams (composer)">John Adams (composer)</a> (born 1947), American minimalist composer</li>
-<li><a href="/wiki/John_Luther_Adams" title="John Luther Adams">John Luther Adams</a> (born 1953), American composer</li>
-<li><a href="/wiki/Louise_Adams" title="Louise Adams">Louise Adams</a>  (born 1983), Australian musician</li>
-<li><a href="/wiki/Oleta_Adams" title="Oleta Adams">Oleta Adams</a> (born 1962), American soul and jazz singer</li>
-<li><a href="/wiki/Pepper_Adams" title="Pepper Adams">Pepper Adams</a> (1930–1986), American jazz saxophonist and composer</li>
-<li><a href="/wiki/Pierrette_Adams" title="Pierrette Adams">Pierrette Adams</a> (born 1962), singer from the Republic of the Congo</li>
-<li><a href="/wiki/Ryan_Adams" title="Ryan Adams">Ryan Adams</a> (born 1974), American alternative-country and rock and roll singer/songwriter</li>
-<li><a href="/wiki/Suzanne_Adams" title="Suzanne Adams">Suzanne Adams</a> (1872–1953), American operatic soprano</li>
-<li>Victoria Adams (born 1974), birth name of British pop singer "Posh Spice" <a href="/wiki/Victoria_Beckham" title="Victoria Beckham">Victoria Beckham</a></li>
-<li><a href="/wiki/Yolanda_Adams" title="Yolanda Adams">Yolanda Adams</a> (born 1961), American gospel singer</li></ul>
-<h3><span class="mw-headline" id="Art_and_photography">Art and photography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adams_(surname)&amp;action=edit&amp;section=6" title="Edit section: Art and photography">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Ansel_Adams" title="Ansel Adams">Ansel Adams</a> (1902–1984), American photographer</li>
-<li><a href="/wiki/Art_Adams" class="mw-redirect" title="Art Adams">Art Adams</a> (born 1963), American comic book artist</li>
-<li><a href="/wiki/Clinton_Adams" title="Clinton Adams">Clinton Adams</a> (1918–2002), American painter and lithographer</li>
-<li><a href="/wiki/Elinor_Proby_Adams" title="Elinor Proby Adams">Elinor Proby Adams</a> (1885–1945), English painter</li>
-<li><a href="/wiki/Gina_Adams" title="Gina Adams">Gina Adams</a>, Ojibwe-American cross-media artist and activist</li>
-<li><a href="/wiki/Herbert_Adams_(sculptor)" title="Herbert Adams (sculptor)">Herbert Adams (sculptor)</a> (1858–1945), American sculptor</li>
-<li><a href="/wiki/J._Ottis_Adams" title="J. Ottis Adams">J. Ottis Adams</a> (1851–1927), American Impressionist painter</li>
-<li><a href="/wiki/JJ_Adams" title="JJ Adams">JJ Adams</a> (born 1978), British mixed media artist</li>
-<li><a href="/wiki/Mark_Adams_(artist)" title="Mark Adams (artist)">Mark Adams (artist)</a> (1925–2006), American artist</li>
-<li><a href="/wiki/Mark_Adams_(photographer)" title="Mark Adams (photographer)">Mark Adams (photographer)</a> (born 1949), New Zealand photographer</li>
-<li><a href="/wiki/Neal_Adams" title="Neal Adams">Neal Adams</a> (born 1941), American comic book artist</li>
-<li><a href="/wiki/Robert_Adams_(photographer)" title="Robert Adams (photographer)">Robert Adams (photographer)</a> (born 1937), American photographer</li>
-<li><a href="/wiki/Scott_Adams" title="Scott Adams">Scott Adams</a> (born 1957), cartoonist and creator of the <i>Dilbert</i> comic strip</li>
-<li><a href="/wiki/Theo_Adams" title="Theo Adams">Theo Adams</a> (born 1989), British performance artist</li>
-<li><a href="/wiki/Tracey_Adams_(painter)" title="Tracey Adams (painter)">Tracey Adams</a> (born 1954), American expressionist painter</li>
-<li><a href="/wiki/Wayman_Elbridge_Adams" title="Wayman Elbridge Adams">Wayman Elbridge Adams</a> (1883–1959), American portrait painter</li></ul>
-<p>Greg Adams 
-Glass artist
-</p>
-<h3><span class="mw-headline" id="Dance">Dance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adams_(surname)&amp;action=edit&amp;section=7" title="Edit section: Dance">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Precious_Adams" title="Precious Adams">Precious Adams</a>, American ballet dancer</li></ul>
-<h3><span class="mw-headline" id="Drama_and_television">Drama and television</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adams_(surname)&amp;action=edit&amp;section=8" title="Edit section: Drama and television">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Abel_Adams" title="Abel Adams">Abel Adams</a> (1879–1938), Finnish film producer</li>
-<li><a href="/wiki/Amy_Adams" title="Amy Adams">Amy Adams</a> (born 1974), American actress</li>
-<li><a href="/wiki/Beverly_Adams" title="Beverly Adams">Beverly Adams</a> (born 1945), Canadian-born actress</li>
-<li><a href="/wiki/Brian_Adams_(wrestler)" title="Brian Adams (wrestler)">Brian Adams (wrestler)</a> (1964–2007), American professional wrestler.</li>
-<li><a href="/wiki/Brooke_Adams_(actress)" title="Brooke Adams (actress)">Brooke Adams</a> (born 1949), American actress</li>
-<li><a href="/wiki/Carol_Adams_(actress)" title="Carol Adams (actress)">Carol Adams</a> (1918–2012), American actress</li>
-<li><a href="/wiki/Cecily_Adams" title="Cecily Adams">Cecily Adams</a> (1958–2004), American actress, daughter of Don Adams</li>
-<li><a href="/wiki/Chris_Adams_(wrestler)" title="Chris Adams (wrestler)">Chris Adams</a> (1955–2001), English model and professional wrestler</li>
-<li><a href="/wiki/Don_Adams" title="Don Adams">Don Adams</a> (1923–2005), American actor</li>
-<li><a href="/wiki/Edie_Adams" title="Edie Adams">Edie Adams</a> (1927–2008), American businesswoman, singer, Broadway, actress</li>
-<li><a href="/wiki/Fran_Adams" title="Fran Adams">Fran Adams</a>, American actress with The Second City</li>
-<li><a href="/wiki/Joey_Lauren_Adams" title="Joey Lauren Adams">Joey Adams</a> (born 1968), American actress</li>
-<li><a href="/wiki/Joey_Adams" title="Joey Adams">Joey Adams</a>, (1911–1999), American author and comedian</li>
-<li><a href="/wiki/Julie_Adams" title="Julie Adams">Julie Adams</a> (1926&#8211;2019), American actress</li>
-<li><a href="/wiki/Kathryn_Adams_(actress,_born_1893)" title="Kathryn Adams (actress, born 1893)">Kathryn Adams</a> (1893–1959), American silent film actress</li>
-<li><a href="/wiki/Kelly_Adams" title="Kelly Adams">Kelly Adams</a> (born 1979), English actress</li>
-<li><a href="/wiki/Mary_Kay_Adams" title="Mary Kay Adams">Mary Kay Adams</a> (born 1962), American actress</li>
-<li><a href="/wiki/Maud_Adams" title="Maud Adams">Maud Adams</a> (born 1945), Swedish model and actress</li>
-<li><a href="/wiki/Maude_Adams" title="Maude Adams">Maude Adams</a> (1872–1953), American stage actress</li>
-<li><a href="/wiki/Nick_Adams_(actor,_born_1931)" title="Nick Adams (actor, born 1931)">Nick Adams</a> (1931–1968), American actor and screenwriter</li>
-<li><a href="/wiki/Patrick_J._Adams" title="Patrick J. Adams">Patrick J. Adams</a> (born 1981), Canadian actor</li>
-<li><a href="/wiki/Ryland_Adams" title="Ryland Adams">Ryland Adams</a> (born 1991), American YouTuber</li>
-<li><a href="/wiki/Stanley_Adams_(actor)" title="Stanley Adams (actor)">Stanley Adams</a> (1915–1977), American actor and film writer</li>
-<li><a href="/wiki/Stella_Adams" title="Stella Adams">Stella Adams</a> (1883–1961), American actress</li>
-<li><a href="/wiki/Toni_Adams" title="Toni Adams">Toni Adams</a> (1964–2010), American professional female wrestler</li>
-<li><a href="/wiki/Tony_Adams_(actor)" title="Tony Adams (actor)">Tony Adams</a> (born 1940), Welsh actor</li>
-<li><a href="/wiki/Trudy_Adams" title="Trudy Adams">Trudy Adams</a>, American actress and professional wrestler</li></ul>
-<h3><span class="mw-headline" id="Models">Models</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adams_(surname)&amp;action=edit&amp;section=9" title="Edit section: Models">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Stephanie_Adams" title="Stephanie Adams">Stephanie Adams</a> (1970-2018), Playboy model and author from the US.</li>
-<li><a href="/w/index.php?title=Parker_Adams&amp;action=edit&amp;redlink=1" class="new" title="Parker Adams (page does not exist)">Parker Adams</a> (2004-69420), Anti-LGBT enthusiast, born in Germany and recruited into the 4th Reich by Cyber Hitler II.</li></ul>
-<h3><span class="mw-headline" id="Military">Military</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adams_(surname)&amp;action=edit&amp;section=10" title="Edit section: Military">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Charles_Francis_Adams,_Jr." class="mw-redirect" title="Charles Francis Adams, Jr.">Charles Francis Adams, Jr.</a> (1835–1915), Civil War General and president of the Union Pacific Railroad</li>
-<li><a href="/wiki/Charles_Francis_Adams_III" title="Charles Francis Adams III">Charles Francis Adams III</a> (1866–1954), U.S. Navy secretary</li>
-<li><a href="/wiki/Donald_E._Adams" title="Donald E. Adams">Donald E. Adams</a> (1921–1952), American pilot and Korean War flying ace</li>
-<li><a href="/wiki/Robert_Bellew_Adams" title="Robert Bellew Adams">Robert Bellew Adams</a> (1856–1928), Scottish recipient of the Victoria Cross</li>
-<li><a href="/wiki/Samuel_Adams_(naval_officer)" title="Samuel Adams (naval officer)">Samuel Adams (naval officer)</a> (1912–1942), U.S. Navy officer</li></ul>
-<h3><span id="Science.2C_medicine.2C_and_engineering"></span><span class="mw-headline" id="Science,_medicine,_and_engineering">Science, medicine, and engineering</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adams_(surname)&amp;action=edit&amp;section=11" title="Edit section: Science, medicine, and engineering">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Arthur_Adams_(zoologist)" title="Arthur Adams (zoologist)">Arthur Adams</a> (1820–1878), British physician and naturalist</li>
-<li><a href="/wiki/Charles_Hitchcock_Adams" class="mw-redirect" title="Charles Hitchcock Adams">Charles Hitchcock Adams</a> (1868–1951), US astronomer</li>
-<li><a href="/wiki/Clarence_Raymond_Adams" title="Clarence Raymond Adams">Clarence Raymond Adams</a> (1898–1965), American mathematician</li>
-<li><a href="/wiki/Douglas_Q._Adams" title="Douglas Q. Adams">Douglas Q. Adams</a>, American linguist</li>
-<li>Edward Dean Adams (1846–1931), engineer, financier, and scientist, <a href="/wiki/Niagara_Falls" title="Niagara Falls">Niagara Falls</a> hydroelectric dam engineer, recipient of the 1926 <a href="/wiki/John_Fritz_Medal" title="John Fritz Medal">John Fritz Medal</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></li>
-<li><a href="/wiki/Edwin_Plimpton_Adams" title="Edwin Plimpton Adams">Edwin Plimpton Adams</a> (1878–1956), American physicist</li>
-<li><a href="/wiki/Francis_Adams_(translator)" title="Francis Adams (translator)">Francis Adams</a> (1796–1861), Scottish medical doctor and translator of Greek medical works</li>
-<li><a href="/wiki/Henry_Adams_(mechanical_engineer)" title="Henry Adams (mechanical engineer)">Henry Adams</a> (1858–1929), American architectural engineer</li>
-<li><a href="/wiki/Henry_Percy_Adams" title="Henry Percy Adams">Henry Percy Adams</a> (1865–1930), English architect</li>
-<li><a href="/wiki/Johann_Friedrich_Adam" title="Johann Friedrich Adam">Johann Friedrich Adam</a> (1780–1838), botanist known by the author abbreviation "Adams"</li>
-<li><a href="/wiki/John_Bodkin_Adams" title="John Bodkin Adams">John Bodkin Adams</a> (1899–1983), Irish-British physician and suspected serial killer</li>
-<li><a href="/wiki/John_Couch_Adams" title="John Couch Adams">John Couch Adams</a> (1819–1892), British mathematician and astronomer</li>
-<li><a href="/wiki/Karl_Adams_(mathematician)" title="Karl Adams (mathematician)">Karl Adams (mathematician)</a> (1811–1849), Swiss mathematician and teacher</li>
-<li><a href="/wiki/Matthew_Algernon_Adams" title="Matthew Algernon Adams">Matthew Algernon Adams</a> (1836–1913), British medical doctor and chemist</li>
-<li><a href="/wiki/Michael_James_Adams" class="mw-redirect" title="Michael James Adams">Michael James Adams</a> (1930–1967), American aviator and NASA astronaut</li>
-<li><a href="/wiki/Otto_Eugene_Adams" title="Otto Eugene Adams">Otto Eugene Adams</a> (1889–1968), American architect</li>
-<li><a href="/wiki/Patch_Adams" title="Patch Adams">Patch Adams</a> (born 1945), American physician, social activist and clown</li>
-<li><a href="/wiki/Raymond_Delacy_Adams" title="Raymond Delacy Adams">Raymond Delacy Adams</a> (1911–2008), American neurologist</li>
-<li><a href="/wiki/Robert_Adams_(architect)" title="Robert Adams (architect)">Robert Adams</a> (1540–1595), British architect and surveyor</li>
-<li><a href="/wiki/Robert_Adams_(handgun_designer)" title="Robert Adams (handgun designer)">Robert Adams</a> (1809–1870), British firearms designer</li>
-<li><a href="/wiki/Robert_McCormick_Adams,_Jr." class="mw-redirect" title="Robert McCormick Adams, Jr.">Robert McCormick Adams, Jr.</a> (1926–2018), U.S. anthropologist</li>
-<li><a href="/wiki/Roger_Adams" title="Roger Adams">Roger Adams</a> (1889–1971), American organic chemist</li>
-<li><a href="/wiki/Stewart_Adams_(chemist)" title="Stewart Adams (chemist)">Stewart Adams (chemist)</a> (1923–2019), British chemist</li>
-<li><a href="/wiki/Thomas_Adams_(architect)" title="Thomas Adams (architect)">Thomas Adams</a> (1871–1940), Scottish architect and urban planner</li>
-<li><a href="/wiki/Walter_Sydney_Adams" title="Walter Sydney Adams">Walter Sydney Adams</a> (1876–1956), US astronomer</li>
-<li><a href="/wiki/William_Adams_(locomotive_engineer)" title="William Adams (locomotive engineer)">William Adams (locomotive engineer)</a> (1823–1904), British locomotive engineer</li>
-<li><a href="/wiki/William_Adams_(oculist)" title="William Adams (oculist)">William Adams (oculist)</a> (1783–1827), British ophthalmic surgeon</li>
-<li><a href="/wiki/William_Bridges_Adams" title="William Bridges Adams">William Bridges Adams</a> (1797–1872), British author, inventor, and locomotive engineer</li></ul>
-<h3><span class="mw-headline" id="Other">Other</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adams_(surname)&amp;action=edit&amp;section=12" title="Edit section: Other">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Adams_baronets" title="Adams baronets">Adams baronets</a>, a 17th and 18th century English baronetcy</li>
-<li><a href="/wiki/Alfred_Albert_Thomas_William_Adams" class="mw-redirect" title="Alfred Albert Thomas William Adams">Alfred Albert Thomas William Adams</a> (1842–1919), New Zealand forestry pioneer</li>
-<li><a href="/wiki/Charles_Francis_Adams_IV" title="Charles Francis Adams IV">Charles Francis Adams IV</a> (1910–1999), American: president of Raytheon Company</li>
-<li><a href="/wiki/Charles_Kendall_Adams" title="Charles Kendall Adams">Charles Kendall Adams</a> (1835–1902), American educator and historian</li>
-<li><a href="/wiki/Charlotte_Adams" title="Charlotte Adams">Charlotte Adams</a> (1859–?), Australian, first European woman to climb to the peak of Mount Kosciuszko</li>
-<li><a href="/wiki/Clifford_Adams" class="mw-redirect" title="Clifford Adams">Clifford Adams</a>, computer programmer</li>
-<li><a href="/wiki/Dirk_Diggler" class="mw-redirect" title="Dirk Diggler">Eddie Adams</a>, real name of fictional porn star Dirk Diggler</li>
-<li><a href="/wiki/Eliphalet_Adams" title="Eliphalet Adams">Eliphalet Adams</a>, American Puritan minister</li>
-<li><a href="/wiki/Herbert_Baxter_Adams" title="Herbert Baxter Adams">Herbert Baxter Adams</a> (1850–1901), American educator and historian</li>
-<li><a href="/wiki/John_Adams_(mutineer)" title="John Adams (mutineer)">John Adams (mutineer)</a> (1766–1829), last survivor of the Bounty mutineers who settled on Pitcairn Island</li>
-<li><a href="/wiki/Kevin_Adams" title="Kevin Adams">Kevin Adams</a> (born 1962), American theatrical lighting designer</li>
-<li><a href="/wiki/Margaret_Adams_(pilot)" title="Margaret Adams (pilot)">Margaret Adams (pilot)</a>, Australian pilot</li>
-<li><a href="/wiki/Richard_Adams_(religious_writer)" title="Richard Adams (religious writer)">Richard Adams (religious writer)</a> (c. 1626–1698), non-conforming English Presbyterian divine</li>
-<li><a href="/wiki/Richard_Adams_(Traidcraft)" class="mw-redirect" title="Richard Adams (Traidcraft)">Richard Adams (Traidcraft)</a> (born 1946), British fair trade organisation founder</li>
-<li><a href="/wiki/Robert_Merrihew_Adams" title="Robert Merrihew Adams">Robert Merrihew Adams</a> (born 1937), American philosopher</li>
-<li><a href="/wiki/Samuel_Adams_(beer)" title="Samuel Adams (beer)">Samuel Adams</a>, American beer company</li>
-<li><a href="/wiki/Scott_Adams_(game_designer)" title="Scott Adams (game designer)">Scott Adams (game designer)</a> (born 1952), American computer game designer and programmer</li>
-<li><a href="/wiki/Disappearance_of_Trudie_Adams" title="Disappearance of Trudie Adams">Trudie Adams</a>, American woman who has been missing since 1978</li>
-<li><a href="/wiki/Weaver_W._Adams" title="Weaver W. Adams">Weaver W. Adams</a> (1901–1963), American chess player</li>
-<li><a href="/wiki/William_Adams_(sailor,_born_1564)" title="William Adams (sailor, born 1564)">William Adams (sailor)</a> (1564–1620), English navigator and first Briton to reach Japan</li>
-<li><a href="/wiki/William_Adams_(master)" class="mw-redirect" title="William Adams (master)">William Adams (master)</a> (1706–1789), English Master of Pembroke College, Oxford</li>
-<li><a href="/wiki/Zabdiel_Adams" title="Zabdiel Adams">Zabdiel Adams</a> (1739–1801), American minister, writer, and cousin of President John Adams</li></ul>
-<h3><span class="mw-headline" id="Disambiguation">Disambiguation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adams_(surname)&amp;action=edit&amp;section=13" title="Edit section: Disambiguation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<div class="div-col columns column-width" style="-moz-column-width: 18em; -webkit-column-width: 18em; column-width: 18em;">
-<ul><li><a href="/wiki/Andrew_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Andrew Adams (disambiguation)">Andrew Adams</a></li>
-<li><a href="/wiki/Arthur_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Arthur Adams (disambiguation)">Arthur Adams</a></li>
-<li><a href="/wiki/Brian_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Brian Adams (disambiguation)">Brian Adams</a></li>
-<li><a href="/wiki/Charles_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Charles Adams (disambiguation)">Charles Adams</a></li>
-<li><a href="/wiki/Charles_Francis_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Charles Francis Adams (disambiguation)">Charles Francis Adams</a></li>
-<li><a href="/wiki/Chris_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Chris Adams (disambiguation)">Chris Adams</a></li>
-<li><a href="/wiki/Colin_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Colin Adams (disambiguation)">Colin Adams</a></li>
-<li><a href="/wiki/Craig_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Craig Adams (disambiguation)">Craig Adams</a></li>
-<li><a href="/wiki/Daniel_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Daniel Adams (disambiguation)">Daniel Adams</a></li>
-<li><a href="/wiki/David_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="David Adams (disambiguation)">David Adams</a></li>
-<li><a href="/wiki/Don_Adams_(disambiguation)" class="mw-disambig" title="Don Adams (disambiguation)">Don Adams</a></li>
-<li><a href="/wiki/Edward_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Edward Adams (disambiguation)">Edward Adams</a></li>
-<li><a href="/wiki/Francis_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Francis Adams (disambiguation)">Francis Adams</a></li>
-<li><a href="/wiki/Frank_Adams_(disambiguation)" class="mw-disambig" title="Frank Adams (disambiguation)">Frank Adams</a></li>
-<li><a href="/wiki/George_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="George Adams (disambiguation)">George Adams</a></li>
-<li><a href="/wiki/Greg_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Greg Adams (disambiguation)">Greg Adams</a></li>
-<li><a href="/wiki/Henry_Adams_(disambiguation)" class="mw-disambig" title="Henry Adams (disambiguation)">Henry Adams</a></li>
-<li><a href="/wiki/Herbert_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Herbert Adams (disambiguation)">Herbert Adams</a></li>
-<li><a href="/wiki/James_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="James Adams (disambiguation)">James Adams</a></li>
-<li><a href="/wiki/Jimmy_Adams_(disambiguation)" class="mw-disambig" title="Jimmy Adams (disambiguation)">Jimmy Adams</a></li>
-<li><a href="/wiki/John_Adams_(disambiguation)" class="mw-disambig" title="John Adams (disambiguation)">John Adams</a></li>
-<li><a href="/wiki/Keith_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Keith Adams (disambiguation)">Keith Adams</a></li>
-<li><a href="/wiki/Lee_Adams_(disambiguation)" class="mw-disambig" title="Lee Adams (disambiguation)">Lee Adams</a></li>
-<li><a href="/wiki/Mark_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Mark Adams (disambiguation)">Mark Adams</a></li>
-<li><a href="/wiki/Michael_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Michael Adams (disambiguation)">Michael Adams</a></li>
-<li><a href="/wiki/Mike_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Mike Adams (disambiguation)">Mike Adams</a></li>
-<li><a href="/wiki/Neil_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Neil Adams (disambiguation)">Neil Adams</a></li>
-<li><a href="/wiki/Nick_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Nick Adams (disambiguation)">Nick Adams</a></li>
-<li><a href="/wiki/Patrick_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Patrick Adams (disambiguation)">Patrick Adams</a></li>
-<li><a href="/wiki/Paul_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Paul Adams (disambiguation)">Paul Adams</a></li>
-<li><a href="/wiki/Richard_Adams_(disambiguation)" class="mw-disambig" title="Richard Adams (disambiguation)">Richard Adams</a></li>
-<li><a href="/wiki/Rick_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Rick Adams (disambiguation)">Rick Adams</a></li>
-<li><a href="/wiki/Robert_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Robert Adams (disambiguation)">Robert Adams</a></li>
-<li><a href="/wiki/Roger_Adams_(disambiguation)" class="mw-disambig" title="Roger Adams (disambiguation)">Roger Adams</a></li>
-<li><a href="/wiki/Samuel_Adams_(disambiguation)" class="mw-disambig" title="Samuel Adams (disambiguation)">Samuel Adams</a></li>
-<li><a href="/wiki/Scott_Adams_(disambiguation)" class="mw-disambig" title="Scott Adams (disambiguation)">Scott Adams</a></li>
-<li><a href="/wiki/Stanley_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Stanley Adams (disambiguation)">Stanley Adams</a></li>
-<li><a href="/wiki/Stephen_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Stephen Adams (disambiguation)">Stephen Adams</a></li>
-<li><a href="/wiki/Steve_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Steve Adams (disambiguation)">Steve Adams</a></li>
-<li><a href="/wiki/Terry_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Terry Adams (disambiguation)">Terry Adams</a></li>
-<li><a href="/wiki/Thomas_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Thomas Adams (disambiguation)">Thomas Adams</a></li>
-<li><a href="/wiki/Tom_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Tom Adams (disambiguation)">Tom Adams</a></li>
-<li><a href="/wiki/Tony_Adams_(disambiguation)" class="mw-disambig" title="Tony Adams (disambiguation)">Tony Adams</a></li>
-<li><a href="/wiki/Walter_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Walter Adams (disambiguation)">Walter Adams</a></li>
-<li><a href="/wiki/William_Adams_(disambiguation)" class="mw-redirect mw-disambig" title="William Adams (disambiguation)">William Adams</a></li></ul>
-</div>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adams_(surname)&amp;action=edit&amp;section=14" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Adams_(disambiguation)" class="mw-redirect mw-disambig" title="Adams (disambiguation)">Adams (disambiguation)</a></li>
-<li><a href="/wiki/Adams_(taxonomic_authority)" class="mw-redirect" title="Adams (taxonomic authority)">Adams (taxonomic authority)</a></li>
-<li><a href="/wiki/Adams_political_family" title="Adams political family">Adams political family</a></li>
-<li><a href="/wiki/Addams" title="Addams">Addams</a></li>
-<li><a href="/wiki/Adamson_(surname)" title="Adamson (surname)">Adamson</a></li>
-<li><a href="/wiki/McAdam_(surname)" title="McAdam (surname)">McAdam (surname)</a></li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adams_(surname)&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="Deceased">Deceased</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Powell_(surname)&amp;action=edit&amp;section=1" title="Edit section: Deceased">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Adam_Clayton_Powell,_Sr." class="mw-redirect" title="Adam Clayton Powell, Sr.">Adam Clayton Powell, Sr.</a> (1865–1953), prominent minister of the Abyssinian Baptist Church in Harlem, New York</li>
+<li><a href="/wiki/Adam_Clayton_Powell,_Jr." class="mw-redirect" title="Adam Clayton Powell, Jr.">Adam Clayton Powell, Jr.</a> (1908–1972), minister and politician, first African American to become a powerful figure in the United States Congress</li>
+<li><a href="/wiki/Alfred_Hoare_Powell" title="Alfred Hoare Powell">Alfred Hoare Powell</a> (1865–1960)  English Arts and Crafts architect, pottery decorator and artist</li>
+<li><a href="/wiki/Anthony_Powell" title="Anthony Powell">Anthony Powell</a> (1905–2000), English novelist</li>
+<li><a href="/wiki/Art_Powell_(wide_receiver)" title="Art Powell (wide receiver)">Art Powell (wide receiver)</a> (1937–2015), American football player, brother of Charlie Powell</li>
+<li><a href="/wiki/Arthur_William_Baden_Powell" title="Arthur William Baden Powell">Arthur William Baden Powell</a> (1901–1987), New Zealand malacologist and paleontologist</li>
+<li><a href="/wiki/Baden_Powell_(mathematician)" title="Baden Powell (mathematician)">Baden Powell (mathematician)</a> (1796–1860), English mathematician; father of Robert Baden-Powell</li>
+<li><a href="/wiki/Bill_Powell_(golf_course_owner)" title="Bill Powell (golf course owner)">Bill Powell</a> (1916–2009), American golf course designer</li>
+<li><a href="/wiki/Billy_Powell" title="Billy Powell">Billy Powell</a> (1952–2009), keyboardist of the American band Lynyrd Skynyrd</li>
+<li><a href="/wiki/Brian_Powell" title="Brian Powell">Brian Powell</a> (1973–2009), American baseball player</li>
+<li><a href="/wiki/Bud_Powell" title="Bud Powell">Bud Powell</a> (1924–1966), jazz pianist and composer</li>
+<li><a href="/wiki/Cecil_Frank_Powell" class="mw-redirect" title="Cecil Frank Powell">Cecil Frank Powell</a> (1903–1969), British physicist and Nobel laureate in physics</li>
+<li><a href="/wiki/Charlie_Powell" title="Charlie Powell">Charlie Powell</a> (1932–2014), American football player, brother of Art Powell</li>
+<li><a href="/wiki/Cozy_Powell" title="Cozy Powell">Cozy Powell</a> (1947–1998), English drummer for bands such as Black Sabbath, Rainbow, and Whitesnake</li>
+<li><a href="/wiki/Cynthia_Lennon" title="Cynthia Lennon">Cynthia Lennon</a> <i>née</i> Powell (1939–2015), first wife of John Lennon</li>
+<li><a href="/wiki/Dawn_Powell" title="Dawn Powell">Dawn Powell</a> (1896–1965), American writer of satirical novels and stories</li>
+<li><a href="/wiki/Dick_Powell" title="Dick Powell">Dick Powell</a> (1904–1963), American singer, actor, producer, and director</li>
+<li><a href="/wiki/Dilys_Powell" title="Dilys Powell">Dilys Powell</a> (1901–1995), British journalist, author, and film critic</li>
+<li><a href="/wiki/E._Alexander_Powell" title="E. Alexander Powell">E. Alexander Powell</a> (1879–1957), American war correspondent and author</li>
+<li><a href="/wiki/Eileen_Louisa_Powell" class="mw-redirect" title="Eileen Louisa Powell">Eileen Louisa Powell</a> (1913–1997), Australian trade unionist and women's activist</li>
+<li><a href="/wiki/Eleanor_Powell" title="Eleanor Powell">Eleanor Powell</a> (1912–1982), American actress and dancer</li>
+<li><a href="/wiki/Elkan_Harrison_Powell" title="Elkan Harrison Powell">Elkan Harrison Powell</a> (1888–1966), American publisher</li>
+<li><a href="/wiki/Enoch_Powell" title="Enoch Powell">Enoch Powell</a> (1912–1998), British politician</li>
+<li><a href="/wiki/Ernest_Powell" title="Ernest Powell">Ernest Powell</a>  (1861–1928), English cricketer</li>
+<li><a href="/wiki/Felix_Powell" title="Felix Powell">Felix Powell</a> (1878–1942), Welsh songwriter</li>
+<li><a href="/wiki/Sir_Francis_Powell,_1st_Baronet" title="Sir Francis Powell, 1st Baronet">Sir Francis Powell, 1st Baronet</a> (1827–1911), English politician</li>
+<li><a href="/wiki/Frank_Powell" title="Frank Powell">Frank Powell</a>, stage and silent film actor, screenwriter, and director</li>
+<li><a href="/wiki/Frank_Powell_(footballer)" title="Frank Powell (footballer)">Frank Powell</a>, English football manager</li>
+<li><a href="/wiki/Foster_Powell" title="Foster Powell">Foster Powell</a> (1734–1793) long-distance walker</li>
+<li><a href="/wiki/Frederick_Powell" title="Frederick Powell">Frederick Powell</a> (1895–1992), British Royal Air Force pilot</li>
+<li><a href="/wiki/George_Henry_Powell" title="George Henry Powell">George Henry Powell</a> (1880–1951), Welsh songwriter</li>
+<li><a href="/wiki/Israel_Wood_Powell" title="Israel Wood Powell">Israel Wood Powell</a> (1836–1915), Canadian politician</li>
+<li><a href="/wiki/Ivor_Powell" title="Ivor Powell">Ivor Powell</a> (1916–2012), Welsh footballer</li>
+<li><a href="/wiki/James_Powell_and_Sons" title="James Powell and Sons">James Powell and Sons</a>, English glassworkers</li>
+<li><a href="/wiki/Jerome_Powell" title="Jerome Powell">Jerome Powell</a>, 16th Chair of the U.S. Federal Reserve</li>
+<li><a href="/wiki/Jody_Powell" title="Jody Powell">Jody Powell</a> (1943–2009), White House press secretary for Jimmy Carter</li>
+<li><a href="/wiki/John_Powell_(cricketer)" title="John Powell (cricketer)">John Powell (cricketer)</a> (1904–1959), New Zealand cricketer</li>
+<li><a href="/wiki/John_Wesley_Powell" title="John Wesley Powell">John Wesley Powell</a> (1834–1902), American soldier, geologist, and explorer of the American West</li>
+<li><a href="/wiki/Lewis_Thornton_Powell" class="mw-redirect" title="Lewis Thornton Powell">Lewis Thornton Powell</a>  (1844–1865), Confederate soldier, hanged as a conspirator in the Lincoln assassination</li>
+<li><a href="/wiki/Lewis_Franklin_Powell,_Jr." class="mw-redirect" title="Lewis Franklin Powell, Jr.">Lewis Franklin Powell, Jr.</a> (1907–1998), Associate Justice of the Supreme Court of the United States</li>
+<li><a href="/wiki/Lewis_W._Powell" title="Lewis W. Powell">Lewis W. Powell</a> (1882–1942), American politician and lawyer</li>
+<li><a href="/wiki/Mel_Powell" title="Mel Powell">Mel Powell</a> (1923–1998), American jazz pianist and composer</li>
+<li><a href="/wiki/Michael_Powell" title="Michael Powell">Michael Powell</a> (1905–1990), British film director</li>
+<li><a href="/wiki/Michael_J._D._Powell" title="Michael J. D. Powell">Michael J. D. Powell</a> (1936–2015), British mathematician</li>
+<li><a href="/wiki/Philip_Powell_(architect)" title="Philip Powell (architect)">Philip Powell (architect)</a> (1921–2003), British architect</li>
+<li><a href="/wiki/Ray_Edwin_Powell" title="Ray Edwin Powell">Ray Edwin Powell</a> (1887–1973) Canadian businessman (founder of Alcan Aluminium) and educator (Chancellor of McGill University)</li>
+<li><a href="/wiki/Robert_Baden-Powell,_1st_Baron_Baden-Powell" title="Robert Baden-Powell, 1st Baron Baden-Powell">Robert Baden-Powell, 1st Baron Baden-Powell</a> (1857–1941), British Army lieutenant-general; founder of the world Scouting Movement</li>
+<li><a href="/wiki/Robert_E._Powell" title="Robert E. Powell">Robert E. Powell</a> (1923–1997), mayor of <a href="/wiki/Monroe,_Louisiana" title="Monroe, Louisiana">Monroe</a>, <a href="/wiki/Louisiana" title="Louisiana">Louisiana</a>, 1979 to 1996</li>
+<li><a href="/wiki/Roger_Powell_(bookbinder)" title="Roger Powell (bookbinder)">Roger Powell</a> (1896–1990) was an English bookbinder.</li>
+<li><a href="/wiki/Ron_Powell_(footballer)" class="mw-redirect" title="Ron Powell (footballer)">Ron Powell (footballer)</a> (1929–1992), goalkeeper who played for Chesterfield</li>
+<li><a href="/wiki/Sandy_Powell_(comedian)" title="Sandy Powell (comedian)">Sandy Powell (comedian)</a> (1900–1982), English comedian best known for his radio work of the 1930s</li>
+<li><a href="/wiki/Seth_Powell" title="Seth Powell">Seth Powell</a> (1862–1945), Wales international footballer</li>
+<li><a href="/wiki/Thomas_Powell_(botanist)" title="Thomas Powell (botanist)">Thomas Powell (botanist)</a> (1809–1897), missionary to Samoa and botanist</li>
+<li><a href="/wiki/Vince_Powell" title="Vince Powell">Vince Powell</a> (1928–2009), British sitcom writer</li>
+<li><a href="/wiki/Wick_Powell" title="Wick Powell">Wick Powell</a> (1905–1973), Welsh international rugby union footballer</li>
+<li><a href="/wiki/Wickham_Powell" title="Wickham Powell">Wickham Powell</a> (1892–1961), Welsh international rugby union and rugby league footballer</li>
+<li><a href="/wiki/William_Powell" title="William Powell">William Powell</a> (1892–1984), American actor</li>
+<li><a href="/wiki/William_G._Powell" title="William G. Powell">William G. Powell</a> (1871–1955), Marine Corps Brevet Medal recipient</li></ul>
+<h2><span class="mw-headline" id="Living">Living</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Powell_(surname)&amp;action=edit&amp;section=2" title="Edit section: Living">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Adam_Powell_(game_designer)" title="Adam Powell (game designer)">Adam Powell (game designer)</a> (born 1976), co-founder of Neopets</li>
+<li><a href="/wiki/Adam_Clayton_Powell_IV_(politician)" class="mw-redirect" title="Adam Clayton Powell IV (politician)">Adam Clayton Powell IV (politician)</a> (born 1962), American politician</li>
+<li><a href="/wiki/Andrew_Powell" title="Andrew Powell">Andrew Powell</a> (born 1949), English music composer and performer</li>
+<li><a href="/wiki/Andy_Powell" title="Andy Powell">Andy Powell</a> (born 1950), English guitarist for rock band Wishbone Ash</li>
+<li><a href="/wiki/Andy_Powell_(rugby_player)" class="mw-redirect" title="Andy Powell (rugby player)">Andy Powell</a> (born 1981) Welsh Rugby Union international</li>
+<li><a href="/wiki/Asafa_Powell" title="Asafa Powell">Asafa Powell</a> (born 1982), Jamaican athlete</li>
+<li><a href="/wiki/Boog_Powell" title="Boog Powell">Boog Powell</a> (born 1941), popular nickname of John Wesley Powell, American major league baseball player (1961–77)</li>
+<li><a href="/wiki/Caroline_Powell" title="Caroline Powell">Caroline Powell</a> (born 1973), New Zealand equestrian</li>
+<li><a href="/wiki/Catherine_Powell" title="Catherine Powell">Catherine Powell</a> (born 1967), British businesswoman</li>
+<li><a href="/wiki/Ceri_Powell" title="Ceri Powell">Ceri Powell</a> (born 1963), geologist and Royal Dutch Shell executive</li>
+<li><a href="/wiki/Charles_Powell" class="mw-redirect" title="Charles Powell">Charles Powell</a> (born 1941), Advisor to Prime Ministers Margaret Thatcher and John Major</li>
+<li><a href="/wiki/Colin_Powell" title="Colin Powell">Colin Powell</a> (born 1937), former United States Secretary of State and former Chairman of the Joint Chiefs of Staff</li>
+<li><a href="/wiki/Daren_Powell" title="Daren Powell">Daren Powell</a> (born 1978), West Indian cricketer</li>
+<li><a href="/wiki/Dennis_Powell" title="Dennis Powell">Dennis Powell</a> (born 1963), pitcher in Major League Baseball</li>
+<li><a href="/wiki/Dina_Powell" title="Dina Powell">Dina Powell</a> (born 1974), Assistant Secretary of State for Educational and Cultural Affairs in the United States</li>
+<li><a href="/wiki/Don_Powell" title="Don Powell">Don Powell</a> (born 1946), drummer for English rock band Slade</li>
+<li><a href="/wiki/Sylvester_Earl_Powell" title="Sylvester Earl Powell">Earl Powell</a> (born 1972), American songwriter and music producer</li>
+<li><a href="/wiki/Eric_Powell_(comics)" title="Eric Powell (comics)">Eric Powell</a> (born 1975), American comic book artist and writer</li>
+<li><a href="/wiki/Gary_Powell_(musician)" title="Gary Powell (musician)">Gary Powell</a>, (born 1969) American–British musician, previously drummer in The Libertines, now drummer in Dirty Pretty Things</li>
+<li><a href="/wiki/Henry_%22Tank%22_Powell" title="Henry &quot;Tank&quot; Powell">Henry "Tank" Powell</a> (born 1945), Louisiana politician</li>
+<li><a href="/wiki/Hope_Powell" title="Hope Powell">Hope Powell</a> (born 1966), English female footballer and manager</li>
+<li><a href="/w/index.php?title=James_Herbert_Powell,_KHS&amp;action=edit&amp;redlink=1" class="new" title="James Herbert Powell, KHS (page does not exist)">James Herbert Powell, KHS</a> (born 1982), Knight of the Equestrian Order of the Holy Sepulchre of Jerusalem</li>
+<li><a href="/wiki/Jenny_Powell" title="Jenny Powell">Jenny Powell</a> (born 1968), English television presenter</li>
+<li><a href="/wiki/Jerome_Powell" title="Jerome Powell">Jerome Powell</a>, member of Federal Reserve Board of Governors; nominee to be Chair of the Federal Reserve Board of Governors</li>
+<li><a href="/wiki/Joe_Powell_(American_football)" title="Joe Powell (American football)">Joe Powell (American football)</a> (born 1994), American football player</li>
+<li><a href="/wiki/John_Powell_(composer)" class="mw-redirect" title="John Powell (composer)">John Powell</a> (born 1963), British film score composer</li>
+<li><a href="/wiki/Kieran_Powell" title="Kieran Powell">Kieran Powell</a> (born 1990), Nevisian cricketer</li>
+<li><a href="/wiki/Lamar_Powell" title="Lamar Powell">Lamar Powell</a> (born 1993), English footballer</li>
+<li><a href="/wiki/Laurence_Powell" title="Laurence Powell">Laurence Powell</a> (born 1962), former Los Angeles police officer involved in the beating of Rodney King</li>
+<li><a href="/wiki/Magnus_Powell" title="Magnus Powell">Magnus Powell</a> (born 1974), Swedish footballer</li>
+<li><a href="/wiki/Marshawn_Powell" title="Marshawn Powell">Marshawn Powell</a> (born 1990), American basketball player</li>
+<li><a href="/wiki/Mark_Allan_Powell" title="Mark Allan Powell">Mark Allan Powell</a>, American Professor</li>
+<li><a href="/wiki/Matt_Powell" title="Matt Powell">Matt Powell</a> (born 1978), Welsh rugby union footballer</li>
+<li><a href="/wiki/Mike_Powell_(athlete)" class="mw-redirect" title="Mike Powell (athlete)">Mike Powell (athlete)</a>, American world record holder in the long jump</li>
+<li><a href="/wiki/Mike_Powell_(Louisiana_politician)" title="Mike Powell (Louisiana politician)">Mike Powell (Louisiana politician)</a>, American politician</li>
+<li><a href="/wiki/Nick_Powell" title="Nick Powell">Nick Powell</a> (born 1994), English footballer</li>
+<li><a href="/wiki/Nigel_Powell" title="Nigel Powell">Nigel Powell</a> (born 1971), English musician</li>
+<li><a href="/wiki/Norman_Powell" title="Norman Powell">Norman Powell</a> (born 1993), American basketball player</li>
+<li><a href="/wiki/Owen_Powell" title="Owen Powell">Owen Powell</a> (born 1988), American musician, Police Officer</li>
+<li><a href="/wiki/Peter_Powell_(disc_jockey)" class="mw-redirect" title="Peter Powell (disc jockey)">Peter Powell (disc jockey)</a> (born 1951), BBC Radio 1 disc jockey in the 1970s and 1980s</li>
+<li><a href="/wiki/Renee_Powell" title="Renee Powell">Renee Powell</a> (born 1946), American professional golfer</li>
+<li><a href="/wiki/Ricardo_Powell" title="Ricardo Powell">Ricardo Powell</a> (born 1978), Jamaican cricketer</li>
+<li><a href="/wiki/Robert_Powell_(composer)" title="Robert Powell (composer)">Robert Powell (composer)</a> (born 1932), American composer</li>
+<li><a href="/wiki/Robert_Powell" title="Robert Powell">Robert Powell</a> (born 1944), British actor</li>
+<li><a href="/wiki/Ronald_Powell" title="Ronald Powell">Ronald Powell</a> (born 1991), American football player</li>
+<li><a href="/wiki/Sandy_Powell_(costume_designer)" title="Sandy Powell (costume designer)">Sandy Powell (costume designer)</a> (born 1960), British costume designer who has been nominated nine times for the Academy</li>
+<li><a href="/wiki/Sara_Jordan_Powell" title="Sara Jordan Powell">Sara Jordan Powell</a> (born 1938), American gospel musician</li>
+<li><a href="/wiki/Shawn_Powell_(American_football)" class="mw-redirect" title="Shawn Powell (American football)">Shawn Powell (American football)</a> (born 1988),  American football player</li>
+<li><a href="/wiki/Tristram_Powell" title="Tristram Powell">Tristram Powell</a> (born 1940), English television director, film director, writer and producer</li>
+<li><a href="/wiki/Walter_W._Powell" title="Walter W. Powell">Walter W. Powell</a> (born 1951), American sociologist</li>
+<li><a href="/wiki/Wendy_Powell" title="Wendy Powell">Wendy Powell</a> (born 1971), American voice actor</li>
+<li>William Burgess Powell (born 1948), an American man who suffered from dissociative amnesia and was known as <a href="/wiki/Benjaman_Kyle" title="Benjaman Kyle">Benjaman Kyle</a></li></ul>
+<h2><span class="mw-headline" id="Fictional_characters">Fictional characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Powell_(surname)&amp;action=edit&amp;section=3" title="Edit section: Fictional characters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Colleen Powell, character in the Australian TV series <a href="/wiki/Prisoner_(TV_series)" title="Prisoner (TV series)">Prisoner</a>.</li>
+<li><a href="/wiki/Simpson_family#Herbert_Powell" title="Simpson family">Herbert 'Herb' Powell</a>, Homer Simpson's half brother.</li>
+<li>Powell, various family members on <i><a href="/wiki/No_Ordinary_Family" title="No Ordinary Family">No Ordinary Family</a></i> television series.</li>
+<li>Sergeant Al Powell is the only ally of McClane, the cop that has to face terrorists in the movie <i><a href="/wiki/Die_Hard" title="Die Hard">Die Hard</a></i>.</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Powell_(surname)&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <div class="reflist" style="list-style-type: decimal;">
-<div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-BDF-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-BDF_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.celticfamilymaps.com/?link=Adams&amp;q=node/2">"Celtic Surname Maps – origins"</a>. <i>celticfamilymaps.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 November</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=celticfamilymaps.com&amp;rft.atitle=Celtic+Surname+Maps+%E2%80%93+origins&amp;rft_id=http%3A%2F%2Fwww.celticfamilymaps.com%2F%3Flink%3DAdams%26q%3Dnode%2F2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdams+%28surname%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
-</li>
-<li id="cite_note-origin1-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-origin1_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-origin1_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100812052731/http://www.surnamedb.com/Surname/Adams">"Last name: Adams"</a>, <i>Surname Database</i>, Name Origin Research, archived from <a rel="nofollow" class="external text" href="http://www.surnamedb.com/Surname/Adams">the original</a> on 12 August 2010<span class="reference-accessdate">, retrieved <span class="nowrap">31 August</span> 2011</span>, <q>This interesting surname is a patronymic of Adam....</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Surname+Database&amp;rft.atitle=Last+name%3A+Adams&amp;rft_id=http%3A%2F%2Fwww.surnamedb.com%2FSurname%2FAdams&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdams+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-Hanks_Coates_McClure_2016-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hanks_Coates_McClure_2016_3-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Hanks, P.; Coates, R.; McClure, P. (2016). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=0AyDDQAAQBAJ&amp;pg=PA12"><i>The Oxford Dictionary of Family Names in Britain and Ireland</i></a>. OUP Oxford. p.&#160;12. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-19-252747-9" title="Special:BookSources/978-0-19-252747-9"><bdi>978-0-19-252747-9</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">4 September</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Oxford+Dictionary+of+Family+Names+in+Britain+and+Ireland&amp;rft.pages=12&amp;rft.pub=OUP+Oxford&amp;rft.date=2016&amp;rft.isbn=978-0-19-252747-9&amp;rft.aulast=Hanks&amp;rft.aufirst=P.&amp;rft.au=Coates%2C+R.&amp;rft.au=McClure%2C+P.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D0AyDDQAAQBAJ%26pg%3DPA12&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdams+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Honor For E. D. Adams: Engineers to Award the <a href="/wiki/John_Fritz_Medal" title="John Fritz Medal">John Fritz Medal</a> for Niagara Development. (1926, March 17). <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i> (1857–Current file), 6. ProQuest Historical Newspapers: <i>The New York Times</i> (1851–2004) database. (Document ID: 119063396).</span>
-</li>
-</ol></div></div>
+</div>
 <style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
 <table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
 <tbody><tr>
 <td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
-<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Adams</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Adams_(surname)&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Powell</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Powell_(surname)&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
 </tr>
 </tbody></table>
+<p>Video - Powell family crest and coat of arms short history and meaning - documentary
+<a rel="nofollow" class="external free" href="https://www.youtube.com/watch?v=Anwnw2IgH60">https://www.youtube.com/watch?v=Anwnw2IgH60</a>
+</p>
 <!-- 
 NewPP limit report
-Parsed by mw1314
-Cached time: 20191007230028
+Parsed by mw1335
+Cached time: 20191023122959
 Cache expiry: 2592000
 Dynamic content: false
-Complications: [vary‐revision‐sha1]
-CPU time usage: 0.244 seconds
-Real time usage: 0.338 seconds
-Preprocessor visited node count: 1016/1000000
+Complications: []
+CPU time usage: 0.116 seconds
+Real time usage: 0.161 seconds
+Preprocessor visited node count: 318/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 10063/2097152 bytes
-Template argument size: 1228/2097152 bytes
+Post‐expand include size: 2858/2097152 bytes
+Template argument size: 806/2097152 bytes
 Highest expansion depth: 8/40
 Expensive parser function count: 1/500
-Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 10120/5000000 bytes
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 247/5000000 bytes
 Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.097/10.000 seconds
-Lua memory usage: 2.6 MB/50 MB
+Lua time usage: 0.024/10.000 seconds
+Lua memory usage: 956 KB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  254.567      1 -total
- 40.16%  102.246      1 Template:Reflist
- 29.64%   75.459      1 Template:Cite_web
- 28.55%   72.676      1 Template:Infobox_surname
- 25.27%   64.330      1 Template:Surname
- 22.78%   57.992      1 Template:Infobox
- 21.49%   54.696      1 Template:Dmbox
- 10.69%   27.212      1 Template:Short_description
-  9.46%   24.088      1 Template:Pagetype
-  6.77%   17.223      1 Template:Category_handler
+100.00%  122.800      1 -total
+ 65.81%   80.811      1 Template:Surname
+ 59.48%   73.036      1 Template:Dmbox
+ 34.10%   41.871      1 Template:Reflist
+ 25.46%   31.267      1 Template:Short_description
+ 22.69%   27.859      1 Template:Pagetype
+ 14.96%   18.369      1 Template:Category_handler
+  2.90%    3.559      2 Template:Main_other
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:10679176-0!canonical and timestamp 20191007230100 and revision id 920146693
+<!-- Saved in parser cache with key enwiki:pcache:idhash:6338207-0!canonical and timestamp 20191023122959 and revision id 922645347
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Adams_(surname)&amp;oldid=920146693">https://en.wikipedia.org/w/index.php?title=Adams_(surname)&amp;oldid=920146693</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Powell_(surname)&amp;oldid=922645347">https://en.wikipedia.org/w/index.php?title=Powell_(surname)&amp;oldid=922645347</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:Patronymic_surnames" title="Category:Patronymic surnames">Patronymic surnames</a></li><li><a href="/wiki/Category:Surnames_of_English_origin" title="Category:Surnames of English origin">Surnames of English origin</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:Surnames_of_Welsh_origin" title="Category:Surnames of Welsh origin">Surnames of Welsh origin</a></li><li><a href="/wiki/Category:Patronymic_surnames" title="Category:Patronymic surnames">Patronymic surnames</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -463,13 +245,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Adams+%28surname%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Adams+%28surname%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Powell+%28surname%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Powell+%28surname%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Adams_(surname)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Adams_(surname)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Powell_(surname)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Powell_(surname)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -484,7 +266,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Adams_(surname)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Adams_(surname)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Adams_(surname)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Powell_(surname)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Powell_(surname)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Powell_(surname)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -523,35 +305,35 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Adams_(surname)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Adams_(surname)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Adams_(surname)&amp;oldid=920146693" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Adams_(surname)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q351735" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Adams_%28surname%29&amp;id=920146693" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Powell_(surname)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Powell_(surname)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Powell_(surname)&amp;oldid=922645347" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Powell_(surname)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1158612" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Powell_%28surname%29&amp;id=922645347" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
 			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
 			<div class="body">
 								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Adams_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Powell_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Adams+%28surname%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Adams+%28surname%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Adams_(surname)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Powell+%28surname%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Powell+%28surname%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Powell_(surname)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Adams_(cognom)" title="Adams (cognom) – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Adams_(p%C5%99%C3%ADjmen%C3%AD)" title="Adams (příjmení) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Adams_(Familienname)" title="Adams (Familienname) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Adams_(apellido)" title="Adams (apellido) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Adams_(efternamn)" title="Adams (efternamn) – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%B4%D0%B0%D0%BC%D1%81_(%D0%BF%D1%80%D1%96%D0%B7%D0%B2%D0%B8%D1%89%D0%B5)" title="Адамс (прізвище) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q351735#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Powell_(p%C5%99%C3%ADjmen%C3%AD)" title="Powell (příjmení) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Powell" title="Powell – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Powell_(Familienname)" title="Powell (Familienname) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Powell_(perekonnanimi)" title="Powell (perekonnanimi) – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB%D0%BB_(%D0%BF%D1%80%D1%96%D0%B7%D0%B2%D0%B8%D1%89%D0%B5)" title="Павелл (прізвище) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1158612#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 7 October 2019, at 23:01<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 23 October 2019, at 12:29<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -562,7 +344,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Adams_(surname)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Powell_(surname)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -574,8 +356,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.244","walltime":"0.338","ppvisitednodes":{"value":1016,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":10063,"limit":2097152},"templateargumentsize":{"value":1228,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":10120,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  254.567      1 -total"," 40.16%  102.246      1 Template:Reflist"," 29.64%   75.459      1 Template:Cite_web"," 28.55%   72.676      1 Template:Infobox_surname"," 25.27%   64.330      1 Template:Surname"," 22.78%   57.992      1 Template:Infobox"," 21.49%   54.696      1 Template:Dmbox"," 10.69%   27.212      1 Template:Short_description","  9.46%   24.088      1 Template:Pagetype","  6.77%   17.223      1 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.097","limit":"10.000"},"limitreport-memusage":{"value":2730333,"limit":52428800}},"cachereport":{"origin":"mw1314","timestamp":"20191007230028","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Adams (surname)","url":"https:\/\/en.wikipedia.org\/wiki\/Adams_(surname)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q351735","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q351735","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-04-15T12:13:04Z","dateModified":"2019-10-07T23:01:00Z","headline":"family name"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":102,"wgHostname":"mw1321"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.116","walltime":"0.161","ppvisitednodes":{"value":318,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":2858,"limit":2097152},"templateargumentsize":{"value":806,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":247,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  122.800      1 -total"," 65.81%   80.811      1 Template:Surname"," 59.48%   73.036      1 Template:Dmbox"," 34.10%   41.871      1 Template:Reflist"," 25.46%   31.267      1 Template:Short_description"," 22.69%   27.859      1 Template:Pagetype"," 14.96%   18.369      1 Template:Category_handler","  2.90%    3.559      2 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.024","limit":"10.000"},"limitreport-memusage":{"value":979273,"limit":52428800}},"cachereport":{"origin":"mw1335","timestamp":"20191023122959","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Powell (surname)","url":"https:\/\/en.wikipedia.org\/wiki\/Powell_(surname)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1158612","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1158612","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-08-08T23:11:44Z","dateModified":"2019-10-23T12:29:58Z","headline":"family name"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":97,"wgHostname":"mw1268"});});</script>
 </body>
 </html>

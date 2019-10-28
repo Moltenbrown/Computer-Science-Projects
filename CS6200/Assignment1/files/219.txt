@@ -2,36 +2,35 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Patrick (given name) - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Patrick_(given_name)","wgTitle":"Patrick (given name)","wgCurRevisionId":921017065,"wgRevisionId":921017065,"wgArticleId":1055240,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","All set index articles","Given names","English masculine given names","French masculine given names","Irish masculine given names","German masculine given names"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
-"wgRelevantPageName":"Patrick_(given_name)","wgRelevantArticleId":1055240,"wgRequestId":"Xa1HmwpAAEEAAGjS@XAAAABN","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q18002623","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading",
-"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init",
-"ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Farm (revenue leasing) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Farm_(revenue_leasing)","wgTitle":"Farm (revenue leasing)","wgCurRevisionId":916924917,"wgRevisionId":916924917,"wgArticleId":1527309,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from September 2019","Wikipedia articles needing rewrite from September 2019","All articles needing rewrite","Articles with unsourced statements from March 2011","Public finance","History of taxation","Land tenure"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"]
+,"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Farm_(revenue_leasing)","wgRelevantArticleId":1527309,"wgRequestId":"XbUKLQpAIC8AAHEh8GgAAADQ","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1379785","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":
+"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader",
+"ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.1"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/a/a2/%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%BA_%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%28%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%29.jpg"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Patrick_(given_name)"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Patrick_(given_name)&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Patrick_(given_name)&amp;action=edit"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Farm_(revenue_leasing)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Farm_(revenue_leasing)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Farm_(revenue_leasing)&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Patrick_(given_name)"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Farm_(revenue_leasing)"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Patrick_given_name rootpage-Patrick_given_name skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Farm_revenue_leasing rootpage-Farm_revenue_leasing skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -40,7 +39,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Patrick (given name)</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Farm (revenue leasing)</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -51,254 +50,172 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em"><caption>Patrick</caption><tbody><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%BA_%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_(%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0).jpg" class="image"><img alt="Патрик Ирландский (икона).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%BA_%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%28%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%29.jpg/220px-%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%BA_%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%28%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%29.jpg" decoding="async" width="220" height="291" srcset="//upload.wikimedia.org/wikipedia/commons/a/a2/%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%BA_%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%28%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%29.jpg 1.5x" data-file-width="275" data-file-height="364" /></a><div><a href="/wiki/Russia" title="Russia">Russian</a> icon of <a href="/wiki/Saint_Patrick" title="Saint Patrick">Saint Patrick</a></div></td></tr><tr><th scope="row">Pronunciation</th><td><span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="&#39;p&#39; in &#39;pie&#39;">p</span><span title="/æ/: &#39;a&#39; in &#39;bad&#39;">æ</span><span title="&#39;t&#39; in &#39;tie&#39;">t</span><span title="&#39;r&#39; in &#39;rye&#39;">r</span><span title="/ɪ/: &#39;i&#39; in &#39;kit&#39;">ɪ</span><span title="&#39;k&#39; in &#39;kind&#39;">k</span></span>/</a></span></span><br /><small>German:&#32;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Standard_German" title="Help:IPA/Standard German">[patʁɪk]</a></span></td></tr><tr><th scope="row">Gender</th><td><a href="/wiki/Male" title="Male">Male</a></td></tr><tr><th scope="row"><a href="/wiki/Name_day" title="Name day">Name day</a></th><td>March 17</td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Origin</th></tr><tr><th scope="row">Word/name</th><td><a href="/wiki/Latin" title="Latin">Latin</a></td></tr><tr><th scope="row">Meaning</th><td><i><a href="/wiki/Nobleman" class="mw-redirect" title="Nobleman">Nobleman</a></i>, <i><a href="/wiki/Patrician_(ancient_Rome)" title="Patrician (ancient Rome)">patrician</a></i></td></tr><tr><th scope="row">Region of origin</th><td><a href="/wiki/World" title="World">Worldwide</a></td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Other names</th></tr><tr><th scope="row">Related names</th><td><a href="/wiki/P%C3%A1draic" class="mw-redirect" title="Pádraic">Pádraic</a>, <a href="/wiki/P%C3%A1draig" title="Pádraig">Pádraig</a>, <a href="/wiki/Patricia" title="Patricia">Patricia</a>, <a href="/w/index.php?title=Patraic&amp;action=edit&amp;redlink=1" class="new" title="Patraic (page does not exist)">Patraic</a>, <a href="/wiki/Patric" class="mw-redirect" title="Patric">Patric</a>, <a href="/wiki/Pat_(disambiguation)" class="mw-redirect mw-disambig" title="Pat (disambiguation)">Pat</a>, Paddy, Patty, <a href="/wiki/Ricky_(given_name)" title="Ricky (given name)">Ricky</a>, Rick</td></tr></tbody></table>
-<p><b>Patrick</b> in its earliest form, can be found as the name derived from the <a href="/wiki/Latin" title="Latin">Latin</a> name <i>Patricius</i> (<a href="/wiki/Patrician_(ancient_Rome)" title="Patrician (ancient Rome)">patrician</a>, i.e. "nobleman").
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Farm_(disambiguation)" class="mw-disambig" title="Farm (disambiguation)">Farm (disambiguation)</a>.</div>
+<p><b>Farming</b> or <b>tax-farming</b> is  a technique of <a href="/wiki/Financial_management" title="Financial management">financial management</a> in which the management of a variable revenue stream is assigned by <a href="/wiki/Contract" title="Contract">legal contract</a> to a third party and the holder of the revenue stream receives fixed periodic rents from the contractor. It is most commonly used in <a href="/wiki/Public_finance" title="Public finance">public finance</a>, where governments (the <a href="/wiki/Lease" title="Lease">lessors</a>) lease or assign the right to collect and retain the whole of the tax revenue to a private financier (the farmer), who is charged with paying fixed sums (sometimes called "rents", but with a different meaning from the common modern term) into the <a href="/wiki/Treasury" title="Treasury">treasury</a>. Sometimes, as in the case of <a href="/wiki/Miguel_de_Cervantes" title="Miguel de Cervantes">Miguel de Cervantes</a>, the tax farmer was a government employee, paid a salary, and all money collected went to the government.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2019)">citation needed</span></a></i>&#93;</sup>
+</p><p>Farming in this sense has nothing to do with <a href="/wiki/Agriculture" title="Agriculture">agriculture</a>, other than metaphorically.
 </p>
 <div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#People_named_Patrick"><span class="tocnumber">1</span> <span class="toctext">People named Patrick</span></a>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology"><span class="tocnumber">1</span> <span class="toctext">Etymology</span></a>
 <ul>
-<li class="toclevel-2 tocsection-2"><a href="#Actors_and_entertainers"><span class="tocnumber">1.1</span> <span class="toctext">Actors and entertainers</span></a></li>
-<li class="toclevel-2 tocsection-3"><a href="#Authors"><span class="tocnumber">1.2</span> <span class="toctext">Authors</span></a></li>
-<li class="toclevel-2 tocsection-4"><a href="#Musicians"><span class="tocnumber">1.3</span> <span class="toctext">Musicians</span></a></li>
-<li class="toclevel-2 tocsection-5"><a href="#Politicians"><span class="tocnumber">1.4</span> <span class="toctext">Politicians</span></a></li>
-<li class="toclevel-2 tocsection-6"><a href="#Religious_figures"><span class="tocnumber">1.5</span> <span class="toctext">Religious figures</span></a></li>
-<li class="toclevel-2 tocsection-7"><a href="#Sportspeople"><span class="tocnumber">1.6</span> <span class="toctext">Sportspeople</span></a></li>
-<li class="toclevel-2 tocsection-8"><a href="#Other"><span class="tocnumber">1.7</span> <span class="toctext">Other</span></a></li>
+<li class="toclevel-2 tocsection-2"><a href="#Derivation_from_classical_Latin"><span class="tocnumber">1.1</span> <span class="toctext">Derivation from classical Latin</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Derivation_from_Old_English"><span class="tocnumber">1.2</span> <span class="toctext">Derivation from Old English</span></a></li>
 </ul>
 </li>
-<li class="toclevel-1 tocsection-9"><a href="#Fictional_characters"><span class="tocnumber">2</span> <span class="toctext">Fictional characters</span></a></li>
-<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Valuation_of_a_farm"><span class="tocnumber">2</span> <span class="toctext">Valuation of a farm</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Historical_use"><span class="tocnumber">3</span> <span class="toctext">Historical use</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Roman_Empire"><span class="tocnumber">3.1</span> <span class="toctext">Roman Empire</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Feudal_England"><span class="tocnumber">3.2</span> <span class="toctext">Feudal England</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Other_uses"><span class="tocnumber">3.3</span> <span class="toctext">Other uses</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Advantages"><span class="tocnumber">4</span> <span class="toctext">Advantages</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Disadvantages"><span class="tocnumber">5</span> <span class="toctext">Disadvantages</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Modern-day_tax_farming"><span class="tocnumber">6</span> <span class="toctext">Modern-day tax farming</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Indian_sub-continent"><span class="tocnumber">6.1</span> <span class="toctext">Indian sub-continent</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Disambiguation"><span class="tocnumber">7</span> <span class="toctext">Disambiguation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Privatized_tax_collection"><span class="tocnumber">7.1</span> <span class="toctext">Privatized tax collection</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Factoring"><span class="tocnumber">7.2</span> <span class="toctext">Factoring</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Simple_commutation"><span class="tocnumber">7.3</span> <span class="toctext">Simple commutation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Further_reading"><span class="tocnumber">10</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
 </ul>
 </div>
 
-<h2><span class="mw-headline" id="People_named_Patrick">People named Patrick</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrick_(given_name)&amp;action=edit&amp;section=1" title="Edit section: People named Patrick">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Actors_and_entertainers">Actors and entertainers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrick_(given_name)&amp;action=edit&amp;section=2" title="Edit section: Actors and entertainers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Patrick_Armand" title="Patrick Armand">Patrick Armand</a>, French ballet dancer</li>
-<li><a href="/wiki/Patrick_Brasca" title="Patrick Brasca">Patrick Brasca</a>, Canadian-Taiwanese singer</li>
-<li><a href="/wiki/Patrick_Cargill" title="Patrick Cargill">Patrick Cargill</a>, British actor</li>
-<li><a href="/wiki/Pat_Condell" title="Pat Condell">Pat Condell</a>, English stand-up comedian</li>
-<li><a href="/wiki/Patrick_Dempsey" title="Patrick Dempsey">Patrick Dempsey</a>, American actor</li>
-<li><a href="/wiki/Patrick_Duffy" title="Patrick Duffy">Patrick Duffy</a>, American actor</li>
-<li><a href="/wiki/Patrick_Gower" title="Patrick Gower">Patrick Gower</a>, New Zealand journalist (<a href="/wiki/Newshub" title="Newshub">Newshub</a>)</li>
-<li><a href="/wiki/Patrick_J._Adams" title="Patrick J. Adams">Patrick J. Adams</a> (born 1981), Canadian actor</li>
-<li><a href="/wiki/Sean_Patrick_Flanery" title="Sean Patrick Flanery">Sean Patrick Flanery</a>, American actor</li>
-<li><a href="/wiki/Patrick_Macnee" title="Patrick Macnee">Patrick Macnee</a>, English actor</li>
-<li><a href="/wiki/Patrick_Magee_(actor)" title="Patrick Magee (actor)">Patrick Magee</a>, Irish actor</li>
-<li><a href="/wiki/Patrick_McDonnell_(actor)" title="Patrick McDonnell (actor)">Patrick McDonnell</a>, Irish actor</li>
-<li><a href="/wiki/Patrick_McGoohan" title="Patrick McGoohan">Patrick McGoohan</a> (1928–2009), Irish-American actor</li>
-<li><a href="/wiki/Patrick_Monahan_(comedian)" title="Patrick Monahan (comedian)">Patrick Monahan</a>, Irish comedian</li>
-<li><a href="/wiki/Patrick_O%27Connell_(actor)" title="Patrick O&#39;Connell (actor)">Patrick O'Connell</a>, Irish actor</li>
-<li><a href="/wiki/Pat_Paulsen" title="Pat Paulsen">Pat Paulsen</a> (1927–1997), American comedian and satirist</li>
-<li><a href="/wiki/Pat_Sajak" title="Pat Sajak">Pat Sajak</a>, American game show host</li>
-<li><a href="/wiki/Patrick_Stewart" title="Patrick Stewart">Patrick Stewart</a> (born 1940), British actor</li>
-<li><a href="/wiki/Patrick_Swayze" title="Patrick Swayze">Patrick Swayze</a> (1952–2009), American actor</li>
-<li><a href="/wiki/Patrick_Topaloff" title="Patrick Topaloff">Patrick Topaloff</a> (1944–2010), French singer and actor</li>
-<li><a href="/wiki/Patrick_Troughton" title="Patrick Troughton">Patrick Troughton</a> (1920–1987), English actor</li>
-<li><a href="/wiki/Patrick_Warburton" title="Patrick Warburton">Patrick Warburton</a> (born 1964), American actor</li></ul>
-<h3><span class="mw-headline" id="Authors">Authors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrick_(given_name)&amp;action=edit&amp;section=3" title="Edit section: Authors">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li>Patrick, the pseudonym used by artist <a href="/wiki/John_Byrne_(playwright)" title="John Byrne (playwright)">John Byrne</a>, Scottish playwright</li>
-<li><a href="/wiki/Patrick_Cary" title="Patrick Cary">Patrick Cary</a>, (c. 1624–1658), English poet</li>
-<li><a href="/wiki/Pat_Chapman" title="Pat Chapman">Pat Chapman</a>, English food writer</li>
-<li><a href="/wiki/Padraic_Colum" title="Padraic Colum">Padraic Colum</a> (1881–1972), Irish author</li>
-<li><a href="/wiki/Patrick_Cullinan" title="Patrick Cullinan">Patrick Cullinan</a>, South African poet and biographer</li>
-<li><a href="/wiki/Patrick_Dearen" title="Patrick Dearen">Patrick Dearen</a>, American author</li>
-<li><a href="/wiki/Patrick_Jones" title="Patrick Jones">Patrick Jones</a>, Welsh poet and playwright</li>
-<li><a href="/wiki/Patrick_Lane" title="Patrick Lane">Patrick Lane</a> (born 1939), Canadian poet</li>
-<li><a href="/wiki/Patrick_McCauley" title="Patrick McCauley">Patrick McCauley</a> (1927–2015), American journalist and author</li>
-<li><a href="/wiki/Patrick_Pearse" title="Patrick Pearse">Patrick Pearse</a> (1879-1916), Irish Poet and nationalist.</li>
-<li><a href="/wiki/Patrick_O%27Brian" title="Patrick O&#39;Brian">Patrick O'Brian</a> (1914–2000), English author and translator</li></ul>
-<h3><span class="mw-headline" id="Musicians">Musicians</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrick_(given_name)&amp;action=edit&amp;section=4" title="Edit section: Musicians">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li>Pat Acuña (born 1986), American drummer, member of indie rock band <a href="/wiki/Silent_Old_Mtns" title="Silent Old Mtns">Silent Old Mtns</a></li>
-<li><a href="/wiki/Patrick_Alavi" title="Patrick Alavi">Patrick Alavi</a>, German musician</li>
-<li><a href="/wiki/Pat_Boone" title="Pat Boone">Pat Boone</a>, American singer</li>
-<li><a href="/wiki/Patrick_Brasca" title="Patrick Brasca">Patrick Brasca</a>, Canadian-Taiwanese singer</li>
-<li><a href="/wiki/Patrick_Carney" title="Patrick Carney">Patrick Carney</a> (born 1980), American drummer, member of indie rock band <a href="/wiki/The_Black_Keys" title="The Black Keys">The Black Keys</a></li>
-<li><a href="/wiki/Pat_DiNizio" title="Pat DiNizio">Pat DiNizio</a> (1955–2017), American songwriter, lead singer of the band The Smithereens</li>
-<li><a href="/wiki/Patrick_Doyle" title="Patrick Doyle">Patrick Doyle</a>, film composer</li>
-<li><a href="/wiki/Patrick_Girondi" title="Patrick Girondi">Patrick Girondi</a>, singer, composer</li>
-<li><a href="/wiki/Pat_Metheny" title="Pat Metheny">Pat Metheny</a>, American jazz guitarist</li>
-<li><a href="/wiki/Morrissey" title="Morrissey">Steven Patrick Morrissey</a> (born 1959), British singer</li>
-<li><a href="/wiki/Patrick_Monahan" title="Patrick Monahan">Patrick Monahan</a> (born 1969), American musician (rock band Train)</li>
-<li>Patrick Chukwuemeka Okogwu, known as <a href="/wiki/Tinie_Tempah" title="Tinie Tempah">Tinie Tempah</a>, British rapper</li>
-<li><a href="/wiki/Patrick_Simmons" title="Patrick Simmons">Patrick Simmons</a> (born 1948), American guitarist and singer, founding member of the band <a href="/wiki/The_Doobie_Brothers" title="The Doobie Brothers">The Doobie Brothers</a></li>
-<li><a href="/wiki/Patrick_Stump" title="Patrick Stump">Patrick Stump</a> (born 1984), American musician, lead singer and rhythm guitarist of the band <a href="/wiki/Fall_Out_Boy" title="Fall Out Boy">Fall Out Boy</a></li>
-<li><a href="/wiki/Patrick_Wolf" title="Patrick Wolf">Patrick Wolf</a> (born 1983), English singer-songwriter</li></ul>
-<h3><span class="mw-headline" id="Politicians">Politicians</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrick_(given_name)&amp;action=edit&amp;section=5" title="Edit section: Politicians">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Patrick_Blake_(Canadian_politician)" title="Patrick Blake (Canadian politician)">Patrick Blake</a> (1846–1909), Canadian politician</li>
-<li><a href="/wiki/Patrick_Boland_(Irish_politician)" title="Patrick Boland (Irish politician)">Patrick Boland</a>, Irish politician</li>
-<li><a href="/wiki/Patrick_Buchanan" class="mw-redirect" title="Patrick Buchanan">Patrick Buchanan</a>, American political commentator, author and politician</li>
-<li><a href="/wiki/Patrick_Byrne_(Irish_politician)" title="Patrick Byrne (Irish politician)">Patrick Byrne</a>, Irish politician</li>
-<li><a href="/wiki/Patrick_Connor_(Irish_politician)" title="Patrick Connor (Irish politician)">Patrick Connor</a>, Irish politician</li>
-<li><a href="/wiki/Patrick_Donnelly_(Irish_politician)" class="mw-redirect" title="Patrick Donnelly (Irish politician)">Patrick Donnelly</a>, Irish politician</li>
-<li><a href="/wiki/Patrick_Duffy_(Irish_politician)" title="Patrick Duffy (Irish politician)">Patrick Duffy</a>, Irish politician</li>
-<li><a href="/wiki/Patrick_F._Gill" title="Patrick F. Gill">Patrick F. Gill</a>, American Representative</li>
-<li><a href="/wiki/Patrick_Henry" title="Patrick Henry">Patrick Henry</a> (1736–1799), American revolutionary figure</li>
-<li><a href="/wiki/Patrick_Hillery" title="Patrick Hillery">Patrick Hillery</a> (1923–2008), the sixth President of Ireland (1976–1990)</li>
-<li><a href="/wiki/Patrick_J._Kennedy" title="Patrick J. Kennedy">Patrick J. Kennedy</a>, former United States congressman</li>
-<li><a href="/wiki/Patrick_Leonard_(politician)" title="Patrick Leonard (politician)">Patrick Leonard</a>, Irish politician</li>
-<li><a href="/wiki/Patrick_Matibini" title="Patrick Matibini">Patrick Matibini</a> (born 1959), Zambian politician and judge</li>
-<li><a href="/wiki/Patrick_Murphy_(Irish_politician)" title="Patrick Murphy (Irish politician)">Patrick Murphy</a>, Irish politician</li>
-<li><a href="/wiki/Patrick_Norton_(Irish_politician)" title="Patrick Norton (Irish politician)">Patrick Norton</a>, Irish politician</li>
-<li><a href="/wiki/Patrick_Palmer_(Irish_politician)" class="mw-redirect" title="Patrick Palmer (Irish politician)">Patrick Palmer</a>, Irish politician</li>
-<li><a href="/wiki/Patrick_Pearse" title="Patrick Pearse">Patrick Pearse</a> (aka Pádraig Pearse) (1879–1916), Irish activist and revolutionary</li>
-<li><a href="/wiki/Pat_Roberts" title="Pat Roberts">Pat Roberts</a>, American Senator from Kansas</li>
-<li><a href="/wiki/Pat_Robertson" title="Pat Robertson">Pat Robertson</a>, American preacher and political figure</li>
-<li><a href="/wiki/Patrick_Lipton_Robinson" title="Patrick Lipton Robinson">Patrick Lipton Robinson</a>, Jamaican U.N. judge</li>
-<li><a href="/wiki/Patrick_Tierney_(Irish_politician)" title="Patrick Tierney (Irish politician)">Patrick Tierney</a>, Irish politician</li>
-<li><a href="/wiki/Patrick_Vans" class="mw-redirect" title="Patrick Vans">Patrick Vans</a>, Scottish judge</li>
-<li><a href="/wiki/Patrick_Vanse" title="Patrick Vanse">Patrick Vanse</a> (1655–1733), Scottish MP</li></ul>
-<h3><span class="mw-headline" id="Religious_figures">Religious figures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrick_(given_name)&amp;action=edit&amp;section=6" title="Edit section: Religious figures">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Saint_Patrick" title="Saint Patrick">Saint Patrick</a>, Christian saint</li>
-<li><a href="/wiki/Patrick_Duggan" title="Patrick Duggan">Patrick Duggan</a>, Roman Catholic Bishop of Clonfert in Ireland</li></ul>
-<h3><span class="mw-headline" id="Sportspeople">Sportspeople</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrick_(given_name)&amp;action=edit&amp;section=7" title="Edit section: Sportspeople">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li>Patrick, the working name of professional wrestler <a href="/wiki/Don_and_Ron_Harris" class="mw-redirect" title="Don and Ron Harris">Don Harris</a></li>
-<li><a href="/wiki/Patrick_(footballer,_born_1993)" title="Patrick (footballer, born 1993)">Patrick</a> (born 1993), Cape Verdean footballer</li>
-<li><a href="/wiki/Patrik_Andersson" title="Patrik Andersson">Patrik Andersson</a>, Swedish football player</li>
-<li><a href="/wiki/Patrick_Bamford" title="Patrick Bamford">Patrick Bamford</a>, English football player</li>
-<li><a href="/wiki/Pat_Barry_(fighter)" class="mw-redirect" title="Pat Barry (fighter)">Pat Barry</a> (born 1979), American kickboxer and mixed martial artist</li>
-<li><a href="/wiki/Pat_Batteaux" title="Pat Batteaux">Pat Batteaux</a> (born 1978), American football player</li>
-<li><a href="/wiki/Patrik_Berger" title="Patrik Berger">Patrik Berger</a>, Czech football player</li>
-<li><a href="/wiki/Patrik_Berglund" title="Patrik Berglund">Patrik Berglund</a>, Swedish ice hockey player</li>
-<li><a href="/wiki/Pat_Boller" title="Pat Boller">Pat Boller</a> (born 1972), American ice hockey coach and executive</li>
-<li><a href="/wiki/Paddy_Bradley" title="Paddy Bradley">Paddy Bradley</a>, Irish Gaelic football player</li>
-<li><a href="/wiki/Patrick_Burris" title="Patrick Burris">Patrick Burris</a>, American judoka and two-time Olympian</li>
-<li><a href="/wiki/Patrick_Cain" title="Patrick Cain">Patrick Cain</a>, American football player</li>
-<li><a href="/wiki/Pat_Cash" title="Pat Cash">Pat Cash</a>, Australian tennis player</li>
-<li><a href="/wiki/Patrick_Chan" title="Patrick Chan">Patrick Chan</a> (born 1990), Canadian figure skater</li>
-<li><a href="/wiki/Patrick_Dangerfield" title="Patrick Dangerfield">Patrick Dangerfield</a>, Australian football player</li>
-<li><a href="/wiki/Patrick_Eaves" title="Patrick Eaves">Patrick Eaves</a>, American-Canadian ice hockey player</li>
-<li><a href="/wiki/Pat_Elflein" title="Pat Elflein">Pat Elflein</a>, American football player</li>
-<li><a href="/wiki/Pat_Elzie" title="Pat Elzie">Pat Elzie</a>, American-German basketball coach and former player</li>
-<li><a href="/wiki/Patrick_Ewing" title="Patrick Ewing">Patrick Ewing</a>, American basketball player</li>
-<li><a href="/wiki/Patrick_Faber_(field_hockey)" title="Patrick Faber (field hockey)">Patrick Faber (field hockey)</a>, Dutch field hockey player</li>
-<li><a href="/wiki/P%C3%A1draig_Harrington" title="Pádraig Harrington">Pádraig Harrington</a>, Irish professional golfer</li>
-<li><a href="/wiki/Patrick_Heuscher" title="Patrick Heuscher">Patrick Heuscher</a>, Swiss volleyball player</li>
-<li><a href="/wiki/Patric_H%C3%B6rnqvist" title="Patric Hörnqvist">Patric Hörnqvist</a>, Swedish ice hockey player</li>
-<li><a href="/wiki/Patrick_Kane" title="Patrick Kane">Patrick Kane</a>, professional ice hockey player</li>
-<li><a href="/wiki/Patrick_Kluivert" title="Patrick Kluivert">Patrick Kluivert</a>, Dutch football player</li>
-<li><a href="/wiki/Patrick_K%C3%BChl" title="Patrick Kühl">Patrick Kühl</a>, German swimmer</li>
-<li><a href="/wiki/Patrik_K%C3%BChnen" title="Patrik Kühnen">Patrik Kühnen</a>, German tennis player</li>
-<li><a href="/wiki/Patrick_Lewis" title="Patrick Lewis">Patrick Lewis</a>, American football player</li>
-<li><a href="/wiki/Patrik_Laine" title="Patrik Laine">Patrik Laine</a>, Finnish ice hockey player</li>
-<li><a href="/wiki/Patrick_Laird" title="Patrick Laird">Patrick Laird</a> (born 1995), American football player</li>
-<li><a href="/wiki/Pat_Mahomes" title="Pat Mahomes">Pat Mahomes</a>, American baseball player; father of Patrick Mahomes II</li>
-<li><a href="/wiki/Patrick_Mahomes_II" class="mw-redirect" title="Patrick Mahomes II">Patrick Mahomes II</a>, American football player</li>
-<li><a href="/wiki/Patrick_Matt" title="Patrick Matt">Patrick Matt</a>, Liechtensteiner cyclist</li>
-<li><a href="/wiki/Pat_Matzdorf" title="Pat Matzdorf">Pat Matzdorf</a>, American athlete</li>
-<li><a href="/wiki/Patrick_Mboma" class="mw-redirect" title="Patrick Mboma">Patrick Mboma</a>, Cameroon football player</li>
-<li><a href="/wiki/Patrick_McEnroe" title="Patrick McEnroe">Patrick McEnroe</a>, American tennis player</li>
-<li><a href="/wiki/Patrick_McGuirk" title="Patrick McGuirk">Patrick McGuirk</a> (born 1967), American football player</li>
-<li><a href="/wiki/Patrick_Mekari" title="Patrick Mekari">Patrick Mekari</a> (born 1997), American football player</li>
-<li><a href="/wiki/Patrick_Mills" class="mw-redirect" title="Patrick Mills">Patrick Mills</a>, Australian basketball player</li>
-<li><a href="/wiki/Pat_Mountain" title="Pat Mountain">Pat Mountain</a>, Welsh football player</li>
-<li><a href="/wiki/Patrick_O%27Connell_(Irish_footballer)" title="Patrick O&#39;Connell (Irish footballer)">Patrick O'Connell</a> (1887–1959), Irish footballer</li>
-<li><a href="/wiki/Pat_O%27Connor_(disambiguation)" class="mw-redirect mw-disambig" title="Pat O&#39;Connor (disambiguation)">Pat O'Connor (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Pat_O%27Hanlon" title="Pat O&#39;Hanlon">Pat O'Hanlon</a> (born 1991), Australia Rugby League player</li>
-<li><a href="/wiki/Patrick_Rafter" class="mw-redirect" title="Patrick Rafter">Patrick Rafter</a>, Australian tennis player</li>
-<li><a href="/wiki/Patrick_Rakovsky" title="Patrick Rakovsky">Patrick Rakovsky</a>, German football player</li>
-<li><a href="/wiki/Patrick_Ramsey" title="Patrick Ramsey">Patrick Ramsey</a>, American football player</li>
-<li><a href="/wiki/Patrick_Ricard_(American_football)" title="Patrick Ricard (American football)">Patrick Ricard (American football)</a> (born 1994), American football player</li>
-<li><a href="/wiki/Pat_Richards" title="Pat Richards">Pat Richards</a> (born 1981), Australian Rugby League player</li>
-<li><a href="/wiki/Patrick_Rowe" title="Patrick Rowe">Patrick Rowe</a> (born 1969), American football player</li>
-<li><a href="/wiki/Patrick_Roy" title="Patrick Roy">Patrick Roy</a>, Canadian ice hockey goaltender</li>
-<li><a href="/wiki/Pat_Ryan_(American_football)" title="Pat Ryan (American football)">Pat Ryan</a> (born 1955), American football player</li>
-<li><a href="/wiki/Patrick_Scales_(American_football)" title="Patrick Scales (American football)">Patrick Scales (American football)</a>, American football player</li>
-<li><a href="/wiki/Patrick_Schmollinger" title="Patrick Schmollinger">Patrick Schmollinger</a>, Austrian swimmer</li>
-<li><a href="/wiki/Patrick_da_Silva" title="Patrick da Silva">Patrick da Silva</a>, Brazilian football player</li>
-<li><a href="/wiki/Patrik_Sj%C3%B6berg" title="Patrik Sjöberg">Patrik Sjöberg</a>, Swedish high jumper</li>
-<li><a href="/wiki/Pat_Spillane" title="Pat Spillane">Pat Spillane</a>, Irish Gaelic footballer</li>
-<li><a href="/wiki/Pat_Tillman" title="Pat Tillman">Pat Tillman</a> (born 1976), American football player and Army Ranger</li>
-<li><a href="/wiki/Patrick_Vahe" title="Patrick Vahe">Patrick Vahe</a> (born 1996), American football player</li>
-<li><a href="/wiki/Patrick_Veszpremi" title="Patrick Veszpremi">Patrick Veszpremi</a>, Australian rules footballer</li>
-<li><a href="/wiki/Patrick_Vieira" title="Patrick Vieira">Patrick Vieira</a>, Senegalese-born French football player</li>
-<li><a href="/wiki/Patrik_Virta" title="Patrik Virta">Patrik Virta</a> (born 1996), Finnish ice hockey player</li>
-<li><a href="/wiki/Patrick_Willis" title="Patrick Willis">Patrick Willis</a> (born 1985), American football player</li></ul>
-<h3><span class="mw-headline" id="Other">Other</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrick_(given_name)&amp;action=edit&amp;section=8" title="Edit section: Other">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/His_Imperial_Highness" class="mw-redirect" title="His Imperial Highness">H.I.H.</a> <a href="/wiki/Prince_Patrick_Ali_Pahlavi" class="mw-redirect" title="Prince Patrick Ali Pahlavi">Prince Patrick Ali of Iran</a></li>
-<li><a href="/wiki/Patrick_Bokanowski" title="Patrick Bokanowski">Patrick Bokanowski</a>, a French filmmaker</li>
-<li><a href="/wiki/Patrick_Tracy_Burris" title="Patrick Tracy Burris">Patrick Tracy Burris</a> (1967–2009), American spree killer</li>
-<li><a href="/wiki/Patrick_E._Crago" title="Patrick E. Crago">Patrick E. Crago</a>, American medical researcher</li>
-<li>Patrick Wood Crusius (born 1998), suspect in the <a href="/wiki/2019_El_Paso_shooting" title="2019 El Paso shooting">2019 El Paso shooting</a></li>
-<li><a href="/wiki/Patrick_Fitzgerald" title="Patrick Fitzgerald">Patrick Fitzgerald</a>, American Attorney</li>
-<li><a href="/wiki/Patrick_Flanagan" title="Patrick Flanagan">Patrick Flanagan</a>, American inventor</li>
-<li><a href="/wiki/Patrick_de_Gayardon" title="Patrick de Gayardon">Patrick de Gayardon</a> (1960–1998), French skydiver, skysurfer and BASE jumper</li>
-<li><a href="/wiki/Patrick_Gordon" title="Patrick Gordon">Patrick Gordon</a>, Imperial Russian Army general</li>
-<li><a href="/wiki/Patrick_Harvey_(disambiguation)" class="mw-redirect mw-disambig" title="Patrick Harvey (disambiguation)">Patrick Harvey (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Patrick_Hitler" class="mw-redirect" title="Patrick Hitler">Patrick Hitler</a>, nephew of Adolf Hitler</li>
-<li><a href="/wiki/Patrick_Jeffrey" title="Patrick Jeffrey">Patrick Jeffrey</a>, American diver</li>
-<li><a href="/wiki/Pat_Kenny" title="Pat Kenny">Pat Kenny</a>, Irish broadcaster</li>
-<li><a href="/wiki/Patrick_Kielty" title="Patrick Kielty">Patrick Kielty</a>, Irish comedian and television presenter</li>
-<li><a href="/wiki/Pat_Kiernan" title="Pat Kiernan">Pat Kiernan</a>, television news anchor</li>
-<li><a href="/wiki/Thomas_Patrick_Anson,_5th_Earl_of_Lichfield" class="mw-redirect" title="Thomas Patrick Anson, 5th Earl of Lichfield">Patrick, 5th Earl of Lichfield</a> (1939–2005; better known as <a href="/wiki/Patrick_Lichfield" class="mw-redirect" title="Patrick Lichfield">Patrick Lichfield</a>), photographer</li>
-<li><a href="/wiki/Patrick_McGuinness_(disambiguation)" class="mw-disambig" title="Patrick McGuinness (disambiguation)">Patrick McGuinness (disambiguation)</a>, multiple people</li>
-<li>Sir <a href="/wiki/Patrick_Moore" title="Patrick Moore">Patrick Moore</a>, English astronomer</li>
-<li><a href="/wiki/Patrick_Moore_(consultant)" title="Patrick Moore (consultant)">Patrick Moore</a> (born 1947), founder member of <a href="/wiki/Greenpeace" title="Greenpeace">Greenpeace</a></li>
-<li><a href="/wiki/Patrick_Rechner" class="mw-redirect" title="Patrick Rechner">Patrick Rechner</a>, Canadian Captain taken hostage working as a UN observer in Bosnia</li>
-<li><a href="/wiki/Patrick_%22Spaz%22_Spaziante" class="mw-redirect" title="Patrick &quot;Spaz&quot; Spaziante">Patrick "Spaz" Spaziante</a>, American comic book artist</li>
-<li><a href="/wiki/Patrick_Swift" title="Patrick Swift">Patrick Swift</a> (1927–1983), painter</li>
-<li><a href="/wiki/Patrick_Whelan" title="Patrick Whelan">Patrick Whelan</a> (1893–1916), Irish Volunteer, KIA during the Easter Rising of 1916</li></ul>
-<h2><span class="mw-headline" id="Fictional_characters">Fictional characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrick_(given_name)&amp;action=edit&amp;section=9" title="Edit section: Fictional characters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Lord_Harry" class="mw-redirect" title="Lord Harry">Lord Harry</a>, also known as Patrick, the locomotive character from <i><a href="/wiki/The_Railway_Series" title="The Railway Series">The Railway Series</a></i> books by the Rev. W. Awdry</li>
-<li><a href="/wiki/List_of_Corner_Shop_Show_characters#Recurring_characters" title="List of Corner Shop Show characters">Patrick</a>, an Irish chip shop owner played by David Mullane in the British web series <i><a href="/wiki/Corner_Shop_Show" title="Corner Shop Show">Corner Shop Show</a></i></li>
-<li><a href="/wiki/Patrick_Bateman" title="Patrick Bateman">Patrick Bateman</a> in Bret Easton Ellis' novel <i><a href="/wiki/American_Psycho" title="American Psycho">American Psycho</a></i></li>
-<li><a href="/wiki/Patrick_Darling" class="mw-redirect" title="Patrick Darling">Patrick Darling</a> in <i><a href="/wiki/Dirty_Sexy_Money" title="Dirty Sexy Money">Dirty Sexy Money</a></i></li>
-<li><a href="/wiki/Sir_Patrick_Delaney-Podmore" class="mw-redirect" title="Sir Patrick Delaney-Podmore">Sir Patrick Delaney-Podmore</a> in the <i><a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a></i> series of books</li>
-<li><a href="/wiki/Patrick_Harper_(fiction)" class="mw-redirect" title="Patrick Harper (fiction)">Patrick Harper (fiction)</a>, the Irish right-hand man in the <i><a href="/wiki/Sharpe_(novel_series)" title="Sharpe (novel series)">Sharpe</a></i> book and television series</li>
-<li><a href="/wiki/Patrick_Jane" title="Patrick Jane">Patrick Jane</a>, main character in <i><a href="/wiki/The_Mentalist" title="The Mentalist">The Mentalist</a></i></li>
-<li><a href="/wiki/Patrick_Star" title="Patrick Star">Patrick Star</a> in the television series <i><a href="/wiki/SpongeBob_SquarePants" title="SpongeBob SquarePants">SpongeBob SquarePants</a></i></li></ul>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrick_(given_name)&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Patrick_(disambiguation)" class="mw-redirect mw-disambig" title="Patrick (disambiguation)">Patrick (disambiguation)</a></li>
-<li><a href="/wiki/Patrick_(surname)" title="Patrick (surname)">Patrick (surname)</a></li></ul>
-<style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
-<table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
-<tbody><tr>
-<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
-<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Name list</div>This page or section lists people that share the same <a href="/wiki/Given_name" title="Given name">given name</a>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Patrick_(given_name)&amp;namespace=0">internal link</a> led you here, you may wish to change that link to point directly to the intended article. </td>
-</tr>
-</tbody></table>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farm_(revenue_leasing)&amp;action=edit&amp;section=1" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are two possible origins for <i>farm</i>.
+</p>
+<h3><span class="mw-headline" id="Derivation_from_classical_Latin">Derivation from classical Latin</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farm_(revenue_leasing)&amp;action=edit&amp;section=2" title="Edit section: Derivation from classical Latin">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Some sources derive "farm" with its French version <i>ferme</i>, most notably used in the context of the <a href="/wiki/Farmers-General" class="mw-redirect" title="Farmers-General">Fermiers Generaux</a>,  from the mediaeval Latin <i>firma</i>, meaning "a fixed agreement, contract", ultimately from the classical Latin adjective <i>firmus</i>, <i>firma</i>, <i>firmum</i>, meaning "firm, strong, stout, steadfast,  immoveable, sure, to be relied upon".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>  The modern agricultural sense of the word stems from the same origin, in that  a medieval land-"holder" (none "owned" land but the king himself under his <a href="/wiki/Allodial" class="mw-redirect" title="Allodial">allodial</a> title) under <a href="/wiki/Feudal_land_tenure" class="mw-redirect" title="Feudal land tenure">feudal land tenure</a> might let  it (i.e. lease it out) under a contract as a <a href="/wiki/Going_concern" title="Going concern">going concern</a> (not as a <a href="/wiki/Subinfeudation" title="Subinfeudation">sub-infeudated</a> <a href="/wiki/Fief" title="Fief">fee</a>), that is to say as a unit producing a revenue stream, together with its workers, livestock and deadstock (i.e. implements), for exploitation by a tenant who was licensed by the contract, or <i>firma</i>, to keep all the revenue he could extract from the holding in exchange for fixed rents. Thus the rights to the revenue stream produced by the land had been farmed by the lessor (therefore strictly perhaps the "farmor") and the tenant became the "holder of the farm", or to coin a word, "farmee". Because this was the form of the farming transaction most known to popular society, the word "farmer" became synonymous with a tenant of an agricultural holding.
+</p>
+<h3><span class="mw-headline" id="Derivation_from_Old_English">Derivation from Old English</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farm_(revenue_leasing)&amp;action=edit&amp;section=3" title="Edit section: Derivation from Old English">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>According to other sources, the word <i>farm</i> comes from <a href="/wiki/Middle_English" title="Middle English">Middle English</a> <i>ferme</i> ("farm, rent, revenue; revenue collected from a farmer; factor, stewardship, meal, feast"), from <a href="/wiki/Old_English" title="Old English">Old English</a> <i>feorm, farm</i> ("provision, stores of food, supplies, possessions; provisions supplied to the king or a lord by a tenant or vassal; rent, feast, benefit, assylum"), from <a href="/wiki/Proto-Germanic" class="mw-redirect" title="Proto-Germanic">Proto-Germanic</a> *<i>firmō, *firχumō</i> ("means of living, subsistence"), from <a href="/wiki/Proto-Indo-European_language" title="Proto-Indo-European language">Proto-Indo-European</a> *<i>perk<sup>w</sup>u-</i> ("life, strength, force"). It is related to other Old English words such as <i>feormehām</i> ("farm"), <i>feormere</i> ("purveyor, grocer"), <i>feormian</i> ("to provision, sustain"), and <i>feorh</i> ("life, spirit"). The Old English word is stated by these sources as having unusually been  borrowed by <a href="/wiki/Medieval_Latin" title="Medieval Latin">Medieval Latin</a> as <i>firma</i> or <i>ferma</i> and to have provided the <a href="/wiki/Old_French" title="Old French">Old French</a> <i>ferme</i> "farm", <a href="/wiki/Occitan" class="mw-redirect" title="Occitan">Occitan</a> <i>ferma</i> "farm". This is refuted by those sources which state <i>firma</i> to derive from classical Latin <i>firmus</i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> The word continued the same senses of "rent, farmed office, source of revenue, feast". The meaning "rent, fixed payment", which was already present in the Old English word, was further strengthened due to the word's resemblance to the unrelated (so say these sources) <a href="/wiki/Latin_language" class="mw-redirect" title="Latin language">Latin</a> <i>firmus</i> ("firm, solid"), and <i>firmitas</i> ("security, firmness").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Valuation_of_a_farm">Valuation of a farm</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farm_(revenue_leasing)&amp;action=edit&amp;section=4" title="Edit section: Valuation of a farm">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="box-Cleanup_rewrite plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Crystal_Clear_app_kedit.svg" class="image"><img alt="Crystal Clear app kedit.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Crystal_Clear_app_kedit.svg/40px-Crystal_Clear_app_kedit.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Crystal_Clear_app_kedit.svg/60px-Crystal_Clear_app_kedit.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Crystal_Clear_app_kedit.svg/80px-Crystal_Clear_app_kedit.svg.png 2x" data-file-width="128" data-file-height="128" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This section may need to be <b>rewritten</b> to comply with Wikipedia's <a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">quality standards</a>.<span class="hide-when-compact"> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Farm_(revenue_leasing)&amp;action=edit">You can help</a>. The <a href="/wiki/Talk:Farm_(revenue_leasing)" title="Talk:Farm (revenue leasing)">discussion page</a> may contain suggestions.</span>  <small class="date-container"><i>(<span class="date">September 2019</span>)</i></small></div></td></tr></tbody></table>
+<p>The tenant of a farm can only make a profit if he makes a careful assessment of its value. Although modern <a href="/wiki/Finance" title="Finance">financial management theory</a> has reduced such calculations to scientific formulae, the mind of the astute financier of past ages would have well understood the calculations involved, whether they were performed mentally or by making marks in the sand. An estimate is made of the long-term average yearly gross value of the revenue stream in question, which can be derived from examination of past records and accounts, adjusted for any new circumstances affecting the future. Then a discount for a risk element is deducted with a further discount deducted for the <a href="/wiki/Time_value_of_money" title="Time value of money">time value of money</a>.  The risk in question relates to the possibility of some of the debts forming the revenue stream being defaulted on or paid late. This causes variability in the revenue stream. These concepts must always have been second-nature to the successful merchant throughout the ages. The resultant figure forms the maximum rent the tenant is willing to pay to the lessee of the farm. His profit becomes the excess of whatever revenues he can extract from the farm less the rents payable, less his administration, levying and collection expenses. The skill of the tenant of a farm is therefore firstly in negotiating a favourable rent which he does by overstating the riskiness (variability) of the cash flow stream in question and secondly in his management of the debts thus assigned to him, that is to say his skills as a debt-collector and  manager in general. He must also be satisfied that he has the ability to enforce payment of the debts, ultimately  by use of a court of law, in which he must pay the standard fee for bringing a suit, under the legal system generally instituted by the government authority which is the lessor of the farm. He does not act as the lessor's agent but as a principal.
+</p>
+<h2><span class="mw-headline" id="Historical_use">Historical use</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farm_(revenue_leasing)&amp;action=edit&amp;section=5" title="Edit section: Historical use">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Roman_Empire">Roman Empire</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farm_(revenue_leasing)&amp;action=edit&amp;section=6" title="Edit section: Roman Empire">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Publican" title="Publican">Publican</a></div>
+<p>Tax farming was originally a <a href="/wiki/Ancient_Rome" title="Ancient Rome">Roman</a> practice whereby the burden of <a href="/wiki/Tax_collection" class="mw-redirect" title="Tax collection">tax collection</a> was reassigned by the Roman State to private individuals or groups. In essence, these individuals or groups paid the taxes for a certain area and for a certain period of time and then attempted to cover their outlay by collecting money or saleable goods from the people within that area.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> The system was set up by <a href="/wiki/Gaius_Gracchus" title="Gaius Gracchus">Gaius Gracchus</a> in 123 BC primarily to increase the efficiency of tax collection within <a href="/wiki/Rome" title="Rome">Rome</a> itself but the system quickly spread to the <a href="/wiki/Roman_Province" class="mw-redirect" title="Roman Province">Provinces</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> Within the Roman Empire, these private individuals and groups which collected taxes in lieu of the bid (i.e. rent) they had paid to the state were known as <i><a href="/wiki/Publicani" class="mw-redirect" title="Publicani">publicani</a></i>, of whom the best known is  the <a href="/wiki/Disciple_(Christianity)" title="Disciple (Christianity)">disciple</a> <a href="/wiki/Matthew_the_Evangelist" class="mw-redirect" title="Matthew the Evangelist">Matthew</a>, a <i>publicanus</i> in the village of <a href="/wiki/Capernaum" title="Capernaum">Capernaum</a> in the province of <a href="/wiki/Galilee" title="Galilee">Galilee</a>. The system was widely abused, and reforms were enacted by <a href="/wiki/Augustus" title="Augustus">Augustus</a> and <a href="/wiki/Diocletian" title="Diocletian">Diocletian</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>  Tax farming practices are believed to have contributed to the <a href="/wiki/Fall_of_the_Western_Roman_Empire" title="Fall of the Western Roman Empire">fall of the Western Roman Empire</a> in Western Europe.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Feudal_England">Feudal England</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farm_(revenue_leasing)&amp;action=edit&amp;section=7" title="Edit section: Feudal England">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Mediaeval English kings frequently made grants "in <a href="/wiki/Fief" title="Fief">fee</a>-farm", a form of <a href="/wiki/Feudal_land_tenure" class="mw-redirect" title="Feudal land tenure">feudal tenure</a>. An example is the following <a href="/wiki/Writ" title="Writ">writ</a> of King <a href="/wiki/William_II_of_England" title="William II of England">William II</a> (1087–1100) granting a <a href="/wiki/Hundred_(county_subdivision)" class="mw-redirect" title="Hundred (county subdivision)">hundred court</a> to be held in fee-farm by  <a href="/wiki/Thorney_Abbey" title="Thorney Abbey">Thorney Abbey</a>:
+</p>
+<blockquote><p>William, king of the English, to all the <a href="/wiki/Sheriff" title="Sheriff">sheriffs</a> and <a href="/wiki/English_feudal_barony" title="English feudal barony">barons</a> of <a href="/wiki/Huntingdonshire" title="Huntingdonshire">Huntingdonshire</a>, greeting. Know that I have granted the hundred of Normancross to the <a href="/wiki/Abbot" title="Abbot">abbot</a> and monks of Thorney to be held in fee-farm for an annual rent of 100 <a href="/wiki/Shilling" title="Shilling">shillings</a> which I order them to pay to my sheriff at Huntingdon. And I forbid any of my officers to do them injury or insult in respect of this.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup></p></blockquote>
+<h3><span class="mw-headline" id="Other_uses">Other uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farm_(revenue_leasing)&amp;action=edit&amp;section=8" title="Edit section: Other uses">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Besides the Romans, historical examples include the tax collection methods of the <a href="/wiki/Ptolemaic_Egypt" class="mw-redirect" title="Ptolemaic Egypt">Ptolemies</a>, <a href="/wiki/Seljuks" class="mw-redirect" title="Seljuks">Seljuks</a>, <a href="/wiki/Mamluk_Sultanate_(Cairo)" title="Mamluk Sultanate (Cairo)">Mamluks</a>, <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottomans</a>, the <a href="/wiki/Ancien_R%C3%A9gime" title="Ancien Régime">French State prior to Louis XVI</a> (see <a href="/wiki/Ferme_g%C3%A9n%C3%A9rale" title="Ferme générale">ferme générale</a>), and <a href="/wiki/Russian_Empire" title="Russian Empire">Russia</a> prior to 1862. In many cases, such as the <a href="/wiki/Abbasid_Caliphate" title="Abbasid Caliphate">Abbasid</a> practice of <a href="/wiki/Iqta" class="mw-redirect" title="Iqta">Iqta</a>, these rights were granted by an authority, in this example the caliph, for services rendered or promised. In the Byzantine <i>pronoia</i> system, similar rights were often purchased from the crown. Though such arrangements in some respects seem similar to the feudal system, there are significant disparities, including continuance of state power and, at least in the case of <i>pronoia</i>, theoretical time limits on the grant. In many cases, including those mentioned, tax rights were not transferable or divisible, unlike feudal fiefdoms.
+</p>
+<h2><span class="mw-headline" id="Advantages">Advantages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farm_(revenue_leasing)&amp;action=edit&amp;section=9" title="Edit section: Advantages">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tax farming was an important step in the history of <a href="/wiki/Economic_development" title="Economic development">economic development</a> by providing a method for collecting taxes across a large area without the need for a tax-collecting <a href="/wiki/Bureaucracy" title="Bureaucracy">bureaucracy</a>, or during periods when such a bureaucracy is unworkable or impossible to maintain. Systems of tax farming similar to the Roman model were used in <a href="/wiki/Ptolemaic_Egypt" class="mw-redirect" title="Ptolemaic Egypt">Ptolemaic Egypt</a>, various medieval Western European countries, the <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman</a> and <a href="/wiki/Mughal_Empire" title="Mughal Empire">Mughal</a> empires, and in <a href="/wiki/Qing_Dynasty" class="mw-redirect" title="Qing Dynasty">Qing Dynasty</a> China.  As states become stronger, buoyed up by revenues brought in by tax farming, the practice was discontinued in favour of centralized tax collection systems. In part this was because tax farming systems tended to rely on wealthy individuals outside the state machinery, <a href="/wiki/Gang" title="Gang">gangs</a>, and <a href="/wiki/Secret_societies" class="mw-redirect" title="Secret societies">secret societies</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Disadvantages">Disadvantages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farm_(revenue_leasing)&amp;action=edit&amp;section=10" title="Edit section: Disadvantages">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The key flaw in the tax farming system is the tension between the state, which seeks a long-term source of taxation revenue, and the tax farmers, who seek to make a profit on their investment in as short a time as possible. As a result, tax-farmers often abuse the taxpayers in various ways, tending them to switch their economic activity from strategic long-term projects to short-term revenue generation. A common abuse by tax farmers is the undervaluation of  goods received  in lieu of taxes, allowing the tax-farmer to re-sell the goods to create a second profit source. Such abuses stifle economic growth by restricting the ability of the tradesman to reinvest in his business, thereby limiting the quantity of taxes generated over the long-term.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2011)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="Modern-day_tax_farming">Modern-day tax farming</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farm_(revenue_leasing)&amp;action=edit&amp;section=11" title="Edit section: Modern-day tax farming">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Indian_sub-continent">Indian sub-continent</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farm_(revenue_leasing)&amp;action=edit&amp;section=12" title="Edit section: Indian sub-continent">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In Bangladesh and India tolls on bridges and roads and dues from public properties such as lakes and forests are often leased to private persons or firms.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2019)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="Disambiguation">Disambiguation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farm_(revenue_leasing)&amp;action=edit&amp;section=13" title="Edit section: Disambiguation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Privatized_tax_collection">Privatized tax collection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farm_(revenue_leasing)&amp;action=edit&amp;section=14" title="Edit section: Privatized tax collection">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Tax farming is not synonymous with modern <a href="/wiki/Privatized_tax_collection" title="Privatized tax collection">privatized tax collection</a>, where private individuals or companies collect taxes and pass them to the state in return for a commission or fee, without bearing any risk consequent of default by the taxpayer. Tax farming is <a href="/wiki/Speculation" title="Speculation">speculative</a>, meaning that the tenant of the farm bears the full risk of defaulted debts. In addition, a tenant is often required as a term of the lease to make an early rent payment, which must be financed from his own resources until the revenue stream subject to the farm has started to be collected.
+</p>
+<h3><span class="mw-headline" id="Factoring">Factoring</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farm_(revenue_leasing)&amp;action=edit&amp;section=15" title="Edit section: Factoring">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>, some tax collection of "lower value debts" by <a href="/wiki/HMRC" class="mw-redirect" title="HMRC">HMRC</a> has been outsourced to <a href="/wiki/Debt_collection_agency" class="mw-redirect" title="Debt collection agency">debt collection agencies</a> from July 2010.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> However, debt collection agencies, like invoice factors, are not truly farmers of revenue streams, as they do not bear any risk of default. Rather they make loans in expectation of future receipts, such loans being always recoverable and secured on the income stream itself.
+</p>
+<h3><span class="mw-headline" id="Simple_commutation">Simple commutation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farm_(revenue_leasing)&amp;action=edit&amp;section=16" title="Edit section: Simple commutation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1999 the National Board of Revenue in Bangladesh (NBR) negotiated with cigarette producing firms a minimum amount of <a href="/wiki/Value_Added_Tax" class="mw-redirect" title="Value Added Tax">Value Added Tax</a> (VAT) that should be paid per month even though  VAT is an <i><a href="/wiki/Ad_valorem_tax" title="Ad valorem tax">ad valorem</a></i> tax, that is to say of variable yield. The NBR took this step because under the self-clearance system monitoring of production and sales of cigarettes proved to be difficult. It was agreed that if the cigarette producing firms paid the minimum revenue fixed by the NBR, physical monitoring would be withdrawn. The NBR resorted to this technique of financial management  to avoid the large costs of monitoring while gaining more in revenue with certainty.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farm_(revenue_leasing)&amp;action=edit&amp;section=17" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Maona" title="Maona">Maona</a></li>
+<li><a href="/wiki/Privatized_tax_collection" title="Privatized tax collection">Privatized tax collection</a></li>
+<li><a href="/wiki/Public-private_partnership" class="mw-redirect" title="Public-private partnership">Public-private partnership</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farm_(revenue_leasing)&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Larousse Dictionnaire de la Langue Francaise <i>Lexis</i>, Paris, 1993 "Ferme: contrat par lequel un proprietaire abandonne a un locataire l'exploitation d'un domaine moyennant le paiement d'un loyer" (contract by which a proprietor transfers the exploitation of a holding to a tenant by means of the payment of a rent);  Cassell's Latin Dictionary, ed. Marchant &amp; Charles</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Larousse, op.cit.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Century Dictionary and Cyclopedia, "farm".</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Mantello, Rigg, <i>Medieval Latin: an introduction and bibliographical guide</i>, 11.3</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Howatson M. C.: Oxford Companion to Classical Literature, Oxford University Press, 1989, <style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-866121-5" title="Special:BookSources/0-19-866121-5">0-19-866121-5</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Balsdon J.: Roman Civilization, Pelican, 1965</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.unrv.com/economy/roman-taxes.php"><i>Roman-taxes</i> at unrv.com</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Cahill, Thomas. <i>How the Irish saved civilization: the untold story of Ireland's heroic role from the fall of Rome to the rise of medieval Europe.</i> Anchor Books, Doubleday, 1996, p. 26.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Douglas, David C. &amp; Greenaway, George W., (eds.),  English Historical Documents 1042-1189, London, 1959. Part II, Government &amp; Administration, part C, The Sheriff &amp; Local Government, p.433</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">John Butcher and Howard Dick, <i>The Rise and Fall of Revenue Farming: Business Elites and the Emergence of the Modern State</i>. St. Martin's Press, 1993</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://nds.coi.gov.uk/content/detail.aspx?NewsAreaId=2&amp;ReleaseID=414723&amp;SubjectId=2">[1]</a> <a rel="nofollow" class="external autonumber" href="http://www.accountancyage.com/accountancyage/news/2267273/taxman-farms-debt-collection">[2]</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Chowdhury, Faizul L. <i>NBR's attempt at Tax Farming - fixed amount of VAT on Cigarettes in 1999</i>, 2007&#160;: Desh Prokashon, Dhaka.</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farm_(revenue_leasing)&amp;action=edit&amp;section=19" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Chowdhury, F. L. (2007): <i>NBR's attempt at Tax Farming - fixed VAT on Cigarettes in 1999</i>, Desh Prokashon, Dhaka.</li>
+<li>Levi, M. Of (1988), <i>Rule and Revenue</i>, California Series on Social Choice and Political Economy (13), University of California Press.</li>
+<li>Stella, P., (1992) <i>Tax Farming: A Radical Solution for Developing Country Tax Problems?</i> (September 1992). IMF Working Paper No. 92/70.</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farm_(revenue_leasing)&amp;action=edit&amp;section=20" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.unrv.com/economy/roman-taxes.php">Roman Taxes</a></li></ul>
 <!-- 
 NewPP limit report
-Parsed by mw1252
-Cached time: 20191013100829
+Parsed by mw1244
+Cached time: 20191027022718
 Cache expiry: 2592000
 Dynamic content: false
 Complications: []
-CPU time usage: 0.188 seconds
-Real time usage: 0.258 seconds
-Preprocessor visited node count: 737/1000000
+CPU time usage: 0.348 seconds
+Real time usage: 0.482 seconds
+Preprocessor visited node count: 969/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 8708/2097152 bytes
-Template argument size: 1923/2097152 bytes
-Highest expansion depth: 9/40
-Expensive parser function count: 1/500
-Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 247/5000000 bytes
+Post‐expand include size: 11283/2097152 bytes
+Template argument size: 2036/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 6469/5000000 bytes
 Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.051/10.000 seconds
-Lua memory usage: 1.64 MB/50 MB
+Lua time usage: 0.088/10.000 seconds
+Lua memory usage: 1.93 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  180.486      1 -total
- 68.18%  123.060      1 Template:Infobox_Given_Name_Revised
- 57.93%  104.551      1 Template:Infobox
- 31.50%   56.847      1 Template:Given_name
- 24.49%   44.196      1 Template:Dmbox
- 22.25%   40.155      1 Template:IPAc-en
- 11.12%   20.067      1 Template:Short_description
-  9.18%   16.576      1 Template:Pagetype
-  5.03%    9.081      1 Template:Comma_separated_entries
-  3.06%    5.514      1 Template:IPA-de
+100.00%  403.147      1 -total
+ 40.73%  164.193      1 Template:Reflist
+ 33.00%  133.048      3 Template:Citation_needed
+ 30.59%  123.330      1 Template:ISBN
+ 27.94%  112.625      3 Template:Fix
+ 21.13%   85.167      1 Template:Catalog_lookup_link
+ 14.28%   57.559      6 Template:Category_handler
+ 13.16%   53.053      1 Template:Other_uses
+ 11.45%   46.155      3 Template:Delink
+  6.91%   27.859      1 Template:Cleanup_rewrite
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:1055240-0!canonical and timestamp 20191013100829 and revision id 921017065
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1527309-0!canonical and timestamp 20191027022718 and revision id 916924917
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Patrick_(given_name)&amp;oldid=921017065">https://en.wikipedia.org/w/index.php?title=Patrick_(given_name)&amp;oldid=921017065</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Farm_(revenue_leasing)&amp;oldid=916924917">https://en.wikipedia.org/w/index.php?title=Farm_(revenue_leasing)&amp;oldid=916924917</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Given_names" title="Category:Given names">Given names</a></li><li><a href="/wiki/Category:English_masculine_given_names" title="Category:English masculine given names">English masculine given names</a></li><li><a href="/wiki/Category:French_masculine_given_names" title="Category:French masculine given names">French masculine given names</a></li><li><a href="/wiki/Category:Irish_masculine_given_names" title="Category:Irish masculine given names">Irish masculine given names</a></li><li><a href="/wiki/Category:German_masculine_given_names" title="Category:German masculine given names">German masculine given names</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Public_finance" title="Category:Public finance">Public finance</a></li><li><a href="/wiki/Category:History_of_taxation" title="Category:History of taxation">History of taxation</a></li><li><a href="/wiki/Category:Land_tenure" title="Category:Land tenure">Land tenure</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2019" title="Category:Articles with unsourced statements from September 2019">Articles with unsourced statements from September 2019</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_rewrite_from_September_2019" title="Category:Wikipedia articles needing rewrite from September 2019">Wikipedia articles needing rewrite from September 2019</a></li><li><a href="/wiki/Category:All_articles_needing_rewrite" title="Category:All articles needing rewrite">All articles needing rewrite</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2011" title="Category:Articles with unsourced statements from March 2011">Articles with unsourced statements from March 2011</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -314,13 +231,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Patrick+%28given+name%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Patrick+%28given+name%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Farm+%28revenue+leasing%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Farm+%28revenue+leasing%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Patrick_(given_name)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Patrick_(given_name)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Farm_(revenue_leasing)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Farm_(revenue_leasing)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -335,7 +252,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Patrick_(given_name)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Patrick_(given_name)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Patrick_(given_name)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Farm_(revenue_leasing)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Farm_(revenue_leasing)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Farm_(revenue_leasing)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -374,35 +291,28 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Patrick_(given_name)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Patrick_(given_name)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Patrick_(given_name)&amp;oldid=921017065" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Patrick_(given_name)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q18002623" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Patrick_%28given_name%29&amp;id=921017065" title="Information on how to cite this page">Cite this page</a></li>				</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
-			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
-			<div class="body">
-								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Patrick_(given_name)" hreflang="en">Wikimedia Commons</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Farm_(revenue_leasing)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Farm_(revenue_leasing)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Farm_(revenue_leasing)&amp;oldid=916924917" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Farm_(revenue_leasing)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1379785" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Farm_%28revenue_leasing%29&amp;id=916924917" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Patrick+%28given+name%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Patrick+%28given+name%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Patrick_(given_name)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Farm+%28revenue+leasing%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Farm+%28revenue+leasing%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Farm_(revenue_leasing)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Patrick" title="Patrick – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Patrick_(voornaam)" title="Patrick (voornaam) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Patrick" title="Patrick – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Patrick" title="Patrick – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Patrick" title="Patrick – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Patrick" title="Patrick – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%BA%D1%96%D0%B9" title="Патрикій – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q18002623#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Steuerpacht" title="Steuerpacht – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Affermage_des_imp%C3%B4ts" title="Affermage des impôts – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Belastingpacht" title="Belastingpacht – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D0%BA%D1%83%D0%BF" title="Откуп – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%B4%D0%BA%D1%83%D0%BF_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BA%D1%96%D0%B2" title="Відкуп податків – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1379785#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 13 October 2019, at 10:08<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 21 September 2019, at 11:01<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -413,7 +323,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Patrick_(given_name)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Farm_(revenue_leasing)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -425,8 +335,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.188","walltime":"0.258","ppvisitednodes":{"value":737,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":8708,"limit":2097152},"templateargumentsize":{"value":1923,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":247,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  180.486      1 -total"," 68.18%  123.060      1 Template:Infobox_Given_Name_Revised"," 57.93%  104.551      1 Template:Infobox"," 31.50%   56.847      1 Template:Given_name"," 24.49%   44.196      1 Template:Dmbox"," 22.25%   40.155      1 Template:IPAc-en"," 11.12%   20.067      1 Template:Short_description","  9.18%   16.576      1 Template:Pagetype","  5.03%    9.081      1 Template:Comma_separated_entries","  3.06%    5.514      1 Template:IPA-de"]},"scribunto":{"limitreport-timeusage":{"value":"0.051","limit":"10.000"},"limitreport-memusage":{"value":1721490,"limit":52428800}},"cachereport":{"origin":"mw1252","timestamp":"20191013100829","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Patrick (given name)","url":"https:\/\/en.wikipedia.org\/wiki\/Patrick_(given_name)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q18002623","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q18002623","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-10-10T19:36:02Z","dateModified":"2019-10-13T10:08:29Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/a2\/%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%BA_%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%28%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%29.jpg","headline":"male given name"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":113,"wgHostname":"mw1270"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.348","walltime":"0.482","ppvisitednodes":{"value":969,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":11283,"limit":2097152},"templateargumentsize":{"value":2036,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":6469,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  403.147      1 -total"," 40.73%  164.193      1 Template:Reflist"," 33.00%  133.048      3 Template:Citation_needed"," 30.59%  123.330      1 Template:ISBN"," 27.94%  112.625      3 Template:Fix"," 21.13%   85.167      1 Template:Catalog_lookup_link"," 14.28%   57.559      6 Template:Category_handler"," 13.16%   53.053      1 Template:Other_uses"," 11.45%   46.155      3 Template:Delink","  6.91%   27.859      1 Template:Cleanup_rewrite"]},"scribunto":{"limitreport-timeusage":{"value":"0.088","limit":"10.000"},"limitreport-memusage":{"value":2022545,"limit":52428800}},"cachereport":{"origin":"mw1244","timestamp":"20191027022718","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Farm (revenue leasing)","url":"https:\/\/en.wikipedia.org\/wiki\/Farm_(revenue_leasing)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1379785","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1379785","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-02-20T02:10:54Z","dateModified":"2019-09-21T11:01:45Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":76,"wgHostname":"mw1326"});});</script>
 </body>
 </html>

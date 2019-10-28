@@ -2,35 +2,35 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Baker (surname) - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Baker_(surname)","wgTitle":"Baker (surname)","wgCurRevisionId":919902640,"wgRevisionId":919902640,"wgArticleId":16276385,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using infobox given name with unknown parameters","Articles with short description","All set index articles","Surnames","English-language surnames","Occupational surnames","Surnames of English origin"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]
-,"wgRelevantPageName":"Baker_(surname)","wgRelevantArticleId":16276385,"wgRequestId":"Xa6r8gpAADgAAGrf5rsAAABD","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2658150","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading",
-"ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks",
-"ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Cooke - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Cooke","wgTitle":"Cooke","wgCurRevisionId":918066175,"wgRevisionId":918066175,"wgArticleId":1870906,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","All set index articles","Surnames","English-language surnames"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Cooke","wgRelevantArticleId":1870906,"wgRequestId":"XbTCpgpAAEQAAFZRBw8AAABW","wgCSPNonce":!1,
+"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Cooke_(surname)","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Cooke","wgWikibaseItemId":"Q658676","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":
+"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.2"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Baker_(surname)"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Baker_(surname)&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Baker_(surname)&amp;action=edit"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Cooke"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Cooke&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Cooke&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Baker_(surname)"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Cooke"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Baker_surname rootpage-Baker_surname skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Cooke rootpage-Cooke skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -39,601 +39,167 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Baker (surname)</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Cooke</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
-		<div id="contentSub"></div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Cooke_(surname)&amp;redirect=no" class="mw-redirect" title="Cooke (surname)">Cooke (surname)</a>)</span></div>
 		
 		
 		
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em"><caption>Baker</caption><tbody><tr><th scope="row"><a href="/wiki/Language" title="Language">Language</a>(s)</th><td><a href="/wiki/English_language" title="English language">English</a></td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Origin</th></tr><tr><th scope="row">Meaning</th><td>Baker (occupational)</td></tr><tr><th scope="row">Region of origin</th><td>England and Scottish Borderlands</td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Other names</th></tr><tr><th scope="row">Variant form(s)</th><td>Baxter</td></tr></tbody></table>
-<p><b>Baker</b> is a famous surname of Old English (Anglo-Saxon) origin. From England the surname has spread to neighbouring countries such as Wales, Scotland and Ireland, and also to the English speaking areas of the Americas and Oceania where it is also common.  An <a href="/wiki/Occupational_name" class="mw-redirect" title="Occupational name">occupational</a> name,  which originated before the 8th century CE, from the name of the trade, baker. From the Middle English bakere and Old English bæcere, a derivation of bacan, meaning "to dry by heat." The bearer of this name may not only have been a baker of bread. The name was also used for others involved with baking in some way, including the owner of a communal oven in humbler communities,  "<a href="/wiki/Baker" title="Baker">baker</a>". The female form of the name is "<a href="/wiki/Baxter_(name)" title="Baxter (name)">Baxter</a>".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> which is seen more in Scotland. The old <a href="/wiki/Germany" title="Germany">german</a> form of the name ist "<a href="/wiki/B%C3%A4cker" title="Bäcker">Bäcker</a>"
-</p><p>The name, Baker, appeared in many references, and from time to time, the surname was spelt Baker, Bakere and these changes in spelling frequently occurred within the family name. Scribes and church officials spelt the name as it sounded, and frequently the spelling changed even during the person's own lifetime.
-The family name Baker entered Britain with the Anglo-Saxons, who traditionally are said to have settled Britain from the 5th century CE, although Germanic communities were already well established in Britain long before this time. 
-</p><p>Notable people with the surname include:
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Cooke_(disambiguation)" class="mw-disambig" title="Cooke (disambiguation)">Cooke (disambiguation)</a>.</div>
+<p><b>Cooke</b> is a surname.<sup id="cite_ref-Browne_Reaney_Wilson_Scull_1991_1-0" class="reference"><a href="#cite_note-Browne_Reaney_Wilson_Scull_1991-1">&#91;1&#93;</a></sup> Notable people with the surname include:
 </p>
-<div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a> </li></ul>
-<p class="mw-empty-elt">       
-</p>
-</div></div>
-<h2><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baker_(surname)&amp;action=edit&amp;section=1" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/A._J._Baker" title="A. J. Baker">A. J. Baker</a> (1923-2017), Australian philosopher</li>
-<li><a href="/wiki/Aaron_Baker" title="Aaron Baker">Aaron Baker</a> (1620–1683), English colonial agent</li>
-<li><a href="/wiki/Adam_J._Baker" title="Adam J. Baker">Adam J. Baker</a> (1821–?), Canadian politician</li>
-<li><a href="/wiki/Adam_Baker_(footballer)" title="Adam Baker (footballer)">Adam Baker (footballer)</a> (born 1993), English footballer</li>
-<li><a href="/wiki/Al_Baker_(magician)" title="Al Baker (magician)">Al Baker (magician)</a> (1874–1951), American magician</li>
-<li><a href="/wiki/Al_Baker_(baseball)" title="Al Baker (baseball)">Al Baker (baseball)</a> (1906–1982), American baseball player</li>
-<li><a href="/wiki/Alan_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Alan Baker (disambiguation)">Alan Baker (disambiguation)</a>, multiple people
-<ul><li><a href="/wiki/Alan_Baker_(mathematician)" title="Alan Baker (mathematician)">Alan Baker (mathematician)</a> (1939-2018), English mathematician</li>
-<li><a href="/wiki/Alan_Baker_(diplomat)" title="Alan Baker (diplomat)">Alan Baker (diplomat)</a> (born 1947), former Israeli ambassador to Canada</li>
-<li><a href="/wiki/Alan_Baker_(politician)" title="Alan Baker (politician)">Alan Baker (politician)</a> (born 1956), American politician</li>
-<li><a href="/wiki/Alan_T._Baker" title="Alan T. Baker">Alan T. Baker</a> (born 1956), United States Navy chaplain</li>
-<li><a href="/wiki/Alan_Baker_(poet)" title="Alan Baker (poet)">Alan Baker (poet)</a> (born 1958), British poet</li>
-<li><a href="/wiki/Alan_Baker_(philosopher)" title="Alan Baker (philosopher)">Alan Baker (philosopher)</a>, Professor of Philosophy and shogi player</li></ul></li>
-<li><a href="/wiki/Albert_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Albert Baker (disambiguation)">Albert Baker (disambiguation)</a>, multiple people
-<ul><li><a href="/wiki/Albert_C._Baker" title="Albert C. Baker">Albert C. Baker</a> (1845–1921), an American jurist and politician in Arizona</li>
-<li><a href="/wiki/Albert_J._Baker" title="Albert J. Baker">Albert J. Baker</a> (born 1874), an American politician in Wisconsin</li>
-<li><a href="/wiki/Albert_Baker_d%27Isy" title="Albert Baker d&#39;Isy">Albert Baker d'Isy</a> (1906–1968), a French cycling journalist</li>
-<li><a href="/wiki/Albert_William_Baker" title="Albert William Baker">Albert William Baker</a> (1918–2008), a Canadian aviator</li>
-<li><a href="/wiki/Albert_%22Ginger%22_Baker" class="mw-redirect" title="Albert &quot;Ginger&quot; Baker">Albert "Ginger" Baker</a> (born 1951), a Northern Irish loyalist and soldier convicted of four murders</li></ul></li>
-<li><a href="/wiki/Alexander_Baker_(Jesuit)" title="Alexander Baker (Jesuit)">Alexander Baker (Jesuit)</a> (1582–1638), English Jesuit</li>
-<li><a href="/wiki/Alexander_Baker_(MP)" title="Alexander Baker (MP)">Alexander Baker (MP)</a> (1611–1685), English lawyer and politician</li>
-<li><a href="/wiki/Alf_Baker" title="Alf Baker">Alf Baker</a> (1898–1955), English footballer (Arsenal)</li>
-<li><a href="/wiki/Alfred_Joseph_Baker" title="Alfred Joseph Baker">Alfred Joseph Baker</a> (1846–1900), played for England in England v Scotland representative matches (1870–1872)</li>
-<li><a href="/wiki/Alfred_Baker_(academic)" title="Alfred Baker (academic)">Alfred Baker (academic)</a>  (1848–1942), Canadian academic</li>
-<li><a href="/wiki/Alice_Baker_(veteran)" title="Alice Baker (veteran)">Alice Baker (veteran)</a> (1898–2006), British World War I service veteran</li>
-<li><a href="/wiki/Alice_Baker_(set_decorator)" title="Alice Baker (set decorator)">Alice Baker (set decorator)</a>, American set decorator</li>
-<li><a href="/wiki/Alison_Baker_(writer)" title="Alison Baker (writer)">Alison Baker (writer)</a> (born 1953), American short story writer</li>
-<li><a href="/wiki/Alison_Baker_(racewalker)" title="Alison Baker (racewalker)">Alison Baker (racewalker)</a> (born 1964), Canadian racewalker</li>
-<li><a href="/wiki/Allan_Baker" class="mw-redirect" title="Allan Baker">Allan Baker</a>, Australian rapist and murderer</li>
-<li><a href="/wiki/Amanda_Baker" title="Amanda Baker">Amanda Baker</a> (born 1979), American actress</li>
-<li><a href="/wiki/Andrea_Baker" title="Andrea Baker">Andrea Baker</a>, American actress</li>
-<li><a href="/wiki/Anita_Baker" title="Anita Baker">Anita Baker</a> (born 1958), Grammy Award-winning American rhythm &amp; blues singer-songwriter</li>
-<li><a href="/wiki/Ann_Baker" title="Ann Baker">Ann Baker</a> (born 1931), American actress</li>
-<li><a href="/wiki/Anna_P._Baker" title="Anna P. Baker">Anna P. Baker</a> (1928–1985), Canadian visual artist</li>
-<li><a href="/wiki/Anne_Elizabeth_Baker" title="Anne Elizabeth Baker">Anne Elizabeth Baker</a> (1786–1861), philologist and illustrator of Northampton, England</li>
-<li><a href="/wiki/Annie_Baker" title="Annie Baker">Annie Baker</a> (born 1981), American playwright</li>
-<li><a href="/wiki/Arnie_Baker" title="Arnie Baker">Arnie Baker</a> (born 1953), Canadian cyclist, coach and writer</li>
-<li><a href="/wiki/Art_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Art Baker (disambiguation)">Art</a> and <a href="/wiki/Arthur_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Arthur Baker (disambiguation)">Arthur Baker (disambiguation)</a>, multiple people
-<ul><li><a href="/wiki/Art_Baker_(actor)" title="Art Baker (actor)">Art Baker (actor)</a> (1898–1966), American film, television and radio actor</li>
-<li><a href="/wiki/Art_Baker_(coach)" title="Art Baker (coach)">Art Baker (coach)</a> (born 1929), American football coach</li>
-<li><a href="/wiki/Art_Baker_(gridiron_football)" title="Art Baker (gridiron football)">Art Baker (gridiron football)</a> (born 1937), college and professional American football player
-<ul><li><a href="/wiki/Arthur_Baker_(calligrapher)" title="Arthur Baker (calligrapher)">Arthur Baker (calligrapher)</a>, calligrapher and typeface designer</li>
-<li><a href="/wiki/Arthur_Baker_(musician)" title="Arthur Baker (musician)">Arthur Baker (musician)</a>, record producer and DJ</li></ul></li></ul></li>
-<li><a href="/wiki/Ashley_Baker" title="Ashley Baker">Ashley Baker</a> (born 1990), English goalkeeper</li>
-<li><a href="/wiki/Augustine_Baker" title="Augustine Baker">Augustine Baker</a> (1575–1641), Welsh Benedictine monk and ascetical writer</li></ul>
-<h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baker_(surname)&amp;action=edit&amp;section=2" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Benjamin_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Benjamin Baker (disambiguation)">Ben and Benjamin Baker (disambiguation)</a> multiple people
-<ul><li><a href="/wiki/Ben_Baker" title="Ben Baker">Ben Baker</a>, Australian photographer
-<ul><li><a href="/wiki/Benjamin_Baker_(engineer)" title="Benjamin Baker (engineer)">Benjamin Baker (engineer)</a> (1840–1907), English engineer</li>
-<li><a href="/wiki/Benjamin_F._Baker" title="Benjamin F. Baker">Benjamin F. Baker</a> (1862–1927), U.S. Navy sailor and Medal of Honor recipient</li>
-<li><a href="/wiki/Benjamin_Howard_Baker" title="Benjamin Howard Baker">Benjamin Howard Baker</a> (1892–1987), English athlete</li></ul></li></ul></li>
-<li><a href="/wiki/Bernard_N._Baker" title="Bernard N. Baker">Bernard N. Baker</a> (1854–1918), shipping magnate from Baltimore, Maryland</li>
-<li><a href="/wiki/Bernard_Granville_Baker" title="Bernard Granville Baker">Bernard Granville Baker</a> (1870–1957), British soldier and painter</li>
-<li><a href="/wiki/Bernard_S._Baker" title="Bernard S. Baker">Bernard S. Baker</a> (1936–2004), electrochemistry pioneer</li>
-<li><a href="/wiki/Betsy_Baker_(supercentenarian)" class="mw-redirect" title="Betsy Baker (supercentenarian)">Betsy Baker (supercentenarian)</a> (1842–1955), British–born American supercentenarian</li>
-<li><a href="/wiki/Betsy_Baker" title="Betsy Baker">Betsy Baker</a> (born 1955), American actress
-<ul><li><a href="/wiki/Bill_Baker_(baseball)" title="Bill Baker (baseball)">Bill Baker (baseball)</a> (1911–2006), baseball catcher</li>
-<li><a href="/wiki/Bill_Baker_(racing_driver)" title="Bill Baker (racing driver)">Bill Baker (racing driver)</a> (1931–1978), NASCAR driver</li>
-<li><a href="/wiki/Bill_Baker_(Canadian_football)" title="Bill Baker (Canadian football)">Bill Baker (Canadian football)</a> (born 1944), Canadian football player</li>
-<li><a href="/wiki/Bill_John_Baker" title="Bill John Baker">Bill John Baker</a> (born 1952), Principal Chief of the Cherokee Nation</li>
-<li><a href="/wiki/Bill_Baker_(ice_hockey)" title="Bill Baker (ice hockey)">Bill Baker (ice hockey)</a> (born 1956), hockey player
-<ul><li><a href="/wiki/Billy_Baker_(boxer)" title="Billy Baker (boxer)">Billy Baker (boxer)</a> (1894–?), English professional boxer</li>
-<li><a href="/wiki/Billy_Baker_(footballer,_born_1894)" title="Billy Baker (footballer, born 1894)">Billy Baker (footballer, born 1894)</a>, English professional footballer</li>
-<li><a href="/wiki/Billy_Baker_(footballer,_born_1920)" title="Billy Baker (footballer, born 1920)">Billy Baker (footballer, born 1920)</a> (1920–2005), Welsh professional footballer</li></ul></li></ul></li>
-<li><a href="/wiki/Blanche_Baker_(painter)" title="Blanche Baker (painter)">Blanche Baker (painter)</a> (1844–1929), British artist</li>
-<li><a href="/wiki/Bob_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Bob Baker (disambiguation)">Bob and Bobby Baker (disambiguation)</a>
-<ul><li><a href="/wiki/Bob_Baker_(actor)" title="Bob Baker (actor)">Bob Baker (actor)</a> (1910–1975), American singer and actor</li>
-<li><a href="/wiki/Bob_Baker_(politician)" title="Bob Baker (politician)">Bob Baker (politician)</a> (1917–1985), Australian politician</li>
-<li>'Big' <a href="/wiki/Bob_Baker_(boxer)" title="Bob Baker (boxer)">Bob Baker (boxer)</a> (1926–2002), American heavyweight boxer</li>
-<li><a href="/wiki/Bob_Baker_(scriptwriter)" title="Bob Baker (scriptwriter)">Bob Baker (scriptwriter)</a> (born 1939), British television and film writer
-<ul><li><a href="/wiki/Bobby_Baker" title="Bobby Baker">Bobby Baker</a> (born 1928), American political advisor to Lyndon Johnson</li>
-<li><a href="/wiki/Bobby_Baker_(performance_artist)" class="mw-redirect" title="Bobby Baker (performance artist)">Bobby Baker (performance artist)</a> (born 1950), performance artist</li>
-<li><a href="/wiki/Bobby_Baker_(racing_driver)" title="Bobby Baker (racing driver)">Bobby Baker (racing driver)</a>, American NASCAR driver</li></ul></li></ul></li>
-<li><a href="/wiki/Brad_Baker_(baseball)" title="Brad Baker (baseball)">Brad Baker (baseball)</a> (born 1980), American baseball pitcher</li>
-<li><a href="/wiki/Brad_Baker_(motorcyclist)" title="Brad Baker (motorcyclist)">Brad Baker (motorcyclist)</a> (born 1993), American motorcycle racer</li>
-<li><a href="/wiki/Brian_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Brian Baker (disambiguation)">Brian Baker (disambiguation)</a>, multiple people
-<ul><li><a href="/wiki/Brian_Edmund_Baker" title="Brian Edmund Baker">Brian Edmund Baker</a> (1896–1979), British World War I flying ace and later Air Marshal</li>
-<li><a href="/wiki/Brian_Baker_(diplomat)" title="Brian Baker (diplomat)">Brian Baker (diplomat)</a> (born 1944), former Canadian diplomat and Ambassador to Denmark</li>
-<li><a href="/wiki/Brian_Baker_(musician)" title="Brian Baker (musician)">Brian Baker (musician)</a> (born 1965), American punk guitarist</li>
-<li><a href="/wiki/Brian_Baker_(actor)" title="Brian Baker (actor)">Brian Baker (actor)</a> (born 1967), American actor and former Sprint spokesman</li>
-<li><a href="/wiki/Brian_Baker_(runner)" title="Brian Baker (runner)">Brian Baker (runner)</a> (born 1970), American track and field athlete and coach</li>
-<li><a href="/wiki/Brian_Baker_(tennis)" title="Brian Baker (tennis)">Brian Baker (tennis)</a> (born 1985), American professional tennis player</li>
-<li><a href="/wiki/Brian_Baker_(politician)" title="Brian Baker (politician)">Brian Baker (politician)</a>, American politician and Missouri State Representative</li></ul></li>
-<li><a href="/wiki/Britt_Baker" title="Britt Baker">Britt Baker</a> (born 1991), American professional wrestler</li>
-<li><a href="/wiki/Bruce_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Bruce Baker (disambiguation)">Bruce Baker (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Bryan_Baker_(racing_driver)" title="Bryan Baker (racing driver)">Bryan Baker (racing driver)</a> (born 1961), American NASCAR driver</li>
-<li><a href="/wiki/Bryan_Baker_(fighter)" title="Bryan Baker (fighter)">Bryan Baker (fighter)</a> (born 1985), American mixed martial artist</li>
-<li><a href="/wiki/Buck_Baker" title="Buck Baker">Buck Baker</a> (1919–2002), American NASCAR driver</li>
-<li><a href="/wiki/Budda_Baker" title="Budda Baker">Budda Baker</a> (born 1996), American football player</li>
-<li><a href="/wiki/Buddy_Baker" title="Buddy Baker">Buddy Baker</a> (born 1941), American NASCAR driver, son of Buck Baker</li>
-<li><a href="/wiki/Buddy_Baker_(composer)" title="Buddy Baker (composer)">Buddy Baker (composer)</a> (1918–2002), American composer who scored many Disney films</li></ul>
-<h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baker_(surname)&amp;action=edit&amp;section=3" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Caleb_Baker" title="Caleb Baker">Caleb Baker</a> (1762–1849), American politician</li>
-<li><a href="/wiki/Carl_Baker_(boxer)" title="Carl Baker (boxer)">Carl Baker (boxer)</a> (born 1982), English boxer</li>
-<li><a href="/wiki/Carl_Baker" title="Carl Baker">Carl Baker</a> (born 1982), English footballer</li>
-<li><a href="/wiki/Carroll_Baker" title="Carroll Baker">Carroll Baker</a> (born 1931), American actress</li>
-<li><a href="/wiki/Carroll_Baker_(singer)" title="Carroll Baker (singer)">Carroll Baker (singer)</a> (born 1949), Canadian country singer and songwriter</li>
-<li><a href="/wiki/Charles_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Charles Baker (disambiguation)">Charles and Charlie Baker (disambiguation)</a>
-<ul><li><a href="/wiki/Charles_Baker_(surveyor)" title="Charles Baker (surveyor)">Charles Baker (surveyor)</a> (1743–1835), North American surveyor and jurist</li>
-<li><a href="/wiki/Charles_Baker_(instructor)" title="Charles Baker (instructor)">Charles Baker (instructor)</a> (1803–1874), English instructor of the deaf</li>
-<li><a href="/wiki/Charles_Minton_Baker" title="Charles Minton Baker">Charles Minton Baker</a> (1804–1872), American politician from New York and Wisconsin</li>
-<li><a href="/wiki/Charles_Baker_(Medal_of_Honor)" title="Charles Baker (Medal of Honor)">Charles Baker (Medal of Honor)</a> (1809–1891), American Civil War sailor and Medal of Honor recipient</li>
-<li><a href="/wiki/Charles_George_Baker" title="Charles George Baker">Charles George Baker</a> (1830–1906), British recipient of the Victoria Cross</li>
-<li><a href="/wiki/Charles_Baker_(artist)" title="Charles Baker (artist)">Charles Baker (artist)</a> (1839–1888), American painter, saddler, gunsmith, importer, and silver-plate artisan</li>
-<li><a href="/wiki/Charles_S._Baker" title="Charles S. Baker">Charles S. Baker</a> (1839–1902), U.S. Representative from New York</li>
-<li><a href="/wiki/Charles_D._Baker_(attorney)" title="Charles D. Baker (attorney)">Charles D. Baker (attorney)</a> (1846–1934), American attorney, New York state representative</li>
-<li><a href="/wiki/Charles_H._Baker" title="Charles H. Baker">Charles H. Baker</a> (born 1847), Massachusetts state legislator</li>
-<li><a href="/wiki/Charles_Baker_(footballer)" title="Charles Baker (footballer)">Charles Baker (footballer)</a> (1870–1940), English professional footballer</li>
-<li><a href="/wiki/Charles_Fuller_Baker" title="Charles Fuller Baker">Charles Fuller Baker</a> (1872–1927), American entomologist</li>
-<li><a href="/wiki/Charles_Graham_Baker" class="mw-redirect" title="Charles Graham Baker">Charles Graham Baker</a> (1883–1950), American screenwriter and director</li>
-<li><a href="/wiki/Charles_H._Baker_Jr." title="Charles H. Baker Jr.">Charles H. Baker Jr.</a> (1895–1987), American writer on food and drink</li>
-<li><a href="/wiki/Charles_D._Baker_(businessman)" title="Charles D. Baker (businessman)">Charles D. Baker (businessman)</a> (born 1928), American businessman and U.S. government official</li>
-<li><a href="/wiki/Charles_Henri_Baker" title="Charles Henri Baker">Charles Henri Baker</a> (born 1955), Haitian politician</li>
-<li><a href="/wiki/Charles_Baker_(American_football)" title="Charles Baker (American football)">Charles Baker (American football)</a> (born 1957), American football player</li>
-<li><a href="/wiki/Charles_Baker_(actor)" title="Charles Baker (actor)">Charles Baker (actor)</a> (born 1971), American actor
-<ul><li><a href="/wiki/Charlie_Baker_(baseball)" title="Charlie Baker (baseball)">Charlie Baker (baseball)</a> (1856–1937), baseball player</li>
-<li><a href="/wiki/Charlie_Baker_(footballer)" title="Charlie Baker (footballer)">Charlie Baker (footballer)</a> (1880–1962), Australian rules footballer</li>
-<li><a href="/wiki/Charlie_Baker_(racing_driver)" title="Charlie Baker (racing driver)">Charlie Baker (racing driver)</a> (born 1952), NASCAR driver</li>
-<li><a href="/wiki/Charlie_Baker" title="Charlie Baker">Charlie Baker</a> (born 1956), American politician; 72nd governor of Massachusetts</li></ul></li></ul></li>
-<li><a href="/wiki/Charles_Arnold-Baker" title="Charles Arnold-Baker">Charles Arnold-Baker</a>, OBE (1918—2009), English member of MI6, barrister, and historian</li>
-<li><a href="/wiki/Cheryl_Baker" title="Cheryl Baker">Cheryl Baker</a> (born 1954), British singer and television presenter</li>
-<li><a href="/wiki/Chet_Baker" title="Chet Baker">Chet Baker</a> (1929–1988), American jazz musician</li>
-<li><a href="/wiki/Christopher_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Christopher Baker (disambiguation)">Chris and Christopher Baker (disambiguation)</a>, multiple people
-<ul><li><a href="/wiki/Chris_Baker_(writer)" title="Chris Baker (writer)">Chris Baker (writer)</a> (born 1948), Thailand-based British writer</li>
-<li><a href="/wiki/Chris_Baker_(politician)" title="Chris Baker (politician)">Chris Baker (politician)</a> (born 1958), Australian politician</li>
-<li><a href="/wiki/Chris_Baker_(racing_driver)" title="Chris Baker (racing driver)">Chris Baker (racing driver)</a> (born 1969), American race car driver</li>
-<li><a href="/wiki/Chris_Baker_(tight_end)" title="Chris Baker (tight end)">Chris Baker (tight end)</a> (born 1979), American football tight end</li>
-<li><a href="/wiki/Chris_Baker_(golfer)" title="Chris Baker (golfer)">Chris Baker (golfer)</a> (born 1986), American professional golfer</li>
-<li><a href="/wiki/Chris_Baker_(defensive_lineman)" title="Chris Baker (defensive lineman)">Chris Baker (defensive lineman)</a> (born 1987), American football player</li>
-<li><a href="/wiki/Chris_Baker_(talk_radio_host)" title="Chris Baker (talk radio host)">Chris Baker (talk radio host)</a>, American comedian and radio talk show host
-<ul><li><a href="/wiki/Christopher_Paul_Baker" title="Christopher Paul Baker">Christopher Paul Baker</a> (born 1955), English travel writer and photographer</li>
-<li><a href="/wiki/Christopher_W._Baker" title="Christopher W. Baker">Christopher W. Baker</a> (born 1956), British landscape artist</li>
-<li><a href="/wiki/Christopher_%22Fangorn%22_Baker" class="mw-redirect" title="Christopher &quot;Fangorn&quot; Baker">Christopher "Fangorn" Baker</a> (born 1960), British science fiction artist</li></ul></li></ul></li>
-<li><a href="/wiki/Chuck_Baker" title="Chuck Baker">Chuck Baker</a> (born 1952), Major League Baseball infielder</li>
-<li><a href="/wiki/Cis_Baker" title="Cis Baker">Cis Baker</a> (fl.1920s), English footballer</li>
-<li><a href="/wiki/Claire_Baker" title="Claire Baker">Claire Baker</a> (born 1971), Scottish Labour Party politician</li>
-<li><a href="/wiki/Clarence_Baker" title="Clarence Baker">Clarence Baker</a> (1928–1989), Canadian politician</li>
-<li><a href="/wiki/Clement_Baker" title="Clement Baker">Clement Baker</a> (by 1470–1516), English politician</li>
-<li><a href="/wiki/Clive_Baker_(footballer,_born_1934)" title="Clive Baker (footballer, born 1934)">Clive Baker (footballer, born 1934)</a> (1934–2012), English footballer</li>
-<li><a href="/wiki/Clive_Baker_(footballer,_born_1959)" title="Clive Baker (footballer, born 1959)">Clive Baker (footballer, born 1959)</a>, English footballer</li>
-<li><a href="/wiki/Colin_Baker_(disambiguation)" class="mw-disambig" title="Colin Baker (disambiguation)">Colin Baker (disambiguation)</a>, multiple people
-<ul><li><a href="/wiki/Colin_Baker_(footballer,_born_1934)" class="mw-redirect" title="Colin Baker (footballer, born 1934)">Colin Baker (footballer, born 1934)</a> (born 1934), Cardiff City and Wales player</li>
-<li><a href="/wiki/Colin_Baker" title="Colin Baker">Colin Baker</a> (born 1943), English actor (6th Doctor Who)</li>
-<li><a href="/wiki/Colin_Baker_(Irish_footballer)" title="Colin Baker (Irish footballer)">Colin Baker (Irish footballer)</a> (born 1985), plays in Hong Kong</li></ul></li>
-<li><a href="/wiki/Conrad_Baker" title="Conrad Baker">Conrad Baker</a> (1817–1885), 15th Governor of Indiana</li>
-<li><a href="/wiki/Conway_Baker" title="Conway Baker">Conway Baker</a> (1911-1997), American football player</li>
-<li><a href="/wiki/Corey_Baker" title="Corey Baker">Corey Baker</a> (born 1989), American baseball player
-<ul><li>Corey Baker, American DJ and music producer better known as <a href="/wiki/Kill_Paris" title="Kill Paris">Kill Paris</a></li></ul></li>
-<li><a href="/wiki/Cyril_Baker" title="Cyril Baker">Cyril Baker</a> (1885–1949), English cricketer</li></ul>
-<h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baker_(surname)&amp;action=edit&amp;section=4" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/D%27Arcy_Baker" title="D&#39;Arcy Baker">D'Arcy Baker</a> (1877-1932), British businessman and racing driver</li>
-<li><a href="/wiki/Dale_Baker" title="Dale Baker">Dale Baker</a> (1939–2012), Australian politician</li>
-<li><a href="/wiki/Dallas_Baker" title="Dallas Baker">Dallas Baker</a> (born 1982), American footballer</li>
-<li><a href="/wiki/Daniel_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Daniel Baker (disambiguation)">Dan, Daniel and Danny Baker (disambiguation)</a>, multiple people
-<ul><li><a href="/wiki/Dan_Baker_(PA_Announcer)" class="mw-redirect" title="Dan Baker (PA Announcer)">Dan Baker (PA Announcer)</a> (born 1946), American public address announcer</li>
-<li><a href="/wiki/Dan_Baker_(rugby_player)" title="Dan Baker (rugby player)">Dan Baker (rugby player)</a>, Welsh rugby union player</li>
-<li><a href="/wiki/Daniel_Baker_(Presbyterian_minister)" title="Daniel Baker (Presbyterian minister)">Daniel Baker (Presbyterian minister)</a> (1791-1857), American Presbyterian minister in the Antebellum South.
-<ul><li><a href="/wiki/Daniel_C._Baker" title="Daniel C. Baker">Daniel C. Baker</a> (1816–1863), Massachusetts politician and former mayor of Lynn, Massachusetts</li>
-<li><a href="/wiki/Daniel_A._Baker" title="Daniel A. Baker">Daniel A. Baker</a> (born 1979), English artist and producer of alternative comics</li>
-<li><a href="/wiki/Daniel_Baker_(businessman)" title="Daniel Baker (businessman)">Daniel Baker (businessman)</a> American CEO of Flightaware
-<ul><li><a href="/wiki/Danny_Baker" title="Danny Baker">Danny Baker</a> (born 1957), English comedy writer, journalist and radio DJ</li></ul></li></ul></li></ul></li>
-<li><a href="/wiki/David_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="David Baker (disambiguation)">Dave and David Baker (disambiguation)</a>, multiple people
-<ul><li><a href="/wiki/Dave_Baker_(American_football)" title="Dave Baker (American football)">Dave Baker (American football)</a> (1937–2002), American football defensive back</li>
-<li><a href="/wiki/Dave_Baker_(baseball)" title="Dave Baker (baseball)">Dave Baker (baseball)</a> (born 1957), American baseball player
-<ul><li><a href="/wiki/David_Erskine_Baker" title="David Erskine Baker">David Erskine Baker</a> (1730–1767), writer</li>
-<li><a href="/wiki/David_J._Baker" title="David J. Baker">David J. Baker</a> (1792–1869), US Senator from Illinois</li>
-<li><a href="/wiki/David_J._Baker_Jr." title="David J. Baker Jr.">David J. Baker Jr.</a> (1834–1899), his son, American judge</li>
-<li><a href="/wiki/David_Martin_Baker" title="David Martin Baker">David Martin Baker</a> (1923–2010), Republican member of West Virginia State House of Delegates</li>
-<li><a href="/wiki/David_Baker_(composer)" title="David Baker (composer)">David Baker (composer)</a> (born 1931), American symphonic jazz composer</li>
-<li><a href="/wiki/David_Baker_(cricketer,_born_1945)" title="David Baker (cricketer, born 1945)">David Baker (cricketer, born 1945)</a> (born 1945), former English cricketer</li>
-<li><a href="/wiki/David_Baker_(architect)" title="David Baker (architect)">David Baker (architect)</a> (born 1949), American architect</li>
-<li><a href="/wiki/David_Baker_(poet)" title="David Baker (poet)">David Baker (poet)</a> (born 1954), American poet</li>
-<li><a href="/wiki/David_Baker_(biochemist)" title="David Baker (biochemist)">David Baker (biochemist)</a> (born 1962), American biochemist</li>
-<li><a href="/wiki/David_Aaron_Baker" title="David Aaron Baker">David Aaron Baker</a> (born 1963), American actor</li>
-<li><a href="/wiki/David_Baker_(cyclist)" title="David Baker (cyclist)">David Baker (cyclist)</a> (born 1965), British Olympic mountainbike racer</li>
-<li><a href="/wiki/David_Baker_(poker_player,_born_1972)" class="mw-redirect" title="David Baker (poker player, born 1972)">David Baker (poker player, born 1972)</a>, American professional poker player nicknamed "ODB"</li>
-<li><a href="/wiki/David_Baker_(poker_player,_born_1986)" class="mw-redirect" title="David Baker (poker player, born 1986)">David Baker (poker player, born 1986)</a>, American professional poker player nicknamed "Bakes"</li>
-<li><a href="/wiki/David_James_Baker" title="David James Baker">David James Baker</a>, American filmmaker</li>
-<li><a href="/wiki/David_Baker_(singer)" title="David Baker (singer)">David Baker (singer)</a>, American former lead singer for Mercury Rev</li></ul></li></ul></li>
-<li><a href="/wiki/Dean_Baker" title="Dean Baker">Dean Baker</a> (born 1958), American macroeconomist</li>
-<li><a href="/wiki/Deandre_Baker" title="Deandre Baker">Deandre Baker</a> (born 1997), American football player</li>
-<li><a href="/wiki/Deborah_Baker" title="Deborah Baker">Deborah Baker</a>, American biographer and essayist</li>
-<li><a href="/wiki/Del_Baker" title="Del Baker">Del Baker</a> (1892–1973), American baseball player and manager</li>
-<li><a href="/wiki/Dennis_Baker_(rugby_league)" title="Dennis Baker (rugby league)">Dennis Baker (rugby league)</a> (fl.1960s), British rugby league footballer</li>
-<li><a href="/wiki/Dennis_Baker" title="Dennis Baker">Dennis Baker</a> (born 1947), Australian cricketer</li>
-<li><a href="/wiki/Dessie_Baker" title="Dessie Baker">Dessie Baker</a> (born 1977), Irish soccer player</li>
-<li><a href="/wiki/Diane_Baker" title="Diane Baker">Diane Baker</a> (born 1938), American actress</li>
-<li><a href="/wiki/Dick_Baker" title="Dick Baker">Dick Baker</a> (1938–2001), Canadian racing driver</li>
-<li><a href="/wiki/Doc_Baker" title="Doc Baker">Doc Baker</a> (died c.early 1920s), American footballer</li>
-<li><a href="/wiki/Don_Baker_(musician)" title="Don Baker (musician)">Don Baker (musician)</a> (born 1950), Irish musician and actor</li>
-<li><a href="/wiki/Donald_Baker_(bishop)" title="Donald Baker (bishop)">Donald Baker (bishop)</a> (1882–1968), Anglican bishop of Bendigo, Australia</li>
-<li><a href="/wiki/Donna_Baker" title="Donna Baker">Donna Baker</a> (born 1966), New Zealand international footballer</li>
-<li><a href="/wiki/Dorothy_Baker" title="Dorothy Baker">Dorothy Baker</a> (1907–1968), American writer</li>
-<li><a href="/wiki/Dorothy_Baker_(madam)" title="Dorothy Baker (madam)">Dorothy Baker (madam)</a> (c.1916–1973), American madam</li>
-<li><a href="/wiki/Douglas_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Douglas Baker (disambiguation)">Doug and Douglas Baker (disambiguation)</a>, multiple people
-<ul><li><a href="/wiki/Doug_Baker_(rugby_union)" title="Doug Baker (rugby union)">Doug Baker (rugby union)</a> (born 1929), England national rugby union footballer</li>
-<li>Doug Baker (1934–2014), American professional wrestler known as <a href="/wiki/Ox_Baker" title="Ox Baker">Ox Baker</a></li>
-<li><a href="/wiki/Doug_Baker_(baseball)" title="Doug Baker (baseball)">Doug Baker (baseball)</a> (born 1961), American Major League Baseball player
-<ul><li><a href="/wiki/Douglas_M._Baker_Jr." title="Douglas M. Baker Jr.">Douglas M. Baker Jr.</a> (born 1958), American businessman</li></ul></li></ul></li>
-<li><a href="/wiki/Dusty_Baker" title="Dusty Baker">Dusty Baker</a> (born 1949), American Major League Baseball player and manager</li>
-<li><a href="/wiki/Dylan_Baker" title="Dylan Baker">Dylan Baker</a> (born 1959), American actor</li></ul>
-<h2><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baker_(surname)&amp;action=edit&amp;section=5" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/E._Ballard_Baker" title="E. Ballard Baker">E. Ballard Baker</a> (1917–1985), American jurist</li>
-<li><a href="/wiki/E._C._Stuart_Baker" title="E. C. Stuart Baker">E. C. Stuart Baker</a> (1864–1944), British ornithologist and police officer</li>
-<li><a href="/wiki/E._D._Baker" title="E. D. Baker">E. D. Baker</a>, American children's novelist</li>
-<li><a href="/wiki/Earl_Baker" title="Earl Baker">Earl Baker</a> (1925–1999), American football coach</li>
-<li><a href="/wiki/Earl_M._Baker" title="Earl M. Baker">Earl M. Baker</a> (born 1940), American politician</li>
-<li><a href="/wiki/Edmund_Baker" title="Edmund Baker">Edmund Baker</a> (1854–1911), American politician</li>
-<li><a href="/wiki/Edward_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Edward Baker (disambiguation)">Edward Baker (disambiguation)</a>, multiple people
-<ul><li><a href="/wiki/Ed_Baker_(American_football_coach)" title="Ed Baker (American football coach)">Ed Baker (American football coach)</a> (born 1931), former American football player and coach</li>
-<li><a href="/wiki/Ed_Baker_(quarterback)" title="Ed Baker (quarterback)">Ed Baker (quarterback)</a> (born 1948), New York Giants and Houston Oilers quarterback
-<ul><li><a href="/wiki/Eddie_Baker" title="Eddie Baker">Eddie Baker</a> (1897–1968), American actor
-<ul><li><a href="/wiki/Edward_Baker_(British_politician)" title="Edward Baker (British politician)">Edward Baker (British politician)</a> (c. 1775–1862), British Conservative Member of Parliament</li>
-<li><a href="/wiki/Edward_Dickinson_Baker" title="Edward Dickinson Baker">Edward Dickinson Baker</a> (1811–1861), British-born American senator and soldier</li>
-<li><a href="/wiki/Edward_Baker_Lincoln" title="Edward Baker Lincoln">Edward Baker Lincoln</a> (1846–1850), son of Abraham Lincoln, named after Edward Dickinson Baker</li>
-<li><a href="/wiki/Edward_L._Baker_Jr." title="Edward L. Baker Jr.">Edward L. Baker Jr.</a> (1865–1913), American soldier and Medal of Honor recipient</li>
-<li><a href="/wiki/Edward_J._Baker" title="Edward J. Baker">Edward J. Baker</a> (1868–1959), American philanthropist from St. Charles, Illinois</li>
-<li><a href="/wiki/Edward_Baker_(cricketer,_born_1892)" title="Edward Baker (cricketer, born 1892)">Edward Baker (cricketer, born 1892)</a> (1892–1969), Cambridge University, Sussex and Somerset cricketer</li>
-<li><a href="/wiki/Edward_Stanley_Baker" class="mw-redirect" title="Edward Stanley Baker">Edward Stanley Baker</a> (1910–1992), English cricketer</li></ul></li></ul></li></ul></li>
-<li><a href="/wiki/Edwin_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Edwin Baker (disambiguation)">Edwin Baker (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Elizabeth_Baker" title="Elizabeth Baker">Elizabeth Baker</a> (1876-1962), English playwright</li>
-<li><a href="/wiki/Elizabeth_Baker_(economist)" title="Elizabeth Baker (economist)">Elizabeth Baker (economist)</a> (1885–1973), American economist and academic</li>
-<li><a href="/wiki/Ellis_Baker" title="Ellis Baker">Ellis Baker</a> (died 1984), American theatre actress</li>
-<li><a href="/wiki/Elsie_Baker" title="Elsie Baker">Elsie Baker</a> (1883–1971), American actress and singer</li>
-<li><a href="/wiki/Eric_Baker_(activist)" title="Eric Baker (activist)">Eric Baker (activist)</a> (1920–1976), founder of Amnesty International</li>
-<li><a href="/wiki/Eric_Baker_(businessman)" title="Eric Baker (businessman)">Eric Baker (businessman)</a> (born 1973), American businessman, founder and CEO of Viagogo, co-founder of StubHub</li>
-<li><a href="/wiki/Erica_Baker" title="Erica Baker">Erica Baker</a> (born 1980), American engineer</li>
-<li><a href="/wiki/Etta_Baker" title="Etta Baker">Etta Baker</a> (1931–2006), American blues musician and guitarist</li></ul>
-<h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baker_(surname)&amp;action=edit&amp;section=6" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Fanny_Baker_Ames" title="Fanny Baker Ames">Fanny Baker Ames</a> née Baker, (1840–1931), American philanthropist and women's rights leader</li>
-<li><a href="/wiki/Fay_Baker" title="Fay Baker">Fay Baker</a> (1917–1987), American actress and author</li>
-<li><a href="/wiki/Francis_Patrick_Baker" title="Francis Patrick Baker">Francis Patrick Baker</a> (1873–1959), member of the Australian House of Representatives</li>
-<li><a href="/wiki/Francis_Matthew_John_Baker" title="Francis Matthew John Baker">Francis Matthew John Baker</a> (1903–1939), member of the Australian House of Representatives</li>
-<li><a href="/wiki/Frank_Baker_(disambiguation)" class="mw-disambig" title="Frank Baker (disambiguation)">Frank Baker (disambiguation)</a>, multiple people
-<ul><li><a href="/wiki/Frank_Baker_(physician)" title="Frank Baker (physician)">Frank Baker (physician)</a> (1841–1918), American physician</li>
-<li><a href="/wiki/Frank_D._Baker" title="Frank D. Baker">Frank D. Baker</a> (1852–1927), U.S. politician</li>
-<li>Frank Baker, known as <a href="/wiki/Home_Run_Baker" title="Home Run Baker">Home Run Baker</a> (1886–1963), American Major League Baseball player</li>
-<li><a href="/wiki/Frank_Baker_(author)" title="Frank Baker (author)">Frank Baker (author)</a> (1908–1982), English author, actor, musician and television scriptwriter</li>
-<li><a href="/wiki/Frank_Baker_(American_football)" title="Frank Baker (American football)">Frank Baker (American football)</a> (1909–1985), American football player</li>
-<li><a href="/wiki/Frank_Baker_(footballer)" title="Frank Baker (footballer)">Frank Baker (footballer)</a> (1918–1989), English soccer player</li>
-<li><a href="/wiki/Frank_Baker_(shortstop)" title="Frank Baker (shortstop)">Frank Baker (shortstop)</a> (born 1946), American baseball player</li>
-<li><a href="/wiki/Frank_Baker_(outfielder)" title="Frank Baker (outfielder)">Frank Baker (outfielder)</a> (1944–2010), American baseball player</li>
-<li><a href="/wiki/Frank_D._Baker_(mayor)" class="mw-redirect" title="Frank D. Baker (mayor)">Frank D. Baker (mayor)</a>, Mayor of Flint, Michigan</li></ul></li>
-<li><a href="/wiki/Franklin_Baker_(minister)" title="Franklin Baker (minister)">Franklin Baker (minister)</a> (1800–1867), English Unitarian Minister</li>
-<li><a href="/wiki/Franklin_Baker" class="mw-redirect" title="Franklin Baker">Franklin Baker</a> American businessman</li>
-<li><a href="/wiki/Frederick_Baker_(disambiguation)" class="mw-disambig" title="Frederick Baker (disambiguation)">Fred or Frederick Baker (disambiguation)</a>, multiple people
-<ul><li><a href="/wiki/Fred_Baker_(military)" class="mw-redirect" title="Fred Baker (military)">Fred Baker (military)</a> (1908–1958), New Zealand World War II army colonel</li>
-<li><a href="/wiki/Fred_Baker_(IETF_chair)" title="Fred Baker (IETF chair)">Fred Baker (IETF chair)</a> (born 1952), American computer network engineer</li>
-<li><a href="/wiki/Fred_Thelonius_Baker" class="mw-redirect" title="Fred Thelonius Baker">Fred Thelonius Baker</a> (born 1960), English bass guitarist
-<ul><li>Frederick Baker (1850–1888), English opera singer whose stage name was <a href="/wiki/Frederick_Federici" title="Frederick Federici">Frederick Federici</a></li>
-<li><a href="/wiki/Frederick_Baker" title="Frederick Baker">Frederick Baker</a> (born 1965), Austrian-British filmmaker and film producer</li></ul></li></ul></li></ul>
-<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baker_(surname)&amp;action=edit&amp;section=7" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Gary_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Gary Baker (disambiguation)">Gary Baker (disambiguation)</a>, multiple people
-<ul><li><a href="/wiki/Gary_Baker_(racing_driver)" title="Gary Baker (racing driver)">Gary Baker (racing driver)</a> (born 1946), former NASCAR driver</li>
-<li><a href="/wiki/Gary_Baker_(songwriter)" title="Gary Baker (songwriter)">Gary Baker (songwriter)</a> (born 1952), American country music singer and songwriter</li>
-<li>Gary Baker, born 1985, British singer, songwriter and producer known as <a href="/wiki/Gary_Go" title="Gary Go">Gary Go</a>
-<ul><li><a href="/wiki/Garry_Baker" title="Garry Baker">Garry Baker</a> (born 1953), Australian Rules footballer</li></ul></li></ul></li>
-<li><a href="/wiki/Gavin_Baker" title="Gavin Baker">Gavin Baker</a> (born 1988), English cricketer</li>
-<li><a href="/wiki/Gene_Baker" title="Gene Baker">Gene Baker</a> (1925–1999), American baseball player</li>
-<li><a href="/wiki/Geoff_Baker" title="Geoff Baker">Geoff Baker</a> (born 1968), Canadian–born journalist and media personality</li>
-<li><a href="/wiki/Geoffrey_Baker" title="Geoffrey Baker">Geoffrey Baker</a> (1912–1980), British Field Marshal</li>
-<li><a href="/wiki/George_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="George Baker (disambiguation)">George Baker (disambiguation)</a>, multiple people
-<ul><li><a href="/wiki/George_Baker_(surgeon)" title="George Baker (surgeon)">George Baker (surgeon)</a> (1540–1600), English surgeon</li>
-<li><a href="/wiki/George_Baker_(bishop)" title="George Baker (bishop)">George Baker (bishop)</a> (fl. 1661–1665), Bishop of Waterford and Lismore</li>
-<li><a href="/wiki/George_Baker_(Archdeacon_of_Totnes)" title="George Baker (Archdeacon of Totnes)">George Baker (Archdeacon of Totnes)</a> (1687–1772), British Anglican priest</li>
-<li><a href="/wiki/Sir_George_Baker,_1st_Baronet" title="Sir George Baker, 1st Baronet">Sir George Baker, 1st Baronet</a> (1722–1809), British physician</li>
-<li><a href="/wiki/George_Baker_(organist)" title="George Baker (organist)">George Baker (organist)</a> (1773–1847), English musician</li>
-<li><a href="/wiki/George_Baker_(topographer)" title="George Baker (topographer)">George Baker (topographer)</a> (1781–1851), topographer and historian of Northampton, England</li>
-<li><a href="/wiki/George_Melville_Baker" title="George Melville Baker">George Melville Baker</a> (1832–1890), American playwright and publisher</li>
-<li><a href="/wiki/George_Fisher_Baker" title="George Fisher Baker">George Fisher Baker</a> (1840–1931), U.S. banker and philanthropist</li>
-<li><a href="/wiki/George_Baker_(inventor)" title="George Baker (inventor)">George Baker (inventor)</a> (1844–1894), American submarine pioneer</li>
-<li><a href="/wiki/George_Baker_(cricketer,_born_1849)" title="George Baker (cricketer, born 1849)">George Baker (cricketer, born 1849)</a> (1849–1879), English cricketer</li>
-<li><a href="/wiki/George_Baker_(baseball)" title="George Baker (baseball)">George Baker (baseball)</a> (1857–1915), Major League Baseball player</li>
-<li><a href="/wiki/George_Baker_(cricketer,_born_1862)" title="George Baker (cricketer, born 1862)">George Baker (cricketer, born 1862)</a> (1862–1938), British cricketer</li>
-<li><a href="/wiki/George_Pierce_Baker" title="George Pierce Baker">George Pierce Baker</a> (1866–1935), U.S. drama professor</li>
-<li><a href="/wiki/George_D._Baker" title="George D. Baker">George D. Baker</a> (1868–1933), American film director</li>
-<li><a href="/wiki/George_Herbert_Baker" title="George Herbert Baker">George Herbert Baker</a> (1878–1943), American Impressionist artist</li>
-<li><a href="/wiki/George_Baker_(baritone)" title="George Baker (baritone)">George Baker (baritone)</a> (1885–1976), British singer</li>
-<li><a href="/wiki/George_P._Baker" title="George P. Baker">George P. Baker</a> (1903–1995), fifth dean of the Harvard Business School</li>
-<li><a href="/wiki/George_Baker_(judge)" title="George Baker (judge)">George Baker (judge)</a> (1910–1984), British judge</li>
-<li><a href="/wiki/George_Baker_(cartoonist)" title="George Baker (cartoonist)">George Baker (cartoonist)</a> (1915–1975), <i>Sad Sack</i> comic strip</li>
-<li><a href="/wiki/George_Baker_(Dean_of_Antigua)" title="George Baker (Dean of Antigua)">George Baker (Dean of Antigua)</a> (fl. 1926–1970), Barbadian Anglican priest</li>
-<li><a href="/wiki/George_Baker_(actor)" title="George Baker (actor)">George Baker (actor)</a> (1931–2011), British film and television actor</li>
-<li><a href="/wiki/George_Baker_(footballer)" title="George Baker (footballer)">George Baker (footballer)</a> (born 1936), Welsh international footballer</li>
-<li><a href="/wiki/George_Baker_(Dutch_singer)" title="George Baker (Dutch singer)">George Baker (Dutch singer)</a> (born 1944), Dutch singer and songwriter</li>
-<li><a href="/wiki/George_Baker_(Bengali_actor)" class="mw-redirect" title="George Baker (Bengali actor)">George Baker (Bengali actor)</a> (born 1945), Indian actor and politician</li>
-<li><a href="/wiki/George_C._Baker" title="George C. Baker">George C. Baker</a> (born 1951), composer and organist</li>
-<li><a href="/wiki/George_Baker_(art_historian)" title="George Baker (art historian)">George Baker (art historian)</a> (fl. 2003–present), American art historian</li></ul></li>
-<li><a href="/wiki/Gerry_Baker_(disambiguation)" class="mw-disambig" title="Gerry Baker (disambiguation)">Gerry Baker (disambiguation)</a>, multiple people
-<ul><li><a href="/wiki/Gerry_Baker" title="Gerry Baker">Gerry Baker</a> (1938–2013), American soccer player</li>
-<li><a href="/wiki/Gerry_Baker_(footballer_born_1938)" class="mw-redirect" title="Gerry Baker (footballer born 1938)">Gerry Baker (footballer born 1938)</a>, English footballer</li>
-<li><a href="/wiki/Gerry_Baker_(footballer_born_1939)" class="mw-redirect" title="Gerry Baker (footballer born 1939)">Gerry Baker (footballer born 1939)</a>, English footballer</li></ul></li>
-<li><a href="/wiki/Ginger_Baker" title="Ginger Baker">Ginger Baker</a> (1939–2019), English musician, best known for being a member of 60's psychedelic-rock band Cream</li>
-<li><a href="/wiki/Gordon_Park_Baker" title="Gordon Park Baker">Gordon Park Baker</a> (1938-2002), American-English philosopher</li>
-<li><a href="/wiki/Graham_Baker_(footballer)" title="Graham Baker (footballer)">Graham Baker (footballer)</a> (born 1958), English former footballer</li>
-<li><a href="/wiki/Graham_Baker_(director)" title="Graham Baker (director)">Graham Baker (director)</a>, British film director</li>
-<li><a href="/wiki/Grant_Baker" title="Grant Baker">Grant Baker</a> (born 1973), South African surfer</li>
-<li><a href="/wiki/Greg_Baker" title="Greg Baker">Greg Baker</a> (born 1968), American actor</li>
-<li><a href="/wiki/Gregg_Baker" title="Gregg Baker">Gregg Baker</a>, American football coach</li>
-<li><a href="/wiki/Gus_Baker" title="Gus Baker">Gus Baker</a> (1922–1994), American painter, illustrator and photographer</li>
-<li><a href="/wiki/Guy_Baker" title="Guy Baker">Guy Baker</a>, American water polo coach</li></ul>
-<h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baker_(surname)&amp;action=edit&amp;section=8" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Harriette_Newell_Woods_Baker" title="Harriette Newell Woods Baker">Harriette Newell Woods Baker</a> (1815-1893; pen name, "Aunt Hattie"), American writer</li>
-<li><a href="/wiki/Harry_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Harry Baker (disambiguation)">Harry Baker (disambiguation)</a>, multiple people
-<ul><li><a href="/wiki/Harry_Baker_(footballer)" title="Harry Baker (footballer)">Harry Baker (footballer)</a> (born 1990), English footballer</li>
-<li><a href="/wiki/Harry_Frederick_Baker" title="Harry Frederick Baker">Harry Frederick Baker</a> (1904–1986), Australian speedway motorcycle rider and aviator</li>
-<li><a href="/wiki/Harry_Baker_(Australian_footballer)" title="Harry Baker (Australian footballer)">Harry Baker (Australian footballer)</a> (1907–1992), Australian footballer for Footscray</li>
-<li><a href="/wiki/Harry_L._Baker_Jr." title="Harry L. Baker Jr.">Harry L. Baker Jr.</a> (1912/13–1973), president of the Georgia Tech Research Corporation</li>
-<li><a href="/wiki/Harry_C._Baker" title="Harry C. Baker">Harry C. Baker</a>, American roller coaster entrepreneur</li></ul></li>
-<li><a href="/wiki/Heather_Baker" title="Heather Baker">Heather Baker</a> (born 1984), American singer, songwriter and guitarist</li>
-<li><a href="/wiki/Helen_Baker_(tennis)" title="Helen Baker (tennis)">Helen Baker (tennis)</a> (fl.1920), American tennis player</li>
-<li><a href="/wiki/Helen_Baker_(author)" title="Helen Baker (author)">Helen Baker (author)</a> (born 1948), English author</li>
-<li><a href="/wiki/Henry_Baker_(soldier)" title="Henry Baker (soldier)">Henry Baker (soldier)</a>, Governor of Derry in 1689</li>
-<li><a href="/wiki/Henry_Baker_(computer_scientist)" title="Henry Baker (computer scientist)">Henry Baker (computer scientist)</a>, American computer scientist</li>
-<li><a href="/wiki/Sir_Henry_Williams_Baker,_3rd_Baronet" class="mw-redirect" title="Sir Henry Williams Baker, 3rd Baronet">Sir Henry Williams Baker, 3rd Baronet</a>, English clergyman</li>
-<li><a href="/wiki/H._F._Baker" title="H. F. Baker">H. F. Baker</a>, British mathematician</li>
-<li><a href="/wiki/Hettie_Gray_Baker" title="Hettie Gray Baker">Hettie Gray Baker</a> (1880–1957), American film editor</li>
-<li><a href="/wiki/Herbert_Baker" title="Herbert Baker">Herbert Baker</a> (1862–1946), South African architect</li>
-<li><a href="/wiki/Hobey_Baker" title="Hobey Baker">Hobey Baker</a> (1892–1918), American sportsman and pilot</li>
-<li><a href="/wiki/Horace_Baker" title="Horace Baker">Horace Baker</a>, acting Governor of New Jersey</li>
-<li><a href="/wiki/Horace_Baker_(footballer)" title="Horace Baker (footballer)">Horace Baker (footballer)</a> (1910–1974), English footballer</li>
-<li><a href="/wiki/Horace_Burrington_Baker" title="Horace Burrington Baker">Horace Burrington Baker</a> (1889–1971), American malacologist</li>
-<li><a href="/wiki/Howard_Baker_Sr." title="Howard Baker Sr.">Howard Baker Sr.</a>, Member of the United States House of Representatives</li>
-<li><a href="/wiki/Howard_Baker" title="Howard Baker">Howard Baker</a> (1925-2014), U.S. Senator from Tennessee, U.S. ambassador to Japan</li>
-<li><a href="/wiki/Hugh_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Hugh Baker (disambiguation)">Hugh Baker (disambiguation)</a>, multiple people
-<ul><li><a href="/wiki/Hugh_Cossart_Baker_Sr." title="Hugh Cossart Baker Sr.">Hugh Cossart Baker Sr.</a> (1818–1859), banker, businessman, mathematician</li>
-<li><a href="/wiki/Hugh_Cossart_Baker_Jr." title="Hugh Cossart Baker Jr.">Hugh Cossart Baker Jr.</a> (1846–1931), businessman, telephone pioneer</li>
-<li><a href="/wiki/Hugh_P._Baker" title="Hugh P. Baker">Hugh P. Baker</a> (1878–1950), American forester and educator</li>
-<li><a href="/wiki/Hugh_T._Baker" title="Hugh T. Baker">Hugh T. Baker</a> (1906–1989), Irish cricketer</li></ul></li></ul>
-<h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baker_(surname)&amp;action=edit&amp;section=9" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Ian_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Ian Baker (disambiguation)">Iain and Ian Baker (disambiguation)</a>, multiple people
-<ul><li><a href="/wiki/Iain_Baker" class="mw-redirect" title="Iain Baker">Iain Baker</a> (born 1965), English keyboard player (Jesus Jones)
-<ul><li><a href="/wiki/Ian_Baker_(British_Army_officer)" title="Ian Baker (British Army officer)">Ian Baker (British Army officer)</a> (1927–2005), British general</li>
-<li><a href="/wiki/Ian_Baker_(Australian_politician)" class="mw-redirect" title="Ian Baker (Australian politician)">Ian Baker (Australian politician)</a> (born 1944)</li>
-<li><a href="/wiki/Ian_Baker_(cinematographer)" title="Ian Baker (cinematographer)">Ian Baker (cinematographer)</a> (born 1947), Australian cinematographer</li>
-<li><a href="/wiki/Ian_Baker_(footballer)" title="Ian Baker (footballer)">Ian Baker (footballer)</a> (born 1955), Australian Rules footballer from Victoria</li></ul></li></ul></li>
-<li><a href="/wiki/Irene_Baker" title="Irene Baker">Irene Baker</a> (1901-1994), Member of the United States House of Representatives</li></ul>
-<h2><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baker_(surname)&amp;action=edit&amp;section=10" title="Edit section: J">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/J._N._L._Baker" title="J. N. L. Baker">J. N. L. Baker</a> (1893–1971), British geographer</li>
-<li><a href="/wiki/James_Baker_(disambiguation)" class="mw-disambig" title="James Baker (disambiguation)">James Baker (disambiguation)</a> (or Jim Baker), multiple people</li>
-<li><a href="/wiki/Janet_Baker" title="Janet Baker">Janet Baker</a> (born 1933), English mezzo-soprano opera singer</li>
-<li><a href="/wiki/Jeannine_Baker" title="Jeannine Baker">Jeannine Baker</a>, Australian historian</li>
-<li><a href="/wiki/Jerome_Baker_(American_football)" title="Jerome Baker (American football)">Jerome Baker (American football)</a> (born 1996), American football player</li>
-<li><a href="/wiki/Jerry_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Jerry Baker (disambiguation)">Jerry Baker (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Joanna_Baker" title="Joanna Baker">Joanna Baker</a>, American professor of ancient languages</li>
-<li><a href="/wiki/Joe_Baker" title="Joe Baker">Joe Baker</a> (1940–2003), English footballer</li>
-<li><a href="/wiki/Joe_Don_Baker" title="Joe Don Baker">Joe Don Baker</a> (born 1936), American actor</li>
-<li><a href="/wiki/John_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="John Baker (disambiguation)">John Baker (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Josephine_Baker" title="Josephine Baker">Josephine Baker</a> (1906–1975), American-French entertainer, French Resistance member and civil rights worker</li>
-<li><a href="/wiki/Julien_Baker" title="Julien Baker">Julien Baker</a> (born 1995), American singer, songwriter, and guitarist</li>
-<li><a href="/wiki/Julius_Baker" title="Julius Baker">Julius Baker</a> (1915–2003), American musician</li>
-<li><a href="/wiki/Julius_Stafford_Baker" title="Julius Stafford Baker">Julius Stafford Baker</a>, English cartoonist</li></ul>
-<h2><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baker_(surname)&amp;action=edit&amp;section=11" title="Edit section: K">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Karen_Baker_Landers" title="Karen Baker Landers">Karen Baker</a>, sound editor (normally goes by Karen Baker Landers)</li>
-<li><a href="/wiki/Kathy_Baker" title="Kathy Baker">Kathy Baker</a> (born 1950), American actress</li>
-<li><a href="/wiki/Kelly_J._Baker" title="Kelly J. Baker">Kelly J. Baker</a> (born 1980), American writer and editor</li>
-<li><a href="/wiki/Kenneth_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Kenneth Baker (disambiguation)">Kenneth Baker (disambiguation)</a> (or Ken or Kenny Baker), multiple people</li>
-<li><a href="/wiki/Kevin_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Kevin Baker (disambiguation)">Kevin Baker (disambiguation)</a></li>
-<li><a href="/wiki/Kieron_Baker" title="Kieron Baker">Kieron Baker</a> (born 1949), English footballer</li>
-<li><a href="/wiki/Kyle_Baker" title="Kyle Baker">Kyle Baker</a>, American cartoonist</li></ul>
-<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baker_(surname)&amp;action=edit&amp;section=12" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/LaVern_Baker" title="LaVern Baker">LaVern Baker</a> (1929–1997), American R&amp;B singer</li>
-<li><a href="/wiki/Lawrence_James_Baker" title="Lawrence James Baker">Lawrence James Baker</a> (1827-1921), Queen Victoria's Stock-jobber</li>
-<li><a href="/wiki/Leigh-Allyn_Baker" title="Leigh-Allyn Baker">Leigh-Allyn Baker</a>, American actress</li>
-<li><a href="/wiki/Lena_Baker" title="Lena Baker">Lena Baker</a> (1901–1945), African-American convicted of murder</li>
-<li><a href="/wiki/Lionel_Baker" title="Lionel Baker">Lionel Baker</a> (born 1984), West Indian cricketer</li>
-<li><a href="/wiki/Lynn_Baker" title="Lynn Baker">Lynn Baker</a>, American bridge player</li>
-<li><a href="/wiki/Lynne_Rudder_Baker" title="Lynne Rudder Baker">Lynne Rudder Baker</a>, (born 1944), American philosopher</li>
-<li><a href="/wiki/Loran_Ellis_Baker" title="Loran Ellis Baker">Loran Ellis Baker</a> (1831–1899), Nova Scotian businessman</li>
-<li><a href="/wiki/Loran_Ellis_Baker_(politician)" title="Loran Ellis Baker (politician)">Loran Ellis Baker (politician)</a> (1905–1991), Canadian politician</li></ul>
-<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baker_(surname)&amp;action=edit&amp;section=13" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Malcolm_Baker" title="Malcolm Baker">Malcolm Baker</a>, (born 1929), Korean war colonel, Founder of Hyrex Pharmaceuticals</li>
-<li><a href="/wiki/Mark_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Mark Baker (disambiguation)">Mark Baker (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Martin_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Martin Baker (disambiguation)">Martin Baker (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Matthew_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Matthew Baker (disambiguation)">Matthew Baker (disambiguation)</a> (or Matt Baker), multiple people</li>
-<li><a href="/wiki/Princess_Caraboo" title="Princess Caraboo">Princess Caraboo</a> (Mary Baker) (1791–1865), noted impostor</li>
-<li><a href="/wiki/Mary_Baker_Eddy" title="Mary Baker Eddy">Mary Baker Eddy</a> (1821–1910), American founder of the Church of Christ, Scientist</li>
-<li><a href="/wiki/Maureen_Baker" title="Maureen Baker">Maureen Baker</a> (born 1958),  Scottish medical doctor, Chair of the Royal College of General Practitioners 2013–2016</li>
-<li><a href="/wiki/Maureen_Baker_(fashion_designer)" title="Maureen Baker (fashion designer)">Maureen Baker (fashion designer)</a> (1920/21–2017), British fashion designer</li>
-<li><a href="/wiki/Mel_Baker" title="Mel Baker">Mel Baker</a>, Wales and British Lions rugby player</li>
-<li><a href="/wiki/Melvin_Baker" title="Melvin Baker">Melvin Baker</a> (born 1950), American football player</li>
-<li><a href="/wiki/Mickey_Baker" title="Mickey Baker">Mickey Baker</a>, American guitarist</li>
-<li><a href="/wiki/Milo_Samuel_Baker" title="Milo Samuel Baker">Milo Samuel Baker</a> (1868–1961), American botanist</li>
-<li><a href="/wiki/Morgan_Baker" title="Morgan Baker">Morgan Baker</a>, Australian actor</li></ul>
-<h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baker_(surname)&amp;action=edit&amp;section=14" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Newton_D._Baker" title="Newton D. Baker">Newton D. Baker</a> (1871–1937), American mayor of Cleveland, Ohio, and United States Secretary of War</li>
-<li><a href="/wiki/Nicholson_Baker" title="Nicholson Baker">Nicholson Baker</a>, American author</li>
-<li><a href="/wiki/Norman_Baker_(disambiguation)" class="mw-disambig" title="Norman Baker (disambiguation)">Norman Baker (disambiguation)</a>, multiple people</li></ul>
-<h2><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baker_(surname)&amp;action=edit&amp;section=15" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Orlando_Harrison_Baker" title="Orlando Harrison Baker">Orlando Harrison Baker</a> (1830–1913), American college professor and U.S. consul</li>
-<li><a href="/wiki/Ox_Baker" title="Ox Baker">Ox Baker</a> (1934–2014), American professional wrestler</li></ul>
-<h2><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baker_(surname)&amp;action=edit&amp;section=16" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Patricia_Baker" title="Patricia Baker">Patricia Baker</a>, American archaeologist</li>
-<li><a href="/wiki/Paul_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Paul Baker (disambiguation)">Paul Baker (disambiguation)</a>, several people</li>
-<li><a href="/wiki/Perry_Baker" title="Perry Baker">Perry Baker</a> (born 1986), American rugby sevens player</li>
-<li><a href="/wiki/Peter_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Peter Baker (disambiguation)">Peter Baker (disambiguation)</a>, several people</li></ul>
-<h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baker_(surname)&amp;action=edit&amp;section=17" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Ray_Stannard_Baker" title="Ray Stannard Baker">Ray Stannard Baker</a> (1870–1946), American journalist and author</li>
-<li><a href="/wiki/Reginald_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Reginald Baker (disambiguation)">Reginald Baker (disambiguation)</a>, several people</li>
-<li><a href="/wiki/Richard_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Richard Baker (disambiguation)">Richard Baker (disambiguation)</a>, several people</li>
-<li><a href="/wiki/Robert_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Robert Baker (disambiguation)">Robert Baker (disambiguation)</a>, several people</li>
-<li><a href="/wiki/Robin_Baker_(biologist)" title="Robin Baker (biologist)">Robin Baker (biologist)</a>, evolutionary biologist and author of <a href="/wiki/Sperm_Wars" title="Sperm Wars">Sperm Wars</a></li>
-<li><a href="/wiki/Robin_Baker_(academic)" title="Robin Baker (academic)">Robin Baker (academic)</a>, academic and Vice-Chancellor of <a href="/wiki/Canterbury_Christ_Church_University" title="Canterbury Christ Church University">Canterbury Christ Church University</a>.</li>
-<li><a href="/wiki/Ron_Baker_(American_football)" title="Ron Baker (American football)">Ron Baker (American football)</a> (born 1954), American offensive lineman</li>
-<li><a href="/wiki/Ron_Baker_(basketball)" title="Ron Baker (basketball)">Ron Baker (basketball)</a> (born 1993), American shooting guard</li>
-<li><a href="/wiki/Ronnie_Baker" title="Ronnie Baker">Ronnie Baker</a> (1947–1990), American bass guitarist and record producer</li>
-<li><a href="/wiki/Rose_Baker" title="Rose Baker">Rose Baker</a>, British physicist, mathematician, and statistician</li>
-<li><a href="/wiki/Russell_Baker" title="Russell Baker">Russell Baker</a> (1925–2019), American writer</li></ul>
-<h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baker_(surname)&amp;action=edit&amp;section=18" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Samuel_Baker" title="Samuel Baker">Samuel Baker</a>  (1821–1893), British explorer</li>
-<li><a href="/wiki/Sara_Josephine_Baker" title="Sara Josephine Baker">Sara Josephine Baker</a> (1873–1945), American doctor and public health worker</li>
-<li><a href="/wiki/Sarah_Martha_Baker" title="Sarah Martha Baker">Sarah Martha Baker</a> (1887–1917), British botanist and ecologist</li>
-<li><a href="/wiki/Simon_Baker_(racewalker)" title="Simon Baker (racewalker)">Simon Baker (racewalker)</a> (born 1958), Australian race walker</li>
-<li><a href="/wiki/Simon_Baker" title="Simon Baker">Simon Baker</a> (born 1969), Australian film and television actor</li>
-<li><a href="/wiki/Stanley_Baker" title="Stanley Baker">Stanley Baker</a> (1928–1976), Welsh actor and producer</li>
-<li><a href="/wiki/Stephen_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Stephen Baker (disambiguation)">Stephen Baker (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Steven_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Steven Baker (disambiguation)">Steven Baker (disambiguation)</a> (or Steve Baker), multiple people</li></ul>
-<h2><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baker_(surname)&amp;action=edit&amp;section=19" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Thomas_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Thomas Baker (disambiguation)">Thomas Baker (disambiguation)</a> (or Tom Baker), multiple people</li>
-<li><a href="/wiki/Trevor_Baker" title="Trevor Baker">Trevor Baker</a>, known as Trevor the Weather, long-serving Welsh TV weatherman</li>
-<li><a href="/wiki/Troy_Baker" title="Troy Baker">Troy Baker</a>, American voice actor</li>
-<li><a href="/wiki/Tom_Baker" title="Tom Baker">Tom Baker</a>, actor</li></ul>
-<h2><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baker_(surname)&amp;action=edit&amp;section=20" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Valentine_Baker" title="Valentine Baker">Valentine Baker</a>, 19th C, British Army General</li>
-<li><a href="/wiki/Vin_Baker" title="Vin Baker">Vin Baker</a> (born 1971), American basketball player</li></ul>
-<h2><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baker_(surname)&amp;action=edit&amp;section=21" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Walter_Baker_(disambiguation)" class="mw-redirect mw-disambig" title="Walter Baker (disambiguation)">Walter Baker (disambiguation)</a>, several people</li>
-<li><a href="/wiki/Wheeler_R._Baker" title="Wheeler R. Baker">Wheeler R. Baker</a>, former Maryland politician</li>
-<li><a href="/wiki/Wiki_Baker" title="Wiki Baker">Wiki Baker</a>, vocalist and community worker from New Zealand</li>
-<li><a href="/wiki/William_C._Baker" title="William C. Baker">William C. Baker</a> (1858–1931), lawyer and 20th Mayor of Providence, Rhode Island</li>
-<li><a href="/wiki/William_Baker_(baseball)" title="William Baker (baseball)">William F. Baker</a> (1866–1930), an owner of the Philadelphia Phillies baseball club</li>
-<li><a href="/wiki/William_O._Baker" title="William O. Baker">William O. Baker</a> (1915–2005), American and former President of Bell Labs</li></ul>
-<h2><span class="mw-headline" id="Y">Y</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baker_(surname)&amp;action=edit&amp;section=22" title="Edit section: Y">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Yvette_Baker" title="Yvette Baker">Yvette Baker</a> (born 1968), British orienteer</li>
-<li><a href="/wiki/Yvette_Baker_(synchronised_swimmer)" title="Yvette Baker (synchronised swimmer)">Yvette Baker (synchronised swimmer)</a> (born 1991), British synchronised swimmer</li></ul>
-<h2><span class="mw-headline" id="Z">Z</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baker_(surname)&amp;action=edit&amp;section=23" title="Edit section: Z">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li>Zachary Baker (born 1981), American musician better known as <a href="/wiki/Zacky_Vengeance" class="mw-redirect" title="Zacky Vengeance">Zacky Vengeance</a></li></ul>
-<h2><span class="mw-headline" id="Fictional_characters">Fictional characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baker_(surname)&amp;action=edit&amp;section=24" title="Edit section: Fictional characters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Becky_Baker" class="mw-redirect" title="Becky Baker">Becky Baker</a>, fictional character in <i>Degrassi</i></li>
-<li><a href="/wiki/Brian_Baker_(The_Wire)" class="mw-redirect" title="Brian Baker (The Wire)">Brian Baker (The Wire)</a>, police officer on the HBO drama <i>The Wire</i></li>
-<li><a href="/wiki/Douglas_Baker_(EastEnders)" class="mw-redirect" title="Douglas Baker (EastEnders)">Douglas Baker (EastEnders)</a>, character on <i>EastEnders</i> (2007)</li>
-<li><a href="/wiki/Eric_Baker_(West_Wing)" class="mw-redirect" title="Eric Baker (West Wing)">Eric Baker (West Wing)</a>, fictitious Democratic Governor of Pennsylvania and nominee for Vice–President</li>
-<li><a href="/wiki/Jordan_Baker_(The_Great_Gatsby)" class="mw-redirect" title="Jordan Baker (The Great Gatsby)">Jordan Baker</a>, character in the novel "The Great Gatsby" by F Scott Fitzgerald</li>
-<li><a href="/wiki/Luke_Baker" class="mw-redirect" title="Luke Baker">Luke Baker</a>, fictional character in <i>Degrassi</i></li></ul>
-<h2><span class="mw-headline" id="Other_uses">Other uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baker_(surname)&amp;action=edit&amp;section=25" title="Edit section: Other uses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Baker_Bowl" title="Baker Bowl">Baker Bowl</a>, popular name for a demolished baseball park in Philadelphia, Pennsylvania</li>
-<li><a href="/wiki/BakerBus" title="BakerBus">BakerBus</a>, trading name of a bus fleet in Staffordshire, England</li>
-<li>Baker day, colloquial name for British teacher training days properly known as <a href="/wiki/Inset_day" title="Inset day">Inset days</a></li>
-<li><a href="/wiki/Baker_Island" title="Baker Island">Baker Island</a>, unincorporated and unorganized territory of the USA 1,920 miles southwest of Honolulu</li>
-<li><a href="/wiki/Baker_Island_(Alaska)" title="Baker Island (Alaska)">Baker Island (Alaska)</a></li>
-<li><a href="/wiki/Baker_Island_(Maine)" title="Baker Island (Maine)">Baker Island (Maine)</a></li>
-<li><a href="/wiki/Baker_Island_(Pennsylvania)" title="Baker Island (Pennsylvania)">Baker Island (Pennsylvania)</a></li>
-<li><a href="/wiki/Baker_Island_(West_Virginia)" title="Baker Island (West Virginia)">Baker Island (West Virginia)</a></li>
-<li><a href="/wiki/Bakers_Island" title="Bakers Island">Bakers Island</a>, Massachusetts, USA</li>
-<li><a href="/wiki/Baker%27s_Island" title="Baker&#39;s Island">Baker's Island</a>, Hampshire, England</li>
-<li><a href="/wiki/Baker_Street_and_Waterloo_Railway" title="Baker Street and Waterloo Railway">Baker Street and Waterloo Railway</a>, British railway company founded in 1893</li>
-<li><a href="/wiki/Baker_University" title="Baker University">Baker University</a>, private, residential university in Baldwin City, Kansas</li>
-<li><a href="/wiki/Bob_Baker_Marionette_Theater" title="Bob Baker Marionette Theater">Bob Baker Marionette Theater</a>, the oldest children's theater company in Los Angeles</li>
-<li><a href="/wiki/Bob_Baker_Memorial_Airport" title="Bob Baker Memorial Airport">Bob Baker Memorial Airport</a>, a public airport in Alaska</li>
-<li><a href="/wiki/Buck_Baker_Racing_School" title="Buck Baker Racing School">Buck Baker Racing School</a>, American motor racing school</li>
-<li><a href="/wiki/Cecil_Baker_Round_Barn" title="Cecil Baker Round Barn">Cecil Baker Round Barn</a>, historic barn in North Dakota</li></ul>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baker_(surname)&amp;action=edit&amp;section=26" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Backer" title="Backer">Backer</a>, a Norwegian surname</li>
-<li><a href="/wiki/Bakker" title="Bakker">Bakker</a>, a Norwegian, Swedish, Danish, or Dutch surname</li></ul>
+<ul><li><a href="/wiki/Alan_Cooke" title="Alan Cooke">Alan Cooke</a>, British actor</li>
+<li><a href="/wiki/Alexander_Cooke" title="Alexander Cooke">Alexander Cooke</a> (died 1614), English actor</li>
+<li><a href="/wiki/Alfred_Tyrone_Cooke" title="Alfred Tyrone Cooke">Alfred Tyrone Cooke</a>, of the Indo-Pakistani wars</li>
+<li><a href="/wiki/Alistair_Cooke" title="Alistair Cooke">Alistair Cooke</a> KBE (1908–2004), journalist and broadcaster</li>
+<li><a href="/wiki/Amos_Starr_Cooke" title="Amos Starr Cooke">Amos Starr Cooke</a> (1810–1871), found of Royal School and Castle &amp; Cooke in Hawaii</li>
+<li><a href="/wiki/Anna_Rice_Cooke" title="Anna Rice Cooke">Anna Rice Cooke</a> (1853–1934), patron of the arts and founder of the Honolulu Academy of Arts</li>
+<li><a href="/wiki/Anthony_Cooke" title="Anthony Cooke">Anthony Cooke</a> (1505–1576), British scholar</li>
+<li><a href="/wiki/Baden_Cooke" title="Baden Cooke">Baden Cooke</a> (born 1978), Australian cyclist</li>
+<li><a href="/wiki/Barrie_Cooke" title="Barrie Cooke">Barrie Cooke</a> (born 1931), Irish painter</li>
+<li><a href="/wiki/Bates_Cooke" title="Bates Cooke">Bates Cooke</a>, US Representative 1831–1833, and NY State Comptroller 1839–1841</li>
+<li><a href="/wiki/Benjamin_Cooke" title="Benjamin Cooke">Benjamin Cooke</a> (1734–1793), British musician</li>
+<li><a href="/wiki/Beryl_Cooke" title="Beryl Cooke">Beryl Cooke</a> (1906–2001), British actress</li>
+<li><a href="/wiki/C._R._Cooke" title="C. R. Cooke">C. R. Cooke</a> (Conrad Reginald Cooke, 1901–1996), English early Himalayan mountaineer</li>
+<li><a href="/wiki/Charles_Cooke_(disambiguation)" class="mw-redirect mw-disambig" title="Charles Cooke (disambiguation)">Charles Cooke (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Chauncey_H._Cooke" title="Chauncey H. Cooke">Chauncey H. Cooke</a> (1846–1919), American soldier in the U.S. Civil War</li>
+<li><a href="/wiki/Christian_Cooke" title="Christian Cooke">Christian Cooke</a> (born 1986), English actor</li>
+<li><a href="/wiki/Clarence_Hyde_Cooke" title="Clarence Hyde Cooke">Clarence Hyde Cooke</a> (1876–1944), businessman in Hawaii</li>
+<li><a href="/wiki/Dave_Cooke" title="Dave Cooke">Dave Cooke</a>, Canadian politician</li>
+<li><a href="/wiki/Deryck_Cooke" title="Deryck Cooke">Deryck Cooke</a> (1919–1975), British musicologist</li>
+<li><a href="/wiki/Doc_Cook" title="Doc Cook">Doc Cook</a> (Charles L. Cooke, 1891–1958), jazz bandleader</li>
+<li><a href="/wiki/Edmund_F._Cooke" title="Edmund F. Cooke">Edmund F. Cooke</a> (1885–1967), US congressman from New York</li>
+<li><a href="/wiki/Edward_William_Cooke" title="Edward William Cooke">Edward William Cooke</a> (1811–1880), English maritime artist</li>
+<li><a href="/wiki/Eric_Edgar_Cooke" title="Eric Edgar Cooke">Eric Edgar Cooke</a>, murderer</li>
+<li><a href="/wiki/Francis_Cooke" title="Francis Cooke">Francis Cooke</a> Passenger on the Mayflower</li>
+<li><a href="/wiki/Francis_Judd_Cooke" title="Francis Judd Cooke">Francis Judd Cooke</a> (1910–1995), American composer</li>
+<li><a href="/wiki/Geoff_Cooke_(disambiguation)" class="mw-redirect mw-disambig" title="Geoff Cooke (disambiguation)">Geoff Cooke (disambiguation)</a>, several people</li>
+<li><a href="/wiki/George_Cooke_(disambiguation)" class="mw-redirect mw-disambig" title="George Cooke (disambiguation)">George Cooke (disambiguation)</a>, several people</li>
+<li><a href="/wiki/H._Basil_S._Cooke" title="H. Basil S. Cooke">H. Basil S. Cooke</a> (born 1915), Canadian paleontologist</li>
+<li><a href="/wiki/Hope_Cooke" title="Hope Cooke">Hope Cooke</a>, Queen of Sikkim</li>
+<li><a href="/wiki/Jack_Kent_Cooke" title="Jack Kent Cooke">Jack Kent Cooke</a> (1912–1997), Canadian entrepreneur</li>
+<li>Sir <a href="/wiki/James_Douglas_Cooke" class="mw-redirect" title="James Douglas Cooke">James Douglas Cooke</a> (1879–1949), MP for Hammersmith South</li>
+<li><a href="/wiki/James_J._Cooke" title="James J. Cooke">James J. Cooke</a>, American historian, author, academic and soldier</li>
+<li><a href="/wiki/James_W._Cooke" title="James W. Cooke">James W. Cooke</a>, American naval officer</li>
+<li><a href="/wiki/Janet_Cooke" title="Janet Cooke">Janet Cooke</a> (born 1954), American journalist, won a Pulitzer Prize for a fabricated story</li>
+<li><a href="/wiki/Jay_Cooke" title="Jay Cooke">Jay Cooke</a> (1821–1905), American financier, notable for financing Union effort in Civil War and Northern Pacific Railway</li>
+<li><a href="/wiki/Jennifer_Cooke" title="Jennifer Cooke">Jennifer Cooke</a>, actress</li>
+<li><a href="/wiki/John_Cooke_(disambiguation)" class="mw-redirect mw-disambig" title="John Cooke (disambiguation)">John Cooke (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Joseph_Platt_Cooke" title="Joseph Platt Cooke">Joseph Platt Cooke</a> (1730–1816), in American Revolutionary War</li>
+<li><a href="/wiki/Keith_Cooke" title="Keith Cooke">Keith Cooke</a>, actor</li>
+<li><a href="/wiki/L._J._Cooke" title="L. J. Cooke">L. J. Cooke</a> (Louis Joseph Cooke, 1868–1943), first men's basketball coach at the University of Minnesota</li>
+<li><a href="/wiki/Lawrence_H._Cooke" title="Lawrence H. Cooke">Lawrence H. Cooke</a> (1914–2000), Chief Judge of New York Court of Appeals 1979–1984</li>
+<li><a href="/wiki/Logan_Cooke" title="Logan Cooke">Logan Cooke</a> (born 1995), American football player</li>
+<li><a href="/wiki/Martin_Cooke_(disambiguation)" class="mw-redirect mw-disambig" title="Martin Cooke (disambiguation)">Martin Cooke (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Matt_Cooke" title="Matt Cooke">Matt Cooke</a>, hockey player</li>
+<li><a href="/wiki/Mel_Cooke" title="Mel Cooke">Mel Cooke</a> (1934–2013), New Zealand rugby league footballer</li>
+<li><a href="/wiki/Mordecai_Cubitt_Cooke" title="Mordecai Cubitt Cooke">Mordecai Cubitt Cooke</a> (1825–1914), British botanist</li>
+<li><a href="/wiki/Nathaniel_Cooke" title="Nathaniel Cooke">Nathaniel Cooke</a> (19th century), designer of the standard set of chess figures</li>
+<li><a href="/wiki/Nicole_Cooke" title="Nicole Cooke">Nicole Cooke</a> (born 1983), British cyclist</li>
+<li><a href="/wiki/Peter_Cooke_(Scouting)" title="Peter Cooke (Scouting)">Peter Cooke (Scouting)</a></li>
+<li><a href="/wiki/Philip_St._George_Cooke" title="Philip St. George Cooke">Philip St. George Cooke</a> (1809–1895), 19th century US cavalry officer</li>
+<li><a href="/wiki/Pinny_Cooke" title="Pinny Cooke">Pinny Cooke</a> (1923–2004), New York politician, assemblywoman from Rochester</li>
+<li><a href="/wiki/Robin_Cooke,_Baron_Cooke_of_Thorndon" title="Robin Cooke, Baron Cooke of Thorndon">Robin Cooke, Baron Cooke of Thorndon</a>, New Zealand judge</li>
+<li><a href="/wiki/Rose_Terry_Cooke" title="Rose Terry Cooke">Rose Terry Cooke</a> (1827–1892), American author, poet</li>
+<li><a href="/wiki/Sam_Cooke" title="Sam Cooke">Sam Cooke</a> (1931–1964), American singer/songwriter</li>
+<li>Sir <a href="/wiki/Samuel_Cooke_(judge)" title="Samuel Cooke (judge)">Samuel Cooke</a> (1912–1978), British judge</li>
+<li><a href="/wiki/Samuel_Nathaniel_Cooke" class="mw-redirect" title="Samuel Nathaniel Cooke">Samuel Nathaniel Cooke</a> (S. N. Cooke) (born 1883), English architect</li>
+<li><a href="/wiki/Sasha_Cooke" title="Sasha Cooke">Sasha Cooke</a>, American mezzo-soprano</li>
+<li><a href="/wiki/Sidney_Cooke" title="Sidney Cooke">Sidney Cooke</a> (born 1927), paedophile and child killer</li>
+<li><a href="/wiki/Steve_Cooke" title="Steve Cooke">Steve Cooke</a> (born 1970), baseball player</li>
+<li><a href="/wiki/Terence_Cooke" title="Terence Cooke">Terence Cooke</a> (1921–1983), Cardinal, and Archbishop of New York</li>
+<li><a href="/wiki/Thomas_Cooke_(disambiguation)" class="mw-redirect mw-disambig" title="Thomas Cooke (disambiguation)">Thomas Cooke (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Walter_E._Cooke" title="Walter E. Cooke">Walter E. Cooke</a> (1910–1982), New York politician</li>
+<li><a href="/wiki/Walter_H._Cooke" title="Walter H. Cooke">Walter H. Cooke</a> (1838–1909), American recipient of the Medal of Honor</li>
+<li><a href="/wiki/Weldon_B._Cooke" title="Weldon B. Cooke">Weldon B. Cooke</a> (1884–1914), American pioneer aviator killed in crash</li>
+<li><a href="/wiki/Wells_Cooke" title="Wells Cooke">Wells Cooke</a> (1858–1916), American ornithologist</li>
+<li><a href="/wiki/William_Cooke_(disambiguation)" class="mw-redirect mw-disambig" title="William Cooke (disambiguation)">William Cooke (disambiguation)</a>, several people</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cooke&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cook_(disambiguation)" class="mw-redirect mw-disambig" title="Cook (disambiguation)">Cook (disambiguation)</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cooke&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Browne_Reaney_Wilson_Scull_1991-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Browne_Reaney_Wilson_Scull_1991_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Browne, W.A.F.; Reaney, P.H.; Wilson, R.M.; Scull, A. (1991). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=5sVq7VQlNwcC&amp;pg=PA732"><i>A Dictionary of English Surnames</i></a>. Tavistock classics in the history of psychiatry. Routledge. p.&#160;732. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-415-05737-0" title="Special:BookSources/978-0-415-05737-0"><bdi>978-0-415-05737-0</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">26 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Dictionary+of+English+Surnames&amp;rft.series=Tavistock+classics+in+the+history+of+psychiatry&amp;rft.pages=732&amp;rft.pub=Routledge&amp;rft.date=1991&amp;rft.isbn=978-0-415-05737-0&amp;rft.aulast=Browne&amp;rft.aufirst=W.A.F.&amp;rft.au=Reaney%2C+P.H.&amp;rft.au=Wilson%2C+R.M.&amp;rft.au=Scull%2C+A.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D5sVq7VQlNwcC%26pg%3DPA732&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACooke" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Surnames_derived_from_the_occupation_of_cook" style="padding:3px"><table class="nowraplinks mw-collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Cook-surname" title="Template:Cook-surname"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Cook-surname" title="Template talk:Cook-surname"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Cook-surname&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Surnames_derived_from_the_occupation_of_cook" style="font-size:114%;margin:0 4em">Surnames derived from the occupation of <a href="/wiki/Cooking" title="Cooking">cook</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Germanic</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cook_(surname)" title="Cook (surname)">Cook</a>, <a href="/wiki/Cooke_(surname)" class="mw-redirect" title="Cooke (surname)">Cooke</a></li>
+<li><a href="/wiki/Cock_(surname)" title="Cock (surname)">Cock</a>, <a href="/wiki/De_Cock" title="De Cock">De Cock</a>, <a href="/wiki/De_Kock" title="De Kock">De Kock</a></li>
+<li><a href="/wiki/Kok_(surname)" title="Kok (surname)">Kok</a>, <a href="/wiki/De_Kok" title="De Kok">de Kok</a></li>
+<li><a href="/wiki/Koch_(surname)" title="Koch (surname)">Koch</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Romance</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Buc%C4%83taru" title="Bucătaru">Bucătaru</a></li>
+<li><a href="/wiki/Cuoco" title="Cuoco">Cuoco</a></li>
+<li>Quéguiner</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Slavic</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kucharz" class="mw-redirect" title="Kucharz">Kucharz</a>, <a href="/wiki/Kucha%C5%99" title="Kuchař">Kuchař</a>, <a href="/wiki/Kuchar_(surname)" title="Kuchar (surname)">Kuchar</a></li>
+<li><a href="/wiki/Kucharik" class="mw-redirect" title="Kucharik">Kucharik</a>, <a href="/wiki/Kucharczyk" title="Kucharczyk">Kucharczyk</a></li>
+<li><a href="/wiki/Kucharski" title="Kucharski">Kucharski</a>, <a href="/wiki/Kucharsky" class="mw-redirect" title="Kucharsky">Kucharsky</a></li>
+<li><a href="/wiki/Kukhar" title="Kukhar">Kukhar</a></li>
+<li><a href="/wiki/Kukharchuk" title="Kukharchuk">Kukharchuk</a></li>
+<li><a href="/wiki/Kukharenko" title="Kukharenko">Kukharenko</a></li>
+<li><a href="/wiki/Kuhar" title="Kuhar">Kuhar</a></li>
+<li><a href="/wiki/Kuhari%C4%87" title="Kuharić">Kuharić</a>/<a href="/wiki/Kuharich" class="mw-redirect" title="Kuharich">Kuharich</a></li>
+<li>Kuharović</li>
+<li><a href="/wiki/Povarov" title="Povarov">Povarov</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kokk_(surname)" title="Kokk (surname)">Kokk</a></li>
+<li><a href="/wiki/Szak%C3%A1cs" title="Szakács">Szakács</a></li></ul>
+</div></td></tr></tbody></table></div>
 <style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
 <table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
 <tbody><tr>
 <td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
-<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Baker</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Baker_(surname)&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Cooke</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Cooke&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
 </tr>
 </tbody></table>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baker_(surname)&amp;action=edit&amp;section=27" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="reflist" style="list-style-type: decimal;">
-<div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.surnamedb.com/Surname/Baker">"Baker at surnamedb.com"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-10-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Baker+at+surnamedb.com&amp;rft_id=http%3A%2F%2Fwww.surnamedb.com%2FSurname%2FBaker&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABaker+%28surname%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
-</li>
-</ol></div></div>
-<div role="navigation" class="navbox" aria-labelledby="Surnames_associated_with_the_occupation_of_baker_etc." style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Baker-surname" title="Template:Baker-surname"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Baker-surname" title="Template talk:Baker-surname"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Baker-surname&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Surnames_associated_with_the_occupation_of_baker_etc." style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Surnames associated with</a> the occupation of <a href="/wiki/Baker" title="Baker">baker</a> etc.</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Germanic</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a class="mw-selflink selflink">Baker</a>, <a href="/wiki/Baxter_(name)" title="Baxter (name)">Baxter</a></li>
-<li><a href="/wiki/Becker_(surname)" class="mw-redirect" title="Becker (surname)">Becker</a>, <a href="/wiki/B%C3%A4cker" title="Bäcker">Bäcker</a>, <a href="/wiki/Brodbeck" title="Brodbeck">Brodbeck</a>, <a href="/wiki/Bakker" title="Bakker">Bakker</a>, <a href="/wiki/Bager" title="Bager">Bager</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Romance</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Boulanger" title="Boulanger">Boulanger</a> (<a href="/wiki/Boulenger" title="Boulenger">Boulenger</a>, <a href="/wiki/Bollinger" title="Bollinger">Bollinger</a>), <a href="/wiki/Fournier" title="Fournier">Fournier</a>, <a href="/wiki/Dufour_(surname)" title="Dufour (surname)">Dufour</a></li>
-<li>Brutaru, <a href="/w/index.php?title=Brutaru&amp;action=edit&amp;redlink=1" class="new" title="Brutaru (page does not exist)">Brutaru</a></li>
-<li>Forner</li>
-<li>Padeiro</li>
-<li>Panadero</li>
-<li><a href="/wiki/Panettiere" title="Panettiere">Panettiere</a>, <a href="/wiki/Panaro_(disambiguation)" class="mw-redirect mw-disambig" title="Panaro (disambiguation)">Panaro</a>, <a href="/wiki/Panariello" title="Panariello">Panariello</a>, <a href="/wiki/Panetta" title="Panetta">Panetta</a>, <a href="/w/index.php?title=Pistritto&amp;action=edit&amp;redlink=1" class="new" title="Pistritto (page does not exist)">Pistritto</a>, <a href="/w/index.php?title=Fornai&amp;action=edit&amp;redlink=1" class="new" title="Fornai (page does not exist)">Fornai</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Slavic</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Pekar" title="Pekar">Pekař/Pekár</a></li>
-<li><a href="/w/index.php?title=Pekarov&amp;action=edit&amp;redlink=1" class="new" title="Pekarov (page does not exist)">Pekarov</a></li>
-<li><a href="/w/index.php?title=Pekarovich&amp;action=edit&amp;redlink=1" class="new" title="Pekarovich (page does not exist)">Pekarovich</a></li>
-<li><a href="/w/index.php?title=Pekarsky&amp;action=edit&amp;redlink=1" class="new" title="Pekarsky (page does not exist)">Pekarsky</a></li>
-<li>Piekarz</li>
-<li><a href="/w/index.php?title=Chlebek&amp;action=edit&amp;redlink=1" class="new" title="Chlebek (page does not exist)">Chlebek</a></li>
-<li><a href="/w/index.php?title=Furnadjiev&amp;action=edit&amp;redlink=1" class="new" title="Furnadjiev (page does not exist)">Furnadjiev</a></li>
-<li><a href="/wiki/Khlebnikov_(disambiguation)" class="mw-redirect mw-disambig" title="Khlebnikov (disambiguation)">Khlebnikov</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/w/index.php?title=Bourbouach&amp;action=edit&amp;redlink=1" class="new" title="Bourbouach (page does not exist)">Bourbouach</a></li>
-<li>Fırıncı</li>
-<li><a href="/w/index.php?title=P%C3%A9k&amp;action=edit&amp;redlink=1" class="new" title="Pék (page does not exist)">Pék</a></li></ul>
-</div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1234
-Cached time: 20191006145129
+Parsed by mw1273
+Cached time: 20191026220319
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.396 seconds
-Real time usage: 0.518 seconds
-Preprocessor visited node count: 1401/1000000
+CPU time usage: 0.176 seconds
+Real time usage: 0.261 seconds
+Preprocessor visited node count: 376/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 16313/2097152 bytes
-Template argument size: 1056/2097152 bytes
-Highest expansion depth: 9/40
-Expensive parser function count: 2/500
+Post‐expand include size: 13280/2097152 bytes
+Template argument size: 782/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 1/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 2979/5000000 bytes
+Unstrip post‐expand size: 3732/5000000 bytes
 Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.126/10.000 seconds
-Lua memory usage: 2.56 MB/50 MB
+Lua time usage: 0.093/10.000 seconds
+Lua memory usage: 2.35 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  319.315      1 -total
- 43.46%  138.779      1 Template:Reflist
- 40.61%  129.685      1 Template:Cite_web
- 21.53%   68.754      1 Template:Infobox_surname
- 21.36%   68.221      1 Template:Surname
- 18.35%   58.584      1 Template:Dmbox
- 17.26%   55.111      1 Template:Infobox
-  8.23%   26.272      1 Template:Short_description
-  7.28%   23.245      1 Template:Pagetype
-  6.83%   21.820      1 Template:Baker-surname
+100.00%  229.272      1 -total
+ 42.99%   98.560      1 Template:Reflist
+ 36.51%   83.709      1 Template:Cite_book
+ 27.47%   62.987      1 Template:Surname
+ 23.94%   54.884      1 Template:Dmbox
+ 15.13%   34.687      1 Template:Cook-surname
+ 13.50%   30.948      1 Template:Otheruses
+ 11.71%   26.839      1 Template:Short_description
+ 10.34%   23.700      1 Template:Pagetype
+  8.12%   18.616      1 Template:Category_handler
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:16276385-0!canonical and timestamp 20191006145129 and revision id 919902640
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1870906-0!canonical and timestamp 20191026220318 and revision id 918066175
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Baker_(surname)&amp;oldid=919902640">https://en.wikipedia.org/w/index.php?title=Baker_(surname)&amp;oldid=919902640</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Cooke&amp;oldid=918066175">https://en.wikipedia.org/w/index.php?title=Cooke&amp;oldid=918066175</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:English-language_surnames" title="Category:English-language surnames">English-language surnames</a></li><li><a href="/wiki/Category:Occupational_surnames" title="Category:Occupational surnames">Occupational surnames</a></li><li><a href="/wiki/Category:Surnames_of_English_origin" title="Category:Surnames of English origin">Surnames of English origin</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_infobox_given_name_with_unknown_parameters" title="Category:Pages using infobox given name with unknown parameters">Pages using infobox given name with unknown parameters</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:English-language_surnames" title="Category:English-language surnames">English-language surnames</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -649,13 +215,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Baker+%28surname%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Baker+%28surname%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Cooke" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Cooke" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Baker_(surname)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Baker_(surname)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Cooke" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Cooke" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -670,7 +236,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Baker_(surname)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Baker_(surname)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Baker_(surname)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Cooke">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Cooke&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Cooke&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -709,35 +275,35 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Baker_(surname)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Baker_(surname)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Baker_(surname)&amp;oldid=919902640" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Baker_(surname)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2658150" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Baker_%28surname%29&amp;id=919902640" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Cooke" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Cooke" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Cooke&amp;oldid=918066175" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Cooke&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q658676" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Cooke&amp;id=918066175" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
 			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
 			<div class="body">
 								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Baker_(surname)" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Baker" hreflang="en">Wikispecies</a></li>				</ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Cooke_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Baker+%28surname%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Baker+%28surname%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Baker_(surname)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Cooke">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Cooke&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Cooke&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Baker_(s%C3%A8%E2%81%BF)" title="Baker (sèⁿ) – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Baker_(Familienname)" title="Baker (Familienname) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Baker_(priimek)" title="Baker (priimek) – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Baker_(efternamn)" title="Baker (efternamn) – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%91%D0%B5%D0%B9%D0%BA%D0%B5%D1%80_(%D0%BF%D1%80%D1%96%D0%B7%D0%B2%D0%B8%D1%89%D0%B5)" title="Бейкер (прізвище) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2658150#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Cooke" title="Cooke – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D1%83%D0%BA" title="Кук – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Cooke" title="Cooke – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Cooke" title="Cooke – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Cooke" title="Cooke – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Cooke" title="Cooke – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Cooke" title="Cooke – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Cooke" title="Cooke – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Cooke" title="Cooke – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Cooke" title="Cooke – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BA" title="Кук – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Cooke" title="Cooke – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Cooke" title="Cooke – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D1%83%D0%BA" title="Кук – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q658676#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 6 October 2019, at 14:51<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 26 September 2019, at 21:19<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -748,7 +314,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Baker_(surname)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Cooke&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -760,8 +326,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.396","walltime":"0.518","ppvisitednodes":{"value":1401,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":16313,"limit":2097152},"templateargumentsize":{"value":1056,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":2979,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  319.315      1 -total"," 43.46%  138.779      1 Template:Reflist"," 40.61%  129.685      1 Template:Cite_web"," 21.53%   68.754      1 Template:Infobox_surname"," 21.36%   68.221      1 Template:Surname"," 18.35%   58.584      1 Template:Dmbox"," 17.26%   55.111      1 Template:Infobox","  8.23%   26.272      1 Template:Short_description","  7.28%   23.245      1 Template:Pagetype","  6.83%   21.820      1 Template:Baker-surname"]},"scribunto":{"limitreport-timeusage":{"value":"0.126","limit":"10.000"},"limitreport-memusage":{"value":2687994,"limit":52428800}},"cachereport":{"origin":"mw1234","timestamp":"20191006145129","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Baker (surname)","url":"https:\/\/en.wikipedia.org\/wiki\/Baker_(surname)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2658150","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2658150","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-03-13T18:17:10Z","dateModified":"2019-10-06T14:51:23Z","headline":"family name"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":103,"wgHostname":"mw1261"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.176","walltime":"0.261","ppvisitednodes":{"value":376,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":13280,"limit":2097152},"templateargumentsize":{"value":782,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3732,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  229.272      1 -total"," 42.99%   98.560      1 Template:Reflist"," 36.51%   83.709      1 Template:Cite_book"," 27.47%   62.987      1 Template:Surname"," 23.94%   54.884      1 Template:Dmbox"," 15.13%   34.687      1 Template:Cook-surname"," 13.50%   30.948      1 Template:Otheruses"," 11.71%   26.839      1 Template:Short_description"," 10.34%   23.700      1 Template:Pagetype","  8.12%   18.616      1 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.093","limit":"10.000"},"limitreport-memusage":{"value":2465399,"limit":52428800}},"cachereport":{"origin":"mw1273","timestamp":"20191026220319","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Cooke","url":"https:\/\/en.wikipedia.org\/wiki\/Cooke","sameAs":"http:\/\/www.wikidata.org\/entity\/Q658676","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q658676","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-05-11T10:55:32Z","dateModified":"2019-09-26T21:19:28Z","headline":"family name"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":392,"wgHostname":"mw1273"});});</script>
 </body>
 </html>

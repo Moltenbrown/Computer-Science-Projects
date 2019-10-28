@@ -2,35 +2,35 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Walker (surname) - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Walker_(surname)","wgTitle":"Walker (surname)","wgCurRevisionId":915231575,"wgRevisionId":915231575,"wgArticleId":250543,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using infobox given name with unknown parameters","Articles with short description","All set index articles","Surnames","English-language surnames","German-language surnames","Occupational surnames"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
-"wgRelevantPageName":"Walker_(surname)","wgRelevantArticleId":250543,"wgRequestId":"Xa43OQpAAD4AAJLadqoAAAAR","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1158605","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading",
-"ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+<title>Nisba (onomastics) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Nisba_(onomastics)","wgTitle":"Nisba (onomastics)","wgCurRevisionId":903150311,"wgRevisionId":903150311,"wgArticleId":5762980,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Arabic-language text","Arabic given names","Nisbas","Surnames of Arabic origin","Persian given names","Names by culture","Urdu given names"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nisba_(onomastics)"
+,"wgRelevantArticleId":5762980,"wgRequestId":"XbHySQpAIDEAAHHMcZkAAADD","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Nisbat_(onomastics)","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Nisba_(onomastics)","wgWikibaseItemId":"Q1054545","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":
+"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
 "ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.2"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Walker_(surname)"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Walker_(surname)&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Walker_(surname)&amp;action=edit"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Nisba_(onomastics)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Nisba_(onomastics)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Nisba_(onomastics)&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Walker_(surname)"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Nisba_(onomastics)"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Walker_surname rootpage-Walker_surname skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Nisba_onomastics rootpage-Nisba_onomastics skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -39,364 +39,164 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Walker (surname)</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Nisba (onomastics)</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
-		<div id="contentSub"></div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Nisbat_(onomastics)&amp;redirect=no" class="mw-redirect" title="Nisbat (onomastics)">Nisbat (onomastics)</a>)</span></div>
 		
 		
 		
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em"><caption>Walker</caption><tbody><tr><th scope="row">Pronunciation</th><td><span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="&#39;w&#39; in &#39;wind&#39;">w</span><span title="/ɔː/: &#39;au&#39; in &#39;fraud&#39;">ɔː</span><span title="&#39;k&#39; in &#39;kind&#39;">k</span><span title="/ər/: &#39;er&#39; in &#39;letter&#39;">ər</span></span>/</a></span></span></td></tr><tr><th scope="row"><a href="/wiki/Language" title="Language">Language</a>(s)</th><td><a href="/wiki/English_language" title="English language">English</a>, <a href="/wiki/Scots_language" title="Scots language">Scots</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>, <a href="/wiki/Middle_High_German" title="Middle High German">Middle High German</a>, <a href="/wiki/German_language" title="German language">German</a></td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Origin</th></tr><tr><th scope="row">Meaning</th><td>A <i><a href="/wiki/Fulling" title="Fulling">walker</a>,</i> or one who "walked" on raw, damp cloth in order to thicken it.</td></tr><tr><th scope="row">Region of origin</th><td>Europe</td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Other names</th></tr><tr><th scope="row">Variant form(s)</th><td><a href="/wiki/Welker" title="Welker">Welker</a>, Walcher, Welcker, Wallker, Walkyr, Walkere, <i>Wealcan</i>, <i>Walcere</i></td></tr></tbody></table>
-<p><b>Walker</b> is an <a href="/wiki/English_name" title="English name">English</a> and <a href="/wiki/German_name" title="German name">German</a> <a href="/wiki/Surname" title="Surname">surname</a> derived from either a <a href="/wiki/Fulling" title="Fulling">fuller</a>, from the <a href="/wiki/Middle_High_German" title="Middle High German">Middle High German</a> <i>walker,</i><sup id="cite_ref-:0_2-0" class="reference"><a href="#cite_note-:0-2">&#91;2&#93;</a></sup> meaning "a fuller of cloth", or an officer whose duty consisted of walking or inspecting a certain part of a forest. The surname "Walker" was first found in Germany where records of the name date back to the thirteenth century. In 1253, Sigelo dictus Welkere was recorded in <a href="/wiki/Wei%C3%9Fenburg_in_Bayern" title="Weißenburg in Bayern">Weissenburg</a>,<sup id="cite_ref-:0_2-1" class="reference"><a href="#cite_note-:0-2">&#91;2&#93;</a></sup> and in 1209, Bruno Welkiner was a citizen of <a href="/wiki/Cologne" title="Cologne">Cologne</a>.<sup id="cite_ref-:0_2-2" class="reference"><a href="#cite_note-:0-2">&#91;2&#93;</a></sup> The Walker Families of <a href="/wiki/England" title="England">England</a> are believed to originate from <a href="/wiki/Yorkshire" title="Yorkshire">Yorkshire</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>.
-</p><p>With close to 100,000 bearers, Walker is the 18th most common surname in England.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> As of the 2000 U.S. Census, 501,307 people had the surname Walker, making it the 28th most common surname in America.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> It is the 14th most common surname in Australia, with 26,688 people as of 2007.<sup id="cite_ref-Australia1_6-0" class="reference"><a href="#cite_note-Australia1-6">&#91;6&#93;</a></sup>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>In <a href="/wiki/Arabic_name" title="Arabic name">Arabic names</a>, a <b>nisba</b> (also spelled <i>nesba</i>, sometimes <i>nesbat</i>&#160;; <a href="/wiki/Arabic_language" class="mw-redirect" title="Arabic language">Arabic</a>: <span lang="ar" dir="rtl">نسبة</span>&#8206; <i><i lang="ar-Latn" title="American Library Association – Library of Congress transliteration">nisbah</i></i>, "attribution") is an adjective indicating the person's place of origin, tribal affiliation, or ancestry, used at the end of the name and occasionally ending in the <a href="/wiki/Suffix" title="Suffix">suffix</a> <i>-iyy(ah)</i>. Nisbah is originally an Arabic word that was passed to many other languages such as <a href="/wiki/Turkish_language" title="Turkish language">Turkish</a>, <a href="/wiki/Persian_language" title="Persian language">Persian</a> and <a href="/wiki/Urdu_language" class="mw-redirect" title="Urdu language">Urdu</a>.
+</p><p>In the usage of Persian, Turkish and Urdu, it is pronounced/written exclusively <i>nisbat</i>. In <a href="/wiki/Arabic_grammar" title="Arabic grammar">Arabic usage</a>, that pronunciation occurs when the word is uttered in its <a href="/wiki/Construct_state#Arabic" title="Construct state">construct state</a> only.
+</p><p>The practice has been adopted in <a href="/wiki/Iranian_name" class="mw-redirect" title="Iranian name">Iranian names</a> and South Asian Muslim names.  The nisba has sometimes become a <a href="/wiki/Surname" title="Surname">surname</a>.
 </p>
 <div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#People_with_the_surname"><span class="tocnumber">1</span> <span class="toctext">People with the surname</span></a>
+<li class="toclevel-1 tocsection-1"><a href="#Original_use"><span class="tocnumber">1</span> <span class="toctext">Original use</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Use_in_onomastics"><span class="tocnumber">2</span> <span class="toctext">Use in onomastics</span></a>
 <ul>
-<li class="toclevel-2 tocsection-2"><a href="#Arts_and_letters"><span class="tocnumber">1.1</span> <span class="toctext">Arts and letters</span></a></li>
-<li class="toclevel-2 tocsection-3"><a href="#Business"><span class="tocnumber">1.2</span> <span class="toctext">Business</span></a></li>
-<li class="toclevel-2 tocsection-4"><a href="#Film_and_radio"><span class="tocnumber">1.3</span> <span class="toctext">Film and radio</span></a></li>
-<li class="toclevel-2 tocsection-5"><a href="#Musicians_and_singers"><span class="tocnumber">1.4</span> <span class="toctext">Musicians and singers</span></a></li>
-<li class="toclevel-2 tocsection-6"><a href="#Actors"><span class="tocnumber">1.5</span> <span class="toctext">Actors</span></a></li>
-<li class="toclevel-2 tocsection-7"><a href="#Dancers"><span class="tocnumber">1.6</span> <span class="toctext">Dancers</span></a></li>
-<li class="toclevel-2 tocsection-8"><a href="#Military"><span class="tocnumber">1.7</span> <span class="toctext">Military</span></a></li>
-<li class="toclevel-2 tocsection-9"><a href="#Politics_and_law"><span class="tocnumber">1.8</span> <span class="toctext">Politics and law</span></a></li>
-<li class="toclevel-2 tocsection-10"><a href="#Science"><span class="tocnumber">1.9</span> <span class="toctext">Science</span></a></li>
-<li class="toclevel-2 tocsection-11"><a href="#Sports"><span class="tocnumber">1.10</span> <span class="toctext">Sports</span></a></li>
-<li class="toclevel-2 tocsection-12"><a href="#Miscellaneous"><span class="tocnumber">1.11</span> <span class="toctext">Miscellaneous</span></a></li>
-<li class="toclevel-2 tocsection-13"><a href="#Disambiguations"><span class="tocnumber">1.12</span> <span class="toctext">Disambiguations</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Places"><span class="tocnumber">2.1</span> <span class="toctext">Places</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Tribes,_clans_or_families"><span class="tocnumber">2.2</span> <span class="toctext">Tribes, clans  or families</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#People"><span class="tocnumber">2.3</span> <span class="toctext">People</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Faith"><span class="tocnumber">2.4</span> <span class="toctext">Faith</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Multiples"><span class="tocnumber">2.5</span> <span class="toctext">Multiples</span></a></li>
 </ul>
 </li>
-<li class="toclevel-1 tocsection-14"><a href="#People_with_the_given_name"><span class="tocnumber">2</span> <span class="toctext">People with the given name</span></a></li>
-<li class="toclevel-1 tocsection-15"><a href="#Fictional_characters"><span class="tocnumber">3</span> <span class="toctext">Fictional characters</span></a></li>
-<li class="toclevel-1 tocsection-16"><a href="#Other"><span class="tocnumber">4</span> <span class="toctext">Other</span></a></li>
-<li class="toclevel-1 tocsection-17"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
-<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Examples"><span class="tocnumber">3</span> <span class="toctext">Examples</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
 </ul>
 </div>
 
-<h2><span class="mw-headline" id="People_with_the_surname">People with the surname</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=1" title="Edit section: People with the surname">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Arts_and_letters">Arts and letters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=2" title="Edit section: Arts and letters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Ada_Hill_Walker" title="Ada Hill Walker">Ada Hill Walker</a> (1879-1955), scientific illustrator</li>
-<li><a href="/wiki/Alice_Walker" title="Alice Walker">Alice Walker</a> (born 1944), American author</li>
-<li><a href="/wiki/Derek_Walker" title="Derek Walker">Derek Walker</a> (1929–2015), British architect</li>
-<li><a href="/wiki/Frank_Buckley_Walker" title="Frank Buckley Walker">Frank Buckley Walker</a> (1889–1963), American musical talent agent and author</li>
-<li><a href="/wiki/Frederick_Walker_(painter)" title="Frederick Walker (painter)">Frederick Walker (painter)</a> (1840–1875), English painter and illustrator</li>
-<li><a href="/wiki/James_F._Walker" title="James F. Walker">James F. Walker</a> (1913–1994), American graphic artist</li>
-<li><a href="/wiki/Kara_Walker" title="Kara Walker">Kara Walker</a> (born 1969), American artist</li>
-<li><a href="/wiki/Laura_S._Walker" title="Laura S. Walker">Laura S. Walker</a> (1861-1955), American writer</li>
-<li><a href="/wiki/Margaret_Walker" title="Margaret Walker">Margaret Walker</a> (1915–1998), American poet</li>
-<li><a href="/wiki/Murray_Walker" title="Murray Walker">Murray Walker</a> (born 1923), English journalist</li>
-<li><a href="/wiki/Obadiah_Walker" title="Obadiah Walker">Obadiah Walker</a> (1616–1699), English man of letters</li>
-<li><a href="/wiki/Ranginui_Walker" title="Ranginui Walker">Ranginui Walker</a> (1932–2016), Māori academic and writer</li>
-<li><a href="/wiki/Ray_Walker_(artist)" title="Ray Walker (artist)">Ray Walker (artist)</a> (1945–1984), British mural artist</li>
-<li><a href="/wiki/Ryan_Walker_(cartoonist)" title="Ryan Walker (cartoonist)">Ryan Walker (cartoonist)</a> (1870–1932), American political cartoonist</li>
-<li><a href="/wiki/W._H._Romaine-Walker" title="W. H. Romaine-Walker">William Henry Romaine-Walker</a> (1854–1940), English architect and interior decorator</li></ul>
-<h3><span class="mw-headline" id="Business">Business</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=3" title="Edit section: Business">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Aldace_F._Walker" title="Aldace F. Walker">Aldace F. Walker</a> (1842–1901), American railroad executive</li>
-<li><a href="/wiki/Darren_Walker" title="Darren Walker">Darren Walker</a>, African-American lawyer and banker</li>
-<li><a href="/wiki/Gene_S._Walker,_Sr." class="mw-redirect" title="Gene S. Walker, Sr.">Gene S. Walker, Sr.</a> (1926–2015), American rancher and businessman</li>
-<li><a href="/wiki/Joseph_Edison_Walker" title="Joseph Edison Walker">Joseph Edison Walker</a> (1879–1958), American insurance executive and banker</li>
-<li><a href="/wiki/Madam_C._J._Walker" title="Madam C. J. Walker">Madam C. J. Walker</a>, African-American entrepreneur</li>
-<li><a href="/wiki/Norman_W._Walker" title="Norman W. Walker">Norman W. Walker</a> (1886–1985), English-American pioneer in vegetable juicing</li>
-<li><a href="/wiki/Thomas_B._Walker,_Jr." class="mw-redirect" title="Thomas B. Walker, Jr.">Thomas B. Walker, Jr.</a> (1923–2016), American investment banker</li></ul>
-<h3><span class="mw-headline" id="Film_and_radio">Film and radio</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=4" title="Edit section: Film and radio">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Anna_Walker_(television_presenter)" title="Anna Walker (television presenter)">Anna Walker (television presenter)</a> (born 1962), English television presenter</li>
-<li><a href="/wiki/Cas_Walker" title="Cas Walker">Cas Walker</a> (1902–1998), American grocer and radio/TV producer from Tennessee</li>
-<li><a href="/wiki/Ed_Walker_(radio_personality)" title="Ed Walker (radio personality)">Ed Walker (radio personality)</a> (1932–2015), radio personality</li>
-<li><a href="/wiki/Hal_Walker" title="Hal Walker">Hal Walker</a> (1896–1972), American director</li>
-<li><a href="/wiki/H._M._Walker" title="H. M. Walker">H. M. Walker</a> (c. 1884 – 1937), American scriptwriter</li>
-<li><a href="/wiki/Lesley_Walker" title="Lesley Walker">Lesley Walker</a>, British film editor</li>
-<li><a href="/wiki/Walter_Walker_(actor)" title="Walter Walker (actor)">Walter Walker</a> (1864–1947), American actor of the stage and screen</li></ul>
-<h3><span class="mw-headline" id="Musicians_and_singers">Musicians and singers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=5" title="Edit section: Musicians and singers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Alan_Walker_(music_producer)" title="Alan Walker (music producer)">Alan Walker (music producer)</a>, Norwegian DJ and music producer</li>
-<li><a href="/wiki/Billy_Walker_(musician)" title="Billy Walker (musician)">Billy Walker (musician)</a> (1929–2006), American country music singer</li>
-<li><a href="/wiki/Butch_Walker" title="Butch Walker">Butch Walker</a> (born 1969), American musician</li>
-<li>Carlos Walker (1976–2016), birth name of <a href="/wiki/Shawty_Lo" title="Shawty Lo">Shawty Lo</a>, American rap musician</li>
-<li><a href="/wiki/Charlie_Walker_(musician)" title="Charlie Walker (musician)">Charlie Walker (musician)</a> (1926–2008), American country music singer-songwriter</li>
-<li><a href="/wiki/Cindy_Walker" title="Cindy Walker">Cindy Walker</a> (1918–2006), American songwriter, country singer</li>
-<li><a href="/wiki/Clay_Walker" title="Clay Walker">Clay Walker</a>, American country music singer-songwriter</li>
-<li><a href="/wiki/John_Walker_(organist)" title="John Walker (organist)">John Walker (organist)</a>, (born 1941) recording artist</li>
-<li><a href="/wiki/Junior_Walker" title="Junior Walker">Junior Walker</a> (1931–1995), musician</li>
-<li><a href="/wiki/Shirley_Walker" title="Shirley Walker">Shirley Walker</a> (1945–2006), American music composer</li>
-<li><a href="/wiki/Stan_Walker" title="Stan Walker">Stan Walker</a> (born 1990), Australian-New Zealand recording artist, actor, and television personality</li>
-<li><a href="/wiki/Stewart_Walker" title="Stewart Walker">Stewart Walker</a>, American electronic musician</li>
-<li><a href="/wiki/T-Bone_Walker" title="T-Bone Walker">T-Bone Walker</a> (1910–1975), American musician</li>
-<li><a href="/wiki/Vincent_Walker" title="Vincent Walker">Vincent Walker</a>, American singer and trumpet player</li></ul>
-<h3><span class="mw-headline" id="Actors">Actors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=6" title="Edit section: Actors">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Clint_Walker" title="Clint Walker">Clint Walker</a> (1927–2018), American actor</li>
-<li><a href="/wiki/Doug_Walker_(actor)" class="mw-redirect" title="Doug Walker (actor)">Doug Walker</a> (born 1981), American actor and internet personality</li>
-<li><a href="/wiki/Jimmie_Walker" title="Jimmie Walker">Jimmie Walker</a> (born 1947) American actor and comedian, best known as "J.J." in the sitcom "Good Times" and his signature catchphrase "Dy-no-mite!"</li>
-<li><a href="/wiki/Liza_Walker" title="Liza Walker">Liza Walker</a> (born 1972), English actress</li>
-<li><a href="/wiki/Marcy_Walker" title="Marcy Walker">Marcy Walker</a> (born 1961), American actress</li>
-<li><a href="/wiki/Nancy_Walker" title="Nancy Walker">Nancy Walker</a> (1922–1992), American actress</li>
-<li><a href="/wiki/Paul_Walker" title="Paul Walker">Paul Walker</a> (1973–2013), American actor</li>
-<li><a href="/wiki/Tonja_Walker" title="Tonja Walker">Tonja Walker</a> (born 1960), American soap opera actress</li>
-<li><a href="/wiki/Jonathan_Lloyd_Walker" title="Jonathan Lloyd Walker">Jonathan Walker</a> (born 1976), British actor</li></ul>
-<h3><span class="mw-headline" id="Dancers">Dancers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=7" title="Edit section: Dancers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Elizabeth_Walker_(dancer)" class="mw-redirect" title="Elizabeth Walker (dancer)">Elizabeth Walker (dancer)</a>, American ballet dancer</li>
-<li><a href="/wiki/Travis_Walker_(dancer)" class="mw-redirect" title="Travis Walker (dancer)">Travis Walker (dancer)</a> American contemporary ballet dancer</li></ul>
-<h3><span class="mw-headline" id="Military">Military</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=8" title="Edit section: Military">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Arnold_Walker_(RAF_officer)" title="Arnold Walker (RAF officer)">Arnold Walker (RAF officer)</a>, British fighter pilot</li>
-<li><a href="/wiki/Diana_Barnato_Walker" title="Diana Barnato Walker">Diana Barnato Walker</a> (1918–2008), British support pilot of World War II</li>
-<li><a href="/wiki/Duncan_Stephen_Walker" title="Duncan Stephen Walker">Duncan Stephen Walker</a>, American Union brevet brigadier general</li>
-<li><a href="/wiki/Edward_Alexander_Walker" title="Edward Alexander Walker">Edward Alexander Walker</a>, American Medal of Honor recipient</li>
-<li>Major General <a href="/wiki/Edwin_Walker" title="Edwin Walker">Edwin Walker</a>, American general</li>
-<li>Lieutenant General <a href="/wiki/Emmett_H._Walker,_Jr." class="mw-redirect" title="Emmett H. Walker, Jr.">Emmett H. Walker, Jr.</a>, American National Guard chief</li>
-<li><a href="/wiki/Frank_O._Walker" class="mw-redirect" title="Frank O. Walker">Frank O. Walker</a>, Philippine–American War Medal of Honor recipient</li>
-<li>Major General <a href="/wiki/Fred_L._Walker" title="Fred L. Walker">Fred L. Walker</a>, (1887–1969), American general</li>
-<li>Captain <a href="/wiki/Frederic_John_Walker" title="Frederic John Walker">Frederic John Walker</a> (1896–1944), British naval officer</li>
-<li>Surgeon-General <a href="/wiki/James_Pattison_Walker" title="James Pattison Walker">James Pattison Walker</a> (1823-1906), British Indian army surgeon</li>
-<li><a href="/wiki/John_Anthony_Walker" title="John Anthony Walker">John Anthony Walker</a> (1937-2014), US Navy communications specialist convicted in 1985 of spying for the Soviet Union</li>
-<li><a href="/wiki/Lucius_M._Walker" title="Lucius M. Walker">Lucius M. Walker</a> (1829–1863), American soldier</li>
-<li><a href="/wiki/Meriwether_Lewis_Walker" title="Meriwether Lewis Walker">Meriwether Lewis Walker</a>, (1869-1947) American brigadier general</li>
-<li><a href="/wiki/Moses_B._Walker" title="Moses B. Walker">Moses B. Walker</a>, American Union brevet brigadier general and Texas judge</li>
-<li><a href="/wiki/Samuel_Hamilton_Walker" title="Samuel Hamilton Walker">Samuel Hamilton Walker</a> (1817–1847), American soldier and lawman</li>
-<li>General <a href="/wiki/Walton_Walker" title="Walton Walker">Walton Walker</a> (1889–1950), American general</li></ul>
-<h3><span class="mw-headline" id="Politics_and_law">Politics and law</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=9" title="Edit section: Politics and law">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Amasa_Walker" title="Amasa Walker">Amasa Walker</a> (1799–1875), American politician, U.S. Representative from Massachusetts, businessman, and economist</li>
-<li>Sir Alfred <a href="/wiki/Cecil_Walker" title="Cecil Walker">Cecil Walker</a> (1924–2007), UK politician, MP from Northern Ireland</li>
-<li><a href="/wiki/Bret_Walker" title="Bret Walker">Bret William Walker</a> (born 1954), Australian barrister</li>
-<li><a href="/wiki/Clifford_Walker" title="Clifford Walker">Clifford Walker</a> (1877–1954), American politician, governor of Georgia</li>
-<li><a href="/wiki/Dan_Walker_(politician)" title="Dan Walker (politician)">Dan Walker</a> (1922–2015), American politician, governor of Illinois</li>
-<li><a href="/wiki/David_S._Walker" title="David S. Walker">David S. Walker</a>, 8th governor of Florida</li>
-<li><a href="/wiki/Francis_Walker_(Virginia)" title="Francis Walker (Virginia)">Francis Walker (Virginia)</a> (1764–1806), U.S. Representative from Virginia</li>
-<li><a href="/wiki/Frank_Comerford_Walker" title="Frank Comerford Walker">Frank Comerford Walker</a> (1886–1959), American political figure and Postmaster General</li>
-<li><a href="/wiki/Jimmy_Walker" title="Jimmy Walker">Jimmy Walker</a>, aka "Beau James"(1881-1946), American. politician, Mayor of New York City (1926-1932), member New York State Senate (1915-1925), member New York State Assembly (1910-1914)</li>
-<li><a href="/wiki/Ignacio_Walker" title="Ignacio Walker">Ignacio Walker</a> (born 1956), Chilean politician</li>
-<li><a href="/wiki/Isaac_P._Walker" title="Isaac P. Walker">Isaac P. Walker</a> (1815–1872), American politician, U.S. Senator from Wisconsin</li>
-<li><a href="/wiki/Lo_Walker" title="Lo Walker">Lo Walker</a> (born 1933), American politician, mayor of Bossier City, Louisiana</li>
-<li><a href="/wiki/Lyman_Walker" title="Lyman Walker">Lyman Walker</a> (1799–1886), American politician</li>
-<li><a href="/wiki/Mary_Edwards_Walker" title="Mary Edwards Walker">Mary Edwards Walker</a> (1832–1919), American activist</li>
-<li><a href="/wiki/Norman_R._Walker" title="Norman R. Walker">Norman R. Walker</a> (1889–1949), American politician</li>
-<li><a href="/wiki/Olene_S._Walker" class="mw-redirect" title="Olene S. Walker">Olene S. Walker</a> (1930–2015), American politician, governor of Utah</li>
-<li><a href="/wiki/Patricio_Walker" title="Patricio Walker">Patricio Walker</a> (born 1969), Chilean politician</li>
-<li><a href="/wiki/Patrick_Gordon_Walker" title="Patrick Gordon Walker">Patrick Gordon Walker</a> (1907–1980), British politician</li>
-<li><a href="/wiki/Pinkney_H._Walker" title="Pinkney H. Walker">Pinkney H. Walker</a> (1815–1885), American jurist</li>
-<li><a href="/wiki/R._Tracy_Walker" title="R. Tracy Walker">R. Tracy Walker</a>, American politician from North Carolina</li>
-<li><a href="/wiki/Rebecca_Walker" title="Rebecca Walker">Rebecca Walker</a> (born 1969), American activist</li>
-<li><a href="/wiki/Scott_Walker_(politician)" title="Scott Walker (politician)">Scott Walker</a> (born 1967) American politician, governor of Wisconsin</li>
-<li><a href="/wiki/William_H._Walker_(New_York_City)" title="William H. Walker (New York City)">William H. Walker (New York City)</a> (1842-1916) American politician, member New York Board of Aldermen (1887-1890), member New York State Assembly (1892 &amp; 1893), father of <a href="/wiki/Jimmy_Walker" title="Jimmy Walker">Jimmy Walker</a>, American politician</li></ul>
-<h3><span class="mw-headline" id="Science">Science</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=10" title="Edit section: Science">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Arthur_B._C._Walker,_Jr." class="mw-redirect" title="Arthur B. C. Walker, Jr.">Arthur B. C. Walker, Jr.</a> (1936–2001), American solar physicist</li>
-<li><a href="/wiki/Arthur_Geoffrey_Walker" title="Arthur Geoffrey Walker">Arthur Geoffrey Walker</a> (1909–2001), English cosmologist</li>
-<li><a href="/wiki/Bryant_Walker" title="Bryant Walker">Bryant Walker</a> (1856–1936), American malacologist</li>
-<li><a href="/wiki/Cyril_Walker_(paleontologist)" class="mw-redirect" title="Cyril Walker (paleontologist)">Cyril Walker (paleontologist)</a> (1939–2009)</li>
-<li><a href="/wiki/Edward_Walker_(mathematician)" title="Edward Walker (mathematician)">Edward Walker (mathematician)</a> (1820–1893), English applied mathematician</li>
-<li><a href="/wiki/Edwin_Francis_Walker" title="Edwin Francis Walker">Edwin Francis Walker</a> (1872–1956), US archaeologist, and author</li>
-<li><a href="/wiki/Francis_Walker_(entomologist)" title="Francis Walker (entomologist)">Francis Walker (entomologist)</a> (1809–1874), English entomologist</li>
-<li><a href="/wiki/Gilbert_Walker" title="Gilbert Walker">Gilbert Walker</a> (1868–1958), English meteorologist</li>
-<li><a href="/wiki/Jearl_Walker" title="Jearl Walker">Jearl Walker</a> (born 1945), American physicist</li>
-<li><a href="/wiki/Mary_Broadfoot_Walker" title="Mary Broadfoot Walker">Mary Broadfoot Walker</a> (1888–1974), Scottish doctor</li>
-<li><a href="/wiki/Roger_G._Walker" title="Roger G. Walker">Roger G. Walker</a> (1939–), Canadian geologist</li>
-<li><a href="/wiki/Sears_Cook_Walker" title="Sears Cook Walker">Sears Cook Walker</a> (1805–1853), American astronomer</li></ul>
-<h3><span class="mw-headline" id="Sports">Sports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=11" title="Edit section: Sports">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Albert_Walker_(footballer)" title="Albert Walker (footballer)">Albert Walker (footballer)</a> (1910–1993), English footballer</li>
-<li><a href="/wiki/Alf_Walker" title="Alf Walker">Alf Walker</a>, English football manager</li>
-<li><a href="/wiki/Allan_Walker" title="Allan Walker">Allan Walker</a> (born 1986), Scottish footballer</li>
-<li><a href="/wiki/Anthony_Walker_Jr." title="Anthony Walker Jr.">Anthony Walker Jr.</a> (born 1995), American football player</li>
-<li><a href="/wiki/Antoine_Walker" title="Antoine Walker">Antoine Walker</a> (born 1976), American basketball player</li>
-<li><a href="/wiki/Arnold_Walker" title="Arnold Walker">Arnold Walker</a> ('Boxer' Walker), former international rugby league player</li>
-<li><a href="/wiki/Ben_Walker" title="Ben Walker">Ben Walker</a>, Australian rugby league player</li>
-<li><a href="/wiki/Casey_Walker" title="Casey Walker">Casey Walker</a> (born 1989), American football player</li>
-<li><a href="/wiki/Clifford_Walker_(cricketer)" title="Clifford Walker (cricketer)">Clifford Walker (cricketer)</a></li>
-<li><a href="/wiki/Cyril_Walker" title="Cyril Walker">Cyril Walker</a> (1892–1948), English golfer</li>
-<li><a href="/wiki/D%27Andre_Walker" title="D&#39;Andre Walker">D'Andre Walker</a> (born 1997), American football player</li>
-<li><a href="/wiki/DeMarcus_Walker" title="DeMarcus Walker">DeMarcus Walker</a> (born 1994), American football player</li>
-<li><a href="/wiki/Derek_Walker_(footballer)" title="Derek Walker (footballer)">Derek Walker (footballer)</a> (born 1965), Scottish footballer</li>
-<li><a href="/wiki/Derrick_Walker" title="Derrick Walker">Derrick Walker</a>, auto racer</li>
-<li><a href="/wiki/Derrick_Walker_(American_football)" title="Derrick Walker (American football)">Derrick Walker (American football)</a>, American football player</li>
-<li><a href="/wiki/Des_Walker" title="Des Walker">Des Walker</a>, English footballer</li>
-<li><a href="/wiki/Doak_Walker" title="Doak Walker">Doak Walker</a> (1927–1998), American football player</li>
-<li><a href="/wiki/Ed_Walker_(baseball)" title="Ed Walker (baseball)">Ed Walker (baseball)</a>, baseball player</li>
-<li><a href="/wiki/Fraser_Walker" title="Fraser Walker">Fraser Walker</a> (born 1972), Scottish medley swimmer</li>
-<li><a href="/wiki/Geoff_Walker_(canoeist)" title="Geoff Walker (canoeist)">Geoff Walker (canoeist)</a> (1952–1997), New Zealand canoeist</li>
-<li><a href="/wiki/Geoff_Walker_(ice_hockey)" title="Geoff Walker (ice hockey)">Geoff Walker (ice hockey)</a> (born 1987), Canadian ice hockey player</li>
-<li><a href="/wiki/Georgia_Walker" title="Georgia Walker">Georgia Walker</a> (born 1998), Australian rules footballer</li>
-<li><a href="/wiki/Glen_Walker" title="Glen Walker">Glen Walker</a> (born 1952), American football player</li>
-<li><a href="/wiki/Harold_Walker_(cricketer)" title="Harold Walker (cricketer)">Harold Walker (cricketer)</a> (1918–2000), English cricketer</li>
-<li><a href="/wiki/Harry_Walker" title="Harry Walker">Harry Walker</a> (1916–1999), American baseball player, manager, and coach</li>
-<li><a href="/wiki/Herschel_Walker" title="Herschel Walker">Herschel Walker</a> (born 1962), American football player</li>
-<li><a href="/wiki/Ian_Walker_(footballer)" title="Ian Walker (footballer)">Ian Walker (footballer)</a> (born 1971), English footballer</li>
-<li><a href="/wiki/Ian_Walker_(sailor)" title="Ian Walker (sailor)">Ian Walker (sailor)</a> (born 1970), English sailboat racer</li>
-<li><a href="/wiki/Jason_Walker_(footballer)" class="mw-redirect" title="Jason Walker (footballer)">Jason Walker (footballer)</a> (born 1984), English footballer</li>
-<li><a href="/wiki/Josh_Walker_(American_football)" title="Josh Walker (American football)">Josh Walker (American football)</a> (born 1991), American football player</li>
-<li><a href="/wiki/Josh_Walker_(Australian_footballer)" title="Josh Walker (Australian footballer)">Josh Walker (Australian footballer)</a> (born 1992), Australian rules footballer</li>
-<li><a href="/wiki/Karen_Walker_(footballer)" title="Karen Walker (footballer)">Karen Walker (footballer)</a> (born 1969), English association footballer</li>
-<li><a href="/wiki/Kemba_Walker" title="Kemba Walker">Kemba Walker</a> (born 1990), American professional basketball player</li>
-<li><a href="/wiki/Kyle_Walker" title="Kyle Walker">Kyle Walker</a> (born 1990), English footballer</li>
-<li><a href="/wiki/Larry_Walker" title="Larry Walker">Larry Walker</a> (born 1966), Canadian baseball player</li>
-<li><a href="/wiki/Laura_Walker" title="Laura Walker">Laura Walker</a> (born 1970), American swimmer</li>
-<li><a href="/wiki/Max_Walker" title="Max Walker">Max Walker</a>, Australian cricketer</li>
-<li><a href="/wiki/Mickey_Walker_(boxer)" title="Mickey Walker (boxer)">Mickey Walker (boxer)</a> (1903–1981), American boxer</li>
-<li><a href="/wiki/Mysterious_Walker" title="Mysterious Walker">Mysterious Walker</a> (1884–1958), American athlete and coach</li>
-<li><a href="/wiki/Nathan_Walker" title="Nathan Walker">Nathan Walker</a> (born 1994), Australian ice hockey player</li>
-<li><a href="/wiki/Neil_Walker_(baseball)" class="mw-redirect" title="Neil Walker (baseball)">Neil Walker (baseball)</a> (born 1985), American baseball player</li>
-<li><a href="/wiki/Neil_Walker_(swimmer)" title="Neil Walker (swimmer)">Neil Walker (swimmer)</a> (born 1976), American swimmer</li>
-<li><a href="/wiki/Peahead_Walker" title="Peahead Walker">Peahead Walker</a> (1899–1970), American football and baseball coach</li>
-<li><a href="/wiki/Phillip_Walker_(American_football)" title="Phillip Walker (American football)">Phillip Walker (American football)</a> (born 1995), American football player</li>
-<li><a href="/wiki/Rachel_Walker_(field_hockey)" title="Rachel Walker (field hockey)">Rachel Walker (field hockey)</a>, English field hockey player</li>
-<li><a href="/wiki/Randy_Walker_(football_coach)" class="mw-redirect" title="Randy Walker (football coach)">Randy Walker (football coach)</a> (1954–2006), American football coach</li>
-<li><a href="/wiki/Reggie_Walker" title="Reggie Walker">Reggie Walker</a> (1889–1951), South African track and field athlete</li>
-<li><a href="/wiki/Russ_Walker_(ice_hockey)" title="Russ Walker (ice hockey)">Russ Walker (ice hockey)</a> (born 1953), ice hockey player</li>
-<li><a href="/wiki/Russ_Walker_(rugby_league)" title="Russ Walker (rugby league)">Russ Walker (rugby league)</a>, Rugby league player</li>
-<li><a href="/wiki/Sam_Walker_(footballer)" title="Sam Walker (footballer)">Sam Walker (footballer)</a>, association footballer, currently playing for Chelsea F.C.</li>
-<li><a href="/wiki/Shelby_Walker" title="Shelby Walker">Shelby Walker</a></li>
-<li><a href="/wiki/Terry_Walker_(footballer)" title="Terry Walker (footballer)">Terry Walker (footballer)</a> (born 1921), English professional footballer</li>
-<li><a href="/wiki/Tracy_Walker_(American_football)" title="Tracy Walker (American football)">Tracy Walker (American football)</a> (born 1995), American football player</li>
-<li><a href="/wiki/Wade_Walker" title="Wade Walker">Wade Walker</a>, American football player</li>
-<li><a href="/wiki/Walker_(Kent_cricketer)" class="mw-redirect" title="Walker (Kent cricketer)">Walker (Kent cricketer)</a>, English cricketer playing in 1822</li></ul>
-<h3><span class="mw-headline" id="Miscellaneous">Miscellaneous</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=12" title="Edit section: Miscellaneous">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Anna_Walker_(civil_servant)" title="Anna Walker (civil servant)">Anna Walker (civil servant)</a> (born 1951), British civil servant</li>
-<li><a href="/wiki/Darren_Walker" title="Darren Walker">Darren Walker</a>, President of Ford Foundation</li>
-<li><a href="/wiki/Eric_A._Walker_(engineer)" title="Eric A. Walker (engineer)">Eric A. Walker (engineer)</a> (1910–1995), American academic administrator</li>
-<li><a href="/wiki/Francis_Amasa_Walker" title="Francis Amasa Walker">Francis Amasa Walker</a> (1840–1897), American economist</li>
-<li><a href="/wiki/Marietta_Walker" title="Marietta Walker">Marietta Walker</a> (1834–1930), American founder of Graceland University</li>
-<li><a href="/wiki/Mort_Walker" title="Mort Walker">Mort Walker</a> (1923–2018), American cartoonist</li>
-<li><a href="/wiki/Sally_Walker" title="Sally Walker">Sally Walker</a>, Australian academic administrator</li>
-<li><a href="/wiki/Vaughn_Walker" title="Vaughn Walker">Vaughn Walker</a> (born 1944), American federal judge</li>
-<li><a href="/wiki/Williston_Walker" title="Williston Walker">Williston Walker</a> (1860–1922), American church historian</li>
-<li><a href="/wiki/Murder_of_Anthony_Walker" title="Murder of Anthony Walker">Murder of Anthony Walker</a>, 2005 event in Huyton, England</li></ul>
-<h3><span class="mw-headline" id="Disambiguations">Disambiguations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=13" title="Edit section: Disambiguations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Adam_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Adam Walker (disambiguation)">Adam Walker (disambiguation)</a></li>
-<li><a href="/wiki/Alan_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Alan Walker (disambiguation)">Alan Walker (disambiguation)</a></li>
-<li><a href="/wiki/Andrew_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Andrew Walker (disambiguation)">Andrew Walker (disambiguation)</a></li>
-<li><a href="/wiki/Andy_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Andy Walker (disambiguation)">Andy Walker (disambiguation)</a></li>
-<li><a href="/wiki/Bruce_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Bruce Walker (disambiguation)">Bruce Walker (disambiguation)</a></li>
-<li><a href="/wiki/Charles_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Charles Walker (disambiguation)">Charles Walker (disambiguation)</a></li>
-<li><a href="/w/index.php?title=Chelsea_Walker_(disambiguation)&amp;action=edit&amp;redlink=1" class="new" title="Chelsea Walker (disambiguation) (page does not exist)">Chelsea Walker (disambiguation)</a></li>
-<li><a href="/wiki/Chris_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Chris Walker (disambiguation)">Chris Walker (disambiguation)</a></li>
-<li><a href="/wiki/David_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="David Walker (disambiguation)">David Walker (disambiguation)</a></li>
-<li><a href="/wiki/Felix_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Felix Walker (disambiguation)">Felix Walker (disambiguation)</a></li>
-<li><a href="/wiki/George_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="George Walker (disambiguation)">George Walker (disambiguation)</a></li>
-<li><a href="/wiki/James_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="James Walker (disambiguation)">James Walker (disambiguation)</a></li>
-<li><a href="/wiki/John_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="John Walker (disambiguation)">John Walker (disambiguation)</a></li>
-<li><a href="/wiki/Jonathan_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Jonathan Walker (disambiguation)">Jonathan Walker (disambiguation)</a></li>
-<li><a href="/wiki/Joseph_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Joseph Walker (disambiguation)">Joseph Walker (disambiguation)</a></li>
-<li><a href="/wiki/Kevin_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Kevin Walker (disambiguation)">Kevin Walker (disambiguation)</a></li>
-<li><a href="/wiki/Lynne_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Lynne Walker (disambiguation)">Lynne Walker (disambiguation)</a></li>
-<li><a href="/wiki/Michael_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Michael Walker (disambiguation)">Michael Walker (disambiguation)</a></li>
-<li><a href="/wiki/Nicholas_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Nicholas Walker (disambiguation)">Nicholas Walker (disambiguation)</a></li>
-<li><a href="/wiki/Peter_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Peter Walker (disambiguation)">Peter Walker (disambiguation)</a></li>
-<li><a href="/wiki/Richard_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Richard Walker (disambiguation)">Richard Walker (disambiguation)</a></li>
-<li><a href="/wiki/Robert_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Robert Walker (disambiguation)">Robert Walker (disambiguation)</a></li>
-<li><a href="/wiki/Rodney_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Rodney Walker (disambiguation)">Rodney Walker (disambiguation)</a></li>
-<li><a href="/wiki/Sarah_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Sarah Walker (disambiguation)">Sarah Walker (disambiguation)</a></li>
-<li><a href="/wiki/Scott_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Scott Walker (disambiguation)">Scott Walker (disambiguation)</a></li>
-<li><a href="/wiki/Shane_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Shane Walker (disambiguation)">Shane Walker (disambiguation)</a></li>
-<li><a href="/wiki/Shaun_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Shaun Walker (disambiguation)">Shaun Walker (disambiguation)</a></li>
-<li><a href="/wiki/Thomas_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Thomas Walker (disambiguation)">Thomas Walker (disambiguation)</a></li>
-<li><a href="/wiki/Timothy_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Timothy Walker (disambiguation)">Timothy Walker (disambiguation)</a></li>
-<li><a href="/wiki/Tyler_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Tyler Walker (disambiguation)">Tyler Walker (disambiguation)</a></li>
-<li><a href="/wiki/William_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="William Walker (disambiguation)">William Walker (disambiguation)</a></li></ul>
-<h2><span class="mw-headline" id="People_with_the_given_name">People with the given name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=14" title="Edit section: People with the given name">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Notable persons with "Walker" as their given name.
+<h2><span class="mw-headline" id="Original_use">Original use</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nisba_(onomastics)&amp;action=edit&amp;section=1" title="Edit section: Original use">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Arabic_nouns_and_adjectives#Nisba" title="Arabic nouns and adjectives">Arabic nouns and adjectives §&#160;Nisba</a></div>
+<p>A <i>nisba</i> "relation" is a grammatical term referring to the suffixation of masculine -<i>iyy</i>, feminine <i>-iyyah</i> to a word to make it an adjective. As an example, the word <i>‘Arabiyy</i> (<span lang="ar" dir="rtl" title="Arabic language text">عربي</span>) means "Arab, related to Arabic, Arabian". Nisba forms are very common in Arabic names.
 </p>
-<ul><li><a href="/wiki/Walker_Butler" title="Walker Butler">Walker Butler</a>, American jurist and politician</li>
-<li><a href="/wiki/Walker_Connor" title="Walker Connor">Walker Connor</a>, American political scientist</li>
-<li><a href="/wiki/Walker_M._Curtiss" title="Walker M. Curtiss">Walker M. Curtiss</a>, American politician</li>
-<li><a href="/wiki/Walker_Evans" title="Walker Evans">Walker Evans</a>, American photographer</li>
-<li><a href="/wiki/Walker_Percy" title="Walker Percy">Walker Percy</a>, American author</li>
-<li><a href="/wiki/George_Herbert_Walker_Bush" class="mw-redirect" title="George Herbert Walker Bush">George Herbert Walker Bush</a>, US President (1989–1993)</li>
-<li><a href="/wiki/George_Walker_Bush" class="mw-redirect" title="George Walker Bush">George Walker Bush</a>, US President (2001–2009)</li></ul>
-<h2><span class="mw-headline" id="Fictional_characters">Fictional characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=15" title="Edit section: Fictional characters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Infamous_(series)#Abigail_.22Fetch.22_Walker" title="Infamous (series)">Abigail "Fetch" Walker</a>, a fictional character in the video game series <i>Infamous</i></li>
-<li><a href="/wiki/List_of_D.Gray-man_characters#Allen_Walker" title="List of D.Gray-man characters">Allen Walker</a>, the main character of <i>D.Gray-man</i></li>
-<li><a href="/wiki/Annie_Walker_(Coronation_Street)" title="Annie Walker (Coronation Street)">Annie Walker (<i>Coronation Street</i>)</a>, a character from the British television series <i>Coronation Street</i></li>
-<li>Annie Walker, a main character from the American television series <i><a href="/wiki/Covert_Affairs#Main_characters" title="Covert Affairs">Covert Affairs#Main_characters</a></i></li>
-<li>Chris Walker, antagonist of the horror game <i><a href="/wiki/Outlast" title="Outlast">Outlast</a></i></li>
-<li>Cordell Walker, title character from the TV series <i><a href="/wiki/Walker,_Texas_Ranger" title="Walker, Texas Ranger">Walker, Texas Ranger</a></i></li>
-<li>Gerald Walker, half-brother of Usui Takumi in the Japanese manga series <i><a href="/wiki/Kaichou_wa_Maid-sama!" class="mw-redirect" title="Kaichou wa Maid-sama!">Kaichou wa Maid-sama!</a></i></li>
-<li><a href="/wiki/Jack_Walker_(Coronation_Street)" class="mw-redirect" title="Jack Walker (Coronation Street)">Jack Walker (Coronation Street)</a>, original landlord of the Rovers Return in <i>Coronation Street</i></li>
-<li><a href="/wiki/Jed_Walker" title="Jed Walker">Jed Walker</a>, comic book character</li>
-<li>John, Susan, Titty, Roger and Bridget Walker, the Swallows of <i><a href="/wiki/Swallows_and_Amazons" title="Swallows and Amazons">Swallows and Amazons</a></i></li>
-<li>Mary Walker, the alter-ego of the comic book character <a href="/wiki/Typhoid_Mary_(comics)" title="Typhoid Mary (comics)">Typhoid Mary (comics)</a></li>
-<li><a href="/wiki/Molly_Walker" title="Molly Walker">Molly Walker</a>, character from the TV series <i>Heroes</i></li>
-<li><a href="/wiki/Patsy_Walker" title="Patsy Walker">Patsy Walker</a>, comic book character</li>
-<li><a href="/wiki/Renee_Walker" class="mw-redirect" title="Renee Walker">Renee Walker</a>, character from TV series <i>24</i></li>
-<li><a href="/wiki/Sarah_Walker_(Chuck)" title="Sarah Walker (Chuck)">Sarah Walker (Chuck)</a>, a character in the television show <i>Chuck</i></li>
-<li>Tommy Walker, title character of <i><a href="/wiki/Tommy_(album)" title="Tommy (album)">Tommy</a></i> by The Who</li>
-<li>The Walker family of <a href="/wiki/Brothers_%26_Sisters_(2006_TV_series)" title="Brothers &amp; Sisters (2006 TV series)"><i>Brothers &amp; Sisters</i> (2006 TV series)</a></li>
-<li>Walker, one of the two main villains in <i><a href="/wiki/Teenage_Mutant_Ninja_Turtles_III" title="Teenage Mutant Ninja Turtles III">Teenage Mutant Ninja Turtles III</a></i></li>
-<li><a href="/wiki/Walker_Boh" class="mw-redirect" title="Walker Boh">Walker Boh</a>, character from the <i>Shannara</i> series</li>
-<li><a href="/wiki/Walker_(Danny_Phantom)" class="mw-redirect" title="Walker (Danny Phantom)">Walker (Danny Phantom)</a>, a character in animated TV series <i>Danny Phantom</i></li>
-<li>Mr. Walker, a character played by Goofy in the Goofy short <i><a href="/wiki/Motor_Mania" title="Motor Mania">Motor Mania</a></i></li>
-<li>Mr. Walker, an alias of <a href="/wiki/The_Phantom" title="The Phantom">The Phantom</a> for the times when the Phantom leaves his jungle home and travels as an ordinary man</li></ul>
-<h2><span class="mw-headline" id="Other">Other</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=16" title="Edit section: Other">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li>Colorow Ignacio Ouray <a href="/wiki/Walkara" title="Walkara">Walkara</a>, Ute chief, also called "Walker"</li></ul>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=17" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Walker (disambiguation)">Walker (disambiguation)</a></li>
-<li><a href="/wiki/Walker_(taxonomic_authority)" class="mw-redirect" title="Walker (taxonomic authority)">Walker (taxonomic authority)</a></li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="reflist" style="list-style-type: decimal;">
-<div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.ancestry.com/name-origin?surname=walker">"Walker Name Meaning &amp; Walker Family History at Ancestry.com"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">February 16,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Walker+Name+Meaning+%26+Walker+Family+History+at+Ancestry.com&amp;rft_id=https%3A%2F%2Fwww.ancestry.com%2Fname-origin%3Fsurname%3Dwalker&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalker+%28surname%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
-</li>
-<li id="cite_note-:0-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.houseofnames.com/walker-family-crest/German">"HouseofNames"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=HouseofNames&amp;rft_id=https%3A%2F%2Fwww.houseofnames.com%2Fwalker-family-crest%2FGerman&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalker+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.ancestry.com/name-origin?surname=walker">"Walker Name Meaning &amp; Walker Family History at Ancestry.com"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">February 16,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Walker+Name+Meaning+%26+Walker+Family+History+at+Ancestry.com&amp;rft_id=https%3A%2F%2Fwww.ancestry.com%2Fname-origin%3Fsurname%3Dwalker&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalker+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://forebears.co.uk/surnames/walker">"Forebears"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Forebears&amp;rft_id=http%3A%2F%2Fforebears.co.uk%2Fsurnames%2Fwalker&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalker+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.census.gov/genealogy/www/data/2000surnames/index.html">"Genealogy Data: Frequently Occurring Surnames from Census 2000 – U.S. Census Bureau"</a>. U.S. Census Bureau<span class="reference-accessdate">. Retrieved <span class="nowrap">14 November</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Genealogy+Data%3A+Frequently+Occurring+Surnames+from+Census+2000+%E2%80%93+U.S.+Census+Bureau&amp;rft.pub=U.S.+Census+Bureau&amp;rft_id=https%3A%2F%2Fwww.census.gov%2Fgenealogy%2Fwww%2Fdata%2F2000surnames%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalker+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-Australia1-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Australia1_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web">IP Australia. <a rel="nofollow" class="external text" href="http://pericles.ipaustralia.gov.au/atmoss/falcon_search_tools.Main?pSearch=Surname">"Search for Australian Surnames"</a>. Government of Australia<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-05-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Search+for+Australian+Surnames&amp;rft.pub=Government+of+Australia&amp;rft.au=IP+Australia&amp;rft_id=http%3A%2F%2Fpericles.ipaustralia.gov.au%2Fatmoss%2Ffalcon_search_tools.Main%3FpSearch%3DSurname&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalker+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-</ol></div></div>
-<style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
-<table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
-<tbody><tr>
-<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
-<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Walker</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Walker_(surname)&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
-</tr>
-</tbody></table>
+<h2><span class="mw-headline" id="Use_in_onomastics">Use in onomastics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nisba_(onomastics)&amp;action=edit&amp;section=2" title="Edit section: Use in onomastics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Traditional Arabic names do not include <a href="/wiki/Family_names" class="mw-redirect" title="Family names">family names</a> or <a href="/wiki/Surnames" class="mw-redirect" title="Surnames">surnames</a>, but rather <a href="/wiki/Patronymics" class="mw-redirect" title="Patronymics">patronymics</a> (<i>nasab</i>), where the name of the person is followed by the name of his father, usually linked by <i>ibn</i> or <i>bin</i> ('son').  Patronymics may be long as they may include all known forefathers.  When a name is simplified to one or two ancestors, it may become confused with other persons' names, so an additional specifier, a <i>nisba</i>, may be added as an attribute.
+</p><p>A nisba is usually prefixed by <i>al</i> ('the') and may be to almost anything:
+</p>
+<h3><span class="mw-headline" id="Places">Places</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nisba_(onomastics)&amp;action=edit&amp;section=3" title="Edit section: Places">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Al-Almani" title="Al-Almani">Al-Almani</a>, related to or from <a href="/wiki/Germany" title="Germany">Germany</a></li>
+<li>Al-Amriki, related to or from <a href="/wiki/America" class="mw-redirect" title="America">America</a></li>
+<li><a href="/wiki/Al-Armani" title="Al-Armani">Al-Armani</a>, related to <a href="/wiki/Greater_Armenia" title="Greater Armenia">Greater Armenia</a> or Armenians</li>
+<li>Al Baghdadi, related to or from the city of <a href="/wiki/Baghdad" title="Baghdad">Baghdad</a>, e.g. <a href="/wiki/Al-Khatib_al-Baghdadi" title="Al-Khatib al-Baghdadi">Al-Khatib al-Baghdadi</a>, <a href="/wiki/Junayd_al-Baghdadi" class="mw-redirect" title="Junayd al-Baghdadi">Junayd al-Baghdadi</a>.</li>
+<li>Al Busnawi, related to or from <a href="/wiki/Bosnia" class="mw-redirect" title="Bosnia">Bosnia</a>, e.g. <a href="/wiki/Matrak%C3%A7%C4%B1_Nasuh" title="Matrakçı Nasuh">Matrakçı Nasuh</a> al-Busnawi.</li>
+<li><a href="/wiki/Al-Dimashqi" title="Al-Dimashqi">Al-Dimashqi</a>, related to or from the city of <a href="/wiki/Damascus" title="Damascus">Damascus</a> e.g. <a href="/wiki/Al-Dimashqi_(geographer)" title="Al-Dimashqi (geographer)">Al-Dimashqi (geographer)</a>, <a href="/wiki/Abu_al-Fadl_Ja%27far_ibn_%27Ali_al-Dimashqi" title="Abu al-Fadl Ja&#39;far ibn &#39;Ali al-Dimashqi">Abu al-Fadl Ja'far ibn 'Ali al-Dimashqi</a>, <a href="/wiki/Abu_al-Fadl_Ja%27far_ibn_%27Ali_al-Dimashqi" title="Abu al-Fadl Ja&#39;far ibn &#39;Ali al-Dimashqi">Abu al-Fadl Ja'far ibn 'Ali al-Dimashqi</a>.</li>
+<li>Al Himsi, related to or from the city of Homs  e.g. <a href="/wiki/Qustaki_al-Himsi" title="Qustaki al-Himsi">Qustaki al-Himsi</a>, <a href="/wiki/Ibn_Na%27ima_al-Himsi" title="Ibn Na&#39;ima al-Himsi">Ibn Na'ima al-Himsi</a>.</li>
+<li><a href="/wiki/Al_Balushi" title="Al Balushi">Al Balushi</a>, related to or from the region of <a href="/wiki/Balochistan" title="Balochistan">Balochistan</a> e.g. <a href="/wiki/Azan_Al-Balushi" title="Azan Al-Balushi">Azan Al-Balushi</a>, <a href="/wiki/Talal_Al-Bloushi" title="Talal Al-Bloushi">Talal Al-Bloushi</a>, <a href="/wiki/Mai_Al_Balushi" title="Mai Al Balushi">Mai Al Balushi</a>, <a href="/w/index.php?title=Aisha_Al_Balushi&amp;action=edit&amp;redlink=1" class="new" title="Aisha Al Balushi (page does not exist)">Aisha Al Balushi</a></li>
+<li>Al Filisṭīnī, related to or from the region of <a href="/wiki/Palestine_(region)" title="Palestine (region)">Palestine</a> e.g. <a href="/wiki/Abu_Qatada" title="Abu Qatada">Abu Qatada</a> al-Filistini.</li>
+<li><a href="/wiki/Al_Masri" class="mw-redirect" title="Al Masri">Al Masri</a>, related to or from <a href="/wiki/Egypt" title="Egypt">Egypt</a>. e.g. <a href="/wiki/Taher_al-Masri" title="Taher al-Masri">Taher al-Masri</a>, <a href="/wiki/Abu_Hamza_al-Masri" title="Abu Hamza al-Masri">Abu Hamza al-Masri</a>.</li>
+<li>Al Najdi, related to or from the region of <a href="/wiki/Najd" title="Najd">Najd</a> in <a href="/wiki/Saudi_Arabia" title="Saudi Arabia">Saudi Arabia</a>  e.g. Qutaybah al-Najdi</li>
+<li>Al Tihami, related to or from the region of <a href="/wiki/Tihamah" title="Tihamah">Tihamah</a> in <a href="/wiki/Saudi_Arabia" title="Saudi Arabia">Saudi Arabia</a>.</li>
+<li>Al Hijazi, related to or from the region of <a href="/wiki/Hijaz" class="mw-redirect" title="Hijaz">Hijaz</a> in <a href="/wiki/Saudi_Arabia" title="Saudi Arabia">Saudi Arabia</a>.  e.g. <a href="/wiki/Amal_Hijazi" title="Amal Hijazi">Amal Hijazi</a>, <a href="/wiki/Farouk_Hijazi" title="Farouk Hijazi">Farouk Hijazi</a>, <a href="/wiki/Abu%27l_Abbas_al-Hijazi" title="Abu&#39;l Abbas al-Hijazi">Abu'l Abbas al-Hijazi</a></li>
+<li>El Djezairi, related to or from <a href="/wiki/Algeria" title="Algeria">Algeria</a>. e.g. <a href="/wiki/Abdelkader_El_Djezairi" class="mw-redirect" title="Abdelkader El Djezairi">Abdelkader El Djezairi</a>.</li>
+<li>Al Kairouani, related to or from the city of <a href="/wiki/Kairouan" title="Kairouan">Kairouan</a> in <a href="/wiki/Tunisia" title="Tunisia">Tunisia</a>.</li>
+<li><a href="/wiki/Al-Tikriti" title="Al-Tikriti">Al-Tikriti</a>, related to or from  the city of <a href="/wiki/Tikrit" title="Tikrit">Tikrit</a>, e.g. <a href="/wiki/Saddam_Hussein" title="Saddam Hussein">Saddam Hussein</a> Abd al-Majid al-Tikriti, <a href="/wiki/Abu_Raita_al-Takriti" title="Abu Raita al-Takriti">Abu Raita al-Takriti</a>, <a href="/wiki/Barzan_Ibrahim_al-Tikriti" title="Barzan Ibrahim al-Tikriti">Barzan Ibrahim al-Tikriti</a></li>
+<li>Al Turki, related to or from  the country of Turkey e.g. <a href="/wiki/Abu_Yusuf_Al-Turki" title="Abu Yusuf Al-Turki">Abu Yusuf Al-Turki</a>, <a href="/wiki/Azjur_al-Turki" title="Azjur al-Turki">Azjur al-Turki</a>, <a href="/wiki/Hassan_Abdullah_Hersi_al-Turki" title="Hassan Abdullah Hersi al-Turki">Hassan Abdullah Hersi al-Turki</a>, <a href="/wiki/Hussain_Al-Turki" title="Hussain Al-Turki">Hussain Al-Turki</a></li>
+<li>Al Yemeni, related to or from  the country of Yemen e.g. <a href="/wiki/Abu_Bara_al_Yemeni" title="Abu Bara al Yemeni">Abu Bara al Yemeni</a>, <a href="/wiki/Haitham_al-Yemeni" title="Haitham al-Yemeni">Haitham al-Yemeni</a>, <a href="/wiki/Hussein_al-Yemeni" title="Hussein al-Yemeni">Hussein al-Yemeni</a>.</li>
+<li>Al Hadrami, related to or from the region of <a href="/wiki/Hadhramaut" title="Hadhramaut">Hadhramaut</a> e.g <a href="/wiki/Al-Ala%27a_Al-Hadrami" title="Al-Ala&#39;a Al-Hadrami">Al-Ala'a Al-Hadrami</a>, <a href="/wiki/Ahmed_Al-Hadrami" title="Ahmed Al-Hadrami">Ahmed Al-Hadrami</a>.</li>
+<li>Al-Farsi or al-Farisi, related to or from the region of <a href="/wiki/Persis" title="Persis">Pars (Fars)</a> or the country of <a href="/wiki/Greater_Persia" class="mw-redirect" title="Greater Persia">Persia</a>; e.g <a href="/wiki/Salman_Al-Farsi" class="mw-redirect" title="Salman Al-Farsi">Salman Al-Farsi</a>, <a href="/wiki/Saud_Al-Farsi" title="Saud Al-Farsi">Saud Al-Farsi</a>, <a href="/w/index.php?title=Abdulaziz_Mohammed_Majid_Al-Farsi&amp;action=edit&amp;redlink=1" class="new" title="Abdulaziz Mohammed Majid Al-Farsi (page does not exist)">Abdulaziz Mohammed Majid Al-Farsi</a></li>
+<li>Al <a href="/wiki/Iraq" title="Iraq">Iraqi</a>, related to or from  the country of <a href="/wiki/Iraq" title="Iraq">Iraq</a> e.g <a href="/wiki/Fakhr-al-Din_Iraqi" title="Fakhr-al-Din Iraqi">Fakhr-al-Din Iraqi</a>, <a href="/wiki/Abdul_Hadi_al_Iraqi" title="Abdul Hadi al Iraqi">Abdul Hadi al Iraqi</a>, <a href="/wiki/Abu_Ayoub_al-Iraqi" title="Abu Ayoub al-Iraqi">Abu Ayoub al-Iraqi</a></li>
+<li><a href="/wiki/Al_Tunisi" class="mw-redirect" title="Al Tunisi">Al Tunisi</a>,  related to or from  the country of <a href="/wiki/Tunisia" title="Tunisia">Tunisia</a> e.g <a href="/wiki/Abu_Nasr_al-Tunisi" title="Abu Nasr al-Tunisi">Abu Nasr al-Tunisi</a>, <a href="/wiki/Abu_Osama_al-Tunisi_(died_2007)" title="Abu Osama al-Tunisi (died 2007)">Abu Osama al-Tunisi</a>, <a href="/wiki/Ali_ibn_Ziyad" title="Ali ibn Ziyad">Ali ibn Ziyad</a> at-Tarabulsi al-Tunisi al-'Absi, <a href="/wiki/Nabilah_al-Tunisi" title="Nabilah al-Tunisi">Nabilah al-Tunisi</a></li>
+<li>Al Albani, related to or from  the country of <a href="/wiki/Albania" title="Albania">Albania</a> e.g <a href="/wiki/Muhammad_Nasiruddin_al-Albani" title="Muhammad Nasiruddin al-Albani">Muhammad Nasiruddin al-Albani</a>.</li>
+<li>Al Andalusi, related to or from  the region of <a href="/wiki/Al-Andalus" title="Al-Andalus">Al-Andalus</a> e.g <a href="/wiki/Said_al-Andalusi" title="Said al-Andalusi">Said al-Andalusi</a>, Abū ʿAbdallāh Yaʿīsh ibn Ibrāhīm ibn Yūsuf ibn Simāk al-Andalusī al-Umawī</li>
+<li>Al-Maghrebi, related to or from  the region of <a href="/wiki/Maghreb" title="Maghreb">Maghreb</a> e.g <a href="/wiki/Ibn_Ya%E1%B8%A5y%C4%81_al-Maghrib%C4%AB_al-Samaw%CA%BEal" class="mw-redirect" title="Ibn Yaḥyā al-Maghribī al-Samawʾal">Ibn Yaḥyā al-Maghribī al-Samawʾal</a>, <a href="/wiki/Mahmud_Sulayman_al-Maghribi" class="mw-redirect" title="Mahmud Sulayman al-Maghribi">Mahmud Sulayman al-Maghribi</a>, <a href="/wiki/Yusuf_al-Maghribi" title="Yusuf al-Maghribi">Yusuf al-Maghribi</a>.</li>
+<li>Al-Shami, related to or from the region of <a href="/wiki/Levant" title="Levant">Levant</a> or from the country of <a href="/wiki/Syria" title="Syria">Syria</a> e.g <a href="/wiki/Nasser_al-Shami" title="Nasser al-Shami">Nasser al-Shami</a>, <a href="/wiki/Husayn_al-Shami" title="Husayn al-Shami">Husayn al-Shami</a>, <a href="/wiki/Abu_Anas_al-Shami" title="Abu Anas al-Shami">Abu Anas al-Shami</a>, <a href="/wiki/Abu_Humam_al-Shami" title="Abu Humam al-Shami">Abu Humam al-Shami</a>.</li>
+<li>Al-Lubnani, related to or from the country of <a href="/wiki/Lebanon" title="Lebanon">Lebanon</a> e.g  <a href="/wiki/Bilal_al-Berjawi" title="Bilal al-Berjawi">Bilal al-Berjawi</a> al-Lubnani.</li>
+<li>Al-Kuwaiti, related to or from the country of <a href="/wiki/Kuwait" title="Kuwait">Kuwait</a> e.g  <a href="/wiki/Abu_Omar_al-Kuwaiti" title="Abu Omar al-Kuwaiti">Abu Omar al-Kuwaiti</a>, <a href="/wiki/Abu_Ahmed_al-Kuwaiti" title="Abu Ahmed al-Kuwaiti">Abu Ahmed al-Kuwaiti</a>, <a href="/w/index.php?title=Jandal_al-Kuwaiti&amp;action=edit&amp;redlink=1" class="new" title="Jandal al-Kuwaiti (page does not exist)">Jandal al-Kuwaiti</a>.</li>
+<li>Al Sindhi, related to or from the region of <a href="/wiki/Sindh" title="Sindh">Sindh</a> e.g. <a href="/wiki/Mohammad_Hayya_Al-Sindhi" class="mw-redirect" title="Mohammad Hayya Al-Sindhi">Mohammad Hayya Al-Sindhi</a></li>
+<li><a href="/wiki/Al-Razi" title="Al-Razi">al-Razi</a> – from <a href="/wiki/Rey,_Iran" class="mw-redirect" title="Rey, Iran">Ray</a>, Persia</li>
+<li><a href="/wiki/Al-Isfahani" title="Al-Isfahani">al-Isfahani</a> – from <a href="/wiki/Isfahan" title="Isfahan">Isfahan</a>, Persia</li>
+<li><a href="/wiki/Marwazi_(disambiguation)" class="mw-redirect mw-disambig" title="Marwazi (disambiguation)">al-Marwazi</a>, from <a href="/wiki/Merv" title="Merv">Marw</a></li>
+<li><a href="/wiki/Rumi" title="Rumi">al-Rumi</a> – from <i><a href="/wiki/R%C3%BBm" title="Rûm">Rum</a></i> (<a href="/wiki/Asia_Minor" class="mw-redirect" title="Asia Minor">Asia Minor</a>)</li>
+<li><a href="/wiki/Al-Tiflisi" title="Al-Tiflisi">al-Tiflisi</a>, from <a href="/wiki/Tiflis" class="mw-redirect" title="Tiflis">Tiflis</a> (Tbilisi), Georgia</li>
+<li><a href="/wiki/Al-Tusi" title="Al-Tusi">al-Tusi</a> – from <a href="/wiki/Tus,_Iran" title="Tus, Iran">Tus</a>, Khurasan, Persia</li>
+<li><a href="/w/index.php?title=Al-Khurasani&amp;action=edit&amp;redlink=1" class="new" title="Al-Khurasani (page does not exist)">al-Khurasani</a> – from Khurasan e.g. <a href="/wiki/Abu_Muslim" title="Abu Muslim">Abu Muslim</a>, <a href="/wiki/Abdallah_ibn_Tahir_al-Khurasani" title="Abdallah ibn Tahir al-Khurasani">Abdallah ibn Tahir al-Khurasani</a></li>
+<li><a href="/wiki/Al-Tabari" title="Al-Tabari">al-Tabari</a> – from <a href="/wiki/Tabaristan" title="Tabaristan">Tabaristan</a>, Persia</li>
+<li><a href="/w/index.php?title=Al-Shirazi_(disambiguation)&amp;action=edit&amp;redlink=1" class="new" title="Al-Shirazi (disambiguation) (page does not exist)">al-Shirazi</a> – from <a href="/wiki/Shiraz" title="Shiraz">Shiraz</a>, Fars, Persia</li>
+<li><a href="/wiki/Al-Hamadani" class="mw-redirect" title="Al-Hamadani">al-Hamadani</a>, from <a href="/wiki/Hamadan" title="Hamadan">Hamadan</a>, Persia</li>
+<li><a href="/wiki/Al-Juzjani" title="Al-Juzjani">al-Juzjani</a></li>
+<li><a href="/wiki/Al-Sistani" class="mw-redirect" title="Al-Sistani">al-Sistani</a>, <a href="/wiki/Al-Sijistani" title="Al-Sijistani">al-Sijistani</a>, <a href="/wiki/Al-Sajistani" class="mw-redirect" title="Al-Sajistani">al-Sajistani</a>, <a href="/wiki/Al-Sijzi" title="Al-Sijzi">al-Sijzi</a> – from <a href="/wiki/Sistan" title="Sistan">Sistan</a>, Persia</li>
+<li><a href="/w/index.php?title=Al-Qazwini_(disambiguation)&amp;action=edit&amp;redlink=1" class="new" title="Al-Qazwini (disambiguation) (page does not exist)">al-Qazwini</a> – from <a href="/wiki/Qazvin" title="Qazvin">Qazvin</a>, Persia</li>
+<li><a href="/wiki/Al-Jurjani" title="Al-Jurjani">al-Jurjani</a> – from <a href="/wiki/Gorgan" title="Gorgan">Jurjan</a>, Persia</li>
+<li><a href="/wiki/Al-Astarabadi" class="mw-redirect" title="Al-Astarabadi">al-Astarabadi</a> – from <a href="/wiki/Gorgan" title="Gorgan">Astarabad</a> (modern Gorgan), Persia</li>
+<li><a href="/wiki/Darbandi_(disambiguation)" class="mw-redirect mw-disambig" title="Darbandi (disambiguation)">al-Darbandi</a>, <a href="/wiki/Darbandi_(disambiguation)" class="mw-redirect mw-disambig" title="Darbandi (disambiguation)">Darbandi</a> - from <a href="/wiki/Derbent" title="Derbent">Derbent</a>, Persia</li>
+<li><a href="/wiki/Bukhari_(surname)" title="Bukhari (surname)">al Bukhari</a> - from <a href="/wiki/Bukhara" title="Bukhara">Bukhara</a>, Uzbekistan</li>
+<li><a href="/w/index.php?title=Al-Daylami&amp;action=edit&amp;redlink=1" class="new" title="Al-Daylami (page does not exist)">al-Daylami</a> - from <a href="/wiki/Daylam" title="Daylam">Daylam</a>, northern Iran</li>
+<li><a href="/wiki/Al-Jannabi" class="mw-redirect" title="Al-Jannabi">al-Jannabi</a> - from Jannaba port city, <a href="/wiki/Arrajan" title="Arrajan">Arrajan</a> province of Persia</li>
+<li><a href="/w/index.php?title=Al-Quhistani&amp;action=edit&amp;redlink=1" class="new" title="Al-Quhistani (page does not exist)">al-Quhistani</a> - from <a href="/wiki/Quhistan" title="Quhistan">Quhistan</a></li>
+<li><a href="/w/index.php?title=Al-Nahawandi&amp;action=edit&amp;redlink=1" class="new" title="Al-Nahawandi (page does not exist)">al-Nahawandi</a>, <a href="/w/index.php?title=Al-Nihawandi&amp;action=edit&amp;redlink=1" class="new" title="Al-Nihawandi (page does not exist)">al-Nihawandi</a> - from <a href="/wiki/Nahavand" title="Nahavand">Nahavand</a>, Iran</li>
+<li><a href="/w/index.php?title=Al-Nisaburi&amp;action=edit&amp;redlink=1" class="new" title="Al-Nisaburi (page does not exist)">al-Nisaburi</a>, <a href="/w/index.php?title=Al-Naysaburi&amp;action=edit&amp;redlink=1" class="new" title="Al-Naysaburi (page does not exist)">al-Naysaburi</a> - from <a href="/wiki/Nishapur" title="Nishapur">Nishapur</a>, Iran</li>
+<li><a href="/w/index.php?title=Al-Qumisi&amp;action=edit&amp;redlink=1" class="new" title="Al-Qumisi (page does not exist)">al-Qumisi</a>, <a href="/w/index.php?title=Al-Kumisi&amp;action=edit&amp;redlink=1" class="new" title="Al-Kumisi (page does not exist)">al-Kumisi</a> - from <a href="/wiki/Qumis_(region)" title="Qumis (region)">Qumis</a>, Iran</li></ul>
+<h3><span id="Tribes.2C_clans_or_families"></span><span class="mw-headline" id="Tribes,_clans_or_families">Tribes, clans  or families</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nisba_(onomastics)&amp;action=edit&amp;section=4" title="Edit section: Tribes, clans or families">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Al_Tamimi" class="mw-redirect" title="Al Tamimi">Al Tamimi</a>, from the tribe or clan of <a href="/wiki/Bani_Tamim" class="mw-redirect" title="Bani Tamim">Bani Tamim</a>. e.g. Modher Sadeq-Saba al-Tamimi, <a href="/w/index.php?title=Talib_al-Suhail_al-Tamimi&amp;action=edit&amp;redlink=1" class="new" title="Talib al-Suhail al-Tamimi (page does not exist)">Talib al-Suhail al-Tamimi</a>, <a href="/wiki/Alaa_al-Tamimi" title="Alaa al-Tamimi">Alaa al-Tamimi</a>.</li>
+<li>Al Qurashi, from the tribe or clan of <a href="/wiki/Quraish" class="mw-redirect" title="Quraish">Quraish</a>. e.g. <a href="/wiki/Ibn_Kathir" title="Ibn Kathir">ibn Kathir Al-Qurashi</a>, <a href="/wiki/Ab%C3%BB_%27Uthm%C3%A2n_Sa%27%C3%AEd_ibn_Hakam_al_Qurashi" title="Abû &#39;Uthmân Sa&#39;îd ibn Hakam al Qurashi">Abû 'Uthmân Sa'îd ibn Hakam al Qurashi</a>.</li>
+<li><a href="/w/index.php?title=Al_Ta%27i&amp;action=edit&amp;redlink=1" class="new" title="Al Ta&#39;i (page does not exist)">Al Ta'i</a>, from the tribe of Tai'. e.g. <a href="/wiki/Hatem_at-Ta%27i" class="mw-redirect" title="Hatem at-Ta&#39;i">Hatem at-Ta'i</a>.</li>
+<li><a href="/wiki/Al_Saud" class="mw-redirect" title="Al Saud">Al Saud</a>, from the family/<a href="/wiki/Royal_house" class="mw-redirect" title="Royal house">house</a>  of Saud. e.g. <a href="/wiki/Saud_bin_Abdulaziz_Al_Saud" class="mw-redirect" title="Saud bin Abdulaziz Al Saud">Saud bin Abdulaziz Al Saud</a>, <a href="/wiki/Al_Jawhara_bint_Abdulaziz_Al_Saud" title="Al Jawhara bint Abdulaziz Al Saud">Al Jawhara bint Abdulaziz Al Saud</a>, <a href="/wiki/Muqrin_bin_Abdulaziz" title="Muqrin bin Abdulaziz">Muqrin bin Abdulaziz</a> Al Saud, Abdulaziz ibn Abdul Rahman ibn Faisal ibn Turki ibn Abdullah ibn Muhammad Al Saud.</li>
+<li><a href="/wiki/Ahl_al-Bayt" title="Ahl al-Bayt">Ahl al-Bayt</a>, from the People of the House.</li></ul>
+<h3><span class="mw-headline" id="People">People</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nisba_(onomastics)&amp;action=edit&amp;section=5" title="Edit section: People">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Al Maliki, related to <a href="/wiki/Malik_al-Ashtar" title="Malik al-Ashtar">Malik al-Ashtar</a>. e.g. <a href="/wiki/Nouri_al-Maliki" title="Nouri al-Maliki">Nouri al-Maliki</a>.</li>
+<li>Al Farouqi, related to <a href="/wiki/Umar" title="Umar">Farooq the Great</a>. e.g. <a href="/wiki/Ismail_al-Faruqi" title="Ismail al-Faruqi">Ismail al-Faruqi</a>.</li></ul>
+<h3><span class="mw-headline" id="Faith">Faith</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nisba_(onomastics)&amp;action=edit&amp;section=6" title="Edit section: Faith">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Al-Majusi" class="mw-redirect" title="Al-Majusi">al-Majusi</a>, with <i>majus</i> meaning "<a href="/wiki/Zoroastrianism" title="Zoroastrianism">Zoroastrian</a>"</li></ul>
+<h3><span class="mw-headline" id="Multiples">Multiples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nisba_(onomastics)&amp;action=edit&amp;section=7" title="Edit section: Multiples">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>One can have more than one nisba, one can be related to a city, a clan, a profession and a person at the same time. Examples include:
+</p>
+<ul><li><a href="/wiki/Ibn_al-Nafis" title="Ibn al-Nafis">Ali ibn Abi-Hazm al-Qarshi al-Dimashqi</a>, from the tribe of Quraish and from <a href="/wiki/Damascus" title="Damascus">Damascus</a> (Dimashq).</li>
+<li><a href="/wiki/Ibn_Tahir_al-Baghdadi" class="mw-redirect" title="Ibn Tahir al-Baghdadi">Abd al-Qahir ibn Tahir al-Tamimi al-Shafi`i al-Baghdadi</a>, from the tribe of Bani Tamim, from the city of Baghdad and a follower of <a href="/wiki/Muhammad_ibn_Idris_ash-Shafi%60i" class="mw-redirect" title="Muhammad ibn Idris ash-Shafi`i">Muhammad ibn Idris ash-Shafi`i</a>.</li></ul>
+<p>The nisba is optional but is quite widespread.
+</p>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nisba_(onomastics)&amp;action=edit&amp;section=8" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Ansari_(nisba)" class="mw-redirect" title="Ansari (nisba)">Ansari</a> &#8212; from <a href="/wiki/Ansar_(Islam)" title="Ansar (Islam)">Ansar</a>, <a href="/wiki/Medina" title="Medina">Medina</a> people who helped prophet <a href="/wiki/Muhammad" title="Muhammad">Muhammad</a></li>
+<li><a href="/wiki/Tabataba%27i" class="mw-redirect" title="Tabataba&#39;i">Tabataba'i</a> &#8212; someone who has two <a href="/wiki/Seyyed" class="mw-redirect" title="Seyyed">Seyyed</a> as parents</li>
+<li><a href="/wiki/Hanbali_(nesba)" title="Hanbali (nesba)">Hanbali</a> &#8212; someone following <a href="/wiki/Hanbali" title="Hanbali">Hanbali</a> Madhhab</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nisba_(onomastics)&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Arabic_name" title="Arabic name">Arabic name</a></li>
+<li><a href="/wiki/Kunya_(Arabic)" title="Kunya (Arabic)">Kunya (Arabic)</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nisba_(onomastics)&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+
 <!-- 
 NewPP limit report
-Parsed by mw1247
-Cached time: 20190926103302
+Parsed by mw1243
+Cached time: 20191020115704
 Cache expiry: 2592000
 Dynamic content: false
-Complications: [vary‐revision‐sha1]
-CPU time usage: 0.424 seconds
-Real time usage: 0.536 seconds
-Preprocessor visited node count: 991/1000000
+Complications: []
+CPU time usage: 0.228 seconds
+Real time usage: 0.290 seconds
+Preprocessor visited node count: 267/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 15476/2097152 bytes
-Template argument size: 2024/2097152 bytes
-Highest expansion depth: 9/40
-Expensive parser function count: 1/500
-Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 17364/5000000 bytes
+Post‐expand include size: 1028/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
 Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.169/10.000 seconds
-Lua memory usage: 3.29 MB/50 MB
+Lua time usage: 0.164/10.000 seconds
+Lua memory usage: 8.75 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  380.301      1 -total
- 45.53%  173.149      1 Template:Reflist
- 36.16%  137.524      1 Template:Infobox_surname
- 31.79%  120.896      2 Template:Citeweb
- 31.24%  118.814      1 Template:Infobox
- 15.59%   59.297      1 Template:Surname
- 13.21%   50.241      1 Template:IPAc-en
- 10.35%   39.354      1 Template:Dmbox
-  7.68%   29.193      4 Template:Cite_web
-  5.12%   19.477      1 Template:Short_description
+100.00%  240.152      1 -total
+ 85.76%  205.947      1 Template:Lang-ar
+  6.64%   15.953      1 Template:Lang
+  6.05%   14.531      1 Template:Main_article
+  1.39%    3.345      1 Template:Transl
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:250543-0!canonical and timestamp 20190926103301 and revision id 915231575
+<!-- Saved in parser cache with key enwiki:pcache:idhash:5762980-0!canonical and timestamp 20191020115703 and revision id 903150311
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Walker_(surname)&amp;oldid=915231575">https://en.wikipedia.org/w/index.php?title=Walker_(surname)&amp;oldid=915231575</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Nisba_(onomastics)&amp;oldid=903150311">https://en.wikipedia.org/w/index.php?title=Nisba_(onomastics)&amp;oldid=903150311</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:English-language_surnames" title="Category:English-language surnames">English-language surnames</a></li><li><a href="/wiki/Category:German-language_surnames" title="Category:German-language surnames">German-language surnames</a></li><li><a href="/wiki/Category:Occupational_surnames" title="Category:Occupational surnames">Occupational surnames</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_infobox_given_name_with_unknown_parameters" title="Category:Pages using infobox given name with unknown parameters">Pages using infobox given name with unknown parameters</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Arabic_given_names" title="Category:Arabic given names">Arabic given names</a></li><li><a href="/wiki/Category:Nisbas" title="Category:Nisbas">Nisbas</a></li><li><a href="/wiki/Category:Surnames_of_Arabic_origin" title="Category:Surnames of Arabic origin">Surnames of Arabic origin</a></li><li><a href="/wiki/Category:Persian_given_names" title="Category:Persian given names">Persian given names</a></li><li><a href="/wiki/Category:Names_by_culture" title="Category:Names by culture">Names by culture</a></li><li><a href="/wiki/Category:Urdu_given_names" title="Category:Urdu given names">Urdu given names</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_Arabic-language_text" title="Category:Articles containing Arabic-language text">Articles containing Arabic-language text</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -412,13 +212,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Walker+%28surname%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Walker+%28surname%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Nisba+%28onomastics%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Nisba+%28onomastics%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Walker_(surname)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Walker_(surname)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Nisba_(onomastics)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Nisba_(onomastics)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -433,7 +233,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Walker_(surname)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Walker_(surname)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Nisba_(onomastics)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Nisba_(onomastics)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Nisba_(onomastics)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -472,35 +272,28 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Walker_(surname)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Walker_(surname)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Walker_(surname)&amp;oldid=915231575" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Walker_(surname)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1158605" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Walker_%28surname%29&amp;id=915231575" title="Information on how to cite this page">Cite this page</a></li>				</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
-			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
-			<div class="body">
-								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Walker_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Nisba_(onomastics)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Nisba_(onomastics)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Nisba_(onomastics)&amp;oldid=903150311" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Nisba_(onomastics)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1054545" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Nisba_%28onomastics%29&amp;id=903150311" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Walker+%28surname%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Walker+%28surname%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Walker_(surname)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Nisba+%28onomastics%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Nisba+%28onomastics%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Nisba_(onomastics)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Uoker" title="Uoker – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Walker_(s%C3%A8%E2%81%BF)" title="Walker (sèⁿ) – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A3%D0%BE%D0%BA%D0%B5%D1%80" title="Уокер – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Walker" title="Walker – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Walker_(Familienname)" title="Walker (Familienname) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%93%CE%BF%CF%85%CF%8C%CE%BA%CE%B5%CF%81" title="Γουόκερ – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Walker" title="Walker – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Walker" title="Walker – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Walker" title="Walker – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%95%D7%95%D7%A7%D7%A8_(%D7%A4%D7%99%D7%A8%D7%95%D7%A9%D7%95%D7%A0%D7%99%D7%9D)" title="ווקר (פירושונים) – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC" title="ウォーカー – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Walker" title="Walker – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Walker" title="Walker – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A3%D0%BE%D0%BA%D0%B5%D1%80" title="Уокер – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Walker" title="Walker – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Walker_(efternamn)" title="Walker (efternamn) – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Walker" title="Walker – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1158605#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Nisbah" title="Nisbah – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Nisba" title="Nisba – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Nisbah" title="Nisbah – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Nisba" title="Nisba – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Nisba" title="Nisba – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D1%81%D0%B1%D0%B0" title="Нисба – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1054545#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 12 September 2019, at 00:05<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 23 June 2019, at 22:30<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -511,7 +304,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Walker_(surname)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Nisba_(onomastics)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -523,8 +316,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.424","walltime":"0.536","ppvisitednodes":{"value":991,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":15476,"limit":2097152},"templateargumentsize":{"value":2024,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":17364,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  380.301      1 -total"," 45.53%  173.149      1 Template:Reflist"," 36.16%  137.524      1 Template:Infobox_surname"," 31.79%  120.896      2 Template:Citeweb"," 31.24%  118.814      1 Template:Infobox"," 15.59%   59.297      1 Template:Surname"," 13.21%   50.241      1 Template:IPAc-en"," 10.35%   39.354      1 Template:Dmbox","  7.68%   29.193      4 Template:Cite_web","  5.12%   19.477      1 Template:Short_description"]},"scribunto":{"limitreport-timeusage":{"value":"0.169","limit":"10.000"},"limitreport-memusage":{"value":3453214,"limit":52428800}},"cachereport":{"origin":"mw1247","timestamp":"20190926103302","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Walker (surname)","url":"https:\/\/en.wikipedia.org\/wiki\/Walker_(surname)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1158605","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1158605","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-06-21T08:42:44Z","dateModified":"2019-09-12T00:05:38Z","headline":"family name"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":94,"wgHostname":"mw1267"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.228","walltime":"0.290","ppvisitednodes":{"value":267,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":1028,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":3,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  240.152      1 -total"," 85.76%  205.947      1 Template:Lang-ar","  6.64%   15.953      1 Template:Lang","  6.05%   14.531      1 Template:Main_article","  1.39%    3.345      1 Template:Transl"]},"scribunto":{"limitreport-timeusage":{"value":"0.164","limit":"10.000"},"limitreport-memusage":{"value":9172687,"limit":52428800}},"cachereport":{"origin":"mw1243","timestamp":"20191020115704","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Nisba (onomastics)","url":"https:\/\/en.wikipedia.org\/wiki\/Nisba_(onomastics)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1054545","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1054545","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-06-29T20:01:14Z","dateModified":"2019-06-23T22:30:29Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":111,"wgHostname":"mw1328"});});</script>
 </body>
 </html>

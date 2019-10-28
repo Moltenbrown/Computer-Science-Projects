@@ -2,36 +2,35 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Clark - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Clark","wgTitle":"Clark","wgCurRevisionId":921630097,"wgRevisionId":921630097,"wgArticleId":244622,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","All set index articles","Surnames","English-language surnames","Occupational surnames","Surnames of English origin","Surnames of Scottish origin"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Clark",
-"wgRelevantArticleId":244622,"wgRequestId":"XaeNIgpAAD4AADM6FXgAAACN","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1119151","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready",
-"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.cite.tracking","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
-"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Fowler (surname) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Fowler_(surname)","wgTitle":"Fowler (surname)","wgCurRevisionId":916822501,"wgRevisionId":916822501,"wgArticleId":4425034,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Old English-language text","Articles with short description","All set index articles","Surnames","English-language surnames","Occupational surnames"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":
+"Fowler_(surname)","wgRelevantArticleId":4425034,"wgRequestId":"XbXnkwpAAEEAADOY0GYAAAAT","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1440104","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns",
+"ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.1"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/0/00/Escribano.jpg"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Clark"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Clark&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Clark&amp;action=edit"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Fowler_(surname)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Fowler_(surname)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Fowler_(surname)&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Clark"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Fowler_(surname)"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Clark rootpage-Clark skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Fowler_surname rootpage-Fowler_surname skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -40,7 +39,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Clark</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Fowler (surname)</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -51,260 +50,263 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about the surname Clark. For the given name, see <a href="/wiki/Clark_(given_name)" title="Clark (given name)">Clark (given name)</a>. For other uses, see <a href="/wiki/Clark_(disambiguation)" class="mw-disambig" title="Clark (disambiguation)">Clark (disambiguation)</a>.</div>
-<table class="infobox" style="width:22em"><caption>Clark</caption><tbody><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Escribano.jpg" class="image"><img alt="Escribano.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Escribano.jpg/220px-Escribano.jpg" decoding="async" width="220" height="170" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Escribano.jpg/330px-Escribano.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Escribano.jpg/440px-Escribano.jpg 2x" data-file-width="600" data-file-height="464" /></a><div>A scribe or clerk, the occupation from which the name derives</div></td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Origin</th></tr><tr><th scope="row">Language(s)</th><td>Old English</td></tr><tr><th scope="row">Meaning</th><td><a href="/wiki/Clerk_(position)" class="mw-redirect" title="Clerk (position)">Clerk</a>, scribe, secretary</td></tr><tr><th scope="row">Region of origin</th><td>England</td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Other names</th></tr><tr><th scope="row">Variant form(s)</th><td><a href="/wiki/Clarke" title="Clarke">Clarke</a>, <a href="/wiki/Clerk_(surname)" title="Clerk (surname)">Clerk</a></td></tr><tr><td colspan="2" style="text-align:center;border-top: #a2a9b1 1px solid;">Frequency Comparisons<sup id="cite_ref-BRE_1-0" class="reference"><a href="#cite_note-BRE-1">&#91;1&#93;</a></sup></td></tr></tbody></table>
-<p><b>Clark</b> is an <a href="/wiki/English_language" title="English language">English language</a> <a href="/wiki/Surname" title="Surname">surname</a>, ultimately derived from the <a href="/wiki/Latin_language" class="mw-redirect" title="Latin language">Latin</a> <i>clericus</i> meaning "scribe", "secretary" or a scholar within a religious order, referring to someone who was educated. <i>Clark</i> evolved from "<a href="/wiki/Clerk_(position)" class="mw-redirect" title="Clerk (position)">clerk</a>". First records of the name are found in 12th-century England. The name has many variants.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
-</p><p><i>Clark</i> is the twenty-seventh most common surname in the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>,<sup id="cite_ref-BRE_1-1" class="reference"><a href="#cite_note-BRE-1">&#91;1&#93;</a></sup> including placing fourteenth in Scotland.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Clark is also an occasional <a href="/wiki/Given_name" title="Given name">given name</a>, as in the case of <a href="/wiki/Clark_Gable" title="Clark Gable">Clark Gable</a>.
-</p><p>According to the <a href="/wiki/1990_United_States_Census" title="1990 United States Census">1990 United States Census</a>, <i>Clark</i> was the twenty-first most frequently encountered surname, accounting for 0.23% of the population.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> Notable people with the surname include:
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For uses of "Fowler" other than as a surname, see <a href="/wiki/Fowler_(disambiguation)" class="mw-redirect mw-disambig" title="Fowler (disambiguation)">Fowler (disambiguation)</a>.</div>
+<p><b>Fowler</b> is an English and/or Scots <a href="/wiki/Surname" title="Surname">surname</a>. Its origin is the <a href="/wiki/Old_English" title="Old English">Old English</a> <i lang="ang" title="Old English language text">fugelere</i>, an occupational name for a bird-catcher or hunter of wild birds.<sup id="cite_ref-FowlerNewfoundland_1-0" class="reference"><a href="#cite_note-FowlerNewfoundland-1">&#91;1&#93;</a></sup><sup id="cite_ref-Ancestry1_2-0" class="reference"><a href="#cite_note-Ancestry1-2">&#91;2&#93;</a></sup><sup id="cite_ref-SurnameDB_3-0" class="reference"><a href="#cite_note-SurnameDB-3">&#91;3&#93;</a></sup> Old English <i lang="ang" title="Old English language text">fugel</i> or <i lang="ang" title="Old English language text">fugol</i> means "bird".
 </p>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" decoding="async" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512" /></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/fowler" class="extiw" title="wiktionary:fowler">fowler</a></b></i>&#160;or <i><b><a href="https://en.wiktionary.org/wiki/fugelere" class="extiw" title="wiktionary:fugelere">fugelere</a></b></i> in Wiktionary, the free dictionary.</td></tr>
+</tbody></table>
 <div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Disambiguation_pages"><span class="tocnumber">1</span> <span class="toctext">Disambiguation pages</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Arts_and_literature"><span class="tocnumber">2</span> <span class="toctext">Arts and literature</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#Business"><span class="tocnumber">3</span> <span class="toctext">Business</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#Politics_and_law"><span class="tocnumber">4</span> <span class="toctext">Politics and law</span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="#Science_and_medicine"><span class="tocnumber">5</span> <span class="toctext">Science and medicine</span></a></li>
-<li class="toclevel-1 tocsection-6"><a href="#Sports"><span class="tocnumber">6</span> <span class="toctext">Sports</span></a></li>
-<li class="toclevel-1 tocsection-7"><a href="#Other"><span class="tocnumber">7</span> <span class="toctext">Other</span></a></li>
-<li class="toclevel-1 tocsection-8"><a href="#Fictional_characters"><span class="tocnumber">8</span> <span class="toctext">Fictional characters</span></a></li>
-<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
-<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#Notable_Fowlers"><span class="tocnumber">1</span> <span class="toctext">Notable Fowlers</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Born_before_1700"><span class="tocnumber">1.1</span> <span class="toctext">Born before 1700</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Born_after_1700"><span class="tocnumber">1.2</span> <span class="toctext">Born after 1700</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Born_after_1800"><span class="tocnumber">1.3</span> <span class="toctext">Born after 1800</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Born_after_1900"><span class="tocnumber">1.4</span> <span class="toctext">Born after 1900</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Born_after_1950"><span class="tocnumber">1.5</span> <span class="toctext">Born after 1950</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Brocklebank-Fowler"><span class="tocnumber">1.6</span> <span class="toctext">Brocklebank-Fowler</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Distribution"><span class="tocnumber">2</span> <span class="toctext">Distribution</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Fictional_characters"><span class="tocnumber">3</span> <span class="toctext">Fictional characters</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#EastEnders"><span class="tocnumber">3.1</span> <span class="toctext"><i>EastEnders</i></span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Human_name_disambiguation_pages"><span class="tocnumber">4.1</span> <span class="toctext">Human name disambiguation pages</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
 </ul>
 </div>
 
-<h2><span class="mw-headline" id="Disambiguation_pages">Disambiguation pages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Clark&amp;action=edit&amp;section=1" title="Edit section: Disambiguation pages">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Anne_Clark_(disambiguation)" class="mw-redirect mw-disambig" title="Anne Clark (disambiguation)">Anne Clark (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Brian_Clark_(disambiguation)" class="mw-redirect mw-disambig" title="Brian Clark (disambiguation)">Brian Clark (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Charles_Clark_(disambiguation)" class="mw-redirect mw-disambig" title="Charles Clark (disambiguation)">Charles Clark (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Chris_Clark_(disambiguation)" class="mw-redirect mw-disambig" title="Chris Clark (disambiguation)">Chris Clark (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Clive_Clark_(disambiguation)" class="mw-redirect mw-disambig" title="Clive Clark (disambiguation)">Clive Clark (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Colin_Clark_(disambiguation)" class="mw-redirect mw-disambig" title="Colin Clark (disambiguation)">Colin Clark (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Douglas_Clark_(disambiguation)" class="mw-redirect mw-disambig" title="Douglas Clark (disambiguation)">Douglas Clark (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Edward_Clark_(disambiguation)" class="mw-redirect mw-disambig" title="Edward Clark (disambiguation)">Edward Clark (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/David_Clark_(disambiguation)" class="mw-redirect mw-disambig" title="David Clark (disambiguation)">David Clark (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Dick_Clark_(disambiguation)" class="mw-disambig" title="Dick Clark (disambiguation)">Dick Clark (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Eugene_Clark_(disambiguation)" class="mw-redirect mw-disambig" title="Eugene Clark (disambiguation)">Eugene Clark (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/George_Clark_(disambiguation)" class="mw-redirect mw-disambig" title="George Clark (disambiguation)">George Clark (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Jack_Clark_(disambiguation)" class="mw-redirect mw-disambig" title="Jack Clark (disambiguation)">Jack Clark (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/James_Clark_(disambiguation)" class="mw-redirect mw-disambig" title="James Clark (disambiguation)">James Clark (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Jason_Clark_(disambiguation)" class="mw-redirect mw-disambig" title="Jason Clark (disambiguation)">Jason Clark (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Jeff_Clark_(disambiguation)" class="mw-redirect mw-disambig" title="Jeff Clark (disambiguation)">Jeff Clark (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Jim_Clark_(disambiguation)" class="mw-redirect" title="Jim Clark (disambiguation)">Jim Clark (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/John_Clark_(disambiguation)" class="mw-redirect mw-disambig" title="John Clark (disambiguation)">John Clark (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Jonathan_Clark_(disambiguation)" class="mw-redirect mw-disambig" title="Jonathan Clark (disambiguation)">Jonathan Clark (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Joseph_Clark_(disambiguation)" class="mw-redirect mw-disambig" title="Joseph Clark (disambiguation)">Joseph Clark (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Ken_Clark_(disambiguation)" class="mw-redirect mw-disambig" title="Ken Clark (disambiguation)">Ken Clark (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Kenneth_Clark_(disambiguation)" class="mw-disambig" title="Kenneth Clark (disambiguation)">Kenneth Clark (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Robert_Clark_(disambiguation)" class="mw-redirect mw-disambig" title="Robert Clark (disambiguation)">Robert Clark (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Ryan_Clark_(disambiguation)" class="mw-redirect mw-disambig" title="Ryan Clark (disambiguation)">Ryan Clark (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Samuel_Clark_(disambiguation)" class="mw-redirect mw-disambig" title="Samuel Clark (disambiguation)">Samuel Clark (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Simon_Clark_(disambiguation)" class="mw-redirect mw-disambig" title="Simon Clark (disambiguation)">Simon Clark (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Thomas_Clark_(disambiguation)" class="mw-redirect mw-disambig" title="Thomas Clark (disambiguation)">Thomas Clark (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/William_Clark_(disambiguation)" class="mw-disambig" title="William Clark (disambiguation)">William Clark (disambiguation)</a>, multiple people</li></ul>
-<h2><span class="mw-headline" id="Arts_and_literature">Arts and literature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Clark&amp;action=edit&amp;section=2" title="Edit section: Arts and literature">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li>Alton Dorian Clark (born 1984), better known as American hip-hop musician <a href="/wiki/Dorian_(rapper)" title="Dorian (rapper)">Dorian</a></li>
-<li><a href="/wiki/Andy_Clark_(musician)" title="Andy Clark (musician)">Andy Clark</a>, British musician</li>
-<li>Anne Erin Clark, better known under her stage name <a href="/wiki/St._Vincent_(musician)" title="St. Vincent (musician)">St. Vincent (musician)</a> (born 1982), American singer, songwriter, and musician</li>
-<li><a href="/wiki/Appleton_P._Clark,_Jr." class="mw-redirect" title="Appleton P. Clark, Jr.">Appleton P. Clark, Jr.</a> (1865–1955), American architect</li>
-<li><a href="/wiki/Bob_Clark" title="Bob Clark">Bob Clark</a> (Benjamin "Bob" Clark) (1941–2007), an American director</li>
-<li><a href="/wiki/Buddy_Clark" title="Buddy Clark">Buddy Clark</a> (1911–1949), American singer</li>
-<li><a href="/wiki/Catherine_Clark" title="Catherine Clark">Catherine Clark</a> (born 1976), Canadian television host</li>
-<li><a href="/wiki/Chris_Clark_(musician)" title="Chris Clark (musician)">Chris Clark</a> (born 1979), British musician, known by the <a href="/wiki/Mononym" class="mw-redirect" title="Mononym">mononym</a> "Clark"</li>
-<li><a href="/wiki/Christian_Clark" title="Christian Clark">Christian Clark</a> (born 1979), Australian actor</li>
-<li><a href="/wiki/Claudine_Clark" title="Claudine Clark">Claudine Clark</a>, R&amp;B singer and performer of the 1962 hit record "<a href="/wiki/Party_Lights_(Claudine_Clark_song)" title="Party Lights (Claudine Clark song)">Party Lights</a>"</li>
-<li><a href="/wiki/Cora_Mildred_Maris_Clark" title="Cora Mildred Maris Clark">Cora Mildred Maris Clark</a> (1885–1967), New Zealand hockey player and nurse</li>
-<li><a href="/wiki/Dave_Clark_(musician)" title="Dave Clark (musician)">Dave Clark</a> (born 1942), drummer of The Dave Clark Five</li>
-<li>Dorothy Park Clark (1899–1983), American novelist who wrote under the pen name <a href="/wiki/Clark_McMeekin" title="Clark McMeekin">Clark McMeekin</a></li>
-<li><a href="/wiki/Dodie_Clark" title="Dodie Clark">Dodie Clark</a> (Born 1995), English musician, YouTuber, and author</li>
-<li><a href="/wiki/Dont%C3%A9_Clark" title="Donté Clark">Donté Clark</a> American poet, actor</li>
-<li><a href="/wiki/Ernest_Clark" title="Ernest Clark">Ernest Clark</a> (1912–1994), British actor</li>
-<li><a href="/wiki/Guy_Clark" title="Guy Clark">Guy Clark</a> (1941–2016), American musician, songwriter, recording artist, and performer</li>
-<li><a href="/wiki/Helen_Taggart_Clark" title="Helen Taggart Clark">Helen Taggart Clark</a> (1849–?), American journalist, poet</li>
-<li><a href="/wiki/Hilda_Margery_Clarke" title="Hilda Margery Clarke">Hilda Margery Clarke</a> (born 1926), English painter and curator</li>
-<li><a href="/wiki/Jean_Clark_(artist)" title="Jean Clark (artist)">Jean Clark</a> (1902–1999), English artist</li>
-<li><a href="/wiki/Joshua_Clark" title="Joshua Clark">Joshua Clark</a>, (born 1980), American writer</li>
-<li><a href="/wiki/Ken_Clark_(actor)" title="Ken Clark (actor)">Ken Clark</a>, (1921–2009), American actor</li>
-<li><a href="/wiki/Laura_Lee_Clark" title="Laura Lee Clark">Laura Lee Clark</a> (born 1964), American interior designer</li>
-<li><a href="/wiki/Libby_Clark" title="Libby Clark">Libby Clark</a>, (&#160;? - 2012), American journalist</li>
-<li><a href="/wiki/Louis_Clark" title="Louis Clark">Louis Clark</a>, musician and conductor with The Orchestra (successor band to ELO and ELO Part II)</li>
-<li><a href="/wiki/Robin_Clark_(pop_singer)" title="Robin Clark (pop singer)">Robin Clark</a>, (born 1949), 1960s American pop singer</li>
-<li><a href="/wiki/Roy_Clark" title="Roy Clark">Roy Clark</a> (1933–2018), American singer and musician</li>
-<li><a href="/wiki/Spencer_T._Clark" class="mw-redirect" title="Spencer T. Clark">Spencer T. Clark</a> (born 1987), American actor</li>
-<li><a href="/wiki/Steve_Clark" title="Steve Clark">Steve Clark</a> (1960–1991), British guitarist for Def Leppard</li>
-<li><a href="/wiki/Tom_Clark_(journalist)" title="Tom Clark (journalist)">Tom Clark</a>, Canadian television journalist</li>
-<li><a href="/wiki/Vicky_A._Clark" title="Vicky A. Clark">Vicky A. Clark</a>, American art curator</li>
-<li><a href="/wiki/Vinnie_B._Clark" title="Vinnie B. Clark">Vinnie B. Clark</a> (1878–1971), American educator and author</li>
-<li><a href="/wiki/William_Clark_(artist)" title="William Clark (artist)">William Clark (artist)</a> (1803-1883), Scottish artist</li></ul>
-<h2><span class="mw-headline" id="Business">Business</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Clark&amp;action=edit&amp;section=3" title="Edit section: Business">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Allen_George_Clark" title="Allen George Clark">Allen George Clark</a> (1898–1962), British businessman</li>
-<li><a href="/wiki/Arnold_Clark" title="Arnold Clark">Arnold Clark</a> (1927–2017), Scottish businessman</li>
-<li><a href="/wiki/Hilda_Clark_(model)" title="Hilda Clark (model)">Hilda Clark</a> (1872–1932), American Coca-Cola advertising spokesperson</li>
-<li><a href="/wiki/Jonas_Gilman_Clark" title="Jonas Gilman Clark">Jonas Gilman Clark</a> (1815–1900), American businessman and the founder of Clark University</li>
-<li><a href="/wiki/Lance_Clark" title="Lance Clark">Lance Clark</a> (1936–2018), English businessman, of the shoe retailers Clarks</li>
-<li><a href="/wiki/Myron_Henry_Clark" title="Myron Henry Clark">Myron Henry Clark</a> (1881-1953), American management consultant</li>
-<li><a href="/wiki/Shawn_M._Clark" title="Shawn M. Clark">Shawn M. Clark</a> (born ca 1964), American organizational theorist</li></ul>
-<h2><span class="mw-headline" id="Politics_and_law">Politics and law</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Clark&amp;action=edit&amp;section=4" title="Edit section: Politics and law">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Abraham_Clark" title="Abraham Clark">Abraham Clark</a> (1725–1794), American politician and Revolutionary War figure</li>
-<li><a href="/wiki/Alan_Clark" title="Alan Clark">Alan Clark</a> (1928–1999), British Conservative politician and author, son of Kenneth Clark</li>
-<li><a href="/wiki/Alistair_Clark,_Lord_Clark" title="Alistair Clark, Lord Clark">Alistair Clark, Lord Clark</a> (<abbr title="floruit (&quot;flourished&quot; –&#160;known to have been active at a particular time or during a particular period)">fl.</abbr><span style="white-space:nowrap;">&#8201;2016</span>), Scottish judge, Senator of the College of Justice</li>
-<li><a href="/wiki/Augusta_Clark" title="Augusta Clark">Augusta Clark</a> (1932–2013), American librarian, lawyer and politician</li>
-<li><a href="/wiki/Barbara_M._Clark" title="Barbara M. Clark">Barbara M. Clark</a> (1939-2016), New York politician</li>
-<li><a href="/wiki/Benjamin_S._W._Clark" title="Benjamin S. W. Clark">Benjamin S. W. Clark</a> (1829–1912), a New York politician</li>
-<li><a href="/wiki/Billy_J._Clark" title="Billy J. Clark">Billy J. Clark</a> (1778–1866), a New York physician and politician</li>
-<li><a href="/wiki/Boyd_A._Clark" title="Boyd A. Clark">Boyd A. Clark</a> (1918-1978), an American politician and jurist</li>
-<li><a href="/wiki/Darius_Clark" title="Darius Clark">Darius Clark</a> (1798–1871), New York physician and politician</li>
-<li><a href="/wiki/Frank_M._Clark" title="Frank M. Clark">Frank M. Clark</a> (1915–2003), American Congressman</li>
-<li><a href="/wiki/Gavin_Brown_Clark" title="Gavin Brown Clark">Gavin Brown Clark</a> (1846–1930), MP for Caithness</li>
-<li><a href="/wiki/Greenleaf_Clark" title="Greenleaf Clark">Greenleaf Clark</a> (1835-1904), American jurist</li>
-<li><a href="/wiki/Helen_Clark" title="Helen Clark">Helen Clark</a> (born 1950), Prime Minister of New Zealand from 1999 to 2008</li>
-<li><a href="/wiki/Horace_Clark" title="Horace Clark">Horace Clark</a>, 1830s New York politician</li>
-<li><a href="/wiki/Horace_F._Clark" title="Horace F. Clark">Horace F. Clark</a> (1815–1873), US Congressman from New York</li>
-<li><a href="/wiki/Isabella_Clark" class="mw-redirect" title="Isabella Clark">Isabella Clark</a> (1809–1857), wife of Prime Minister of Canada Sir John A. Macdonald</li>
-<li><a href="/wiki/Joe_Clark" title="Joe Clark">Joe Clark</a> (born 1939), former Prime Minister of Canada</li>
-<li><a href="/wiki/Karen_Clark" title="Karen Clark">Karen Clark</a> (born 1945), American politician from Minnesota</li>
-<li><a href="/wiki/Katy_Clark" title="Katy Clark">Katy Clark</a> (born 1967), Scottish politician and trade union official</li>
-<li><a href="/wiki/Kelly_Clark_(lawyer)" title="Kelly Clark (lawyer)">Kelly Clark (lawyer)</a> (1957–2013), American lawyer</li>
-<li><a href="/wiki/Orville_Clark" title="Orville Clark">Orville Clark</a> (1801–1862), New York politician</li>
-<li><a href="/wiki/Ramsey_Clark" title="Ramsey Clark">Ramsey Clark</a> (born 1927), US Attorney General and activist</li>
-<li><a href="/wiki/Satterlee_Clark,_Jr." class="mw-redirect" title="Satterlee Clark, Jr.">Satterlee Clark, Jr.</a>, American politician</li>
-<li>Sir <a href="/wiki/Terence_Clark" title="Terence Clark">Terence Clark</a> (born 1934), British retired diplomat and writer</li>
-<li><a href="/wiki/Tom_C._Clark" title="Tom C. Clark">Tom C. Clark</a> (1899–1977), US Attorney General, U.S. Supreme Court justice</li>
-<li><a href="/wiki/Zenas_Clark" title="Zenas Clark">Zenas Clark</a> (1795–1864), New York politician</li></ul>
-<h2><span class="mw-headline" id="Science_and_medicine">Science and medicine</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Clark&amp;action=edit&amp;section=5" title="Edit section: Science and medicine">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Adam_Clark_(meteorologist)" title="Adam Clark (meteorologist)">Adam Clark</a>, American meteorologist</li>
-<li><a href="/wiki/Benjamin_Preston_Clark" title="Benjamin Preston Clark">Benjamin Preston Clark</a> (1860-1939), an American entomologist</li>
-<li><a href="/wiki/Bracy_Clark" title="Bracy Clark">Bracy Clark</a> (1771–1860), an English veterinary surgeon specialising in the horse</li>
-<li><a href="/wiki/Cynthia_Clark" title="Cynthia Clark">Cynthia Clark</a> (born 1942), American statistician</li>
-<li><a href="/wiki/Daniel_Kinnear_Clark" title="Daniel Kinnear Clark">Daniel Kinnear Clark</a> (1822–1896), Scottish railway mechanical engineer</li>
-<li><a href="/wiki/Duncan_W._Clark" title="Duncan W. Clark">Duncan W. Clark</a> (1910–2007), American public health specialist</li>
-<li><a href="/wiki/Gerry_Clark" title="Gerry Clark">Gerry Clark</a> (1927–1999), New Zealand sailor and ornithologist</li>
-<li><a href="/wiki/Grahame_Clark" title="Grahame Clark">Grahame Clark</a> (1907-1995), British archaeologist</li>
-<li><a href="/wiki/Hamlet_Clark" title="Hamlet Clark">Hamlet Clark</a> (1823–1867), English entomologist</li>
-<li><a href="/wiki/Hilda_Clark_(doctor)" title="Hilda Clark (doctor)">Hilda Clark</a> (1881-1955), Quaker physician and humanitarian</li>
-<li><a href="/wiki/Hubert_Lyman_Clark" title="Hubert Lyman Clark">Hubert Lyman Clark</a> (1870-1947), American zoologist</li>
-<li><a href="/wiki/Leslie_J._Clark" class="mw-redirect" title="Leslie J. Clark">Leslie J. Clark</a> (1924–2003), British engineer and founder of Parvalux</li>
-<li><a href="/wiki/Lynn_G._Clark" title="Lynn G. Clark">Lynn G. Clark</a> (born 1956), American botanist</li>
-<li><a href="/wiki/Noel_A._Clark" title="Noel A. Clark">Noel A. Clark</a> (born 1940), American physicist</li>
-<li><a href="/wiki/Wilfrid_Le_Gros_Clark" title="Wilfrid Le Gros Clark">Wilfrid Le Gros Clark</a> (1895–1971), British palaeoanthropologist</li></ul>
-<h2><span class="mw-headline" id="Sports">Sports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Clark&amp;action=edit&amp;section=6" title="Edit section: Sports">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Babe_Clark" title="Babe Clark">Babe Clark</a>, American football player</li>
-<li><a href="/wiki/Carmel_Clark" title="Carmel Clark">Carmel Clark</a> (born 1965), New Zealand swimmer</li>
-<li><a href="/wiki/Chuck_Clark" title="Chuck Clark">Chuck Clark</a> (born 1995), American football player</li>
-<li><a href="/wiki/Chuck_Clark_(ice_hockey)" title="Chuck Clark (ice hockey)">Chuck Clark</a> (1891–1970), British-born Canadian ice hockey player</li>
-<li><a href="/wiki/Corrie_Clark" title="Corrie Clark">Corrie Clark</a> (born 1982), American breaststroke swimmer</li>
-<li><a href="/wiki/Dallas_Clark" title="Dallas Clark">Dallas Clark</a>, American football player</li>
-<li><a href="/wiki/Duncan_Clark_(athlete)" title="Duncan Clark (athlete)">Duncan Clark (athlete)</a> (1915–2003), Scottish hammer thrower</li>
-<li><a href="/wiki/Dwight_Clark" title="Dwight Clark">Dwight Clark</a> (1957-2018), American football player</li>
-<li><a href="/wiki/Earl_Clark" title="Earl Clark">Earl Clark</a>, American Basketball player</li>
-<li><a href="/wiki/Elky_Clark" title="Elky Clark">Elky Clark</a> (1898-1956), Scottish boxer of the 1920s</li>
-<li><a href="/wiki/Frank_Clark_(footballer)" title="Frank Clark (footballer)">Frank Clark (footballer)</a>, English football player</li>
-<li><a href="/wiki/Ginger_Clark" title="Ginger Clark">Ginger Clark</a> (1879–1943), American baseball pitcher</li>
-<li><a href="/wiki/Glenn_Clark" title="Glenn Clark">Glenn Clark</a> (born 1969), Canadian coach of Toronto Rock</li>
-<li><a href="/wiki/Hannah_Clark" title="Hannah Clark">Hannah Clark</a> (born 1990), English cricketer</li>
-<li><a href="/wiki/Jeremy_Clark_(defensive_back)" title="Jeremy Clark (defensive back)">Jeremy Clark (defensive back)</a> (born 1994), American football player</li>
-<li><a href="/wiki/Kelly_Clark" title="Kelly Clark">Kelly Clark</a> (born 1983), American snowboarder</li>
-<li><a href="/wiki/Le%27Raven_Clark" title="Le&#39;Raven Clark">Le'Raven Clark</a> (born 1993), American football player</li>
-<li><a href="/wiki/Ocky_Clark" title="Ocky Clark">Ocky Clark</a> (born 1960), American middle distance runner</li>
-<li><a href="/wiki/Otey_Clark" title="Otey Clark">Otey Clark</a> (born 1915), American baseball pitcher</li>
-<li><a href="/wiki/R._Foster_Clark" title="R. Foster Clark">R. Foster Clark</a>, American college sports coach</li>
-<li><a href="/wiki/Ranza_Clark" title="Ranza Clark">Ranza Clark</a> (born 1961), Canadian middle distance runner</li>
-<li><a href="/wiki/Roger_Clark" title="Roger Clark">Roger Clark</a>, British rally driver</li>
-<li><a href="/wiki/Sherm_Clark" title="Sherm Clark">Sherm Clark</a> (1899–1980), American Olympic rower and rear admiral</li>
-<li><a href="/wiki/Stuart_Clark" title="Stuart Clark">Stuart Clark</a> (born 1975), Australian cricketer</li>
-<li><a href="/wiki/Wendel_Clark" title="Wendel Clark">Wendel Clark</a> (born 1966), retired Canadian ice hockey player</li>
-<li><a href="/wiki/Will_Clark" title="Will Clark">Will Clark</a> (born 1964), American baseball player</li></ul>
-<h2><span class="mw-headline" id="Other">Other</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Clark&amp;action=edit&amp;section=7" title="Edit section: Other">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Alice_Clark" title="Alice Clark">Alice Clark</a> (1874–1934), English suffragist and historian</li>
-<li><a href="/wiki/Alister_Clark" title="Alister Clark">Alister Clark</a> (1864–1949), Australian rose-breeder</li>
-<li><a href="/wiki/Davis_Wasgatt_Clark" title="Davis Wasgatt Clark">Davis Wasgatt Clark</a> (1812–1871), American bishop of the Methodist Episcopal Church</li>
-<li><a href="/wiki/Felton_Grandison_Clark" title="Felton Grandison Clark">Felton Grandison Clark</a> (1903-1970), African-American university president</li>
-<li><a href="/wiki/Hugh_Massey_Clark" title="Hugh Massey Clark">Hugh Massey Clark</a> (1886–1956), New York philatelist</li>
-<li><a href="/wiki/Hulda_Regehr_Clark" title="Hulda Regehr Clark">Hulda Regehr Clark</a>, (1928–2009), alternative medicine practitioner</li>
-<li><a href="/wiki/Joseph_Samuel_Clark" title="Joseph Samuel Clark">Joseph Samuel Clark</a> (1871–1944), African-American university president</li>
-<li><a href="/wiki/Manning_Clark" title="Manning Clark">Manning Clark</a> (1915–1991), Australian historian</li>
-<li><a href="/wiki/Mark_Wayne_Clark" class="mw-redirect" title="Mark Wayne Clark">Mark Wayne Clark</a> (1896–1984), American army general in WW2 (Italy) and the Korean War</li>
-<li><a href="/wiki/Nada_Hazel_Clark" title="Nada Hazel Clark">Nada Hazel Clark</a> (1922–1964), New Zealand trade unionist</li>
-<li><a href="/wiki/Nancy_B._Clark" title="Nancy B. Clark">Nancy B. Clark</a>, Massachusetts philatelist, president of Cardinal Spellman Philatelic Museum</li>
-<li><a href="/wiki/R._Scott_Clark" title="R. Scott Clark">R. Scott Clark</a> (born 1961) American seminary professor</li>
-<li><a href="/wiki/Theresa_Maria_Clark" class="mw-redirect" title="Theresa Maria Clark">Theresa Maria Clark</a> (c. 1890–1953), New York philatelist, spouse of Hugh Massey Clark</li>
-<li><a href="/wiki/Wesley_K._Clark" class="mw-redirect" title="Wesley K. Clark">Wesley K. Clark</a> (born 1944), American army general in the Vietnam War and Kosovo</li></ul>
-<h2><span class="mw-headline" id="Fictional_characters">Fictional characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Clark&amp;action=edit&amp;section=8" title="Edit section: Fictional characters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Tracy_Clark" class="mw-redirect" title="Tracy Clark">Tracy Clark</a>, fictional character from The CW primetime drama <i>90210</i></li>
-<li><a href="/wiki/Clark_Kent" title="Clark Kent">Clark Kent</a>, secret identity of DC Superhero Superman</li>
-<li><a href="/wiki/Clark_Griswold" class="mw-redirect" title="Clark Griswold">Clark Griswold</a>, fictional character from National Lampoon’s Vacation film series.</li></ul>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Clark&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Clark_Kent" title="Clark Kent">Clark Kent</a>, the civilian identity of cultural icon, Superman</li>
-<li><a href="/wiki/The_Clark_Sisters" title="The Clark Sisters">The Clark Sisters</a>, American gospel vocalists from Detroit</li>
-<li><a href="/wiki/Clark_(taxonomic_authority)" class="mw-redirect" title="Clark (taxonomic authority)">Clark (taxonomic authority)</a></li>
-<li><a href="/wiki/Clarke" title="Clarke">Clarke</a></li>
-<li><a href="/wiki/Justice_Clark_(disambiguation)" class="mw-redirect mw-disambig" title="Justice Clark (disambiguation)">Justice Clark (disambiguation)</a></li>
-<li><a href="/wiki/Clerke_(disambiguation)" class="mw-redirect mw-disambig" title="Clerke (disambiguation)">Clerke (disambiguation)</a></li>
-<li><a href="/wiki/Karen_Clark_Sheard" title="Karen Clark Sheard">Karen Clark Sheard</a> (born 1960), American Grammy Award-winning singer</li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Clark&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="reflist" style="list-style-type: decimal;">
-<div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-BRE-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-BRE_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BRE_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://forebears.co.uk/surnames/clark">"Clark Surname Meaning, Origins &amp; Distribution"</a>. <i>Forebears.co.uk</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-06-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Forebears.co.uk&amp;rft.atitle=Clark+Surname+Meaning%2C+Origins+%26+Distribution&amp;rft_id=http%3A%2F%2Fforebears.co.uk%2Fsurnames%2Fclark&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AClark" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+<h2><span class="mw-headline" id="Notable_Fowlers">Notable Fowlers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fowler_(surname)&amp;action=edit&amp;section=1" title="Edit section: Notable Fowlers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Born_before_1700">Born before 1700</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fowler_(surname)&amp;action=edit&amp;section=2" title="Edit section: Born before 1700">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Constance_Aston_Fowler" title="Constance Aston Fowler">Constance Aston Fowler</a> (born "Constance Aston"), English author and anthologist</li>
+<li><a href="/wiki/Edward_Fowler" title="Edward Fowler">Edward Fowler</a> (1632&#8211;1714), English churchman, Bishop of Gloucester</li>
+<li><a href="/wiki/Eliza_Haywood" title="Eliza Haywood">Eliza Haywood</a> (born "Elizabeth Fowler" 1693&#8211;1756), English writer, actress and publisher</li>
+<li><a href="/wiki/Richard_Fowler_(chancellor)" title="Richard Fowler (chancellor)">Richard Fowler (chancellor)</a> (c.1425&#8211;1477) - Chancellor of the Exchequer to Edward IV</li>
+<li><a href="/wiki/Thomas_Fowler_(courtier)" title="Thomas Fowler (courtier)">Thomas Fowler (courtier)</a>, (d. 1590), steward of the Countess of Lennox, and spy</li>
+<li><a href="/wiki/William_Fowler_(makar)" title="William Fowler (makar)">William Fowler (makar)</a> (c. 1560&#8211;1612), Scottish poet, writer, courtier, and translator</li></ul>
+<h3><span class="mw-headline" id="Born_after_1700">Born after 1700</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fowler_(surname)&amp;action=edit&amp;section=3" title="Edit section: Born after 1700">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Charles_Fowler" title="Charles Fowler">Charles Fowler</a> (1792&#8211;1867), English architect</li>
+<li><a href="/wiki/John_Fowler_(politician)" title="John Fowler (politician)">John Fowler (politician)</a> (1755&#8211;1840), American national politician</li>
+<li><a href="/wiki/Robert_Fowler_(archbishop)" class="mw-redirect" title="Robert Fowler (archbishop)">Robert Fowler (archbishop)</a> (1724&#8211;1801), Archbishop of Dublin in the Church of Ireland</li>
+<li><a href="/wiki/Robert_Fowler_(bishop)" class="mw-redirect" title="Robert Fowler (bishop)">Robert Fowler (bishop)</a> (1767&#8211;1841), his son, Bishop of Ossory in the Church of Ireland</li>
+<li><a href="/wiki/Robert_Merrick_Fowler" title="Robert Merrick Fowler">Robert Merrick Fowler</a> (1778&#8211;c1850), Royal Navy officer</li>
+<li><a href="/wiki/Samuel_Fowler_(1779%E2%80%931844)" title="Samuel Fowler (1779–1844)">Samuel Fowler (1779&#8211;1844)</a>, New Jersey Congressman from 1833 to 1837</li>
+<li><a href="/wiki/Thomas_Fowler_(inventor)" title="Thomas Fowler (inventor)">Thomas Fowler (inventor)</a> (1777&#8211;1843), English inventor</li>
+<li><a href="/wiki/William_Chauncey_Fowler" title="William Chauncey Fowler">William Chauncey Fowler</a> (1793&#8211;1881), American scholar, son-in-law and assistant to Noah Webster</li></ul>
+<h3><span class="mw-headline" id="Born_after_1800">Born after 1800</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fowler_(surname)&amp;action=edit&amp;section=4" title="Edit section: Born after 1800">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Alfred_Fowler" title="Alfred Fowler">Alfred Fowler</a> (1868–1940), English astronomer</li>
+<li><a href="/wiki/Charles_Henry_Fowler" title="Charles Henry Fowler">Charles Henry Fowler</a> (1837–1908), Canadian-American Bishop of the Methodist Episcopal Church</li>
+<li><a href="/wiki/Charles_N._Fowler" title="Charles N. Fowler">Charles N. Fowler</a> (1852–1932), American national politician</li>
+<li><a href="/wiki/Edmund_John_Fowler" class="mw-redirect" title="Edmund John Fowler">Edmund John Fowler</a> (1861–1926), Irish soldier and recipient of the Victoria Cross</li>
+<li><a href="/wiki/Francis_George_Fowler" title="Francis George Fowler">Francis George Fowler</a> (1871–1918), English writer on English language, grammar and usage</li>
+<li><a href="/wiki/Frank_Fowler_(artist)" title="Frank Fowler (artist)">Frank Fowler</a> (1852–1910), American artist</li>
+<li><a href="/wiki/Frank_Oliver_Fowler" title="Frank Oliver Fowler">Frank Oliver Fowler</a> (1861–1945), Canadian politician in Manitoba, Mayor of Winnipeg</li>
+<li><a href="/wiki/George_Fowler_(politician)" title="George Fowler (politician)">George Fowler (politician)</a> (1839–1896), South Australian politician</li>
+<li><a href="/wiki/George_William_Fowler" title="George William Fowler">George William Fowler</a> (1859–1924) Canadian politician and lawyer</li>
+<li><a href="/wiki/Henry_Fowler,_1st_Viscount_Wolverhampton" title="Henry Fowler, 1st Viscount Wolverhampton">Henry Fowler, 1st Viscount Wolverhampton</a> (1830–1911), English national politician, Secretary of the Treasury, Secretary of State for India</li>
+<li>Sir <a href="/wiki/Henry_Fowler_(engineer)" title="Henry Fowler (engineer)">Henry Fowler (engineer)</a>, (1870–1938) English locomotive engineer</li>
+<li>Henry Fowler (died 1896), one of a pair of Victorian murderers, known as <a href="/wiki/Milsom_and_Fowler" title="Milsom and Fowler">Milsom and Fowler</a></li>
+<li><a href="/wiki/Henry_Watson_Fowler" title="Henry Watson Fowler">Henry Watson Fowler</a> (1858–1933), English schoolmaster, lexicographer and commentator on the usage of English</li>
+<li><a href="/wiki/Henry_Weed_Fowler" title="Henry Weed Fowler">Henry Weed Fowler</a> (1878–1965), American zoologist</li>
+<li><a href="/wiki/C._Hodgson_Fowler" title="C. Hodgson Fowler">C. Hodgson Fowler</a> (1840–1910), English ecclesiastical architect</li>
+<li><a href="/wiki/Jack_Fowler_(footballer_born_1899)" class="mw-redirect" title="Jack Fowler (footballer born 1899)">Jack Fowler (footballer born 1899)</a> (born 1899), Welsh footballer</li>
+<li><a href="/wiki/Jesse_Fowler" title="Jesse Fowler">Jesse Fowler</a> (1898–1973), American professional baseball player</li>
+<li><a href="/wiki/Sir_John_Fowler,_1st_Baronet" title="Sir John Fowler, 1st Baronet">Sir John Fowler, 1st Baronet</a> (1817–1898), English railway engineer</li>
+<li><a href="/wiki/John_Fowler_(agricultural_engineer)" title="John Fowler (agricultural engineer)">John Fowler (agricultural engineer)</a> (1826–1864), English agricultural engineer</li>
+<li><a href="/wiki/John_Edgar_Fowler" title="John Edgar Fowler">John Edgar Fowler</a> (1866–1930), American national politician</li>
+<li><a href="/wiki/Joseph_S._Fowler" title="Joseph S. Fowler">Joseph S. Fowler</a> (1820–1902), American national politician</li>
+<li><a href="/wiki/Lilian_Fowler" title="Lilian Fowler">Lilian Fowler</a> (1886–1954), Australian politician</li>
+<li><a href="/wiki/Lydia_Folger_Fowler" title="Lydia Folger Fowler">Lydia Folger Fowler</a> (1823–1879), pioneering American physician, activist, and professor of medicine.</li>
+<li><a href="/wiki/Orson_Squire_Fowler" title="Orson Squire Fowler">Orson Squire Fowler</a> (1809–1887), American phrenologist</li>
+<li><a href="/wiki/Ralph_H._Fowler" title="Ralph H. Fowler">Ralph H. Fowler</a> (1889–1944), English physicist and astronomer</li>
+<li><a href="/wiki/Sir_Robert_Fowler,_1st_Baronet" title="Sir Robert Fowler, 1st Baronet">Sir Robert Fowler, 1st Baronet</a> (1828–1891), Lord Mayor of London</li>
+<li><a href="/wiki/Robert_Fowler_(athlete)" title="Robert Fowler (athlete)">Robert Fowler (athlete)</a> (1882&#8211;after 1981), Newfoundland-born Olympian and world record holder (marathon)</li>
+<li><a href="/wiki/Robert_George_Fowler" class="mw-redirect" title="Robert George Fowler">Robert George Fowler</a> (1884–1966), American aviation pioneer</li>
+<li><a href="/wiki/Robert_Henry_Fowler" title="Robert Henry Fowler">Robert Henry Fowler</a> (1857–1957), Irish cricketer</li>
+<li><a href="/wiki/Robert_St_Leger_Fowler" title="Robert St Leger Fowler">Robert St Leger Fowler</a> (1891–1925), Irish cricketer and captain of Eton in the famous Eton v Harrow match of 1910</li>
+<li><a href="/wiki/Samuel_Fowler_(1851%E2%80%931919)" title="Samuel Fowler (1851–1919)">Samuel Fowler (1851–1919)</a>, New Jersey Congressman from 1889 to 1893</li>
+<li><a href="/wiki/J._Samuel_Fowler" title="J. Samuel Fowler">J. Samuel Fowler</a> (1874–1961), New York politician</li>
+<li><a href="/wiki/Thomas_Fowler_(academic)" title="Thomas Fowler (academic)">Thomas Fowler (academic)</a> (1832&#8211;1904), Vice-Chancellor of the University of Oxford</li>
+<li><a href="/wiki/William_Warde_Fowler" title="William Warde Fowler">William Warde Fowler</a> (1847–1921), English historian and ornithologist, tutor at Lincoln College, Oxford</li>
+<li><a href="/wiki/William_Weekes_Fowler" title="William Weekes Fowler">William Weekes Fowler</a> (1849–1923), Entomologist</li></ul>
+<h3><span class="mw-headline" id="Born_after_1900">Born after 1900</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fowler_(surname)&amp;action=edit&amp;section=5" title="Edit section: Born after 1900">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Alan_Fowler_(footballer)" title="Alan Fowler (footballer)">Alan Fowler (footballer)</a></li>
+<li><a href="/wiki/Art_Fowler" title="Art Fowler">Art Fowler</a> (1922&#8211;2007), American professional baseball player &amp; pitching coach</li>
+<li><a href="/wiki/Bobby_Jack_Fowler" title="Bobby Jack Fowler">Bobby Jack Fowler</a> (1939&#8211;2006), American serial killer</li>
+<li><a href="/wiki/Boob_Fowler" title="Boob Fowler">Boob Fowler</a> (1900&#8211;1988), American professional baseball player</li>
+<li><a href="/wiki/Bruce_Fowler" title="Bruce Fowler">Bruce Fowler</a> (born 1948), American trombonist</li>
+<li><a href="/wiki/Calvin_Fowler" title="Calvin Fowler">Calvin Fowler</a> (1940&#8211;2013), American Olympic basketball player</li>
+<li><a href="/wiki/Cary_Fowler" title="Cary Fowler">Cary Fowler</a> (born 1949), agricultural conservationist</li>
+<li><a href="/wiki/Catherine_S._Fowler" title="Catherine S. Fowler">Catherine S. Fowler</a> (born 1940) American anthropologist</li>
+<li><a href="/wiki/Daphne_Fowler" title="Daphne Fowler">Daphne Fowler</a> (born 1939), English quiz show champion</li>
+<li><a href="/wiki/David_Fowler_(mathematician)" title="David Fowler (mathematician)">David Fowler (mathematician)</a> (1937&#8211;2004), English math historian</li>
+<li><a href="/wiki/Donald_Fowler" title="Donald Fowler">Donald Fowler</a> (born 1935), American national politician</li>
+<li><a href="/wiki/Don_D._Fowler" title="Don D. Fowler">Don D. Fowler</a> (born 1936), American anthropologist and archaeologist</li>
+<li><a href="/wiki/Earl_B._Fowler" class="mw-redirect" title="Earl B. Fowler">Earl B. Fowler</a> (1925&#8211;2008), Admiral, United States Navy</li>
+<li><a href="/wiki/Hal_Fowler" title="Hal Fowler">Hal Fowler</a> (born 1927), American amateur World Champion poker player</li>
+<li><a href="/wiki/Hedley_Fowler" title="Hedley Fowler">Hedley Fowler</a> (1916-1944), English RAF Pilot who escaped from Colditz Castle</li>
+<li><a href="/wiki/Henry_H._Fowler" title="Henry H. Fowler">Henry H. Fowler</a> (1908&#8211;2000), American lawyer and Secretary of the Treasury</li>
+<li><a href="/w/index.php?title=H._M._Fowler&amp;action=edit&amp;redlink=1" class="new" title="H. M. Fowler (page does not exist)">H. M. Fowler</a> (1918&#8211;2014), American politician</li>
+<li><a href="/wiki/Hugh_S._Fowler" title="Hugh S. Fowler">Hugh S. Fowler</a> (1912&#8211;1975), American film editor</li>
+<li><a href="/wiki/Ian_Fowler" title="Ian Fowler">Ian Fowler</a> (1939&#8211;2013), British journalist</li>
+<li><a href="/wiki/James_Bonard_Fowler" title="James Bonard Fowler">James Bonard Fowler</a> (1933-2015), Alabama State Trooper convicted of shooting unarmed civil rights protestor Jummie Lee Jackson</li>
+<li><a href="/wiki/James_W._Fowler" title="James W. Fowler">James W. Fowler</a> (born 1940), American psychologist, academic and Methodist clergyman</li>
+<li><a href="/wiki/Jim_Fowler" title="Jim Fowler">Jim Fowler</a> (1930&#8211;2019), American zoologist and television personality</li>
+<li><a href="/wiki/Keith_Fowler" title="Keith Fowler">Keith Fowler</a> (born 1939), American educator (professor), actor, director</li>
+<li><a href="/wiki/Michael_Fowler" title="Michael Fowler">Michael Fowler</a> (born 1929), New Zealand architect and Mayor of Wellington</li>
+<li><a href="/wiki/Norman_Fowler" class="mw-redirect" title="Norman Fowler">Norman Fowler</a> (born 1938), English national politician and peer (Lord Fowler)</li>
+<li><a href="/wiki/Ron_Fowler" title="Ron Fowler">Ron Fowler</a> (born 1943/1944) executive chairman of the San Diego Padres and CEO of Liquid Investments Incorporated</li>
+<li><a href="/wiki/Thomas_W._Fowler" title="Thomas W. Fowler">Thomas W. Fowler</a> (1921&#8211;1944), World War II American Army officer, recipient of the Medal of Honor</li>
+<li><a href="/wiki/Tillie_K._Fowler" class="mw-redirect" title="Tillie K. Fowler">Tillie K. Fowler</a> (1942&#8211;2005), American national politician</li>
+<li><a href="/wiki/William_Alfred_Fowler" title="William Alfred Fowler">William Alfred Fowler</a> (1911&#8211;1995), American astrophysicist</li>
+<li><a href="/wiki/Wyche_Fowler" title="Wyche Fowler">Wyche Fowler</a> (born 1940), American national politician and diplomat</li></ul>
+<h3><span class="mw-headline" id="Born_after_1950">Born after 1950</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fowler_(surname)&amp;action=edit&amp;section=6" title="Edit section: Born after 1950">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Ally_Fowler" title="Ally Fowler">Ally Fowler</a> (born 1961), Australian actress</li>
+<li><a href="/wiki/Bernard_Fowler" title="Bernard Fowler">Bernard Fowler</a> (born "Royland Bernard Fowler", 1959), American singer, producer, songwriter</li>
+<li><a href="/wiki/Brian_Fowler" title="Brian Fowler">Brian Fowler</a> (born 1962), New Zealand Olympic cyclist</li>
+<li><a href="/wiki/Carlos_Fowler" title="Carlos Fowler">Carlos Fowler</a> (born 1972), American football player</li>
+<li><a href="/wiki/Charlie_Fowler" title="Charlie Fowler">Charlie Fowler</a> (1954&#8211;2006), American mountain climber, writer, and photographer</li>
+<li><a href="/wiki/Chris_Fowler" title="Chris Fowler">Chris Fowler</a> (born 1962), American sports journalist</li>
+<li><a href="/wiki/Christopher_Fowler" title="Christopher Fowler">Christopher Fowler</a> (born 1953), English fiction author</li>
+<li><a href="/wiki/Dennis_Fowler" title="Dennis Fowler">Dennis Fowler</a> (living), American surgeon and hospital executive</li>
+<li><a href="/wiki/Dexter_Fowler" title="Dexter Fowler">Dexter Fowler</a> (born 1986), American professional baseball center fielder</li>
+<li><a href="/wiki/Dustin_Fowler" title="Dustin Fowler">Dustin Fowler</a> (born 1994), American professional baseball outfielder</li>
+<li><a href="/wiki/Don_Paul_Fowler" title="Don Paul Fowler">Don Paul Fowler</a> (1953&#8211;1999), English classicist</li>
+<li><a href="/wiki/Graeme_Fowler" title="Graeme Fowler">Graeme Fowler</a> (born 1957), English professional cricketer</li>
+<li><a href="/wiki/James_H._Fowler" title="James H. Fowler">James H. Fowler</a> (born 1970), American political scientist</li>
+<li><a href="/wiki/Jason_Fowler_(footballer)" title="Jason Fowler (footballer)">Jason Fowler (footballer)</a> (born 1974), English professional footballer</li>
+<li><a href="/wiki/Jason_Fowler_(dancer)" title="Jason Fowler (dancer)">Jason Fowler (dancer)</a> (living), New York City Ballet soloist</li>
+<li><a href="/wiki/Karen_Joy_Fowler" title="Karen Joy Fowler">Karen Joy Fowler</a> (born 1950), American fiction author</li>
+<li><a href="/wiki/Kevin_Spacey" title="Kevin Spacey">Kevin Spacey</a> (born "Kevin Fowler", 1959), American actor</li>
+<li><a href="/wiki/Martin_Fowler_(footballer)" title="Martin Fowler (footballer)">Martin Fowler (footballer)</a> (born 1957), former English professional footballer</li>
+<li><a href="/wiki/Martin_Fowler_(software_engineer)" title="Martin Fowler (software engineer)">Martin Fowler (software engineer)</a> (born 1963), English-American software architecture author</li>
+<li><a href="/wiki/Mick_Fowler" title="Mick Fowler">Mick Fowler</a> (born 1956), British mountaineer</li>
+<li><a href="/wiki/Nick_Fowler" title="Nick Fowler">Nick Fowler</a> (living), New York novelist, singer, songwriter</li>
+<li><a href="/wiki/Pete_Fowler" title="Pete Fowler">Pete Fowler</a> (born 1969), Welsh illustrator</li>
+<li><a href="/wiki/Peter_Fowler" title="Peter Fowler">Peter Fowler</a> (born 1959), Australian professional golfer</li>
+<li><a href="/wiki/Rickie_Fowler" title="Rickie Fowler">Rickie Fowler</a> (born 1988), American professional golfer</li>
+<li><a href="/wiki/Ryan_Fowler" title="Ryan Fowler">Ryan Fowler</a> (born 1982), American professional football player</li>
+<li><a href="/wiki/Robbie_Fowler" title="Robbie Fowler">Robbie Fowler</a> (born 1975), English footballer</li>
+<li><a href="/wiki/Samuel_Fowler_(disambiguation)" class="mw-redirect mw-disambig" title="Samuel Fowler (disambiguation)">Samuel Fowler (disambiguation)</a>, several men of this name</li>
+<li><a href="/wiki/Simon_Fowler" title="Simon Fowler">Simon Fowler</a> (born 1965), English musician</li>
+<li><a href="/wiki/Simon_Fowler_(author)" title="Simon Fowler (author)">Simon Fowler (author)</a> (living), British historian</li>
+<li><a href="/wiki/Tommy_Fowler" title="Tommy Fowler">Tommy Fowler</a> (born 1924), English professional footballer</li>
+<li><a href="/wiki/Tom_Fowler_(artist)" class="mw-redirect" title="Tom Fowler (artist)">Tom Fowler (artist)</a> (living), Canadian comic artist</li>
+<li><a href="/wiki/Tom_Fowler_(musician)" title="Tom Fowler (musician)">Tom Fowler (musician)</a> (born 1951), American musician</li></ul>
+<h3><span class="mw-headline" id="Brocklebank-Fowler">Brocklebank-Fowler</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fowler_(surname)&amp;action=edit&amp;section=7" title="Edit section: Brocklebank-Fowler">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Christopher_Brocklebank-Fowler" title="Christopher Brocklebank-Fowler">Christopher Brocklebank-Fowler</a> (born 1934), British politician</li></ul>
+<h2><span class="mw-headline" id="Distribution">Distribution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fowler_(surname)&amp;action=edit&amp;section=8" title="Edit section: Distribution">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The "Fowler" surname evolved from an original use of "<span lang="ang" style="font-style:normal;" title="Old English language text">Fugelere</span>" in the early 13th Century.<sup id="cite_ref-SurnameDB_3-1" class="reference"><a href="#cite_note-SurnameDB-3">&#91;3&#93;</a></sup> The surname is uncommon in the United States, appearing with a rank of 250 in the <a href="/wiki/United_States_Census,_1990" class="mw-redirect" title="United States Census, 1990">1990 Census</a> and a rank of 267 in the <a href="/wiki/United_States_Census,_2000" class="mw-redirect" title="United States Census, 2000">2000 Census</a>, 27½% of the American population being accounted for surnames in the ranks of 1 to 250.<sup id="cite_ref-Ancestry2_4-0" class="reference"><a href="#cite_note-Ancestry2-4">&#91;4&#93;</a></sup>  In 19th Century England, "Fowler" was widespread, appearing in 35 of the 39 <a href="/wiki/Historic_counties_of_England" title="Historic counties of England">historic counties</a>, with higher density in the north of England, in the <a href="/wiki/Census_in_the_United_Kingdom#UK_Census_dates" title="Census in the United Kingdom">1891 Census of England and Wales</a>.<sup id="cite_ref-Ancestry3_5-0" class="reference"><a href="#cite_note-Ancestry3-5">&#91;5&#93;</a></sup>  Meanwhile, in 19th Century United States, "Fowler" appears in every surveyed state in both the <a href="/wiki/United_States_Census,_1880" class="mw-redirect" title="United States Census, 1880">1880 US Census</a> and <a href="/wiki/United_States_Census,_1840" class="mw-redirect" title="United States Census, 1840">1840 US Census</a>, showing a higher concentration in <a href="/wiki/New_York_(state)" title="New York (state)">New York</a> state in each case.<sup id="cite_ref-Ancestry4_6-0" class="reference"><a href="#cite_note-Ancestry4-6">&#91;6&#93;</a></sup><sup id="cite_ref-Ancestry5_7-0" class="reference"><a href="#cite_note-Ancestry5-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Fictional_characters">Fictional characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fowler_(surname)&amp;action=edit&amp;section=9" title="Edit section: Fictional characters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Sam_and_Amanda_Fowler" title="Sam and Amanda Fowler">Sam and Amanda Fowler</a>, fictional characters in U.S. soap opera <i>Another World</i></li>
+<li><a href="/wiki/Amy_Farrah_Fowler" title="Amy Farrah Fowler">Amy Farrah Fowler</a>, from the American sitcom <i>The Big Bang Theory</i></li>
+<li>House Fowler, one of the noble houses of <a href="/wiki/Dorne" class="mw-redirect" title="Dorne">Dorne</a> in the series <i>A Song of Ice and Fire</i> by George R. R. Martin</li></ul>
+<h3><span class="mw-headline" id="EastEnders"><i>EastEnders</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fowler_(surname)&amp;action=edit&amp;section=10" title="Edit section: EastEnders">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Several characters in the British soap opera <i>EastEnders</i> share the "Fowler" surname:
+</p>
+<ul><li><a href="/wiki/Arthur_Fowler" title="Arthur Fowler">Arthur Fowler</a></li>
+<li><a href="/wiki/Arthur_Brian_Fowler" class="mw-redirect" title="Arthur Brian Fowler">Arthur Brian Fowler</a></li>
+<li><a href="/wiki/Bex_Fowler" class="mw-redirect" title="Bex Fowler">Bex Fowler</a></li>
+<li><a href="/wiki/Gill_Fowler" class="mw-redirect" title="Gill Fowler">Gill Fowler</a></li>
+<li><a href="/wiki/Hope_Fowler" class="mw-redirect" title="Hope Fowler">Hope Fowler</a></li>
+<li><a href="/wiki/Lily_Fowler" class="mw-redirect" title="Lily Fowler">Lily Fowler</a></li>
+<li><a href="/wiki/Lisa_Fowler" title="Lisa Fowler">Lisa Fowler</a></li>
+<li><a href="/wiki/Mark_Fowler" title="Mark Fowler">Mark Fowler</a></li>
+<li><a href="/wiki/Mark_Fowler_(2016_character)" class="mw-redirect" title="Mark Fowler (2016 character)">Mark Fowler (2016 character)</a></li>
+<li><a href="/wiki/Martin_Fowler_(EastEnders)" title="Martin Fowler (EastEnders)">Martin Fowler (EastEnders)</a></li>
+<li><a href="/wiki/Michelle_Fowler" title="Michelle Fowler">Michelle Fowler</a></li>
+<li><a href="/wiki/Pauline_Fowler" title="Pauline Fowler">Pauline Fowler</a></li>
+<li><a href="/wiki/Ruth_Fowler" title="Ruth Fowler">Ruth Fowler</a></li>
+<li><a href="/wiki/Sonia_Fowler" title="Sonia Fowler">Sonia Fowler</a></li>
+<li><a href="/wiki/Stacey_Fowler" class="mw-redirect" title="Stacey Fowler">Stacey Fowler</a></li>
+<li><a href="/wiki/Vicki_Fowler" title="Vicki Fowler">Vicki Fowler</a></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fowler_(surname)&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Human_name_disambiguation_pages">Human name disambiguation pages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fowler_(surname)&amp;action=edit&amp;section=12" title="Edit section: Human name disambiguation pages">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Charles_Fowler_(disambiguation)" class="mw-disambig" title="Charles Fowler (disambiguation)">Charles Fowler (disambiguation)</a></li>
+<li><a href="/wiki/Henry_Fowler_(disambiguation)" class="mw-redirect mw-disambig" title="Henry Fowler (disambiguation)">Henry Fowler (disambiguation)</a></li>
+<li><a href="/wiki/James_Fowler_(disambiguation)" class="mw-redirect mw-disambig" title="James Fowler (disambiguation)">James Fowler (disambiguation)</a></li>
+<li><a href="/wiki/John_Fowler_(disambiguation)" class="mw-redirect mw-disambig" title="John Fowler (disambiguation)">John Fowler (disambiguation)</a></li>
+<li><a href="/wiki/Raymond_Fowler_(disambiguation)" class="mw-redirect mw-disambig" title="Raymond Fowler (disambiguation)">Raymond Fowler (disambiguation)</a></li>
+<li><a href="/wiki/Samuel_Fowler_(disambiguation)" class="mw-redirect mw-disambig" title="Samuel Fowler (disambiguation)">Samuel Fowler (disambiguation)</a></li>
+<li><a href="/wiki/Tom_Fowler_(disambiguation)" class="mw-redirect mw-disambig" title="Tom Fowler (disambiguation)">Tom Fowler (disambiguation)</a></li>
+<li><a href="/wiki/Robert_Fowler_(disambiguation)" class="mw-redirect mw-disambig" title="Robert Fowler (disambiguation)">Robert Fowler (disambiguation)</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fowler_(surname)&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-FowlerNewfoundland-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-FowlerNewfoundland_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/E._R._Seary" title="E. R. Seary">Seary, E. R.</a>; Lynch, Sheila M. P. (1988) [1977].  Kirwin, William J. (ed.). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=cdZCZ61xXNcC&amp;pg=PA188&amp;dq=fowler+surname&amp;sig=IFDYALZPGsduWVquFEoRot8oir8#PPA188,M1"><i>Family Names of the Island of Newfoundland</i></a> <span class="cs1-format">(Google Books)</span>. Canada: <a href="/wiki/McGill%E2%80%93Queen%27s_University_Press" title="McGill–Queen&#39;s University Press">McGill–Queen's University Press</a>. p.&#160;188. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7735-1782-0" title="Special:BookSources/0-7735-1782-0"><bdi>0-7735-1782-0</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-09-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Family+Names+of+the+Island+of+Newfoundland&amp;rft.place=Canada&amp;rft.pages=188&amp;rft.pub=McGill%E2%80%93Queen%27s+University+Press&amp;rft.date=1988&amp;rft.isbn=0-7735-1782-0&amp;rft.aulast=Seary&amp;rft.aufirst=E.+R.&amp;rft.au=Lynch%2C+Sheila+M.+P.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DcdZCZ61xXNcC%26pg%3DPA188%26dq%3Dfowler%2Bsurname%26sig%3DIFDYALZPGsduWVquFEoRot8oir8%23PPA188%2CM1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFowler+%28surname%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.surnamedb.com/surname.aspx?name=Clark">"Surname Clark"</a>. <i>Surnamedb.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-02-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Surnamedb.com&amp;rft.atitle=Surname+Clark&amp;rft_id=http%3A%2F%2Fwww.surnamedb.com%2Fsurname.aspx%3Fname%3DClark&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AClark" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+<li id="cite_note-Ancestry1-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ancestry1_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.ancestry.com/name-origin?surname=fowler">"Fowler Name Meaning"</a>. <i>Ancestry</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-09-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ancestry&amp;rft.atitle=Fowler+Name+Meaning&amp;rft_id=https%3A%2F%2Fwww.ancestry.com%2Fname-origin%3Fsurname%3Dfowler&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFowler+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/vital-events/births/popular-names/archive/100-most-common-surnames">"100 Most Common Surnames &#124; National Records of Scotland"</a>. <i>Nrscotland.gov.uk</i>. 2014-09-25<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-06-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Nrscotland.gov.uk&amp;rft.atitle=100+Most+Common+Surnames+%26%23124%3B+National+Records+of+Scotland&amp;rft.date=2014-09-25&amp;rft_id=http%3A%2F%2Fwww.nrscotland.gov.uk%2Fstatistics-and-data%2Fstatistics%2Fstatistics-by-theme%2Fvital-events%2Fbirths%2Fpopular-names%2Farchive%2F100-most-common-surnames&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AClark" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+<li id="cite_note-SurnameDB-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-SurnameDB_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SurnameDB_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.surnamedb.com/surname.aspx?name=Fowler">"Last name: Fowler"</a>. <i>SurnameDB</i>. Name Origin Research<span class="reference-accessdate">. Retrieved <span class="nowrap">2019-09-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=SurnameDB&amp;rft.atitle=Last+name%3A+Fowler&amp;rft_id=http%3A%2F%2Fwww.surnamedb.com%2Fsurname.aspx%3Fname%3DFowler&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFowler+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a href="/wiki/United_States_Census_Bureau" title="United States Census Bureau">United States Census Bureau</a> (9 May 1995). <a href="https://en.wikisource.org/wiki/1990_Census_Name_Files_dist.all.last_(1-100)" class="extiw" title="s:1990 Census Name Files dist.all.last (1-100)">s:1990 Census Name Files dist.all.last (1-100)</a>. Retrieved on 2008-07-04.</span>
+<li id="cite_note-Ancestry2-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ancestry2_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/19970207210525/http://www.census.gov/genealogy/www/namesearch.html">"Name Search Results"</a>. <a href="/wiki/United_States_Census_Bureau" title="United States Census Bureau">United States Census Bureau</a>. 2000-09-07. Archived from <a rel="nofollow" class="external text" href="https://www.census.gov/genealogy/www/namesearch.html">the original</a> <span class="cs1-format">(Database query)</span> on 1997-02-07<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-01-31</span></span>. <q>NAME (last):FOWLER; %FREQ:0.042; CUMM FREQ:27.535%; RANK:250</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Name+Search+Results&amp;rft.pub=United+States+Census+Bureau&amp;rft.date=2000-09-07&amp;rft_id=https%3A%2F%2Fwww.census.gov%2Fgenealogy%2Fwww%2Fnamesearch.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFowler+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-</ol></div></div>
-<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Clark&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a rel="nofollow" class="external text" href="http://www.htmlsd.com/">Clark(e) Surname DNA Project</a></li>
-<li><a href="/wiki/File:Wikispecies-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/14px-Wikispecies-logo.svg.png" decoding="async" width="14" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/20px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/27px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></a> Data related to <a href="https://species.wikimedia.org/wiki/Special:Search/Clark" class="extiw" title="wikispecies:Special:Search/Clark">Clark</a> at Wikispecies</li></ul>
+<li id="cite_note-Ancestry3-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ancestry3_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ancestry.com/facts/Fowler-family-history-uk.ashx?fn=&amp;yr=1891">"Fowler Families Living in England and Wales in 1891"</a>. <i>Family Facts</i>. The Generations Network, Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Family+Facts&amp;rft.atitle=Fowler+Families+Living+in+England+and+Wales+in+1891&amp;rft_id=http%3A%2F%2Fwww.ancestry.com%2Ffacts%2FFowler-family-history-uk.ashx%3Ffn%3D%26yr%3D1891&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFowler+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Ancestry4-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ancestry4_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ancestry.com/facts/Fowler-family-history.ashx?fn=&amp;yr=1880">"Fowler Family History Facts 1880"</a>. <i>Family Facts</i>. The Generations Network, Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Family+Facts&amp;rft.atitle=Fowler+Family+History+Facts+1880&amp;rft_id=http%3A%2F%2Fwww.ancestry.com%2Ffacts%2FFowler-family-history.ashx%3Ffn%3D%26yr%3D1880&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFowler+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Ancestry5-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ancestry5_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ancestry.com/facts/Fowler-family-history.ashx?fn=&amp;yr=1840">"Fowler Family History Facts 1840"</a>. <i>Family Facts</i>. The Generations Network, Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Family+Facts&amp;rft.atitle=Fowler+Family+History+Facts+1840&amp;rft_id=http%3A%2F%2Fwww.ancestry.com%2Ffacts%2FFowler-family-history.ashx%3Ffn%3D%26yr%3D1840&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFowler+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div>
 <style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
 <table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
 <tbody><tr>
 <td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
-<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Clark</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Clark&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Fowler</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Fowler_(surname)&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
 </tr>
 </tbody></table>
 <!-- 
 NewPP limit report
-Parsed by mw1331
-Cached time: 20191016213514
+Parsed by mw1244
+Cached time: 20191020171439
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.224 seconds
-Real time usage: 0.319 seconds
-Preprocessor visited node count: 977/1000000
+CPU time usage: 0.644 seconds
+Real time usage: 0.845 seconds
+Preprocessor visited node count: 815/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 10974/2097152 bytes
-Template argument size: 1367/2097152 bytes
-Highest expansion depth: 8/40
+Post‐expand include size: 17063/2097152 bytes
+Template argument size: 996/2097152 bytes
+Highest expansion depth: 9/40
 Expensive parser function count: 1/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 9440/5000000 bytes
+Unstrip post‐expand size: 21368/5000000 bytes
 Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.101/10.000 seconds
-Lua memory usage: 2.82 MB/50 MB
+Lua time usage: 0.418/10.000 seconds
+Lua memory usage: 12.62 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  258.766      1 -total
- 32.78%   84.819      1 Template:Reflist
- 29.31%   75.847      3 Template:Cite_web
- 21.08%   54.539      1 Template:Infobox_surname
- 19.04%   49.282      1 Template:Surname
- 17.41%   45.063      1 Template:About
- 16.29%   42.165      1 Template:Dmbox
- 15.07%   38.998      1 Template:Infobox
-  8.05%   20.831      1 Template:Category_handler
-  6.09%   15.770      1 Template:Floruit
+100.00%  717.592      1 -total
+ 39.61%  284.265      4 Template:Lang
+ 33.12%  237.658      1 Template:Reflist
+ 23.27%  166.971      1 Template:Cite_book
+ 14.17%  101.694      1 Template:Surname
+ 12.26%   87.997      1 Template:Dmbox
+  6.35%   45.549      1 Template:For
+  4.85%   34.794      1 Template:Wiktionary
+  4.84%   34.743      6 Template:Cite_web
+  4.73%   33.975      1 Template:Short_description
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:244622-0!canonical and timestamp 20191016213513 and revision id 921630097
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4425034-0!canonical and timestamp 20191020171438 and revision id 916822501
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Clark&amp;oldid=921630097">https://en.wikipedia.org/w/index.php?title=Clark&amp;oldid=921630097</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Fowler_(surname)&amp;oldid=916822501">https://en.wikipedia.org/w/index.php?title=Fowler_(surname)&amp;oldid=916822501</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:English-language_surnames" title="Category:English-language surnames">English-language surnames</a></li><li><a href="/wiki/Category:Occupational_surnames" title="Category:Occupational surnames">Occupational surnames</a></li><li><a href="/wiki/Category:Surnames_of_English_origin" title="Category:Surnames of English origin">Surnames of English origin</a></li><li><a href="/wiki/Category:Surnames_of_Scottish_origin" title="Category:Surnames of Scottish origin">Surnames of Scottish origin</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:English-language_surnames" title="Category:English-language surnames">English-language surnames</a></li><li><a href="/wiki/Category:Occupational_surnames" title="Category:Occupational surnames">Occupational surnames</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_Old_English-language_text" title="Category:Articles containing Old English-language text">Articles containing Old English-language text</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -320,13 +322,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Clark" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Clark" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Fowler+%28surname%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Fowler+%28surname%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Clark" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Clark" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Fowler_(surname)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Fowler_(surname)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -341,7 +343,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Clark">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Clark&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Clark&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Fowler_(surname)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Fowler_(surname)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Fowler_(surname)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -380,35 +382,35 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Clark" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Clark" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Clark&amp;oldid=921630097" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Clark&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1119151" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Clark&amp;id=921630097" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Fowler_(surname)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Fowler_(surname)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Fowler_(surname)&amp;oldid=916822501" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Fowler_(surname)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1440104" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Fowler_%28surname%29&amp;id=916822501" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
 			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
 			<div class="body">
 								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Clark_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Fowler_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Clark">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Clark&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Clark&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Fowler+%28surname%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Fowler+%28surname%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Fowler_(surname)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Clark" title="Clark – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Clark_(p%C5%99%C3%ADjmen%C3%AD)" title="Clark (příjmení) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Clark_(Familienname)" title="Clark (Familienname) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%A9%D9%84%D8%A7%D8%B1%DA%A9" title="کلارک – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Clark" title="Clark – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B0%D1%80%D0%BA" title="Кларк – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Clark" title="Clark – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1119151#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Fowler_(s%C3%A8%E2%81%BF)" title="Fowler (sèⁿ) – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Fowler_(p%C5%99%C3%ADjmen%C3%AD)" title="Fowler (příjmení) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Fowler_(Familienname)" title="Fowler (Familienname) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D1%83%D0%BB%D0%B5%D1%80" title="Фаулер – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1440104#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 16 October 2019, at 21:35<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 20 September 2019, at 20:25<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -419,7 +421,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Clark&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Fowler_(surname)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -431,8 +433,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.224","walltime":"0.319","ppvisitednodes":{"value":977,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":10974,"limit":2097152},"templateargumentsize":{"value":1367,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":9440,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  258.766      1 -total"," 32.78%   84.819      1 Template:Reflist"," 29.31%   75.847      3 Template:Cite_web"," 21.08%   54.539      1 Template:Infobox_surname"," 19.04%   49.282      1 Template:Surname"," 17.41%   45.063      1 Template:About"," 16.29%   42.165      1 Template:Dmbox"," 15.07%   38.998      1 Template:Infobox","  8.05%   20.831      1 Template:Category_handler","  6.09%   15.770      1 Template:Floruit"]},"scribunto":{"limitreport-timeusage":{"value":"0.101","limit":"10.000"},"limitreport-memusage":{"value":2956757,"limit":52428800}},"cachereport":{"origin":"mw1331","timestamp":"20191016213514","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Clark","url":"https:\/\/en.wikipedia.org\/wiki\/Clark","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1119151","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1119151","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-06-12T13:52:45Z","dateModified":"2019-10-16T21:35:13Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/00\/Escribano.jpg","headline":"family name"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":104,"wgHostname":"mw1267"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.644","walltime":"0.845","ppvisitednodes":{"value":815,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":17063,"limit":2097152},"templateargumentsize":{"value":996,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":21368,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  717.592      1 -total"," 39.61%  284.265      4 Template:Lang"," 33.12%  237.658      1 Template:Reflist"," 23.27%  166.971      1 Template:Cite_book"," 14.17%  101.694      1 Template:Surname"," 12.26%   87.997      1 Template:Dmbox","  6.35%   45.549      1 Template:For","  4.85%   34.794      1 Template:Wiktionary","  4.84%   34.743      6 Template:Cite_web","  4.73%   33.975      1 Template:Short_description"]},"scribunto":{"limitreport-timeusage":{"value":"0.418","limit":"10.000"},"limitreport-memusage":{"value":13230200,"limit":52428800}},"cachereport":{"origin":"mw1244","timestamp":"20191020171439","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Fowler (surname)","url":"https:\/\/en.wikipedia.org\/wiki\/Fowler_(surname)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1440104","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1440104","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-03-17T20:14:24Z","dateModified":"2019-09-20T20:25:21Z","headline":"family name"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":124,"wgHostname":"mw1270"});});</script>
 </body>
 </html>

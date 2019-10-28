@@ -2,35 +2,36 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Serbian names - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Serbian_names","wgTitle":"Serbian names","wgCurRevisionId":919895404,"wgRevisionId":919895404,"wgArticleId":14647718,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1: long volume value","Articles needing additional references from August 2009","All articles needing additional references","Articles containing Serbian-language text","Articles containing Hungarian-language text","Articles containing Macedonian-language text","Articles containing Romanian-language text","CS1 errors: missing periodical","Names by culture","Serbian culture","Slavic-language names","Serbian-language names"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy",
-"wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Serbian_names","wgRelevantArticleId":14647718,"wgRequestId":"XazMngpAAD0AACCxzj8AAACO","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q7452919","wgCentralAuthMobileDomain":!1,
-"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.cite.tracking","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice",
+<title>Integrated Authority File - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Integrated_Authority_File","wgTitle":"Integrated Authority File","wgCurRevisionId":913351784,"wgRevisionId":913351784,"wgArticleId":35566739,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Wikipedia articles in need of updating from February 2018","All Wikipedia articles in need of updating","Articles containing German-language text","Wikipedia articles with GND identifiers","Wikipedia articles with SNAC-ID identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","Computer-related introductions in 2012","Library cataloging and classification","Unique identifiers","Creative Commons-licensed databases"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext",
+"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Integrated_Authority_File","wgRelevantArticleId":35566739,"wgRequestId":"XbW-WwpAMFwAAHO-mkwAAAAC","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English",
+"wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q36578","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice",
 "ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.1"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Serbian_names"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Serbian_names&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Serbian_names&amp;action=edit"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/7/71/Gemeinsame_Normdatei_2012_Opera.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Integrated_Authority_File"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Integrated_Authority_File&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Integrated_Authority_File&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Serbian_names"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Integrated_Authority_File"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Serbian_names rootpage-Serbian_names skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Integrated_Authority_File rootpage-Integrated_Authority_File skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -39,7 +40,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Serbian names</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Integrated Authority File</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -50,573 +51,145 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Serbian_names&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Serbian+names%22">"Serbian names"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Serbian+names%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Serbian+names%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Serbian+names%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Serbian+names%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Serbian+names%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">August 2009</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
-<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Names_of_the_Serbs" class="mw-redirect" title="Names of the Serbs">Names of the Serbs</a></div>
-<p>This article features the <b>naming culture</b> of <b><a href="/wiki/Personal_name" title="Personal name">personal names</a></b> of ethnic <a href="/wiki/Serbs" title="Serbs">Serbs</a> and the <a href="/wiki/Serbian_language" title="Serbian language">Serbian language</a>. Serbian names are rendered in the "Western name order" with the <a href="/wiki/Surname" title="Surname">surname</a> placed after the <a href="/wiki/Given_name" title="Given name">given name</a>. "Eastern name order" may be used when multiple names appear in a sorted list, particularly in official notes and legal documents when the last name is capitalized (e.g. MILOVANOVIĆ Janko).
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-Update plainlinks metadata ambox ambox-content ambox-Update" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="Ambox current red.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/42px-Ambox_current_red.svg.png" decoding="async" width="42" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/63px-Ambox_current_red.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/84px-Ambox_current_red.svg.png 2x" data-file-width="360" data-file-height="290" /></div></td><td class="mbox-text"><div class="mbox-text-span">Parts of this article (those related to Types of GND high-level entities) need to be <b>updated</b>.<span class="hide-when-compact"> Please update this article to reflect recent events or newly available information.</span>  <small class="date-container"><i>(<span class="date">February 2018</span>)</i></small></div></td></tr></tbody></table>
+<table class="infobox" style="width:22em"><caption>Integrated Authority File</caption><tbody><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Gemeinsame_Normdatei_2012_Opera.png" class="image"><img alt="Gemeinsame Normdatei 2012 Opera.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Gemeinsame_Normdatei_2012_Opera.png/200px-Gemeinsame_Normdatei_2012_Opera.png" decoding="async" width="200" height="138" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Gemeinsame_Normdatei_2012_Opera.png/300px-Gemeinsame_Normdatei_2012_Opera.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Gemeinsame_Normdatei_2012_Opera.png/400px-Gemeinsame_Normdatei_2012_Opera.png 2x" data-file-width="740" data-file-height="510" /></a><div>GND: Screenshot of the<br /><a href="/wiki/German_National_Library" title="German National Library">German National Library</a><br />(<a href="/wiki/Opera_(web_browser)" title="Opera (web browser)">Browser: Opera 11.62</a>).</div></td></tr><tr><th scope="row" style="width:6.5em;">Acronym</th><td>GND</td></tr><tr><th scope="row" style="width:6.5em;">Organisation</th><td><a href="/wiki/German_National_Library" title="German National Library">DNB</a></td></tr><tr><th scope="row" style="width:6.5em;">Introduced</th><td>5&#160;April&#160;2012<span style="display:none">&#160;(<span class="bday dtstart published updated">2012-04-05</span>)</span></td></tr><tr><th scope="row" style="width:6.5em;">Example</th><td><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/7749153-1">7749153-1</a></td></tr><tr><th scope="row" style="width:6.5em;">Website</th><td><span class="url"><a rel="nofollow" class="external text" href="https://www.dnb.de/EN/Home/home_node.html">www<wbr />.dnb<wbr />.de<wbr />/EN<wbr />/Home<wbr />/home<wbr />_node<wbr />.html</a></span> <a href="https://www.wikidata.org/wiki/Q36578#P856" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></td></tr></tbody></table>
+<p>The <b>Integrated Authority File</b> (<a href="/wiki/German_language" title="German language">German</a>: <i lang="de">Gemeinsame Normdatei</i>; also known as the <i>Universal Authority File</i>) or <b>GND</b> is an international <a href="/wiki/Authority_file" class="mw-redirect" title="Authority file">authority file</a> for the organisation of personal names, subject headings and corporate bodies from <a href="/wiki/Library_catalog" title="Library catalog">catalogues</a>. It is used mainly for <a href="/wiki/Documentation" title="Documentation">documentation</a> in <a href="/wiki/Library" title="Library">libraries</a> and increasingly also by <a href="/wiki/Archive" title="Archive">archives</a> and <a href="/wiki/Museum" title="Museum">museums</a>. The GND is managed by the <a href="/wiki/German_National_Library" title="German National Library">German National Library</a> (German: <i lang="de">Deutsche Nationalbibliothek</i>; DNB) in cooperation with various regional library networks in <a href="/wiki/German-speaking_Europe" class="mw-redirect" title="German-speaking Europe">German-speaking Europe</a> and other partners. The GND falls under the <a href="/wiki/CC0" class="mw-redirect" title="CC0">Creative Commons Zero</a> (CC0) licence.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>The GND specification provides a hierarchy of high-level entities and sub-classes, useful in <a href="/wiki/Library_classification" title="Library classification">library classification</a>, and an approach to unambiguous identification of single elements. It also comprises an <a href="/wiki/Ontology_(computer_science)" class="mw-redirect" title="Ontology (computer science)">ontology</a> intended for <a href="/wiki/Knowledge_representation" class="mw-redirect" title="Knowledge representation">knowledge representation</a> in the <a href="/wiki/Semantic_web" class="mw-redirect" title="Semantic web">semantic web</a>, available in the <a href="/wiki/Resource_Description_Framework" title="Resource Description Framework">RDF</a> format.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>The Integrated Authority File became operational in April 2012 and integrates the content of the following authority files, which have since been discontinued:
+</p>
+<ul><li><a href="/wiki/Name_Authority_File" title="Name Authority File">Name Authority File</a> (German: <i lang="de">Personennamendatei</i>; PND)</li>
+<li><a href="/wiki/Corporate_Bodies_Authority_File" title="Corporate Bodies Authority File">Corporate Bodies Authority File</a> (German: <i lang="de">Gemeinsame Körperschaftsdatei</i>; GKD)</li>
+<li><a href="/wiki/Subject_Headings_Authority_File" title="Subject Headings Authority File">Subject Headings Authority File</a> (German: <i lang="de">Schlagwortnormdatei</i>; SWD)</li>
+<li>Uniform Title File of the Deutsches Musikarchiv (German: <i lang="de">Einheitssachtitel-Datei des Deutschen Musikarchivs</i>; DMA-EST)</li></ul>
+<p>At the time of its introduction on 5 April 2012, the GND held 9,493,860 files, including 2,650,000 personalised names.
 </p>
 <div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Given_names"><span class="tocnumber">1</span> <span class="toctext">Given names</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Surnames"><span class="tocnumber">2</span> <span class="toctext">Surnames</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-6"><a href="#Sources"><span class="tocnumber">6</span> <span class="toctext">Sources</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#Types_of_GND_high-level_entities"><span class="tocnumber">1</span> <span class="toctext">Types of GND high-level entities</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
 </ul>
 </div>
 
-<h2><span class="mw-headline" id="Given_names">Given names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Serbian_names&amp;action=edit&amp;section=1" title="Edit section: Given names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Serbian_given_names" class="mw-redirect" title="Serbian given names">Serbian given names</a></div>
-<p>As with most European cultures, a child is <a href="/wiki/Given_name" title="Given name">given a first name</a> chosen by their parents or <a href="/wiki/Godparent" title="Godparent">godparents</a>. The given name comes first, the surname last, e.g. "Željko Popović", where "Željko" is a first name and "Popović" is a family name.
-</p><p>Serbian first names largely originate from <a href="/wiki/Slavic_names" title="Slavic names">Slavic roots</a>: e.g. <a href="/wiki/Miroslav_(given_name)" title="Miroslav (given name)">Miroslav</a>, <a href="/wiki/Vladimir_(name)" title="Vladimir (name)">Vladimir</a>, <a href="/wiki/Zoran" title="Zoran">Zoran</a>, <a href="/wiki/Lubomir_(given_name)" class="mw-redirect" title="Lubomir (given name)">Ljubomir</a>, <a href="/wiki/Vesna_(name)" class="mw-redirect" title="Vesna (name)">Vesna</a>, <a href="/wiki/Radmila" title="Radmila">Radmila</a>, <a href="/wiki/Milica" title="Milica">Milica</a>, <a href="/wiki/Svetlana" title="Svetlana">Svetlana</a>, <a href="/wiki/Slavica_(disambiguation)" class="mw-redirect mw-disambig" title="Slavica (disambiguation)">Slavica</a>, <a href="/w/index.php?title=Bo%C5%BEidarka&amp;action=edit&amp;redlink=1" class="new" title="Božidarka (page does not exist)">Božidarka</a>, <a href="/wiki/Milorad" title="Milorad">Milorad</a>, <a href="/wiki/Dragan" title="Dragan">Dragan</a>, <a href="/wiki/Milan_(given_name)" title="Milan (given name)">Milan</a>, <a href="/wiki/Goran_(Slavic_name)" title="Goran (Slavic name)">Goran</a>, <a href="/wiki/Radomir_(given_name)" title="Radomir (given name)">Radomir</a>, <a href="/wiki/Vuka%C5%A1in" title="Vukašin">Vukašin</a>, <a href="/wiki/Miomir" title="Miomir">Miomir</a>, <a href="/wiki/Branimir" title="Branimir">Branimir</a>, <a href="/wiki/Budimir_(disambiguation)" class="mw-redirect mw-disambig" title="Budimir (disambiguation)">Budimir</a>; see also <a href="/wiki/Slavic_names" title="Slavic names">Slavic names</a>, or the <a href="https://sr.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%B0%D0%BA_%D1%81%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D1%85_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0" class="extiw" title="sr:Списак словенских имена">list of Slavic names in the Serbian Wikipedia</a>)
-</p><p>Some may be non-<a href="/wiki/Slavic_languages" title="Slavic languages">Slavic</a> but chosen to reflect <a href="/wiki/Christianity" title="Christianity">Christian</a> faith. Names of this nature may often originate from <a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a> for <a href="/wiki/Bible" title="Bible">Biblical</a> reasons. Christian names include: e.g. <a href="/wiki/Nikola" title="Nikola">Nikola</a>, <a href="/wiki/Ivan_(name)" title="Ivan (name)">Ivan</a>, <a href="/wiki/Jovan" title="Jovan">Jovan</a>, <a href="/wiki/Maria_(given_name)" title="Maria (given name)">Marija</a>, <a href="/wiki/Anna_(given_name)" title="Anna (given name)">Ana</a>, Mihailo. Along similar lines of non-Slavic names among Christians, the origins for many such names are <a href="/wiki/Greeks" title="Greeks">Greek</a>: e.g. <a href="/wiki/Aleksandar" class="mw-redirect" title="Aleksandar">Aleksandar</a>, <a href="/wiki/Andrej" class="mw-redirect" title="Andrej">Andrej</a>, <a href="/wiki/Teodora" title="Teodora">Teodora</a>, <a href="/wiki/Jelena_(disambiguation)" class="mw-redirect" title="Jelena (disambiguation)">Jelena</a>, <a href="/wiki/Sophia_(name)" class="mw-redirect" title="Sophia (name)">Sofija</a>, <a href="/wiki/Katarina_(given_name)" title="Katarina (given name)">Katarina</a>, <a href="/wiki/Nikola" title="Nikola">Nikola</a>, <a href="/wiki/%C4%90or%C4%91e" title="Đorđe">Đorđe</a>, <a href="/wiki/Stefan_(given_name)" title="Stefan (given name)">Stefan</a>, <a href="/wiki/Petar" class="mw-redirect" title="Petar">Petar</a>, <a href="/wiki/Vasilije" title="Vasilije">Vasilije</a>, <a href="/wiki/Todor" title="Todor">Todor</a>. Names of <a href="/wiki/Latin" title="Latin">Latin</a> origin include: e.g. <a href="/wiki/Marko_(given_name)" title="Marko (given name)">Marko</a>, <a href="/wiki/Angela_(given_name)" title="Angela (given name)">Anđelka</a>, <a href="/wiki/Anthony_(given_name)" title="Anthony (given name)">Antonije</a>, <a href="/wiki/Paul_(name)" class="mw-redirect" title="Paul (name)">Pavle</a>, <a href="/wiki/Sr%C4%91an" title="Srđan">Srđan</a>, <a href="/wiki/Marina_(given_name)" title="Marina (given name)">Marina</a>, <a href="/wiki/Natalia_(given_name)" title="Natalia (given name)">Natalija</a>, Kornelije. Names of <a href="/wiki/Germanic_languages" title="Germanic languages">Germanic</a> origin, entering through Russian, include: e.g. <a href="/wiki/Igor_(given_name)" title="Igor (given name)">Igor</a>, <a href="/wiki/Oliver_(given_name)" title="Oliver (given name)">Oliver</a>, <a href="/wiki/Olga_(name)" title="Olga (name)">Olga</a>.
-</p><p>In Serbian naming culture, apotropaic names (<i>zaštitna imena</i>, "protective names") include <a href="/wiki/Vuk_(name)" title="Vuk (name)">Vuk</a> (and its many derivatives), <a href="/wiki/Nenad" title="Nenad">Nenad</a>, <a href="/wiki/Prodan" title="Prodan">Prodan</a>, <a href="/w/index.php?title=Sredoje&amp;action=edit&amp;redlink=1" class="new" title="Sredoje (page does not exist)">Sredoje</a>, <a href="/wiki/Stani%C5%A1a" title="Staniša">Staniša</a>, and others.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+<h2><span class="mw-headline" id="Types_of_GND_high-level_entities">Types of GND high-level entities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Integrated_Authority_File&amp;action=edit&amp;section=1" title="Edit section: Types of GND high-level entities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are seven main types of GND entities:<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
 </p>
-<div class="mw-collapsible mw-collapsible-leftside-toggle mw-collapsed" style="box-sizing:border-box;width:100%;font-size:95%;padding:4px;border:none;"><div style="font-size:100%;line-height:1.6;font-weight:bold;background:transparent;text-align:left;;">Examples (table)</div><div class="mw-collapsible-content" style="background:transparent;text-align:left;;">
-<table class="wikitable sortable">
+<table class="wikitable">
 
-<tbody><tr bgcolor="#ececec" align="center">
-<th><a href="/wiki/Serbian_language" title="Serbian language">Serbian</a></th>
-<th>Derivation</th>
-<th>Origin</th>
-<th>Meaning</th>
-<th><small>Related<br />(Forms)</small></th>
-<th>Female
+<tbody><tr>
+<th>Typ</th>
+<th>German (official)</th>
+<th>English (translation)
 </th></tr>
-<tr>
-<td><a href="/wiki/Miroslav_(given_name)" title="Miroslav (given name)">Miroslav</a><br />Мирослав
-</td>
-<td>
-</td>
-<td><a href="/wiki/Slavic_languages" title="Slavic languages">Slavic</a>
-</td>
-<td>Peace and Glory
-</td>
-<td><a href="/wiki/Miros%C5%82aw_(given_name)" title="Mirosław (given name)">Mirosław</a>, Mirko
-</td>
-<td>Mira, Miroslava
+<tr class="hintergrundfarbe5">
+<td><b>p</b></td>
+<td>Person (<i lang="de" title="German language text">individualisiert</i>)</td>
+<td>person (individualised)
+</td></tr>
+<tr class="hintergrundfarbe5">
+<td><b>n</b></td>
+<td>Name (<i lang="de" title="German language text">nicht individualisiert</i>)</td>
+<td>name (not individualised)
 </td></tr>
 <tr>
-<td><a href="/wiki/Vladimir_(name)" title="Vladimir (name)">Vladimir</a><br />Владимир
-</td>
-<td>Владимѣръ
-</td>
-<td><a href="/wiki/Slavic_languages" title="Slavic languages">Slavic</a><br /><small><a href="/wiki/Old_Church_Slavonic" title="Old Church Slavonic">Old Church Slavonic</a></small>
-</td>
-<td>Rule in Peace
-</td>
-<td><i>Vlada</i>, <i>Vlado</i>
-</td>
-<td>Vladimira, Vlada
+<td><b>k</b></td>
+<td><i lang="de" title="German language text">Körperschaft</i></td>
+<td>corporate body
 </td></tr>
 <tr>
-<td><a href="/wiki/Vuka%C5%A1in" title="Vukašin">Vukašin</a><br />Вукашин
-</td>
-<td>
-</td>
-<td><a href="/wiki/Slavic_peoples" class="mw-redirect" title="Slavic peoples">Slavic</a>
-</td>
-<td>Son of the wolf, younger wolf
-</td>
-<td>Vuki, Vuk, Vule, Vučko, Vukosav
-</td>
-<td>Vuka, Vukica
+<td><b>v</b></td>
+<td><i lang="de" title="German language text">Veranstaltung</i></td>
+<td>event
 </td></tr>
 <tr>
-<td><a href="/wiki/Zoran" title="Zoran">Zoran</a><br />Зоран
-</td>
-<td>
-</td>
-<td><a href="/wiki/Slavic_languages" title="Slavic languages">Slavic</a>
-</td>
-<td>Daybreak
-</td>
-<td><i>Zoki</i>, <i>Zoća</i>
-</td>
-<td>Zora, Zorana, Zorica
+<td><b>w</b></td>
+<td><i lang="de" title="German language text">Werk</i></td>
+<td>work
 </td></tr>
 <tr>
-<td><a href="/wiki/Goran_(Slavic_name)" title="Goran (Slavic name)">Goran</a><br />Горан
-</td>
-<td>
-</td>
-<td><a href="/wiki/Slavic_languages" title="Slavic languages">Slavic</a>
-</td>
-<td>Woodsman, Highlander<br />"The tall one"
-</td>
-<td>
-</td>
-<td>Gora, Gorana, Gorica, Goga, Gorjanka
+<td><b>s</b></td>
+<td><i lang="de" title="German language text">Sachbegriff</i></td>
+<td>topical term
 </td></tr>
 <tr>
-<td><a href="/wiki/Aleksandar" class="mw-redirect" title="Aleksandar">Aleksandar</a><br />Александар
-</td>
-<td>Aléxandros<br />Αλέξανδρος
-</td>
-<td><a href="/wiki/Greek_language" title="Greek language">Greek</a>
-</td>
-<td>Protector of Man
-</td>
-<td>Aleksa, <i>Saša</i>, <i>Sale</i>
-</td>
-<td>Aleksandra, Saša, Saška
-</td></tr>
-<tr>
-<td><a href="/wiki/John_(given_name)" title="John (given name)">Jovan</a><br />Jован
-</td>
-<td>Ioannis<br />Ιωάννης
-</td>
-<td><a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a><br /><small>(Biblical)</small>
-</td>
-<td>God is gracious
-</td>
-<td><a href="/wiki/Ivan_(name)" title="Ivan (name)">Ivan</a><br />Jovo, Jovica, Joca, Jole
-</td>
-<td>Jovana, Ivana, Ivanka, Iva
-</td></tr>
-<tr>
-<td><a href="/wiki/Marko_(given_name)" title="Marko (given name)">Marko</a><br />Марко
-</td>
-<td><a href="/wiki/Marcus_(name)" title="Marcus (name)">Marcus</a>
-</td>
-<td><a href="/wiki/Latin" title="Latin">Latin</a>
-</td>
-<td>
-</td>
-<td>Maki, Mare
-</td>
-<td>
-</td></tr>
-<tr>
-<td><a href="/wiki/Nikola" title="Nikola">Nikola</a><br />Никола
-</td>
-<td><a href="/wiki/Nikolaos" title="Nikolaos">Nikolaos</a><br />Νικόλαος
-</td>
-<td><a href="/wiki/Greek_language" title="Greek language">Greek</a>
-</td>
-<td>Victory of the people
-</td>
-<td><i>Nidža</i>, Niko
-</td>
-<td>Nikoleta, Nikolina
-</td></tr>
-<tr>
-<td><a href="/wiki/%C4%90or%C4%91e" title="Đorđe">Đorđe</a><br />Ђopђe
-</td>
-<td><a href="/wiki/Georgios" title="Georgios">Georgios</a><br />Γεώργιος
-</td>
-<td><a href="/wiki/Greek_language" title="Greek language">Greek</a>
-</td>
-<td>Farmer
-</td>
-<td><a href="/wiki/%C4%90ura%C4%91_(disambiguation)" class="mw-redirect" title="Đurađ (disambiguation)">Đurađ</a><br /><i>Đuro</i>, <i>Đole</i>, <i>Đoka</i>, Đorđa, Đorđo
-</td>
-<td>Đorđica, Đurđica, Đurđina
-</td></tr>
-<tr>
-<td><a href="/wiki/Mihajlo" title="Mihajlo">Mihajlo</a><br />Михајло
-</td>
-<td><a href="/wiki/Mikha%27el" class="mw-redirect" title="Mikha&#39;el">Mikha'el</a><br />מִיכָאֵל
-</td>
-<td><a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a><br /><small>(Biblical)</small>
-</td>
-<td>"He who is like God"
-</td>
-<td>Mika, Miki, <i>Miha</i>
-</td>
-<td>
-</td></tr>
-</tbody></table>
-</div></div>
-<h2><span class="mw-headline" id="Surnames">Surnames</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Serbian_names&amp;action=edit&amp;section=2" title="Edit section: Surnames">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Most <b>Serbian surnames</b> have the surname <a href="/wiki/Suffix" title="Suffix">suffix</a> <i lang="sr-Latn" title="Serbian language text"><a href="/wiki/-i%C4%87" class="mw-redirect" title="-ić">-ić</a></i> (<a href="/wiki/Serbian_Cyrillic_alphabet" title="Serbian Cyrillic alphabet">Serbian Cyrillic</a>: <span lang="sr-Cyrl" title="Serbian language text">-ић</span>) (<small></small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Serbo-Croatian" title="Help:IPA/Serbo-Croatian">[itɕ]</a></span>). This can sometimes further be transcribed as <i>-ic</i>, but in history, Serbian names have often been transcribed with a phonetic ending, <i>-ich</i> or <i>-itch</i>.
-</p><p>This form is often associated with <a href="/wiki/Serbs" title="Serbs">Serbs</a> from before the early 20th century: hence <a href="/wiki/Milutin_Milankovi%C4%87" title="Milutin Milanković">Milutin Milanković</a> is usually referred to, for historical reasons, as Milutin Milankovitch, and <a href="/wiki/Mileva_Mari%C4%87" title="Mileva Marić">Mileva Marić</a>, born in <a href="/wiki/Vojvodina" title="Vojvodina">Vojvodina</a> (then a part of Hungary) has sometimes been rendered as Marity (e.g. in the claim of "Einstein-Marity" theory).
-</p><p>The <i lang="sr-Latn" title="Serbian language text">-ić</i> suffix is a <a href="/wiki/Slavic_languages" title="Slavic languages">Slavic</a> <a href="/wiki/Diminutive" title="Diminutive">diminutive</a>, originally functioning to create <a href="/wiki/Patronymic" title="Patronymic">patronymics</a>. Thus the surname <a href="/wiki/Petrovi%C4%87" title="Petrović">Petrović</a> means the little son of Petar (Petrić signifies the little son of Petra, the widow).
-</p><p>Most Serbian surnames are paternal (father), maternal (mother), occupational, or derived from personal traits.
-</p><p>Other common surname suffixes are <i lang="sr-Latn" title="Serbian language text">-ov</i> (<span lang="sr-Cyrl" title="Serbian language text">-ов</span>), <i lang="sr-Latn" title="Serbian language text">-ev</i> (<span lang="sr-Cyrl" title="Serbian language text">-ев</span>), <i lang="sr-Latn" title="Serbian language text">-in</i> (<span lang="sr-Cyrl" title="Serbian language text">-ин</span>) and <i lang="sr-Latn" title="Serbian language text">-ski</i> (<span lang="sr-Cyrl" title="Serbian language text">-ски</span>; also <i lang="sr-Latn" title="Serbian language text">-cki</i>(<span lang="sr-Cyrl" title="Serbian language text">-цки</span>)/<i lang="sr-Latn" title="Serbian language text">čki</i>(<span lang="sr-Cyrl" title="Serbian language text">чки</span>)/<i lang="sr-Latn" title="Serbian language text">ški</i>(<span lang="sr-Cyrl" title="Serbian language text">шки</span>)) which is the Slavic <a href="/wiki/Genitive_case" title="Genitive case">possessive case</a> suffix, thus Nikola's son becomes Nikolin, Petar's son Petrov, and Jovan's son Jovanov. The two suffixes are often combined, most commonly as <i lang="sr-Latn" title="Serbian language text">-ović</i> (<span lang="sr-Cyrl" title="Serbian language text">-овић</span>). Other, less common suffices are <i lang="sr-Latn" title="Serbian language text">-alj</i>(<span lang="sr-Cyrl" title="Serbian language text">-аљ</span>)/<i lang="sr-Latn" title="Serbian language text">olj</i>(<span lang="sr-Cyrl" title="Serbian language text">ољ</span>)/<i lang="sr-Latn" title="Serbian language text">elj</i>(<span lang="sr-Cyrl" title="Serbian language text">ељ</span>), <i lang="sr-Latn" title="Serbian language text">-ija</i> (<span lang="sr-Cyrl" title="Serbian language text">-ија</span>), <i lang="sr-Latn" title="Serbian language text">-ica</i> (<span lang="sr-Cyrl" title="Serbian language text">-ица</span>), <i lang="sr-Latn" title="Serbian language text">-ar</i>(<span lang="sr-Cyrl" title="Serbian language text">-ар</span>)/<i lang="sr-Latn" title="Serbian language text">ac</i>(<span lang="sr-Cyrl" title="Serbian language text">ац</span>)/<i lang="sr-Latn" title="Serbian language text">an</i>(<span lang="sr-Cyrl" title="Serbian language text">ан</span>).
-</p><p>When marrying, the woman most often adopts her husband's family name, though she can also keep both of her last names or not change her last name at all.
-</p><p>It is estimated that some two thirds of all Serbian surnames end in <i lang="sr-Latn" title="Serbian language text">-ić</i>. The ten most common surnames in <a href="/wiki/Serbia" title="Serbia">Serbia</a>, in order, are <a href="/wiki/Jovanovi%C4%87" title="Jovanović">Jovanović</a>, <a href="/wiki/Petrovi%C4%87" title="Petrović">Petrović</a>, <a href="/wiki/Nikoli%C4%87" title="Nikolić">Nikolić</a>, <a href="/wiki/Markovi%C4%87" title="Marković">Marković</a>, <a href="/wiki/%C4%90or%C4%91evi%C4%87" title="Đorđević">Đorđević</a>, <a href="/wiki/Stojanovi%C4%87" title="Stojanović">Stojanović</a>, <a href="/wiki/Ili%C4%87" title="Ilić">Ilić</a>, <a href="/wiki/Stankovi%C4%87" title="Stanković">Stanković</a>, <a href="/wiki/Pavlovi%C4%87" title="Pavlović">Pavlović</a> and <a href="/wiki/Milo%C5%A1evi%C4%87" class="mw-redirect" title="Milošević">Milošević</a>.<sup id="cite_ref-Politika_2-0" class="reference"><a href="#cite_note-Politika-2">&#91;2&#93;</a></sup>
-</p><p>Outside Serbian countries, Slavic suffixes have been transliterated. <a href="/wiki/Serbs_in_Hungary" title="Serbs in Hungary">Serbs in Hungary</a> have the endings <i lang="hu" title="Hungarian language text">-ity</i>, <i lang="hu" title="Hungarian language text">-ics</i> <i lang="hu" title="Hungarian language text">-its</i>, <a href="/wiki/Serbs_in_North_Macedonia" class="mw-redirect" title="Serbs in North Macedonia">Serbs in North Macedonia</a> <i lang="mk-Latn" title="Macedonian-language romanization">-ikj</i> (or <i lang="mk-Latn" title="Macedonian-language romanization">iḱ</i>; <a href="/wiki/Macedonian_language" title="Macedonian language">Macedonian</a>: <span lang="mk" title="Macedonian language text">иќ</span>), and <a href="/wiki/Serbs_in_Romania" class="mw-redirect" title="Serbs in Romania">Serbs in Romania</a> <i lang="ro" title="Romanian language text">-ici</i>.
-</p><p>Although far less common than patronymic surnames, matronymic surnames are widespread both in Serbia and in neighboring countries where Serbs live. Examples include surnames such as Katić, Sinđelić, Nedić, Marić, Višnjić, Janjić, Sarić, Miličić, Milenić, Natalić, Zorić, Smiljić, Anđelić and many others. Sometimes it is difficult to ascertain if the name of a specific family is patronymic or matronymic considering many Serbian names have both male and female version (for example, surname Miljanić could come from both m.- Miljan and f.- Miljana). Cases where widows had to become heads of households were not uncommon during 18th and 19th century and when surnames were first standardized in Serbia in 1851 it was decided they would be based on the names of eldest living heads of households which in some cases were women. People who did not know their father well would also often take matronymic surnames, with a notable case being the hero of the First Serbian Uprising Stevan Sinđelić, who took that surname in honor of his mother Sinđelija.
-</p>
-<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Serbian_names&amp;action=edit&amp;section=3" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>The names of early Serbian rulers like <a href="/wiki/Mutimir" class="mw-redirect" title="Mutimir">Mutimir</a> are <a href="/wiki/Slavic_dithematic_names" class="mw-redirect" title="Slavic dithematic names">Slavic dithematic names</a>, as per Old Slavic tradition, until the 9th century and Christianization after which Christian names appear.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
-</p><p><a href="/wiki/Demetrios_Chomatenos" title="Demetrios Chomatenos">Demetrios Chomatenos</a> (<a href="/wiki/Archbishop_of_Ohrid" title="Archbishop of Ohrid">Archbishop of Ohrid</a> from 1216 to 1236) registered the naming culture of the <a href="/wiki/South_Slavs" title="South Slavs">South Slavs</a> in <a href="/wiki/Byzantine_lands" class="mw-redirect" title="Byzantine lands">Byzantine lands</a>. In the 11th and 12th century, family names became more common and stable in Byzantium, adapted by the majority of people in <a href="/wiki/Macedonia_(region)#Medieval_Macedonia" title="Macedonia (region)">Byzantine Macedonia</a>, <a href="/wiki/Epirus" title="Epirus">Epirus</a> and other regions (including women, sometimes even monks), not only aristocrats. The South Slavs, however, maintained the tradition of only giving a personal name, sometimes with a <a href="/wiki/Patronymic" title="Patronymic">Patronymic</a>. There are only 2 cases of family names used by South Slavs during this time; Bogdanopoulos and Serbopoulos, both Serbian names with the Greek suffix -opoulos (όπουλος, originating in <a href="/wiki/Peloponnese" title="Peloponnese">Peloponnese</a> in the 10th century)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>. Patronymics ending on -ić, on the other hand, seem to have been the norm by late 14th and early 15th century because nearly all letters of correspondence between Dubrovnik and Serbia and Bosnia from that period contain them. In that same period proper family names of Slavic origin, not just patronymics, appear in Dubrovnik and soon in Hum and then in Serbia and Bosnia where during 15th-century nobles start using proper surnames. However this never became common among ordinary people and since nobility of Serbia and Bosnia was mostly wiped out by 16th century, only their remnants in Venice, Hungary and later Habsburg monarchy as well as some members of high clergy used standard surnames during following centuries. Due to general lack of safety clans started to form in regions of Montenegro and Herzegovina from 15th century onwards. These clans were territorially based but each was subdivided into fraternities so some people used names of these fraternities as a surname in those regions but only when speaking to outsiders and more as a toponymic rather than proper surname.
-</p><p>In older naming convention which was common in Serbia up until the mid 19th century a person's name would consist of three distinct parts: the person's given name, the patronymic derived from father's personal name, and the family or fraternity name, as seen in for example in the name of language reformer Vuk Stefanović Karadžić. However, use of this convention depended on a person's education and interest in his ancestry. Most ordinary people were still referred to mostly by their given name and sometimes with a patronymic, profession or toponymic. Serbian surnames as used today were first standardized in Principality of Serbia during 1851 and on the census of 1854, the population was recorded by their fixed surnames for the first time. Surnames were mostly formed as patronymics (or in some cases matronymics) derived from names of at the time eldest living heads of households rather than distant ancestors, though there were exceptions. In most cases, such patronymics were already in use so they were simply "frozen" and turned into surnames that carried on into future generations. This swift introduction of surnames is one of the reasons why, in comparison to other regions where Serbs live, there is less variation in forms of surnames within central Serbia, where vast majority of surnames ends with suffixes -ović (in patronymic surnames) and -ić (can be used both for patronymic and for matronymic surnames).
-</p><p>Among Serbs that lived across the rivers Drina, Sava and Danube, in addition to surnames with these most common suffixes there were many surnames based on professions, nicknames, toponymics, traits, etc. In case of what was then Southern Hungary, Serb suffixes were often intentionally changed by Austro-Hungarian administrators from -ović, -ević and -ić into -ov, -ev, -in and -ski which in their mind sounded less typically Serbian. This process started around 1817 but was particularly intensified after 1860/61 when Duchy of Serbia and Tamiš Banate was abolished and 1867 when Habsburg monarchy was reformed into Austro-Hungary. By 1900s it had only moderate success and it never achieved its true goal of culturally separating Vojvodina Serbs from their brethren to the south. In some regions with Serbian majority which were only liberated during wars of 1912–1918, standardized surnames were finally introduced with the creation of Kingdom of Serbs, Croats and Slovenes and recorded for the first time during population census of 1921.
-</p>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Serbian_names&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Serbs" title="Category:Serbs">a series</a> of articles on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;font-size: 200%;"><a href="/wiki/Serbs" title="Serbs">Serbs</a></th></tr><tr><td style="padding:0.2em 0 0.4em"><a href="/wiki/File:Serbian_Cross.svg" class="image"><img alt="Serbian Cross.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Serbian_Cross.svg/70px-Serbian_Cross.svg.png" decoding="async" width="70" height="93" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Serbian_Cross.svg/105px-Serbian_Cross.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Serbian_Cross.svg/140px-Serbian_Cross.svg.png 2x" data-file-width="451" data-file-height="600" /></a></td></tr><tr><td style="padding:0 0.1em 0.4em">
-<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #aaa;">Native communities</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
-<ul><li><b><a href="/wiki/Serbia" title="Serbia">Serbia</a></b>
-<ul><li><b><a href="/wiki/Kosovo_Serbs" title="Kosovo Serbs">Kosovo and Metohija</a></b></li>
-<li><b><a href="/wiki/Serbs_of_Vojvodina" class="mw-redirect" title="Serbs of Vojvodina">Vojvodina</a></b></li></ul></li>
-<li><b><a href="/wiki/Serbs_of_Bosnia_and_Herzegovina" title="Serbs of Bosnia and Herzegovina">Bosnia and Herzegovina</a></b></li>
-<li><b><a href="/wiki/Serbs_of_Montenegro" title="Serbs of Montenegro">Montenegro</a></b></li>
-<li><b><a href="/wiki/Serbs_of_Croatia" title="Serbs of Croatia">Croatia</a></b></li>
-<li><b><a href="/wiki/Serbs_in_the_Republic_of_Macedonia" class="mw-redirect" title="Serbs in the Republic of Macedonia">Macedonia</a></b><br /></li>
-<li><a href="/wiki/Serbs_of_Romania" title="Serbs of Romania">Romania</a></li>
-<li><a href="/wiki/Serbs_in_Hungary" title="Serbs in Hungary">Hungary</a></li>
-<li><a href="/wiki/Serbs_in_Albania" class="mw-redirect" title="Serbs in Albania">Albania</a></li>
-<li><a href="/wiki/Serbs_in_Bulgaria" title="Serbs in Bulgaria">Bulgaria</a></li></ul></div></div></td>
-</tr><tr><td style="padding:0 0.1em 0.4em">
-<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #aaa;"><a href="/wiki/Serb_diaspora" title="Serb diaspora">Diaspora</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><i>Europe</i>
-<ul><li><a href="/wiki/Serbs_in_Germany" title="Serbs in Germany">Germany</a></li>
-<li><a href="/wiki/Serbs_in_Austria" title="Serbs in Austria">Austria</a></li>
-<li><a href="/wiki/Immigration_from_the_former_Yugoslavia_to_Switzerland" title="Immigration from the former Yugoslavia to Switzerland">Switzerland</a></li>
-<li><a href="/wiki/Serbs_in_France" title="Serbs in France">France</a></li>
-<li><a href="/wiki/Serbian_Luxembourger" class="mw-redirect" title="Serbian Luxembourger">Luxembourg</a></li>
-<li><a href="/wiki/Serbs_in_Sweden" class="mw-redirect" title="Serbs in Sweden">Sweden</a></li>
-<li><a href="/wiki/Serbs_in_the_United_Kingdom" title="Serbs in the United Kingdom">United Kingdom</a></li>
-<li><a href="/wiki/Serbs_in_Italy" title="Serbs in Italy">Italy</a></li>
-<li><a href="/wiki/Serbs_in_Slovenia" title="Serbs in Slovenia">Slovenia</a></li>
-<li><a href="/wiki/Serbian_Russians" class="mw-redirect" title="Serbian Russians">Russia</a></li>
-<li><a href="/wiki/Serbs_in_Greece" title="Serbs in Greece">Greece</a></li>
-<li><a href="/wiki/Serbs_in_Norway" title="Serbs in Norway">Norway</a></li>
-<li><a href="/wiki/Spanish_Serbs" class="mw-redirect" title="Spanish Serbs">Spain</a></li>
-<li><a href="/wiki/Serbs_of_Slovakia" title="Serbs of Slovakia">Slovakia</a></li>
-<li><a href="/wiki/Ukrainian_Serbs" class="mw-redirect" title="Ukrainian Serbs">Ukraine</a></li></ul>
-<p><i>Overseas</i>
-</p>
-<ul><li><a href="/wiki/Serbian_American" class="mw-redirect" title="Serbian American">United States</a></li>
-<li><a href="/wiki/Serbian_Canadians" title="Serbian Canadians">Canada</a></li>
-<li><a href="/wiki/Serbian_Australian" class="mw-redirect" title="Serbian Australian">Australia</a></li>
-<li><a href="/wiki/Serbian_New_Zealander" class="mw-redirect" title="Serbian New Zealander">New Zealand</a></li>
-<li><a href="/wiki/Serbian_Argentine" class="mw-redirect" title="Serbian Argentine">Argentina</a></li>
-<li><a href="/wiki/Serbian_Brazilian" title="Serbian Brazilian">Brazil</a></li>
-<li><a href="/wiki/Serbian_Venezuelan" class="mw-redirect" title="Serbian Venezuelan">Venezuela</a></li>
-<li><a href="/wiki/Serbian_South_African" class="mw-redirect" title="Serbian South African">South Africa</a></li>
-<li><a href="/wiki/Serbs_in_Botswana" title="Serbs in Botswana">Botswana</a></li>
-<li><a href="/wiki/Turkish_Serbs" class="mw-redirect" title="Turkish Serbs">Turkey</a></li></ul></div></div></td>
-</tr><tr><td style="padding:0 0.1em 0.4em">
-<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #aaa;"><a href="/wiki/Serbian_culture" title="Serbian culture">Culture</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
-<ul><li><a href="/wiki/Symbols_of_Serbia" class="mw-redirect" title="Symbols of Serbia">Symbols</a></li></ul>
-<ul><li><a href="/wiki/Serbian_Orthodox_Church" title="Serbian Orthodox Church">Religion</a>
-<ul><li><a href="/wiki/Slava" title="Slava">Slava</a></li>
-<li><a href="/wiki/Serbian_Christmas_traditions" title="Serbian Christmas traditions">Christmas traditions</a></li></ul></li></ul>
-<ul><li><a href="/wiki/Cultural_Property_of_Great_Importance" class="mw-redirect" title="Cultural Property of Great Importance">Cultural Heritage sites</a></li>
-<li><a href="/wiki/Architecture_of_Serbia" title="Architecture of Serbia">Architecture</a></li></ul>
-<ul><li><a href="/wiki/Serbian_art" title="Serbian art">Art</a></li>
-<li><a href="/wiki/Serbian_literature" title="Serbian literature">Literature</a>
-<ul><li><a href="/wiki/Serbian_epic_poetry" title="Serbian epic poetry">Epic poetry</a></li></ul></li></ul>
-<ul><li><a href="/wiki/Music_of_Serbia" title="Music of Serbia">Music</a></li>
-<li><a href="/wiki/Cinema_of_Serbia" title="Cinema of Serbia">Cinema</a></li></ul>
-<ul><li><a href="/wiki/Serbian_dress" class="mw-redirect" title="Serbian dress">Costume</a></li>
-<li><a href="/wiki/Serbian_dances" title="Serbian dances">Dances</a></li>
-<li><a href="/wiki/Serbian_cuisine" title="Serbian cuisine">Cuisine</a></li>
-<li><a href="/wiki/Serbian_kinship" class="mw-redirect" title="Serbian kinship">Kinship</a></li></ul>
-<ul><li><a href="/wiki/Sport_in_Serbia" title="Sport in Serbia">Sport</a></li></ul></div></div></td>
-</tr><tr><td style="padding:0 0.1em 0.4em">
-<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #aaa;"><a href="/wiki/History_of_the_Serbs" title="History of the Serbs">History</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
-<ul><li><a href="/wiki/Names_of_the_Serbs" class="mw-redirect" title="Names of the Serbs">Name</a></li>
-<li><a href="/wiki/History_of_the_Serbs" title="History of the Serbs">History of Serbs</a></li>
-<li><a href="/wiki/History_of_Serbia" title="History of Serbia">History of Serbia</a></li>
-<li><a href="/wiki/Serbian_lands" class="mw-redirect" title="Serbian lands">Serbian lands</a></li>
-<li><a href="/wiki/List_of_Serbian_monarchs" title="List of Serbian monarchs">Serbian rulers</a></li></ul></div></div></td>
-</tr><tr><td style="padding:0 0.1em 0.4em">
-<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #aaa;"><a href="/wiki/Serbian_language" title="Serbian language">Language</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
-<ul><li><a href="/wiki/Serbian_language" title="Serbian language">Serbian</a></li></ul>
-<ul><li><a href="/wiki/Shtokavian_dialect" class="mw-redirect" title="Shtokavian dialect">Shtokavian</a></li>
-<li><a href="/wiki/Torlakian_dialect" title="Torlakian dialect">Torlakian</a></li>
-<li><a href="/wiki/Church_Slavonic_language" title="Church Slavonic language">Church Slavonic</a>
-<ul><li><a href="/wiki/Old_Church_Slavonic" title="Old Church Slavonic">Old</a></li></ul></li></ul>
-<ul><li><a href="/wiki/Serbo-Croatian" title="Serbo-Croatian">Serbo-Croat</a></li>
-<li><a href="/wiki/South_Slavic_languages" title="South Slavic languages">South Slavic</a></li></ul></div></div></td>
-</tr><tr><td style="padding:0 0.1em 0.4em">
-<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #aaa;">Related groups</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
-<ul><li><a href="/wiki/Bosniaks" title="Bosniaks">Bosniaks</a></li>
-<li><a href="/wiki/Croats" title="Croats">Croats</a></li>
-<li><a href="/wiki/Macedonians_(ethnic_group)" title="Macedonians (ethnic group)">Macedonians</a></li>
-<li><a href="/wiki/Montenegrins" title="Montenegrins">Montenegrins</a></li></ul></div></div></td>
-</tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Serbs" title="Template:Serbs"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Serbs" title="Template talk:Serbs"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Serbs&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
-<ul><li><a href="/wiki/Serbian-language_given_names" title="Serbian-language given names">Serbian-language given names</a></li>
-<li><a href="/wiki/Slavic_names" title="Slavic names">Slavic names</a></li>
-<li><a href="/wiki/Slavic_surnames" class="mw-redirect" title="Slavic surnames">Slavic surnames</a></li></ul>
-<div role="navigation" class="navbox" aria-labelledby="Personal_names_and_anthroponymy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Personal_names" title="Template:Personal names"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Personal_names" title="Template talk:Personal names"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Personal_names&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Personal_names_and_anthroponymy" style="font-size:114%;margin:0 4em"><a href="/wiki/Personal_name" title="Personal name">Personal names</a> and <a href="/wiki/Anthroponymy" title="Anthroponymy">anthroponymy</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*Personal_identity">
-<ul><li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Personal_name" title="Personal name">Personal name</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Given_name" title="Given name">Given name</a></li>
-<li><a href="/wiki/Surname" title="Surname">Surname</a>
-<ul><li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineal</a>/<a href="/wiki/Matriname" title="Matriname">Matrilineal</a></li>
-<li><a href="/wiki/List_of_family_name_affixes" title="List of family name affixes">Affixes</a>
-<ul><li><a href="/wiki/Nobiliary_particle" title="Nobiliary particle">Nobiliary particle</a></li></ul></li></ul></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By sequence</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Given_name" title="Given name">First name</a></li>
-<li><a href="/wiki/Middle_name" title="Middle name">Middle name</a></li>
-<li><a href="/wiki/Surname" title="Surname">Last name</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By trait</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Diminutive" title="Diminutive">Diminutive</a></li>
-<li><a href="/wiki/Double-barrelled_name" title="Double-barrelled name">Double-barrelled</a></li>
-<li><a href="/wiki/Eponym" title="Eponym">Eponymic</a></li>
-<li><a href="/wiki/Matronymic" title="Matronymic">Matronymic</a></li>
-<li><a href="/wiki/Metonymy" title="Metonymy">Metonymic</a></li>
-<li><a href="/wiki/Mononymous_person" title="Mononymous person">Mononymic</a></li>
-<li><a href="/wiki/Occupational_name" class="mw-redirect" title="Occupational name">Occupational name</a></li>
-<li><a href="/wiki/Patronymic" title="Patronymic">Patronymic</a></li>
-<li><a href="/wiki/Sobriquet" title="Sobriquet">Sobriquet</a></li>
-<li><a href="/wiki/Teknonymy" title="Teknonymy">Teknonymic</a></li>
-<li><a href="/wiki/Toponymy" title="Toponymy">Toponymic</a></li>
-<li><a href="/wiki/Patrial_name" title="Patrial name">Patrial name</a></li>
-<li><a href="/wiki/Patronymic_surname" title="Patronymic surname">Patronymic</a></li>
-<li><a href="/wiki/Unisex_name" title="Unisex name">Unisex</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By life situation</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Aptronym" title="Aptronym">Aptronym</a></li>
-<li><a href="/wiki/Code_name" title="Code name">Code name</a></li>
-<li><a href="/wiki/Maiden_and_married_names" title="Maiden and married names">Maiden and married names</a></li>
-<li><a href="/wiki/Necronym" title="Necronym">Necronym</a>
-<ul><li><a href="/wiki/Posthumous_name" title="Posthumous name">Posthumous name</a></li>
-<li><a href="/wiki/Temple_name" title="Temple name">Temple name</a></li></ul></li>
-<li><a href="/wiki/Placeholder_name" title="Placeholder name">Placeholder name</a>
-<ul><li><a href="/wiki/Notname" title="Notname">Notname</a></li></ul></li>
-<li><a href="/wiki/Regnal_name" title="Regnal name">Regnal name</a></li>
-<li><a href="/wiki/Slave_name" title="Slave name">Slave name</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pseudonym" title="Pseudonym">Pseudonyms</a> (<a href="/wiki/List_of_pseudonyms" title="List of pseudonyms">list</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Nickname" title="Nickname">Nicknames</a>
-<ul><li><a href="/wiki/Lists_of_nicknames" title="Lists of nicknames">list</a></li>
-<li><a href="/wiki/Hypocorism" title="Hypocorism">Hypocorism</a></li></ul></li>
-<li><i><a href="/wiki/Nom_de_guerre" class="mw-redirect" title="Nom de guerre">Nom de guerre</a></i></li>
-<li><a href="/wiki/Stage_name" title="Stage name">Stage name</a>
-<ul><li><a href="/wiki/List_of_stage_names" title="List of stage names">List of stage names</a></li>
-<li><a href="/wiki/List_of_one-word_stage_names" title="List of one-word stage names">List of one-word stage names</a></li></ul></li>
-<li><a href="/wiki/Ring_name" title="Ring name">Ring name</a></li>
-<li><a href="/wiki/Pen_name" title="Pen name">Pen name</a>
-<ul><li><a href="/wiki/Heteronym_(literature)" title="Heteronym (literature)">Heteronym</a></li></ul></li>
-<li><a href="/wiki/Username" class="mw-redirect" title="Username">Username</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By culture<br /><small><a href="/wiki/Surnames_by_country" title="Surnames by country">Surnames by country</a><br /><a href="/wiki/Courtesy_name" title="Courtesy name">Courtesy names</a></small></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Albanian_name" title="Albanian name">Albanian</a></li>
-<li><a href="/wiki/Naming_in_the_United_States" title="Naming in the United States">American</a>
-<ul><li><small><a href="/wiki/African-American_names" title="African-American names">African-American</a></small></li></ul></li>
-<li><a href="/wiki/Ancient_Greek_personal_names" title="Ancient Greek personal names">Ancient Greek</a></li>
-<li><a href="/wiki/Arabic_name" title="Arabic name">Arabic</a></li>
-<li><a href="/wiki/Armenian_name" title="Armenian name">Armenian</a></li>
-<li><a href="/wiki/Akan_names" title="Akan names">Ashanti</a></li>
-<li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal</a></li>
-<li><a href="/wiki/Azerbaijani_name" title="Azerbaijani name">Azerbaijani</a></li>
-<li><a href="/wiki/Bangladeshi_name" class="mw-redirect" title="Bangladeshi name">Bangladeshi</a></li>
-<li><a href="/wiki/Spanish_naming_customs#Basque_names" title="Spanish naming customs">Basque</a></li>
-<li><a href="/wiki/Belarusian_name" title="Belarusian name">Belarusian</a></li>
-<li><a href="/wiki/Bulgarian_name" title="Bulgarian name">Bulgarian</a></li>
-<li><a href="/wiki/Burmese_names" title="Burmese names">Burmese</a></li>
-<li><a href="/wiki/Cambodian_name" title="Cambodian name">Cambodian</a></li>
-<li><a href="/wiki/Canadian_name" title="Canadian name">Canadian</a></li>
-<li><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></li>
-<li><a href="/wiki/Chinese_name" title="Chinese name">Chinese</a>
-<ul><li><small><a href="/wiki/Hong_Kong_name" title="Hong Kong name">Hong Kong</a></small></li>
-<li><small><a href="/wiki/Manchu_name" title="Manchu name">Manchu</a></small></li>
-<li><small><a href="/wiki/Tibetan_name" title="Tibetan name">Tibetan</a></small></li></ul></li>
-<li><a href="/wiki/Cornish_surnames" title="Cornish surnames">Cornish</a></li>
-<li><a href="/wiki/Croatian_name" title="Croatian name">Croatian</a></li>
-<li><a href="/wiki/Czech_name" title="Czech name">Czech</a></li>
-<li><a href="/wiki/Dutch_name" title="Dutch name">Dutch</a></li>
-<li><a href="/wiki/English_name" title="English name">English</a></li>
-<li><a href="/wiki/Naming_conventions_in_Ethiopia_and_Eritrea" title="Naming conventions in Ethiopia and Eritrea">Ethiopian/Eritrean</a></li>
-<li><a href="/wiki/Ewe_language#Naming_system" title="Ewe language">Ewe</a></li>
-<li><a href="/wiki/Fijian_name" title="Fijian name">Fijian</a></li>
-<li><a href="/wiki/Filipino_name" title="Filipino name">Filipino</a></li>
-<li><a href="/wiki/Finnish_name" title="Finnish name">Finnish</a></li>
-<li><a href="/wiki/French_name" title="French name">French</a></li>
-<li><a href="/wiki/Spanish_naming_customs#Galician_names" title="Spanish naming customs">Galician</a></li>
-<li><a href="/wiki/Georgian_name" title="Georgian name">Georgian</a></li>
-<li><a href="/wiki/German_name" title="German name">German</a></li>
-<li><a href="/wiki/Germanic_name" title="Germanic name">Germanic</a></li>
-<li><a href="/wiki/Ghanaian_name" title="Ghanaian name">Ghanaian</a></li>
-<li><a href="/wiki/Greek_name" title="Greek name">Greek</a>
-<ul><li><small><a href="/wiki/Greek_Cypriot_name" title="Greek Cypriot name">Cypriot</a></small></li></ul></li>
-<li><a href="/wiki/Hawaiian_name" title="Hawaiian name">Hawaiian</a></li>
-<li><a href="/wiki/Hebrew_name" title="Hebrew name">Hebrew</a></li>
-<li><a href="/wiki/Hungarian_names" title="Hungarian names">Hungarian</a></li>
-<li><a href="/wiki/Icelandic_name" title="Icelandic name">Icelandic</a></li>
-<li><a href="/wiki/Igbo_name" title="Igbo name">Igbo</a></li>
-<li><a href="/wiki/Indian_name" title="Indian name">Indian</a>
-<ul><li><small><a href="/wiki/Saint_Thomas_Christian_names" title="Saint Thomas Christian names">Saint Thomas Christian names</a></small></li></ul></li>
-<li><a href="/wiki/Indonesian_names" title="Indonesian names">Indonesian</a>
-<ul><li><small><a href="/wiki/Balinese_name" title="Balinese name">Balinese</a></small></li>
-<li><small><a href="/wiki/Chinese_Indonesian_surname" title="Chinese Indonesian surname">Chinese</a></small></li>
-<li><small><a href="/wiki/Javanese_name" title="Javanese name">Javanese</a></small></li></ul></li>
-<li><a href="/wiki/Irish_name" title="Irish name">Irish</a></li>
-<li><a href="/wiki/Italian_name" title="Italian name">Italian</a></li>
-<li><a href="/wiki/Japanese_name" title="Japanese name">Japanese</a>
-<ul><li><small><a href="/wiki/Amami_name" title="Amami name">Amami</a></small></li>
-<li><small><a href="/wiki/Okinawan_name" title="Okinawan name">Okinawan</a></small></li></ul></li>
-<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish</a></li>
-<li><a href="/wiki/Kalmyk_names" title="Kalmyk names">Kalmyk</a></li>
-<li><a href="/wiki/Korean_name" title="Korean name">Korean</a></li>
-<li><a href="/wiki/Lao_name" title="Lao name">Lao</a></li>
-<li><a href="/wiki/Latvian_name" title="Latvian name">Latvian</a></li>
-<li><a href="/wiki/Lithuanian_name" title="Lithuanian name">Lithuanian</a></li>
-<li><a href="/wiki/Macedonian_onomastics" title="Macedonian onomastics">Macedonian</a></li>
-<li><a href="/wiki/Malaysian_names" title="Malaysian names">Malaysian</a></li>
-<li><a href="/wiki/M%C4%81ori_naming_customs" title="Māori naming customs">Māori</a></li>
-<li><a href="/wiki/Mongolian_name" title="Mongolian name">Mongol</a></li>
-<li><a href="/wiki/Scandinavian_family_name_etymology#Norway" title="Scandinavian family name etymology">Norwegian</a></li>
-<li><a href="/wiki/Pakistani_name" title="Pakistani name">Pakistani</a>
-<ul><li><small><a href="/wiki/Pashtun_name" title="Pashtun name">Pashtun</a></small></li>
-<li><small><a href="/wiki/Sindhi_names" title="Sindhi names">Sindhi</a></small></li></ul></li>
-<li><a href="/wiki/Persian_name" title="Persian name">Persian</a></li>
-<li><a href="/wiki/Polish_name" title="Polish name">Polish</a></li>
-<li><a href="/wiki/Portuguese_name" title="Portuguese name">Portuguese</a></li>
-<li><a href="/wiki/Roman_naming_conventions" title="Roman naming conventions">Roman</a>
-<ul><li><small><a href="/wiki/Praenomen" title="Praenomen">Praenomen</a></small></li>
-<li><small><a href="/wiki/Nomen_(Roman_name)" title="Nomen (Roman name)">Nomen</a></small></li>
-<li><small><a href="/wiki/Cognomen" title="Cognomen">Cognomen</a></small></li></ul></li>
-<li><a href="/wiki/Romanian_name" title="Romanian name">Romanian</a></li>
-<li><a href="/wiki/Eastern_Slavic_naming_customs" title="Eastern Slavic naming customs">Russian</a></li>
-<li><a href="/wiki/Yakut_names" title="Yakut names">Sakha</a></li>
-<li><a href="/wiki/Scottish_Gaelic_name" title="Scottish Gaelic name">Scottish Gaelic</a></li>
-<li><a class="mw-selflink selflink">Serbian</a></li>
-<li><a href="/wiki/Slavic_names" title="Slavic names">Slavic</a></li>
-<li><a href="/wiki/Slovak_name" title="Slovak name">Slovak</a></li>
-<li><a href="/wiki/Somali_name" title="Somali name">Somali</a></li>
-<li><a href="/wiki/Spanish_naming_customs" title="Spanish naming customs">Spanish</a>
-<ul><li><small><a href="/wiki/Naming_customs_of_Hispanic_America" title="Naming customs of Hispanic America">Hispanic America</a></small></li>
-<li><small><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></small></li></ul></li>
-<li><a href="/wiki/Swedish_name" title="Swedish name">Swedish</a></li>
-<li><a href="/wiki/Naming_customs_of_Taiwanese_aborigines" title="Naming customs of Taiwanese aborigines">Taiwanese aboriginal</a></li>
-<li><a href="/wiki/Indian_family_names#Tamil_names" class="mw-redirect" title="Indian family names">Tamil</a>
-<ul><li><small><a href="/wiki/Naming_conventions_of_ancient_Tamil_country" title="Naming conventions of ancient Tamil country">Ancient Tamil country</a></small></li></ul></li>
-<li><a href="/wiki/Tatar_name" title="Tatar name">Tatar</a></li>
-<li><a href="/wiki/Thai_name" title="Thai name">Thai</a></li>
-<li><a href="/wiki/Turkish_name" title="Turkish name">Turkish</a></li>
-<li><a href="/wiki/Ukrainian_name" title="Ukrainian name">Ukrainian</a></li>
-<li><a href="/wiki/Vietnamese_name" title="Vietnamese name">Vietnamese</a></li>
-<li><a href="/wiki/Welsh_surnames" title="Welsh surnames">Welsh</a></li>
-<li><a href="/wiki/Yakut_names" title="Yakut names">Yakut</a></li>
-<li><a href="/wiki/Yoruba_name" title="Yoruba name">Yoruba</a></li>
-<li><a href="/wiki/Zimbabwean_names" title="Zimbabwean names">Zimbabwean</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Religious_name" title="Religious name">Religious names</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Christian_name" title="Christian name">Christian name</a>
-<ul><li><a href="/wiki/List_of_biblical_names" title="List of biblical names">Biblical name</a></li>
-<li><a href="/wiki/Papal_name" title="Papal name">Papal name</a></li>
-<li><a href="/wiki/Saint%27s_name" title="Saint&#39;s name">Saint's name</a></li></ul></li>
-<li><a href="/wiki/Dharma_name" title="Dharma name">Dharma name</a></li>
-<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish name</a></li>
-<li><a href="/wiki/Theophoric_name" title="Theophoric name">Theophoric name</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Manners of address<br /><small><a href="/wiki/List_of_titles" title="List of titles">List</a></small><br /><small><a href="/wiki/Title_of_authority" title="Title of authority">of authority</a>/<a href="/wiki/Title_of_honor" title="Title of honor">of honour</a></small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Style_(manner_of_address)" title="Style (manner of address)">Styles</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Honorific" title="Honorific">Honorific</a>
-<ul><li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
-<li><a href="/wiki/Imperial,_royal,_and_noble_styles" title="Imperial, royal, and noble styles">Imperial, royal, and noble</a></li>
-<li><a href="/wiki/Judiciary_styles" class="mw-redirect" title="Judiciary styles">Judiciary</a></li>
-<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
-<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul></li>
-<li><a href="/wiki/Pre-nominal_letters" title="Pre-nominal letters">Pre-nominal letters</a></li>
-<li><a href="/wiki/Suffix_(name)" title="Suffix (name)">Suffix</a>
-<ul><li><a href="/wiki/Emeritus" title="Emeritus">Emeritus</a></li>
-<li><a href="/wiki/Post-nominal_letters" title="Post-nominal letters">Post-nominal letters</a>
-<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
-<li><a href="/wiki/Order_(distinction)" title="Order (distinction)">Orders</a>, <a href="/wiki/Award" title="Award">decorations</a>, and <a href="/wiki/Medal" title="Medal">medals</a></li></ul></li></ul></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Title" title="Title">Titles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
-<li><a href="/wiki/Imperial,_royal_and_noble_ranks" title="Imperial, royal and noble ranks">Imperial, royal and noble</a>
-<ul><li><a href="/wiki/Chivalry" title="Chivalry">Chivalric</a></li>
-<li><a href="/wiki/Court_title" class="mw-redirect" title="Court title">Court</a></li></ul></li>
-<li><a href="/wiki/Military_rank" title="Military rank">Military</a></li>
-<li><a href="/wiki/Professional_titles" class="mw-redirect" title="Professional titles">Professional</a>
-<ul><li><a href="/wiki/Academic_ranks" class="mw-redirect" title="Academic ranks">Academic</a>
-<ul><li><a href="/wiki/Honorary_title_(academic)" title="Honorary title (academic)">Honorary</a></li></ul></li>
-<li><a href="/wiki/Corporate_title" title="Corporate title">Business</a></li>
-<li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
-<li><a href="/wiki/Professional_degree" title="Professional degree">Educational</a></li>
-<li><a href="/wiki/Judicial_titles" class="mw-redirect" title="Judicial titles">Judicial</a></li></ul></li>
-<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
-<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul>
-</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related traditions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Baptism" title="Baptism">Baptism</a></li>
-<li><a href="/wiki/Name_day" title="Name day">Name day</a>
-<ul><li><a href="/wiki/Calendar_of_saints" title="Calendar of saints">Calendar of saints</a></li></ul></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Acronym" title="Acronym">Acronym</a></li>
-<li><a href="/wiki/Anonymity" title="Anonymity">Anonymity</a></li>
-<li><a href="/wiki/Anthropomorphism" title="Anthropomorphism">Anthropomorphism</a>
-<ul><li><a href="/wiki/National_personification" title="National personification">National personification</a></li></ul></li>
-<li><a href="/wiki/Call_sign" title="Call sign">Call sign</a></li>
-<li><a href="/wiki/Family" title="Family">Family</a></li>
-<li><a href="/wiki/Galton%E2%80%93Watson_process" title="Galton–Watson process">Galton–Watson process</a></li>
-<li><a href="/wiki/Legal_name" title="Legal name">Legal name</a>
-<ul><li><a href="/wiki/Name_change" title="Name change">Name change</a></li></ul></li>
-<li><i><a href="/wiki/Nomen_nescio" title="Nomen nescio">Nomen nescio</a></i></li>
-<li><i><a href="/wiki/-onym" title="-onym">-onym</a></i></li>
-<li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a>
-<ul><li><a href="/wiki/Identifier" title="Identifier">Identifier</a></li></ul></li>
-<li><a href="/wiki/Proper_name" class="mw-redirect" title="Proper name">Proper name</a></li>
-<li><a href="/wiki/Signature" title="Signature">Signature</a>
-<ul><li><a href="/wiki/Monogram" title="Monogram">Monogram</a></li>
-<li><a href="/wiki/Signum_manus" title="Signum manus">Signum manus</a></li>
-<li><a href="/wiki/Tughra" title="Tughra">Tughra</a></li></ul></li>
-<li><a href="/wiki/Naming_taboo" title="Naming taboo">Naming taboo</a></li></ul>
-</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
-<ul><li><a href="/wiki/Category:Lists_of_names" title="Category:Lists of names">Category:Lists of names</a></li></ul>
-</div></td></tr></tbody></table></div>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Serbian_names&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<td><b>g</b></td>
+<td><i lang="de" title="German language text">Geografikum</i></td>
+<td>geographical place name
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Integrated_Authority_File&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/LIBRIS" title="LIBRIS">LIBRIS</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">Virtual International Authority File</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Integrated_Authority_File&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <div class="reflist" style="list-style-type: decimal;">
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Grković, Milica (1977). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=1D9CAQAAIAAJ"><i>Rečnik ličnih imena kod Srba</i></a>. Belgrade: Vuk Karadžić.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Re%C4%8Dnik+li%C4%8Dnih+imena+kod+Srba&amp;rft.place=Belgrade&amp;rft.pub=Vuk+Karad%C5%BEi%C4%87&amp;rft.date=1977&amp;rft.aulast=Grkovi%C4%87&amp;rft.aufirst=Milica&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D1D9CAQAAIAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.dnb.de/EN/Standardisierung/GND/gnd.html">Integrated Authority File (GND)</a></span>
 </li>
-<li id="cite_note-Politika-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Politika_2-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.politika.rs/rubrike/Drustvo/U-Srbiji-najvise-Jovanovica-Petrovica-i-Nikolica.lt.html">http://www.politika.rs/rubrike/Drustvo/U-Srbiji-najvise-Jovanovica-Petrovica-i-Nikolica.lt.html</a></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://d-nb.info/standards/elementset/gnd">GND Ontology – Namespace Document</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130103070757/http://d-nb.info/standards/elementset/gnd">Archived</a> 2013-01-03 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, version 2012-06-30.</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">SANU (1995). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=CLcrAQAAIAAJ"><i>Glas</i></a>. 377-381. Srpska akademija nauka i umetnosti. p.&#160;37.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Glas&amp;rft.pages=37&amp;rft.pub=Srpska+akademija+nauka+i+umetnosti&amp;rft.date=1995&amp;rft.au=SANU&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DCLcrAQAAIAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://en.scientificcommons.org/41510473">http://en.scientificcommons.org/41510473</a></span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.dnb.de/SharedDocs/Downloads/DE/DNB/standardisierung/entitaetencodierung.pdf?__blob=publicationFile">Entitätencodierung: Vergaberichtlinien</a> (short lists – old and new versions)</span>
 </li>
 </ol></div></div>
-<h2><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Serbian_names&amp;action=edit&amp;section=6" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl><dt>Books</dt></dl>
-<ul><li><cite id="CITEREFGrković1977" class="citation book">Grković, Milica (1977). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=1D9CAQAAIAAJ"><i>Rečnik ličnih imena kod Srba</i></a>. Belgrade: Vuk Karadžić.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Re%C4%8Dnik+li%C4%8Dnih+imena+kod+Srba&amp;rft.place=Belgrade&amp;rft.pub=Vuk+Karad%C5%BEi%C4%87&amp;rft.date=1977&amp;rft.aulast=Grkovi%C4%87&amp;rft.aufirst=Milica&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D1D9CAQAAIAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><cite class="citation book">Jovičević, Radojica (1985). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=Fc0cAAAAMAAJ"><i>Lična imena u staroslovenskom jeziku</i></a>. Filološki fakultet Beogradskog Univerziteta.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Li%C4%8Dna+imena+u+staroslovenskom+jeziku&amp;rft.pub=Filolo%C5%A1ki+fakultet+Beogradskog+Univerziteta&amp;rft.date=1985&amp;rft.aulast=Jovi%C4%8Devi%C4%87&amp;rft.aufirst=Radojica&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DFc0cAAAAMAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><cite class="citation book">Stojanović, Katarina (2007). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=oIDhGAAACAAJ"><i>Srpska imena: narodna i hrišćanska</i></a>. Gramatik. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-86-84421-51-9" title="Special:BookSources/978-86-84421-51-9"><bdi>978-86-84421-51-9</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Srpska+imena%3A+narodna+i+hri%C5%A1%C4%87anska&amp;rft.pub=Gramatik&amp;rft.date=2007&amp;rft.isbn=978-86-84421-51-9&amp;rft.aulast=Stojanovi%C4%87&amp;rft.aufirst=Katarina&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DoIDhGAAACAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><cite class="citation book">Janjatović, Đorđe (1993). <i>Презимена Срба у Босни</i>. Sombor: Prosveta-Trgovina.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0+%D0%A1%D1%80%D0%B1%D0%B0+%D1%83+%D0%91%D0%BE%D1%81%D0%BD%D0%B8&amp;rft.place=Sombor&amp;rft.pub=Prosveta-Trgovina&amp;rft.date=1993&amp;rft.aulast=Janjatovi%C4%87&amp;rft.aufirst=%C4%90or%C4%91e&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><cite class="citation book">Milićević, Risto (2005). <i>Hercegovačka prezimena</i>. Belgrade.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Hercegova%C4%8Dka+prezimena&amp;rft.place=Belgrade&amp;rft.date=2005&amp;rft.aulast=Mili%C4%87evi%C4%87&amp;rft.aufirst=Risto&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><cite class="citation book">Vuković, Gordana; Nedeljkov, Ljiljana (1983). <i>Речник презимена шајкашке (XVIII и XIX vek)</i>. Novi Sad: Филозофски факултет.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%D0%A0%D0%B5%D1%87%D0%BD%D0%B8%D0%BA+%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0+%D1%88%D0%B0%D1%98%D0%BA%D0%B0%D1%88%D0%BA%D0%B5+%28XVIII+%D0%B8+XIX+vek%29&amp;rft.place=Novi+Sad&amp;rft.pub=%D0%A4%D0%B8%D0%BB%D0%BE%D0%B7%D0%BE%D1%84%D1%81%D0%BA%D0%B8+%D1%84%D0%B0%D0%BA%D1%83%D0%BB%D1%82%D0%B5%D1%82&amp;rft.date=1983&amp;rft.aulast=Vukovi%C4%87&amp;rft.aufirst=Gordana&amp;rft.au=Nedeljkov%2C+Ljiljana&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><cite class="citation book">Mihajlović, Velimir (2002). <i>Српски презименик</i>. Novi Sad: Аурора.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%D0%A1%D1%80%D0%BF%D1%81%D0%BA%D0%B8+%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%D0%BA&amp;rft.place=Novi+Sad&amp;rft.pub=%D0%90%D1%83%D1%80%D0%BE%D1%80%D0%B0&amp;rft.date=2002&amp;rft.aulast=Mihajlovi%C4%87&amp;rft.aufirst=Velimir&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><cite class="citation book">Šimunović, Petar (1985). <i>Naša prezimena</i>. Zagreb: Matica hrvatska.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Na%C5%A1a+prezimena&amp;rft.place=Zagreb&amp;rft.pub=Matica+hrvatska&amp;rft.date=1985&amp;rft.aulast=%C5%A0imunovi%C4%87&amp;rft.aufirst=Petar&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
-<dl><dt>Journals</dt></dl>
-<ul><li><cite class="citation journal">Vukanović, Tatomir (1940).  Drobnjaković, Borivoje (ed.). <a rel="nofollow" class="external text" href="http://etnografskimuzej.rs/wp-content/uploads/2014/01/Glasnik-Etnografskog-muzeja-u-Beogradu-knjiga-15-godina-19401.pdf">"Lična imena kod Srba"</a> <span class="cs1-format">(PDF)</span>. <i>Гласник Етнографског музеја у Београду</i>. Етнографски музеј у Београду. <b>15</b>: 56–75.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=%D0%93%D0%BB%D0%B0%D1%81%D0%BD%D0%B8%D0%BA+%D0%95%D1%82%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%81%D0%BA%D0%BE%D0%B3+%D0%BC%D1%83%D0%B7%D0%B5%D1%98%D0%B0+%D1%83+%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D1%83&amp;rft.atitle=Li%C4%8Dna+imena+kod+Srba&amp;rft.volume=15&amp;rft.pages=56-75&amp;rft.date=1940&amp;rft.aulast=Vukanovi%C4%87&amp;rft.aufirst=Tatomir&amp;rft_id=http%3A%2F%2Fetnografskimuzej.rs%2Fwp-content%2Fuploads%2F2014%2F01%2FGlasnik-Etnografskog-muzeja-u-Beogradu-knjiga-15-godina-19401.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><cite class="citation journal">Zujić, Krunoslav (1995). "Prezimena i porodični nadimci u Imotskoj krajini". <i>Imotski zbornik</i>. <b>3</b>: 45–133.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Imotski+zbornik&amp;rft.atitle=Prezimena+i+porodi%C4%8Dni+nadimci+u+Imotskoj+krajini&amp;rft.volume=3&amp;rft.pages=45-133&amp;rft.date=1995&amp;rft.aulast=Zuji%C4%87&amp;rft.aufirst=Krunoslav&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
-<dl><dt>Other</dt></dl>
-<ul><li><cite class="citation journal">Republic of Serbia (2012) [2011]. <a rel="nofollow" class="external text" href="http://pod2.stat.gov.rs/ObjavljenePublikacije/Popis2011/Najcesca%20imena%20i%20pezimena.pdf">"Најчешћа имена и презимена у Србији"</a> <span class="cs1-format">(PDF)</span>. Republic of Serbia.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=%D0%9D%D0%B0%D1%98%D1%87%D0%B5%D1%88%D1%9B%D0%B0+%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0+%D0%B8+%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0+%D1%83+%D0%A1%D1%80%D0%B1%D0%B8%D1%98%D0%B8&amp;rft.date=2012&amp;rft.au=Republic+of+Serbia&amp;rft_id=http%3A%2F%2Fpod2.stat.gov.rs%2FObjavljenePublikacije%2FPopis2011%2FNajcesca%2520imena%2520i%2520pezimena.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite journal requires <code class="cs1-code">&#124;journal=</code> (<a href="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.poreklo.rs/2012/04/05/srpska-prezimena-u-dalmaciji/">"Српска презимена у Далмацији"</a>. Poreklo. 5 April 2012.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%D0%A1%D1%80%D0%BF%D1%81%D0%BA%D0%B0+%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0+%D1%83+%D0%94%D0%B0%D0%BB%D0%BC%D0%B0%D1%86%D0%B8%D1%98%D0%B8&amp;rft.pub=Poreklo&amp;rft.date=2012-04-05&amp;rft_id=http%3A%2F%2Fwww.poreklo.rs%2F2012%2F04%2F05%2Fsrpska-prezimena-u-dalmaciji%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.poreklo.rs/2012/07/03/poreklo-prezimena-srba-u-potkozarju/">"Порекло презимена Срба у Поткозарју"</a>. Poreklo. 3 July 2012.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%D0%9F%D0%BE%D1%80%D0%B5%D0%BA%D0%BB%D0%BE+%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0+%D0%A1%D1%80%D0%B1%D0%B0+%D1%83+%D0%9F%D0%BE%D1%82%D0%BA%D0%BE%D0%B7%D0%B0%D1%80%D1%98%D1%83&amp;rft.pub=Poreklo&amp;rft.date=2012-07-03&amp;rft_id=http%3A%2F%2Fwww.poreklo.rs%2F2012%2F07%2F03%2Fporeklo-prezimena-srba-u-potkozarju%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Integrated_Authority_File&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png" decoding="async" width="40" height="22" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/60px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/80px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a> has the property: 
+<ul><li><img alt="Disc Plain blue dark.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Disc_Plain_blue_dark.svg/4px-Disc_Plain_blue_dark.svg.png" decoding="async" width="4" height="4" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Disc_Plain_blue_dark.svg/6px-Disc_Plain_blue_dark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Disc_Plain_blue_dark.svg/8px-Disc_Plain_blue_dark.svg.png 2x" data-file-width="460" data-file-height="460" /> <b><i><a href="https://www.wikidata.org/wiki/Property_talk:P227" class="extiw" title="d:Property talk:P227">GND ID (P227)</a></i></b> (see <span class="plainlinks"><a class="external text" href="https://query.wikidata.org/embed.html#SELECT%20%3FWikiData_item_%20%3FWikiData_item_Label%20%3Fvalue%20%3FvalueLabel%20%3FEnglish_WikiPedia_article%20%23Show%20data%20in%20this%20order%0A%7B%0A%09%3FWikiData_item_%20wdt%3AP227%20%3Fvalue%20.%20%23Collecting%20all%20items%20which%20have%20P227%20data%2C%20from%20whole%20WikiData%20item%20pages%0A%09OPTIONAL%20%7B%3FEnglish_WikiPedia_article%20schema%3Aabout%20%3FWikiData_item_%3B%20schema%3AisPartOf%20%3Chttps%3A%2F%2Fen.wikipedia.org%2F%3E%20.%7D%20%23If%20collected%20item%20has%20link%20to%20English%20WikiPedia%2C%20show%20that%0A%09SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22%20%20%7D%20%23Show%20label%20in%20this%20language.%20%22en%22%20is%20English.%20%20%20%0A%7D%0ALIMIT%201000">uses</a></span>)</li></ul></td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://www.dnb.de/EN/gnd">Information pages about the GND</a> from the German National Library</li>
+<li><a rel="nofollow" class="external text" href="http://swb.bsz-bw.de/DB=2.104/SET=4/TTL=1/LNG=EN/START_WELCOME?retrace=0">Search via OGND</a> (<i lang="de" title="German language text">Bibliotheksservice-Zentrum Baden-Württemberg</i>)</li>
+<li><a rel="nofollow" class="external text" href="http://www.dnb.de/SharedDocs/Downloads/DE/DNB/service/rundschreibenBereitstellungGNDGrundbestand.pdf?__blob=publicationFile">Bereitstellung des ersten GND-Grundbestandes</a> DNB, 19 April 2012</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160303184551/http://connect.ala.org/files/ALA_MFIG_Heuvelmann.pdf">From Authority Control to Linked Authority Data</a> Presentation given by Reinhold Heuvelmann (German National Library) to the ALA MARC Formats Interest Group, June 2012</li></ul>
+<div role="navigation" class="navbox authority-control-files" aria-labelledby="Authority_control_files" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Authority_control_files" title="Template:Authority control files"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Authority_control_files" title="Template talk:Authority control files"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Authority_control_files&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Authority_control_files" style="font-size:114%;margin:0 4em"><a href="/wiki/Authority_control" title="Authority control">Authority control files</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><a href="/wiki/Auckland_Art_Gallery_Toi_o_T%C4%81maki" title="Auckland Art Gallery Toi o Tāmaki">AAG</a> • <a href="/wiki/ACM_Digital_Library" class="mw-redirect" title="ACM Digital Library">ACM DL</a> • <a href="/wiki/Australian_Dictionary_of_Biography" title="Australian Dictionary of Biography">ADB</a> • <a href="/wiki/Art_Gallery_of_South_Australia" title="Art Gallery of South Australia">AGSA</a> • <a href="/wiki/Autores.uy" title="Autores.uy">autores.uy</a> • <a href="/wiki/Australian_Women%27s_Register" title="Australian Women&#39;s Register">AWR</a> • <a href="/wiki/Royal_Institute_for_Cultural_Heritage#Online_artworks_pages" title="Royal Institute for Cultural Heritage">BALaT</a> • <a href="/wiki/Bibsys" title="Bibsys">BIBSYS</a> • <a href="/wiki/Marburg_Picture_Index" title="Marburg Picture Index">Bildindex</a> • <a href="/wiki/Biblioteca_Nacional_de_Chile" title="Biblioteca Nacional de Chile">BNC</a> • <a href="/wiki/Biblioteca_Nacional_de_Espa%C3%B1a" title="Biblioteca Nacional de España">BNE</a> • <a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a> • <a href="/wiki/Author_citation_(botany)" title="Author citation (botany)">Botanist</a> • <a href="/wiki/Biografisch_Portaal" title="Biografisch Portaal">BPN</a> • <a href="/wiki/Name_and_Title_Authority_File_of_Catalonia" title="Name and Title Authority File of Catalonia">CANTIC</a> • <a href="/wiki/CiNii" title="CiNii">CiNii</a> • <a href="/wiki/Dictionary_of_Australian_Artists" title="Dictionary of Australian Artists">DAAO</a> • <a href="/wiki/DBLP" title="DBLP">DBLP</a> • <a href="/wiki/Stuttgart_Database_of_Scientific_Illustrators_1450%E2%80%931950" title="Stuttgart Database of Scientific Illustrators 1450–1950">DSI</a> • <a class="mw-selflink selflink">GND</a> • <a href="/wiki/Historical_Dictionary_of_Switzerland" title="Historical Dictionary of Switzerland">HDS</a> • <a href="/wiki/International_Association_of_Athletics_Federations" title="International Association of Athletics Federations">IAAF</a> • <a href="/wiki/Information_Center_for_Israeli_Art" title="Information Center for Israeli Art">ICIA</a> • <a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a> • <a href="/wiki/Joconde" title="Joconde">Joconde</a> • <a href="/wiki/KulturNav" title="KulturNav">KulturNav</a> • <a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a> • <a href="/wiki/Historical_Dictionary_of_Switzerland#Lexicon_Istoric_Retic" title="Historical Dictionary of Switzerland">LIR</a> • <a href="/wiki/National_Library_of_Latvia" title="National Library of Latvia">LNB</a> • <a href="/wiki/Base_L%C3%A9onore" title="Base Léonore">Léonore</a> • <a href="/wiki/MusicBrainz" title="MusicBrainz">MusicBrainz</a> • <a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a> • <a href="/wiki/National_Archives_and_Records_Administration" title="National Archives and Records Administration">NARA</a> • <a href="/wiki/National_Central_Library" title="National Central Library">NCL</a> • <a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a> • <a href="/wiki/National_Gallery_of_Victoria" title="National Gallery of Victoria">NGV</a> • <a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a> • <a href="/wiki/National_Library_of_Australia" title="National Library of Australia">NLA</a> • <a href="/wiki/National_Library_of_Israel" title="National Library of Israel">NLI</a> • <a href="/wiki/National_Library_of_Poland" title="National Library of Poland">NLP</a> • <a href="/wiki/National_Library_of_Romania" title="National Library of Romania">NLR</a> • <a href="/wiki/National_and_University_Library_in_Zagreb" title="National and University Library in Zagreb">NSK</a> • <a href="/wiki/Royal_Library_of_the_Netherlands" title="Royal Library of the Netherlands">NTA</a> • <a href="/wiki/ORCID" title="ORCID">ORCID</a> • <a href="https://www.wikidata.org/wiki/Q23892012" class="extiw" title="d:Q23892012">PIC</a> • <a href="/wiki/ResearcherID" title="ResearcherID">ResearcherID</a> • <a href="/wiki/RERO_(Library_Network_of_Western_Switzerland)" title="RERO (Library Network of Western Switzerland)">RERO</a> • <a href="/wiki/Netherlands_Institute_for_Art_History#Online_artist_pages" title="Netherlands Institute for Art History">RKD</a> • <a href="https://www.wikidata.org/wiki/Q17299580" class="extiw" title="d:Q17299580">RKDimages ID</a> • <a href="/wiki/Russian_State_Library" title="Russian State Library">RSL</a> • <a href="/wiki/Istituto_Centrale_per_il_Catalogo_Unico" title="Istituto Centrale per il Catalogo Unico">ICCU</a> • <a href="/wiki/LIBRIS" title="LIBRIS">SELIBR</a> • <a href="/wiki/SIKART" title="SIKART">SIKART</a> • <a href="/wiki/SNAC" title="SNAC">SNAC</a> • <a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a> • <a href="/wiki/Semantic_Scholar" title="Semantic Scholar">S2AuthorId</a> • <a href="/wiki/Terminologia_Anatomica" title="Terminologia Anatomica">TA98</a> • <a href="https://www.wikidata.org/wiki/Q21527102" class="extiw" title="d:Q21527102">TDVİA</a> • <a href="/wiki/Terminologia_Embryologica" title="Terminologia Embryologica">TE</a> • <a href="/wiki/Museum_of_New_Zealand_Te_Papa_Tongarewa" title="Museum of New Zealand Te Papa Tongarewa">TePapa</a> • <a href="/wiki/Terminologia_Histologica" title="Terminologia Histologica">TH</a> • <a href="/wiki/Theaterlexikon_der_Schweiz" title="Theaterlexikon der Schweiz">TLS</a> • <a href="/wiki/Trove" title="Trove">Trove</a> • <a href="/wiki/Union_List_of_Artist_Names" title="Union List of Artist Names">ULAN</a> • <a href="/wiki/Biographical_Directory_of_the_United_States_Congress" title="Biographical Directory of the United States Congress">US Congress</a> • <a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q36578&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q36578&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q36578" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a class="mw-selflink selflink">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/7749153-1">7749153-1</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/SNAC" title="SNAC">SNAC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://socialarchive.iath.virginia.edu/ark:/99166/w66h57z6">w66h57z6</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/188136221">188136221</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" class="mw-redirect" title="WorldCat Identities">WorldCat Identities</a> (via VIAF): <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/188136221">188136221</a></span></li></ul>
+</div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1319
-Cached time: 20191020113406
+Parsed by mw1268
+Cached time: 20191027160107
 Cache expiry: 2592000
 Dynamic content: false
-Complications: [vary‐revision‐sha1]
-CPU time usage: 0.552 seconds
-Real time usage: 0.704 seconds
-Preprocessor visited node count: 1402/1000000
+Complications: []
+CPU time usage: 0.488 seconds
+Real time usage: 0.830 seconds
+Preprocessor visited node count: 808/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 91946/2097152 bytes
-Template argument size: 146/2097152 bytes
-Highest expansion depth: 8/40
-Expensive parser function count: 1/500
-Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 30767/5000000 bytes
-Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.348/10.000 seconds
-Lua memory usage: 14.63 MB/50 MB
+Post‐expand include size: 31951/2097152 bytes
+Template argument size: 2627/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1429/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.339/10.000 seconds
+Lua memory usage: 13.63 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  584.478      1 -total
- 38.65%  225.877     41 Template:Lang
- 20.05%  117.197     10 Template:Cite_book
- 17.52%  102.414      1 Template:Refimprove
- 16.86%   98.567      1 Template:Reflist
- 13.11%   76.615      1 Template:Ambox
-  5.88%   34.375      1 Template:Find_sources_mainspace
-  3.92%   22.885      1 Template:Names_in_world_cultures
-  3.46%   20.236      1 Template:Serbs
-  3.11%   18.153      1 Template:See_also
+100.00%  764.558      1 -total
+ 53.30%  407.542      1 Template:Infobox_identifier
+ 52.39%  400.527      1 Template:Infobox
+ 47.66%  364.382      1 Template:Official_URL
+ 44.04%  336.726      1 Template:URL
+ 43.31%  331.128      1 Template:If_empty
+ 42.57%  325.465      2 Template:Wikidata
+ 19.03%  145.486      6 Template:Lang-de
+ 10.27%   78.540      1 Template:Update
+  7.01%   53.630      2 Template:Main_other
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:14647718-0!canonical and timestamp 20191020113405 and revision id 919895404
+<!-- Saved in parser cache with key enwiki:pcache:idhash:35566739-0!canonical and timestamp 20191027160106 and revision id 913351784
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Serbian_names&amp;oldid=919895404">https://en.wikipedia.org/w/index.php?title=Serbian_names&amp;oldid=919895404</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Integrated_Authority_File&amp;oldid=913351784">https://en.wikipedia.org/w/index.php?title=Integrated_Authority_File&amp;oldid=913351784</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Names_by_culture" title="Category:Names by culture">Names by culture</a></li><li><a href="/wiki/Category:Serbian_culture" title="Category:Serbian culture">Serbian culture</a></li><li><a href="/wiki/Category:Slavic-language_names" title="Category:Slavic-language names">Slavic-language names</a></li><li><a href="/wiki/Category:Serbian-language_names" title="Category:Serbian-language names">Serbian-language names</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1:_long_volume_value" title="Category:CS1: long volume value">CS1: long volume value</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_August_2009" title="Category:Articles needing additional references from August 2009">Articles needing additional references from August 2009</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_containing_Serbian-language_text" title="Category:Articles containing Serbian-language text">Articles containing Serbian-language text</a></li><li><a href="/wiki/Category:Articles_containing_Hungarian-language_text" title="Category:Articles containing Hungarian-language text">Articles containing Hungarian-language text</a></li><li><a href="/wiki/Category:Articles_containing_Macedonian-language_text" title="Category:Articles containing Macedonian-language text">Articles containing Macedonian-language text</a></li><li><a href="/wiki/Category:Articles_containing_Romanian-language_text" title="Category:Articles containing Romanian-language text">Articles containing Romanian-language text</a></li><li><a href="/wiki/Category:CS1_errors:_missing_periodical" title="Category:CS1 errors: missing periodical">CS1 errors: missing periodical</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Computer-related_introductions_in_2012" title="Category:Computer-related introductions in 2012">Computer-related introductions in 2012</a></li><li><a href="/wiki/Category:Library_cataloging_and_classification" title="Category:Library cataloging and classification">Library cataloging and classification</a></li><li><a href="/wiki/Category:Unique_identifiers" title="Category:Unique identifiers">Unique identifiers</a></li><li><a href="/wiki/Category:Creative_Commons-licensed_databases" title="Category:Creative Commons-licensed databases">Creative Commons-licensed databases</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Wikipedia_articles_in_need_of_updating_from_February_2018" title="Category:Wikipedia articles in need of updating from February 2018">Wikipedia articles in need of updating from February 2018</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_in_need_of_updating" title="Category:All Wikipedia articles in need of updating">All Wikipedia articles in need of updating</a></li><li><a href="/wiki/Category:Articles_containing_German-language_text" title="Category:Articles containing German-language text">Articles containing German-language text</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SNAC-ID_identifiers" title="Category:Wikipedia articles with SNAC-ID identifiers">Wikipedia articles with SNAC-ID identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat-VIAF_identifiers" title="Category:Wikipedia articles with WorldCat-VIAF identifiers">Wikipedia articles with WorldCat-VIAF identifiers</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -632,13 +205,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Serbian+names" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Serbian+names" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Integrated+Authority+File" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Integrated+Authority+File" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Serbian_names" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Serbian_names" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Integrated_Authority_File" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Integrated_Authority_File" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -653,7 +226,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Serbian_names">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Serbian_names&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Serbian_names&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Integrated_Authority_File">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Integrated_Authority_File&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Integrated_Authority_File&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -692,28 +265,28 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Serbian_names" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Serbian_names" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Serbian_names&amp;oldid=919895404" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Serbian_names&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7452919" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Serbian_names&amp;id=919895404" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Integrated_Authority_File" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Integrated_Authority_File" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Integrated_Authority_File&amp;oldid=913351784" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Integrated_Authority_File&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q36578" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Integrated_Authority_File&amp;id=913351784" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Serbian+names">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Serbian+names&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Serbian_names&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Integrated+Authority+File">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Integrated+Authority+File&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Integrated_Authority_File&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B1_%D0%B8%D1%81%D0%B5%D0%BC%D0%B5" title="Серб исеме – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A3%CE%B5%CF%81%CE%B2%CE%B9%CE%BA%CE%AC_%CE%BF%CE%BD%CF%8C%CE%BC%CE%B1%CF%84%CE%B1" title="Σερβικά ονόματα – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8D%D5%A5%D6%80%D5%A2%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A1%D5%B6%D5%B8%D6%82%D5%B6" title="Սերբական անուն – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%90%E1%83%AE%E1%83%94%E1%83%9A%E1%83%98%E1%83%A1_%E1%83%93%E1%83%90%E1%83%A0%E1%83%A5%E1%83%9B%E1%83%94%E1%83%95%E1%83%98%E1%83%A1_%E1%83%A1%E1%83%94%E1%83%A0%E1%83%91%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%A2%E1%83%A0%E1%83%90%E1%83%93%E1%83%98%E1%83%AA%E1%83%98%E1%83%94%E1%83%91%E1%83%98" title="სახელის დარქმევის სერბული ტრადიციები – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A1%D1%80%D0%BF%D1%81%D0%BA%D0%B8_%D0%BB%D0%B8%D1%87%D0%BD%D0%B8_%D0%B8%D0%BC%D0%B8%D1%9A%D0%B0" title="Српски лични имиња – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B1%D1%81%D0%BA%D0%BE%D0%B5_%D0%B8%D0%BC%D1%8F" title="Сербское имя – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Tradita_e_emrave_n%C3%AB_Serbi" title="Tradita e emrave në Serbi – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A1%D1%80%D0%BF%D1%81%D0%BA%D0%B0_%D0%BB%D0%B8%D1%87%D0%BD%D0%B0_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0" title="Српска лична имена – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B1%D1%81%D1%8C%D0%BA%D1%96_%D1%96%D0%BC%D0%B5%D0%BD%D0%B0" title="Сербські імена – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7452919#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D9%84%D9%81_%D8%A7%D8%B3%D8%AA%D9%86%D8%A7%D8%AF%D9%8A_%D9%85%D8%AA%D9%83%D8%A7%D9%85%D9%84" title="ملف استنادي متكامل – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%87%E0%A4%82%E0%A4%9F%E0%A5%80%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%9F%E0%A5%87%E0%A4%A1_%E0%A4%91%E0%A4%A5%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%9F%E0%A5%80_%E0%A4%AB%E0%A4%BE%E0%A4%87%E0%A4%B2" title="इंटीग्रेटेड ऑथारिटी फाइल – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%B5%D0%BD_%D0%BD%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%B2%D0%B5%D0%BD_%D0%B0%D1%80%D1%85%D0%B8%D0%B2" title="Колективен нормативен архив – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Komuna_Norma_Datumaro" title="Komuna Norma Datumaro – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%DA%AF%D9%87%E2%80%8C%D8%AF%D8%A7%D9%86_%D9%85%D8%B3%D8%AA%D9%86%D8%AF_%D9%81%D8%B1%D8%A7%DA%AF%DB%8C%D8%B1" title="برگه‌دان مستند فراگیر – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Integrated_Authority_File" title="Integrated Authority File – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EA%B2%8C%EB%A7%88%EC%9D%B8%EC%9E%90%EB%A9%94_%EB%85%B8%EB%A6%84%EB%8B%A4%ED%83%80%EC%9D%B4" title="게마인자메 노름다타이 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%8F%E0%A4%95%E0%A5%80%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%B0%E0%A4%A3_%E0%A4%AB%E0%A4%BC%E0%A4%BE%E0%A4%87%E0%A4%B2" title="एकीकृत प्राधिकरण फ़ाइल – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Integrated_Authority_File" title="Integrated Authority File – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%91%D7%A5_%D7%91%D7%A7%D7%A8%D7%94_%D7%9E%D7%A9%D7%95%D7%9C%D7%91" title="קובץ בקרה משולב – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Integr%C3%A1lt_katal%C3%B3gust%C3%A1r" title="Integrált katalógustár – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9E%D0%B1%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D1%82%D0%B0_%D0%BD%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%82%D0%B5%D0%BA%D0%B0" title="Обединета нормативна податотека – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%87%E0%A4%82%E0%A4%9F%E0%A4%BF%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%9F%E0%A5%87%E0%A4%A1_%E0%A4%85%E0%A4%A5%E0%A5%89%E0%A4%B0%E0%A4%BF%E0%A4%9F%E0%A5%80_%E0%A4%AB%E0%A4%BE%E0%A4%88%E0%A4%B2" title="इंटिग्रेटेड अथॉरिटी फाईल – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Fail_Kewibawaan_Bersepadu" title="Fail Kewibawaan Bersepadu – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E7%B5%B1%E5%90%88%E5%85%B8%E6%8B%A0%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB" title="統合典拠ファイル – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Gemiansoom_Normdatei" title="Gemiansoom Normdatei – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%87%E0%A9%B0%E0%A8%9F%E0%A9%80%E0%A8%97%E0%A9%8D%E0%A8%B0%E0%A9%87%E0%A8%9F%E0%A8%BF%E0%A8%A1_%E0%A8%85%E0%A8%A5%E0%A8%BE%E0%A8%B0%E0%A8%9F%E0%A9%80_%E0%A8%AB%E0%A8%BE%E0%A8%88%E0%A8%B2" title="ਇੰਟੀਗ੍ਰੇਟਿਡ ਅਥਾਰਟੀ ਫਾਈਲ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Gemeensame_Normdatei" title="Gemeensame Normdatei – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Integratit_Authority_File" title="Integratit Authority File – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B7%83%E0%B6%B8%E0%B7%9D%E0%B6%B0%E0%B7%8F%E0%B6%B1%E0%B7%92%E0%B6%9A_%E0%B6%85%E0%B6%B0%E0%B7%92%E0%B6%9A%E0%B7%8F%E0%B6%BB%E0%B7%93_%E0%B6%9C%E0%B7%9C%E0%B6%B1%E0%B7%94%E0%B7%80" title="සමෝධානික අධිකාරී ගොනුව – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Integrated_Authority_File" title="Integrated Authority File – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/GND" title="GND – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/GND_(tunniste)" title="GND (tunniste) – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/T%C3%BCmle%C5%9Fik_Otorite_Dosyas%C4%B1" title="Tümleşik Otorite Dosyası – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%85%D8%B1%D8%A8%D9%88%D8%B7_%D9%81%D8%A7%D8%A6%D9%84_%D9%85%D9%82%D8%AA%D8%AF%D8%B1%DB%81" title="مربوط فائل مقتدرہ – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%95%B4%E5%90%88%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3" title="整合规范文档 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q36578#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 6 October 2019, at 13:45<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 31 August 2019, at 15:24<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -724,7 +297,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Serbian_names&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Integrated_Authority_File&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -736,8 +309,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.552","walltime":"0.704","ppvisitednodes":{"value":1402,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":91946,"limit":2097152},"templateargumentsize":{"value":146,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":30767,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  584.478      1 -total"," 38.65%  225.877     41 Template:Lang"," 20.05%  117.197     10 Template:Cite_book"," 17.52%  102.414      1 Template:Refimprove"," 16.86%   98.567      1 Template:Reflist"," 13.11%   76.615      1 Template:Ambox","  5.88%   34.375      1 Template:Find_sources_mainspace","  3.92%   22.885      1 Template:Names_in_world_cultures","  3.46%   20.236      1 Template:Serbs","  3.11%   18.153      1 Template:See_also"]},"scribunto":{"limitreport-timeusage":{"value":"0.348","limit":"10.000"},"limitreport-memusage":{"value":15338061,"limit":52428800}},"cachereport":{"origin":"mw1319","timestamp":"20191020113406","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Serbian names","url":"https:\/\/en.wikipedia.org\/wiki\/Serbian_names","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7452919","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7452919","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-12-10T20:26:29Z","dateModified":"2019-10-06T13:45:39Z"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":118,"wgHostname":"mw1266"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.488","walltime":"0.830","ppvisitednodes":{"value":808,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":31951,"limit":2097152},"templateargumentsize":{"value":2627,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1429,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  764.558      1 -total"," 53.30%  407.542      1 Template:Infobox_identifier"," 52.39%  400.527      1 Template:Infobox"," 47.66%  364.382      1 Template:Official_URL"," 44.04%  336.726      1 Template:URL"," 43.31%  331.128      1 Template:If_empty"," 42.57%  325.465      2 Template:Wikidata"," 19.03%  145.486      6 Template:Lang-de"," 10.27%   78.540      1 Template:Update","  7.01%   53.630      2 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.339","limit":"10.000"},"limitreport-memusage":{"value":14297323,"limit":52428800}},"cachereport":{"origin":"mw1268","timestamp":"20191027160107","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Integrated Authority File","url":"https:\/\/en.wikipedia.org\/wiki\/Integrated_Authority_File","sameAs":"http:\/\/www.wikidata.org\/entity\/Q36578","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q36578","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2012-04-20T19:23:58Z","dateModified":"2019-08-31T15:24:39Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/71\/Gemeinsame_Normdatei_2012_Opera.png","headline":"international authority file for personal names, subject headings and corporate bodies"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":119,"wgHostname":"mw1257"});});</script>
 </body>
 </html>

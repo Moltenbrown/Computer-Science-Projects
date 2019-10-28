@@ -2,35 +2,35 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Johan (given name) - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Johan_(given_name)","wgTitle":"Johan (given name)","wgCurRevisionId":920096557,"wgRevisionId":920096557,"wgArticleId":14712557,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","Articles with short description","All set index articles","Given names","Danish masculine given names","Dutch masculine given names","Norwegian masculine given names","Scandinavian masculine given names","Swedish masculine given names"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["",
-"Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Johan_(given_name)","wgRelevantArticleId":14712557,"wgRequestId":"XbEUXApAMFQAAE@fJScAAABG","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q10989273","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":
-"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns",
-"ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Skepticism - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Skepticism","wgTitle":"Skepticism","wgCurRevisionId":921560508,"wgRevisionId":921560508,"wgArticleId":26810,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Use dmy dates from November 2010","Wikipedia articles needing clarification from February 2016","Commons category link is locally defined","Articles with Internet Encyclopedia of Philosophy links","Articles with Curlie links","Wikipedia articles with GND identifiers","Wikipedia articles with NDL identifiers","Epistemological theories","Philosophical methodology","Philosophical movements","Psychological attitude","Scientific method","Skepticism","Doubt"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Skepticism","wgRelevantArticleId":26810,"wgRequestId":"XbX6ogpAMFcAACXJi1YAAACY","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1395219",
+"wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard",
+"ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.2"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Johan_(given_name)"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Johan_(given_name)&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Johan_(given_name)&amp;action=edit"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Skepticism"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Skepticism&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Skepticism&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Johan_(given_name)"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Skepticism"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Johan_given_name rootpage-Johan_given_name skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Skepticism rootpage-Skepticism skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -39,7 +39,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Johan (given name)</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Skepticism</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -50,113 +50,684 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Johan_(disambiguation)" class="mw-redirect mw-disambig" title="Johan (disambiguation)">Johan</a>.</div>
-<table class="infobox" style="width:22em"><caption>Johan</caption><tbody><tr><th scope="row">Pronunciation</th><td><small>Dutch:&#160;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Dutch" title="Help:IPA/Dutch">[ˈjoːɦɑn]</a></span><br /><small>Norwegian:&#160;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Norwegian" title="Help:IPA/Norwegian">[ˈjuːhɑn]</a></span><br /><small>Swedish:&#160;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Swedish" title="Help:IPA/Swedish">[¹juːhan]</a></span>&#32;<span class="nowrap" style="font-size:85%">(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:Sv-Johan-fast.flac" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span><a href="//upload.wikimedia.org/wikipedia/commons/d/d1/Sv-Johan-fast.flac" class="internal" title="Sv-Johan-fast.flac">listen</a></span></span>)</span> <small>or</small> <small></small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Swedish" title="Help:IPA/Swedish">[²juːan]</a></span></td></tr><tr><th scope="row">Gender</th><td><a href="/wiki/Male" title="Male">Male</a></td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Origin</th></tr><tr><th scope="row">Meaning</th><td>God is gracious</td></tr><tr><th scope="row">Region of origin</th><td><a href="/wiki/Germanic_languages" title="Germanic languages">Germanic</a> &amp; <a href="/wiki/Southeast_Asia" title="Southeast Asia">Southeast Asia</a> &amp; <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Other names</th></tr><tr><th scope="row">Related names</th><td><a href="/wiki/John_(name)" class="mw-redirect" title="John (name)">John</a>, <a href="/wiki/Johannes" title="Johannes">Johannes</a>, <a href="/wiki/Juhan" title="Juhan">Juhan</a>, <a href="/wiki/Hans_(name)" title="Hans (name)">Hans</a></td></tr></tbody></table><p><b>Johan</b> is a masculine <a href="/wiki/Given_name" title="Given name">given name</a> of <a href="/wiki/Hebrew" class="mw-redirect" title="Hebrew">Hebrew</a> origin. It is a shortened form of the Hebrew name יְהוֹחָנָן (Yəhôḥānān), meaning "God is gracious", and uncommon as a <a href="/wiki/Surname" title="Surname">surname</a>. <i>Johan</i> is also a masculine given name of <a href="/wiki/Malay_language" title="Malay language">Malay language</a> origin, meaning "<a href="/wiki/Champion" title="Champion">Champion</a>".
-</p><p>People with the name Johan include:
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For the school of philosophy, see <a href="/wiki/Philosophical_skepticism" title="Philosophical skepticism">Philosophical skepticism</a>.  For  assertations to avoid uncomfortable truth, see <a href="/wiki/Denialism" title="Denialism">Denialism</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Skepticism_(band)" title="Skepticism (band)">Skepticism (band)</a> and <a href="/wiki/Skeptic_(disambiguation)" class="mw-disambig" title="Skeptic (disambiguation)">Skeptic (disambiguation)</a>.</div>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Questioning attitude or doubt towards one or more items of putative knowledge or belief</div>
+<p class="mw-empty-elt">
 </p>
-<ul><li><a href="/wiki/Johan_I_of_Sweden" class="mw-redirect" title="Johan I of Sweden">Johan I of Sweden</a>, (1201–1222), King of Sweden</li>
-<li><a href="/wiki/John,_King_of_Denmark" title="John, King of Denmark">Johan II of Sweden</a>, (1455–1513), King of Denmark and king of Sweden during the Kalmar Union</li>
-<li><a href="/wiki/Johan_III_of_Sweden" class="mw-redirect" title="Johan III of Sweden">Johan III of Sweden</a>, (1537–1592), King of Sweden</li>
-<li><a href="/wiki/Carl_XIV_Johan_of_Sweden" class="mw-redirect" title="Carl XIV Johan of Sweden">Carl XIV Johan of Sweden</a>, (1763–1844), King of Sweden and king of Norway, first king in the Bernadotte dynasty</li>
-<li><a href="/wiki/Carl_Johan_Trygg" title="Carl Johan Trygg">Carl Johan Trygg</a>, (1887–1954), Swedish master woodcarver</li>
-<li><a href="/wiki/Count_Carl_Johan_Bernadotte_of_Wisborg" class="mw-redirect" title="Count Carl Johan Bernadotte of Wisborg">Count Carl Johan Bernadotte of Wisborg</a> (1916–2012), youngest child of King Gustaf VI Adolf of Sweden</li>
-<li><a href="/wiki/Johan_(Archbishop_of_Uppsala)" title="Johan (Archbishop of Uppsala)">Johan (Archbishop of Uppsala)</a>, late 13th-century Polish-born cleric</li>
-<li><a href="/wiki/Johan_Alho" title="Johan Alho">Johan Alho</a> (1907–1982), Finnish footballer and a football referee</li>
-<li><a href="/wiki/Johan_Andersson_(game_developer)" title="Johan Andersson (game developer)">Johan Andersson</a> (born 1974), Swedish video game designer</li>
-<li><a href="/wiki/Johan_Berisha" title="Johan Berisha">Johan Berisha</a>, Swiss footballer</li>
-<li><a href="/wiki/Johan_Bleeker" title="Johan Bleeker">Johan Bleeker</a> (born 1942), Dutch space scientist</li>
-<li><a href="/wiki/Johan_Bouma" title="Johan Bouma">Johan Bouma</a> (born 1940), Dutch soil scientist</li>
-<li><a href="/wiki/Johan_Brunell" title="Johan Brunell">Johan Brunell</a>, Finnish footballer</li>
-<li><a href="/wiki/Johan_Bruyneel" title="Johan Bruyneel">Johan Bruyneel</a>, Belgian cyclist and team manager</li>
-<li><a href="/wiki/Johan_Christian_Fabricius" title="Johan Christian Fabricius">Johan Christian Fabricius</a> (1745–1808), Danish zoologist</li>
-<li><a href="/wiki/Johan_Cruyff" title="Johan Cruyff">Johan Cruyff</a> (1947–2016) Dutch football manager and retired player</li>
-<li><a href="/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl">Ole-Johan Dahl</a> (1931–2002), Norwegian computer scientist</li>
-<li><a href="/wiki/Johan_Derksen" title="Johan Derksen">Johan Derksen</a> (born 1949), Dutch sports journalist and former football player</li>
-<li><a href="/wiki/Johan_Edlund" title="Johan Edlund">Johan Edlund</a> (born 1971), Swedish musician, leader and vocalist of the band Tiamat</li>
-<li><a href="/wiki/Johan_Frandsen" title="Johan Frandsen">Johan Frandsen</a>, frontman for cult Swedish band, <i>The Knockouts</i></li>
-<li><a href="/wiki/Johan_Galtung" title="Johan Galtung">Johan Galtung</a> (born 1930), Norwegian sociologist</li>
-<li><a href="/wiki/Johan_Harmenberg" title="Johan Harmenberg">Johan Harmenberg</a> (born 1954), Swedish Olympic champion épée fencer</li>
-<li><a href="/wiki/Johan_H%C3%A5stad" title="Johan Håstad">Johan Håstad</a> (born 1960), Swedish mathematician</li>
-<li><a href="/wiki/Johan_Hegg" class="mw-redirect" title="Johan Hegg">Johan Hegg</a>, Vocalist for the melodic death metal band, Amon Amarth</li>
-<li><a href="/wiki/Johan_Hjort" title="Johan Hjort">Johan Hjort</a> (1869–1948), Norwegian fisheries biologist, marine zoologist, and oceanographer</li>
-<li><a href="/wiki/Johan_Kenkhuis" title="Johan Kenkhuis">Johan Kenkhuis</a>, Dutch swimmer</li>
-<li><a href="/wiki/Johan_K%C3%B5pp" title="Johan Kõpp">Johan Kõpp</a> (1874–1970), Estonian Lutheran bishop</li>
-<li>Johan Liebert, the antagonist in Naoki Urasawa's manga and anime series <i><a href="/wiki/Monster_(manga)#Character_List" title="Monster (manga)">Monster</a></i></li>
-<li><a href="/wiki/Johan_Ludvig_Runeberg" title="Johan Ludvig Runeberg">Johan Ludvig Runeberg</a> (1804–1877), Finland-Swedish poet, and is held to be the national poet of Finland</li>
-<li><a href="/wiki/Johan_Micoud" title="Johan Micoud">Johan Micoud</a>, French international footballer, notably for Parma, SV Werder Bremen and Girondins de Bordeaux</li>
-<li><a href="/wiki/Johan_van_Minnen" title="Johan van Minnen">Johan van Minnen</a> (1932–2016), Dutch journalist and politician</li>
-<li><a href="/wiki/Johan_Munters" title="Johan Munters">Johan Munters</a> (born 1978), Swedish ski jumper</li>
-<li><a href="/wiki/Johan_Museeuw" title="Johan Museeuw">Johan Museeuw</a>, Belgian cyclist and former world champion</li>
-<li><a href="/wiki/Johan_Neeskens" title="Johan Neeskens">Johan Neeskens</a>, Dutch soccer player</li>
-<li><a href="/wiki/Johan_Norberg" title="Johan Norberg">Johan Norberg</a> (born 1973), Swedish writer</li>
-<li><a href="/wiki/Johan_Pitka" title="Johan Pitka">Johan Pitka</a> (1872–1944), Estonian military commander</li>
-<li><a href="/wiki/Johan_of_Pl%C3%B6n" class="mw-redirect" title="Johan of Plön">Johan of Plön</a> (died 1359), lord of Denmark east of the Great Belt</li>
-<li><a href="/wiki/Johan_Oscar_Smith" title="Johan Oscar Smith">Johan Oscar Smith</a> (1871–1943 Horten). Norwegian Christian leader, founder of Brunstad Christian Church</li>
-<li><a href="/wiki/Johan_Reinholdz" title="Johan Reinholdz">Johan Reinholdz</a> (born 1980), Swedish guitar player in Andromeda, NonExist and Skyfire</li>
-<li><a href="/wiki/Johan_Renck" title="Johan Renck">Johan Renck</a> (born 1966), Swedish director of music videos, TV, and film.</li>
-<li><a href="/wiki/Johan_Santana" title="Johan Santana">Johan Santana</a>, New York Mets pitcher</li>
-<li><a href="/wiki/Johan_Sta%C3%ABl_von_Holstein" title="Johan Staël von Holstein">Johan Staël von Holstein</a> (born 1963), Swedish entrepreneur</li>
-<li><a href="/wiki/Johan_Svensson_(Swedish_Air_Force_officer)" title="Johan Svensson (Swedish Air Force officer)">Johan Svensson</a> (born 1962), Swedish Air Force officer</li>
-<li><a href="/wiki/Johan_Teterisa" title="Johan Teterisa">Johan Teterisa</a>, Indonesian activist</li>
-<li><a href="/wiki/Johan_van_der_Velde" title="Johan van der Velde">Johan van der Velde</a>, Dutch cyclist</li>
-<li><a href="/wiki/Johan_Vonlanthen" title="Johan Vonlanthen">Johan Vonlanthen</a>, Swiss football player</li>
-<li><a href="/wiki/Johan_Wallberg" title="Johan Wallberg">Johan Wallberg</a> (born 1977), Swedish freestyle swimmer</li>
-<li><a href="/wiki/Johan_Kristoffersson" title="Johan Kristoffersson">Johan Kristoffersson</a>, Swedish race-car driver</li></ul>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Johan_(given_name)&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Jonah_(given_name)" title="Jonah (given name)">Jonah (given name)</a></li>
-<li><a href="/wiki/John_(name)" class="mw-redirect" title="John (name)">John (name)</a></li>
-<li><a href="/wiki/Johann" title="Johann">Johann</a></li>
-<li><a href="/wiki/Johannes" title="Johannes">Johannes</a></li>
-<li><a href="/wiki/Alternate_forms_for_the_name_John" title="Alternate forms for the name John">Alternate forms for the name John</a></li></ul>
-<style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
-<table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of a series on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Certainty" title="Certainty">Certainty</a></th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em;padding-left:0.5em;padding-right:0.5em;">
+<ul><li><a href="/wiki/Approximation" title="Approximation">Approximation</a></li>
+<li><a href="/wiki/Belief" title="Belief">Belief</a></li>
+<li><a href="/wiki/Determinism" title="Determinism">Determinism</a></li>
+<li><a href="/wiki/Dogma" title="Dogma">Dogma</a></li>
+<li><a href="/wiki/Doubt" title="Doubt">Doubt</a></li>
+<li><a href="/wiki/Fallibilism" title="Fallibilism">Fallibilism</a></li>
+<li><a href="/wiki/Fatalism" title="Fatalism">Fatalism</a></li>
+<li><a href="/wiki/Hypothesis" title="Hypothesis">Hypothesis</a></li>
+<li><a href="/wiki/Theory_of_justification" title="Theory of justification">Justification</a></li>
+<li><a href="/wiki/Nihilism" title="Nihilism">Nihilism</a></li>
+<li><a href="/wiki/Proof_(truth)" title="Proof (truth)">Proof</a></li>
+<li><a href="/wiki/Scientific_theory" title="Scientific theory">Scientific theory</a></li>
+<li><a class="mw-selflink selflink">Skepticism</a></li>
+<li><a href="/wiki/Solipsism" title="Solipsism">Solipsism</a></li>
+<li><a href="/wiki/Theory" title="Theory">Theory</a></li>
+<li><a href="/wiki/Truth" title="Truth">Truth</a></li>
+<li><a href="/wiki/Uncertainty" title="Uncertainty">Uncertainty</a></li></ul></td>
+</tr><tr><td class="hlist" style="padding:0 0.1em 0.4em;padding-left:0.5em;padding-right:0.5em;">
+<hr />
+<p>Related concepts and fundamentals:
+</p>
+<ul><li><a href="/wiki/Agnosticism" title="Agnosticism">Agnosticism</a></li>
+<li><a href="/wiki/Epistemology" title="Epistemology">Epistemology</a></li>
+<li><a href="/wiki/Presupposition_(philosophy)" title="Presupposition (philosophy)">Presupposition</a></li>
+<li><a href="/wiki/Probability" title="Probability">Probability</a></li></ul></td>
+</tr><tr><td style="text-align:right;font-size:115%"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Certainty_sidebar" title="Template:Certainty sidebar"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Certainty_sidebar" title="Template talk:Certainty sidebar"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Certainty_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><b>Skepticism</b> (<a href="/wiki/American_English" title="American English">American English</a>) or <b>scepticism</b> (<a href="/wiki/British_English" title="British English">British English</a>, <a href="/wiki/Australian_English" title="Australian English">Australian English</a>, and <a href="/wiki/Canadian_English" title="Canadian English">Canadian English</a>) is generally a questioning attitude or <a href="/wiki/Doubt" title="Doubt">doubt</a> towards one or more items of putative <a href="/wiki/Knowledge" title="Knowledge">knowledge</a> or <a href="/wiki/Belief" title="Belief">belief</a> or <a href="/wiki/Dogma" title="Dogma">dogma</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> It is often directed at domains, such as the <a href="/wiki/Supernatural" title="Supernatural">supernatural</a>, morality (<a href="/wiki/Moral_skepticism" title="Moral skepticism">moral skepticism</a>), <a href="/wiki/Theism" title="Theism">theism</a> (skepticism about the existence of God), or knowledge (skepticism about the possibility of knowledge, or of certainty).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Formally, skepticism as a topic occurs in the context of <a href="/wiki/Philosophy" title="Philosophy">philosophy</a>, particularly <a href="/wiki/Epistemology" title="Epistemology">epistemology</a>, although it can be applied to any topic such as politics, religion, and pseudoscience.
+</p><p><a href="/wiki/Philosophical_skepticism" title="Philosophical skepticism">Philosophical skepticism</a> comes in various forms. Radical forms of skepticism deny that knowledge or rational belief is possible and urge us to <a href="/wiki/Suspension_of_judgment" title="Suspension of judgment">suspend judgment</a> on many or all controversial matters. More moderate forms of skepticism claim only that nothing can be known with certainty, or that we can know little or nothing about the big question in life, such as whether God exists or whether there is an afterlife. <a href="/wiki/Religious_skepticism" title="Religious skepticism">Religious skepticism</a> is "doubt concerning basic religious principles (such as immortality, providence, and revelation)".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> <a href="/wiki/Scientific_skepticism" class="mw-redirect" title="Scientific skepticism">Scientific skepticism</a> concerns testing beliefs for reliability, by subjecting them to <a href="https://en.wiktionary.org/wiki/systematic" class="extiw" title="wikt:systematic">systematic</a> investigation using the <a href="/wiki/Scientific_method" title="Scientific method">scientific method</a>, to discover <a href="/wiki/Empirical_evidence" title="Empirical evidence">empirical evidence</a> for them.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definition"><span class="tocnumber">1</span> <span class="toctext">Definition</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Philosophy"><span class="tocnumber">2</span> <span class="toctext">Philosophy</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Religion"><span class="tocnumber">3</span> <span class="toctext">Religion</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Science"><span class="tocnumber">4</span> <span class="toctext">Science</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Auditing"><span class="tocnumber">5</span> <span class="toctext">Auditing</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Sources"><span class="tocnumber">8</span> <span class="toctext">Sources</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Further_reading"><span class="tocnumber">9</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skepticism&amp;action=edit&amp;section=1" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In ordinary usage, skepticism (US) or scepticism (UK) (<a href="/wiki/Ancient_Greek" title="Ancient Greek">Greek:</a> 'σκέπτομαι' <i>skeptomai</i>, to search, to think about or look for; see also <a href="/wiki/Draught_and_draft" class="mw-redirect" title="Draught and draft">spelling differences</a>) can refer to:
+</p>
+<ol><li>an attitude of doubt or a disposition to incredulity either in general or toward a particular object;</li>
+<li>the <a href="/wiki/Doctrine" title="Doctrine">doctrine</a> that true <a href="/wiki/Knowledge" title="Knowledge">knowledge</a> or some particular knowledge is uncertain;</li>
+<li>the method of <a href="/wiki/Suspension_of_judgment" title="Suspension of judgment">suspended judgment</a>, systematic <a href="/wiki/Doubt" title="Doubt">doubt</a>, or criticism that is characteristic of skeptics (Merriam–Webster).</li></ol>
+<p>In <a href="/wiki/Philosophy" title="Philosophy">philosophy</a>, skepticism can refer to:
+</p>
+<ol><li>a mode of inquiry that emphasizes critical scrutiny, caution, and intellectual rigor;</li>
+<li>a method of obtaining knowledge through systematic doubt and continual testing;</li>
+<li>a set of claims about the limitations of human knowledge and the proper response to such limitations.</li></ol>
+<h2><span class="mw-headline" id="Philosophy">Philosophy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skepticism&amp;action=edit&amp;section=2" title="Edit section: Philosophy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Philosophical_skepticism" title="Philosophical skepticism">Philosophical skepticism</a></div>
+<p>As a philosophical school or movement, skepticism arose both in ancient Greece and India. In India the <a href="/wiki/Aj%C3%B1ana" title="Ajñana">Ajñana</a> school of philosophy espoused skepticism. It was a major early rival of <a href="/wiki/Buddhism" title="Buddhism">Buddhism</a> and <a href="/wiki/Jainism" title="Jainism">Jainism</a>, and a major influence on Buddhism. Two of the foremost disciples of the <a href="/wiki/Buddha" class="mw-redirect" title="Buddha">Buddha</a>, <a href="/wiki/Sariputta" title="Sariputta">Sariputta</a> and <a href="/wiki/Maudgalyayana" title="Maudgalyayana">Moggallāna</a>, were initially the students of the Ajñana philosopher <a href="/wiki/Sanjaya_Belatthiputta" title="Sanjaya Belatthiputta">Sanjaya Belatthiputta</a>, and a strong element of skepticism is found in <a href="/wiki/Early_Buddhism" title="Early Buddhism">Early Buddhism</a>, most particularly in the <a href="/wiki/Atthakavagga_and_Parayanavagga" title="Atthakavagga and Parayanavagga">Aṭṭhakavagga</a> sutra. Since skepticism is a philosophical attitude and a style of philosophising rather than a position, the Ajñanins may have influenced other skeptical thinkers of India such as <a href="/wiki/Nagarjuna" title="Nagarjuna">Nagarjuna</a>, <a href="/wiki/Jayar%C4%81%C5%9Bi_Bha%E1%B9%AD%E1%B9%ADa" title="Jayarāśi Bhaṭṭa">Jayarāśi Bhaṭṭa</a>, and <a href="/wiki/Shriharsha" title="Shriharsha">Shriharsha</a>.<sup id="cite_ref-FOOTNOTEMatilal200452-75_5-0" class="reference"><a href="#cite_note-FOOTNOTEMatilal200452-75-5">&#91;5&#93;</a></sup>
+</p><p>In Greece philosophers as early as <a href="/wiki/Xenophanes" title="Xenophanes">Xenophanes</a> (c. 570 – c. 475 BC) expressed skeptical views, as did <a href="/wiki/Democritus" title="Democritus">Democritus</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> 
+and a number of <a href="/wiki/Sophists" class="mw-redirect" title="Sophists">Sophists</a>. <a href="/wiki/Gorgias" title="Gorgias">Gorgias</a>, for example, reputedly argued that nothing exists, that even if there were something we could not know it, and that even if we could know it we could not communicate it.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> The <a href="/wiki/Heraclitus" title="Heraclitus">Heraclitean</a> philosopher <a href="/wiki/Cratylus" title="Cratylus">Cratylus</a> refused to discuss anything and would merely wriggle his finger, claiming that communication is impossible since meanings are constantly changing.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> <a href="/wiki/Socrates" title="Socrates">Socrates</a> also had skeptical tendencies, claiming that he knew nothing, or at least nothing worthwhile.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>There were two major schools of skepticism in the ancient Greek and Roman world. The first was <a href="/wiki/Pyrrhonism" title="Pyrrhonism">Pyrrhonism</a>, was founded by <a href="/wiki/Pyrrho_of_Elis" class="mw-redirect" title="Pyrrho of Elis">Pyrrho of Elis</a> (c. 360–270 BCE). The second was <a href="/wiki/Academic_Skepticism" class="mw-redirect" title="Academic Skepticism">Academic Skepticism</a>, so-called because its two leading defenders,  <a href="/wiki/Arcesilaus" title="Arcesilaus">Arcesilaus</a> (c. 315–240 BCE) who initiated the philosophy, and <a href="/wiki/Carneades" title="Carneades">Carneades</a> (c. 217–128 BCE), the philosophy's most famous proponent, were heads of Plato's <a href="/wiki/Academy" title="Academy">Academy</a>. Pyrrhonism's aims are psychological. It urges suspension of judgment (<i><a href="/wiki/Epoche" class="mw-redirect" title="Epoche">epoche</a></i>) to achieve mental tranquility (<i><a href="/wiki/Ataraxia" title="Ataraxia">ataraxia</a></i>). The Academic Skeptics denied that knowledge is possible. The Academic Skeptics claimed that some beliefs are more reasonable or probable than others, whereas Pyrrhonian skeptics argue that equally compelling arguments can be given for or against any disputed view.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> Nearly all the writings of the ancient skeptics are now lost. Most of what we know about ancient skepticism is from <a href="/wiki/Sextus_Empiricus" title="Sextus Empiricus">Sextus Empiricus</a>, a Pyrrhonian skeptic who lived in the second or third century CE. His works  contain a lucid summary of stock skeptical arguments.
+</p><p>Ancient skepticism faded out during the late Roman Empire, particularly after <a href="/wiki/Augustine" class="mw-redirect" title="Augustine">Augustine</a> (354–430 CE) attacked the skeptics in his work <i>Against the Academics</i> (386 CE). There was little knowledge of, or interest in, ancient skepticism in Christian Europe during the Middle Ages. Interest revived during the Renaissance and Reformation, particularly after the complete writings of Sextus Empiricus were translated into Latin in 1569. A number of Catholic writers, including <a href="/wiki/Francisco_Sanches" title="Francisco Sanches">Francisco Sanches</a> (c. 1550–1623), <a href="/wiki/Michel_de_Montaigne" title="Michel de Montaigne">Michel de Montaigne</a> (1533–1592), <a href="/wiki/Pierre_Gassendi" title="Pierre Gassendi">Pierre Gassendi</a> (1592–1655), and <a href="/wiki/Marin_Mersenne" title="Marin Mersenne">Marin Mersenne</a> (1588–1648) deployed ancient skeptical arguments to defend moderate forms of skepticism and to argue that faith, rather than reason, must be the primary guide to truth. Similar arguments were offered later (perhaps ironically) by the Protestant thinker <a href="/wiki/Pierre_Bayle" title="Pierre Bayle">Pierre Bayle</a> in his influential Historical and Critical Dictionary (1697–1702).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p><p>The growing popularity of skeptical views created an intellectual crisis in seventeenth-century Europe. One major response was offered by the French philosopher and mathematician <a href="/wiki/Ren%C3%A9_Descartes" title="René Descartes">René Descartes</a> (1596–1650). In his classic work, <i>Meditations of First Philosophy</i> (1641), Descartes sought to refute skepticism, but only after he had formulated the case for skepticism as powerfully as possible. Descartes argued that no matter what radical skeptical possibilities we imagine there are certain truths (e.g., that thinking is occurring, or that I exist) that are absolutely certain. Thus, the ancient skeptics were wrong to claim that knowledge is impossible. Descartes also attempted to refute skeptical doubts about the reliability of our senses, our memory, and other cognitive faculties. To do this, Descartes tried to prove that God exists and that God would not allow us to be systematically deceived about the nature of reality. Many contemporary philosophers question whether this second stage of Descartes’ critique of skepticism is successful.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p><p>In the eighteenth century a powerful new case for skepticism was offered by the Scottish philosopher <a href="/wiki/David_Hume" title="David Hume">David Hume</a> (1711–1776). Hume was an empiricist, claiming that all genuine ideas can be traced back to original impressions of sensation or introspective consciousness. Hume argued forcefully that on empiricist grounds there are no sound reasons for belief in God, an enduring self or soul, an external world, causal necessity, objective morality, or inductive reasoning. In fact, he argued that "Philosophy would render us entirely Pyrrhonian, were not Nature too strong for it."<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> As Hume saw it, the real basis of human belief is not reason, but custom or habit. We are hard-wired by nature to trust, say, our memories or inductive reasoning, and no skeptical arguments, however powerful, can dislodge those beliefs. In this way, Hume embraced what he called a "mitigated" skepticism, while rejecting an "excessive" Pyrrhonian skepticism that he saw as both impractical and psychologically impossible.
+</p><p>Hume's skepticism provoked a number of important responses. Hume's Scottish contemporary, <a href="/wiki/Thomas_Reid" title="Thomas Reid">Thomas Reid</a> (1710–1796), challenged Hume's strict empiricism and argued that it is rational to accept "common-sense" beliefs such as the basic reliability of our senses, our reason, our memories, and inductive reasoning, even though none of these things can be proved. In Reid's view, such common-sense beliefs are foundational and require no proof in order to be rationally justified.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> Not long after Hume's death, the great German philosopher <a href="/wiki/Immanuel_Kant" title="Immanuel Kant">Immanuel Kant</a> (1724–1804) argued that human moral awareness makes no sense unless we reject Hume's skeptical conclusions about the existence of God, the soul, free will, and an afterlife. According to Kant, while Hume was right to claim that we cannot strictly <i>know</i> any of these things, our moral experience entitles us to believe in them.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p><p>Today, skepticism continues to be a topic of lively debate among philosophers.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Religion">Religion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skepticism&amp;action=edit&amp;section=3" title="Edit section: Religion">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Religious_skepticism" title="Religious skepticism">Religious skepticism</a></div>
+<p>Religious skepticism generally refers to doubting given religious beliefs or claims. Historically, religious skepticism can be traced back to <a href="/wiki/Xenophanes" title="Xenophanes">Xenophanes</a>, who doubted many religious claims of the time. Modern religious skepticism typically emphasizes scientific and historical methods or evidence, with <a href="/wiki/Michael_Shermer" title="Michael Shermer">Michael Shermer</a> writing that skepticism is a process for discovering the truth rather than general non-acceptance.<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (February 2016)">clarification needed</span></a></i>&#93;</sup> For example, a religious skeptic might believe that <a href="/wiki/Jesus" title="Jesus">Jesus</a> existed while questioning claims that he was the messiah or performed miracles (see <a href="/wiki/Historicity_of_Jesus" title="Historicity of Jesus">historicity of Jesus</a>). Religious skepticism is not the same as <a href="/wiki/Atheism" title="Atheism">atheism</a> or <a href="/wiki/Agnosticism" title="Agnosticism">agnosticism</a>, though these often do involve skeptical attitudes toward religion and philosophical theology (for example, towards divine <a href="/wiki/Omnipotence" title="Omnipotence">omnipotence</a>). Religious people are generally skeptical about claims of other religions, at least when the two denominations conflict concerning some stated belief. Additionally, they may also be skeptical of the claims made by atheists.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> The historian <a href="/wiki/Will_Durant" title="Will Durant">Will Durant</a> writes that <a href="/wiki/Plato" title="Plato">Plato</a> was "as skeptical of atheism as of any other dogma".
+</p>
+<h2><span class="mw-headline" id="Science">Science</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skepticism&amp;action=edit&amp;section=4" title="Edit section: Science">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Skeptical_movement#Scientific_skepticism" title="Skeptical movement">Skeptical movement §&#160;Scientific skepticism</a></div>
+<p>A scientific or <a href="/wiki/Empirical" class="mw-redirect" title="Empirical">empirical</a> skeptic is one who questions beliefs on the basis of scientific understanding and empirical evidence.
+</p><p><a href="/wiki/Scientific" class="mw-redirect" title="Scientific">Scientific</a> skepticism may discard beliefs pertaining to <i>purported phenomena</i> not subject to reliable observation and thus not systematic or <a href="/wiki/Falsifiability" title="Falsifiability">testable</a> empirically. Most scientists, being scientific skeptics, test the reliability of certain kinds of claims by subjecting them to a systematic investigation using some type of the <a href="/wiki/Scientific_method" title="Scientific method">scientific method</a>.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> As a result, <a href="/wiki/List_of_topics_characterized_as_pseudoscience" title="List of topics characterized as pseudoscience">a number of claims</a> are considered as "<a href="/wiki/Pseudoscience" title="Pseudoscience">pseudoscience</a>", if they are found to improperly apply or ignore the fundamental aspects of the scientific method.
+</p>
+<h2><span class="mw-headline" id="Auditing">Auditing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skepticism&amp;action=edit&amp;section=5" title="Edit section: Auditing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Professional skepticism is an important concept in auditing.  It requires an auditor to have a "questioning mind", to make a critical assessment of evidence, and to consider the sufficiency of the evidence.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skepticism&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li><a href="/wiki/Atheism:_A_Rough_History_of_Disbelief" title="Atheism: A Rough History of Disbelief"><i>A Brief History of Disbelief</i></a> – 3-part <a href="/wiki/PBS" title="PBS">PBS series</a> (2007)</li>
+<li><a href="/wiki/Critical_thinking" title="Critical thinking">Critical thinking</a></li>
+<li><a href="/wiki/Debunker" title="Debunker">Debunker</a> (one who exposes claims as being false)</li>
+<li><a href="/wiki/Denialism" title="Denialism">Denialism</a></li>
+<li><a href="/wiki/Doubt" title="Doubt">Doubt</a></li>
+<li><a href="/wiki/Richard_Popkin" title="Richard Popkin">Richard Popkin</a></li>
+<li><a href="/wiki/Pseudoskepticism" title="Pseudoskepticism">Pseudoskepticism</a></li>
+<li><a href="/wiki/Scientific_skepticism" class="mw-redirect" title="Scientific skepticism">Scientific skepticism</a></li>
+<li><a href="/wiki/Scientism" title="Scientism">Scientism</a></li>
+<li><a href="/wiki/Trivialism" title="Trivialism">Trivialism</a> (opposite of skepticism)</li>
+<li><a href="/wiki/Transactionalism" title="Transactionalism">Transactionalism</a></li>
+<li><a href="/wiki/List_of_topics_characterized_as_pseudoscience" title="List of topics characterized as pseudoscience">List of topics characterized as pseudoscience</a></li>
+<li><a href="/wiki/The_Skeptic_(UK_magazine)" title="The Skeptic (UK magazine)"><i>The Skeptic</i> (UK magazine)</a>, founded by Wendy M. Grossman, examines secularism and the paranormal</li>
+<li><a href="/wiki/Committee_for_Skeptical_Inquiry" title="Committee for Skeptical Inquiry">Committee for Skeptical Inquiry</a>, a non-profit organization to encourage the investigation of paranormal and fringe-science</li>
+<li><i><a href="/wiki/Skeptical_Inquirer" title="Skeptical Inquirer">Skeptical Inquirer</a></i>, magazine published by the <a href="/wiki/Committee_for_Skeptical_Inquiry" title="Committee for Skeptical Inquiry">Committee for Skeptical Inquiry</a></li>
+<li><a href="/wiki/The_Skeptics_Society" title="The Skeptics Society">The Skeptics Society</a>, a nonprofit organization devoted to resisting the spread of pseudoscience, superstition, and irrational beliefs</li>
+<li><a href="/wiki/Skeptic_(U.S._magazine)" title="Skeptic (U.S. magazine)"><i>Skeptic</i> (U.S. magazine)</a>, magazine of The Skeptics Society</li>
+<li><i><a href="/wiki/Skepticality" title="Skepticality">Skepticality</a></i>, a biweekly podcast of the US Skeptics Society's <i>Skeptic</i> magazine</li>
+<li><i><a href="/wiki/The_Skeptic%27s_Dictionary" title="The Skeptic&#39;s Dictionary">The Skeptic's Dictionary</a></i>, a collection of essays by Robert Todd Carroll</li>
+<li><a href="/wiki/Skeptical_movement" title="Skeptical movement">Skeptical movement</a>, a movement based on scientific skepticism, a term introduced by Carl Sagan</li>
+<li><a href="/wiki/Skeptics_in_the_Pub" title="Skeptics in the Pub">Skeptics in the Pub</a>, a social meet-up group</li>
+<li><a href="/wiki/The_Amaz!ng_Meeting" class="mw-redirect" title="The Amaz!ng Meeting">The Amaz!ng Meeting</a>, an annual conference on science, skepticism, and critical thinking</li></ul>
+</div>
+<ul><li><a href="/wiki/Climate_change_denial" title="Climate change denial">Climate change denial</a> is often mislabeled as skepticism</li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skepticism&amp;action=edit&amp;section=7" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Popkin, R. H. <a rel="nofollow" class="external text" href="http://encyclopedia2.thefreedictionary.com/Skeptikoi"><i>The History of Skepticism from Erasmus to Descartes (rev. ed. 1968); C. L. Stough, Greek Skepticism (1969); M. Burnyeat, ed., The Skeptical Tradition (1983); B. Stroud, The Significance of Philosophical Skepticism (1984)</i></a>. <i>Encyclopedia2.thefreedictionary.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+History+of+Skepticism+from+Erasmus+to+Descartes+%28rev.+ed.+1968%29%3B+C.+L.+Stough%2C+Greek+Skepticism+%281969%29%3B+M.+Burnyeat%2C+ed.%2C+The+Skeptical+Tradition+%281983%29%3B+B.+Stroud%2C+The+Significance+of+Philosophical+Skepticism+%281984%29&amp;rft.aulast=Popkin&amp;rft.aufirst=R.+H.&amp;rft_id=http%3A%2F%2Fencyclopedia2.thefreedictionary.com%2FSkeptikoi&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkepticism" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">"Philosophical views are typically classed as skeptical when they involve advancing some degree of doubt regarding claims that are elsewhere taken for granted." <a rel="nofollow" class="external text" href="http://www.utm.edu/research/iep/s/skepcont.htm">utm.edu</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/John_Greco_(philosopher)" title="John Greco (philosopher)">Greco, John</a> (2008). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=Ozv0lftrUeEC"><i>The Oxford Handbook of Skepticism</i></a>. Oxford University Press, US. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780195183214" title="Special:BookSources/9780195183214"><bdi>9780195183214</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Oxford+Handbook+of+Skepticism&amp;rft.pub=Oxford+University+Press%2C+US&amp;rft.date=2008&amp;rft.isbn=9780195183214&amp;rft.aulast=Greco&amp;rft.aufirst=John&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DOzv0lftrUeEC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkepticism" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.merriam-webster.com/dictionary/skepticism">"Definition of SKEPTICISM"</a>. <i>www.merriam-webster.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">5 February</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.merriam-webster.com&amp;rft.atitle=Definition+of+SKEPTICISM&amp;rft_id=http%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2Fskepticism&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkepticism" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-FOOTNOTEMatilal200452-75-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEMatilal200452-75_5-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFMatilal2004">Matilal 2004</a>, pp.&#160;52-75.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a href="#DL">Diogenes Laërtius</a> (tr. <a href="/wiki/Robert_Drew_Hicks" title="Robert Drew Hicks">Hicks</a>, 1925), <a href="https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_IX#cite_ref-102" class="extiw" title="s:Lives of the Eminent Philosophers/Book IX">ix.72</a>. See also <a href="#Fr">Bakalis</a> (2005, p.86)</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">W. T. Jones, <i>A History of Western Philosophy</i>. New York: Harcourt, Brace, 1952, p. 60 n. 45.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Richard H. Popkin, "Skepticism", in Paul Edwards, ed., <i>The Encyclopedia of Philosophy</i>, vol. 7. New York: Macmillan, 1967, p. 449.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Allan Hazlett, <i>A Critical Introduction to Skepticism</i>. London: Bloomsbury, 2014, p. 4-5.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Popkin, "Skepticism", p. 450.</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Richard H. Popkin, <i>The History of Skepticism from Erasmus to Spinoza</i>, rev. ed. Berkeley: University of California Press, 1979, chaps 1 and 2.</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">See, e.g., Popkin, <i>The History of Skepticism</i>, p. 210.</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Quoted in Popkin, "Skepticism", p. 456.</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Popkin, "Skepticism", p. 456.</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Popkin, "Skepticism", p. 457.</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">See, e.g., John Greco, ed., <i>The Oxford Handbook of Skepticism</i>. New York: Oxford University Press, 2008.</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web">Mann, Daniel. <a rel="nofollow" class="external text" href="http://mannsword.blogspot.com/2009/12/skeptical-of-atheism.html">"Skeptical of Atheism"</a>. Apologetics for Today<span class="reference-accessdate">. Retrieved <span class="nowrap">2 December</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Skeptical+of+Atheism&amp;rft.pub=Apologetics+for+Today&amp;rft.aulast=Mann&amp;rft.aufirst=Daniel&amp;rft_id=http%3A%2F%2Fmannsword.blogspot.com%2F2009%2F12%2Fskeptical-of-atheism.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkepticism" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.csicop.org/si/show/scientific_skepticism_csicop_and_the_local_groups">"Scientific Skepticism, CSICOP, and the Local Groups - CSI"</a>. <i>www.csicop.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">5 July</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.csicop.org&amp;rft.atitle=Scientific+Skepticism%2C+CSICOP%2C+and+the+Local+Groups+-+CSI&amp;rft_id=https%3A%2F%2Fwww.csicop.org%2Fsi%2Fshow%2Fscientific_skepticism_csicop_and_the_local_groups&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkepticism" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://pcaobus.org/Standards/Auditing/Pages/AU230.aspx#ps-pcaob_1c410f9b-5033-4f18-b865-af1307863bee">"AU 230 Due Professional Care in the Performance of Work"</a>. <i>pcaobus.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">28 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pcaobus.org&amp;rft.atitle=AU+230+Due+Professional+Care+in+the+Performance+of+Work&amp;rft_id=https%3A%2F%2Fpcaobus.org%2FStandards%2FAuditing%2FPages%2FAU230.aspx%23ps-pcaob_1c410f9b-5033-4f18-b865-af1307863bee&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkepticism" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skepticism&amp;action=edit&amp;section=8" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/A_Greek-English_Lexicon" class="mw-redirect" title="A Greek-English Lexicon">A Greek-English Lexicon</a></i>, <a href="/wiki/Henry_George_Liddell" class="mw-redirect" title="Henry George Liddell">Henry George Liddell</a> and <a href="/wiki/Robert_Scott_(philologist)" title="Robert Scott (philologist)">Robert Scott</a>, revised and augmented throughout by Sir <a href="/wiki/Henry_Stuart_Jones" title="Henry Stuart Jones">Henry Stuart Jones</a>, with the assistance of Roderick McKenzie, <a href="/wiki/Clarendon_Press" class="mw-redirect" title="Clarendon Press">Clarendon Press</a>, Oxford, UK, 1940. <a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus%3Atext%3A1999.04.0057">Online</a>, perseus.tufts.edu.</li>
+<li><a href="/wiki/Panayot_Butchvarov" title="Panayot Butchvarov">Butchvarov, Panayot</a>, <i>Skepticism About the External World</i> (<a href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a>, 1998).</li>
+<li><cite id="CITEREFDaniels,_M.D.Price,_PhD2000" class="citation">Daniels, M.D., D.; Price, PhD, V. (2000), <i>The Essential Enneagram</i>, New York: <a href="/wiki/HarperCollins" title="HarperCollins">HarperCollins</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Essential+Enneagram&amp;rft.place=New+York&amp;rft.pub=HarperCollins&amp;rft.date=2000&amp;rft.aulast=Daniels%2C+M.D.&amp;rft.aufirst=D.&amp;rft.au=Price%2C+PhD%2C+V.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkepticism" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><a href="/wiki/Richard_H%C3%B6nigswald" title="Richard Hönigswald">Richard Hönigswald</a>, <i>Die Skepsis in Philosophie und Wissenschaft</i>, 1914, new edition (ed. and introduction by Christian Benne and Thomas Schirren), Göttingen: Edition Ruprecht, 2008, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-7675-3056-0" title="Special:BookSources/978-3-7675-3056-0">978-3-7675-3056-0</a></li>
+<li>Keeton, Morris T., "skepticism", pp.&#160;277–278 in Dagobert D. Runes (ed.), <i>Dictionary of Philosophy</i>, Littlefield, Adams, and Company, Totowa, NJ, 1962.</li>
+<li><cite class="citation book">Le Morvan, P. (March 2011). <a rel="nofollow" class="external text" href="http://logos-and-episteme.acadiasi.ro/wp-content/uploads/2015/02/HEALTHY-SKEPTICISM-AND-PRACTICAL-WISDOM.pdf"><i>Healthy Skepticism and Practical Wisdom,</i></a> <span class="cs1-format">(PDF)</span>. <i>Logos &amp; Episteme</i>. <b>2</b>. Institute for Economic and Social Research. pp.&#160;87–102. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/2069-0533">2069-0533</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190904064026/https://owd.tcnj.edu/~lemorvan/documents/LE_Skepticism.pdf">Archived</a> <span class="cs1-format">(PDF)</span> from the original on 4 September 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Healthy+Skepticism+and+Practical+Wisdom%2C&amp;rft.pages=87-102&amp;rft.pub=Institute+for+Economic+and+Social+Research&amp;rft.date=2011-03&amp;rft.issn=2069-0533&amp;rft.aulast=Le+Morvan&amp;rft.aufirst=P.&amp;rft_id=http%3A%2F%2Flogos-and-episteme.acadiasi.ro%2Fwp-content%2Fuploads%2F2015%2F02%2FHEALTHY-SKEPTICISM-AND-PRACTICAL-WISDOM.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkepticism" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><i>Webster's New International Dictionary of the English Language, Second Edition, Unabridged</i>, W.A. Neilson, T.A. Knott, P.W. Carhart (eds.), G. &amp; C. Merriam Company, Springfield, MA, 1950.</li></ul>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skepticism&amp;action=edit&amp;section=9" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation book">Wilson, Richard (2009). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=RwFEOwAACAAJ"><i>Don't Get Fooled Again: A Sceptic's Handbook</i></a>. Icon. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781848310520" title="Special:BookSources/9781848310520"><bdi>9781848310520</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Don%27t+Get+Fooled+Again%3A+A+Sceptic%27s+Handbook&amp;rft.pub=Icon&amp;rft.date=2009&amp;rft.isbn=9781848310520&amp;rft.aulast=Wilson&amp;rft.aufirst=Richard&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DRwFEOwAACAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkepticism" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book"><a href="/wiki/Richard_Henry_Popkin" class="mw-redirect" title="Richard Henry Popkin">Popkin, Richard H.</a> (2003). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=7j8PdlgFRDAC"><i>The History of Scepticism&#160;: From Savonarola to Bayle</i></a>. Oxford University Press, US. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780198026716" title="Special:BookSources/9780198026716"><bdi>9780198026716</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+History+of+Scepticism+%3A+From+Savonarola+to+Bayle&amp;rft.pub=Oxford+University+Press%2C+US&amp;rft.date=2003&amp;rft.isbn=9780198026716&amp;rft.aulast=Popkin&amp;rft.aufirst=Richard+H.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D7j8PdlgFRDAC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkepticism" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book"><a href="/wiki/Robert_Gregg_Bury" title="Robert Gregg Bury">Bury, Robert Gregg</a> (1933). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=8WPhjgEACAAJ"><i>Sextus Empiricus: Outlines of Pyrrhonism</i></a>. Harvard University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780674993013" title="Special:BookSources/9780674993013"><bdi>9780674993013</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Sextus+Empiricus%3A+Outlines+of+Pyrrhonism&amp;rft.pub=Harvard+University+Press&amp;rft.date=1933&amp;rft.isbn=9780674993013&amp;rft.aulast=Bury&amp;rft.aufirst=Robert+Gregg&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D8WPhjgEACAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkepticism" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book">Empiricus, Sextus; <a href="/wiki/Julia_Annas" title="Julia Annas">Annas, Julia</a>; <a href="/wiki/Jonathan_Barnes" title="Jonathan Barnes">Barnes, Jonathan</a> (20 July 2000). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=mzO77w6KvDgC"><i>Sextus Empiricus: Outlines of Scepticism</i></a>. Cambridge University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780521778091" title="Special:BookSources/9780521778091"><bdi>9780521778091</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Sextus+Empiricus%3A+Outlines+of+Scepticism&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2000-07-20&amp;rft.isbn=9780521778091&amp;rft.aulast=Empiricus&amp;rft.aufirst=Sextus&amp;rft.au=Annas%2C+Julia&amp;rft.au=Barnes%2C+Jonathan&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DmzO77w6KvDgC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkepticism" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book"><a href="/wiki/Myles_Frederic_Burnyeat" class="mw-redirect" title="Myles Frederic Burnyeat">Burnyeat, Myles</a> (1983). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=_5m2kdMwOswC"><i>The Skeptical Tradition</i></a>. University of California Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780520037472" title="Special:BookSources/9780520037472"><bdi>9780520037472</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Skeptical+Tradition&amp;rft.pub=University+of+California+Press&amp;rft.date=1983&amp;rft.isbn=9780520037472&amp;rft.aulast=Burnyeat&amp;rft.aufirst=Myles&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D_5m2kdMwOswC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkepticism" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation journal">Rosa L; Rosa E; Sarner L; Barrett S (1 April 1998). "A close look at therapeutic touch". <i>JAMA</i>. <b>279</b> (13): 1005–1010. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//doi.org/10.1001%2Fjama.279.13.1005">10.1001/jama.279.13.1005</a></span>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0098-7484">0098-7484</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/9533499">9533499</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=JAMA&amp;rft.atitle=A+close+look+at+therapeutic+touch&amp;rft.volume=279&amp;rft.issue=13&amp;rft.pages=1005-1010&amp;rft.date=1998-04-01&amp;rft.issn=0098-7484&amp;rft_id=info%3Apmid%2F9533499&amp;rft_id=info%3Adoi%2F10.1001%2Fjama.279.13.1005&amp;rft.au=Rosa+L&amp;rft.au=Rosa+E&amp;rft.au=Sarner+L&amp;rft.au=Barrett+S&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkepticism" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Skepticism&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
 <tbody><tr>
-<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
-<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Name list</div>This page or section lists people that share the same <a href="/wiki/Given_name" title="Given name">given name</a>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Johan_(given_name)&amp;namespace=0">internal link</a> led you here, you may wish to change that link to point directly to the intended article. </td>
-</tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" decoding="async" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512" /></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/Special:Search/skepticism" class="extiw" title="wiktionary:Special:Search/skepticism">skepticism</a></b></i> in Wiktionary, the free dictionary.</td></tr>
 </tbody></table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" decoding="async" width="34" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="https://en.wikiquote.org/wiki/Special:Search/Skepticism" class="extiw" title="q:Special:Search/Skepticism">Skepticism</a></b></i></td></tr>
+</tbody></table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Skeptics" class="extiw" title="commons:Category:Skeptics"><span style="">Skeptics</span></a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="https://philpapers.org/browse/skepticism">Skepticism</a> at <a href="/wiki/PhilPapers" title="PhilPapers">PhilPapers</a></li>
+<li><a rel="nofollow" class="external text" href="https://inpho.cogs.indiana.edu/taxonomy/2391">Skepticism</a> at the <a href="/wiki/Indiana_Philosophy_Ontology_Project" title="Indiana Philosophy Ontology Project">Indiana Philosophy Ontology Project</a></li>
+<li><cite class="citation encyclopaedia">Klein, Peter. <a rel="nofollow" class="external text" href="https://plato.stanford.edu/entries/skepticism/">"Skepticism"</a>.  In <a href="/wiki/Edward_N._Zalta" title="Edward N. Zalta">Zalta, Edward N.</a> (ed.). <i><a href="/wiki/Stanford_Encyclopedia_of_Philosophy" title="Stanford Encyclopedia of Philosophy">Stanford Encyclopedia of Philosophy</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Skepticism&amp;rft.btitle=Stanford+Encyclopedia+of+Philosophy&amp;rft.aulast=Klein&amp;rft.aufirst=Peter&amp;rft_id=https%3A%2F%2Fplato.stanford.edu%2Fentries%2Fskepticism%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkepticism" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation encyclopaedia">Vogt, Katja. <a rel="nofollow" class="external text" href="https://plato.stanford.edu/entries/skepticism-ancient/">"Ancient Greek Skepticism"</a>.  In <a href="/wiki/Edward_N._Zalta" title="Edward N. Zalta">Zalta, Edward N.</a> (ed.). <i><a href="/wiki/Stanford_Encyclopedia_of_Philosophy" title="Stanford Encyclopedia of Philosophy">Stanford Encyclopedia of Philosophy</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Ancient+Greek+Skepticism&amp;rft.btitle=Stanford+Encyclopedia+of+Philosophy&amp;rft.aulast=Vogt&amp;rft.aufirst=Katja&amp;rft_id=https%3A%2F%2Fplato.stanford.edu%2Fentries%2Fskepticism-ancient%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkepticism" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation encyclopaedia">Thorsrud, Harald. <a rel="nofollow" class="external text" href="http://www.iep.utm.edu/skepanci/">"Ancient Greek Skepticism"</a>. <i><a href="/wiki/Internet_Encyclopedia_of_Philosophy" title="Internet Encyclopedia of Philosophy">Internet Encyclopedia of Philosophy</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Ancient+Greek+Skepticism&amp;rft.btitle=Internet+Encyclopedia+of+Philosophy&amp;rft.aulast=Thorsrud&amp;rft.aufirst=Harald&amp;rft_id=http%3A%2F%2Fwww.iep.utm.edu%2Fskepanci%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkepticism" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation encyclopaedia">Bolyard, Charles. <a rel="nofollow" class="external text" href="https://plato.stanford.edu/entries/skepticism-medieval//">"Medieval Skepticism"</a>.  In <a href="/wiki/Edward_N._Zalta" title="Edward N. Zalta">Zalta, Edward N.</a> (ed.). <i><a href="/wiki/Stanford_Encyclopedia_of_Philosophy" title="Stanford Encyclopedia of Philosophy">Stanford Encyclopedia of Philosophy</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Medieval+Skepticism&amp;rft.btitle=Stanford+Encyclopedia+of+Philosophy&amp;rft.aulast=Bolyard&amp;rft.aufirst=Charles&amp;rft_id=https%3A%2F%2Fplato.stanford.edu%2Fentries%2Fskepticism-medieval%2F%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkepticism" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation encyclopaedia">Pritchard, Duncan. <a rel="nofollow" class="external text" href="http://www.iep.utm.edu/skepcont/">"Contemporary Skepticism"</a>. <i><a href="/wiki/Internet_Encyclopedia_of_Philosophy" title="Internet Encyclopedia of Philosophy">Internet Encyclopedia of Philosophy</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Contemporary+Skepticism&amp;rft.btitle=Internet+Encyclopedia+of+Philosophy&amp;rft.aulast=Pritchard&amp;rft.aufirst=Duncan&amp;rft_id=http%3A%2F%2Fwww.iep.utm.edu%2Fskepcont%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASkepticism" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><a rel="nofollow" class="external text" href="https://curlie.org/Science/Science_in_Society/Skeptical_Inquiry">Skeptical Inquiry</a> at <a href="/wiki/Curlie" class="mw-redirect" title="Curlie">Curlie</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.newscientist.com/article.ns?id=dn7915">"Most Scientific Papers are Probably Wrong"</a>, <i><a href="/wiki/New_Scientist" title="New Scientist">New Scientist</a></i>, 30 August 2005</li>
+<li><a rel="nofollow" class="external text" href="http://nrs.harvard.edu/urn-3:HUL.InstRepos:4725014"><i>Classical Skepticism</i></a> by <a href="/wiki/Peter_Suber" title="Peter Suber">Peter Suber</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070715132139/http://www.csicop.org/articles/19991214-century/">"Outstanding skeptics of the 20th century"</a> – <i><a href="/wiki/Skeptical_Inquirer" title="Skeptical Inquirer">Skeptical Inquirer</a></i> magazine</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Links_to_related_articles" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#e8e8ff;"><div id="Links_to_related_articles" style="font-size:114%;margin:0 4em">Links to related articles</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;font-size:114%"><div style="padding:0px">
+<div role="navigation" class="navbox" aria-labelledby="Analytic_philosophy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Analytic_philosophy" title="Template:Analytic philosophy"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Analytic_philosophy" title="Template talk:Analytic philosophy"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Analytic_philosophy&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Analytic_philosophy" style="font-size:114%;margin:0 4em"><a href="/wiki/Analytic_philosophy" title="Analytic philosophy">Analytic philosophy</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related articles</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Areas of focus</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Epistemology" title="Epistemology">Epistemology</a></li>
+<li><a href="/wiki/Philosophy_of_language" title="Philosophy of language">Language</a></li>
+<li><a href="/wiki/Philosophy_of_mathematics" title="Philosophy of mathematics">Mathematics</a></li>
+<li><a href="/wiki/Philosophy_of_science" title="Philosophy of science">Science</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Turns</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Virtue_ethics" title="Virtue ethics">Aretaic</a></li>
+<li><a href="/wiki/Linguistic_turn" title="Linguistic turn">Linguistic</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Logic</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Classical_logic" title="Classical logic">Classical</a></li>
+<li><a href="/wiki/Mathematical_logic" title="Mathematical logic">Mathematical</a></li>
+<li><a href="/wiki/Non-classical_logic" title="Non-classical logic">Non-classical</a></li>
+<li><a href="/wiki/Philosophical_logic" title="Philosophical logic">Philosophical</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Theories</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anti-realism" title="Anti-realism">Anti-realism</a></li>
+<li><a href="/wiki/Australian_realism" title="Australian realism">Australian realism</a></li>
+<li><a href="/wiki/Descriptivist_theory_of_names" title="Descriptivist theory of names">Descriptivist theory of names</a></li>
+<li><a href="/wiki/Emotivism" title="Emotivism">Emotivism</a></li>
+<li><a href="/wiki/Functionalism_(philosophy_of_mind)" title="Functionalism (philosophy of mind)">Functionalism</a></li>
+<li><a href="/wiki/Analytical_feminism" title="Analytical feminism">Analytical feminism</a></li>
+<li><a href="/wiki/Logical_atomism" title="Logical atomism">Logical atomism</a></li>
+<li><a href="/wiki/Logical_positivism" title="Logical positivism">Logical positivism</a></li>
+<li><a href="/wiki/Analytical_Marxism" title="Analytical Marxism">Analytical Marxism</a></li>
+<li><a href="/wiki/Neopragmatism" title="Neopragmatism">Neopragmatism</a></li>
+<li><a href="/wiki/Neurophilosophy" title="Neurophilosophy">Neurophilosophy</a></li>
+<li><a href="/wiki/Ordinary_language_philosophy" title="Ordinary language philosophy">Ordinary language</a></li>
+<li><a href="/wiki/Quietism_(philosophy)" title="Quietism (philosophy)">Quietism</a></li>
+<li><a href="/wiki/Structuralism_(philosophy_of_science)" title="Structuralism (philosophy of science)">Scientific structualism</a></li>
+<li><a href="/wiki/Sense_data" title="Sense data">Sense data</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Concepts</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Philosophical_analysis" title="Philosophical analysis">Analysis</a> (<a href="/wiki/Paradox_of_analysis" title="Paradox of analysis">Paradox</a>)</li>
+<li><a href="/wiki/Analytic%E2%80%93synthetic_distinction" title="Analytic–synthetic distinction">Analytic–synthetic distinction</a></li>
+<li><a href="/wiki/Counterfactual_conditional" title="Counterfactual conditional">Counterfactual</a></li>
+<li><a href="/wiki/Natural_kind" title="Natural kind">Natural kind</a></li>
+<li><a href="/wiki/Reflective_equilibrium" title="Reflective equilibrium">Reflective equilibrium</a></li>
+<li><a href="/wiki/Supervenience" title="Supervenience">Supervenience</a></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Modality" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Linguistic_modality" title="Linguistic modality">Modality</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Actualism" title="Actualism">Actualism</a></li>
+<li><a href="/wiki/Metaphysical_necessity" title="Metaphysical necessity">Necessity</a></li>
+<li><a href="/wiki/Logical_possibility" title="Logical possibility">Possibility</a></li>
+<li><a href="/wiki/Possible_world" title="Possible world">Possible world</a></li>
+<li><a href="/wiki/Modal_realism" title="Modal realism">Realism</a></li>
+<li><a href="/wiki/Rigid_designator" title="Rigid designator">Rigid designator</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Philosophers</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nick_Bostrom" title="Nick Bostrom">Nick Bostrom</a></li>
+<li><a href="/wiki/Noam_Chomsky" title="Noam Chomsky">Noam Chomsky</a></li>
+<li><a href="/wiki/Patricia_Churchland" title="Patricia Churchland">Patricia Churchland</a></li>
+<li><a href="/wiki/David_Chalmers" title="David Chalmers">David Chalmers</a></li>
+<li><a href="/wiki/James_F._Conant" title="James F. Conant">James F. Conant</a></li>
+<li><a href="/wiki/Alice_Crary" title="Alice Crary">Alice Crary</a></li>
+<li><a href="/wiki/Daniel_Dennett" title="Daniel Dennett">Daniel Dennett</a></li>
+<li><a href="/wiki/Cora_Diamond" title="Cora Diamond">Cora Diamond</a></li>
+<li><a href="/wiki/Keith_Donnellan" title="Keith Donnellan">Keith Donnellan</a></li>
+<li><a href="/wiki/Paul_Feyerabend" title="Paul Feyerabend">Paul Feyerabend</a></li>
+<li><a href="/wiki/Bas_van_Fraassen" title="Bas van Fraassen">Bas van Fraassen</a></li>
+<li><a href="/wiki/Gottlob_Frege" title="Gottlob Frege">Gottlob Frege</a></li>
+<li><a href="/wiki/Jerry_Fodor" title="Jerry Fodor">Jerry Fodor</a></li>
+<li><a href="/wiki/Ian_Hacking" title="Ian Hacking">Ian Hacking</a></li>
+<li><a href="/wiki/Jaegwon_Kim" title="Jaegwon Kim">Jaegwon Kim</a></li>
+<li><a href="/wiki/Alasdair_MacIntyre" title="Alasdair MacIntyre">Alasdair MacIntyre</a></li>
+<li><a href="/wiki/J._L._Mackie" title="J. L. Mackie">J. L. Mackie</a></li>
+<li><a href="/wiki/Ruth_Millikan" title="Ruth Millikan">Ruth Millikan</a></li>
+<li><a href="/wiki/Ernest_Nagel" title="Ernest Nagel">Ernest Nagel</a></li>
+<li><a href="/wiki/Thomas_Nagel" title="Thomas Nagel">Thomas Nagel</a></li>
+<li><a href="/wiki/Derek_Parfit" title="Derek Parfit">Derek Parfit</a></li>
+<li><a href="/wiki/Karl_Popper" title="Karl Popper">Karl Popper</a></li>
+<li><a href="/wiki/Graham_Priest" title="Graham Priest">Graham Priest</a></li>
+<li><a href="/wiki/John_Searle" title="John Searle">John Searle</a></li>
+<li><a href="/wiki/Peter_Singer" title="Peter Singer">Peter Singer</a></li>
+<li><a href="/wiki/J._J._C._Smart" title="J. J. C. Smart">J. J. C. Smart</a></li>
+<li><a href="/wiki/Ernest_Sosa" title="Ernest Sosa">Ernest Sosa</a></li>
+<li><a href="/wiki/Barry_Stroud" title="Barry Stroud">Barry Stroud</a></li>
+<li><a href="/wiki/Charles_Taylor_(philosopher)" title="Charles Taylor (philosopher)">Charles Taylor</a></li>
+<li><a href="/wiki/Michael_Walzer" title="Michael Walzer">Michael Walzer</a></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Cambridge</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/C._D._Broad" title="C. D. Broad">Charlie Broad</a></li>
+<li><a href="/wiki/Norman_Malcolm" title="Norman Malcolm">Norman Malcolm</a></li>
+<li><a href="/wiki/G._E._Moore" title="G. E. Moore">G. E. Moore</a></li>
+<li><a href="/wiki/Bertrand_Russell" title="Bertrand Russell">Bertrand Russell</a></li>
+<li><a href="/wiki/Frank_P._Ramsey" title="Frank P. Ramsey">Frank P. Ramsey</a></li>
+<li><a href="/wiki/Ludwig_Wittgenstein" title="Ludwig Wittgenstein">Ludwig Wittgenstein</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Oxford</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/G._E._M._Anscombe" title="G. E. M. Anscombe">G. E. M. Anscombe</a></li>
+<li><a href="/wiki/J._L._Austin" title="J. L. Austin">J. L. Austin</a></li>
+<li><a href="/wiki/A._J._Ayer" title="A. J. Ayer">A. J. Ayer</a></li>
+<li><a href="/wiki/Michael_Dummett" title="Michael Dummett">Michael Dummett</a></li>
+<li><a href="/wiki/Antony_Flew" title="Antony Flew">Antony Flew</a></li>
+<li><a href="/wiki/Philippa_Foot" title="Philippa Foot">Philippa Foot</a></li>
+<li><a href="/wiki/Peter_Geach" title="Peter Geach">Peter Geach</a></li>
+<li><a href="/wiki/Paul_Grice" title="Paul Grice">Paul Grice</a></li>
+<li><a href="/wiki/R._M._Hare" title="R. M. Hare">R. M. Hare</a></li>
+<li><a href="/wiki/Gilbert_Ryle" title="Gilbert Ryle">Gilbert Ryle</a></li>
+<li><a href="/wiki/P._F._Strawson" title="P. F. Strawson">P. F. Strawson</a></li>
+<li><a href="/wiki/Richard_Swinburne" title="Richard Swinburne">Richard Swinburne</a></li>
+<li><a href="/wiki/Bernard_Williams" title="Bernard Williams">Bernard Williams</a></li>
+<li><a href="/wiki/Timothy_Williamson" title="Timothy Williamson">Timothy Williamson</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Berlin_Circle" title="Berlin Circle">Berlin Circle</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carl_Gustav_Hempel" title="Carl Gustav Hempel">Carl Gustav Hempel</a></li>
+<li><a href="/wiki/Hans_Reichenbach" title="Hans Reichenbach">Hans Reichenbach</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Vienna_Circle" title="Vienna Circle">Vienna Circle</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Rudolf_Carnap" title="Rudolf Carnap">Rudolf Carnap</a></li>
+<li><a href="/wiki/Kurt_G%C3%B6del" title="Kurt Gödel">Kurt Gödel</a></li>
+<li><a href="/wiki/Otto_Neurath" title="Otto Neurath">Otto Neurath</a></li>
+<li><a href="/wiki/Moritz_Schlick" title="Moritz Schlick">Moritz Schlick</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Harvard</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Roderick_Chisholm" title="Roderick Chisholm">Roderick Chisholm</a></li>
+<li><a href="/wiki/Donald_Davidson_(philosopher)" title="Donald Davidson (philosopher)">Donald Davidson</a></li>
+<li><a href="/wiki/Nelson_Goodman" title="Nelson Goodman">Nelson Goodman</a></li>
+<li><a href="/wiki/Christine_Korsgaard" title="Christine Korsgaard">Christine Korsgaard</a></li>
+<li><a href="/wiki/Thomas_Kuhn" title="Thomas Kuhn">Thomas Kuhn</a></li>
+<li><a href="/wiki/Robert_Nozick" title="Robert Nozick">Robert Nozick</a></li>
+<li><a href="/wiki/Hilary_Putnam" title="Hilary Putnam">Hilary Putnam</a></li>
+<li><a href="/wiki/Willard_Van_Orman_Quine" title="Willard Van Orman Quine">W. V. O. Quine</a></li>
+<li><a href="/wiki/John_Rawls" title="John Rawls">John Rawls</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pittsburgh_School" class="mw-redirect" title="Pittsburgh School">Pittsburgh School</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Robert_Brandom" title="Robert Brandom">Robert Brandom</a></li>
+<li><a href="/wiki/John_McDowell" title="John McDowell">John McDowell</a></li>
+<li><a href="/wiki/Nicholas_Rescher" title="Nicholas Rescher">Nicholas Rescher</a></li>
+<li><a href="/wiki/Wilfrid_Sellars" title="Wilfrid Sellars">Wilfrid Sellars</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Princeton</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/David_Lewis_(philosopher)" title="David Lewis (philosopher)">David Lewis</a></li>
+<li><a href="/wiki/Saul_Kripke" title="Saul Kripke">Saul Kripke</a></li>
+<li><a href="/wiki/Richard_Rorty" title="Richard Rorty">Richard Rorty</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Notre Dame</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Robert_Audi" title="Robert Audi">Robert Audi</a></li>
+<li><a href="/wiki/Peter_van_Inwagen" title="Peter van Inwagen">Peter van Inwagen</a></li>
+<li><a href="/wiki/Alvin_Plantinga" title="Alvin Plantinga">Alvin Plantinga</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Analytic_philosophy" title="Category:Analytic philosophy">Category</a></li>
+<li><img alt="Symbol question.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e0/Symbol_question.svg/16px-Symbol_question.svg.png" decoding="async" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e0/Symbol_question.svg/23px-Symbol_question.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e0/Symbol_question.svg/31px-Symbol_question.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Index_of_analytic_philosophy_articles" title="Index of analytic philosophy articles">Index</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Epistemology" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Epistemology" title="Template:Epistemology"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Epistemology" title="Template talk:Epistemology"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Epistemology&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Epistemology" style="font-size:114%;margin:0 4em"><a href="/wiki/Epistemology" title="Epistemology">Epistemology</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_epistemologists" title="List of epistemologists">Epistemologists</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Thomas_Aquinas" title="Thomas Aquinas">Thomas Aquinas</a></li>
+<li><a href="/wiki/Augustine_of_Hippo" title="Augustine of Hippo">Augustine of Hippo</a></li>
+<li><a href="/wiki/William_Alston" title="William Alston">William Alston</a></li>
+<li><a href="/wiki/Robert_Audi" title="Robert Audi">Robert Audi</a></li>
+<li><a href="/wiki/A._J._Ayer" title="A. J. Ayer">A. J. Ayer</a></li>
+<li><a href="/wiki/George_Berkeley" title="George Berkeley">George Berkeley</a></li>
+<li><a href="/wiki/Laurence_BonJour" title="Laurence BonJour">Laurence BonJour</a></li>
+<li><a href="/wiki/Ren%C3%A9_Descartes" title="René Descartes">René Descartes</a></li>
+<li><a href="/wiki/John_Dewey" title="John Dewey">John Dewey</a></li>
+<li><a href="/wiki/Fred_Dretske" title="Fred Dretske">Fred Dretske</a></li>
+<li><a href="/wiki/Edmund_Gettier" title="Edmund Gettier">Edmund Gettier</a></li>
+<li><a href="/wiki/Alvin_Goldman" title="Alvin Goldman">Alvin Goldman</a></li>
+<li><a href="/wiki/Nelson_Goodman" title="Nelson Goodman">Nelson Goodman</a></li>
+<li><a href="/wiki/Paul_Grice" title="Paul Grice">Paul Grice</a></li>
+<li><a href="/wiki/David_Hume" title="David Hume">David Hume</a></li>
+<li><a href="/wiki/Immanuel_Kant" title="Immanuel Kant">Immanuel Kant</a></li>
+<li><a href="/wiki/S%C3%B8ren_Kierkegaard" title="Søren Kierkegaard">Søren Kierkegaard</a></li>
+<li><a href="/wiki/Saul_Kripke" title="Saul Kripke">Saul Kripke</a></li>
+<li><a href="/wiki/David_Lewis_(philosopher)" title="David Lewis (philosopher)">David Lewis</a></li>
+<li><a href="/wiki/John_Locke" title="John Locke">John Locke</a></li>
+<li><a href="/wiki/G._E._Moore" title="G. E. Moore">G. E. Moore</a></li>
+<li><a href="/wiki/Robert_Nozick" title="Robert Nozick">Robert Nozick</a></li>
+<li><a href="/wiki/Alvin_Plantinga" title="Alvin Plantinga">Alvin Plantinga</a></li>
+<li><a href="/wiki/Plato" title="Plato">Plato</a></li>
+<li><a href="/wiki/Duncan_Pritchard" title="Duncan Pritchard">Duncan Pritchard</a></li>
+<li><a href="/wiki/Hilary_Putnam" title="Hilary Putnam">Hilary Putnam</a></li>
+<li><a href="/wiki/Thomas_Reid" title="Thomas Reid">Thomas Reid</a></li>
+<li><a href="/wiki/Gilbert_Ryle" title="Gilbert Ryle">Gilbert Ryle</a></li>
+<li><a href="/wiki/Susanna_Siegel" title="Susanna Siegel">Susanna Siegel</a></li>
+<li><a href="/wiki/Socrates" title="Socrates">Socrates</a></li>
+<li><a href="/wiki/Ernest_Sosa" title="Ernest Sosa">Ernest Sosa</a></li>
+<li><a href="/wiki/P._F._Strawson" title="P. F. Strawson">P. F. Strawson</a></li>
+<li><a href="/wiki/Willard_Van_Orman_Quine" title="Willard Van Orman Quine">Willard Van Orman Quine</a></li>
+<li><a href="/wiki/Bertrand_Russell" title="Bertrand Russell">Bertrand Russell</a></li>
+<li><a href="/wiki/Baruch_Spinoza" title="Baruch Spinoza">Baruch Spinoza</a></li>
+<li><a href="/wiki/Timothy_Williamson" title="Timothy Williamson">Timothy Williamson</a></li>
+<li><a href="/wiki/Ludwig_Wittgenstein" title="Ludwig Wittgenstein">Ludwig Wittgenstein</a></li>
+<li><a href="/wiki/Nicholas_Wolterstorff" title="Nicholas Wolterstorff">Nicholas Wolterstorff</a></li>
+<li><a href="/wiki/Vienna_Circle" title="Vienna Circle">Vienna Circle</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Epistemological_theories" title="Category:Epistemological theories">Theories</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Coherentism" title="Coherentism">Coherentism</a></li>
+<li><a href="/wiki/Constructivist_epistemology" title="Constructivist epistemology">Constructivist epistemology</a></li>
+<li><a href="/wiki/Contextualism" title="Contextualism">Contextualism</a></li>
+<li><a href="/wiki/Descriptive_knowledge" title="Descriptive knowledge">Descriptive knowledge</a></li>
+<li><a href="/wiki/Determinism" title="Determinism">Determinism</a></li>
+<li><a href="/wiki/Empiricism" title="Empiricism">Empiricism</a></li>
+<li><a href="/wiki/Evolutionary_epistemology" title="Evolutionary epistemology">Evolutionary epistemology</a></li>
+<li><a href="/wiki/Fallibilism" title="Fallibilism">Fallibilism</a></li>
+<li><a href="/wiki/Feminist_epistemology" title="Feminist epistemology">Feminist epistemology</a></li>
+<li><a href="/wiki/Fideism" title="Fideism">Fideism</a></li>
+<li><a href="/wiki/Foundationalism" title="Foundationalism">Foundationalism</a></li>
+<li><a href="/wiki/Genetic_epistemology" title="Genetic epistemology">Genetic epistemology</a></li>
+<li><a href="/wiki/Hierarchical_epistemology" title="Hierarchical epistemology">Hierarchical epistemology</a></li>
+<li><a href="/wiki/Semantic_holism" title="Semantic holism">Holism</a></li>
+<li><a href="/wiki/Infinitism" title="Infinitism">Infinitism</a></li>
+<li><a href="/wiki/Innatism" title="Innatism">Innatism</a></li>
+<li><a href="/wiki/Internalism_and_externalism" title="Internalism and externalism">Internalism and externalism</a></li>
+<li><a href="/wiki/Na%C3%AFve_realism" title="Naïve realism">Naïve realism</a></li>
+<li><a href="/wiki/Naturalized_epistemology" title="Naturalized epistemology">Naturalized epistemology</a></li>
+<li><a href="/wiki/Phenomenalism" title="Phenomenalism">Phenomenalism</a></li>
+<li><a href="/wiki/Positivism" title="Positivism">Positivism</a></li>
+<li><a href="/wiki/Procedural_knowledge" title="Procedural knowledge">Procedural knowledge</a></li>
+<li><a href="/wiki/Reductionism" title="Reductionism">Reductionism</a></li>
+<li><a href="/wiki/Reliabilism" title="Reliabilism">Reliabilism</a></li>
+<li><a href="/wiki/Direct_and_indirect_realism" title="Direct and indirect realism">Representative realism</a></li>
+<li><a href="/wiki/Rationalism" title="Rationalism">Rationalism</a></li>
+<li><a href="/wiki/Philosophical_skepticism" title="Philosophical skepticism">Skepticism</a></li>
+<li><a href="/wiki/Theory_of_forms" title="Theory of forms">Theory of forms</a></li>
+<li><a href="/wiki/Transcendental_idealism" title="Transcendental idealism">Transcendental idealism</a></li>
+<li><a href="/wiki/Uniformitarianism" title="Uniformitarianism">Uniformitarianism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Concepts_in_epistemology" title="Category:Concepts in epistemology">Concepts</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/A_priori_and_a_posteriori" title="A priori and a posteriori">A priori knowledge</a></li>
+<li><a href="/wiki/Philosophical_analysis" title="Philosophical analysis">Analysis</a></li>
+<li><a href="/wiki/Analytic%E2%80%93synthetic_distinction" title="Analytic–synthetic distinction">Analytic–synthetic distinction</a></li>
+<li><a href="/wiki/Belief" title="Belief">Belief</a></li>
+<li><a href="/wiki/Causality" title="Causality">Causality</a></li>
+<li><a href="/wiki/Common_sense" title="Common sense">Common sense</a></li>
+<li><a href="/wiki/Exploratory_thought" title="Exploratory thought">Exploratory thought</a></li>
+<li><a href="/wiki/Gettier_problem" title="Gettier problem">Gettier problem</a></li>
+<li><a href="/wiki/Theory_of_justification" title="Theory of justification">Justification</a></li>
+<li><a href="/wiki/Knowledge" title="Knowledge">Knowledge</a></li>
+<li><a href="/wiki/Inductive_reasoning" title="Inductive reasoning">Induction</a></li>
+<li><a href="/wiki/Objectivity_(philosophy)" title="Objectivity (philosophy)">Objectivity</a></li>
+<li><a href="/wiki/Privileged_access" title="Privileged access">Privileged access</a></li>
+<li><a href="/wiki/Problem_of_induction" title="Problem of induction">Problem of induction</a></li>
+<li><a href="/wiki/Problem_of_other_minds" title="Problem of other minds">Problem of other minds</a></li>
+<li><a href="/wiki/Perception" title="Perception">Perception</a></li>
+<li><a href="/wiki/Proposition" title="Proposition">Proposition</a></li>
+<li><a href="/wiki/Regress_argument" title="Regress argument">Regress argument</a></li>
+<li><a href="/wiki/Simplicity" title="Simplicity">Simplicity</a></li>
+<li><a href="/wiki/Speculative_reason" title="Speculative reason">Speculative reason</a></li>
+<li><a href="/wiki/Truth" title="Truth">Truth</a></li>
+<li><i><a href="/wiki/Index_of_epistemology_articles" title="Index of epistemology articles">more...</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related articles</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Outline_of_epistemology" title="Outline of epistemology">Outline of epistemology</a></li>
+<li><a href="/wiki/Alethiology" title="Alethiology">Alethiology</a></li>
+<li><a href="/wiki/Faith_and_rationality" title="Faith and rationality">Faith and rationality</a></li>
+<li><a href="/wiki/Formal_epistemology" title="Formal epistemology">Formal epistemology</a></li>
+<li><a href="/wiki/Meta-epistemology" title="Meta-epistemology">Meta-epistemology</a></li>
+<li><a href="/wiki/Philosophy_of_perception" title="Philosophy of perception">Philosophy of perception</a></li>
+<li><a href="/wiki/Philosophy_of_science" title="Philosophy of science">Philosophy of science</a></li>
+<li><a href="/wiki/Social_epistemology" title="Social epistemology">Social epistemology</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Category:Epistemology" title="Category:Epistemology">Category</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Philosophy/Epistemology" title="Wikipedia:WikiProject Philosophy/Epistemology">Task Force</a></li>
+<li><a href="/wiki/Category:Philosophy_stubs" title="Category:Philosophy stubs">Stubs</a></li>
+<li><a href="/wiki/Wikipedia_talk:WikiProject_Philosophy" title="Wikipedia talk:WikiProject Philosophy">Discussion</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Skepticism" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:silver;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Skepticism" title="Template:Skepticism"><abbr title="View this template" style=";background:silver;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Skepticism" title="Template talk:Skepticism"><abbr title="Discuss this template" style=";background:silver;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Skepticism&amp;action=edit"><abbr title="Edit this template" style=";background:silver;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Skepticism" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Skepticism</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:gainsboro;">Types</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Academic_skepticism" title="Academic skepticism">Academic</a></li>
+<li><a href="/wiki/Moral_skepticism" title="Moral skepticism">Moral</a></li>
+<li><a href="/wiki/Scientific_skepticism" class="mw-redirect" title="Scientific skepticism">Scientific</a></li>
+<li><a href="/wiki/Philosophical_skepticism" title="Philosophical skepticism">Philosophical</a></li>
+<li><a href="/wiki/Religious_skepticism" title="Religious skepticism">Religious</a> (<a href="/wiki/Jewish_skeptics" title="Jewish skeptics">Jewish</a>)</li>
+<li><a href="/wiki/Local_skepticism" title="Local skepticism">Local</a></li>
+<li><a href="/wiki/Environmental_skepticism" title="Environmental skepticism">Environmental</a></li>
+<li><a href="/wiki/Pyrrhonism" title="Pyrrhonism">Pyrrhonian</a></li>
+<li><a href="/wiki/Cartesian_doubt" title="Cartesian doubt">Cartesian</a></li>
+<li><a href="/wiki/Zhuangzi_(book)" title="Zhuangzi (book)">Daoist</a></li>
+<li><a href="/wiki/Pseudoskepticism" title="Pseudoskepticism">Pseudoskepticism</a></li>
+<li><a href="/wiki/Z%C3%A9t%C3%A9tique" title="Zététique">Zététique</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:gainsboro;"><a href="/wiki/Skeptical_hypothesis" class="mw-redirect" title="Skeptical hypothesis">Skeptical hypotheses</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Evil_demon" title="Evil demon">Evil genius</a></li>
+<li><a href="/wiki/Brain_in_a_vat" title="Brain in a vat">Brain in a vat</a></li>
+<li><a href="/wiki/Dream_argument" title="Dream argument">Dream argument</a></li>
+<li><a href="/wiki/Omphalos_hypothesis" title="Omphalos hypothesis">Omphalos hypothesis</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:gainsboro;">Responses</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Here_is_one_hand" title="Here is one hand">Here is one hand</a></li>
+<li><a href="/wiki/Semantic_externalism" title="Semantic externalism">Semantic externalism</a></li>
+<li><a href="/wiki/Reliabilism" title="Reliabilism">Process reliabilism</a></li>
+<li><a href="/wiki/Epistemic_closure" title="Epistemic closure">Epistemic closure</a></li>
+<li><a href="/wiki/Contextualism" title="Contextualism">Contextualism</a></li>
+<li><a href="/wiki/Relativism" title="Relativism">Relativism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:gainsboro;"><a href="/wiki/Lists_about_skepticism" class="mw-redirect" title="Lists about skepticism">Lists</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_books_about_skepticism" title="List of books about skepticism">List of books about skepticism</a></li>
+<li><a href="/wiki/List_of_notable_skeptics" class="mw-redirect" title="List of notable skeptics">List of notable skeptics</a></li>
+<li><a href="/wiki/List_of_skeptical_conferences" title="List of skeptical conferences">List of skeptical conferences</a></li>
+<li><a href="/wiki/List_of_skeptical_magazines" title="List of skeptical magazines">List of skeptical magazines</a></li>
+<li><a href="/wiki/List_of_skeptical_organizations" title="List of skeptical organizations">List of skeptical organizations</a></li>
+<li><a href="/wiki/List_of_skeptical_podcasts" title="List of skeptical podcasts">List of skeptical podcasts</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Philosophy_of_science" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Philosophy_of_science" title="Template:Philosophy of science"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Philosophy_of_science" title="Template talk:Philosophy of science"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Philosophy_of_science&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Philosophy_of_science" style="font-size:114%;margin:0 4em"><a href="/wiki/Philosophy_of_science" title="Philosophy of science">Philosophy of science</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:7.5em">Concepts</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Philosophical_analysis" title="Philosophical analysis">Analysis</a></li>
+<li><a href="/wiki/Analytic%E2%80%93synthetic_distinction" title="Analytic–synthetic distinction">Analytic–synthetic distinction</a></li>
+<li><a href="/wiki/A_priori_and_a_posteriori" title="A priori and a posteriori"><i>A priori</i> and <i>a posteriori</i></a></li>
+<li><a href="/wiki/Causality" title="Causality">Causality</a></li>
+<li><a href="/wiki/Commensurability_(philosophy_of_science)" title="Commensurability (philosophy of science)">Commensurability</a></li>
+<li><a href="/wiki/Consilience" title="Consilience">Consilience</a></li>
+<li><a href="/wiki/Construct_(philosophy)" title="Construct (philosophy)">Construct</a></li>
+<li><a href="/wiki/Creative_synthesis" title="Creative synthesis">Creative synthesis</a></li>
+<li><a href="/wiki/Demarcation_problem" title="Demarcation problem">Demarcation problem</a></li>
+<li><a href="/wiki/Empirical_evidence" title="Empirical evidence">Empirical evidence</a></li>
+<li><a href="/wiki/Explanatory_power" title="Explanatory power">Explanatory power</a></li>
+<li><a href="/wiki/Fact" title="Fact">Fact</a></li>
+<li><a href="/wiki/Falsifiability" title="Falsifiability">Falsifiability</a></li>
+<li><a href="/wiki/Feminist_method" title="Feminist method">Feminist method</a></li>
+<li><a href="/wiki/Functional_contextualism" title="Functional contextualism">Functional contextualism</a></li></ul>
+<ul><li><i><a href="/wiki/Ignoramus_et_ignorabimus" title="Ignoramus et ignorabimus">Ignoramus et ignorabimus</a></i></li>
+<li><a href="/wiki/Inductive_reasoning" title="Inductive reasoning">Inductive reasoning</a></li>
+<li><a href="/wiki/Intertheoretic_reduction" title="Intertheoretic reduction">Intertheoretic reduction</a></li>
+<li><a href="/wiki/Inquiry" title="Inquiry">Inquiry</a></li>
+<li><a href="/wiki/Nature_(philosophy)" title="Nature (philosophy)">Nature</a></li>
+<li><a href="/wiki/Objectivity_(philosophy)" title="Objectivity (philosophy)">Objectivity</a></li>
+<li><a href="/wiki/Observation" title="Observation">Observation</a></li>
+<li><a href="/wiki/Paradigm" title="Paradigm">Paradigm</a></li>
+<li><a href="/wiki/Problem_of_induction" title="Problem of induction">Problem of induction</a></li>
+<li><a href="/wiki/Scientific_law" title="Scientific law">Scientific law</a></li>
+<li><a href="/wiki/Scientific_method" title="Scientific method">Scientific method</a></li>
+<li><a href="/wiki/Scientific_revolution" class="mw-redirect" title="Scientific revolution">Scientific revolution</a></li>
+<li><a href="/wiki/Scientific_theory" title="Scientific theory">Scientific theory</a></li>
+<li><a href="/wiki/Testability" title="Testability">Testability</a></li>
+<li><a href="/wiki/Theory_choice" title="Theory choice">Theory choice</a></li>
+<li><a href="/wiki/Theory-ladenness" title="Theory-ladenness">Theory-ladenness</a></li>
+<li><a href="/wiki/Underdetermination" title="Underdetermination">Underdetermination</a></li>
+<li><a href="/wiki/Unity_of_science" title="Unity of science">Unity of science</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:7.5em"><a href="/wiki/Category:Metatheory_of_science" title="Category:Metatheory of science">Metatheory<br />of science</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Coherentism" title="Coherentism">Coherentism</a></li>
+<li><a href="/wiki/Confirmation_holism" title="Confirmation holism">Confirmation holism</a></li>
+<li><a href="/wiki/Constructive_empiricism" title="Constructive empiricism">Constructive empiricism</a></li>
+<li><a href="/wiki/Constructive_realism" title="Constructive realism">Constructive realism</a></li>
+<li><a href="/wiki/Constructivist_epistemology" title="Constructivist epistemology">Constructivist epistemology</a></li>
+<li><a href="/wiki/Contextualism" title="Contextualism">Contextualism</a></li>
+<li><a href="/wiki/Conventionalism" title="Conventionalism">Conventionalism</a></li>
+<li><a href="/wiki/Deductive-nomological_model" title="Deductive-nomological model">Deductive-nomological model</a></li>
+<li><a href="/wiki/Hypothetico-deductive_model" title="Hypothetico-deductive model">Hypothetico-deductive model</a></li>
+<li><a href="/wiki/Inductionism" title="Inductionism">Inductionism</a></li>
+<li><a href="/wiki/Epistemological_anarchism" title="Epistemological anarchism">Epistemological anarchism</a></li>
+<li><a href="/wiki/Evolutionism" title="Evolutionism">Evolutionism</a></li>
+<li><a href="/wiki/Fallibilism" title="Fallibilism">Fallibilism</a></li>
+<li><a href="/wiki/Foundationalism" title="Foundationalism">Foundationalism</a></li>
+<li><a href="/wiki/Instrumentalism" title="Instrumentalism">Instrumentalism</a></li>
+<li><a href="/wiki/Pragmatism" title="Pragmatism">Pragmatism</a></li>
+<li><a href="/wiki/Model-dependent_realism" title="Model-dependent realism">Model-dependent realism</a></li>
+<li><a href="/wiki/Naturalism_(philosophy)" title="Naturalism (philosophy)">Naturalism</a></li>
+<li><a href="/wiki/Physicalism" title="Physicalism">Physicalism</a></li>
+<li><a href="/wiki/Positivism" title="Positivism">Positivism</a>&#160;/&#32;<a href="/wiki/Reductionism" title="Reductionism">Reductionism</a>&#160;/&#32;<a href="/wiki/Determinism" title="Determinism">Determinism</a></li>
+<li><a href="/wiki/Rationalism" title="Rationalism">Rationalism</a>&#160;/&#32;<a href="/wiki/Empiricism" title="Empiricism">Empiricism</a></li>
+<li><a href="/wiki/Received_view_of_theories" title="Received view of theories">Received view</a>&#160;/&#32;<a href="/wiki/Semantic_view_of_theories" title="Semantic view of theories">Semantic view of theories</a></li>
+<li><a href="/wiki/Scientific_realism" title="Scientific realism">Scientific realism</a>&#160;/&#32;<a href="/wiki/Anti-realism" title="Anti-realism">Anti-realism</a></li>
+<li><a href="/wiki/Scientific_essentialism" title="Scientific essentialism">Scientific essentialism</a></li>
+<li><a href="/wiki/Scientific_formalism" title="Scientific formalism">Scientific formalism</a></li>
+<li><a href="/wiki/Scientific_skepticism" class="mw-redirect" title="Scientific skepticism">Scientific skepticism</a></li>
+<li><a href="/wiki/Scientism" title="Scientism">Scientism</a></li>
+<li><a href="/wiki/Structuralism_(philosophy_of_science)" title="Structuralism (philosophy of science)">Structuralism</a></li>
+<li><a href="/wiki/Uniformitarianism" title="Uniformitarianism">Uniformitarianism</a></li>
+<li><a href="/wiki/Vitalism" title="Vitalism">Vitalism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:7.5em">Philosophy of</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Philosophy_of_physics" title="Philosophy of physics">Physics</a>
+<ul><li><a href="/wiki/Philosophy_of_thermal_and_statistical_physics" title="Philosophy of thermal and statistical physics">thermal and statistical</a></li>
+<li><a href="/wiki/Philosophy_of_motion" title="Philosophy of motion">Motion</a></li></ul></li>
+<li><a href="/wiki/Philosophy_of_chemistry" title="Philosophy of chemistry">Chemistry</a></li>
+<li><a href="/wiki/Philosophy_of_biology" title="Philosophy of biology">Biology</a></li>
+<li><a href="/wiki/Philosophy_of_environment" title="Philosophy of environment">Environment</a></li>
+<li><a href="/wiki/Philosophy_of_geography" title="Philosophy of geography">Geography</a></li>
+<li><a href="/wiki/Philosophy_of_social_science" title="Philosophy of social science">Social science</a></li>
+<li><a href="/wiki/Philosophy_of_technology" title="Philosophy of technology">Technology</a>
+<ul><li><a href="/wiki/Philosophy_of_engineering" title="Philosophy of engineering">Engineering</a></li>
+<li><a href="/wiki/Philosophy_of_artificial_intelligence" title="Philosophy of artificial intelligence">Artificial intelligence</a></li>
+<li><a href="/wiki/Philosophy_of_computer_science" title="Philosophy of computer science">Computer science</a></li></ul></li>
+<li><a href="/wiki/Philosophy_of_information" title="Philosophy of information">Information</a></li>
+<li><a href="/wiki/Philosophy_of_mind" title="Philosophy of mind">Mind</a></li>
+<li><a href="/wiki/Philosophy_of_psychiatry" title="Philosophy of psychiatry">Psychiatry</a></li>
+<li><a href="/wiki/Philosophy_of_psychology" title="Philosophy of psychology">Psychology</a></li>
+<li><a href="/wiki/Philosophy_of_perception" title="Philosophy of perception">Perception</a></li>
+<li><a href="/wiki/Philosophy_of_space_and_time" title="Philosophy of space and time">Space and time</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:7.5em"><a href="/wiki/Index_of_philosophy_of_science_articles" title="Index of philosophy of science articles">Related topics</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alchemy" title="Alchemy">Alchemy</a></li>
+<li><a href="/wiki/Criticism_of_science" title="Criticism of science">Criticism of science</a></li>
+<li><a href="/wiki/Epistemology" title="Epistemology">Epistemology</a></li>
+<li><a href="/wiki/Faith_and_rationality" title="Faith and rationality">Faith and rationality</a></li>
+<li><a href="/wiki/History_and_philosophy_of_science" title="History and philosophy of science">History and philosophy of science</a></li>
+<li><a href="/wiki/History_of_science" title="History of science">History of science</a></li>
+<li><a href="/wiki/History_of_evolutionary_thought" title="History of evolutionary thought">History of evolutionary thought</a></li>
+<li><a href="/wiki/Logic" title="Logic">Logic</a></li>
+<li><a href="/wiki/Metaphysics" title="Metaphysics">Metaphysics</a></li>
+<li><a href="/wiki/Pseudoscience" title="Pseudoscience">Pseudoscience</a></li>
+<li><a href="/wiki/Relationship_between_religion_and_science" title="Relationship between religion and science">Relationship between religion and science</a></li>
+<li><a href="/wiki/Rhetoric_of_science" title="Rhetoric of science">Rhetoric of science</a></li>
+<li><a href="/wiki/Science_studies" title="Science studies">Science studies</a></li>
+<li><a href="/wiki/Sociology_of_scientific_knowledge" title="Sociology of scientific knowledge">Sociology of scientific knowledge</a></li>
+<li><a href="/wiki/Sociology_of_scientific_ignorance" title="Sociology of scientific ignorance">Sociology of scientific ignorance</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Philosophers_of_science_by_era" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_philosophers_of_science" title="List of philosophers of science">Philosophers of science</a> by era</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:7.5em">Ancient</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Plato" title="Plato">Plato</a></li>
+<li><a href="/wiki/Aristotle" title="Aristotle">Aristotle</a></li>
+<li><a href="/wiki/Stoicism" title="Stoicism">Stoicism</a></li>
+<li><a href="/wiki/Epicureanism" title="Epicureanism">Epicureans</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:7.5em">Medieval</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Averroes" title="Averroes">Averroes</a></li>
+<li><a href="/wiki/Avicenna" title="Avicenna">Avicenna</a></li>
+<li><a href="/wiki/Roger_Bacon" title="Roger Bacon">Roger Bacon</a></li>
+<li><a href="/wiki/William_of_Ockham" title="William of Ockham">William of Ockham</a></li>
+<li><a href="/wiki/Hugh_of_Saint_Victor" title="Hugh of Saint Victor">Hugh of Saint Victor</a></li>
+<li><a href="/wiki/Dominicus_Gundissalinus" title="Dominicus Gundissalinus">Dominicus Gundissalinus</a></li>
+<li><a href="/wiki/Robert_Kilwardby" title="Robert Kilwardby">Robert Kilwardby</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:7.5em">Early modern</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Francis_Bacon" title="Francis Bacon">Francis Bacon</a></li>
+<li><a href="/wiki/Thomas_Hobbes" title="Thomas Hobbes">Thomas Hobbes</a></li>
+<li><a href="/wiki/Ren%C3%A9_Descartes" title="René Descartes">René Descartes</a></li>
+<li><a href="/wiki/Galileo_Galilei" title="Galileo Galilei">Galileo Galilei</a></li>
+<li><a href="/wiki/Pierre_Gassendi" title="Pierre Gassendi">Pierre Gassendi</a></li>
+<li><a href="/wiki/Isaac_Newton" title="Isaac Newton">Isaac Newton</a></li>
+<li><a href="/wiki/David_Hume" title="David Hume">David Hume</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:7.5em">Late modern</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Immanuel_Kant" title="Immanuel Kant">Immanuel Kant</a></li>
+<li><a href="/wiki/Friedrich_Wilhelm_Joseph_Schelling" title="Friedrich Wilhelm Joseph Schelling">Friedrich Schelling</a></li>
+<li><a href="/wiki/William_Whewell" title="William Whewell">William Whewell</a></li>
+<li><a href="/wiki/Auguste_Comte" title="Auguste Comte">Auguste Comte</a></li>
+<li><a href="/wiki/John_Stuart_Mill" title="John Stuart Mill">John Stuart Mill</a></li>
+<li><a href="/wiki/Herbert_Spencer" title="Herbert Spencer">Herbert Spencer</a></li>
+<li><a href="/wiki/Wilhelm_Wundt" title="Wilhelm Wundt">Wilhelm Wundt</a></li>
+<li><a href="/wiki/Charles_Sanders_Peirce" title="Charles Sanders Peirce">Charles Sanders Peirce</a></li>
+<li><a href="/wiki/Wilhelm_Windelband" title="Wilhelm Windelband">Wilhelm Windelband</a></li>
+<li><a href="/wiki/Henri_Poincar%C3%A9" title="Henri Poincaré">Henri Poincaré</a></li>
+<li><a href="/wiki/Pierre_Duhem" title="Pierre Duhem">Pierre Duhem</a></li>
+<li><a href="/wiki/Rudolf_Steiner" title="Rudolf Steiner">Rudolf Steiner</a></li>
+<li><a href="/wiki/Karl_Pearson" title="Karl Pearson">Karl Pearson</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:7.5em">Contemporary</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alfred_North_Whitehead" title="Alfred North Whitehead">Alfred North Whitehead</a></li>
+<li><a href="/wiki/Bertrand_Russell" title="Bertrand Russell">Bertrand Russell</a></li>
+<li><a href="/wiki/Albert_Einstein" title="Albert Einstein">Albert Einstein</a></li>
+<li><a href="/wiki/Otto_Neurath" title="Otto Neurath">Otto Neurath</a></li>
+<li><a href="/wiki/C._D._Broad" title="C. D. Broad">C. D. Broad</a></li>
+<li><a href="/wiki/Michael_Polanyi" title="Michael Polanyi">Michael Polanyi</a></li>
+<li><a href="/wiki/Hans_Reichenbach" title="Hans Reichenbach">Hans Reichenbach</a></li>
+<li><a href="/wiki/Rudolf_Carnap" title="Rudolf Carnap">Rudolf Carnap</a></li>
+<li><a href="/wiki/Karl_Popper" title="Karl Popper">Karl Popper</a></li>
+<li><a href="/wiki/Carl_Gustav_Hempel" title="Carl Gustav Hempel">Carl Gustav Hempel</a></li>
+<li><a href="/wiki/Willard_Van_Orman_Quine" title="Willard Van Orman Quine">W. V. O. Quine</a></li>
+<li><a href="/wiki/Thomas_Kuhn" title="Thomas Kuhn">Thomas Kuhn</a></li>
+<li><a href="/wiki/Imre_Lakatos" title="Imre Lakatos">Imre Lakatos</a></li>
+<li><a href="/wiki/Paul_Feyerabend" title="Paul Feyerabend">Paul Feyerabend</a></li>
+<li><a href="/wiki/J%C3%BCrgen_Habermas" title="Jürgen Habermas">Jürgen Habermas</a></li>
+<li><a href="/wiki/Ian_Hacking" title="Ian Hacking">Ian Hacking</a></li>
+<li><a href="/wiki/Bas_van_Fraassen" title="Bas van Fraassen">Bas van Fraassen</a></li>
+<li><a href="/wiki/Larry_Laudan" title="Larry Laudan">Larry Laudan</a></li>
+<li><a href="/wiki/Daniel_Dennett" title="Daniel Dennett">Daniel Dennett</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Category:Philosophy_of_science" title="Category:Philosophy of science">Category</a></li>
+<li><a href="/wiki/File:Socrates.png" class="image"><img alt="Socrates.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/18px-Socrates.png" decoding="async" width="18" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/27px-Socrates.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/36px-Socrates.png 2x" data-file-width="326" data-file-height="500" /></a> <a href="/wiki/Portal:Philosophy" title="Portal:Philosophy">Philosophy&#32;portal</a></li>
+<li><a href="/wiki/File:Nuvola_apps_kalzium.svg" class="image"><img alt="Nuvola apps kalzium.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nuvola_apps_kalzium.svg/28px-Nuvola_apps_kalzium.svg.png" decoding="async" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nuvola_apps_kalzium.svg/42px-Nuvola_apps_kalzium.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nuvola_apps_kalzium.svg/56px-Nuvola_apps_kalzium.svg.png 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/Portal:Science" title="Portal:Science">Science&#32;portal</a></li></ul>
+</div></td></tr></tbody></table></div></div></td></tr></tbody></table></div>
+<div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em"><ul style="margin:0.1em 0 0"><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Socrates.png" class="image"><img alt="Socrates.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/14px-Socrates.png" decoding="async" width="14" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/21px-Socrates.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/27px-Socrates.png 2x" data-file-width="326" data-file-height="500" /></a></span><a href="/wiki/Portal:Philosophy" title="Portal:Philosophy">Philosophy portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Psi2.svg" class="image"><img alt="Psi2.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Psi2.svg/21px-Psi2.svg.png" decoding="async" width="21" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Psi2.svg/32px-Psi2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Psi2.svg/42px-Psi2.svg.png 2x" data-file-width="100" data-file-height="100" /></a></span><a href="/wiki/Portal:Psychology" title="Portal:Psychology">Psychology portal</a></span></li></ul></div>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1395219&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1395219&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q1395219" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4055225-1">4055225-1</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00564549">00564549</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1337
-Cached time: 20191007171606
+Parsed by mw1272
+Cached time: 20191027154658
 Cache expiry: 2592000
 Dynamic content: false
-Complications: []
-CPU time usage: 0.160 seconds
-Real time usage: 0.230 seconds
-Preprocessor visited node count: 621/1000000
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.724 seconds
+Real time usage: 0.989 seconds
+Preprocessor visited node count: 2883/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 10780/2097152 bytes
-Template argument size: 2350/2097152 bytes
-Highest expansion depth: 16/40
-Expensive parser function count: 2/500
-Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 247/5000000 bytes
-Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.042/10.000 seconds
-Lua memory usage: 1.42 MB/50 MB
+Post‐expand include size: 179787/2097152 bytes
+Template argument size: 53873/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 9/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 47973/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.329/10.000 seconds
+Lua memory usage: 7.46 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  185.925      1 -total
- 38.92%   72.367      1 Template:Given_name
- 35.98%   66.896      1 Template:Infobox_given_name
- 33.28%   61.873      1 Template:Dmbox
- 31.48%   58.520      1 Template:Infobox
- 24.95%   46.387      1 Template:Other_uses
- 13.68%   25.440      1 Template:Short_description
- 12.45%   23.145      1 Template:Category_handler
- 11.89%   22.102      1 Template:Pagetype
-  7.97%   14.825      2 Template:IPA-sv
+100.00%  791.727      1 -total
+ 18.49%  146.371      8 Template:Cite_book
+ 15.74%  124.656      1 Template:Reflist
+ 15.49%  122.636      1 Template:Navboxes
+  7.98%   63.197      1 Template:Clarify
+  7.79%   61.657      8 Template:Navbox
+  7.50%   59.381      1 Template:Fix-span
+  7.20%   56.996      1 Template:Philosophy_of_science
+  6.75%   53.468      1 Template:Navbox_with_collapsible_groups
+  6.18%   48.943      1 Template:Authority_control
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:14712557-0!canonical and timestamp 20191007171606 and revision id 920096557
+<!-- Saved in parser cache with key enwiki:pcache:idhash:26810-0!canonical and timestamp 20191027154657 and revision id 921560508
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Johan_(given_name)&amp;oldid=920096557">https://en.wikipedia.org/w/index.php?title=Johan_(given_name)&amp;oldid=920096557</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Skepticism&amp;oldid=921560508">https://en.wikipedia.org/w/index.php?title=Skepticism&amp;oldid=921560508</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Given_names" title="Category:Given names">Given names</a></li><li><a href="/wiki/Category:Danish_masculine_given_names" title="Category:Danish masculine given names">Danish masculine given names</a></li><li><a href="/wiki/Category:Dutch_masculine_given_names" title="Category:Dutch masculine given names">Dutch masculine given names</a></li><li><a href="/wiki/Category:Norwegian_masculine_given_names" title="Category:Norwegian masculine given names">Norwegian masculine given names</a></li><li><a href="/wiki/Category:Scandinavian_masculine_given_names" title="Category:Scandinavian masculine given names">Scandinavian masculine given names</a></li><li><a href="/wiki/Category:Swedish_masculine_given_names" title="Category:Swedish masculine given names">Swedish masculine given names</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Epistemological_theories" title="Category:Epistemological theories">Epistemological theories</a></li><li><a href="/wiki/Category:Philosophical_methodology" title="Category:Philosophical methodology">Philosophical methodology</a></li><li><a href="/wiki/Category:Philosophical_movements" title="Category:Philosophical movements">Philosophical movements</a></li><li><a href="/wiki/Category:Psychological_attitude" title="Category:Psychological attitude">Psychological attitude</a></li><li><a href="/wiki/Category:Scientific_method" title="Category:Scientific method">Scientific method</a></li><li><a href="/wiki/Category:Skepticism" title="Category:Skepticism">Skepticism</a></li><li><a href="/wiki/Category:Doubt" title="Category:Doubt">Doubt</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_November_2010" title="Category:Use dmy dates from November 2010">Use dmy dates from November 2010</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_February_2016" title="Category:Wikipedia articles needing clarification from February 2016">Wikipedia articles needing clarification from February 2016</a></li><li><a href="/wiki/Category:Commons_category_link_is_locally_defined" title="Category:Commons category link is locally defined">Commons category link is locally defined</a></li><li><a href="/wiki/Category:Articles_with_Internet_Encyclopedia_of_Philosophy_links" title="Category:Articles with Internet Encyclopedia of Philosophy links">Articles with Internet Encyclopedia of Philosophy links</a></li><li><a href="/wiki/Category:Articles_with_Curlie_links" title="Category:Articles with Curlie links">Articles with Curlie links</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -172,13 +743,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Johan+%28given+name%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Johan+%28given+name%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Skepticism" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Skepticism" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Johan_(given_name)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Johan_(given_name)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Skepticism" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Skepticism" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -193,7 +764,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Johan_(given_name)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Johan_(given_name)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Johan_(given_name)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Skepticism">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Skepticism&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Skepticism&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -232,35 +803,35 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Johan_(given_name)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Johan_(given_name)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Johan_(given_name)&amp;oldid=920096557" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Johan_(given_name)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q10989273" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Johan_%28given_name%29&amp;id=920096557" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Skepticism" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Skepticism" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Skepticism&amp;oldid=921560508" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Skepticism&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1395219" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Skepticism&amp;id=921560508" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
 			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
 			<div class="body">
 								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Johan_(given_name)" hreflang="en">Wikimedia Commons</a></li>				</ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Skepticism" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Skepticism" hreflang="en">Wikiquote</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Johan+%28given+name%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Johan+%28given+name%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Johan_(given_name)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Skepticism">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Skepticism&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Skepticism&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%8A%D9%88%D9%87%D8%A7%D9%86_(%D8%A7%D8%B3%D9%85)" title="يوهان (اسم) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Johan" title="Johan – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Johan" title="Johan – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Johan" title="Johan – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Johan" title="Johan – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Johan" title="Johan – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Johan" title="Johan – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%AE%D1%85%D0%B0%D0%BD_(%D0%B8%D0%BC%D1%8F)" title="Юхан (имя) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Johan" title="Johan – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Johan" title="Johan – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Johan" title="Johan – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q10989273#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B4%D9%83%D9%88%D9%83%D9%8A%D8%A9" title="شكوكية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Scepticismo" title="Scepticismo – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Escepticismu" title="Escepticismu – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Skeptisizm" title="Skeptisizm – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A6%82%E0%A6%B6%E0%A6%AF%E0%A6%BC%E0%A6%AC%E0%A6%BE%E0%A6%A6" title="সংশয়বাদ – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Ho%C3%A2i-g%C3%AE-ch%C3%BA-g%C4%AB" title="Hoâi-gî-chú-gī – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B5%D0%BF%D1%82%D0%B8%D1%86%D0%B8%D0%B7%D0%BC" title="Скептицизм – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B5%D0%BF%D1%82%D1%8B%D1%86%D1%8B%D0%B7%D0%BC" title="Скептыцызм – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B5%D0%BF%D1%82%D0%B8%D1%86%D0%B8%D0%B7%D1%8A%D0%BC" title="Скептицизъм – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Skepticizam" title="Skepticizam – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Amgredoni" title="Amgredoni – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Escepticisme" title="Escepticisme – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Skepticismus" title="Skepticismus – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Skepticisme" title="Skepticisme – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Skeptizismus" title="Skeptizismus – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Skeptitsism" title="Skeptitsism – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A3%CE%BA%CE%B5%CF%80%CF%84%CE%B9%CE%BA%CE%B9%CF%83%CE%BC%CF%8C%CF%82" title="Σκεπτικισμός – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Escepticismo" title="Escepticismo – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Filozofia_skeptikismo" title="Filozofia skeptikismo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Eszeptizismo" title="Eszeptizismo – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B4%DA%A9%E2%80%8C%DA%AF%D8%B1%D8%A7%DB%8C%DB%8C" title="شک‌گرایی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Scepticisme_(philosophie)" title="Scepticisme (philosophie) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Escepticismo" title="Escepticismo – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-gu"><a href="https://gu.wikipedia.org/wiki/%E0%AA%B8%E0%AA%82%E0%AA%B6%E0%AA%AF%E0%AA%B5%E0%AA%BE%E0%AA%A6" title="સંશયવાદ – Gujarati" lang="gu" hreflang="gu" class="interlanguage-link-target">ગુજરાતી</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%9A%8C%EC%9D%98%EC%A3%BC%EC%9D%98" title="회의주의 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8D%D5%AF%D5%A5%D5%BA%D5%BF%D5%AB%D6%81%D5%AB%D5%A6%D5%B4" title="Սկեպտիցիզմ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B6%E0%A4%AF%E0%A4%B5%E0%A4%BE%E0%A4%A6" title="संशयवाद – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Skepticizam" title="Skepticizam – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Skeptisisme" title="Skeptisisme – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Scepticismo" title="Scepticismo – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Efahyggja" title="Efahyggja – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Scetticismo_metodologico" title="Scetticismo metodologico – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A1%D7%A4%D7%A7%D7%A0%D7%95%D7%AA" title="ספקנות – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B5%D0%BF%D1%82%D0%B8%D1%86%D0%B8%D0%B7%D0%BC" title="Скептицизм – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B5%D0%BF%D1%82%D0%B8%D1%86%D0%B8%D0%B7%D0%BC" title="Скептицизм – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-la badge-Q17437796 badge-featuredarticle" title="featured article"><a href="https://la.wikipedia.org/wiki/Scepticismus" title="Scepticismus – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Skepticisms" title="Skepticisms – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Szkepticizmus" title="Szkepticizmus – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Keraguan" title="Keraguan – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Scepticisme" title="Scepticisme – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E6%87%90%E7%96%91%E4%B8%BB%E7%BE%A9" title="懐疑主義 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Skeptisisme" title="Skeptisisme – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Scepticisme" title="Scepticisme – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Skeptitsizm" title="Skeptitsizm – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%B8%E0%A8%BC%E0%A9%B0%E0%A8%95%E0%A8%BE%E0%A8%B5%E0%A8%BE%E0%A8%A6" title="ਸ਼ੰਕਾਵਾਦ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%D8%B4%D9%83%D9%85%D9%86%D8%AA%D9%88%D8%A8_%D9%81%D9%84%D8%B3%D9%81%D9%87" title="شكمنتوب فلسفه – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li><li class="interlanguage-link interwiki-jam"><a href="https://jam.wikipedia.org/wiki/Skeptisizim" title="Skeptisizim – Jamaican Creole English" lang="jam" hreflang="jam" class="interlanguage-link-target">Patois</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Sceptycyzm" title="Sceptycyzm – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Ceticismo" title="Ceticismo – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Scepticism" title="Scepticism – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B5%D0%BF%D1%82%D1%96%D1%86%D1%96%D0%B7%D0%BC" title="Скептіцізм – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B5%D0%BF%D1%82%D0%B8%D1%86%D0%B8%D0%B7%D0%BC" title="Скептицизм – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Scepticism" title="Scepticism – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Skepticizmi" title="Skepticizmi – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Skepticism" title="Skepticism – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Skepticizmus_(filozofia)" title="Skepticizmus (filozofia) – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Skepticizem" title="Skepticizem – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%DA%AF%D9%88%D9%85%D8%A7%D9%86%DA%A9%D8%A7%D8%B1%DB%8C" title="گومانکاری – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B5%D0%BF%D1%82%D0%B8%D1%86%D0%B8%D0%B7%D0%B0%D0%BC" title="Скептицизам – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Skepticizam" title="Skepticizam – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Skeptismi" title="Skeptismi – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Skepticism" title="Skepticism – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%90%E0%AE%AF%E0%AF%81%E0%AE%B1%E0%AE%B5%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D" title="ஐயுறவியல் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%B8%E0%B0%82%E0%B0%B6%E0%B0%AF%E0%B0%B5%E0%B0%BE%E0%B0%A6%E0%B0%82" title="సంశయవాదం – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%95%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%A1" title="วิมตินิยม – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Ku%C5%9Fkuculuk" title="Kuşkuculuk – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B5%D0%BF%D1%82%D0%B8%D1%86%D0%B8%D0%B7%D0%BC" title="Скептицизм – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%AA%D8%B4%DA%A9%DB%8C%DA%A9" title="تشکیک – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_ngh%C4%A9a_ho%C3%A0i_nghi" title="Chủ nghĩa hoài nghi – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%80%80%E7%96%91%E8%AE%BA" title="怀疑论 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1395219#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 7 October 2019, at 17:16<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 16 October 2019, at 13:10<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -271,7 +842,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Johan_(given_name)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Skepticism&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -283,8 +854,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.160","walltime":"0.230","ppvisitednodes":{"value":621,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":10780,"limit":2097152},"templateargumentsize":{"value":2350,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":247,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  185.925      1 -total"," 38.92%   72.367      1 Template:Given_name"," 35.98%   66.896      1 Template:Infobox_given_name"," 33.28%   61.873      1 Template:Dmbox"," 31.48%   58.520      1 Template:Infobox"," 24.95%   46.387      1 Template:Other_uses"," 13.68%   25.440      1 Template:Short_description"," 12.45%   23.145      1 Template:Category_handler"," 11.89%   22.102      1 Template:Pagetype","  7.97%   14.825      2 Template:IPA-sv"]},"scribunto":{"limitreport-timeusage":{"value":"0.042","limit":"10.000"},"limitreport-memusage":{"value":1488178,"limit":52428800}},"cachereport":{"origin":"mw1337","timestamp":"20191007171606","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Johan (given name)","url":"https:\/\/en.wikipedia.org\/wiki\/Johan_(given_name)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q10989273","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q10989273","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-12-15T04:39:22Z","dateModified":"2019-10-07T17:16:05Z","headline":"male given name"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":110,"wgHostname":"mw1249"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.724","walltime":"0.989","ppvisitednodes":{"value":2883,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":179787,"limit":2097152},"templateargumentsize":{"value":53873,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":47973,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  791.727      1 -total"," 18.49%  146.371      8 Template:Cite_book"," 15.74%  124.656      1 Template:Reflist"," 15.49%  122.636      1 Template:Navboxes","  7.98%   63.197      1 Template:Clarify","  7.79%   61.657      8 Template:Navbox","  7.50%   59.381      1 Template:Fix-span","  7.20%   56.996      1 Template:Philosophy_of_science","  6.75%   53.468      1 Template:Navbox_with_collapsible_groups","  6.18%   48.943      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.329","limit":"10.000"},"limitreport-memusage":{"value":7819801,"limit":52428800},"limitreport-logs":"table#1 {\n}\ntable#1 {\n}\n"},"cachereport":{"origin":"mw1272","timestamp":"20191027154658","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Skepticism","url":"https:\/\/en.wikipedia.org\/wiki\/Skepticism","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1395219","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1395219","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-06-01T16:35:27Z","dateModified":"2019-10-16T13:10:26Z","headline":"questioning attitude or doubt towards one or more items of putative knowledge or belief"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":127,"wgHostname":"mw1252"});});</script>
 </body>
 </html>

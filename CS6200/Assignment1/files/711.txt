@@ -2,36 +2,36 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>List of biblical names - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"List_of_biblical_names","wgTitle":"List of biblical names","wgCurRevisionId":888430952,"wgRevisionId":888430952,"wgArticleId":69624,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing clarification from February 2019","Commons category link is on Wikidata","Commons category link is on Wikidata using P373","Lists of biblical names"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
-"wgRelevantPageName":"List_of_biblical_names","wgRelevantArticleId":69624,"wgRequestId":"XaiB7wpAICoAAGz0sv8AAAAI","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1075643","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading",
-"ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.cite.tracking","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging",
-"ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Body proportions - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Body_proportions","wgTitle":"Body proportions","wgCurRevisionId":911703503,"wgRevisionId":911703503,"wgArticleId":934991,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with DOIs inactive as of 2019 August","All articles with unsourced statements","Articles with unsourced statements from August 2012","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from March 2016","Wikipedia articles needing clarification from March 2016","Commons category link is on Wikidata","Anatomy","Artistic techniques","Human body"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":
+["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Body_proportions","wgRelevantArticleId":934991,"wgRequestId":"XbNeSgpAAD4AAHwXk4MAAABC","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q150117","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar",
+"ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.1"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/0/0b/Smith%27s_Bible_Dictionary_1863.jpg"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/List_of_biblical_names"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=List_of_biblical_names&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=List_of_biblical_names&amp;action=edit"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Parmigianino_004.jpg/1200px-Parmigianino_004.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Body_proportions"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Body_proportions&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Body_proportions&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/List_of_biblical_names"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Body_proportions"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-List_of_biblical_names rootpage-List_of_biblical_names skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Body_proportions rootpage-Body_proportions skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -40,7 +40,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">List of biblical names</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Body proportions</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -51,349 +51,385 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Smith%27s_Bible_Dictionary_1863.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Smith%27s_Bible_Dictionary_1863.jpg/220px-Smith%27s_Bible_Dictionary_1863.jpg" decoding="async" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Smith%27s_Bible_Dictionary_1863.jpg/330px-Smith%27s_Bible_Dictionary_1863.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Smith%27s_Bible_Dictionary_1863.jpg/440px-Smith%27s_Bible_Dictionary_1863.jpg 2x" data-file-width="750" data-file-height="1000" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Smith%27s_Bible_Dictionary_1863.jpg" class="internal" title="Enlarge"></a></div><center><i><a href="/wiki/Smith%27s_Bible_Dictionary" title="Smith&#39;s Bible Dictionary">Smith's Bible Dictionary</a></i> 1863</center></div></div></div>
-<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Easton%27s_Bible_Dictionary_1894.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Easton%27s_Bible_Dictionary_1894.jpg/220px-Easton%27s_Bible_Dictionary_1894.jpg" decoding="async" width="220" height="276" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Easton%27s_Bible_Dictionary_1894.jpg/330px-Easton%27s_Bible_Dictionary_1894.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Easton%27s_Bible_Dictionary_1894.jpg/440px-Easton%27s_Bible_Dictionary_1894.jpg 2x" data-file-width="676" data-file-height="848" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Easton%27s_Bible_Dictionary_1894.jpg" class="internal" title="Enlarge"></a></div><center><i><a href="/wiki/Easton%27s_Bible_Dictionary" title="Easton&#39;s Bible Dictionary">Easton's Bible Dictionary</a></i> 1894</center></div></div></div>
-<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Nave%27s_Topical_Bible_1905.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nave%27s_Topical_Bible_1905.jpg/220px-Nave%27s_Topical_Bible_1905.jpg" decoding="async" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nave%27s_Topical_Bible_1905.jpg/330px-Nave%27s_Topical_Bible_1905.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nave%27s_Topical_Bible_1905.jpg/440px-Nave%27s_Topical_Bible_1905.jpg 2x" data-file-width="750" data-file-height="1000" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Nave%27s_Topical_Bible_1905.jpg" class="internal" title="Enlarge"></a></div><center><a href="/wiki/Nave%27s_Topical_Bible" title="Nave&#39;s Topical Bible">Nave's Topical Bible</a> 1905</center></div></div></div>
-<p>This page introduces a list of <a href="/wiki/Proper_noun" title="Proper noun">proper names</a> from the <a href="/wiki/Bible" title="Bible">Bible</a>.
-</p><p>Some of the names are given with a proposed etymological meaning. For further information on the names included on the list, the reader may consult the sources listed below in the References and External Links.
-</p><p>Names play a variety of roles in the Bible. They sometimes relate to the nominee's role in a biblical narrative, as in the case of Nabal, a foolish man whose name means "fool."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>  Names in the Bible can represent human hopes, divine revelations, or are used to illustrate prophecies. See also <a href="/wiki/Theophory" class="mw-redirect" title="Theophory">Theophory</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="There are three references by Lockyer (February 2019)">clarification needed</span></a></i>&#93;</sup>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Parmigianino_004.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Parmigianino_004.jpg/220px-Parmigianino_004.jpg" decoding="async" width="220" height="301" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Parmigianino_004.jpg/330px-Parmigianino_004.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/12/Parmigianino_004.jpg/440px-Parmigianino_004.jpg 2x" data-file-width="2024" data-file-height="2772" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Parmigianino_004.jpg" class="internal" title="Enlarge"></a></div><i><a href="/wiki/Madonna_with_the_Long_Neck" title="Madonna with the Long Neck">Madonna with the Long Neck</a></i>, c. 1534-1540, by <a href="/wiki/Parmigianino" title="Parmigianino">Parmigianino</a>. As in other <a href="/wiki/Mannerist" class="mw-redirect" title="Mannerist">Mannerist</a> works, the proportions of the body - here the <a href="/wiki/Neck" title="Neck">neck</a> - are exaggerated for artistic effect.</div></div></div>
+<p>While there is significant variation in anatomical proportions between people, there are many references to <b>body proportions</b> that are intended to be canonical, either in <a href="/wiki/Art" title="Art">art</a>, <a href="/wiki/Measurement" title="Measurement">measurement</a>, or <a href="/wiki/Medicine" title="Medicine">medicine</a>.
+</p><p>In <a href="/wiki/Measurement" title="Measurement">measurement</a>, body proportions are often used to relate two or more measurements based on the body.  A <a href="/wiki/Cubit" title="Cubit">cubit</a>, for instance, is supposed to be six <a href="/wiki/Palm_(unit)" title="Palm (unit)">palms</a>. A <a href="/wiki/Span_(unit)" title="Span (unit)">span</a> is taken to be 9 inches and was previously considered as half a cubit. While convenient, these ratios may not reflect the physiognomic variation of the individuals using them.
+</p><p>Similarly, in <a href="/wiki/Art" title="Art">art</a>, body proportions are the study of relation of <a href="/wiki/Human_body" title="Human body">human</a> or animal body parts to each other and to the whole.  These ratios are used in depictions of the figure (to varying degrees naturalistic, idealized or stylized), and may become part of an <a href="/wiki/Aesthetic_canon" title="Aesthetic canon">aesthetic canon</a> within a culture.
 </p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Fatanef333.jpg" class="image"><img alt="Fatanef333.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Fatanef333.jpg/220px-Fatanef333.jpg" decoding="async" width="220" height="264" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Fatanef333.jpg/330px-Fatanef333.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Fatanef333.jpg/440px-Fatanef333.jpg 2x" data-file-width="2836" data-file-height="3404" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Fatanef333.jpg" class="internal" title="Enlarge"></a></div></div></div></div>
 <div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Lists"><span class="tocnumber">1</span> <span class="toctext">Lists</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#Further_reading"><span class="tocnumber">4</span> <span class="toctext">Further reading</span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#Basics_of_human_proportions"><span class="tocnumber">1</span> <span class="toctext">Basics of human proportions</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Western_ideal"><span class="tocnumber">2</span> <span class="toctext">Western ideal</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Leg-to-body_ratio"><span class="tocnumber">2.1</span> <span class="toctext">Leg-to-body ratio</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Muscular_men_and_thin_women"><span class="tocnumber">2.2</span> <span class="toctext">Muscular men and thin women</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#In_art"><span class="tocnumber">3</span> <span class="toctext">In art</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Additional_images"><span class="tocnumber">4</span> <span class="toctext">Additional images</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Bibliography"><span class="tocnumber">5</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
 </ul>
 </div>
 
-<h2><span class="mw-headline" id="Lists">Lists</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_biblical_names&amp;action=edit&amp;section=1" title="Edit section: Lists">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
-<ul><li><a href="/wiki/List_of_biblical_names_starting_with_A" title="List of biblical names starting with A">List of biblical names starting with A</a></li>
-<li><a href="/wiki/List_of_biblical_names_starting_with_B" title="List of biblical names starting with B">List of biblical names starting with B</a></li>
-<li><a href="/wiki/List_of_biblical_names_starting_with_C" title="List of biblical names starting with C">List of biblical names starting with C</a></li>
-<li><a href="/wiki/List_of_biblical_names_starting_with_D" title="List of biblical names starting with D">List of biblical names starting with D</a></li>
-<li><a href="/wiki/List_of_biblical_names_starting_with_E" title="List of biblical names starting with E">List of biblical names starting with E</a></li>
-<li><a href="/wiki/List_of_biblical_names_starting_with_F" title="List of biblical names starting with F">List of biblical names starting with F</a></li>
-<li><a href="/wiki/List_of_biblical_names_starting_with_G" title="List of biblical names starting with G">List of biblical names starting with G</a></li>
-<li><a href="/wiki/List_of_biblical_names_starting_with_H" title="List of biblical names starting with H">List of biblical names starting with H</a></li>
-<li><a href="/wiki/List_of_biblical_names_starting_with_I" title="List of biblical names starting with I">List of biblical names starting with I</a></li>
-<li><a href="/wiki/List_of_biblical_names_starting_with_J" title="List of biblical names starting with J">List of biblical names starting with J</a></li>
-<li><a href="/wiki/List_of_biblical_names_starting_with_K" title="List of biblical names starting with K">List of biblical names starting with K</a></li>
-<li><a href="/wiki/List_of_biblical_names_starting_with_L" title="List of biblical names starting with L">List of biblical names starting with L</a></li>
-<li><a href="/wiki/List_of_biblical_names_starting_with_M" title="List of biblical names starting with M">List of biblical names starting with M</a></li>
-<li><a href="/wiki/List_of_biblical_names_starting_with_N" title="List of biblical names starting with N">List of biblical names starting with N</a></li>
-<li><a href="/wiki/List_of_biblical_names_starting_with_O" title="List of biblical names starting with O">List of biblical names starting with O</a></li>
-<li><a href="/wiki/List_of_biblical_names_starting_with_P" title="List of biblical names starting with P">List of biblical names starting with P</a></li>
-<li><a href="/wiki/List_of_biblical_names_starting_with_Q" title="List of biblical names starting with Q">List of biblical names starting with Q</a></li>
-<li><a href="/wiki/List_of_biblical_names_starting_with_R" title="List of biblical names starting with R">List of biblical names starting with R</a></li>
-<li><a href="/wiki/List_of_biblical_names_starting_with_S" title="List of biblical names starting with S">List of biblical names starting with S</a></li>
-<li><a href="/wiki/List_of_biblical_names_starting_with_T" title="List of biblical names starting with T">List of biblical names starting with T</a></li>
-<li><a href="/wiki/List_of_biblical_names_starting_with_U" title="List of biblical names starting with U">List of biblical names starting with U</a></li>
-<li><a href="/wiki/List_of_biblical_names_starting_with_V" title="List of biblical names starting with V">List of biblical names starting with V</a></li>
-<li><a href="/wiki/List_of_biblical_names_starting_with_Y" title="List of biblical names starting with Y">List of biblical names starting with Y</a></li>
-<li><a href="/wiki/List_of_biblical_names_starting_with_Z" title="List of biblical names starting with Z">List of biblical names starting with Z</a></li></ul>
-</div>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_biblical_names&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Genealogy_of_the_Bible" class="mw-redirect" title="Genealogy of the Bible">Genealogy of the Bible</a></li>
-<li><a href="/wiki/List_of_major_biblical_figures" title="List of major biblical figures">List of major biblical figures</a></li>
-<li><a href="/wiki/List_of_minor_biblical_figures" class="mw-redirect" title="List of minor biblical figures">List of minor biblical figures</a></li>
-<li><a href="/wiki/List_of_biblical_places" title="List of biblical places">List of biblical places</a></li>
-<li><a href="/wiki/List_of_animals_in_the_Bible" title="List of animals in the Bible">List of animals in the Bible</a></li>
-<li><a href="/wiki/List_of_plants_in_the_Bible" title="List of plants in the Bible">List of plants in the Bible</a></li>
-<li><a href="/wiki/List_of_precious_stones_in_the_Bible" class="mw-redirect" title="List of precious stones in the Bible">List of precious stones in the Bible</a></li>
-<li><a href="/wiki/List_of_women_in_the_Bible" title="List of women in the Bible">List of women in the Bible</a></li>
-<li><a href="/wiki/List_of_names_for_the_biblical_nameless" title="List of names for the biblical nameless">List of names for the biblical nameless</a></li>
-<li><a href="/wiki/List_of_modern_names_for_Biblical_place_names" class="mw-redirect" title="List of modern names for Biblical place names">List of modern names for Biblical place names</a></li>
-<li><i><a href="/wiki/Young%27s_Analytical_Concordance_to_the_Bible" title="Young&#39;s Analytical Concordance to the Bible">Young's Analytical Concordance to the Bible</a></i> &#8211; for which later editions contain <i>A complete list of Scripture Proper Names as in the Authorised and Revised Versions, showing their modern pronunciation and the exact form of the original Hebrew</i> by Wm. B. Stevenson.</li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_biblical_names&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
-<ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">See 1 Samuel 25:25</span>
+<h2><span class="mw-headline" id="Basics_of_human_proportions">Basics of human proportions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Body_proportions&amp;action=edit&amp;section=1" title="Edit section: Basics of human proportions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:132px;"><a href="/wiki/File:Braus_1921_1.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Braus_1921_1.png/130px-Braus_1921_1.png" decoding="async" width="130" height="229" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Braus_1921_1.png/195px-Braus_1921_1.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Braus_1921_1.png/260px-Braus_1921_1.png 2x" data-file-width="1380" data-file-height="2428" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Braus_1921_1.png" class="internal" title="Enlarge"></a></div>Human proportions marked out in an illustration from a 20th-century anatomy text-book. Hermann Braus, 1921</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:Braus_1921_3.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Braus_1921_3.png/300px-Braus_1921_3.png" decoding="async" width="300" height="211" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Braus_1921_3.png/450px-Braus_1921_3.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Braus_1921_3.png/600px-Braus_1921_3.png 2x" data-file-width="1594" data-file-height="1120" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Braus_1921_3.png" class="internal" title="Enlarge"></a></div>A) <a href="/wiki/Black_lemur" title="Black lemur">black lemur</a><br />B) chimpanzee<br />C) gorilla<br />D) human</div></div></div>
+<p>It is important in <a href="/wiki/Figure_drawing" title="Figure drawing">figure drawing</a> to draw the human figure in proportion. Though there are subtle differences between individuals, human proportions fit within a fairly standard range, though artists have historically tried to create idealised standards, which have varied considerably over different periods and regions. In modern figure drawing, the basic unit of measurement is the 'head', which is the distance from the top of the head to the chin. This unit of measurement is reasonably standard, and has long been used by artists to establish the proportions of the human figure.  <a href="/wiki/Ancient_Egyptian_art" class="mw-redirect" title="Ancient Egyptian art">Ancient Egyptian art</a> used a canon of proportion based on the "fist", measured across the knuckles, with 18 fists from the ground to the hairline on the forehead.  This was already established by the <a href="/wiki/Narmer_Palette" title="Narmer Palette">Narmer Palette</a> from about the 31st century BC, and remained in use until at least the conquest by <a href="/wiki/Alexander_the_Great" title="Alexander the Great">Alexander the Great</a> some 3,000 years later.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>The proportions used in figure drawing are:<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2012)">citation needed</span></a></i>&#93;</sup>
+</p>
+<ul><li>An average person is generally 7-and-a-half heads tall (including the head).</li>
+<li>An ideal figure, used when aiming for an impression of nobility or grace, is drawn at 8 heads tall.</li>
+<li>A <a href="/wiki/Heroic" class="mw-redirect" title="Heroic">heroic</a> figure, used in the heroic for the depiction of <a href="/wiki/Gods" class="mw-redirect" title="Gods">gods</a> and <a href="/wiki/Superheroes" class="mw-redirect" title="Superheroes">superheroes</a>, is eight-and-a-half heads tall.  Most of the additional length comes from a bigger chest and longer legs.</li></ul>
+<h2><span class="mw-headline" id="Western_ideal">Western ideal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Body_proportions&amp;action=edit&amp;section=2" title="Edit section: Western ideal">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Jessica_Alba_Face_Proportions.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Jessica_Alba_Face_Proportions.png/220px-Jessica_Alba_Face_Proportions.png" decoding="async" width="220" height="209" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Jessica_Alba_Face_Proportions.png/330px-Jessica_Alba_Face_Proportions.png 1.5x, //upload.wikimedia.org/wikipedia/commons/0/04/Jessica_Alba_Face_Proportions.png 2x" data-file-width="391" data-file-height="372" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Jessica_Alba_Face_Proportions.png" class="internal" title="Enlarge"></a></div>A <a href="/wiki/University_of_Toronto" title="University of Toronto">University of Toronto</a> study found that ideal facial proportions of <a href="/wiki/Jessica_Alba" title="Jessica Alba">Jessica Alba</a> <sup id="cite_ref-pmid19896961_2-0" class="reference"><a href="#cite_note-pmid19896961-2">&#91;2&#93;</a></sup><sup id="cite_ref-pmid23441307_3-0" class="reference"><a href="#cite_note-pmid23441307-3">&#91;3&#93;</a></sup> were close to the average of all female profiles.<sup id="cite_ref-twsZE23_4-0" class="reference"><a href="#cite_note-twsZE23-4">&#91;4&#93;</a></sup></div></div></div>
+<h3><span class="mw-headline" id="Leg-to-body_ratio">Leg-to-body ratio</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Body_proportions&amp;action=edit&amp;section=3" title="Edit section: Leg-to-body ratio">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A study using Polish participants by Sorokowski found 5% longer legs than an individual used as a reference was considered most attractive.<sup id="cite_ref-tws19jan_5-0" class="reference"><a href="#cite_note-tws19jan-5">&#91;5&#93;</a></sup> The study concluded this preference might stem from the influence of leggy runway models.<sup id="cite_ref-Sorokowski_6-0" class="reference"><a href="#cite_note-Sorokowski-6">&#91;6&#93;</a></sup> The Sorokowski study was criticized for using a picture of the same person with digitally altered leg lengths which Marco Bertamini<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag possibly uses too-vague attribution or weasel words. (March 2016)">who?</span></a></i>&#93;</sup> felt were unrealistic.<sup id="cite_ref-Bertamini_7-0" class="reference"><a href="#cite_note-Bertamini-7">&#91;7&#93;</a></sup>
+</p><p>Another study using British and American participants, found <i>mid-ranging</i> leg-to-body ratios to be most ideal.<sup id="cite_ref-Frederick_8-0" class="reference"><a href="#cite_note-Frederick-8">&#91;8&#93;</a></sup>
+</p><p>A study by Swami et al. of American men and women showed a preference for men with legs as long as the rest of their body and women with 40%<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (March 2016)">clarification needed</span></a></i>&#93;</sup> longer legs than the rest of their body. The researcher concluded that this preference might be influenced by American culture where long-legged women are portrayed as more attractive.<sup id="cite_ref-Swami_9-0" class="reference"><a href="#cite_note-Swami-9">&#91;9&#93;</a></sup> The Swami et al. study was criticized for using a picture of the same person with digitally altered leg lengths which Marco Bertamini felt were unrealistic. Bertamini also criticized the Swami study for only changing the leg length while keeping the arm length constant. Bertamini's own study which used stick figures mirrored Swami's study, however, by finding a preference for leggier women.<sup id="cite_ref-Bertamini_7-1" class="reference"><a href="#cite_note-Bertamini-7">&#91;7&#93;</a></sup>
+</p><p>Another common measurement of related to leg-to-body ratio is sitting-height ratio (SHR). Sitting height ratio is the ratio of the head plus spine length to total height which is highly correlated to leg-to-body ratio. SHR has been found to be very different between individuals of different ancestry. It has been reported that individuals with African ancestry have on average longer leg length, i.e. lower SHR than individuals of European ancestry.<sup id="cite_ref-LegLengthBeauty_10-0" class="reference"><a href="#cite_note-LegLengthBeauty-10">&#91;10&#93;</a></sup> A study in 2015 revealed that this difference is mainly due to genetic differences and the SHR difference between African and European individuals is as large as 1 standard deviation.<sup id="cite_ref-SHR_11-0" class="reference"><a href="#cite_note-SHR-11">&#91;11&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Muscular_men_and_thin_women">Muscular men and thin women</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Body_proportions&amp;action=edit&amp;section=4" title="Edit section: Muscular men and thin women">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A 1999 study found that "the (action) figures have grown much more muscular over time, with many contemporary figures far exceeding the muscularity of even the largest human bodybuilders," reflecting an American cultural ideal of a super muscular man. Also, female dolls reflect the cultural ideal of thinness in women.<sup id="cite_ref-Pope_12-0" class="reference"><a href="#cite_note-Pope-12">&#91;12&#93;</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:172px;"><a href="/wiki/File:Da_Vinci_Vitruve_Luc_Viatour.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg/170px-Da_Vinci_Vitruve_Luc_Viatour.jpg" decoding="async" width="170" height="231" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg/255px-Da_Vinci_Vitruve_Luc_Viatour.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg/340px-Da_Vinci_Vitruve_Luc_Viatour.jpg 2x" data-file-width="2258" data-file-height="3070" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Da_Vinci_Vitruve_Luc_Viatour.jpg" class="internal" title="Enlarge"></a></div><i><a href="/wiki/Vitruvian_Man" title="Vitruvian Man">Vitruvian Man</a></i>, c. 1492, by <a href="/wiki/Leonardo_da_Vinci" title="Leonardo da Vinci">Leonardo da Vinci</a></div></div></div>
+<h2><span class="mw-headline" id="In_art">In art</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Body_proportions&amp;action=edit&amp;section=5" title="Edit section: In art">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/Mathematics_and_art" title="Mathematics and art">Mathematics and art</a></div>
+<p>The ancient Greek sculptor <a href="/wiki/Polykleitos" title="Polykleitos">Polykleitos</a> (c.450–420 BC), known for his ideally proportioned bronze <i><a href="/wiki/Doryphoros" title="Doryphoros">Doryphoros</a></i>, wrote an influential <i>Canon</i> describing the proportions to be followed in sculpture.<sup id="cite_ref-Stewart_13-0" class="reference"><a href="#cite_note-Stewart-13">&#91;13&#93;</a></sup> 
+The <i>Canon</i> applies the basic mathematical concepts of Greek geometry, such as the ratio, proportion, and <i>symmetria</i> (Greek for "harmonious proportions") creating a system capable of describing the human form through a series of continuous <a href="/wiki/Geometric_series" title="Geometric series">geometric progressions</a>. Polykleitos uses the <a href="/wiki/Distal_phalanges" class="mw-redirect" title="Distal phalanges">distal phalanx</a> of the <a href="/wiki/Little_finger" title="Little finger">little finger</a> as the basic module for determining the proportions of the human body, scaling this length up repeatedly by <span class="nowrap">&#8730;<span style="border-top:1px solid; padding:0 0.1em;">2</span></span> to obtain the ideal size of the other phalanges, the hand, forearm, and upper arm in turn.<sup id="cite_ref-Tobin_14-0" class="reference"><a href="#cite_note-Tobin-14">&#91;14&#93;</a></sup>
+</p><p><a href="/wiki/Leonardo_da_Vinci" title="Leonardo da Vinci">Leonardo da Vinci</a> believed that the ideal human proportions were determined by the harmonious proportions that he believed governed the universe, such that the ideal man would fit cleanly into a circle as depicted in his famed drawing of <i><a href="/wiki/Vitruvian_man" class="mw-redirect" title="Vitruvian man">Vitruvian man</a></i> (c. 1492).<sup id="cite_ref-DaVinci_15-0" class="reference"><a href="#cite_note-DaVinci-15">&#91;15&#93;</a></sup>
+</p><p>Leonardo’s recorded information was about relative body proportions – with comparisons of hand, foot, and other feature’s lengths to other body parts – more than to actual measurements.&#160;He was a prodigious note writer and small sketch draftsman. After 1490, he left voluminous manuscripts including studies on proportions. These were later collected and translated into English by Jean Paul Richter and published in 1883.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> 
+</p><p><a href="/wiki/Avard_T._Fairbanks" class="mw-redirect" title="Avard T. Fairbanks">Avard T. Fairbanks</a> taught in five universities. His proportions study was used for college instruction. The main male and female illustrations (1936) were drawn to accompany Leonardo’s system of relative proportions. He erected more than 100 public monuments over the course of his 75 year career. His son, Eugene F. Fairbanks published books based on this study and his own study of children’s proportions.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Additional_images">Additional images</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Body_proportions&amp;action=edit&amp;section=6" title="Edit section: Additional images">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Braus_1921_2a.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Braus_1921_2a.png/42px-Braus_1921_2a.png" decoding="async" width="42" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Braus_1921_2a.png/63px-Braus_1921_2a.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Braus_1921_2a.png/84px-Braus_1921_2a.png 2x" data-file-width="374" data-file-height="1064" /></a></div></div>
+			<div class="gallerytext">
+<p>a 1½-year-old child
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Braus_1921_2b.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Braus_1921_2b.png/42px-Braus_1921_2b.png" decoding="async" width="42" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Braus_1921_2b.png/63px-Braus_1921_2b.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Braus_1921_2b.png/85px-Braus_1921_2b.png 2x" data-file-width="412" data-file-height="1164" /></a></div></div>
+			<div class="gallerytext">
+<p>an adult man
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:34px auto;"><a href="/wiki/File:Human_development_neoteny_body_and_head_proportions_pedomorphy_maturation_aging_growth.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Human_development_neoteny_body_and_head_proportions_pedomorphy_maturation_aging_growth.png/120px-Human_development_neoteny_body_and_head_proportions_pedomorphy_maturation_aging_growth.png" decoding="async" width="120" height="82" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Human_development_neoteny_body_and_head_proportions_pedomorphy_maturation_aging_growth.png/180px-Human_development_neoteny_body_and_head_proportions_pedomorphy_maturation_aging_growth.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Human_development_neoteny_body_and_head_proportions_pedomorphy_maturation_aging_growth.png/240px-Human_development_neoteny_body_and_head_proportions_pedomorphy_maturation_aging_growth.png 2x" data-file-width="527" data-file-height="362" /></a></div></div>
+			<div class="gallerytext">
+<p>Human body proportions change with age
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:35px auto;"><a href="/wiki/File:Drawing_of_proportions_of_the_male_and_female_figure,_1936.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Drawing_of_proportions_of_the_male_and_female_figure%2C_1936.jpg/120px-Drawing_of_proportions_of_the_male_and_female_figure%2C_1936.jpg" decoding="async" width="120" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Drawing_of_proportions_of_the_male_and_female_figure%2C_1936.jpg/180px-Drawing_of_proportions_of_the_male_and_female_figure%2C_1936.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Drawing_of_proportions_of_the_male_and_female_figure%2C_1936.jpg/240px-Drawing_of_proportions_of_the_male_and_female_figure%2C_1936.jpg 2x" data-file-width="4200" data-file-height="2816" /></a></div></div>
+			<div class="gallerytext">
+<p>Drawings by Avard T. Fairbanks developed during his teaching career. This image was used in Eugene F. Fairbanks' book on Human Proportions for Artists.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:38px auto;"><a href="/wiki/File:Male_Head_proportions.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Male_Head_proportions.jpg/120px-Male_Head_proportions.jpg" decoding="async" width="120" height="74" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Male_Head_proportions.jpg/180px-Male_Head_proportions.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Male_Head_proportions.jpg/240px-Male_Head_proportions.jpg 2x" data-file-width="3400" data-file-height="2108" /></a></div></div>
+			<div class="gallerytext">
+<p>Avard Fairbanks drawing of proportions of the male head and neck, 1936
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:38.5px auto;"><a href="/wiki/File:Female_Head_proportions.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Female_Head_proportions.jpg/120px-Female_Head_proportions.jpg" decoding="async" width="120" height="73" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Female_Head_proportions.jpg/180px-Female_Head_proportions.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Female_Head_proportions.jpg/240px-Female_Head_proportions.jpg 2x" data-file-width="3912" data-file-height="2394" /></a></div></div>
+			<div class="gallerytext">
+<p>Avard Fairbanks drawing of proportions of the female head and neck, 1936
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Two-year-old_child_head_proportions.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Two-year-old_child_head_proportions.jpg/87px-Two-year-old_child_head_proportions.jpg" decoding="async" width="87" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Two-year-old_child_head_proportions.jpg/131px-Two-year-old_child_head_proportions.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/Two-year-old_child_head_proportions.jpg/175px-Two-year-old_child_head_proportions.jpg 2x" data-file-width="2135" data-file-height="2927" /></a></div></div>
+			<div class="gallerytext">
+<p>Growth and proportions of children, one illustration from Children's Proportions for Artists
+</p>
+			</div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Body_proportions&amp;action=edit&amp;section=7" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Gottfried_Bammes" title="Gottfried Bammes">Gottfried Bammes</a>: <i>Studien zur Gestalt des Menschen.</i> Verlag Otto Maier GmbH, Ravensburg 1990, <style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-473-48341-9" title="Special:BookSources/3-473-48341-9">3-473-48341-9</a>.</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Body_proportions&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The <i>Kanon</i> of <a href="/wiki/Polykleitos" title="Polykleitos">Polykleitos</a></li>
+<li><a href="/wiki/Body_shape" title="Body shape">Body shape</a></li>
+<li><a href="/wiki/Anthropometry" title="Anthropometry">Anthropometry</a></li>
+<li><a href="/wiki/Female_body_shape" title="Female body shape">Female body shape</a></li>
+<li><a href="/wiki/Physical_attractiveness" title="Physical attractiveness">Physical attractiveness</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Body_proportions&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Smith, W. Stevenson, and Simpson, William Kelly. <i>The Art and Architecture of Ancient Egypt</i>, pp. 12-13 and note 17, 3rd edn. 1998, Yale University Press (Penguin/Yale History of Art), <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0300077475" title="Special:BookSources/0300077475">0300077475</a></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Lockyer, pp. 11-14</span>
+<li id="cite_note-pmid19896961-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid19896961_2-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Pallett, PM; Link, S; Lee, K (2010). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2814183">"New "Golden" Ratios for Facial Beauty"</a>. <i>Vision Research</i>. <b>50</b> (2): 149–54. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.visres.2009.11.003">10.1016/j.visres.2009.11.003</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2814183">2814183</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19896961">19896961</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Vision+Research&amp;rft.atitle=New+%22Golden%22+Ratios+for+Facial+Beauty&amp;rft.volume=50&amp;rft.issue=2&amp;rft.pages=149-54&amp;rft.date=2010&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2814183&amp;rft_id=info%3Apmid%2F19896961&amp;rft_id=info%3Adoi%2F10.1016%2Fj.visres.2009.11.003&amp;rft.aulast=Pallett&amp;rft.aufirst=PM&amp;rft.au=Link%2C+S&amp;rft.au=Lee%2C+K&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2814183&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABody+proportions" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-</ol></div>
-<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_biblical_names&amp;action=edit&amp;section=4" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li>Comay, Joan, <i>Who's Who in the Old Testament</i>, Oxford University Press, 1971, <style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-521029-8" title="Special:BookSources/0-19-521029-8">0-19-521029-8</a></li>
-<li>Elwell, Walter A., <i>Evangelical Dictionary of Theology</i>, Baker Publishing Group, 1984, ISB 9781441200303</li>
-<li>Lockyer, Herbert, <i>All the men of the Bible</i>, Zondervan Publishing House (Grand Rapids, Michigan), 1958</li>
-<li>Lockyer, Herbert, <i>All the women of the Bible</i>, Zondervan Publishing 1988, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-310-28151-2" title="Special:BookSources/0-310-28151-2">0-310-28151-2</a></li>
-<li>Lockyer, Herbert, <i>All the Divine Names and Titles in the Bible</i>, Zondervan Publishing 1988, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-310-28041-9" title="Special:BookSources/0-310-28041-9">0-310-28041-9</a></li>
-<li>Tischler, Nancy M., <i>All things in the Bible: an encyclopedia of the biblical world </i>, Greenwood Publishing, Westport, Conn.&#160;: 2006 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-313-33082-4" title="Special:BookSources/0-313-33082-4">0-313-33082-4</a></li></ul>
-<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_biblical_names&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
-<tbody><tr>
-<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" decoding="async" width="34" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></td>
-<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="https://en.wikiquote.org/wiki/Biblical_names" class="extiw" title="q:Biblical names">Biblical names</a></b></i></td></tr>
-</tbody></table>
+<li id="cite_note-pmid23441307-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid23441307_3-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Prokopakis, E. P; Vlastos, I. M; Picavet, V. A; Nolst Trenite, G; Thomas, R; Cingi, C; Hellings, P. W (2013). "The golden ratio in facial symmetry". <i>Rhinology</i>. <b>51</b> (1): 18–21. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.4193%2FRhino12.111">10.4193/Rhino12.111</a> (inactive 2019-08-20). <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/23441307">23441307</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Rhinology&amp;rft.atitle=The+golden+ratio+in+facial+symmetry&amp;rft.volume=51&amp;rft.issue=1&amp;rft.pages=18-21&amp;rft.date=2013&amp;rft_id=info%3Adoi%2F10.4193%2FRhino12.111&amp;rft_id=info%3Apmid%2F23441307&amp;rft.aulast=Prokopakis&amp;rft.aufirst=E.+P&amp;rft.au=Vlastos%2C+I.+M&amp;rft.au=Picavet%2C+V.+A&amp;rft.au=Nolst+Trenite%2C+G&amp;rft.au=Thomas%2C+R&amp;rft.au=Cingi%2C+C&amp;rft.au=Hellings%2C+P.+W&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABody+proportions" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-twsZE23-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-twsZE23_4-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Fiona Macrae (27 December 2009). <a rel="nofollow" class="external text" href="http://www.dailymail.co.uk/sciencetech/article-1236636/Skin-deep-Beautiful-faces-Miss-Average-proportions.html">"Skin deep: Beautiful faces have Miss Average proportions"</a>. <i>Daily Mail</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-31</span></span>. <q>All were head shots of the same person with different distances from eyes to mouth or between the eyes. She was at her most attractive when the space between her pupils was just under half, or 46 per cent, of the width of her face from ear to ear. The other perfect dimension was when the distance between her eyes and mouth was just over a third, or 36 per cent, of the overall length of her face from hairline to chin. ...</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Daily+Mail&amp;rft.atitle=Skin+deep%3A+Beautiful+faces+have+Miss+Average+proportions&amp;rft.date=2009-12-27&amp;rft.au=Fiona+Macrae&amp;rft_id=http%3A%2F%2Fwww.dailymail.co.uk%2Fsciencetech%2Farticle-1236636%2FSkin-deep-Beautiful-faces-Miss-Average-proportions.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABody+proportions" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-tws19jan-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-tws19jan_5-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sorokowski, Piotr; Pawlowski, Boguslaw (2008). "Adaptive preferences for leg length in a potential partner". <i>Evolution and Human Behavior</i>. <b>29</b> (2): 86–91. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.evolhumbehav.2007.09.002">10.1016/j.evolhumbehav.2007.09.002</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Evolution+and+Human+Behavior&amp;rft.atitle=Adaptive+preferences+for+leg+length+in+a+potential+partner&amp;rft.volume=29&amp;rft.issue=2&amp;rft.pages=86-91&amp;rft.date=2008&amp;rft_id=info%3Adoi%2F10.1016%2Fj.evolhumbehav.2007.09.002&amp;rft.aulast=Sorokowski&amp;rft.aufirst=Piotr&amp;rft.au=Pawlowski%2C+Boguslaw&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABody+proportions" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Sorokowski-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Sorokowski_6-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sorokowski, Piotr (2017). "Attractiveness of Legs Length in Poland and Great Britain". <i>Journal of Human Ecology</i>. <b>31</b> (3): 145–149. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1080%2F09709274.2010.11906309">10.1080/09709274.2010.11906309</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Human+Ecology&amp;rft.atitle=Attractiveness+of+Legs+Length+in+Poland+and+Great+Britain&amp;rft.volume=31&amp;rft.issue=3&amp;rft.pages=145-149&amp;rft.date=2017&amp;rft_id=info%3Adoi%2F10.1080%2F09709274.2010.11906309&amp;rft.aulast=Sorokowski&amp;rft.aufirst=Piotr&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABody+proportions" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Bertamini-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bertamini_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bertamini_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Bertamini, Marco; Bennett, Kate M (2009). "The effect of leg length on perceived attractiveness of simplified stimuli". <i>Journal of Social, Evolutionary, and Cultural Psychology</i>. <b>3</b> (3): 233–50. <a href="/wiki/CiteSeerX" title="CiteSeerX">CiteSeerX</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.163.2823">10.1.1.163.2823</a></span>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1037%2Fh0099320">10.1037/h0099320</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Social%2C+Evolutionary%2C+and+Cultural+Psychology&amp;rft.atitle=The+effect+of+leg+length+on+perceived+attractiveness+of+simplified+stimuli&amp;rft.volume=3&amp;rft.issue=3&amp;rft.pages=233-50&amp;rft.date=2009&amp;rft_id=%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.163.2823&amp;rft_id=info%3Adoi%2F10.1037%2Fh0099320&amp;rft.aulast=Bertamini&amp;rft.aufirst=Marco&amp;rft.au=Bennett%2C+Kate+M&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABody+proportions" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Frederick-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Frederick_8-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Frederick, David A; Hadji-Michael, Maria; Furnham, Adrian; Swami, Viren (2010). "The influence of leg-to-body ratio (LBR) on judgments of female physical attractiveness: Assessments of computer-generated images varying in LBR". <i>Body Image</i>. <b>7</b> (1): 51–5. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.bodyim.2009.09.001">10.1016/j.bodyim.2009.09.001</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19822462">19822462</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Body+Image&amp;rft.atitle=The+influence+of+leg-to-body+ratio+%28LBR%29+on+judgments+of+female+physical+attractiveness%3A+Assessments+of+computer-generated+images+varying+in+LBR&amp;rft.volume=7&amp;rft.issue=1&amp;rft.pages=51-5&amp;rft.date=2010&amp;rft_id=info%3Adoi%2F10.1016%2Fj.bodyim.2009.09.001&amp;rft_id=info%3Apmid%2F19822462&amp;rft.aulast=Frederick&amp;rft.aufirst=David+A&amp;rft.au=Hadji-Michael%2C+Maria&amp;rft.au=Furnham%2C+Adrian&amp;rft.au=Swami%2C+Viren&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABody+proportions" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Swami-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Swami_9-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Swami, Viren; Einon, Dorothy; Furnham, Adrian (2006). "The leg-to-body ratio as a human aesthetic criterion". <i>Body Image</i>. <b>3</b> (4): 317–23. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.bodyim.2006.08.003">10.1016/j.bodyim.2006.08.003</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18089235">18089235</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Body+Image&amp;rft.atitle=The+leg-to-body+ratio+as+a+human+aesthetic+criterion&amp;rft.volume=3&amp;rft.issue=4&amp;rft.pages=317-23&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1016%2Fj.bodyim.2006.08.003&amp;rft_id=info%3Apmid%2F18089235&amp;rft.aulast=Swami&amp;rft.aufirst=Viren&amp;rft.au=Einon%2C+Dorothy&amp;rft.au=Furnham%2C+Adrian&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABody+proportions" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-LegLengthBeauty-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-LegLengthBeauty_10-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bogin, B.; Varela-Silva, MI (Mar 2010). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2872302">"Leg length, body proportion, and health: a review with a note on beauty"</a>. <i>Int J Environ Res Public Health</i>. <b>7</b> (3): 1047–75. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.3390%2Fijerph7031047">10.3390/ijerph7031047</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2872302">2872302</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/20617018">20617018</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Int+J+Environ+Res+Public+Health&amp;rft.atitle=Leg+length%2C+body+proportion%2C+and+health%3A+a+review+with+a+note+on+beauty&amp;rft.volume=7&amp;rft.issue=3&amp;rft.pages=1047-75&amp;rft.date=2010-03&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2872302&amp;rft_id=info%3Apmid%2F20617018&amp;rft_id=info%3Adoi%2F10.3390%2Fijerph7031047&amp;rft.aulast=Bogin&amp;rft.aufirst=B.&amp;rft.au=Varela-Silva%2C+MI&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2872302&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABody+proportions" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-SHR-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-SHR_11-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Chan, Yingleong; Salem, Rany M; Hsu, Yu-Han H; McMahon, George; Pers, Tune H; Vedantam, Sailaja; Esko, Tonu; Guo, Michael H; Lim, Elaine T; Franke, Lude; Smith, George Davey; Strachan, David P; Hirschhorn, Joel N (2015). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4570286">"Genome-wide Analysis of Body Proportion Classifies Height-Associated Variants by Mechanism of Action and Implicates Genes Important for Skeletal Development"</a>. <i>The American Journal of Human Genetics</i>. <b>96</b> (5): 695–708. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.ajhg.2015.02.018">10.1016/j.ajhg.2015.02.018</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4570286">4570286</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/25865494">25865494</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+American+Journal+of+Human+Genetics&amp;rft.atitle=Genome-wide+Analysis+of+Body+Proportion+Classifies+Height-Associated+Variants+by+Mechanism+of+Action+and+Implicates+Genes+Important+for+Skeletal+Development&amp;rft.volume=96&amp;rft.issue=5&amp;rft.pages=695-708&amp;rft.date=2015&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4570286&amp;rft_id=info%3Apmid%2F25865494&amp;rft_id=info%3Adoi%2F10.1016%2Fj.ajhg.2015.02.018&amp;rft.aulast=Chan&amp;rft.aufirst=Yingleong&amp;rft.au=Salem%2C+Rany+M&amp;rft.au=Hsu%2C+Yu-Han+H&amp;rft.au=McMahon%2C+George&amp;rft.au=Pers%2C+Tune+H&amp;rft.au=Vedantam%2C+Sailaja&amp;rft.au=Esko%2C+Tonu&amp;rft.au=Guo%2C+Michael+H&amp;rft.au=Lim%2C+Elaine+T&amp;rft.au=Franke%2C+Lude&amp;rft.au=Smith%2C+George+Davey&amp;rft.au=Strachan%2C+David+P&amp;rft.au=Hirschhorn%2C+Joel+N&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4570286&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABody+proportions" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Pope-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Pope_12-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Pope, Harrison; Roberto Olivardia; Amanda Gruber; John Borowiecki (1998-05-26). "Evolving Ideals of Male Body Image as Seen Through Action Toys". <i>International Journal of Eating Disorders</i>. <b>26</b> (1): 65–72. <a href="/wiki/CiteSeerX" title="CiteSeerX">CiteSeerX</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.507.3004">10.1.1.507.3004</a></span>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1002%2F%28sici%291098-108x%28199907%2926%3A1%3C65%3A%3Aaid-eat8%3E3.3.co%3B2-4">10.1002/(sici)1098-108x(199907)26:1&#60;65::aid-eat8&#62;3.3.co;2-4</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10349585">10349585</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Journal+of+Eating+Disorders&amp;rft.atitle=Evolving+Ideals+of+Male+Body+Image+as+Seen+Through+Action+Toys&amp;rft.volume=26&amp;rft.issue=1&amp;rft.pages=65-72&amp;rft.date=1998-05-26&amp;rft_id=%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.507.3004&amp;rft_id=info%3Apmid%2F10349585&amp;rft_id=info%3Adoi%2F10.1002%2F%28sici%291098-108x%28199907%2926%3A1%3C65%3A%3Aaid-eat8%3E3.3.co%3B2-4&amp;rft.aulast=Pope&amp;rft.aufirst=Harrison&amp;rft.au=Roberto+Olivardia&amp;rft.au=Amanda+Gruber&amp;rft.au=John+Borowiecki&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABody+proportions" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Stewart-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Stewart_13-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Stewart, Andrew (November 1978). "Polykleitos of Argos," One Hundred Greek Sculptors: Their Careers and Extant Works". <i>Journal of Hellenic Studies</i>. <b>98</b>: 122–131. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.2307%2F630196">10.2307/630196</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/630196">630196</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Hellenic+Studies&amp;rft.atitle=Polykleitos+of+Argos%2C%22+One+Hundred+Greek+Sculptors%3A+Their+Careers+and+Extant+Works&amp;rft.volume=98&amp;rft.pages=122-131&amp;rft.date=1978-11&amp;rft_id=info%3Adoi%2F10.2307%2F630196&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F630196&amp;rft.aulast=Stewart&amp;rft.aufirst=Andrew&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABody+proportions" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Tobin-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Tobin_14-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Tobin, Richard (October 1975). "The <i>Canon</i> of Polykleitos". <i>American Journal of Archaeology</i>. <b>79</b> (4): 307–321. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.2307%2F503064">10.2307/503064</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/503064">503064</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=American+Journal+of+Archaeology&amp;rft.atitle=The+Canon+of+Polykleitos&amp;rft.volume=79&amp;rft.issue=4&amp;rft.pages=307-321&amp;rft.date=1975-10&amp;rft_id=info%3Adoi%2F10.2307%2F503064&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F503064&amp;rft.au=Tobin%2C+Richard&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABody+proportions" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-DaVinci-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-DaVinci_15-0">^</a></b></span> <span class="reference-text">"Universal Leonardo: Leonardo Da Vinci Online&#160;› Essays." Universal Leonardo: Leonardo Da Vinci Online&#160;› Welcome to Universal Leonardo. Web. 22 Apr. 2010. &lt;<a rel="nofollow" class="external free" href="http://www.universalleonardo.org/essays.php?id=563">http://www.universalleonardo.org/essays.php?id=563</a>&gt;.</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation book">Richter, Jean Paul (1970). <i>The Notebooks of Leonardo da Vinci</i> (Reprint of original 1883 ed.). New York: Dover. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-486-22572-2" title="Special:BookSources/978-0-486-22572-2"><bdi>978-0-486-22572-2</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Notebooks+of+Leonardo+da+Vinci&amp;rft.place=New+York&amp;rft.edition=Reprint+of+original+1883&amp;rft.pub=Dover&amp;rft.date=1970&amp;rft.isbn=978-0-486-22572-2&amp;rft.aulast=Richter&amp;rft.aufirst=Jean+Paul&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABody+proportions" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation book">Faribanks, Eugene F. (2012). <a rel="nofollow" class="external text" href="http://www.fairbanksartbooks.com/ChildProportions.html"><i>Children's Proportions for Artists</i></a>. Bellingham, WA: Fairbanks Art and Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0972584128" title="Special:BookSources/978-0972584128"><bdi>978-0972584128</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Children%27s+Proportions+for+Artists&amp;rft.place=Bellingham%2C+WA&amp;rft.pub=Fairbanks+Art+and+Books&amp;rft.date=2012&amp;rft.isbn=978-0972584128&amp;rft.aulast=Faribanks&amp;rft.aufirst=Eugene+F.&amp;rft_id=http%3A%2F%2Fwww.fairbanksartbooks.com%2FChildProportions.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABody+proportions" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation book">Fairbanks, Eugene F. (2011). <a rel="nofollow" class="external text" href="http://www.fairbanksartbooks.com/Proportions.html"><i>Human Proportions for Artists</i></a>. Bellingham, WA: Fairbanks Art and Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1467901871" title="Special:BookSources/978-1467901871"><bdi>978-1467901871</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Human+Proportions+for+Artists&amp;rft.place=Bellingham%2C+WA&amp;rft.pub=Fairbanks+Art+and+Books&amp;rft.date=2011&amp;rft.isbn=978-1467901871&amp;rft.aulast=Fairbanks&amp;rft.aufirst=Eugene+F.&amp;rft_id=http%3A%2F%2Fwww.fairbanksartbooks.com%2FProportions.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABody+proportions" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Body_proportions&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
 <tbody><tr>
 <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
-<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Biblical_figures" class="extiw" title="commons:Category:Biblical figures"><span style="">Biblical figures</span></a></b></i>.</td></tr>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Body_proportions" class="extiw" title="commons:Category:Body proportions"><span style="">Body proportions</span></a></b></i>.</td></tr>
 </tbody></table>
-<ul><li><a rel="nofollow" class="external text" href="http://www.ccel.org/ccel/nave/bible.naves.html">Nave's Topical Bible</a></li>
-<li><a rel="nofollow" class="external text" href="http://www.ccel.org/ccel/smith_w/bibledict.toc.html">Smith's Bible Dictionary</a></li>
-<li><a rel="nofollow" class="external text" href="http://www.ccel.org/ccel/easton/ebd2.EBD.html">Easton's Bible Dictionary</a></li>
-<li><a rel="nofollow" class="external text" href="http://www.ccel.org/ccel/herbermann/cathen01.toc.html">Catholic Encyclopedia 1917</a></li>
-<li><a rel="nofollow" class="external text" href="http://www.ccel.org/ccel/schaff/encyc13a.TitlePage.html">New Schaff-Herzog Encyclopedia of Religious Knowledge</a> (Dictionary edition)</li></ul>
-<div role="navigation" class="navbox" aria-labelledby="Personal_names_and_anthroponymy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Personal_names" title="Template:Personal names"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Personal_names" title="Template talk:Personal names"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Personal_names&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Personal_names_and_anthroponymy" style="font-size:114%;margin:0 4em"><a href="/wiki/Personal_name" title="Personal name">Personal names</a> and <a href="/wiki/Anthroponymy" title="Anthroponymy">anthroponymy</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*Personal_identity">
-<ul><li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Personal_name" title="Personal name">Personal name</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Given_name" title="Given name">Given name</a></li>
-<li><a href="/wiki/Surname" title="Surname">Surname</a>
-<ul><li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineal</a>/<a href="/wiki/Matriname" title="Matriname">Matrilineal</a></li>
-<li><a href="/wiki/List_of_family_name_affixes" title="List of family name affixes">Affixes</a>
-<ul><li><a href="/wiki/Nobiliary_particle" title="Nobiliary particle">Nobiliary particle</a></li></ul></li></ul></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By sequence</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Given_name" title="Given name">First name</a></li>
-<li><a href="/wiki/Middle_name" title="Middle name">Middle name</a></li>
-<li><a href="/wiki/Surname" title="Surname">Last name</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By trait</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Diminutive" title="Diminutive">Diminutive</a></li>
-<li><a href="/wiki/Double-barrelled_name" title="Double-barrelled name">Double-barrelled</a></li>
-<li><a href="/wiki/Eponym" title="Eponym">Eponymic</a></li>
-<li><a href="/wiki/Matronymic" title="Matronymic">Matronymic</a></li>
-<li><a href="/wiki/Metonymy" title="Metonymy">Metonymic</a></li>
-<li><a href="/wiki/Mononymous_person" title="Mononymous person">Mononymic</a></li>
-<li><a href="/wiki/Occupational_name" class="mw-redirect" title="Occupational name">Occupational name</a></li>
-<li><a href="/wiki/Patronymic" title="Patronymic">Patronymic</a></li>
-<li><a href="/wiki/Sobriquet" title="Sobriquet">Sobriquet</a></li>
-<li><a href="/wiki/Teknonymy" title="Teknonymy">Teknonymic</a></li>
-<li><a href="/wiki/Toponymy" title="Toponymy">Toponymic</a></li>
-<li><a href="/wiki/Patrial_name" title="Patrial name">Patrial name</a></li>
-<li><a href="/wiki/Patronymic_surname" title="Patronymic surname">Patronymic</a></li>
-<li><a href="/wiki/Unisex_name" title="Unisex name">Unisex</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By life situation</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Aptronym" title="Aptronym">Aptronym</a></li>
-<li><a href="/wiki/Code_name" title="Code name">Code name</a></li>
-<li><a href="/wiki/Maiden_and_married_names" title="Maiden and married names">Maiden and married names</a></li>
-<li><a href="/wiki/Necronym" title="Necronym">Necronym</a>
-<ul><li><a href="/wiki/Posthumous_name" title="Posthumous name">Posthumous name</a></li>
-<li><a href="/wiki/Temple_name" title="Temple name">Temple name</a></li></ul></li>
-<li><a href="/wiki/Placeholder_name" title="Placeholder name">Placeholder name</a>
-<ul><li><a href="/wiki/Notname" title="Notname">Notname</a></li></ul></li>
-<li><a href="/wiki/Regnal_name" title="Regnal name">Regnal name</a></li>
-<li><a href="/wiki/Slave_name" title="Slave name">Slave name</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pseudonym" title="Pseudonym">Pseudonyms</a> (<a href="/wiki/List_of_pseudonyms" title="List of pseudonyms">list</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Nickname" title="Nickname">Nicknames</a>
-<ul><li><a href="/wiki/Lists_of_nicknames" title="Lists of nicknames">list</a></li>
-<li><a href="/wiki/Hypocorism" title="Hypocorism">Hypocorism</a></li></ul></li>
-<li><i><a href="/wiki/Nom_de_guerre" class="mw-redirect" title="Nom de guerre">Nom de guerre</a></i></li>
-<li><a href="/wiki/Stage_name" title="Stage name">Stage name</a>
-<ul><li><a href="/wiki/List_of_stage_names" title="List of stage names">List of stage names</a></li>
-<li><a href="/wiki/List_of_one-word_stage_names" title="List of one-word stage names">List of one-word stage names</a></li></ul></li>
-<li><a href="/wiki/Ring_name" title="Ring name">Ring name</a></li>
-<li><a href="/wiki/Pen_name" title="Pen name">Pen name</a>
-<ul><li><a href="/wiki/Heteronym_(literature)" title="Heteronym (literature)">Heteronym</a></li></ul></li>
-<li><a href="/wiki/Username" class="mw-redirect" title="Username">Username</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By culture<br /><small><a href="/wiki/Surnames_by_country" title="Surnames by country">Surnames by country</a><br /><a href="/wiki/Courtesy_name" title="Courtesy name">Courtesy names</a></small></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Albanian_name" title="Albanian name">Albanian</a></li>
-<li><a href="/wiki/Naming_in_the_United_States" title="Naming in the United States">American</a>
-<ul><li><small><a href="/wiki/African-American_names" title="African-American names">African-American</a></small></li></ul></li>
-<li><a href="/wiki/Ancient_Greek_personal_names" title="Ancient Greek personal names">Ancient Greek</a></li>
-<li><a href="/wiki/Arabic_name" title="Arabic name">Arabic</a></li>
-<li><a href="/wiki/Armenian_name" title="Armenian name">Armenian</a></li>
-<li><a href="/wiki/Akan_names" title="Akan names">Ashanti</a></li>
-<li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal</a></li>
-<li><a href="/wiki/Azerbaijani_name" title="Azerbaijani name">Azerbaijani</a></li>
-<li><a href="/wiki/Bangladeshi_name" class="mw-redirect" title="Bangladeshi name">Bangladeshi</a></li>
-<li><a href="/wiki/Spanish_naming_customs#Basque_names" title="Spanish naming customs">Basque</a></li>
-<li><a href="/wiki/Belarusian_name" title="Belarusian name">Belarusian</a></li>
-<li><a href="/wiki/Bulgarian_name" title="Bulgarian name">Bulgarian</a></li>
-<li><a href="/wiki/Burmese_names" title="Burmese names">Burmese</a></li>
-<li><a href="/wiki/Cambodian_name" title="Cambodian name">Cambodian</a></li>
-<li><a href="/wiki/Canadian_name" title="Canadian name">Canadian</a></li>
-<li><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></li>
-<li><a href="/wiki/Chinese_name" title="Chinese name">Chinese</a>
-<ul><li><small><a href="/wiki/Hong_Kong_name" title="Hong Kong name">Hong Kong</a></small></li>
-<li><small><a href="/wiki/Manchu_name" title="Manchu name">Manchu</a></small></li>
-<li><small><a href="/wiki/Tibetan_name" title="Tibetan name">Tibetan</a></small></li></ul></li>
-<li><a href="/wiki/Cornish_surnames" title="Cornish surnames">Cornish</a></li>
-<li><a href="/wiki/Croatian_name" title="Croatian name">Croatian</a></li>
-<li><a href="/wiki/Czech_name" title="Czech name">Czech</a></li>
-<li><a href="/wiki/Dutch_name" title="Dutch name">Dutch</a></li>
-<li><a href="/wiki/English_name" title="English name">English</a></li>
-<li><a href="/wiki/Naming_conventions_in_Ethiopia_and_Eritrea" title="Naming conventions in Ethiopia and Eritrea">Ethiopian/Eritrean</a></li>
-<li><a href="/wiki/Ewe_language#Naming_system" title="Ewe language">Ewe</a></li>
-<li><a href="/wiki/Fijian_name" title="Fijian name">Fijian</a></li>
-<li><a href="/wiki/Filipino_name" title="Filipino name">Filipino</a></li>
-<li><a href="/wiki/Finnish_name" title="Finnish name">Finnish</a></li>
-<li><a href="/wiki/French_name" title="French name">French</a></li>
-<li><a href="/wiki/Spanish_naming_customs#Galician_names" title="Spanish naming customs">Galician</a></li>
-<li><a href="/wiki/Georgian_name" title="Georgian name">Georgian</a></li>
-<li><a href="/wiki/German_name" title="German name">German</a></li>
-<li><a href="/wiki/Germanic_name" title="Germanic name">Germanic</a></li>
-<li><a href="/wiki/Ghanaian_name" title="Ghanaian name">Ghanaian</a></li>
-<li><a href="/wiki/Greek_name" title="Greek name">Greek</a>
-<ul><li><small><a href="/wiki/Greek_Cypriot_name" title="Greek Cypriot name">Cypriot</a></small></li></ul></li>
-<li><a href="/wiki/Hawaiian_name" title="Hawaiian name">Hawaiian</a></li>
-<li><a href="/wiki/Hebrew_name" title="Hebrew name">Hebrew</a></li>
-<li><a href="/wiki/Hungarian_names" title="Hungarian names">Hungarian</a></li>
-<li><a href="/wiki/Icelandic_name" title="Icelandic name">Icelandic</a></li>
-<li><a href="/wiki/Igbo_name" title="Igbo name">Igbo</a></li>
-<li><a href="/wiki/Indian_name" title="Indian name">Indian</a>
-<ul><li><small><a href="/wiki/Saint_Thomas_Christian_names" title="Saint Thomas Christian names">Saint Thomas Christian names</a></small></li></ul></li>
-<li><a href="/wiki/Indonesian_names" title="Indonesian names">Indonesian</a>
-<ul><li><small><a href="/wiki/Balinese_name" title="Balinese name">Balinese</a></small></li>
-<li><small><a href="/wiki/Chinese_Indonesian_surname" title="Chinese Indonesian surname">Chinese</a></small></li>
-<li><small><a href="/wiki/Javanese_name" title="Javanese name">Javanese</a></small></li></ul></li>
-<li><a href="/wiki/Irish_name" title="Irish name">Irish</a></li>
-<li><a href="/wiki/Italian_name" title="Italian name">Italian</a></li>
-<li><a href="/wiki/Japanese_name" title="Japanese name">Japanese</a>
-<ul><li><small><a href="/wiki/Amami_name" title="Amami name">Amami</a></small></li>
-<li><small><a href="/wiki/Okinawan_name" title="Okinawan name">Okinawan</a></small></li></ul></li>
-<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish</a></li>
-<li><a href="/wiki/Kalmyk_names" title="Kalmyk names">Kalmyk</a></li>
-<li><a href="/wiki/Korean_name" title="Korean name">Korean</a></li>
-<li><a href="/wiki/Lao_name" title="Lao name">Lao</a></li>
-<li><a href="/wiki/Latvian_name" title="Latvian name">Latvian</a></li>
-<li><a href="/wiki/Lithuanian_name" title="Lithuanian name">Lithuanian</a></li>
-<li><a href="/wiki/Macedonian_onomastics" title="Macedonian onomastics">Macedonian</a></li>
-<li><a href="/wiki/Malaysian_names" title="Malaysian names">Malaysian</a></li>
-<li><a href="/wiki/M%C4%81ori_naming_customs" title="Māori naming customs">Māori</a></li>
-<li><a href="/wiki/Mongolian_name" title="Mongolian name">Mongol</a></li>
-<li><a href="/wiki/Scandinavian_family_name_etymology#Norway" title="Scandinavian family name etymology">Norwegian</a></li>
-<li><a href="/wiki/Pakistani_name" title="Pakistani name">Pakistani</a>
-<ul><li><small><a href="/wiki/Pashtun_name" title="Pashtun name">Pashtun</a></small></li>
-<li><small><a href="/wiki/Sindhi_names" title="Sindhi names">Sindhi</a></small></li></ul></li>
-<li><a href="/wiki/Persian_name" title="Persian name">Persian</a></li>
-<li><a href="/wiki/Polish_name" title="Polish name">Polish</a></li>
-<li><a href="/wiki/Portuguese_name" title="Portuguese name">Portuguese</a></li>
-<li><a href="/wiki/Roman_naming_conventions" title="Roman naming conventions">Roman</a>
-<ul><li><small><a href="/wiki/Praenomen" title="Praenomen">Praenomen</a></small></li>
-<li><small><a href="/wiki/Nomen_(Roman_name)" title="Nomen (Roman name)">Nomen</a></small></li>
-<li><small><a href="/wiki/Cognomen" title="Cognomen">Cognomen</a></small></li></ul></li>
-<li><a href="/wiki/Romanian_name" title="Romanian name">Romanian</a></li>
-<li><a href="/wiki/Eastern_Slavic_naming_customs" title="Eastern Slavic naming customs">Russian</a></li>
-<li><a href="/wiki/Yakut_names" title="Yakut names">Sakha</a></li>
-<li><a href="/wiki/Scottish_Gaelic_name" title="Scottish Gaelic name">Scottish Gaelic</a></li>
-<li><a href="/wiki/Serbian_names" title="Serbian names">Serbian</a></li>
-<li><a href="/wiki/Slavic_names" title="Slavic names">Slavic</a></li>
-<li><a href="/wiki/Slovak_name" title="Slovak name">Slovak</a></li>
-<li><a href="/wiki/Somali_name" title="Somali name">Somali</a></li>
-<li><a href="/wiki/Spanish_naming_customs" title="Spanish naming customs">Spanish</a>
-<ul><li><small><a href="/wiki/Naming_customs_of_Hispanic_America" title="Naming customs of Hispanic America">Hispanic America</a></small></li>
-<li><small><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></small></li></ul></li>
-<li><a href="/wiki/Swedish_name" title="Swedish name">Swedish</a></li>
-<li><a href="/wiki/Naming_customs_of_Taiwanese_aborigines" title="Naming customs of Taiwanese aborigines">Taiwanese aboriginal</a></li>
-<li><a href="/wiki/Indian_family_names#Tamil_names" class="mw-redirect" title="Indian family names">Tamil</a>
-<ul><li><small><a href="/wiki/Naming_conventions_of_ancient_Tamil_country" title="Naming conventions of ancient Tamil country">Ancient Tamil country</a></small></li></ul></li>
-<li><a href="/wiki/Tatar_name" title="Tatar name">Tatar</a></li>
-<li><a href="/wiki/Thai_name" title="Thai name">Thai</a></li>
-<li><a href="/wiki/Turkish_name" title="Turkish name">Turkish</a></li>
-<li><a href="/wiki/Ukrainian_name" title="Ukrainian name">Ukrainian</a></li>
-<li><a href="/wiki/Vietnamese_name" title="Vietnamese name">Vietnamese</a></li>
-<li><a href="/wiki/Welsh_surnames" title="Welsh surnames">Welsh</a></li>
-<li><a href="/wiki/Yakut_names" title="Yakut names">Yakut</a></li>
-<li><a href="/wiki/Yoruba_name" title="Yoruba name">Yoruba</a></li>
-<li><a href="/wiki/Zimbabwean_names" title="Zimbabwean names">Zimbabwean</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Religious_name" title="Religious name">Religious names</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Christian_name" title="Christian name">Christian name</a>
-<ul><li><a class="mw-selflink selflink">Biblical name</a></li>
-<li><a href="/wiki/Papal_name" title="Papal name">Papal name</a></li>
-<li><a href="/wiki/Saint%27s_name" title="Saint&#39;s name">Saint's name</a></li></ul></li>
-<li><a href="/wiki/Dharma_name" title="Dharma name">Dharma name</a></li>
-<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish name</a></li>
-<li><a href="/wiki/Theophoric_name" title="Theophoric name">Theophoric name</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Manners of address<br /><small><a href="/wiki/List_of_titles" title="List of titles">List</a></small><br /><small><a href="/wiki/Title_of_authority" title="Title of authority">of authority</a>/<a href="/wiki/Title_of_honor" title="Title of honor">of honour</a></small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Style_(manner_of_address)" title="Style (manner of address)">Styles</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Honorific" title="Honorific">Honorific</a>
-<ul><li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
-<li><a href="/wiki/Imperial,_royal,_and_noble_styles" title="Imperial, royal, and noble styles">Imperial, royal, and noble</a></li>
-<li><a href="/wiki/Judiciary_styles" class="mw-redirect" title="Judiciary styles">Judiciary</a></li>
-<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
-<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul></li>
-<li><a href="/wiki/Pre-nominal_letters" title="Pre-nominal letters">Pre-nominal letters</a></li>
-<li><a href="/wiki/Suffix_(name)" title="Suffix (name)">Suffix</a>
-<ul><li><a href="/wiki/Emeritus" title="Emeritus">Emeritus</a></li>
-<li><a href="/wiki/Post-nominal_letters" title="Post-nominal letters">Post-nominal letters</a>
-<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
-<li><a href="/wiki/Order_(distinction)" title="Order (distinction)">Orders</a>, <a href="/wiki/Award" title="Award">decorations</a>, and <a href="/wiki/Medal" title="Medal">medals</a></li></ul></li></ul></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Title" title="Title">Titles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
-<li><a href="/wiki/Imperial,_royal_and_noble_ranks" title="Imperial, royal and noble ranks">Imperial, royal and noble</a>
-<ul><li><a href="/wiki/Chivalry" title="Chivalry">Chivalric</a></li>
-<li><a href="/wiki/Court_title" class="mw-redirect" title="Court title">Court</a></li></ul></li>
-<li><a href="/wiki/Military_rank" title="Military rank">Military</a></li>
-<li><a href="/wiki/Professional_titles" class="mw-redirect" title="Professional titles">Professional</a>
-<ul><li><a href="/wiki/Academic_ranks" class="mw-redirect" title="Academic ranks">Academic</a>
-<ul><li><a href="/wiki/Honorary_title_(academic)" title="Honorary title (academic)">Honorary</a></li></ul></li>
-<li><a href="/wiki/Corporate_title" title="Corporate title">Business</a></li>
-<li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
-<li><a href="/wiki/Professional_degree" title="Professional degree">Educational</a></li>
-<li><a href="/wiki/Judicial_titles" class="mw-redirect" title="Judicial titles">Judicial</a></li></ul></li>
-<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
-<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul>
-</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related traditions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Baptism" title="Baptism">Baptism</a></li>
-<li><a href="/wiki/Name_day" title="Name day">Name day</a>
-<ul><li><a href="/wiki/Calendar_of_saints" title="Calendar of saints">Calendar of saints</a></li></ul></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Acronym" title="Acronym">Acronym</a></li>
-<li><a href="/wiki/Anonymity" title="Anonymity">Anonymity</a></li>
-<li><a href="/wiki/Anthropomorphism" title="Anthropomorphism">Anthropomorphism</a>
-<ul><li><a href="/wiki/National_personification" title="National personification">National personification</a></li></ul></li>
-<li><a href="/wiki/Call_sign" title="Call sign">Call sign</a></li>
-<li><a href="/wiki/Family" title="Family">Family</a></li>
-<li><a href="/wiki/Galton%E2%80%93Watson_process" title="Galton–Watson process">Galton–Watson process</a></li>
-<li><a href="/wiki/Legal_name" title="Legal name">Legal name</a>
-<ul><li><a href="/wiki/Name_change" title="Name change">Name change</a></li></ul></li>
-<li><i><a href="/wiki/Nomen_nescio" title="Nomen nescio">Nomen nescio</a></i></li>
-<li><i><a href="/wiki/-onym" title="-onym">-onym</a></i></li>
-<li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a>
-<ul><li><a href="/wiki/Identifier" title="Identifier">Identifier</a></li></ul></li>
-<li><a href="/wiki/Proper_name" class="mw-redirect" title="Proper name">Proper name</a></li>
-<li><a href="/wiki/Signature" title="Signature">Signature</a>
-<ul><li><a href="/wiki/Monogram" title="Monogram">Monogram</a></li>
-<li><a href="/wiki/Signum_manus" title="Signum manus">Signum manus</a></li>
-<li><a href="/wiki/Tughra" title="Tughra">Tughra</a></li></ul></li>
-<li><a href="/wiki/Naming_taboo" title="Naming taboo">Naming taboo</a></li></ul>
-</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
-<ul><li><a href="/wiki/Category:Lists_of_names" title="Category:Lists of names">Category:Lists of names</a></li></ul>
+<ul><li><cite class="citation journal">Deriabin, V. E. (1987). "Age-related changes in human body proportions studied by the method of principal components". <i>Nauchnye Doklady Vysshei Shkoly. Biologicheskie Nauki</i> (1): 50–55. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/3828410">3828410</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nauchnye+Doklady+Vysshei+Shkoly.+Biologicheskie+Nauki&amp;rft.atitle=Age-related+changes+in+human+body+proportions+studied+by+the+method+of+principal+components&amp;rft.issue=1&amp;rft.pages=50-55&amp;rft.date=1987&amp;rft_id=info%3Apmid%2F3828410&amp;rft.aulast=Deriabin&amp;rft.aufirst=V.+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABody+proportions" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation journal">Bogin, B; Varela-Silva, M. I. (2010). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2872302">"Leg length, body proportion, and health: A review with a note on beauty"</a>. <i>International Journal of Environmental Research and Public Health</i>. <b>7</b> (3): 1047–75. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.3390%2Fijerph7031047">10.3390/ijerph7031047</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2872302">2872302</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/20617018">20617018</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Journal+of+Environmental+Research+and+Public+Health&amp;rft.atitle=Leg+length%2C+body+proportion%2C+and+health%3A+A+review+with+a+note+on+beauty&amp;rft.volume=7&amp;rft.issue=3&amp;rft.pages=1047-75&amp;rft.date=2010&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2872302&amp;rft_id=info%3Apmid%2F20617018&amp;rft_id=info%3Adoi%2F10.3390%2Fijerph7031047&amp;rft.aulast=Bogin&amp;rft.aufirst=B&amp;rft.au=Varela-Silva%2C+M.+I.&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2872302&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABody+proportions" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation journal">Chan, Y; Salem, R. M.; Hsu, Y. H.; McMahon, G; Pers, T. H.; Vedantam, S; Esko, T; Guo, M. H.; Lim, E. T.; Giant, Consortium; Franke, L; Smith, G. D.; Strachan, D. P.; Hirschhorn, J. N. (2015). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4570286">"Genome-wide Analysis of Body Proportion Classifies Height-Associated Variants by Mechanism of Action and Implicates Genes Important for Skeletal Development"</a>. <i>The American Journal of Human Genetics</i>. <b>96</b> (5): 695–708. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.ajhg.2015.02.018">10.1016/j.ajhg.2015.02.018</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4570286">4570286</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/25865494">25865494</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+American+Journal+of+Human+Genetics&amp;rft.atitle=Genome-wide+Analysis+of+Body+Proportion+Classifies+Height-Associated+Variants+by+Mechanism+of+Action+and+Implicates+Genes+Important+for+Skeletal+Development&amp;rft.volume=96&amp;rft.issue=5&amp;rft.pages=695-708&amp;rft.date=2015&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4570286&amp;rft_id=info%3Apmid%2F25865494&amp;rft_id=info%3Adoi%2F10.1016%2Fj.ajhg.2015.02.018&amp;rft.aulast=Chan&amp;rft.aufirst=Y&amp;rft.au=Salem%2C+R.+M.&amp;rft.au=Hsu%2C+Y.+H.&amp;rft.au=McMahon%2C+G&amp;rft.au=Pers%2C+T.+H.&amp;rft.au=Vedantam%2C+S&amp;rft.au=Esko%2C+T&amp;rft.au=Guo%2C+M.+H.&amp;rft.au=Lim%2C+E.+T.&amp;rft.au=Giant%2C+Consortium&amp;rft.au=Franke%2C+L&amp;rft.au=Smith%2C+G.+D.&amp;rft.au=Strachan%2C+D.+P.&amp;rft.au=Hirschhorn%2C+J.+N.&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4570286&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABody+proportions" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation journal">Alley, Thomas R. (Feb 1983). "Growth-Produced Changes in Body Shape and Size as Determinants of Perceived Age and Adult Caregiving". <i>Child Development</i>. <b>54</b> (1): 241–248. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.2307%2F1129882">10.2307/1129882</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/1129882">1129882</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Child+Development&amp;rft.atitle=Growth-Produced+Changes+in+Body+Shape+and+Size+as+Determinants+of+Perceived+Age+and+Adult+Caregiving&amp;rft.volume=54&amp;rft.issue=1&amp;rft.pages=241-248&amp;rft.date=1983-02&amp;rft_id=info%3Adoi%2F10.2307%2F1129882&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F1129882&amp;rft.aulast=Alley&amp;rft.aufirst=Thomas+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABody+proportions" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation journal">Pittenger, John B. (1990). "Body proportions as information for age and cuteness: Animals in illustrated children's books". <i>Perception &amp; Psychophysics</i>. <b>48</b> (2): 124–30. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.3758%2FBF03207078">10.3758/BF03207078</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/2385485">2385485</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Perception+%26+Psychophysics&amp;rft.atitle=Body+proportions+as+information+for+age+and+cuteness%3A+Animals+in+illustrated+children%27s+books&amp;rft.volume=48&amp;rft.issue=2&amp;rft.pages=124-30&amp;rft.date=1990&amp;rft_id=info%3Adoi%2F10.3758%2FBF03207078&amp;rft_id=info%3Apmid%2F2385485&amp;rft.aulast=Pittenger&amp;rft.aufirst=John+B.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABody+proportions" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><a rel="nofollow" class="external text" href="http://www.spirxpert.com/collegeUK/e.htm">Changing body proportions during growth</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Mathematics_and_art" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Mathematics_and_art" title="Template:Mathematics and art"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Mathematics_and_art" title="Template talk:Mathematics and art"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Mathematics_and_art&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Mathematics_and_art" style="font-size:114%;margin:0 4em"><a href="/wiki/Mathematics_and_art" title="Mathematics and art">Mathematics and art</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Concepts</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Algorithm" title="Algorithm">Algorithm</a></li>
+<li><a href="/wiki/Catenary" title="Catenary">Catenary</a></li>
+<li><a href="/wiki/Fractal" title="Fractal">Fractal</a></li>
+<li><a href="/wiki/Golden_ratio" title="Golden ratio">Golden ratio</a></li>
+<li><a href="/wiki/Plastic_number" title="Plastic number">Plastic number</a></li>
+<li><a href="/wiki/Hyperboloid_structure" title="Hyperboloid structure">Hyperboloid structure</a></li>
+<li><a href="/wiki/Minimal_surface" title="Minimal surface">Minimal surface</a></li>
+<li><a href="/wiki/Paraboloid" title="Paraboloid">Paraboloid</a></li>
+<li><a href="/wiki/Perspective_(graphical)" title="Perspective (graphical)">Perspective</a>
+<ul><li><a href="/wiki/Camera_lucida" title="Camera lucida">Camera lucida</a></li>
+<li><a href="/wiki/Camera_obscura" title="Camera obscura">Camera obscura</a></li></ul></li>
+<li><a href="/wiki/Projective_geometry" title="Projective geometry">Projective geometry</a></li>
+<li>Proportion
+<ul><li><a href="/wiki/Proportion_(architecture)" title="Proportion (architecture)">Architecture</a></li>
+<li><a class="mw-selflink selflink">Human</a></li></ul></li>
+<li><a href="/wiki/Symmetry" title="Symmetry">Symmetry</a></li>
+<li><a href="/wiki/Tessellation" title="Tessellation">Tessellation</a></li>
+<li><a href="/wiki/Wallpaper_group" title="Wallpaper group">Wallpaper group</a></li></ul>
+</div></td><td class="navbox-image" rowspan="9" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:FWF_Samuel_Monnier_(vertical_detail).jpg" class="image" title="Fibonacci word: detail of artwork by Samuel Monnier, 2009"><img alt="Fibonacci word: detail of artwork by Samuel Monnier, 2009" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/FWF_Samuel_Monnier_%28vertical_detail%29.jpg/75px-FWF_Samuel_Monnier_%28vertical_detail%29.jpg" decoding="async" width="75" height="187" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/FWF_Samuel_Monnier_%28vertical_detail%29.jpg/113px-FWF_Samuel_Monnier_%28vertical_detail%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/FWF_Samuel_Monnier_%28vertical_detail%29.jpg/150px-FWF_Samuel_Monnier_%28vertical_detail%29.jpg 2x" data-file-width="281" data-file-height="700" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Forms</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Algorithmic_art" title="Algorithmic art">Algorithmic art</a></li>
+<li><a href="/wiki/Anamorphosis" title="Anamorphosis">Anamorphic art</a></li>
+<li><a href="/wiki/Computer_art" title="Computer art">Computer art</a></li>
+<li><a href="/wiki/Fourth_dimension_in_art" title="Fourth dimension in art">4D art</a></li>
+<li><a href="/wiki/Fractal_art" title="Fractal art">Fractal art</a></li>
+<li><a href="/wiki/Islamic_geometric_patterns" title="Islamic geometric patterns">Islamic geometric patterns</a>
+<ul><li><a href="/wiki/Girih" title="Girih">Girih</a></li>
+<li><a href="/wiki/Jali" title="Jali">Jali</a></li>
+<li><a href="/wiki/Muqarnas" title="Muqarnas">Muqarnas</a></li>
+<li><a href="/wiki/Zellige" title="Zellige">Zellige</a></li></ul></li>
+<li><a href="/wiki/Knot" title="Knot">Knotting</a>
+<ul><li><a href="/wiki/Celtic_knot" title="Celtic knot">Celtic knot</a></li>
+<li><a href="/wiki/Croatian_Interlace" class="mw-redirect" title="Croatian Interlace">Croatian Interlace</a></li>
+<li><a href="/wiki/Interlace_(art)" title="Interlace (art)">Interlace (art)</a></li></ul></li>
+<li><a href="/wiki/Mathematics_and_architecture" title="Mathematics and architecture">Architecture</a>
+<ul><li><a href="/wiki/Geodesic_dome" title="Geodesic dome">Geodesic dome</a></li>
+<li><a href="/wiki/Islamic_architecture" title="Islamic architecture">Islamic</a></li>
+<li><a href="/wiki/Mughal_architecture" title="Mughal architecture">Mughal</a></li>
+<li><a href="/wiki/Pyramid" title="Pyramid">Pyramid</a></li>
+<li><a href="/wiki/Vastu_shastra" title="Vastu shastra">Vastu shastra</a></li></ul></li>
+<li><a href="/wiki/Music_and_mathematics" title="Music and mathematics">Music</a></li>
+<li><a href="/wiki/Origami" title="Origami">Origami</a></li>
+<li><a href="/wiki/Mathematics_and_fiber_arts" title="Mathematics and fiber arts">Textiles</a></li>
+<li><a href="/wiki/String_art" title="String art">String art</a></li>
+<li><a href="/wiki/Mathematical_sculpture" title="Mathematical sculpture">Sculpture</a></li>
+<li><a href="/wiki/Tiling_(mathematics)" class="mw-redirect" title="Tiling (mathematics)">Tiling</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Artworks</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_works_designed_with_the_golden_ratio" title="List of works designed with the golden ratio">List of works designed with the golden ratio</a></li>
+<li><i><a href="/wiki/Continuum_(sculpture)" title="Continuum (sculpture)">Continuum</a></i></li>
+<li><i><a href="/wiki/Octacube_(sculpture)" title="Octacube (sculpture)">Octacube</a></i></li>
+<li><i><a href="/wiki/Pi_(art_project)" title="Pi (art project)">Pi</a></i></li>
+<li><i><a href="/wiki/Pi_in_the_Sky" title="Pi in the Sky">Pi in the Sky</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Mathematics_and_architecture" title="Mathematics and architecture">Buildings</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hagia_Sophia" title="Hagia Sophia">Hagia Sophia</a></li>
+<li><a href="/wiki/Pantheon,_Rome" title="Pantheon, Rome">Pantheon</a></li>
+<li><a href="/wiki/Parthenon" title="Parthenon">Parthenon</a></li>
+<li><a href="/wiki/Great_Pyramid_of_Giza" title="Great Pyramid of Giza">Pyramid of Khufu</a></li>
+<li><a href="/wiki/Sagrada_Fam%C3%ADlia" title="Sagrada Família">Sagrada Família</a></li>
+<li><a href="/wiki/Cathedral_of_Saint_Mary_of_the_Assumption_(San_Francisco,_California)" title="Cathedral of Saint Mary of the Assumption (San Francisco, California)">St Mary's Cathedral</a></li>
+<li><a href="/wiki/Sydney_Opera_House" title="Sydney Opera House">Sydney Opera House</a></li>
+<li><a href="/wiki/Taj_Mahal" title="Taj Mahal">Taj Mahal</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_mathematical_artists" title="List of mathematical artists">Artists</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Renaissance</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Paolo_Uccello" title="Paolo Uccello">Paolo Uccello</a></li>
+<li><a href="/wiki/Piero_della_Francesca" title="Piero della Francesca">Piero della Francesca</a></li>
+<li><a href="/wiki/Albrecht_D%C3%BCrer" title="Albrecht Dürer">Albrecht Dürer</a></li>
+<li><a href="/wiki/Leonardo_da_Vinci" title="Leonardo da Vinci">Leonardo da Vinci</a>
+<ul><li><i><a href="/wiki/Vitruvian_Man" title="Vitruvian Man">Vitruvian Man</a></i></li></ul></li>
+<li><a href="/wiki/Parmigianino" title="Parmigianino">Parmigianino</a>
+<ul><li><i><a href="/wiki/Self-portrait_in_a_Convex_Mirror" title="Self-portrait in a Convex Mirror">Self-portrait in a Convex Mirror</a></i></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">19th–20th Century</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/William_Blake" title="William Blake">William Blake</a>
+<ul><li><i><a href="/wiki/The_Ancient_of_Days" title="The Ancient of Days">The Ancient of Days</a></i></li>
+<li><i><a href="/wiki/Newton_(Blake)" title="Newton (Blake)">Newton</a></i></li></ul></li>
+<li><a href="/wiki/Giorgio_de_Chirico" title="Giorgio de Chirico">Giorgio de Chirico</a></li>
+<li><a href="/wiki/Salvador_Dal%C3%AD" title="Salvador Dalí">Salvador Dalí</a>
+<ul><li><i><a href="/wiki/Crucifixion_(Corpus_Hypercubus)" title="Crucifixion (Corpus Hypercubus)">Crucifixion</a></i></li>
+<li><i><a href="/wiki/The_Swallow%27s_Tail" title="The Swallow&#39;s Tail">The Swallow's Tail</a></i></li></ul></li>
+<li><a href="/wiki/M._C._Escher" title="M. C. Escher">M. C. Escher</a>
+<ul><li><i><a href="/wiki/Circle_Limit_III" title="Circle Limit III">Circle Limit III</a></i></li>
+<li><i><a href="/wiki/Print_Gallery_(M._C._Escher)" title="Print Gallery (M. C. Escher)">Print Gallery</a></i></li>
+<li><i><a href="/wiki/Relativity_(M._C._Escher)" title="Relativity (M. C. Escher)">Relativity</a></i></li>
+<li><i><a href="/wiki/Reptiles_(M._C._Escher)" title="Reptiles (M. C. Escher)">Reptiles</a></i></li>
+<li><i><a href="/wiki/Waterfall_(M._C._Escher)" title="Waterfall (M. C. Escher)">Waterfall</a></i></li></ul></li>
+<li><a href="/wiki/Crockett_Johnson" title="Crockett Johnson">Crockett Johnson</a></li>
+<li><a href="/wiki/Ren%C3%A9_Magritte" title="René Magritte">René Magritte</a>
+<ul><li><i><a href="/wiki/The_Human_Condition_(painting)" class="mw-redirect" title="The Human Condition (painting)">La condition humaine</a></i></li></ul></li>
+<li><a href="/wiki/Jean_Metzinger" title="Jean Metzinger">Jean Metzinger</a>
+<ul><li><i><a href="/wiki/Dancer_in_a_caf%C3%A9" class="mw-redirect" title="Dancer in a café">Danseuse au café</a></i></li>
+<li><i><a href="/wiki/L%27Oiseau_bleu_(Metzinger)" title="L&#39;Oiseau bleu (Metzinger)">L'Oiseau bleu</a></i></li></ul></li>
+<li><a href="/wiki/Man_Ray" title="Man Ray">Man Ray</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Contemporary</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Max_Bill" title="Max Bill">Max Bill</a></li>
+<li><a href="/wiki/Martin_Demaine" title="Martin Demaine">Martin</a> and <a href="/wiki/Erik_Demaine" title="Erik Demaine">Erik Demaine</a></li>
+<li><a href="/wiki/Scott_Draves" title="Scott Draves">Scott Draves</a></li>
+<li><a href="/wiki/Jan_Dibbets" title="Jan Dibbets">Jan Dibbets</a></li>
+<li><a href="/wiki/John_Ernest" title="John Ernest">John Ernest</a></li>
+<li><a href="/wiki/Helaman_Ferguson" title="Helaman Ferguson">Helaman Ferguson</a></li>
+<li><a href="/wiki/Peter_Forakis" title="Peter Forakis">Peter Forakis</a></li>
+<li><a href="/wiki/Bathsheba_Grossman" title="Bathsheba Grossman">Bathsheba Grossman</a></li>
+<li><a href="/wiki/George_W._Hart" title="George W. Hart">George W. Hart</a></li>
+<li><a href="/wiki/Desmond_Paul_Henry" title="Desmond Paul Henry">Desmond Paul Henry</a></li>
+<li><a href="/wiki/John_A._Hiigli" title="John A. Hiigli">John A. Hiigli</a></li>
+<li><a href="/wiki/Anthony_Hill_(artist)" title="Anthony Hill (artist)">Anthony Hill</a></li>
+<li><a href="/wiki/Charles_Jencks" title="Charles Jencks">Charles Jencks</a>
+<ul><li><i><a href="/wiki/Garden_of_Cosmic_Speculation" title="Garden of Cosmic Speculation">Garden of Cosmic Speculation</a></i></li></ul></li>
+<li><a href="/wiki/Robert_Longhurst" title="Robert Longhurst">Robert Longhurst</a></li>
+<li><a href="/wiki/Istv%C3%A1n_Orosz" title="István Orosz">István Orosz</a></li>
+<li><a href="/wiki/Hinke_Osinga" title="Hinke Osinga">Hinke Osinga</a></li>
+<li><a href="/wiki/Hamid_Naderi_Yeganeh" title="Hamid Naderi Yeganeh">Hamid Naderi Yeganeh</a>
+<ul><li><i><a href="/wiki/A_Bird_in_Flight" title="A Bird in Flight">A Bird in Flight</a></i></li>
+<li><i><a href="/wiki/Boat_(drawing)" title="Boat (drawing)">Boat</a></i></li></ul></li>
+<li><a href="/wiki/Tony_Robbin" title="Tony Robbin">Tony Robbin</a></li>
+<li><a href="/wiki/Oliver_Sin" title="Oliver Sin">Oliver Sin</a></li>
+<li><a href="/wiki/Hiroshi_Sugimoto" title="Hiroshi Sugimoto">Hiroshi Sugimoto</a></li>
+<li><a href="/wiki/Daina_Taimina" title="Daina Taimina">Daina Taimina</a></li>
+<li><a href="/wiki/Roman_Verostko" title="Roman Verostko">Roman Verostko</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Theorists</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Ancient</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Polykleitos" title="Polykleitos">Polykleitos</a>
+<ul><li><i>Canon</i></li></ul></li>
+<li><a href="/wiki/Vitruvius" title="Vitruvius">Vitruvius</a>
+<ul><li><i><a href="/wiki/De_architectura" title="De architectura">De architectura</a></i></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Renaissance</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Luca_Pacioli" title="Luca Pacioli">Luca Pacioli</a>
+<ul><li><i><a href="/wiki/De_divina_proportione" class="mw-redirect" title="De divina proportione">De divina proportione</a></i></li></ul></li>
+<li><a href="/wiki/Piero_della_Francesca" title="Piero della Francesca">Piero della Francesca</a>
+<ul><li><i><a href="/wiki/De_Prospectiva_Pingendi" class="mw-redirect" title="De Prospectiva Pingendi">De prospectiva pingendi</a></i></li></ul></li>
+<li><a href="/wiki/Leon_Battista_Alberti" title="Leon Battista Alberti">Leon Battista Alberti</a>
+<ul><li><i><a href="/wiki/De_pictura" title="De pictura">De pictura</a></i></li>
+<li><i><a href="/wiki/De_re_aedificatoria" title="De re aedificatoria">De re aedificatoria</a></i></li></ul></li>
+<li><a href="/wiki/Sebastiano_Serlio" title="Sebastiano Serlio">Sebastiano Serlio</a>
+<ul><li><i>Regole generali d'architettura</i></li></ul></li>
+<li><a href="/wiki/Andrea_Palladio" title="Andrea Palladio">Andrea Palladio</a>
+<ul><li><i><a href="/wiki/I_quattro_libri_dell%27architettura" title="I quattro libri dell&#39;architettura">I quattro libri dell'architettura</a></i></li></ul></li>
+<li><a href="/wiki/Albrecht_D%C3%BCrer" title="Albrecht Dürer">Albrecht Dürer</a>
+<ul><li><i>Vier Bücher von Menschlicher Proportion</i></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Romantic</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Frederik_Macody_Lund" title="Frederik Macody Lund">Frederik Macody Lund</a>
+<ul><li>"Ad Quadratum"</li></ul></li>
+<li><a href="/wiki/Jay_Hambidge" title="Jay Hambidge">Jay Hambidge</a>
+<ul><li>"The Greek Vase"</li></ul></li>
+<li><a href="/wiki/Samuel_Colman" title="Samuel Colman">Samuel Colman</a>
+<ul><li>"Nature's Harmonic Unity"</li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Modern</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Owen_Jones_(architect)" title="Owen Jones (architect)">Owen Jones</a>
+<ul><li><i><a href="/wiki/Owen_Jones_(architect)#The_Grammar_of_Ornament" title="Owen Jones (architect)">The Grammar of Ornament</a></i></li></ul></li>
+<li><a href="/wiki/Ernest_Hanbury_Hankin" title="Ernest Hanbury Hankin">Ernest Hanbury Hankin</a>
+<ul><li><i>The Drawing of Geometric Patterns in Saracenic Art</i></li></ul></li>
+<li><a href="/wiki/G._H._Hardy" title="G. H. Hardy">G. H. Hardy</a>
+<ul><li><i><a href="/wiki/A_Mathematician%27s_Apology" title="A Mathematician&#39;s Apology">A Mathematician's Apology</a></i></li></ul></li>
+<li><a href="/wiki/George_David_Birkhoff" title="George David Birkhoff">George David Birkhoff</a>
+<ul><li><i>Aesthetic Measure</i></li></ul></li>
+<li><a href="/wiki/Douglas_Hofstadter" title="Douglas Hofstadter">Douglas Hofstadter</a>
+<ul><li><i><a href="/wiki/G%C3%B6del,_Escher,_Bach" title="Gödel, Escher, Bach">Gödel, Escher, Bach</a></i></li></ul></li>
+<li><a href="/wiki/Nikos_Salingaros" title="Nikos Salingaros">Nikos Salingaros</a>
+<ul><li><i>The 'Life' of a Carpet</i></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Publications</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Journal_of_Mathematics_and_the_Arts" title="Journal of Mathematics and the Arts">Journal of Mathematics and the Arts</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Organizations</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ars_Mathematica_(organization)" title="Ars Mathematica (organization)">Ars Mathematica</a></li>
+<li><a href="/wiki/The_Bridges_Organization" title="The Bridges Organization">The Bridges Organization</a></li>
+<li><a href="/wiki/European_Society_for_Mathematics_and_the_Arts" title="European Society for Mathematics and the Arts">European Society for Mathematics and the Arts</a></li>
+<li><a href="/wiki/Goudreau_Museum_of_Mathematics_in_Art_and_Science" title="Goudreau Museum of Mathematics in Art and Science">Goudreau Museum of Mathematics in Art and Science</a></li>
+<li><a href="/wiki/Institute_For_Figuring" title="Institute For Figuring">Institute For Figuring</a></li>
+<li><a href="/wiki/Museum_of_Mathematics" class="mw-redirect" title="Museum of Mathematics">Museum of Mathematics</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related topics</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Droste_effect" title="Droste effect">Droste effect</a></li>
+<li><a href="/wiki/Mathematical_beauty" title="Mathematical beauty">Mathematical beauty</a></li>
+<li><a href="/wiki/Patterns_in_nature" title="Patterns in nature">Patterns in nature</a></li>
+<li><a href="/wiki/Sacred_geometry" title="Sacred geometry">Sacred geometry</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Mathematics_and_art" title="Category:Mathematics and art">Category</a></b></li></ul>
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1240
-Cached time: 20191015172750
+Parsed by mw1245
+Cached time: 20191015172235
 Cache expiry: 2592000
 Dynamic content: false
-Complications: []
-CPU time usage: 0.480 seconds
-Real time usage: 0.654 seconds
-Preprocessor visited node count: 1421/1000000
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.940 seconds
+Real time usage: 1.202 seconds
+Preprocessor visited node count: 2223/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 47933/2097152 bytes
-Template argument size: 2869/2097152 bytes
-Highest expansion depth: 13/40
-Expensive parser function count: 1/500
-Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 7993/5000000 bytes
-Number of Wikibase entities loaded: 1/400
-Lua time usage: 0.111/10.000 seconds
-Lua memory usage: 2.77 MB/50 MB
+Post‐expand include size: 97106/2097152 bytes
+Template argument size: 2849/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 74092/5000000 bytes
+Number of Wikibase entities loaded: 4/400
+Lua time usage: 0.507/10.000 seconds
+Lua memory usage: 5.81 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  488.938      1 -total
- 33.09%  161.786      4 Template:ISBN
- 31.27%  152.879      1 Template:Clarification_needed
- 23.95%  117.114      1 Template:Fix-span
- 19.69%   96.294      4 Template:Catalog_lookup_link
- 14.45%   70.648      1 Template:Commons_category
- 12.11%   59.224      2 Template:Category_handler
- 10.73%   52.478      2 Template:Replace
-  7.94%   38.831      1 Template:Delink
-  6.77%   33.079      2 Template:Navbox
+100.00% 1024.211      1 -total
+ 47.04%  481.770      1 Template:Reflist
+ 43.27%  443.187     17 Template:Cite_journal
+ 10.18%  104.282      1 Template:Citation_needed
+  9.29%   95.140      2 Template:ISBN
+  8.84%   90.543      2 Template:Fix
+  6.50%   66.610      1 Template:Mathematical_art
+  6.31%   64.672      3 Template:Navbox
+  5.86%   60.042      5 Template:Category_handler
+  4.87%   49.903      1 Template:Commons_category
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:69624-0!canonical and timestamp 20191015172749 and revision id 888430952
+<!-- Saved in parser cache with key enwiki:pcache:idhash:934991-0!canonical and timestamp 20191015172234 and revision id 911703503
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=List_of_biblical_names&amp;oldid=888430952">https://en.wikipedia.org/w/index.php?title=List_of_biblical_names&amp;oldid=888430952</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Body_proportions&amp;oldid=911703503">https://en.wikipedia.org/w/index.php?title=Body_proportions&amp;oldid=911703503</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Lists_of_biblical_names" title="Category:Lists of biblical names">Lists of biblical names</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_February_2019" title="Category:Wikipedia articles needing clarification from February 2019">Wikipedia articles needing clarification from February 2019</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata_using_P373" title="Category:Commons category link is on Wikidata using P373">Commons category link is on Wikidata using P373</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Anatomy" title="Category:Anatomy">Anatomy</a></li><li><a href="/wiki/Category:Artistic_techniques" title="Category:Artistic techniques">Artistic techniques</a></li><li><a href="/wiki/Category:Human_body" title="Category:Human body">Human body</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_with_DOIs_inactive_as_of_2019_August" title="Category:Pages with DOIs inactive as of 2019 August">Pages with DOIs inactive as of 2019 August</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2012" title="Category:Articles with unsourced statements from August 2012">Articles with unsourced statements from August 2012</a></li><li><a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">All articles with specifically marked weasel-worded phrases</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_March_2016" title="Category:Articles with specifically marked weasel-worded phrases from March 2016">Articles with specifically marked weasel-worded phrases from March 2016</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_March_2016" title="Category:Wikipedia articles needing clarification from March 2016">Wikipedia articles needing clarification from March 2016</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -409,13 +445,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=List+of+biblical+names" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+biblical+names" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Body+proportions" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Body+proportions" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/List_of_biblical_names" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:List_of_biblical_names" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Body_proportions" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Body_proportions" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -430,7 +466,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/List_of_biblical_names">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=List_of_biblical_names&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=List_of_biblical_names&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Body_proportions">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Body_proportions&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Body_proportions&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -469,35 +505,35 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/List_of_biblical_names" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/List_of_biblical_names" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=List_of_biblical_names&amp;oldid=888430952" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=List_of_biblical_names&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1075643" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=List_of_biblical_names&amp;id=888430952" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Body_proportions" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Body_proportions" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Body_proportions&amp;oldid=911703503" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Body_proportions&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q150117" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Body_proportions&amp;id=911703503" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
 			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
 			<div class="body">
 								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Biblical_figures" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Biblical_names" hreflang="en">Wikiquote</a></li>				</ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Body_proportions" hreflang="en">Wikimedia Commons</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=List+of+biblical+names">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=List+of+biblical+names&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=List_of_biblical_names&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Body+proportions">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Body+proportions&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Body_proportions&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/S%C3%A8ng-keng_choan-i%C3%BA-b%C3%AAng-s%C3%BB_lia%CC%8Dt-toa%E2%81%BF" title="Sèng-keng choan-iú-bêng-sû lia̍t-toaⁿ – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%82%E0%BD%A6%E0%BD%B4%E0%BD%84%E0%BC%8B%E0%BD%A2%E0%BD%96%E0%BC%8B%E0%BD%80%E0%BE%B1%E0%BD%B2%E0%BC%8B%E0%BD%98%E0%BD%B2%E0%BD%84%E0%BC%8B%E0%BD%90%E0%BD%BC%E0%BC%8D" title="གསུང་རབ་ཀྱི་མིང་ཐོ། – Tibetan" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Piibli_tegelaste_loend" title="Piibli tegelaste loend – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Anexo:Nombres_b%C3%ADblicos" title="Anexo:Nombres bíblicos – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Daftar_nama_tokoh_dalam_Alkitab" title="Daftar nama tokoh dalam Alkitab – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-lfn"><a href="https://lfn.wikipedia.org/wiki/Nomes_de_persones_de_la_Biblia_(lista)" title="Nomes de persones de la Biblia (lista) – Lingua Franca Nova" lang="lfn" hreflang="lfn" class="interlanguage-link-target">Lingua Franca Nova</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%B1%D0%BB%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0" title="Библейские имена – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Luettelo_Raamatun_henkil%C3%B6ist%C3%A4" title="Luettelo Raamatun henkilöistä – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%91%D1%96%D0%B1%D0%BB%D1%96%D0%B9%D0%BD%D1%96_%D0%BE%D1%81%D0%BE%D0%B1%D0%B8" title="Біблійні особи – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1075643#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/K%C3%B6rperproportion" title="Körperproportion – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Lichaamsverhoudingen" title="Lichaamsverhoudingen – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E4%BA%BA%E4%BD%93%E6%AF%94%E7%8E%87" title="人体比率 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Propor%C3%A7%C3%B5es_humanas" title="Proporções humanas – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Telesna_razmerja" title="Telesna razmerja – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Proportionsl%C3%A4ran" title="Proportionsläran – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Proporsiyon_ng_katawan" title="Proporsiyon ng katawan – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%86%D1%96%D1%97_%D1%82%D1%96%D0%BB%D0%B0_%D0%BB%D1%8E%D0%B4%D0%B8%D0%BD%D0%B8" title="Пропорції тіла людини – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%A0%AD%E8%BA%AB" title="頭身 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q150117#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 19 March 2019, at 02:50<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 20 August 2019, at 15:57<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -508,7 +544,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=List_of_biblical_names&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Body_proportions&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -520,8 +556,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.480","walltime":"0.654","ppvisitednodes":{"value":1421,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":47933,"limit":2097152},"templateargumentsize":{"value":2869,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":7993,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  488.938      1 -total"," 33.09%  161.786      4 Template:ISBN"," 31.27%  152.879      1 Template:Clarification_needed"," 23.95%  117.114      1 Template:Fix-span"," 19.69%   96.294      4 Template:Catalog_lookup_link"," 14.45%   70.648      1 Template:Commons_category"," 12.11%   59.224      2 Template:Category_handler"," 10.73%   52.478      2 Template:Replace","  7.94%   38.831      1 Template:Delink","  6.77%   33.079      2 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.111","limit":"10.000"},"limitreport-memusage":{"value":2904342,"limit":52428800}},"cachereport":{"origin":"mw1240","timestamp":"20191015172750","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"List of biblical names","url":"https:\/\/en.wikipedia.org\/wiki\/List_of_biblical_names","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1075643","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1075643","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-08-09T03:17:25Z","dateModified":"2019-03-19T02:50:23Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/0b\/Smith%27s_Bible_Dictionary_1863.jpg","headline":"list of Wikimedia list articles"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":106,"wgHostname":"mw1321"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.940","walltime":"1.202","ppvisitednodes":{"value":2223,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":97106,"limit":2097152},"templateargumentsize":{"value":2849,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":74092,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00% 1024.211      1 -total"," 47.04%  481.770      1 Template:Reflist"," 43.27%  443.187     17 Template:Cite_journal"," 10.18%  104.282      1 Template:Citation_needed","  9.29%   95.140      2 Template:ISBN","  8.84%   90.543      2 Template:Fix","  6.50%   66.610      1 Template:Mathematical_art","  6.31%   64.672      3 Template:Navbox","  5.86%   60.042      5 Template:Category_handler","  4.87%   49.903      1 Template:Commons_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.507","limit":"10.000"},"limitreport-memusage":{"value":6093231,"limit":52428800}},"cachereport":{"origin":"mw1245","timestamp":"20191015172235","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Body proportions","url":"https:\/\/en.wikipedia.org\/wiki\/Body_proportions","sameAs":"http:\/\/www.wikidata.org\/entity\/Q150117","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q150117","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-08-27T14:58:17Z","dateModified":"2019-08-20T15:57:27Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/12\/Parmigianino_004.jpg"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw1267"});});</script>
 </body>
 </html>

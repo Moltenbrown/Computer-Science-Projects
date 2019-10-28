@@ -2,35 +2,35 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Dawson (surname) - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Dawson_(surname)","wgTitle":"Dawson (surname)","wgCurRevisionId":920720935,"wgRevisionId":920720935,"wgArticleId":13876065,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","All set index articles","Surnames","English-language surnames","Surnames of English origin","Patronymic surnames"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Dawson_(surname)",
-"wgRelevantArticleId":13876065,"wgRequestId":"Xa4qnApAADwAAJ2unp4AAAAL","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2674114","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready",
-"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.cite.tracking","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init",
-"ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Macdonald - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Macdonald","wgTitle":"Macdonald","wgCurRevisionId":917726654,"wgRevisionId":917726654,"wgArticleId":2176163,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: archived copy as title","Articles with short description","All set index articles","Surnames","Anglicised Scottish Gaelic-language surnames","Scottish surnames","Patronymic surnames"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":
+"Macdonald","wgRelevantArticleId":2176163,"wgRequestId":"XbJOdQpAAEUAACZE4TQAAACM","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"MacDonald","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Macdonald","wgWikibaseItemId":"Q2778569","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready",
+"user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging",
+"ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.2"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Dawson_(surname)"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Dawson_(surname)&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Dawson_(surname)&amp;action=edit"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Macdonald"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Macdonald&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Macdonald&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Dawson_(surname)"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Macdonald"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Dawson_surname rootpage-Dawson_surname skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Macdonald rootpage-Macdonald skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -39,248 +39,407 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Dawson (surname)</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Macdonald</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
-		<div id="contentSub"></div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=MacDonald&amp;redirect=no" class="mw-redirect" title="MacDonald">MacDonald</a>)</span></div>
 		
 		
 		
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em"><caption>Dawson</caption><tbody><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Origin</th></tr><tr><th scope="row">Meaning</th><td>"son of David"</td></tr><tr><th scope="row">Region of origin</th><td><a href="/wiki/England" title="England">England</a></td></tr><tr><td colspan="2" style="text-align:center;border-top: #a2a9b1 1px solid;">Frequency Comparisons:<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr></tbody></table>
-<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
-<tbody><tr>
-<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" decoding="async" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512" /></td>
-<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/Dawson" class="extiw" title="wiktionary:Dawson">Dawson</a></b></i> in Wiktionary, the free dictionary.</td></tr>
-</tbody></table>
-<p><b>Dawson</b> is an <a href="/wiki/England" title="England">English</a>/Irish/Scottish surname.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Notable persons with the 
-surname include:
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about the surname MacDonald (and similar). For other uses, see <a href="/wiki/Macdonald_(disambiguation)" class="mw-disambig" title="Macdonald (disambiguation)">Macdonald (disambiguation)</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable">"McDonald" redirects here. For the global fast food chain, see <a href="/wiki/McDonald%27s" title="McDonald&#39;s">McDonald's</a>.</div>
+<table class="infobox" style="width:22em"><caption>MacDonald, Macdonald, McDonald</caption><tbody><tr><th scope="row">Pronunciation</th><td>mɨkdɒnəld</td></tr><tr><th scope="row"><a href="/wiki/Language" title="Language">Language</a>(s)</th><td><a href="/wiki/Scottish_Gaelic_language" class="mw-redirect" title="Scottish Gaelic language">Scottish Gaelic</a></td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Origin</th></tr><tr><th scope="row">Meaning</th><td>"Son of <i>Dòmhnall</i>"</td></tr><tr><th scope="row">Region of origin</th><td><a href="/wiki/Scotland" title="Scotland">Scotland</a>/<a href="/wiki/Ireland" title="Ireland">Ireland</a></td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Other names</th></tr><tr><th scope="row">Variant form(s)</th><td><a href="/wiki/Donald" title="Donald">Donald</a>, <a href="/wiki/Donaldson_(surname)" class="mw-redirect" title="Donaldson (surname)">Donaldson</a> (surname), <a href="/wiki/McDonnell_(surname)" title="McDonnell (surname)">McDonnell</a>, MacDonnell, <a href="/wiki/MacDonell" title="MacDonell">MacDonell</a>, McConnell, MacConnell, O'Donnell, Donnell</td></tr><tr><td colspan="2" style="text-align:center;border-top: #a2a9b1 1px solid;"><sup id="cite_ref-fb_1-0" class="reference"><a href="#cite_note-fb-1">&#91;1&#93;</a></sup></td></tr></tbody></table>
+<p><b>MacDonald</b>, <b>Macdonald</b>, and <b>McDonald</b> is a <a href="/wiki/Scottish_name" class="mw-redirect" title="Scottish name">Scottish</a> and <a href="/wiki/Irish_name" title="Irish name">Irish</a> <a href="/wiki/Surname" title="Surname">surname</a>.
 </p>
-<ul><li><a href="/wiki/Aaron_Dawson" title="Aaron Dawson">Aaron Dawson</a> (born 1992), English footballer</li>
-<li><a href="/wiki/Abraham_Dawson" title="Abraham Dawson">Abraham Dawson</a> (1816–1884), Irish-Canadian Anglican cleric</li>
-<li><a href="/wiki/Adrian_Dawson" title="Adrian Dawson">Adrian Dawson</a> (born 1971), British author</li>
-<li><a href="/wiki/Aeneas_Dawson" title="Aeneas Dawson">Aeneas Dawson</a> (1810–1894), Scottish-Canadian priest and writer</li>
-<li><a href="/wiki/Agnes_Dawson" title="Agnes Dawson">Agnes Dawson</a> (1873–1953), British politician and trade unionist</li>
-<li><a href="/wiki/Alan_Dawson" title="Alan Dawson">Alan Dawson</a> (1929–1996), American drummer</li>
-<li><a href="/wiki/Alex_Dawson" title="Alex Dawson">Alex Dawson</a> (born 1940), Scottish football player</li>
-<li><a href="/w/index.php?title=Alexander_Dawson_(MP)&amp;action=edit&amp;redlink=1" class="new" title="Alexander Dawson (MP) (page does not exist)">Alexander Dawson (MP)</a> (<abbr title="circa">c.</abbr> 1771–1831), MP for <a href="/wiki/County_Louth_(UK_Parliament_constituency)" title="County Louth (UK Parliament constituency)">County Louth</a> 1826–1831</li>
-<li><a href="/wiki/Alexander_Dawson_(architect)" class="mw-redirect" title="Alexander Dawson (architect)">Alexander Dawson (architect)</a>, New South Wales Government Architect 1856–1862</li>
-<li><a href="/wiki/Alma_Dawson" title="Alma Dawson">Alma Dawson</a>, American scholar of librarianship</li>
-<li><a href="/wiki/Ambrose_Dawson" title="Ambrose Dawson">Ambrose Dawson</a> (1707–1794), English physician</li>
-<li><a href="/wiki/Anderson_Dawson" title="Anderson Dawson">Anderson Dawson</a> (1863–1910), Australian politician</li>
-<li><a href="/wiki/Andre_Dawson" title="Andre Dawson">Andre Dawson</a> (born 1954), American baseball player</li>
-<li><a href="/wiki/Andy_Dawson" title="Andy Dawson">Andy Dawson</a> (born 1978), English footballer</li>
-<li><a href="/wiki/Andy_Dawson_(footballer,_born_1979)" title="Andy Dawson (footballer, born 1979)">Andy Dawson (footballer, born 1979)</a> (born 1979), English footballer</li>
-<li><a href="/wiki/Dawson_murder_case" title="Dawson murder case">Angela Dawson</a> (died 2002), American community activist</li>
-<li><a href="/wiki/Angela_Dawson_(canoeist)" title="Angela Dawson (canoeist)">Angela Dawson (canoeist)</a> (born 1968), British canoer</li>
-<li><a href="/wiki/Anna_Dawson" title="Anna Dawson">Anna Dawson</a> (born 1937), English actress and singer</li>
-<li><a href="/wiki/Anne_Dawson_(broadcaster)" title="Anne Dawson (broadcaster)">Anne Dawson (broadcaster)</a>, English academic and former broadcast journalist</li>
-<li><a href="/wiki/Anne_Dawson_(secret_agent)" title="Anne Dawson (secret agent)">Anne Dawson (secret agent)</a> (1896–1989), British spy in occupied Belgium in WW1</li>
-<li><a href="/wiki/Anthony_Dawson" title="Anthony Dawson">Anthony Dawson</a> (1916–1992), Scottish actor</li>
-<li><a href="/wiki/Archibald_Dawson" title="Archibald Dawson">Archibald Dawson</a> (1892–1938), Scottish sculptor</li>
-<li><a href="/wiki/Archie_Owen_Dawson" title="Archie Owen Dawson">Archie Owen Dawson</a> (1898–1964), American federal judge</li>
-<li><a href="/wiki/Artie_Dawson" title="Artie Dawson">Artie Dawson</a> (1891–1982), Australian rules footballer</li>
-<li><a href="/wiki/Ashl%C3%A9_Dawson" title="Ashlé Dawson">Ashlé Dawson</a>, American choreographer, director, and dancer</li>
-<li><a href="/wiki/Ashley_Dawson" title="Ashley Dawson">Ashley Dawson</a>, American author, activist and professor</li>
-<li><a href="/wiki/Beatrice_Dawson" title="Beatrice Dawson">Beatrice Dawson</a> (1908–1976), British costume designer</li>
-<li><a href="/wiki/Benjamin_Dawson" title="Benjamin Dawson">Benjamin Dawson</a> (1729–1814), English minister and linguist</li>
-<li><a href="/wiki/Bernhard_Dawson" title="Bernhard Dawson">Bernhard Dawson</a> (1890–1960), American-Argentinian astronomer</li>
-<li><a href="/wiki/Bertrand_Dawson,_1st_Viscount_Dawson_of_Penn" title="Bertrand Dawson, 1st Viscount Dawson of Penn">Bertrand Dawson, 1st Viscount Dawson of Penn</a> (1864–1945), British physician</li>
-<li><a href="/wiki/Bess_Phipps_Dawson" title="Bess Phipps Dawson">Bess Phipps Dawson</a> (1916–1994), American painter</li>
-<li><a href="/wiki/Branden_Dawson" title="Branden Dawson">Branden Dawson</a> (born 1993), American basketball player</li>
-<li><a href="/wiki/Brendon_Dawson" title="Brendon Dawson">Brendon Dawson</a> (born 1967), Zimbabwean rugby union footballer and coach</li>
-<li><a href="/wiki/Brian_Dawson_(disambiguation)" class="mw-redirect mw-disambig" title="Brian Dawson (disambiguation)">Brian Dawson (disambiguation)</a></li>
-<li><a href="/wiki/Brigid_Dawson" title="Brigid Dawson">Brigid Dawson</a>, British musician</li>
-<li><a href="/wiki/Cameron_Dawson" title="Cameron Dawson">Cameron Dawson</a> (born 1995), English football player</li>
-<li><a href="/wiki/Carroll_Dawson" title="Carroll Dawson">Carroll Dawson</a>, American basketball assistant coach and general manager</li>
-<li><a href="/wiki/Chad_Dawson" title="Chad Dawson">Chad Dawson</a> (born 1982), American boxer</li>
-<li><a href="/wiki/Charles_Dawson_(disambiguation)" class="mw-disambig" title="Charles Dawson (disambiguation)">Charles Dawson (disambiguation)</a>
-<ul><li><a href="/wiki/Charles_Dawson" title="Charles Dawson">Charles Dawson</a> (1864–1916), British archaeologist</li>
-<li><a href="/wiki/Charles_B._Dawson" title="Charles B. Dawson">Charles B. Dawson</a>, American politician from California</li>
-<li><a href="/wiki/Charles_Eric_Dawson" title="Charles Eric Dawson">Charles Eric Dawson</a> (1922–1993), Canadian-American ichthyologist</li>
-<li><a href="/wiki/Charles_I._Dawson" title="Charles I. Dawson">Charles I. Dawson</a> (1881–1969), American federal judge from Kentucky</li></ul></li>
-<li><a href="/wiki/Christopher_Dawson" title="Christopher Dawson">Christopher Dawson</a> (1889–1970), British historian</li>
-<li><a href="/wiki/Clifton_Dawson" title="Clifton Dawson">Clifton Dawson</a> (born 1983), Canadian gridiron football player</li>
-<li><a href="/wiki/Clive_Dawson" title="Clive Dawson">Clive Dawson</a>, British screenwriter</li>
-<li><a href="/wiki/Coningsby_Dawson" title="Coningsby Dawson">Coningsby Dawson</a> (1883–1959), English-American novelist</li>
-<li><a href="/wiki/Craig_Dawson" title="Craig Dawson">Craig Dawson</a> (born 1990), English footballer</li>
-<li><a href="/wiki/Curt_Dawson" title="Curt Dawson">Curt Dawson</a> (c. 1942-1985), American stage and television actor</li>
-<li><a href="/wiki/Dale_Dawson" title="Dale Dawson">Dale Dawson</a> (born 1964), American football player</li>
-<li><a href="/wiki/Dan_Dawson" title="Dan Dawson">Dan Dawson</a> (born 1981), Canadian lacrosse player</li>
-<li><a href="/wiki/Daniel_Dawson" title="Daniel Dawson">Daniel Dawson</a> (born 1977), Australian kickboxer and boxer</li>
-<li><a href="/wiki/Daryl_Dawson" title="Daryl Dawson">Daryl Dawson</a> (born 1933), Australian judge and naval officer</li>
-<li><a href="/wiki/David_Dawson_(disambiguation)" class="mw-redirect mw-disambig" title="David Dawson (disambiguation)">David Dawson (disambiguation)</a></li>
-<li><a href="/wiki/Dawn_Dawson" title="Dawn Dawson">Dawn Dawson</a>, American jetski racer and commentator</li>
-<li><a href="/wiki/Dawson_Dawson-Walker" title="Dawson Dawson-Walker">Dawson Dawson-Walker</a> (1868–1934), British clergyman, classicist, theologian and academic</li>
-<li><a href="/wiki/Dennis_Dawson" title="Dennis Dawson">Dennis Dawson</a> (born 1949), Canadian politician</li>
-<li><a href="/wiki/Dermontti_Dawson" title="Dermontti Dawson">Dermontti Dawson</a> (born 1965), former American football player</li>
-<li><a href="/wiki/Digger_Dawson" title="Digger Dawson">Digger Dawson</a> (1905–?), English professional footballer</li>
-<li><a href="/wiki/Donald_A._Dawson" title="Donald A. Dawson">Donald Andrew Dawson</a> (born 1937), Canadian mathematician</li>
-<li><a href="/wiki/Donald_Dawson" title="Donald Dawson">Donald Shelton Dawson</a> (1908–2005), American lawyer and Presidential aide</li>
-<li><a href="/wiki/Duke_Dawson" title="Duke Dawson">Duke Dawson</a> (born 1996), American football player</li>
-<li><a href="/wiki/Eddie_Dawson" title="Eddie Dawson">Eddie Dawson</a> (1904–1979), English cricketer</li>
-<li><a href="/wiki/Edgar_Dawson_(rugby_league)" title="Edgar Dawson (rugby league)">Edgar Dawson (rugby league)</a> (1931–2015), English rugby league footballer</li>
-<li><a href="/wiki/Edgar_Gilmer_Dawson" title="Edgar Gilmer Dawson">Edgar Gilmer Dawson</a> (1830–1883), American lawyer, planter, and major</li>
-<li><a href="/wiki/Ellen_Dawson" title="Ellen Dawson">Ellen Dawson</a> (1900–1967), Scottish-American trade union activist</li>
-<li><a href="/wiki/Eric_Dawson" title="Eric Dawson">Eric Dawson</a> (born 1984), American basketball player</li>
-<li><a href="/wiki/Frances_L._Dawson" title="Frances L. Dawson">Frances L. Dawson</a> (1903&#8211;1995), American educator and politician</li>
-<li><a href="/wiki/Fred_Dawson" title="Fred Dawson">Fred Dawson</a> (1884–1965), American college sports coach</li>
-<li><a href="/wiki/Geoffrey_Dawson" title="Geoffrey Dawson">Geoffrey Dawson</a> (1874–1944), British newspaper editor</li>
-<li><a href="/wiki/George_Dawson_(disambiguation)" class="mw-redirect mw-disambig" title="George Dawson (disambiguation)">George Dawson (disambiguation)</a>
-<ul><li><a href="/wiki/George_Dawson_(author)" title="George Dawson (author)">George Dawson (author)</a> (1898–2001), American author</li>
-<li><a href="/wiki/George_Dawson_(preacher)" title="George Dawson (preacher)">George Dawson (preacher)</a> (1821–1876), English preacher</li>
-<li><a href="/wiki/George_Mercer_Dawson" title="George Mercer Dawson">George Mercer Dawson</a> (1849–1901), Canadian geologist</li>
-<li><a href="/wiki/George_Oscar_Dawson" title="George Oscar Dawson">George Oscar Dawson</a> (1825–1865), American politician and soldier</li></ul></li>
-<li><a href="/wiki/Geralyn_Dawson" title="Geralyn Dawson">Geralyn Dawson</a>, American romance novelist</li>
-<li><a href="/wiki/Gladys_Dawson" title="Gladys Dawson">Gladys Dawson</a> (1909–1993), English artist</li>
-<li><a href="/wiki/Glen_Dawson_(athlete)" title="Glen Dawson (athlete)">Glen Dawson (athlete)</a> (1906–1968), American steeplechase runner</li>
-<li><a href="/wiki/Glen_Dawson_(mountaineer)" title="Glen Dawson (mountaineer)">Glen Dawson (mountaineer)</a> (1912–2016), American mountaineer</li>
-<li><a href="/wiki/Greg_Dawson" title="Greg Dawson">Greg Dawson</a> (born 1950), American consumer rights columnist</li>
-<li><a href="/wiki/Hailey_Dawson" title="Hailey Dawson">Hailey Dawson</a> (born 2010), American girl with <a href="/wiki/3D_printing" title="3D printing">3D-printed</a> <a href="/wiki/Robotics" title="Robotics">robotic</a> hand</li>
-<li><a href="/wiki/Henry_Dawson_(disambiguation)" class="mw-redirect mw-disambig" title="Henry Dawson (disambiguation)">Henry Dawson (disambiguation)</a>
-<ul><li><a href="/wiki/Henry_Dawson_(cricketer)" title="Henry Dawson (cricketer)">Henry Dawson (cricketer)</a> (1791–1889), English cricketer</li>
-<li><a href="/wiki/Henry_Dawson_(artist)" title="Henry Dawson (artist)">Henry Dawson (artist)</a> (1811–1878), English painter</li>
-<li><a href="/wiki/Henry_B._Dawson" title="Henry B. Dawson">Henry B. Dawson</a> (1821–1889), American historian</li>
-<li><a href="/wiki/Henry_Gordon_Dawson" title="Henry Gordon Dawson">Henry Gordon Dawson</a> (1862–1918), Irish mathematician</li></ul></li>
-<li><a href="/wiki/Hilton_Dawson" title="Hilton Dawson">Hilton Dawson</a> (born 1953), British politician</li>
-<li><a href="/wiki/Horace_Dawson" title="Horace Dawson">Horace Dawson</a> (born 1926), American diplomat</li>
-<li><a href="/wiki/Jack_Dawson_(disambiguation)" class="mw-redirect mw-disambig" title="Jack Dawson (disambiguation)">Jack Dawson (disambiguation)</a>, several people</li>
-<li><a href="/wiki/Jaimie_Dawson" title="Jaimie Dawson">Jaimie Dawson</a> (born 1969), Canadian badminton player</li>
-<li><a href="/wiki/James_Dawson_(disambiguation)" class="mw-redirect mw-disambig" title="James Dawson (disambiguation)">James Dawson (disambiguation)</a></li>
-<li><a href="/wiki/Janet_Dawson" title="Janet Dawson">Janet Dawson</a> (born 1935), Australian artist</li>
-<li><a href="/wiki/Joseph_Dawson_(disambiguation)" class="mw-redirect mw-disambig" title="Joseph Dawson (disambiguation)">Joe or Joseph Dawson (disambiguation)</a>
-<ul><li><a href="/wiki/Joe_Dawson_(racing_driver)" title="Joe Dawson (racing driver)">Joe Dawson (racing driver)</a> (1889–1946), American race car driver</li></ul></li>
-<li><a href="/wiki/John_Dawson_(disambiguation)" class="mw-redirect mw-disambig" title="John Dawson (disambiguation)">John Dawson (disambiguation)</a>
-<ul><li><a href="/wiki/John_William_Dawson" title="John William Dawson">John William Dawson</a> (1820–1899), Canadian geologist and paleobotanist</li></ul></li>
-<li><a href="/wiki/Jonathan_Dawson" title="Jonathan Dawson">Jonathan Dawson</a> (1941–2013), Australian academic, filmmaker, film and literary critic and broadcaster</li>
-<li><a href="/wiki/Jonathan_Dawson_(footballer)" title="Jonathan Dawson (footballer)">Jonathan Dawson (footballer)</a>, English footballer</li>
-<li><a href="/wiki/Joy_Dawson" title="Joy Dawson">Joy Dawson</a>, American missionary and intercessor</li>
-<li><a href="/wiki/Kimya_Dawson" title="Kimya Dawson">Kimya Dawson</a> (born 1972), American singer-songwriter</li>
-<li><a href="/wiki/Len_Dawson" title="Len Dawson">Len Dawson</a> (born 1935), American football player</li>
-<li><a href="/wiki/Les_Dawson" title="Les Dawson">Les Dawson</a> (1931–1993), British comedian</li>
-<li><a href="/wiki/Lynne_Dawson" title="Lynne Dawson">Lynne Dawson</a> (born 1956), English soprano</li>
-<li><a href="/wiki/Mabel_Dawson" title="Mabel Dawson">Mabel Dawson</a> (1887–1965), Scottish artist</li>
-<li><a href="/wiki/Margaret_Dawson" title="Margaret Dawson">Margaret Dawson</a> (1770–1816), one of Australia's "founding mothers"</li>
-<li><a href="/wiki/Matt_Dawson" title="Matt Dawson">Matt Dawson</a> (born 1972), English rugby player</li>
-<li><a href="/wiki/Michael_Dawson_(disambiguation)" class="mw-redirect mw-disambig" title="Michael Dawson (disambiguation)">Michael Dawson (disambiguation)</a>, various, including:
-<ul><li><a href="/wiki/Michael_Dawson_(footballer)" title="Michael Dawson (footballer)">Michael Dawson (footballer)</a> (born 1983), English football player</li></ul></li>
-<li><a href="/wiki/Montagu_Dawson" title="Montagu Dawson">Montagu Dawson</a> (1919–2003), RAF officer</li>
-<li><a href="/wiki/Montague_Dawson" title="Montague Dawson">Montague Dawson</a> (1890–1973), maritime artist</li>
-<li>Nicholas Mosby Dawson, Texas Ranger killed during the <a href="/wiki/Dawson_massacre" title="Dawson massacre">Dawson massacre</a>, after whom it was named</li>
-<li><a href="/wiki/Ossie_Dawson" title="Ossie Dawson">Ossie Dawson</a> (1919–2008), South African cricketer</li>
-<li><a href="/wiki/Peter_Dawson_(disambiguation)" class="mw-redirect mw-disambig" title="Peter Dawson (disambiguation)">Peter Dawson (disambiguation)</a>
-<ul><li><a href="/wiki/Peter_Dawson_(bass-baritone)" title="Peter Dawson (bass-baritone)">Peter Dawson (bass-baritone)</a> (1882–1961), Australian singer</li></ul></li>
-<li><a href="/wiki/Phil_Dawson" title="Phil Dawson">Phil Dawson</a> (born 1975), American football player</li>
-<li><a href="/wiki/Phire_Dawson" class="mw-redirect" title="Phire Dawson">Phire Dawson</a>, American model</li>
-<li><a href="/wiki/Portia_Dawson" title="Portia Dawson">Portia Dawson</a>, American actress</li>
-<li><a href="/wiki/Rachel_Dawson" title="Rachel Dawson">Rachel Dawson</a> (born 1985), American field hockey player</li>
-<li><a href="/wiki/Rian_Dawson" class="mw-redirect" title="Rian Dawson">Rian Dawson</a>, American drummer</li>
-<li><a href="/wiki/Richard_Dawson_(disambiguation)" class="mw-disambig" title="Richard Dawson (disambiguation)">Richard Dawson (disambiguation)</a>
-<ul><li><a href="/wiki/Richard_Dawson" title="Richard Dawson">Richard Dawson</a> (1932–2012), British-American actor, comedian, and a game show host</li>
-<li><a href="/wiki/Richard_Dawson_(cricketer)" title="Richard Dawson (cricketer)">Richard Dawson (cricketer)</a> (born 1980), English cricketer</li>
-<li><a href="/wiki/Richard_C._Dawson" class="mw-redirect" title="Richard C. Dawson">Richard C. Dawson</a>, English thoroughbred horse trainer</li></ul></li>
-<li><a href="/wiki/Robert_Dawson_(disambiguation)" class="mw-redirect mw-disambig" title="Robert Dawson (disambiguation)">Robert Dawson (disambiguation)</a>
-<ul><li><a href="/wiki/Robert_Dawson_(wrestler)" title="Robert Dawson (wrestler)">Robert Dawson (wrestler)</a> (born 1963), Canadian wrestler</li>
-<li><a href="/wiki/Robert_Peel_Dawson" title="Robert Peel Dawson">Robert Peel Dawson</a> (1818–1877), Irish politician</li></ul></li>
-<li><a href="/wiki/Roger_Dawson" title="Roger Dawson">Roger Dawson</a> (born 1940), American jazz musician, composer, and DJ</li>
-<li><a href="/wiki/Ronnie_Dawson_(rugby_union)" title="Ronnie Dawson (rugby union)">Ronnie Dawson (rugby union)</a> (born 1932), Irish rugby player</li>
-<li><a href="/wiki/Rosario_Dawson" title="Rosario Dawson">Rosario Dawson</a> (born 1979), American actress</li>
-<li><a href="/wiki/Roxann_Dawson" title="Roxann Dawson">Roxann Dawson</a> (born 1958), American actress and director</li>
-<li><a href="/wiki/Sally_Dawson" title="Sally Dawson">Sally Dawson</a> (born 1955), American theoretical physicist</li>
-<li><a href="/wiki/Sandra_Dawson" title="Sandra Dawson">Sandra Dawson</a> (born 1946), British social scientist and academic</li>
-<li><a href="/wiki/Shane_Dawson" title="Shane Dawson">Shane Dawson</a> (born 1988), American comedian and actor</li>
-<li><a href="/wiki/Shawn_Dawson" title="Shawn Dawson">Shawn Dawson</a> (born 1993), Israeli basketball player</li>
-<li><a href="/wiki/Simon_James_Dawson" title="Simon James Dawson">Simon James Dawson</a> (1818–1902), Scottish-Canadian engineer and politician</li>
-<li><a href="/wiki/Smoky_Dawson" title="Smoky Dawson">Smoky Dawson</a> (1913–2008), Australian singer and entertainer</li>
-<li><a href="/wiki/Thomas_Dawson_(disambiguation)" class="mw-redirect mw-disambig" title="Thomas Dawson (disambiguation)">Thomas Dawson (disambiguation)</a>
-<ul><li><a href="/wiki/Thomas_Dawson_(soldier)" title="Thomas Dawson (soldier)">Thomas Dawson (soldier)</a> (1784–1846), American politician and soldier</li>
-<li><a href="/wiki/Thomas_Rayner_Dawson" title="Thomas Rayner Dawson">Thomas Rayner Dawson</a> (1889–1951), British chess problemist</li>
-<li><a href="/wiki/Tommy_Dawson_(footballer,_born_1901)" title="Tommy Dawson (footballer, born 1901)">Tommy Dawson (footballer, born 1901)</a> (1901–1977), English footballer</li></ul></li>
-<li><a href="/wiki/Trent_Dawson" title="Trent Dawson">Trent Dawson</a> (born 1971), American actor</li>
-<li><a href="/wiki/Walt_Dawson" title="Walt Dawson">Walt Dawson</a> (born 1982), American Alzheimer's disease activist</li>
-<li><a href="/wiki/Walter_Dawson_(RAF_officer)" title="Walter Dawson (RAF officer)">Walter Dawson (RAF officer)</a> (1902–1994), British air chief marshal</li>
-<li><a href="/wiki/William_Dawson_(disambiguation)" class="mw-redirect mw-disambig" title="William Dawson (disambiguation)">William Dawson (disambiguation)</a>
-<ul><li><a href="/wiki/William_Curran_Dawson" title="William Curran Dawson">William Curran Dawson</a> (1818–?), Alabama politician and soldier</li>
-<li><a href="/wiki/William_Crosby_Dawson" title="William Crosby Dawson">William Crosby Dawson</a> (1798–1856), American politician</li>
-<li><a href="/wiki/William_James_Dawson" title="William James Dawson">William James Dawson</a> (1854–?), English clergyman and author</li>
-<li><a href="/wiki/William_L._Dawson_(politician)" title="William L. Dawson (politician)">William L. Dawson (politician)</a> (1886–1970), American politician</li>
-<li><a href="/wiki/William_L._Dawson_(composer)" title="William L. Dawson (composer)">William L. Dawson (composer)</a> (1899–1990), composer</li>
-<li><a href="/wiki/William_M._O._Dawson" title="William M. O. Dawson">William M. O. Dawson</a> (1853–1916), American politician, Governor of West Virginia</li></ul></li></ul>
-<h2><span class="mw-headline" id="Characters">Characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dawson_(surname)&amp;action=edit&amp;section=1" title="Edit section: Characters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Antonio_Dawson" title="Antonio Dawson">Antonio Dawson</a>, a character on the television series <i>Chicago P.D.</i></li>
-<li><a href="/wiki/Caroline_Dawson" title="Caroline Dawson">Caroline Dawson</a>, a character in the UK drama series <i>Last Tango in Halifax</i></li>
-<li>Eddie Dawson, of <i><a href="/wiki/Monk_Dawson_(novel)" title="Monk Dawson (novel)">Monk Dawson</a>''</i> and the film adaptation <i><a href="/wiki/Monk_Dawson" title="Monk Dawson">Monk Dawson</a></i></li>
-<li>Frank Dawson, a character in the 1959–1960 syndicated TV series <i><a href="/wiki/This_Man_Dawson" title="This Man Dawson">This Man Dawson</a></i></li>
-<li>Jack Dawson, the lead character from the <i><a href="/wiki/Titanic_(1997_film)" title="Titanic (1997 film)">Titanic</a></i></li>
-<li><a href="/wiki/Joe_Dawson_(Highlander)" title="Joe Dawson (Highlander)">Joe Dawson (Highlander)</a>, a character on the TV show <i>Highlander</i></li>
-<li><a href="/wiki/J.M._Dawson" class="mw-redirect" title="J.M. Dawson">J.M. Dawson</a>, a character in the Tintin comic series adventure <i>The Blue Lotus</i>.</li>
-<li><a href="/wiki/Michael_Dawson_(Lost)" title="Michael Dawson (Lost)">Michael Dawson (Lost)</a>, a character on the TV show <i>Lost</i></li>
-<li><a href="/wiki/Monica_Dawson" title="Monica Dawson">Monica Dawson</a>, a character on the TV show <i>HEROES</i></li></ul>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dawson_(surname)&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Dawson_(disambiguation)" class="mw-redirect mw-disambig" title="Dawson (disambiguation)">Dawson (disambiguation)</a></li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dawson_(surname)&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="reflist" style="list-style-type: decimal;">
-<div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://forebears.co.uk/surnames/dawson">"Dawson Surname Meaning and Distribution"</a>. forebears.co.uk.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dawson+Surname+Meaning+and+Distribution&amp;rft.pub=forebears.co.uk&amp;rft_id=http%3A%2F%2Fforebears.co.uk%2Fsurnames%2Fdawson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADawson+%28surname%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style> Retrieved 23 January 2014</span>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Origins_and_variants"><span class="tocnumber">1</span> <span class="toctext">Origins and variants</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Frequency_and_distribution"><span class="tocnumber">2</span> <span class="toctext">Frequency and distribution</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Notable_people:_MacDonald_surname"><span class="tocnumber">3</span> <span class="toctext">Notable people: MacDonald surname</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notable_people:_Macdonald_surname_2"><span class="tocnumber">4</span> <span class="toctext">Notable people: Macdonald surname</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notable_people:_McDonald_surname"><span class="tocnumber">5</span> <span class="toctext">Notable people: McDonald surname</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Pseudonyms"><span class="tocnumber">6</span> <span class="toctext">Pseudonyms</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Given_names"><span class="tocnumber">7</span> <span class="toctext">Given names</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Relationships"><span class="tocnumber">8</span> <span class="toctext">Relationships</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Fictional_characters"><span class="tocnumber">9</span> <span class="toctext">Fictional characters</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Coronation_Street"><span class="tocnumber">9.1</span> <span class="toctext"><i>Coronation Street</i></span></a></li>
+</ul>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.surnamedb.com/Surname/Dawson">Dawson</a> SurnameDB </span>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">10</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Origins_and_variants">Origins and variants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Macdonald&amp;action=edit&amp;section=1" title="Edit section: Origins and variants">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The surname is an <a href="/wiki/Anglicised" class="mw-redirect" title="Anglicised">Anglicised</a> form of the <a href="/wiki/Scottish_Gaelic" title="Scottish Gaelic">Scottish Gaelic</a> and <a href="/wiki/Irish_Gaelic" class="mw-redirect" title="Irish Gaelic">Irish Gaelic</a> <i><b>MacDhòmhnaill</b></i> or <i><b>Dòmhnallach</b></i>.<sup id="cite_ref-m1_2-0" class="reference"><a href="#cite_note-m1-2">&#91;2&#93;</a></sup> The name is a <a href="/wiki/Patronym" class="mw-redirect" title="Patronym">patronym</a> meaning "son of Dòmhnall". The personal name <i>Dòmhnall</i> is composed of the elements <i>domno</i> "world" and <i>val</i> "might", "rule".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> According to <a href="/wiki/Alex_Woolf" title="Alex Woolf">Alex Woolf</a>, the Gaelic personal name is probably a borrowing from the <a href="/wiki/British_language_(Celtic)" class="mw-redirect" title="British language (Celtic)">British Celtic</a> <i><a href="/wiki/Dyfnwal_(disambiguation)" class="mw-redirect mw-disambig" title="Dyfnwal (disambiguation)">Dyfnwal</a></i>.
+</p><p>In the context of <a href="/wiki/Scottish_people" title="Scottish people">Scottish</a> <a href="/wiki/Clans" class="mw-redirect" title="Clans">clans</a>, the various forms of the name refer to one of the largest clans, <a href="/wiki/Clan_Donald" title="Clan Donald">Clan Donald</a>.
+</p>
+<h2><span class="mw-headline" id="Frequency_and_distribution">Frequency and distribution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Macdonald&amp;action=edit&amp;section=2" title="Edit section: Frequency and distribution">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In Scottish surname data, no distinction is made between, for instance, "Macdonald" and "MacDonald".<sup id="cite_ref-GROScotSurnames_4-0" class="reference"><a href="#cite_note-GROScotSurnames-4">&#91;4&#93;</a></sup> According to this data, the following frequency information can be collated:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Year(s)</th>
+<th>Macdonald Rank</th>
+<th>%freq<sup id="cite_ref-freqdef_5-0" class="reference"><a href="#cite_note-freqdef-5">&#91;5&#93;</a></sup></th>
+<th>McDonald Rank</th>
+<th>%freq
+</th></tr>
+<tr>
+<td>1855–1858<sup id="cite_ref-GROScotTblA3a_6-0" class="reference"><a href="#cite_note-GROScotTblA3a-6">&#91;6&#93;</a></sup></td>
+<td>2</td>
+<td>1.23</td>
+<td>&lt;50</td>
+<td>&lt;0.30
+</td></tr>
+<tr>
+<td>1935<sup id="cite_ref-GROScotTblA3a_6-1" class="reference"><a href="#cite_note-GROScotTblA3a-6">&#91;6&#93;</a></sup></td>
+<td>2</td>
+<td>1.03</td>
+<td>&lt;50</td>
+<td>&lt;0.28
+</td></tr>
+<tr>
+<td>1958<sup id="cite_ref-GROScotTblA3a_6-2" class="reference"><a href="#cite_note-GROScotTblA3a-6">&#91;6&#93;</a></sup></td>
+<td>3</td>
+<td>0.98</td>
+<td>&lt;50</td>
+<td>&lt;0.26
+</td></tr>
+<tr>
+<td>1976<sup id="cite_ref-GROScotTblA3b_7-0" class="reference"><a href="#cite_note-GROScotTblA3b-7">&#91;7&#93;</a></sup></td>
+<td>10</td>
+<td>0.59</td>
+<td>23</td>
+<td>0.40
+</td></tr>
+<tr>
+<td>1990<sup id="cite_ref-GROScotTblA3b_7-1" class="reference"><a href="#cite_note-GROScotTblA3b-7">&#91;7&#93;</a></sup></td>
+<td>10</td>
+<td>0.55</td>
+<td>32</td>
+<td>0.35
+</td></tr>
+<tr>
+<td>1999–2001<sup id="cite_ref-GROScotSurnames_4-1" class="reference"><a href="#cite_note-GROScotSurnames-4">&#91;4&#93;</a></sup><sup id="cite_ref-GROScotTblA3b_7-2" class="reference"><a href="#cite_note-GROScotTblA3b-7">&#91;7&#93;</a></sup></td>
+<td>9</td>
+<td>0.55</td>
+<td>24</td>
+<td>0.37
+</td></tr>
+<tr>
+<td>2014<sup id="cite_ref-fb_1-1" class="reference"><a href="#cite_note-fb-1">&#91;1&#93;</a></sup></td>
+<td>9</td>
+<td>0.35</td>
+<td>34</td>
+<td>0.21
+</td></tr></tbody></table>
+<dl><dt>Table References<sup id="cite_ref-freqdef_5-1" class="reference"><a href="#cite_note-freqdef-5">&#91;5&#93;</a></sup><sup id="cite_ref-GROScotTblA3a_6-3" class="reference"><a href="#cite_note-GROScotTblA3a-6">&#91;6&#93;</a></sup><sup id="cite_ref-GROScotTblA4_8-0" class="reference"><a href="#cite_note-GROScotTblA4-8">&#91;8&#93;</a></sup><sup id="cite_ref-GROScotTblA3b_7-3" class="reference"><a href="#cite_note-GROScotTblA3b-7">&#91;7&#93;</a></sup></dt></dl>
+<p>Frequency data from England of 1891 shows a concentration of families bearing the "Macdonald" surname in <a href="/wiki/Lancashire" title="Lancashire">Lancashire</a> and <a href="/wiki/Yorkshire" title="Yorkshire">Yorkshire</a> with a lower frequency in the northernmost counties, but overall widespread distribution throughout the country.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> "McDonald" shares the same pattern of distribution.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> Looking at contemporaneous data from the United States, coast-to-coast distribution of both "Macdonald" and "McDonald" appears in 1880.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> Looking back to 1840 in the United States, the prevalence of "McDonald" is far greater than that of "Macdonald", with concentration in the <a href="/wiki/Ohio" title="Ohio">Ohio</a>-<a href="/wiki/Pennsylvania" title="Pennsylvania">Pennsylvania</a>-<a href="/wiki/New_York_(state)" title="New York (state)">New York</a> corridor.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Notable_people:_MacDonald_surname">Notable people: MacDonald surname</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Macdonald&amp;action=edit&amp;section=3" title="Edit section: Notable people: MacDonald surname">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Born before 1400</b>
+</p>
+<ul><li><a href="/wiki/Alexander_of_Islay,_Earl_of_Ross" title="Alexander of Islay, Earl of Ross">Alexander of Islay, Earl of Ross</a></li></ul>
+<p><b>Born after 1400</b>
+</p>
+<ul><li><a href="/wiki/John_of_Islay,_Earl_of_Ross" title="John of Islay, Earl of Ross">John of Islay, Earl of Ross</a> (1434–1503), or "John MacDonald", Scottish ruler, Fourth <a href="/wiki/Lord_of_the_Isles" title="Lord of the Isles">Lord of the Isles</a> and Chief of the Highland Clan Donald</li></ul>
+<p><b>Born after 1700</b>
+</p>
+<ul><li><a href="/wiki/Flora_MacDonald" title="Flora MacDonald">Flora MacDonald</a> (1722–1790), Jacobite patriot who protected Bonnie Prince Charlie after the 1746 Battle of Culloden</li>
+<li><a href="/wiki/Jacques_MacDonald" title="Jacques MacDonald">Jacques MacDonald</a> (1765–1840), French Duke of Tarento and Marshal of the Empire under Napoleon I (2nd generation French; father was Scottish)</li>
+<li><a href="/wiki/John_MacDonald_of_Garth" title="John MacDonald of Garth">John MacDonald of Garth</a> (1771–1866), early partner in the North West Company</li>
+<li><a href="/wiki/John_Small_MacDonald" title="John Small MacDonald">John Small MacDonald</a> (c. 1791–1849), Canadian businessman and provincial politician</li></ul>
+<p><b>Born after 1800</b>
+</p>
+<ul><li><a href="/wiki/A._B._MacDonald" title="A. B. MacDonald">A. B. MacDonald</a> (born c. 1861), American journalist</li>
+<li><a href="/wiki/Beatrice_Mary_MacDonald" title="Beatrice Mary MacDonald">Beatrice Mary MacDonald</a> (1881–1969), American Army nurse during World War I</li>
+<li><a href="/wiki/Bob_MacDonald_(golfer)" title="Bob MacDonald (golfer)">Bob MacDonald</a> (1885–1960), Scottish-American professional golfer</li>
+<li><a href="/wiki/Claude_Maxwell_MacDonald" title="Claude Maxwell MacDonald">Claude Maxwell MacDonald</a> (1852–1915), British soldier and diplomat</li>
+<li><a href="/wiki/George_MacDonald" title="George MacDonald">George MacDonald</a> (1824–1905), Scottish-English author, poet, and Christian minister</li>
+<li><a href="/wiki/Hector_MacDonald" title="Hector MacDonald">Hector MacDonald</a> (1853–1903), Scottish Major-General of the British Army under Lord Kitchener</li>
+<li><a href="/wiki/John_Alexander_Macdonald" class="mw-redirect" title="John Alexander Macdonald">John Alexander Macdonald</a> (1815–1891), first <a href="/wiki/Canadian_prime_minister" class="mw-redirect" title="Canadian prime minister">Prime minister of Canada</a>, usually referred to as John A. Macdonald.</li>
+<li><a href="/wiki/John_L._MacDonald" title="John L. MacDonald">John L. MacDonald</a> (1838–1903), Scottish-American national politician</li>
+<li><a href="/wiki/Pirie_MacDonald" title="Pirie MacDonald">Pirie MacDonald</a> (1867–1942), American portrait photographer</li>
+<li><a href="/wiki/Ramsay_MacDonald" title="Ramsay MacDonald">Ramsay MacDonald</a> (1866–1937), Scottish politician, twice Prime Minister of the United Kingdom (son of "Macdonald" father and "Ramsay" mother, registered at birth as "James McDonald Ramsay")</li>
+<li><a href="/wiki/Ranald_MacDonald" title="Ranald MacDonald">Ranald MacDonald</a> (1834–1894), Scottish-Chinook educator. First man to teach the English language in Japan</li>
+<li><a href="/wiki/William_Josiah_MacDonald" title="William Josiah MacDonald">William Josiah MacDonald</a> (1873–1946), American lawyer and national politician</li></ul>
+<p><b>Born after 1900</b>
+</p>
+<ul><li><a href="/wiki/Jeanette_MacDonald" title="Jeanette MacDonald">Jeanette MacDonald</a> (1903–1965), American singer and actress</li>
+<li><a href="/wiki/Jimmy_MacDonald_(sound_effects_artist)" title="Jimmy MacDonald (sound effects artist)">Jimmy MacDonald (sound effects artist)</a> (1906-1991), Scottish-born American sound designer at <a href="/wiki/The_Walt_Disney_Company" title="The Walt Disney Company">Disney</a></li>
+<li><a href="/wiki/Jack_Macdonald_(sportsman)" title="Jack Macdonald (sportsman)">Jack Macdonald (sportsman)</a> (1908–1982), New Zealand rower</li>
+<li><a href="/wiki/James_Macdonald_(ornithologist)" title="James Macdonald (ornithologist)">James Macdonald (ornithologist)</a> (1908–2002), Scottish-Australian ornithologist</li>
+<li><a href="/wiki/Ian_MacDonald_(actor)" title="Ian MacDonald (actor)">Ian MacDonald (actor)</a> (1914–1978), American actor and director during the 1940s and 1960s</li>
+<li><a href="/wiki/Ross_Macdonald" title="Ross Macdonald">Ross Macdonald</a> (1915–1983), pseudonym of the American-Canadian writer Kenneth Millar</li>
+<li><a href="/wiki/John_D._MacDonald" title="John D. MacDonald">John D. MacDonald</a> (1916–1986), American novelist</li>
+<li><a href="/wiki/Virginia_B._MacDonald" title="Virginia B. MacDonald">Virginia B. MacDonald</a> (1920–2008), American politician</li>
+<li><a href="/wiki/Charles_B._MacDonald" title="Charles B. MacDonald">Charles B. MacDonald</a> (1922–1990), American World War II soldier and military historian</li>
+<li><a href="/wiki/Flora_MacDonald_(politician)" title="Flora MacDonald (politician)">Flora MacDonald</a> (1926&#8211;2015), Canadian politician</li>
+<li><a href="/wiki/Peter_MacDonald_(Navajo_leader)" title="Peter MacDonald (Navajo leader)">Peter MacDonald (Navajo leader)</a> (born 1928) former chairman of the Navajo Nation</li>
+<li><a href="/wiki/Jeffrey_R._MacDonald" title="Jeffrey R. MacDonald">Jeffrey R. MacDonald</a> (born 1943), American murderer</li>
+<li><a href="/wiki/Margo_MacDonald" title="Margo MacDonald">Margo MacDonald</a> (1943–2014), Scottish politician</li>
+<li><a href="/wiki/Kevin_B._MacDonald" class="mw-redirect" title="Kevin B. MacDonald">Kevin B. MacDonald</a> (born 1944), American psychology academic</li>
+<li><a href="/wiki/Ralph_MacDonald" title="Ralph MacDonald">Ralph MacDonald</a> (1944–2011), American percussionist, songwriter</li>
+<li><a href="/wiki/Linda_MacDonald" title="Linda MacDonald">Linda MacDonald</a> (born 1946), American multimedia artist and quilter</li>
+<li><a href="/wiki/John_MacDonald_(Canadian_musician)" title="John MacDonald (Canadian musician)">John MacDonald (Canadian musician)</a> (born 1948), Canadian musician of the French horn (current residence, Germany)</li></ul>
+<p><b>Born after 1950</b>
+</p>
+<ul><li><a href="/wiki/Alan_MacDonald_(rugby_union)" title="Alan MacDonald (rugby union)">Alan MacDonald (rugby union)</a> (born 1985), Scottish rugby union player</li>
+<li><a href="/wiki/Andrew_MacDonald_(ice_hockey)" title="Andrew MacDonald (ice hockey)">Andrew MacDonald (ice hockey)</a> (born 1986), Canadian ice hockey player</li>
+<li><a href="/wiki/Andrew_McDonald_(water_polo)" title="Andrew McDonald (water polo)">Andrew McDonald (water polo)</a> (born 1955), American water polo player</li>
+<li><a href="/wiki/Ann-Marie_MacDonald" title="Ann-Marie MacDonald">Ann-Marie MacDonald</a> (born 1958), Canadian playwright, novelist, actor and broadcast journalist (born in West Germany to Canadian military parents)</li>
+<li><a href="/wiki/Garry_MacDonald" title="Garry MacDonald">Garry MacDonald</a>, English footballer</li>
+<li><a href="/wiki/Heidi_MacDonald" title="Heidi MacDonald">Heidi MacDonald</a>, American comic book editor and comics critic</li>
+<li><a href="/wiki/Jason_MacDonald" title="Jason MacDonald">Jason MacDonald</a> (born 1975), Canadian Mixed martial artist</li>
+<li><a href="/wiki/Kevin_MacDonald_(footballer)" title="Kevin MacDonald (footballer)">Kevin MacDonald (footballer)</a> (born 1960), Scottish footballer</li>
+<li><a href="/wiki/Kirk_MacDonald_(ice_hockey)" title="Kirk MacDonald (ice hockey)">Kirk MacDonald (ice hockey)</a> (born 1983), Canadian ice hockey player</li>
+<li><a href="/wiki/Kirk_MacDonald_(politician)" title="Kirk MacDonald (politician)">Kirk MacDonald (politician)</a>, member of the Legislative Assembly of New Brunswick</li>
+<li><a href="/wiki/Linda_MacDonald_(activist)" title="Linda MacDonald (activist)">Linda MacDonald (activist)</a>, Canadian activist against Non-State Torture</li>
+<li><a href="/wiki/Mike_MacDonald_(comedian)" title="Mike MacDonald (comedian)">Mike MacDonald</a> (born 1954), Canadian comedian and actor</li>
+<li><a href="/wiki/Mike_MacDonald_(rugby_union)" title="Mike MacDonald (rugby union)">Mike MacDonald</a> (born 1980), American rugby union player</li>
+<li><a href="/wiki/Roddie_MacDonald" title="Roddie MacDonald">Roddie MacDonald</a> (born 1954), Scottish footballer</li>
+<li><a href="/wiki/Roddy_(R.S.)_MacDonald" title="Roddy (R.S.) MacDonald">Roddy (R.S.) MacDonald</a> (born 1956), Scottish-Australian Pipe Major and composer (26 year residence in England)</li>
+<li><a href="/wiki/Rory_MacDonald_(fighter)" title="Rory MacDonald (fighter)">Rory MacDonald</a> (born 1989), Canadian professional mixed martial artist currently fighting in the UFC.</li>
+<li><a href="/wiki/Shaun_MacDonald" title="Shaun MacDonald">Shaun MacDonald</a> (born 1988), Welsh footballer</li>
+<li><a href="/wiki/William_J._MacDonald_(writer_and_producer)" class="mw-redirect" title="William J. MacDonald (writer and producer)">William J. MacDonald (writer and producer)</a>, American television writer and producer</li>
+<li><a href="/wiki/Duck_MacDonald" title="Duck MacDonald">Andrew Duck MacDonald</a> (born 1953), American heavy metal/hard rock guitarist</li></ul>
+<h2><span class="mw-headline" id="Notable_people:_Macdonald_surname_2">Notable people: Macdonald surname</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Macdonald&amp;action=edit&amp;section=4" title="Edit section: Notable people: Macdonald surname">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Born after 1700</b>
+</p>
+<ul><li><a href="/wiki/Allan_Macdonald" title="Allan Macdonald">Allan Macdonald</a> (1794–1862), New York politician</li>
+<li><a href="/wiki/Lawrence_Macdonald" title="Lawrence Macdonald">Lawrence Macdonald</a> (1799–c.1870), Scottish sculptor</li></ul>
+<p><b>Born after 1800</b>
+</p>
+<ul><li><a href="/wiki/John_Sandfield_Macdonald" title="John Sandfield Macdonald">John Sandfield Macdonald</a> (1812–1872), Canadian national politician, First Premier of Ontario</li>
+<li>Sir <a href="/wiki/John_A._Macdonald" title="John A. Macdonald">John A. Macdonald</a> (1815–1891), Scottish-Canadian national politician, first Prime Minister of Canada</li>
+<li><a href="/wiki/Donald_Alexander_Macdonald" title="Donald Alexander Macdonald">Donald Alexander Macdonald</a> (1817–1896), Canadian national politician</li>
+<li><a href="/wiki/John_Macdonald_(Canadian_politician)" title="John Macdonald (Canadian politician)">John Macdonald (Canadian politician)</a> (1824–1890), Scottish-Canadian merchant, churchman, philanthropist and national politician</li>
+<li><a href="/wiki/William_Christoper_Macdonald" class="mw-redirect" title="William Christoper Macdonald">William Christoper Macdonald</a> (1831–1917), Scottish-Canadian tobacco manufacturer, philanthropist</li>
+<li><a href="/wiki/Charles_B._Macdonald" title="Charles B. Macdonald">Charles B. Macdonald</a> (1855–1939), American golfer, introduced the first 18-hole course in the United States (2nd generation American, born to Scottish father and Canadian mother)</li>
+<li><a href="/wiki/C._Leslie_Macdonald" title="C. Leslie Macdonald">C. Leslie Macdonald</a> (1856–1929), Australian racehorse owner</li>
+<li><a href="/wiki/Harry_Macdonough" title="Harry Macdonough">Harry Macdonough</a> (born John Macdonald, 1871–1931), Canadian singer and recording executive</li>
+<li><a href="/wiki/John_Alexander_Macdonald_(Prince_Edward_Island_politician)" title="John Alexander Macdonald (Prince Edward Island politician)">John Alexander Macdonald (Prince Edward Island politician)</a> (1874–1948), Canadian national politician</li>
+<li><a href="/wiki/John_Smyth_Macdonald" title="John Smyth Macdonald">John Smyth Macdonald</a> (1867–1941), British physiologist</li>
+<li>Captain <a href="/wiki/Murdo_Stewart_MacDonald" title="Murdo Stewart MacDonald">Murdo Stewart MacDonald</a> (1852–1938) the last Sea Baron and Lloyds Surveyor of Shipping</li>
+<li><a href="/wiki/William_Alexander_Macdonald" title="William Alexander Macdonald">William Alexander Macdonald</a> (<a href="/wiki/Floruit" title="Floruit">fl.</a> 1890s), Canadian provincial politician</li>
+<li><a href="/wiki/William_Ross_Macdonald" title="William Ross Macdonald">William Ross Macdonald</a> (1891–1976), Canadian national politician (2nd generation Canadian born to Scottish immigrant father)</li></ul>
+<p><b>Born after 1900</b>
+</p>
+<ul><li><a href="/wiki/Archie_Macdonald" title="Archie Macdonald">Archibald 'Archie' James Florence Macdonald</a> (1904–1983), British Liberal MP</li>
+<li><a href="/wiki/Barbara_Macdonald" title="Barbara Macdonald">Barbara Macdonald</a>, (1913–2000), social worker, lesbian feminist and ageism activist</li>
+<li><a href="/wiki/Dwight_Macdonald" title="Dwight Macdonald">Dwight Macdonald</a> (1906–1982), American writer, editor, social critic, philosopher, and political radical.</li>
+<li><a href="/wiki/Eleanor_Josephine_Macdonald" title="Eleanor Josephine Macdonald">Eleanor Josephine Macdonald</a> (1906–2007) pioneer American cancer epidemiologist and cancer researcher</li>
+<li><a href="/wiki/John_Michael_Macdonald" title="John Michael Macdonald">John Michael Macdonald</a> (1906–1997), Canadian national politician</li>
+<li><a href="/wiki/Jack_Macdonald_(sportsman)" title="Jack Macdonald (sportsman)">Jack Macdonald (sportsman)</a> (1908–1982), New Zealand rower</li>
+<li><a href="/wiki/James_David_Macdonald_(ornithologist)" class="mw-redirect" title="James David Macdonald (ornithologist)">James David Macdonald (ornithologist)</a> (1908–2002), British and Australian ornithologist</li>
+<li><a href="/wiki/Margaret_Mary_Macdonald" title="Margaret Mary Macdonald">Margaret Mary Macdonald</a> (1910–1968), Canadian national politician</li>
+<li><a href="/wiki/Callum_Macdonald_(publisher)" class="mw-redirect" title="Callum Macdonald (publisher)">Callum Macdonald (publisher)</a> (1912–1999), Scottish publisher who specialised in poetry</li>
+<li><a href="/wiki/James_David_Macdonald_(politician)" title="James David Macdonald (politician)">James David Macdonald (politician)</a> (born 1922), Canadian politician</li>
+<li><a href="/wiki/Ian_G._Macdonald" title="Ian G. Macdonald">Ian G. Macdonald</a> (born 1928), English mathematician, a prominent contributor to algebraic combinatorics</li>
+<li><a href="/wiki/Ian_Macdonald_(Australian_politician)" title="Ian Macdonald (Australian politician)">Ian Macdonald (Australian politician)</a> (born 1945), Australian national politician</li></ul>
+<p><b>Born after 1950</b>
+</p>
+<ul><li>Sir <a href="/wiki/Ken_Macdonald" title="Ken Macdonald">Ken Macdonald</a> QC (born 1953), British barrister, Director of Public Prosecutions and Head of the Crown Prosecution Service (2003–2008)</li>
+<li><a href="/wiki/Norm_Macdonald" title="Norm Macdonald">Norm Macdonald</a> (born 1963), Canadian comedian/actor</li>
+<li><a href="/wiki/Kevin_Macdonald_(director)" title="Kevin Macdonald (director)">Kevin Macdonald (director)</a> (born 1967), Film director (<a href="/wiki/The_Last_King_of_Scotland_(film)" title="The Last King of Scotland (film)">The Last King of Scotland</a>, <a href="/wiki/Touching_the_Void_(film)" title="Touching the Void (film)">Touching the Void</a>)</li>
+<li><a href="/wiki/Kelly_Macdonald" title="Kelly Macdonald">Kelly Macdonald</a> (born 1976), Scottish actress</li>
+<li><a href="/wiki/Amy_Macdonald" title="Amy Macdonald">Amy Macdonald</a> (born 1987), Scottish singer/songwriter</li>
+<li><a href="/wiki/Amy_MacDonald_(writer)" title="Amy MacDonald (writer)">Amy MacDonald (writer)</a> (born 1951), American writer and journalist</li>
+<li><a href="/wiki/Ian_Macdonald_(New_South_Wales_politician)" title="Ian Macdonald (New South Wales politician)">Ian Macdonald (New South Wales politician)</a> (born 1949), Australian state politician</li>
+<li>Dame <a href="/wiki/Mary_Macdonald" title="Mary Macdonald">Mary Macdonald</a> (born 1950), Head Teacher, honoured for Services to Education</li>
+<li><a href="/wiki/Shauna_Macdonald" title="Shauna Macdonald">Shauna Macdonald</a> (born 1981), actress</li>
+<li><a href="/wiki/Nene_Macdonald" title="Nene Macdonald">Nene Macdonald</a> (born 1994), Papua New Guinean Rugby League player</li>
+<li><a href="/wiki/The_1975" title="The 1975">Ross Macdonald</a> (born 1989), bassist for the 1975</li></ul>
+<h2><span class="mw-headline" id="Notable_people:_McDonald_surname">Notable people: McDonald surname</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Macdonald&amp;action=edit&amp;section=5" title="Edit section: Notable people: McDonald surname">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Born after 1800</b>
+</p>
+<ul><li><a href="/wiki/Ambrose_Stephen_McDonald" title="Ambrose Stephen McDonald">Ambrose Stephen McDonald</a> (1845–1913), American businessman and politician</li>
+<li><a href="/wiki/Eugene_F._McDonald" title="Eugene F. McDonald">Eugene F. McDonald</a> (1886–1958), American entrepreneur, founder of Zenith Radio</li>
+<li><a href="/wiki/Harl_McDonald" title="Harl McDonald">Harl McDonald</a> (1899–1955), American composer, pianist, conductor and teacher</li>
+<li><a href="/wiki/Jack_McDonald_(ice_hockey,_born_1887)" class="mw-redirect" title="Jack McDonald (ice hockey, born 1887)">Jack McDonald (ice hockey, born 1887)</a> (died 1958), Canadian professional ice hockey player</li>
+<li><a href="/wiki/James_Grover_McDonald" title="James Grover McDonald">James Grover McDonald</a> (1886–1964), American diplomat, first Ambassador to Israel</li>
+<li><a href="/w/index.php?title=William_Jesse_McDonald&amp;action=edit&amp;redlink=1" class="new" title="William Jesse McDonald (page does not exist)">William Jesse McDonald</a> (1852–1918), leader of the <a href="/wiki/Texas_Ranger_Division" title="Texas Ranger Division">Texas Ranger Division</a> and bodyguard to <a href="/wiki/Theodore_Roosevelt" title="Theodore Roosevelt">Theodore Roosevelt</a> and <a href="/wiki/Woodrow_Wilson" title="Woodrow Wilson">Woodrow Wilson</a></li>
+<li><a href="/wiki/John_McDonald_(of_Dromod)" class="mw-redirect" title="John McDonald (of Dromod)">John McDonald (of Dromod)</a> (1846 – aft. 1911), <a href="/wiki/Irish_nationalism#Cultural_nationalism" title="Irish nationalism">Irish cultural nationalist</a> <a href="/wiki/Poet" title="Poet">poet</a> from <a href="/wiki/County_Leitrim" title="County Leitrim">county Leitrim</a></li></ul>
+<p><b>Born after 1900</b>
+</p>
+<ul><li><a href="/wiki/Albert_McDonald" title="Albert McDonald">Albert McDonald</a> (1930–2014), American politician</li>
+<li>Sir <a href="/wiki/Arthur_McDonald" title="Arthur McDonald">Arthur McDonald</a> (1903–1996), British West Indian-English Royal Air Force Air Marshal</li>
+<li><a href="/wiki/Country_Joe_McDonald" title="Country Joe McDonald">Country Joe McDonald</a> (born 1942), American musician and activist</li>
+<li><a href="/wiki/K.J._McDonald" title="K.J. McDonald">K.J. McDonald</a> (1930&#8211;2012), American politician</li>
+<li><a href="/wiki/Ian_McDonald_(musician)" title="Ian McDonald (musician)">Ian McDonald (musician)</a> (born 1946), English rock musician</li>
+<li><a href="/wiki/Larry_McDonald" title="Larry McDonald">Larry McDonald</a> (1935–1983), a member of the United States House of Representatives</li>
+<li><a href="/wiki/Laurier_McDonald" class="mw-redirect" title="Laurier McDonald">Laurier McDonald</a> (born 1931), Texas Attorney, Historian, Author</li>
+<li><a href="/wiki/Mac_McDonald" title="Mac McDonald">Mac McDonald</a> (born 1949), American actor</li>
+<li><a href="/wiki/Marie_McDonald" title="Marie McDonald">Marie McDonald</a> (1923–1965), American film actress</li>
+<li><a href="/wiki/Martha_McDonald" title="Martha McDonald">Martha McDonald</a> (born 1964), American artist</li>
+<li><a href="/wiki/Maurice_McDonald" class="mw-redirect" title="Maurice McDonald">Maurice McDonald</a> (1902–1971), American fast food pioneer and co-founder of <a href="/wiki/McDonald%27s" title="McDonald&#39;s">McDonald's</a></li>
+<li><a href="/wiki/Parker_Lee_McDonald" title="Parker Lee McDonald">Parker Lee McDonald</a> (1924–2017), American judge</li>
+<li><a href="/wiki/Richard_McDonald" class="mw-redirect" title="Richard McDonald">Richard McDonald</a> (1909–1998), American fast food pioneer and co-founder of <a href="/wiki/McDonald%27s" title="McDonald&#39;s">McDonald's</a></li>
+<li><a href="/wiki/Roy_McDonald_(poet)" title="Roy McDonald (poet)">Roy McDonald (poet)</a> (born 1937), Canadian poet and busker</li>
+<li><a href="/wiki/Roy_McDonald_(politician)" class="mw-redirect" title="Roy McDonald (politician)">Roy McDonald (politician)</a> (born 1946), New York State Senator</li>
+<li><a href="/wiki/Sandy_McDonald" title="Sandy McDonald">Sandy McDonald</a> (1937&#8211;2016), Scottish Minister of the Church of Scotland</li>
+<li><a href="/wiki/Susan_Marshall_McDonald" title="Susan Marshall McDonald">Susan Marshall McDonald</a> (1918–1992), philatelist of Ohio</li>
+<li>Sir <a href="/wiki/Trevor_McDonald" title="Trevor McDonald">Trevor McDonald</a> (born George McDonald, 1939), Trinidadian-born British news presenter</li>
+<li><a href="/wiki/W._Ian_McDonald" title="W. Ian McDonald">W. Ian McDonald</a> (1933–2006), New Zealand neurologist, academic, and specialist in multiple sclerosis</li>
+<li><a href="/wiki/Walt_McDonald" title="Walt McDonald">Walt McDonald</a> (born 1934), American poet, academic, Poet Laureate of Texas</li>
+<li><a href="/wiki/Wesley_L._McDonald" title="Wesley L. McDonald">Wesley L. McDonald</a> (1924–2009), United States Navy Four Star Admiral and Naval Aviator</li>
+<li><a href="/wiki/Whitey_McDonald" title="Whitey McDonald">Whitey McDonald</a> (1902–1956), Canadian Soccer Player</li>
+<li><a href="/wiki/William_Joseph_McDonald" title="William Joseph McDonald">William Joseph McDonald</a> (1904–1989), Irish-born American Catholic bishop</li></ul>
+<p><b>Born after 1950</b>
+</p>
+<ul><li><a href="/wiki/Amy_McDonald_(footballer)" title="Amy McDonald (footballer)">Amy McDonald (footballer)</a> (born 1985), Scottish football player/coach</li>
+<li><a href="/wiki/Audra_McDonald" title="Audra McDonald">Audra McDonald</a> (born 1970), American actress and singer</li>
+<li><a href="/wiki/Andy_McDonald_(ice_hockey)" title="Andy McDonald (ice hockey)">Andy McDonald</a> (born 1977), Canadian professional ice hockey player</li>
+<li><a href="/wiki/Chris_McDonald_(footballer)" title="Chris McDonald (footballer)">Chris McDonald (footballer)</a> (born 1975), Scottish footballer</li>
+<li><a href="/wiki/Christopher_McDonald_(actor)" class="mw-redirect" title="Christopher McDonald (actor)">Christopher McDonald (actor)</a> (born 1955), American actor</li>
+<li><a href="/wiki/Elizabeth_McDonald" title="Elizabeth McDonald">Elizabeth McDonald</a> (born 1985), American artist</li>
+<li><a href="/wiki/Hugh_McDonald_(American_musician)" title="Hugh McDonald (American musician)">Hugh McDonald (American musician)</a> (born 1950), American musician, bassist</li>
+<li><a href="/wiki/Clayton_McDonald" title="Clayton McDonald">Clayton McDonald</a> (born 1988), English footballer</li>
+<li><a href="/wiki/Daniel_McDonald_(actor)" title="Daniel McDonald (actor)">Daniel McDonald (actor)</a> (1960–2007), American actor</li>
+<li><a href="/wiki/David_Tennant" title="David Tennant">David Tennant</a> (born David John McDonald, 1971), Scottish actor</li>
+<li><a href="/wiki/Ian_McDonald_(author)" class="mw-redirect" title="Ian McDonald (author)">Ian McDonald (author)</a> (born 1960), English science fiction novelist (residence in Northern Ireland)</li>
+<li><a href="/wiki/Joe_McDonald_(politician)" title="Joe McDonald (politician)">Joe McDonald (politician)</a> (born 1966), American politician</li>
+<li><a href="/wiki/John_McDonald_(infielder)" title="John McDonald (infielder)">John McDonald</a> (born 1974), American professional baseball player</li>
+<li><a href="/wiki/Kevin_McDonald" title="Kevin McDonald">Kevin McDonald</a> (born 1961), Canadian comedian and actor</li>
+<li><a href="/wiki/Kevin_McDonald_(footballer,_born_1985)" title="Kevin McDonald (footballer, born 1985)">Kevin McDonald (footballer, born 1985)</a>, English footballer</li>
+<li><a href="/wiki/Kevin_McDonald_(footballer,_born_1988)" title="Kevin McDonald (footballer, born 1988)">Kevin McDonald (footballer, born 1988)</a>, Scottish footballer</li>
+<li><a href="/wiki/Lanny_McDonald" title="Lanny McDonald">Lanny McDonald</a> (born 1953), Canadian professional ice hockey player</li>
+<li><a href="/wiki/Mackenzie_McDonald" title="Mackenzie McDonald">Mackenzie McDonald</a> (born 1995), American tennis player</li>
+<li><a href="/wiki/Mark_McDonald_(politician)" title="Mark McDonald (politician)">Mark McDonald (politician)</a> (born 1980), Scottish politician</li>
+<li><a href="/wiki/Margaret_McDonald_(voice_actress)" title="Margaret McDonald (voice actress)">Margaret McDonald (voice actress)</a> (born 1988), American voice actress</li>
+<li><a href="/wiki/Meg_McDonald_(footballer)" title="Meg McDonald (footballer)">Meg McDonald (footballer)</a> (born 1991), Australian rules footballer</li>
+<li><a href="/wiki/Michael_McDonald_(singer)" class="mw-redirect" title="Michael McDonald (singer)">Michael McDonald (singer)</a> (born 1952), American singer</li>
+<li><a href="/wiki/Neil_McDonald_(footballer)" title="Neil McDonald (footballer)">Neil McDonald (footballer)</a> (born 1965), former English professional footballer turned coach</li>
+<li><a href="/wiki/Rod_McDonald_(footballer,_born_1967)" title="Rod McDonald (footballer, born 1967)">Rod McDonald (footballer, born 1967)</a>, English footballer</li>
+<li><a href="/wiki/Rod_McDonald_(footballer,_born_1992)" title="Rod McDonald (footballer, born 1992)">Rod McDonald (footballer, born 1992)</a>, English footballer</li>
+<li><a href="/wiki/Scott_McDonald" title="Scott McDonald">Scott McDonald</a> (born 1983), Australian footballer</li>
+<li><a href="/wiki/Shawn_McDonald" title="Shawn McDonald">Shawn McDonald</a> (born 1978), American Christian singer, songwriter and guitarist</li>
+<li><a href="/wiki/Simon_McDonald_(diplomat)" title="Simon McDonald (diplomat)">Simon McDonald (diplomat)</a> (born 1961), Permanent Secretary of the <a href="/wiki/Foreign_and_Commonwealth_Office" title="Foreign and Commonwealth Office">Foreign and Commonwealth Office</a></li></ul>
+<h2><span class="mw-headline" id="Pseudonyms">Pseudonyms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Macdonald&amp;action=edit&amp;section=6" title="Edit section: Pseudonyms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Ian_MacDonald" title="Ian MacDonald">Ian MacDonald</a> (born Ian MacCormick, 1948–2003), British music critic and author.</li></ul>
+<h2><span class="mw-headline" id="Given_names">Given names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Macdonald&amp;action=edit&amp;section=7" title="Edit section: Given names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Macdonald_Carey" title="Macdonald Carey">Macdonald Carey</a> (1913–1994), American actor</li></ul>
+<h2><span class="mw-headline" id="Relationships">Relationships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Macdonald&amp;action=edit&amp;section=8" title="Edit section: Relationships">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Brothers: J.S. Macdonald (b. 1812) ↔ D.A. Macdonald (b. 1817)</li>
+<li>Brothers: C. McDonald (b. 1955) ↔ D. McDonald (b. 1960)</li>
+<li>Father-son: A. McDonald (b. 1937) → D. Tennant (McDonald) (b. 1971)</li>
+<li>Father-Daughter-in-Law: J.A. Macdonald (b. 1874) → M.M. Macdonald (b. 1910)</li></ul>
+<h2><span class="mw-headline" id="Fictional_characters">Fictional characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Macdonald&amp;action=edit&amp;section=9" title="Edit section: Fictional characters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Mac_(It%27s_Always_Sunny_in_Philadelphia)" title="Mac (It&#39;s Always Sunny in Philadelphia)">Ronald "Mac" McDonald</a>, character in <i><a href="/wiki/It%27s_Always_Sunny_in_Philadelphia" title="It&#39;s Always Sunny in Philadelphia">It's Always Sunny in Philadelphia</a></i></li>
+<li><a href="/wiki/Ronald_McDonald" title="Ronald McDonald">Ronald McDonald</a>, international fast-food franchise clown mascot and spokesman</li></ul>
+<h3><span class="mw-headline" id="Coronation_Street"><i>Coronation Street</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Macdonald&amp;action=edit&amp;section=10" title="Edit section: Coronation Street">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Several characters from the soap opera <i><a href="/wiki/Coronation_Street" title="Coronation Street">Coronation Street</a></i>, including:
+</p>
+<ul><li><a href="/wiki/Amy_Barlow" title="Amy Barlow">Amy McDonald</a></li>
+<li><a href="/wiki/Andy_McDonald_(Coronation_Street)" class="mw-redirect" title="Andy McDonald (Coronation Street)">Andy McDonald (Coronation Street)</a></li>
+<li><a href="/wiki/Becky_McDonald" title="Becky McDonald">Becky McDonald</a></li>
+<li><a href="/wiki/Karen_McDonald" title="Karen McDonald">Karen McDonald</a></li>
+<li><a href="/wiki/Jim_McDonald_(Coronation_Street)" title="Jim McDonald (Coronation Street)">Jim McDonald (Coronation Street)</a></li>
+<li><a href="/wiki/Liz_McDonald" title="Liz McDonald">Liz McDonald</a></li>
+<li><a href="/wiki/Ruairi_McDonald" class="mw-redirect" title="Ruairi McDonald">Ruairi McDonald</a></li>
+<li><a href="/wiki/Steve_McDonald_(Coronation_Street)" title="Steve McDonald (Coronation Street)">Steve McDonald (Coronation Street)</a></li>
+<li><a href="/wiki/Tracy_McDonald" class="mw-redirect" title="Tracy McDonald">Tracy McDonald</a></li>
+<li><a href="/wiki/Vicky_McDonald" class="mw-redirect" title="Vicky McDonald">Vicky McDonald</a></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Macdonald&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/McDonald_v._City_of_Chicago" title="McDonald v. City of Chicago">McDonald v. City of Chicago</a></i></li></ul>
+<p><b>Ambiguous human name pages</b>
+</p>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li><a href="/wiki/John_Macdonald_(disambiguation)" class="mw-redirect mw-disambig" title="John Macdonald (disambiguation)">John Macdonald (disambiguation)</a></li>
+<li><a href="/wiki/John_McDonald_(disambiguation)" class="mw-redirect mw-disambig" title="John McDonald (disambiguation)">John McDonald (disambiguation)</a></li>
+<li><a href="/wiki/Kevin_McDonald_(disambiguation)" class="mw-disambig" title="Kevin McDonald (disambiguation)">Kevin McDonald (disambiguation)</a></li>
+<li><a href="/wiki/Ian_McDonald_(disambiguation)" class="mw-redirect mw-disambig" title="Ian McDonald (disambiguation)">Ian McDonald (disambiguation)</a></li>
+<li><a href="/wiki/Michael_MacDonald_(disambiguation)" class="mw-redirect mw-disambig" title="Michael MacDonald (disambiguation)">Michael MacDonald (disambiguation)</a></li>
+<li><a href="/wiki/Steve_McDonald_(disambiguation)" class="mw-redirect mw-disambig" title="Steve McDonald (disambiguation)">Steve McDonald (disambiguation)</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Macdonald&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-fb-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-fb_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fb_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://forebears.co.uk/surnames/macdonald">"MacDonald Surname Meaning and Distribution"</a>. forebears.co.uk.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=MacDonald+Surname+Meaning+and+Distribution&amp;rft.pub=forebears.co.uk&amp;rft_id=http%3A%2F%2Fforebears.co.uk%2Fsurnames%2Fmacdonald&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMacdonald" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style> Retrieved 21 January 2014</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">
-<a rel="nofollow" class="external text" href="http://www.irishsurnames.com/cgi-bin/gallery.pl?name=dawson&amp;capname=Dawson&amp;letter=d">Dawson</a> irishsurnames.com</span>
+<li id="cite_note-m1-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-m1_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Mac an Tàilleir, Iain. <a rel="nofollow" class="external text" href="http://www2.smo.uhi.ac.uk/gaidhlig/faclair/cuspair/Ainmean_pearsanta.docx">"Ainmean Pearsanta"</a> <span class="cs1-format">(<a href="/wiki/Docx" class="mw-redirect" title="Docx">docx</a>)</span>. <i><a href="/wiki/Sabhal_M%C3%B2r_Ostaig" title="Sabhal Mòr Ostaig">Sabhal Mòr Ostaig</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 October</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Sabhal+M%C3%B2r+Ostaig&amp;rft.atitle=Ainmean+Pearsanta&amp;rft.au=Mac+an+T%C3%A0illeir%2C+Iain&amp;rft_id=http%3A%2F%2Fwww2.smo.uhi.ac.uk%2Fgaidhlig%2Ffaclair%2Fcuspair%2FAinmean_pearsanta.docx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMacdonald" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-</ol></div></div>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ancestry.com/facts/McDonald-family-history.ashx">"McDonald Name Meaning and History"</a>. <i><a href="/wiki/Ancestry.com" title="Ancestry.com">Ancestry.com</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 June</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ancestry.com&amp;rft.atitle=McDonald+Name+Meaning+and+History&amp;rft_id=http%3A%2F%2Fwww.ancestry.com%2Ffacts%2FMcDonald-family-history.ashx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMacdonald" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-GROScotSurnames-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-GROScotSurnames_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-GROScotSurnames_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100323003126/http://www.gro-scotland.gov.uk/statistics/publications-and-data/occpapers/surnames-in-scotland-over-the-last-140-years.html">"Surnames in Scotland over the last 140 years"</a>. <i>Occasional papers</i>. <a href="/wiki/General_Register_Office_for_Scotland" title="General Register Office for Scotland">General Register Office for Scotland</a>. Archived from <a rel="nofollow" class="external text" href="http://www.gro-scotland.gov.uk/statistics/publications-and-data/occpapers/surnames-in-scotland-over-the-last-140-years.html">the original</a> on 2010-03-23<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-02-10</span></span>. <q>In this new survey of surnames, as in all previous surveys, we have not distinguished between the varying use of capital letters within surnames e.g. MacDonald/Macdonald. However, as in the previous two surveys, each spelling is noted separately in the tables e.g. McDonald/MacDonald.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Occasional+papers&amp;rft.atitle=Surnames+in+Scotland+over+the+last+140+years&amp;rft_id=http%3A%2F%2Fwww.gro-scotland.gov.uk%2Fstatistics%2Fpublications-and-data%2Foccpapers%2Fsurnames-in-scotland-over-the-last-140-years.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMacdonald" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-freqdef-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-freqdef_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-freqdef_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">%freq = percentage of the sample population sharing a particular surname.</span>
+</li>
+<li id="cite_note-GROScotTblA3a-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-GROScotTblA3a_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-GROScotTblA3a_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-GROScotTblA3a_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-GROScotTblA3a_6-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20061030140948/http://www.gro-scotland.gov.uk/files/01surnames_tablea3a.pdf">"Archived copy"</a> <span class="cs1-format">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://www.gro-scotland.gov.uk/files/01surnames_tablea3a.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2006-10-30<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.gro-scotland.gov.uk%2Ffiles%2F01surnames_tablea3a.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMacdonald" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-GROScotTblA3b-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-GROScotTblA3b_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-GROScotTblA3b_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-GROScotTblA3b_7-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-GROScotTblA3b_7-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20061030201228/http://www.gro-scotland.gov.uk/files/01surnames_tablea3b.pdf">"Archived copy"</a> <span class="cs1-format">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://www.gro-scotland.gov.uk/files/01surnames_tablea3b.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2006-10-30<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.gro-scotland.gov.uk%2Ffiles%2F01surnames_tablea3b.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMacdonald" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-GROScotTblA4-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-GROScotTblA4_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20061031011322/http://www.gro-scotland.gov.uk/files/01surnames_tablea4.pdf">"Archived copy"</a> <span class="cs1-format">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://www.gro-scotland.gov.uk/files/01surnames_tablea4.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2006-10-31<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.gro-scotland.gov.uk%2Ffiles%2F01surnames_tablea4.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMacdonald" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/> Note: Quote from GROScotSurnames: "Note that McDonald is shown as more common than MacDonald in 1901, although given the uncertainties surrounding the spelling of these names it would seem wrong to regard this as significant."</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ancestry.com/facts/macdonald-family-history-uk.ashx?fn=&amp;yr=1891">macdonald Families Living in England and Wales in 1891 - Ancestry.com</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ancestry.com/facts/mcdonald-family-history-uk.ashx?fn=&amp;yr=1891">mcdonald Families Living in England and Wales in 1891 - Ancestry.com</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ancestry.com/facts/mcdonald-family-history.ashx?fn=&amp;yr=1880">mcdonald Family History Facts 1880 - Ancestry.com</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ancestry.com/facts/macdonald-family-history.ashx?fn=&amp;yr=1880">macdonald Family History Facts 1880 - Ancestry.com</a></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ancestry.com/facts/mcdonald-family-history.ashx?fn=&amp;yr=1840">mcdonald Family History Facts 1840 - Ancestry.com</a></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ancestry.com/facts/macdonald-family-history.ashx?fn=&amp;yr=1840">macdonald Family History Facts 1840 - Ancestry.com</a></span>
+</li>
+</ol></div>
 <style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
 <table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
 <tbody><tr>
 <td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
-<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Dawson</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Dawson_(surname)&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Macdonald</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Macdonald&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
 </tr>
 </tbody></table>
 <!-- 
 NewPP limit report
-Parsed by mw1318
-Cached time: 20191011125233
+Parsed by mw1321
+Cached time: 20190926103842
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.204 seconds
-Real time usage: 0.309 seconds
-Preprocessor visited node count: 840/1000000
+CPU time usage: 0.312 seconds
+Real time usage: 0.632 seconds
+Preprocessor visited node count: 1261/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 7202/2097152 bytes
-Template argument size: 1111/2097152 bytes
-Highest expansion depth: 9/40
-Expensive parser function count: 1/500
+Post‐expand include size: 20576/2097152 bytes
+Template argument size: 2533/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 3/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 3714/5000000 bytes
+Unstrip post‐expand size: 26279/5000000 bytes
 Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.080/10.000 seconds
-Lua memory usage: 2.58 MB/50 MB
+Lua time usage: 0.130/10.000 seconds
+Lua memory usage: 3.74 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  261.760      1 -total
- 34.39%   90.014      1 Template:Infobox_surname
- 28.69%   75.102      1 Template:Infobox
- 27.84%   72.885      1 Template:Reflist
- 26.25%   68.708      1 Template:Surname
- 25.42%   66.535      1 Template:Cite_web
- 23.01%   60.229      1 Template:Dmbox
- 10.57%   27.671      1 Template:Short_description
-  9.45%   24.734      1 Template:Pagetype
-  8.15%   21.337      1 Template:Category_handler
+100.00%  551.504      1 -total
+ 47.41%  261.466      1 Template:Surname
+ 46.29%  255.281      1 Template:Dmbox
+ 41.63%  229.565      1 Template:Category_handler
+ 22.91%  126.349      1 Template:Reflist
+ 18.82%  103.820      7 Template:Cite_web
+ 10.76%   59.359      1 Template:Infobox_surname
+  9.67%   53.349      1 Template:About
+  8.07%   44.489      1 Template:Infobox
+  2.84%   15.687      1 Template:Redirect
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:13876065-0!canonical and timestamp 20191011125233 and revision id 920720935
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2176163-0!canonical and timestamp 20190926103841 and revision id 917726654
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Dawson_(surname)&amp;oldid=920720935">https://en.wikipedia.org/w/index.php?title=Dawson_(surname)&amp;oldid=920720935</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Macdonald&amp;oldid=917726654">https://en.wikipedia.org/w/index.php?title=Macdonald&amp;oldid=917726654</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:English-language_surnames" title="Category:English-language surnames">English-language surnames</a></li><li><a href="/wiki/Category:Surnames_of_English_origin" title="Category:Surnames of English origin">Surnames of English origin</a></li><li><a href="/wiki/Category:Patronymic_surnames" title="Category:Patronymic surnames">Patronymic surnames</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:Anglicised_Scottish_Gaelic-language_surnames" title="Category:Anglicised Scottish Gaelic-language surnames">Anglicised Scottish Gaelic-language surnames</a></li><li><a href="/wiki/Category:Scottish_surnames" title="Category:Scottish surnames">Scottish surnames</a></li><li><a href="/wiki/Category:Patronymic_surnames" title="Category:Patronymic surnames">Patronymic surnames</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">CS1 maint: archived copy as title</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -296,13 +455,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Dawson+%28surname%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Dawson+%28surname%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Macdonald" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Macdonald" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Dawson_(surname)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Dawson_(surname)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Macdonald" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Macdonald" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -317,7 +476,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Dawson_(surname)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Dawson_(surname)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Dawson_(surname)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Macdonald">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Macdonald&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Macdonald&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -356,35 +515,35 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Dawson_(surname)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Dawson_(surname)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Dawson_(surname)&amp;oldid=920720935" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Dawson_(surname)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2674114" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Dawson_%28surname%29&amp;id=920720935" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Macdonald" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Macdonald" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Macdonald&amp;oldid=917726654" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Macdonald&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2778569" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Macdonald&amp;id=917726654" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
 			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
 			<div class="body">
 								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Dawson_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Macdonald_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Dawson+%28surname%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Dawson+%28surname%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Dawson_(surname)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Macdonald">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Macdonald&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Macdonald&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Dawson_(s%C3%A8%E2%81%BF)" title="Dawson (sèⁿ) – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Dawson_(p%C5%99%C3%ADjmen%C3%AD)" title="Dawson (příjmení) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Dawson_(Familienname)" title="Dawson (Familienname) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Dawson_(Familiennaam)" title="Dawson (Familiennaam) – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2674114#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA-%D0%94%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%B4" title="Мак-Дональд – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Macdonald" title="Macdonald – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Macdonald" title="Macdonald – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D0%B4%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%B4" title="Макдональд – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D0%B4%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%B4" title="Макдональд – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2778569#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 11 October 2019, at 12:52<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 25 September 2019, at 04:52<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -395,7 +554,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Dawson_(surname)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Macdonald&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -407,8 +566,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.204","walltime":"0.309","ppvisitednodes":{"value":840,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":7202,"limit":2097152},"templateargumentsize":{"value":1111,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3714,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  261.760      1 -total"," 34.39%   90.014      1 Template:Infobox_surname"," 28.69%   75.102      1 Template:Infobox"," 27.84%   72.885      1 Template:Reflist"," 26.25%   68.708      1 Template:Surname"," 25.42%   66.535      1 Template:Cite_web"," 23.01%   60.229      1 Template:Dmbox"," 10.57%   27.671      1 Template:Short_description","  9.45%   24.734      1 Template:Pagetype","  8.15%   21.337      1 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.080","limit":"10.000"},"limitreport-memusage":{"value":2703027,"limit":52428800}},"cachereport":{"origin":"mw1318","timestamp":"20191011125233","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Dawson (surname)","url":"https:\/\/en.wikipedia.org\/wiki\/Dawson_(surname)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2674114","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2674114","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-10-23T16:42:17Z","dateModified":"2019-10-11T12:52:32Z","headline":"family name"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw1265"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.312","walltime":"0.632","ppvisitednodes":{"value":1261,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":20576,"limit":2097152},"templateargumentsize":{"value":2533,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":26279,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  551.504      1 -total"," 47.41%  261.466      1 Template:Surname"," 46.29%  255.281      1 Template:Dmbox"," 41.63%  229.565      1 Template:Category_handler"," 22.91%  126.349      1 Template:Reflist"," 18.82%  103.820      7 Template:Cite_web"," 10.76%   59.359      1 Template:Infobox_surname","  9.67%   53.349      1 Template:About","  8.07%   44.489      1 Template:Infobox","  2.84%   15.687      1 Template:Redirect"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"10.000"},"limitreport-memusage":{"value":3925259,"limit":52428800}},"cachereport":{"origin":"mw1321","timestamp":"20190926103842","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Macdonald","url":"https:\/\/en.wikipedia.org\/wiki\/Macdonald","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2778569","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2778569","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-07-05T22:12:06Z","dateModified":"2019-09-25T04:52:11Z","headline":"family name"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":98,"wgHostname":"mw1274"});});</script>
 </body>
 </html>

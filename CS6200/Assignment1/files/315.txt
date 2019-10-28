@@ -2,34 +2,36 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Underwood - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Underwood","wgTitle":"Underwood","wgCurRevisionId":917762806,"wgRevisionId":917762806,"wgArticleId":2460955,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","All set index articles","Surnames","English toponymic surnames"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Underwood","wgRelevantArticleId":2460955,"wgRequestId":"XbGbqwpAICAAAAJuUMwAAAAM","wgCSPNonce":
-!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q13583115","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready",
-"wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Sorbian languages - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Sorbian_languages","wgTitle":"Sorbian languages","wgCurRevisionId":912725494,"wgRevisionId":912725494,"wgArticleId":27120,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from January 2011","All articles needing additional references","Articles containing Upper Sorbian-language text","Articles containing Lower Sorbian-language text","Articles containing German-language text","Articles needing the year an event occurred from September 2017","All articles with unsourced statements","Articles with unsourced statements from September 2017","Articles with Romanian-language external links","Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers",
+"Wikipedia articles with LCCN identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Sorbian languages","West Slavic languages","Languages of Germany","Sorbian culture","Culture of Saxony"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sorbian_languages","wgRelevantArticleId":27120,"wgRequestId":"XbYnaApAADkAAB7@FSwAAABV","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,
+"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q25442","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready",
+"mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.2"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Underwood"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Underwood&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Underwood&amp;action=edit"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/%D0%9B%D1%83%D0%B6%D0%B8%D1%86%D0%BA%D0%B8%D0%B5_%D1%81%D0%B5%D1%80%D0%B1%D1%8B_%D0%BD%D0%B0_%D0%BA%D0%B0%D1%80%D1%82%D0%B5_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8.svg/1200px-%D0%9B%D1%83%D0%B6%D0%B8%D1%86%D0%BA%D0%B8%D0%B5_%D1%81%D0%B5%D1%80%D0%B1%D1%8B_%D0%BD%D0%B0_%D0%BA%D0%B0%D1%80%D1%82%D0%B5_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Sorbian_languages"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Sorbian_languages&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Sorbian_languages&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Underwood"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Sorbian_languages"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Underwood rootpage-Underwood skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Sorbian_languages rootpage-Sorbian_languages skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -38,7 +40,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Underwood</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Sorbian languages</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -49,195 +51,895 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Underwood_(disambiguation)" class="mw-disambig" title="Underwood (disambiguation)">Underwood (disambiguation)</a>.</div>
-<table class="infobox" style="width:22em"><caption>Underwood</caption><tbody><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Origin</th></tr><tr><th scope="row">Meaning</th><td>"under or below wood"</td></tr><tr><th scope="row">Region of origin</th><td><a href="/wiki/England" title="England">England</a></td></tr><tr><td colspan="2" style="text-align:center;border-top: #a2a9b1 1px solid;">Frequency and comparison:<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr></tbody></table>
-<p><b>Underwood</b> is a surname of <a href="/wiki/England" title="England">English</a> topographic origin. 
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">Not to be confused with <a href="/wiki/Serbian_language" title="Serbian language">Serbian language</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Upper_Sorbian_language" title="Upper Sorbian language">Upper Sorbian language</a> and <a href="/wiki/Lower_Sorbian_language" title="Lower Sorbian language">Lower Sorbian language</a></div>
+<div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Sorbian_(disambiguation)" class="mw-redirect mw-disambig" title="Sorbian (disambiguation)">Sorbian (disambiguation)</a>.</div>
+<table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Sorbian_languages&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Sorbian+languages%22">"Sorbian languages"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Sorbian+languages%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Sorbian+languages%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Sorbian+languages%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Sorbian+languages%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Sorbian+languages%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">January 2011</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="infobox" style="width:22em;width:22em;"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color:  #c9ffd9;">Sorbian</th></tr><tr><td colspan="2" style="text-align:center;background-color:  #c9ffd9;"><i lang="hsb" title="Upper Sorbian language text">serbšćina, serbsce</i>&#160;&#160;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Upper_Sorbian_language" title="Upper Sorbian language">Upper Sorbian</a>)</span><br /><i lang="dsb" title="Lower Sorbian language text">serbšćina, serbski</i>&#160;&#160;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Lower_Sorbian_language" title="Lower Sorbian language">Lower Sorbian</a>)</span></td></tr><tr><th scope="row">Ethnicity</th><td><a href="/wiki/Sorbs" title="Sorbs">Sorbs</a></td></tr><tr><th scope="row">Geographic<br />distribution</th><td><a href="/wiki/Lusatia" title="Lusatia">Lusatia</a></td></tr><tr><th scope="row"><a href="/wiki/Language_family" title="Language family">Linguistic classification</a></th><td><a href="/wiki/Indo-European_languages" title="Indo-European languages">Indo-European</a><ul style="line-height:100%; margin-left:15px;padding-left:0"><li><a href="/wiki/Balto-Slavic_languages" title="Balto-Slavic languages">Balto-Slavic</a><ul style="line-height:100%; margin-left:5px;padding-left:0"><li><a href="/wiki/Slavic_languages" title="Slavic languages">Slavic</a><ul style="line-height:100%; margin-left:5px;padding-left:0"><li><a href="/wiki/West_Slavic_languages" title="West Slavic languages">West Slavic</a><ul style="line-height:100%; margin-left:5px;padding-left:0"><li><b>Sorbian</b></li></ul></li></ul></li></ul></li></ul></td></tr><tr class="plainlist"><th scope="row">Subdivisions</th><td>
+<ul><li><a href="/wiki/Upper_Sorbian_language" title="Upper Sorbian language">Upper Sorbian</a></li>
+<li><a href="/wiki/Lower_Sorbian_language" title="Lower Sorbian language">Lower Sorbian</a></li></ul>
+</td></tr><tr><th scope="row"><a href="/wiki/ISO_639-2" title="ISO 639-2">ISO 639-2</a> / <a href="/wiki/ISO_639-5" title="ISO 639-5">5</a></th><td><samp><a href="https://iso639-3.sil.org/code/wen" class="extiw" title="iso639-3:wen">wen</a></samp></td></tr><tr><th scope="row"><a href="/wiki/Glottolog" title="Glottolog">Glottolog</a></th><td><samp><a rel="nofollow" class="external text" href="http://glottolog.org/resource/languoid/id/sorb1249">sorb1249</a></samp><sup id="cite_ref-Glottolog_1-0" class="reference"><a href="#cite_note-Glottolog-1">&#91;1&#93;</a></sup></td></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:%D0%9B%D1%83%D0%B6%D0%B8%D1%86%D0%BA%D0%B8%D0%B5_%D1%81%D0%B5%D1%80%D0%B1%D1%8B_%D0%BD%D0%B0_%D0%BA%D0%B0%D1%80%D1%82%D0%B5_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8.svg" class="image"><img alt="Лужицкие сербы на карте Германии.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/%D0%9B%D1%83%D0%B6%D0%B8%D1%86%D0%BA%D0%B8%D0%B5_%D1%81%D0%B5%D1%80%D0%B1%D1%8B_%D0%BD%D0%B0_%D0%BA%D0%B0%D1%80%D1%82%D0%B5_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8.svg/300px-%D0%9B%D1%83%D0%B6%D0%B8%D1%86%D0%BA%D0%B8%D0%B5_%D1%81%D0%B5%D1%80%D0%B1%D1%8B_%D0%BD%D0%B0_%D0%BA%D0%B0%D1%80%D1%82%D0%B5_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8.svg.png" decoding="async" width="300" height="406" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/%D0%9B%D1%83%D0%B6%D0%B8%D1%86%D0%BA%D0%B8%D0%B5_%D1%81%D0%B5%D1%80%D0%B1%D1%8B_%D0%BD%D0%B0_%D0%BA%D0%B0%D1%80%D1%82%D0%B5_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8.svg/450px-%D0%9B%D1%83%D0%B6%D0%B8%D1%86%D0%BA%D0%B8%D0%B5_%D1%81%D0%B5%D1%80%D0%B1%D1%8B_%D0%BD%D0%B0_%D0%BA%D0%B0%D1%80%D1%82%D0%B5_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/%D0%9B%D1%83%D0%B6%D0%B8%D1%86%D0%BA%D0%B8%D0%B5_%D1%81%D0%B5%D1%80%D0%B1%D1%8B_%D0%BD%D0%B0_%D0%BA%D0%B0%D1%80%D1%82%D0%B5_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8.svg/600px-%D0%9B%D1%83%D0%B6%D0%B8%D1%86%D0%BA%D0%B8%D0%B5_%D1%81%D0%B5%D1%80%D0%B1%D1%8B_%D0%BD%D0%B0_%D0%BA%D0%B0%D1%80%D1%82%D0%B5_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8.svg.png 2x" data-file-width="2000" data-file-height="2706" /></a><div style="text-align:left;"><div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #0B4D0B; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;The Sorbian-speaking region in <a href="/wiki/Germany" title="Germany">Germany</a></div></div>
+</td></tr></tbody></table>
+<p>The <b>Sorbian languages</b> (<a href="/wiki/Upper_Sorbian_language" title="Upper Sorbian language">Upper Sorbian</a>: <i lang="hsb">serbska rěč</i>, <a href="/wiki/Lower_Sorbian_language" title="Lower Sorbian language">Lower Sorbian</a>: <i lang="dsb">serbska rěc</i>) are two closely related, but only partially mutually intelligible, <a href="/wiki/West_Slavic_languages" title="West Slavic languages">West Slavic languages</a> spoken by the <a href="/wiki/Sorbs" title="Sorbs">Sorbs</a>, a <a href="/wiki/West_Slavs" title="West Slavs">West Slavic</a> minority in the <a href="/wiki/Lusatia" title="Lusatia">Lusatia</a> region of eastern <a href="/wiki/Germany" title="Germany">Germany</a>. They are classified under the <a href="/wiki/West_Slavic_languages" title="West Slavic languages">West Slavic</a> branch of the <a href="/wiki/Indo-European_languages" title="Indo-European languages">Indo-European languages</a> and are therefore closely related to the other two West Slavic subgroups: <a href="/wiki/Lechitic_languages" title="Lechitic languages">Lechitic</a> and <a href="/wiki/Czech%E2%80%93Slovak_languages" title="Czech–Slovak languages">Czech–Slovak</a>.<sup id="cite_ref-Faska_2-0" class="reference"><a href="#cite_note-Faska-2">&#91;2&#93;</a></sup> Historically, the languages have also been known as <b>Wendish</b> (named after the <a href="/wiki/Wends" title="Wends">Wends</a>, earliest Slavic people in modern Poland and Germany) or <b>Lusatian</b>. Their collective <a href="/wiki/ISO_639" title="ISO 639">ISO 639</a>-2 code is <tt>wen</tt>.
+</p><p>The two Sorbian languages and <a href="/wiki/Literary_language" title="Literary language">literary standards</a> are <a href="/wiki/Upper_Sorbian_language" title="Upper Sorbian language">Upper Sorbian</a> (<i lang="hsb" title="Upper Sorbian language text">hornjoserbsce</i>), spoken by about 40,000 people in <a href="/wiki/Saxony" title="Saxony">Saxony</a>, and <a href="/wiki/Lower_Sorbian_language" title="Lower Sorbian language">Lower Sorbian</a> (<i lang="dsb" title="Lower Sorbian language text">dolnoserbski</i>) spoken by about 10,000 people in <a href="/wiki/Brandenburg" title="Brandenburg">Brandenburg</a>. The area where the two languages are spoken is known as <a href="/wiki/Lusatia" title="Lusatia">Lusatia</a> (<i lang="hsb" title="Upper Sorbian language text">Łužica</i> in Upper Sorbian, <i lang="dsb" title="Lower Sorbian language text">Łužyca</i> in Lower Sorbian, or <i lang="de" title="German language text">Lausitz</i> in <a href="/wiki/German_language" title="German language">German</a>).
 </p>
-<style data-mw-deduplicate="TemplateStyles:r886049878">.mw-parser-output .tocright{float:right;clear:right;width:auto;background:none;padding:.5em 0 .8em 1.4em;margin-bottom:.5em}.mw-parser-output .tocright-clear-left{clear:left}.mw-parser-output .tocright-clear-both{clear:both}.mw-parser-output .tocright-clear-none{clear:none}</style><div class="tocright" style=""><div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
 <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#People"><span class="tocnumber">2</span> <span class="toctext">People</span></a>
+<li class="toclevel-1 tocsection-2"><a href="#Geographic_distribution"><span class="tocnumber">2</span> <span class="toctext">Geographic distribution</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Linguistic_features"><span class="tocnumber">3</span> <span class="toctext">Linguistic features</span></a>
 <ul>
-<li class="toclevel-2 tocsection-3"><a href="#Surname"><span class="tocnumber">2.1</span> <span class="toctext">Surname</span></a>
-<ul>
-<li class="toclevel-3 tocsection-4"><a href="#General"><span class="tocnumber">2.1.1</span> <span class="toctext">General</span></a></li>
-<li class="toclevel-3 tocsection-5"><a href="#Arts"><span class="tocnumber">2.1.2</span> <span class="toctext">Arts</span></a></li>
-<li class="toclevel-3 tocsection-6"><a href="#Politicians"><span class="tocnumber">2.1.3</span> <span class="toctext">Politicians</span></a></li>
-<li class="toclevel-3 tocsection-7"><a href="#Sports"><span class="tocnumber">2.1.4</span> <span class="toctext">Sports</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Grammar"><span class="tocnumber">3.1</span> <span class="toctext">Grammar</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Vocabulary_comparison"><span class="tocnumber">3.2</span> <span class="toctext">Vocabulary comparison</span></a></li>
 </ul>
 </li>
-<li class="toclevel-2 tocsection-8"><a href="#Given_name"><span class="tocnumber">2.2</span> <span class="toctext">Given name</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
-<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
 </ul>
 </div>
-</div>
-<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underwood&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Deriving from the <a href="/wiki/Old_English" title="Old English">Old English</a> "under" a preposition meaning "under" or "below", plus "wuda", a wood. The name was originally given to one dwelling at the foot of a wood or literally "below the trees of a forest". The name may also be locational from three places named with these elements i.e., <a href="/wiki/Weston_Underwood,_Derbyshire" title="Weston Underwood, Derbyshire">Underwood</a> in <a href="/wiki/Derbyshire" title="Derbyshire">Derbyshire</a>, <a href="/wiki/England" title="England">England</a>, <a href="/wiki/Underwood,_Nottinghamshire" title="Underwood, Nottinghamshire">Underwood, Nottinghamshire</a>, England. The surname is first recorded in the latter half of the 12th Century (see below). One William Underwude appears in the 1219 Assize Court Rolls of Yorkshire, and a William under the Wode in the 1332 Subsidy Rolls of Staffordshire. From the beginning of the surviving parish registers in 1559 there were Underwoods recorded in <a href="/wiki/Pickering,_North_Yorkshire" title="Pickering, North Yorkshire">Pickering</a> parish, <a href="/wiki/North_Yorkshire" title="North Yorkshire">North Yorkshire</a>, England.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> On 2 January 1634, one Joseph Underwood, aged 23 yrs., embarked from London on the ship "Bonaventure" bound for Virginia. He was one of the earliest recorded name bearers to enter America. No less than seven Coats of Arms were granted to families of this name; a particular namebearer mentioned in the Dictionary of National Biography was one <a href="/wiki/Michael_Underwood_(physician)" title="Michael Underwood (physician)">Michael Underwood</a> (1737–1820) who practised in London as a surgeon and as a "male-midwife". The first recorded spelling of the family name is shown to be that of William de Underwode which was dated 1188, in the "Records of Bury St. Edmunds, Suffolk", during the reign of King Henry II, known as "The Builder of Churches", 1154 - 1189.
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sorbian_languages&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>After the settlement of the formerly Germanic territories (the part largely corresponding to the former <a href="/wiki/East_Germany" title="East Germany">East Germany</a>) by the Sorbs' Slavic ancestors in the fifth and sixth centuries, the Sorbian language (or its predecessors) had been in use in much of what was the southern half of East Germany for several centuries, and still had its stronghold in (Upper and Lower) Lusatia, where it enjoys national protection and fostering to the present day. Outside Lusatia, it has been superseded by German. From the 13th century on, the language suffered official discrimination.<sup id="cite_ref-Faska_2-1" class="reference"><a href="#cite_note-Faska-2">&#91;2&#93;</a></sup> <a href="/wiki/Bible_translations_into_Sorbian" title="Bible translations into Sorbian">Bible translations into Sorbian</a> provided the foundations for its writing system.
 </p>
-<h2><span class="mw-headline" id="People">People</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underwood&amp;action=edit&amp;section=2" title="Edit section: People">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Surname">Surname</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underwood&amp;action=edit&amp;section=3" title="Edit section: Surname">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<h4><span class="mw-headline" id="General">General</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underwood&amp;action=edit&amp;section=4" title="Edit section: General">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
-<ul><li><a href="/wiki/Antony_Underwood" title="Antony Underwood">Antony Underwood</a>, Australian scientist</li>
-<li><a href="/wiki/April_Underwood" title="April Underwood">April Underwood</a>, tech investor</li>
-<li><a href="/wiki/Barbara_Underwood" title="Barbara Underwood">Barbara Underwood</a> (born 1944), American lawyer</li>
-<li><a href="/wiki/Cecil_F._Underwood" title="Cecil F. Underwood">Cecil F. Underwood</a> (1867&#8211;1943), British scientific collector</li>
-<li><a href="/wiki/Cecilia_Underwood,_1st_Duchess_of_Inverness" title="Cecilia Underwood, 1st Duchess of Inverness">Cecilia Underwood, 1st Duchess of Inverness</a> (c. 1785 – 1873), British peer</li>
-<li><a href="/wiki/Edmund_Underwood" title="Edmund Underwood">Edmund Underwood</a> (182?–1863), U.S. Army officer 1848–1863</li>
-<li><a href="/wiki/Edmund_Beardsley_Underwood" title="Edmund Beardsley Underwood">Edmund Beardsley Underwood</a> (1853–1928), American naval officer, son of Edmund Underwood</li>
-<li><a href="/wiki/Elizabeth_Underwood" title="Elizabeth Underwood">Elizabeth Underwood</a> (c. 1794–1858), Australian land owner</li>
-<li><a href="/wiki/Eric_Underwood" title="Eric Underwood">Eric Underwood</a> (1905–1980), Australian scientist</li>
-<li><a href="/wiki/Francis_Henry_Underwood" class="mw-redirect" title="Francis Henry Underwood">Francis Henry Underwood</a> (1825–1894), American biographer and diplomat</li>
-<li><a href="/wiki/George_V._Underwood_Jr." title="George V. Underwood Jr.">George V. Underwood Jr.</a> (1913–1984), American army general</li>
-<li><a href="/wiki/Gordon_Waite_Underwood" title="Gordon Waite Underwood">Gordon Waite Underwood</a> (1932–1978), American naval officer</li>
-<li><a href="/wiki/Grant_Underwood" title="Grant Underwood">Grant Underwood</a> (born 1954), American Mormon historian</li>
-<li><a href="/wiki/Horace_Grant_Underwood" title="Horace Grant Underwood">Horace Grant Underwood</a> (1859–1916), American missionary and founder of Yonsei University in Korea</li>
-<li><a href="/wiki/James_Underwood_(businessman)" title="James Underwood (businessman)">James Underwood</a> (1771-1844) Australian merchant</li>
-<li><a href="/wiki/James_Underwood" title="James Underwood">James Underwood</a> (born 1942), British pathologist</li>
-<li><a href="/wiki/Jim_Underwood" title="Jim Underwood">Jim Underwood</a>, American management professor</li>
-<li><a href="/wiki/John_Underwood_(PR_adviser)" title="John Underwood (PR adviser)">John Underwood (PR adviser)</a>, British public relation adviser</li>
-<li><a href="/wiki/John_Thomas_Underwood" title="John Thomas Underwood">John Thomas Underwood</a> (1857–1937), founder of the Underwood Typewriter Company</li>
-<li><a href="/wiki/Joseph_Edwin_Underwood" title="Joseph Edwin Underwood">Joseph Edwin Underwood</a> (1882–1960), Canadian engineer</li>
-<li><a href="/wiki/Julie_K._Underwood" class="mw-redirect" title="Julie K. Underwood">Julie K. Underwood</a>, American academic</li>
-<li><a href="/wiki/Kevin_Ray_Underwood" title="Kevin Ray Underwood">Kevin Ray Underwood</a> (born 1979), American murder convict</li>
-<li><a href="/wiki/Lucien_Marcus_Underwood" title="Lucien Marcus Underwood">Lucien Marcus Underwood</a> (1853–1907), American botanist and mycologist</li>
-<li><a href="/wiki/Peter_Underwood" title="Peter Underwood">Peter Underwood</a> (1937–2014), Australian judge and government official</li>
-<li><a href="/wiki/Peter_Underwood_(parapsychologist)" title="Peter Underwood (parapsychologist)">Peter Underwood (parapsychologist)</a> (1923–2014), English author, broadcaster and paranormalist</li>
-<li><a href="/wiki/Robert_C._Underwood" title="Robert C. Underwood">Robert C. Underwood</a> (1915–1988), American jurist from Illinois</li>
-<li><a href="/wiki/Rory_Underwood" title="Rory Underwood">Rory Underwood</a> (born 1992), Company Director of Rormat ltd</li>
-<li><a href="/wiki/William_D._Underwood" title="William D. Underwood">William D. Underwood</a>, American university president</li></ul>
-<h4><span class="mw-headline" id="Arts">Arts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underwood&amp;action=edit&amp;section=5" title="Edit section: Arts">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
-<ul><li><a href="/wiki/Blair_Underwood" title="Blair Underwood">Blair Underwood</a> (born 1964), American actor</li>
-<li><a href="/wiki/Brittany_Underwood" title="Brittany Underwood">Brittany Underwood</a> (born 1988), American actress</li>
-<li><a href="/wiki/Carrie_Underwood" title="Carrie Underwood">Carrie Underwood</a> (born 1983), American singer and winner of the <i>American Idol</i> TV series in 2005</li>
-<li><a href="/wiki/Charles_Underwood" title="Charles Underwood">Charles Underwood</a> (1791–1883), English architect</li>
-<li><a href="/wiki/Edna_W._Underwood" title="Edna W. Underwood">Edna W. Underwood</a> (1873–1961), American author, poet, and translator</li>
-<li><a href="/wiki/Frank_Underwood_(English_musician)" title="Frank Underwood (English musician)">Frank Underwood (English musician)</a></li>
-<li><a href="/wiki/Franklin_Underwood" title="Franklin Underwood">Franklin Underwood</a>, American musical theatre composer</li>
-<li><a href="/wiki/George_Allen_Underwood" title="George Allen Underwood">George Allen Underwood</a> (1793–1829), English architect</li>
-<li><a href="/wiki/Gilbert_Stanley_Underwood" title="Gilbert Stanley Underwood">Gilbert Stanley Underwood</a> (1890–1960), American architect</li>
-<li><a href="/wiki/Henry_Underwood_(architect)" title="Henry Underwood (architect)">Henry Underwood (architect)</a> (1787–1868), English architect</li>
-<li><a href="/wiki/Henry_Jones_Underwood" title="Henry Jones Underwood">Henry Jones Underwood</a> (1804–1852), English architect</li>
-<li><a href="/wiki/Ian_Underwood" title="Ian Underwood">Ian Underwood</a> (born 1939), musician</li>
-<li><a href="/wiki/Jay_Underwood" title="Jay Underwood">Jay Underwood</a> (born 1968), American actor</li>
-<li><a href="/wiki/Katie_Underwood" title="Katie Underwood">Katie Underwood</a> (born 1975), Australian singer-songwriter</li>
-<li><a href="/w/index.php?title=Kianna_Underwood&amp;action=edit&amp;redlink=1" class="new" title="Kianna Underwood (page does not exist)">Kianna Underwood</a> (born 1992), child actress</li>
-<li><a href="/wiki/Larry_Underwood" class="mw-redirect" title="Larry Underwood">Larry Underwood</a> (born 1966), American actor</li>
-<li><a href="/wiki/Lee_Underwood" title="Lee Underwood">Lee Underwood</a> (born 1938), American musician</li>
-<li><a href="/wiki/Leon_Underwood" title="Leon Underwood">Leon Underwood</a> (1890–1975), British artist</li>
-<li><a href="/wiki/Loyal_Underwood" title="Loyal Underwood">Loyal Underwood</a> (1893–1966), American actor</li>
-<li><a href="/wiki/Matt_Underwood" title="Matt Underwood">Matt Underwood</a> (born 1968), American sports announcer</li>
-<li><a href="/wiki/Michael_Underwood" title="Michael Underwood">Michael Underwood</a> (born 1975), British television presenter</li>
-<li><a href="/wiki/Mick_Underwood" title="Mick Underwood">Mick Underwood</a> (born 1975), British drummer</li>
-<li><a href="/wiki/Ron_Underwood" title="Ron Underwood">Ron Underwood</a> (born 1953), American film director</li>
-<li><a href="/wiki/Ron_Underwood_(musician)" title="Ron Underwood (musician)">Ron Underwood (musician)</a></li>
-<li><a href="/wiki/Ruth_Underwood" title="Ruth Underwood">Ruth Underwood</a> (born 1946), American musician</li>
-<li><a href="/wiki/Sam_Underwood" title="Sam Underwood">Sam Underwood</a> (born 1987), American actor</li>
-<li><a href="/wiki/Sam_Underwood" title="Sam Underwood">Sam Underwood</a> (born 1990), British writer, director and actor</li>
-<li><a href="/wiki/Sara_Jean_Underwood" title="Sara Jean Underwood">Sara Jean Underwood</a> (born 1984), American model, actress, and Playboy Playmate</li>
-<li><a href="/wiki/Scott_Underwood" class="mw-redirect" title="Scott Underwood">Scott Underwood</a>, American drummer</li>
-<li><a href="/wiki/Sheryl_Underwood" title="Sheryl Underwood">Sheryl Underwood</a> (born 1963), American comedian</li>
-<li><a href="/wiki/Wilbur_Underwood" title="Wilbur Underwood">Wilbur Underwood</a> (1874–1935), American poet</li>
-<li><a href="/wiki/William_Lyman_Underwood" title="William Lyman Underwood">William Lyman Underwood</a> (1864–1929), American photographer</li></ul>
-<h4><span class="mw-headline" id="Politicians">Politicians</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underwood&amp;action=edit&amp;section=6" title="Edit section: Politicians">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
-<ul><li><a href="/wiki/Cecil_H._Underwood" title="Cecil H. Underwood">Cecil H. Underwood</a> (1922–2008), American politician</li>
-<li><a href="/wiki/Frank_Underwood_(House_of_Cards)" title="Frank Underwood (House of Cards)">Frank Underwood (<i>House of Cards</i>)</a>, fictional American politician</li>
-<li><a href="/wiki/Henry_Underwood" title="Henry Underwood">Henry Underwood</a> (1863–1945), Australian politician</li>
-<li><a href="/wiki/Jim_Underwood_(Guam_politician)" title="Jim Underwood (Guam politician)">Jim Underwood (Guam politician)</a>, American politician</li>
-<li><a href="/wiki/John_C._Underwood" title="John C. Underwood">John C. Underwood</a> (1840–1913), American politician and judge</li>
-<li><a href="/wiki/John_Curtiss_Underwood" title="John Curtiss Underwood">John Curtiss Underwood</a> (1809–1873), American politician</li>
-<li><a href="/wiki/John_W._H._Underwood" class="mw-redirect" title="John W. H. Underwood">John W. H. Underwood</a> (1816–1888), American politician</li>
-<li><a href="/wiki/Joseph_R._Underwood" title="Joseph R. Underwood">Joseph R. Underwood</a> (1791–1876), American politician</li>
-<li><a href="/wiki/Lauren_Underwood" title="Lauren Underwood">Lauren Underwood</a> (born 1986), American politician</li>
-<li><a href="/wiki/Mell_G._Underwood" title="Mell G. Underwood">Mell G. Underwood</a> (1892–1972), American politician</li>
-<li><a href="/wiki/Nerissa_Bretania_Underwood" title="Nerissa Bretania Underwood">Nerissa Bretania Underwood</a>, Guamanian politician</li>
-<li><a href="/wiki/Oscar_Underwood" title="Oscar Underwood">Oscar Underwood</a> (1862–1929), American politician</li>
-<li><a href="/wiki/Robert_A._Underwood" title="Robert A. Underwood">Robert A. Underwood</a> (born 1948), American politician from Guam</li>
-<li><a href="/wiki/Thomas_Underwood" title="Thomas Underwood">Thomas Underwood</a> (1863–1948), Canadian politician</li>
-<li><a href="/wiki/Thomas_R._Underwood" title="Thomas R. Underwood">Thomas R. Underwood</a> (1898–1956), American politician</li>
-<li><a href="/wiki/Warner_Underwood" title="Warner Underwood">Warner Underwood</a> (1808–1872), American politician</li></ul>
-<h4><span class="mw-headline" id="Sports">Sports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underwood&amp;action=edit&amp;section=7" title="Edit section: Sports">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
-<ul><li><a href="/wiki/Derek_Underwood" title="Derek Underwood">Derek Underwood</a> (born 1945), English cricketer</li>
-<li><a href="/wiki/Dimitrius_Underwood" title="Dimitrius Underwood">Dimitrius Underwood</a> (born 1977), American football defensive end</li>
-<li><a href="/wiki/Duane_Underwood" class="mw-redirect" title="Duane Underwood">Duane Underwood</a> (born 1994), American baseball player</li>
-<li><a href="/wiki/E._J._Underwood" title="E. J. Underwood">E. J. Underwood</a> (born 1983), American football cornerback</li>
-<li><a href="/wiki/Fred_Underwood" title="Fred Underwood">Fred Underwood</a> (1868–1906), American baseball pitcher</li>
-<li><a href="/wiki/George_Underwood_(athlete)" title="George Underwood (athlete)">George Underwood (athlete)</a> (1884–1943), American track and field athlete</li>
-<li><a href="/wiki/Lake_Underwood" title="Lake Underwood">Lake Underwood</a> (born 1926), American race car driver</li>
-<li><a href="/w/index.php?title=Landon_J._Underwood&amp;action=edit&amp;redlink=1" class="new" title="Landon J. Underwood (page does not exist)">Landon J. Underwood</a> (born 1965), American racer</li>
-<li><a href="/wiki/Marviel_Underwood" title="Marviel Underwood">Marviel Underwood</a> (born 1982), American football safety</li>
-<li><a href="/wiki/Olen_Underwood" title="Olen Underwood">Olen Underwood</a> (born 1942), American football player and judge</li>
-<li><a href="/wiki/Paul_Underwood" title="Paul Underwood">Paul Underwood</a> (born 1973), English footballer</li>
-<li><a href="/wiki/Rory_Underwood" title="Rory Underwood">Rory Underwood</a> (born 1963), English rugby union player</li>
-<li><a href="/w/index.php?title=Sean_Underwood&amp;action=edit&amp;redlink=1" class="new" title="Sean Underwood (page does not exist)">Sean Underwood</a> (born 1992), doctor, rower, and skateboarder</li>
-<li><a href="/wiki/Tiquan_Underwood" title="Tiquan Underwood">Tiquan Underwood</a> (born 1987), American football wide receiver</li>
-<li><a href="/wiki/Tom_Underwood" title="Tom Underwood">Tom Underwood</a> (born 1953), American baseball pitcher</li>
-<li><a href="/wiki/Tony_Underwood" title="Tony Underwood">Tony Underwood</a> (born 1969), English rugby union player</li>
-<li><a href="/wiki/Wayne_Underwood" title="Wayne Underwood">Wayne Underwood</a> (1913–1967), American football player</li></ul>
-<h3><span class="mw-headline" id="Given_name">Given name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underwood&amp;action=edit&amp;section=8" title="Edit section: Given name">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Underwood_Dudley" title="Underwood Dudley">Underwood Dudley</a>, American mathematician</li></ul>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underwood&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Frank_Underwood_(disambiguation)" class="mw-redirect mw-disambig" title="Frank Underwood (disambiguation)">Frank Underwood (disambiguation)</a></li>
-<li><a href="/wiki/Justice_Underwood_(disambiguation)" class="mw-redirect mw-disambig" title="Justice Underwood (disambiguation)">Justice Underwood (disambiguation)</a></li></ul>
-<style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
-<table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
+<h2><span class="mw-headline" id="Geographic_distribution">Geographic distribution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sorbian_languages&amp;action=edit&amp;section=2" title="Edit section: Geographic distribution">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In Germany, Upper and Lower Sorbian are officially recognized and protected as minority languages.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers" title="Wikipedia:Manual of Style/Dates and numbers"><span title="Need the year this event took place (September 2017)">year&#160;needed</span></a></i>&#93;</sup> In the home areas of the Sorbs, both languages are recognized as second official languages next to German.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2017)">citation needed</span></a></i>&#93;</sup><sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers" title="Wikipedia:Manual of Style/Dates and numbers"><span title="Need the year this event took place (September 2017)">year&#160;needed</span></a></i>&#93;</sup>
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Bautzen_Ortsschild.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bautzen_Ortsschild.jpg/220px-Bautzen_Ortsschild.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bautzen_Ortsschild.jpg/330px-Bautzen_Ortsschild.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bautzen_Ortsschild.jpg/440px-Bautzen_Ortsschild.jpg 2x" data-file-width="992" data-file-height="744" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Bautzen_Ortsschild.jpg" class="internal" title="Enlarge"></a></div>A bilingual sign in <a href="/wiki/Bautzen" title="Bautzen">Bautzen</a></div></div></div>
+<p>The city of <a href="/wiki/Bautzen" title="Bautzen">Bautzen</a> in <a href="/wiki/Upper_Lusatia" title="Upper Lusatia">Upper Lusatia</a> is the centre of Upper Sorbian culture. Bilingual signs can be seen around the city, including the name of the city, "Bautzen/<i lang="hsb" title="Upper Sorbian language text">Budyšin</i>".
+The city of <a href="/wiki/Cottbus" title="Cottbus">Cottbus</a> (<i lang="dsb" title="Lower Sorbian language text">Chóśebuz</i>) is considered the cultural centre of Lower Sorbian; here, too, bilingual signs are found.
+Sorbian has also been spoken in the small Sorbian ("Wendish") settlement of <a href="/wiki/Serbin,_Texas" title="Serbin, Texas">Serbin</a> in <a href="/wiki/Lee_County,_Texas" title="Lee County, Texas">Lee County, Texas</a>, and  a few speakers possibly still remain there. Until 1949, newspapers were published in Sorbian there. The local dialect has been heavily influenced by surrounding speakers of German and <a href="/wiki/English_language" title="English language">English</a>.
+</p><p>The German terms "Wends" (<i>Wenden</i>) and "Wendish" (<i>wendisch/Wendisch</i>) once denoted "Slav(ic)" generally;<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2017)">citation needed</span></a></i>&#93;</sup> they are today mostly replaced by "Sorbs" (<i>Sorben</i>) and "Sorbian" (<i>sorbisch/Sorbisch</i>) with reference to Sorbian communities in Germany.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2017)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="Linguistic_features">Linguistic features</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sorbian_languages&amp;action=edit&amp;section=3" title="Edit section: Linguistic features">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Both Upper and Lower Sorbian have the <a href="/wiki/Dual_(grammatical_number)" title="Dual (grammatical number)">dual</a> for <a href="/wiki/Noun" title="Noun">nouns</a>, <a href="/wiki/Pronoun" title="Pronoun">pronouns</a>, <a href="/wiki/Adjective" title="Adjective">adjectives</a>, and <a href="/wiki/Verb" title="Verb">verbs</a>; very few living Indo-European languages retain this as a productive feature of the grammar. For example, the word <i lang="dsb" title="Lower Sorbian language text">ruka</i> is used for one hand, <i lang="dsb" title="Lower Sorbian language text">ruce</i> for two hands, and <i lang="dsb" title="Lower Sorbian language text">ruki</i> for more than two hands. As with most of the <a href="/wiki/Slavic_languages" title="Slavic languages">Slavic languages</a>, Sorbian uses no articles.
+</p>
+<h3><span class="mw-headline" id="Grammar">Grammar</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sorbian_languages&amp;action=edit&amp;section=4" title="Edit section: Grammar">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Sorbian languages are <a href="/wiki/Declension" title="Declension">declined</a> in six or seven cases:
+</p>
+<ol><li><a href="/wiki/Nominative_case" title="Nominative case">Nominative</a></li>
+<li><a href="/wiki/Accusative_case" title="Accusative case">Accusative</a></li>
+<li><a href="/wiki/Dative_case" title="Dative case">Dative</a></li>
+<li><a href="/wiki/Genitive_case" title="Genitive case">Genitive</a></li>
+<li><a href="/wiki/Instrumental_case" title="Instrumental case">Instrumental</a></li>
+<li><a href="/wiki/Locative_case" title="Locative case">Locative</a></li>
+<li><a href="/wiki/Vocative_case" title="Vocative case">Vocative</a> (Upper Sorbian only)</li></ol>
+<table class="wikitable">
+
 <tbody><tr>
-<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
-<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Underwood</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Underwood&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
-</tr>
-</tbody></table>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Underwood&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<th>Case
+</th>
+<th colspan="2">nan<br />father
+</th>
+<th>štom<br />tree
+</th>
+<th>bom<br />tree
+</th>
+<th colspan="2">wokno<br />window
+</th></tr>
+<tr>
+<td>&#160;
+</td>
+<td>Upper Sorb.
+</td>
+<td>Lower Sorb.
+</td>
+<td>Upper Sorb.
+</td>
+<td>Lower Sorb.
+</td>
+<td>Upper Sorb.
+</td>
+<td>Lower Sorb.
+</td></tr>
+<tr>
+<td>Nom.
+</td>
+<td>nan
+</td>
+<td>nan
+</td>
+<td>štom
+</td>
+<td>bom
+</td>
+<td>wokno
+</td>
+<td>wokno
+</td></tr>
+<tr>
+<td>Gen.
+</td>
+<td>nana
+</td>
+<td>nana
+</td>
+<td>štoma
+</td>
+<td>boma
+</td>
+<td>wokna
+</td>
+<td>wokna
+</td></tr>
+<tr>
+<td>Dat.
+</td>
+<td>nan<b>ej</b>
+</td>
+<td>nan<b>oju</b>
+</td>
+<td>štom<b>ej</b>
+</td>
+<td>bom<b>oju</b>
+</td>
+<td>woknu
+</td>
+<td>wokn<b>oju</b>, woknu
+</td></tr>
+<tr>
+<td>Acc.
+</td>
+<td>nana
+</td>
+<td>nana
+</td>
+<td>štom
+</td>
+<td>bom
+</td>
+<td>wokno
+</td>
+<td>wokno
+</td></tr>
+<tr>
+<td>Instr.
+</td>
+<td>z nanom
+</td>
+<td>z nanom
+</td>
+<td>ze štomom
+</td>
+<td>z bomom
+</td>
+<td>z woknom
+</td>
+<td>z woknom
+</td></tr>
+<tr>
+<td>Loc.
+</td>
+<td>wo nanje
+</td>
+<td>wó nanje
+</td>
+<td>na štomje
+</td>
+<td>na bomje
+</td>
+<td>na woknje
+</td>
+<td>na woknje
+</td></tr>
+<tr>
+<td>Voc.
+</td>
+<td>nano
+</td>
+<td>—
+</td>
+<td>štomo
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td></tr></tbody></table>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Case
+</th>
+<th>ramjo<br />shoulder
+</th>
+<th>ramje<br />shoulder, armpit
+</th>
+<th>žona<br />woman
+</th>
+<th>žeńska<br />woman, wife
+</th>
+<th colspan="2">ruka<br />hand
+</th></tr>
+<tr>
+<td>&#160;
+</td>
+<td>Upper Sorb.
+</td>
+<td>Lower Sorb.
+</td>
+<td>Upper Sorb.
+</td>
+<td>Lower Sorb.
+</td>
+<td>Upper Sorb.
+</td>
+<td>Lower Sorb.
+</td></tr>
+<tr>
+<td>Nom.
+</td>
+<td>ramjo
+</td>
+<td>ramje
+</td>
+<td>žona
+</td>
+<td>žeńska
+</td>
+<td colspan="2">ruka
+</td></tr>
+<tr>
+<td>Gen.
+</td>
+<td>ramjenja
+</td>
+<td>ramjenja
+</td>
+<td>žony
+</td>
+<td>žeńskeje
+</td>
+<td colspan="2">ruki
+</td></tr>
+<tr>
+<td>Dat.
+</td>
+<td>ramjenju
+</td>
+<td>ramjenj<b>eju</b>, ramjenju
+</td>
+<td>žonje
+</td>
+<td>žeńskej
+</td>
+<td colspan="2">ruce
+</td></tr>
+<tr>
+<td>Acc.
+</td>
+<td>ramjo
+</td>
+<td>ramje
+</td>
+<td>žonu
+</td>
+<td>žeńsku
+</td>
+<td colspan="2">ruku
+</td></tr>
+<tr>
+<td>Instr.
+</td>
+<td>z ramjen<b>jom</b>
+</td>
+<td>z ramjen<b>im</b>
+</td>
+<td>ze žonu
+</td>
+<td>ze žeńskeju
+</td>
+<td colspan="2">z ruku
+</td></tr>
+<tr>
+<td>Loc.
+</td>
+<td>wo ramjenju
+</td>
+<td>wó ramjenju
+</td>
+<td>wo žonje
+</td>
+<td>wó žeńskej
+</td>
+<td colspan="2">w ruce
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Vocabulary_comparison">Vocabulary comparison</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sorbian_languages&amp;action=edit&amp;section=5" title="Edit section: Vocabulary comparison">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The following is selected vocabulary from the two Sorbian languages compared with other Slavic languages.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>English
+</th>
+<th>Lower Sorbian
+</th>
+<th>Upper Sorbian
+</th>
+<th><a href="/wiki/Serbo-Croatian" title="Serbo-Croatian">Serbo-Croatian</a>
+</th>
+<th><a href="/wiki/Bulgarian_language" title="Bulgarian language">Bulgarian</a>
+</th>
+<th><a href="/wiki/Slovene_language" title="Slovene language">Slovene</a>
+</th>
+<th><a href="/wiki/Czech_language" title="Czech language">Czech</a>
+</th>
+<th><a href="/wiki/Polish_language" title="Polish language">Polish</a>
+</th>
+<th><a href="/wiki/Polabian_language" title="Polabian language">Polabian</a>
+</th>
+<th><a href="/wiki/Kashubian_language" title="Kashubian language">Kashubian</a>
+</th>
+<th><a href="/wiki/Silesian_language" title="Silesian language">Silesian</a>
+</th>
+<th><a href="/wiki/Slovak_language" title="Slovak language">Slovak</a>
+</th>
+<th><a href="/wiki/Russian_language" title="Russian language">Russian</a>
+</th>
+<th><a href="/wiki/Ukrainian_language" title="Ukrainian language">Ukrainian</a>
+</th></tr>
+<tr>
+<td>person, man
+</td>
+<td>clowek/luź
+</td>
+<td>čłowjek
+</td>
+<td>човек / човјек<br />(čovek / čovjek)
+</td>
+<td>човек<br />(čovek)
+</td>
+<td>človek
+</td>
+<td>člověk
+</td>
+<td>człowiek
+</td>
+<td>clawak
+</td>
+<td>człowiek
+</td>
+<td>czowiek
+</td>
+<td>človek
+</td>
+<td>человек<br />(čelovek)
+</td>
+<td>людина (l'udyna),<br />чоловік (čolovik)
+</td></tr>
+<tr>
+<td>evening
+</td>
+<td>wjacor
+</td>
+<td>wječor
+</td>
+<td>вече / вечер<br />(veče / večer)
+</td>
+<td>вечер<br />(večer)
+</td>
+<td>večer
+</td>
+<td>večer
+</td>
+<td>wieczór
+</td>
+<td>vicer
+</td>
+<td>wieczór
+</td>
+<td>wieczōr
+</td>
+<td>večer
+</td>
+<td>вечер<br />(večer)
+</td>
+<td>вечір<br />(večir)
+</td></tr>
+<tr>
+<td>brother
+</td>
+<td>bratš
+</td>
+<td>bratr
+</td>
+<td>брат<br />(brat)
+</td>
+<td>брат<br />(brat)
+</td>
+<td>brat
+</td>
+<td>bratr
+</td>
+<td>brat
+</td>
+<td>brot
+</td>
+<td>brat
+</td>
+<td>brat
+</td>
+<td>brat
+</td>
+<td>брат<br />(brat)
+</td>
+<td>брат<br />(brat)
+</td></tr>
+<tr>
+<td>day
+</td>
+<td>źeń
+</td>
+<td>dźeń
+</td>
+<td>дан<br />(dan)
+</td>
+<td>ден<br />(den)
+</td>
+<td>dan
+</td>
+<td>den
+</td>
+<td>dzień
+</td>
+<td>dôn
+</td>
+<td>dzéń
+</td>
+<td>dziyń
+</td>
+<td>deň
+</td>
+<td>день<br />(den')
+</td>
+<td>день<br />(den')
+</td></tr>
+<tr>
+<td>hand
+</td>
+<td>ruka
+</td>
+<td>ruka
+</td>
+<td>рука<br />(ruka)
+</td>
+<td>ръка<br />(rəka)
+</td>
+<td>roka
+</td>
+<td>ruka
+</td>
+<td>ręka
+</td>
+<td>ręka
+</td>
+<td>rãka
+</td>
+<td>rynka
+</td>
+<td>ruka
+</td>
+<td>рука<br />(ruka)
+</td>
+<td>рука<br />(ruka)
+</td></tr>
+<tr>
+<td>snow
+</td>
+<td>sněg
+</td>
+<td>sněh
+</td>
+<td>снег / снијег<br />(sneg / snijeg)
+</td>
+<td>сняг<br />(snjag)
+</td>
+<td>sneg
+</td>
+<td>sníh
+</td>
+<td>śnieg
+</td>
+<td>sneg
+</td>
+<td>sniég
+</td>
+<td>śniyg
+</td>
+<td>sneh
+</td>
+<td>снег<br />(sneg)
+</td>
+<td>сніг<br />(snih)
+</td></tr>
+<tr>
+<td>summer
+</td>
+<td>lěśe
+</td>
+<td>lěćo
+</td>
+<td>лето / љето<br />(leto / ljeto)
+</td>
+<td>лято / лето<br />(ljato / ljeto)
+</td>
+<td>poletje
+</td>
+<td>léto
+</td>
+<td>lato
+</td>
+<td>ljutü
+</td>
+<td>lato
+</td>
+<td>lato
+</td>
+<td>leto
+</td>
+<td>лето<br />(leto)
+</td>
+<td>літо<br />(lito)
+</td></tr>
+<tr>
+<td>sister
+</td>
+<td>sotša
+</td>
+<td>sotra
+</td>
+<td>сестра<br />(sestra)
+</td>
+<td>сестра<br />(sestra)
+</td>
+<td>sestra
+</td>
+<td>sestra
+</td>
+<td>siostra
+</td>
+<td>sestra
+</td>
+<td>sostra
+</td>
+<td>siostra
+</td>
+<td>sestra
+</td>
+<td>сестра<br />(sestra)
+</td>
+<td>сестра<br />(sestra)
+</td></tr>
+<tr>
+<td>fish
+</td>
+<td>ryba
+</td>
+<td>ryba
+</td>
+<td>риба<br />(riba)
+</td>
+<td>риба<br />(riba)
+</td>
+<td>riba
+</td>
+<td>ryba
+</td>
+<td>ryba
+</td>
+<td>raibo
+</td>
+<td>rëba
+</td>
+<td>ryba
+</td>
+<td>ryba
+</td>
+<td>рыба<br />(ryba)
+</td>
+<td>риба<br />(ryba)
+</td></tr>
+<tr>
+<td>fire
+</td>
+<td>wogeń
+</td>
+<td>woheń
+</td>
+<td>огањ<br />(oganj)
+</td>
+<td>огън<br />(ogən)
+</td>
+<td>ogenj
+</td>
+<td>oheň
+</td>
+<td>ogień
+</td>
+<td>widin
+</td>
+<td>òdżin
+</td>
+<td>ôgyń
+</td>
+<td>oheň
+</td>
+<td>огонь<br />(ogon')
+</td>
+<td>вогонь<br />(vohon')
+</td></tr>
+<tr>
+<td>water
+</td>
+<td>wóda
+</td>
+<td>woda
+</td>
+<td>вода<br />(voda)
+</td>
+<td>вода<br />(voda)
+</td>
+<td>voda
+</td>
+<td>voda
+</td>
+<td>woda
+</td>
+<td>wôda
+</td>
+<td>wòda
+</td>
+<td>woda
+</td>
+<td>voda
+</td>
+<td>вода<br />(voda)
+</td>
+<td>вода<br />(voda)
+</td></tr>
+<tr>
+<td>wind
+</td>
+<td>wětš
+</td>
+<td>wětr
+</td>
+<td>ветар / вјетар<br />(vetar / vjetar)
+</td>
+<td>вятър / ветер<br />(vjatər / veter)
+</td>
+<td>veter
+</td>
+<td>vítr
+</td>
+<td>wiatr
+</td>
+<td>wjôter
+</td>
+<td>wiater
+</td>
+<td>wiater
+</td>
+<td>vietor
+</td>
+<td>ветер<br />(veter)
+</td>
+<td>вітер<br />(viter)
+</td></tr>
+<tr>
+<td>winter
+</td>
+<td>zyma
+</td>
+<td>zyma
+</td>
+<td>зима<br />(zima)
+</td>
+<td>зима<br />(zima)
+</td>
+<td>zima
+</td>
+<td>zima
+</td>
+<td>zima
+</td>
+<td>zaima
+</td>
+<td>zëma
+</td>
+<td>zima
+</td>
+<td>zima
+</td>
+<td>зима<br />(zima)
+</td>
+<td>зима<br />(zyma)
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sorbian_languages&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Sorbian_alphabet" title="Sorbian alphabet">Sorbian alphabet</a></li>
+<li><a href="/wiki/Wends" title="Wends">Wends</a></li>
+<li><a href="/wiki/List_of_Sorbian-language_writers" title="List of Sorbian-language writers">List of Sorbian-language writers</a></li>
+<li><a href="/wiki/Low_Lusatian_German" title="Low Lusatian German">Low Lusatian German</a></li>
+<li><a href="/wiki/White_Serbia" title="White Serbia">White Serbia</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sorbian_languages&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <div class="reflist" style="list-style-type: decimal;">
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://forebears.co.uk/surnames/underwood">"Underwood Surname Meaning, Origins &amp; Distribution - Family Name"</a>. <i>forebears.co.uk</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=forebears.co.uk&amp;rft.atitle=Underwood+Surname+Meaning%2C+Origins+%26+Distribution+-+Family+Name&amp;rft_id=http%3A%2F%2Fforebears.co.uk%2Fsurnames%2Funderwood&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnderwood" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+<li id="cite_note-Glottolog-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Glottolog_1-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFGlottolog2017" class="citation book">Hammarström, Harald; Forkel, Robert; Haspelmath, Martin, eds. (2017). <a rel="nofollow" class="external text" href="http://glottolog.org/resource/languoid/id/sorb1249">"Sorbian"</a>. <i><a href="/wiki/Glottolog" title="Glottolog">Glottolog 3.0</a></i>. Jena, Germany: Max Planck Institute for the Science of Human History.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Sorbian&amp;rft.btitle=Glottolog+3.0&amp;rft.place=Jena%2C+Germany&amp;rft.pub=Max+Planck+Institute+for+the+Science+of+Human+History&amp;rft.date=2017&amp;rft_id=http%3A%2F%2Fglottolog.org%2Fresource%2Flanguoid%2Fid%2Fsorb1249&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASorbian+languages" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bedfordpark.net/genealogy/underwood/index.htm">"Underwood family history (North Yorkshire)"</a>. <i>bedfordpark.net</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=bedfordpark.net&amp;rft.atitle=Underwood+family+history+%28North+Yorkshire%29&amp;rft_id=http%3A%2F%2Fwww.bedfordpark.net%2Fgenealogy%2Funderwood%2Findex.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnderwood" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+<li id="cite_note-Faska-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Faska_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Faska_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120212191519/http://www.uni-leipzig.de/~sorb/seiten/eng/03/language.html">About Sorbian Language</a>, by Helmut Faska, <a href="/wiki/University_of_Leipzig" class="mw-redirect" title="University of Leipzig">University of Leipzig</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.coe.int/en/web/conventions/full-list">"Full list"</a>. <i>Treaty Office</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-02-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Treaty+Office&amp;rft.atitle=Full+list&amp;rft_id=https%3A%2F%2Fwww.coe.int%2Fen%2Fweb%2Fconventions%2Ffull-list&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASorbian+languages" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
 </ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sorbian_languages&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.uoc.edu/euromosaic/web/document/sorab/an/i1/i1.html">Euromosaic information page</a></li>
+<li><a rel="nofollow" class="external text" href="http://enricu.wordpress.com/webova-kavarna/kurs-serbskeje-rece-kurz-luzicke-srbstiny/kurs-serskeje-rece-blun/">Kurs serskeje rěce / Bluń</a>, introductory texts of the lessons included in the Sorbian language textbook <i>Curs practic de limba sorabă</i> <span class="languageicon">(in Romanian)</span></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_Germany" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Languages_of_Germany" title="Template:Languages of Germany"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Languages_of_Germany" title="Template talk:Languages of Germany"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Languages_of_Germany&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_Germany" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></span> <a href="/wiki/Languages_of_Germany" title="Languages of Germany">Languages of Germany</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Official language</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/German_Standard_German" title="German Standard German">Standard</a> <a href="/wiki/German_language" title="German language">German</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Regional/Minority<br />languages</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Recognized</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Danish_language" title="Danish language">Danish</a></li>
+<li><a href="/wiki/Frisian_languages" title="Frisian languages">Frisian</a>
+<ul><li><a href="/wiki/North_Frisian_language" title="North Frisian language">North</a></li>
+<li><a href="/wiki/Saterland_Frisian_language" class="mw-redirect" title="Saterland Frisian language">Saterland</a></li></ul></li>
+<li><a href="/wiki/Low_German_language" class="mw-redirect" title="Low German language">Low German</a></li>
+<li><a href="/wiki/Romani_language" title="Romani language">Romani</a></li>
+<li><a class="mw-selflink selflink">Sorbian</a>
+<ul><li><a href="/wiki/Upper_Sorbian" class="mw-redirect" title="Upper Sorbian">Upper</a></li>
+<li><a href="/wiki/Lower_Sorbian" class="mw-redirect" title="Lower Sorbian">Lower</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Unrecognized</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alemannic_German" title="Alemannic German">Alemannic</a></li>
+<li><a href="/wiki/Austro-Bavarian_language" class="mw-redirect" title="Austro-Bavarian language">Bavarian</a></li>
+<li><a href="/wiki/German_Sign_Language" title="German Sign Language">German Sign Language</a></li>
+<li><a href="/wiki/Limburgish" title="Limburgish">Limburgish</a></li>
+<li><a href="/wiki/Low_Rhenish" class="mw-redirect" title="Low Rhenish">Low Rhenish</a></li>
+<li><a href="/wiki/Luxembourgish" title="Luxembourgish">Luxembourgish</a></li>
+<li><a href="/wiki/Ripuarian_language" title="Ripuarian language">Ripuarian</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Slavic_languages" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Slavic_languages" title="Template:Slavic languages"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Slavic_languages" title="Template talk:Slavic languages"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Slavic_languages&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Slavic_languages" style="font-size:114%;margin:0 4em"><a href="/wiki/Slavic_languages" title="Slavic languages">Slavic languages</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_the_Slavic_languages" title="History of the Slavic languages">History</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Proto-Balto-Slavic_language" title="Proto-Balto-Slavic language">Proto-Balto-Slavic</a></i></li>
+<li><i><a href="/wiki/History_of_Proto-Slavic" title="History of Proto-Slavic">Up to Proto-Slavic</a></i></li>
+<li><i><a href="/wiki/Proto-Slavic" title="Proto-Slavic">Proto-Slavic</a></i> (<a href="/wiki/Proto-Slavic_accent" title="Proto-Slavic accent">Accent</a>)</li>
+<li><i><a href="/wiki/Old_Church_Slavonic" title="Old Church Slavonic">Old Church Slavonic</a></i></li>
+<li><i><a href="/wiki/History_of_the_Slavic_languages" title="History of the Slavic languages">Modern languages</a></i></li>
+<li><a href="/wiki/Saints_Cyril_and_Methodius" title="Saints Cyril and Methodius">Cyril and Methodius</a></li>
+<li><a href="/wiki/Cyrillic_script" title="Cyrillic script">Cyrillic script</a></li>
+<li><a href="/wiki/Glagolitic_script" title="Glagolitic script">Glagolitic script</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/West_Slavic_languages" title="West Slavic languages">West Slavic</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Czech%E2%80%93Slovak_languages" title="Czech–Slovak languages">Czech–Slovak</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Czech_language" title="Czech language">Czech</a></li>
+<li><a href="/wiki/Moravian_dialects" title="Moravian dialects">Moravian</a></li>
+<li><a href="/wiki/Slovak_language" title="Slovak language">Slovak</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Lechitic_languages" title="Lechitic languages">Lechitic</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Middle_Polish_language" title="Middle Polish language">Middle Polish</a></i></li>
+<li><i><a href="/wiki/Old_Polish_language" title="Old Polish language">Old Polish</a></i></li>
+<li><a href="/wiki/Polish_language" title="Polish language">Polish</a></li>
+<li><i><a href="/wiki/Polabian_language" title="Polabian language">Polabian</a></i></li>
+<li><a href="/wiki/Pomeranian_language" title="Pomeranian language">Pomeranian</a>
+<ul><li><a href="/wiki/Kashubian_language" title="Kashubian language">Kashubian</a></li>
+<li><i><a href="/wiki/Slovincian_language" title="Slovincian language">Slovincian</a></i></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a class="mw-selflink selflink">Sorbian</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Upper_Sorbian_language" title="Upper Sorbian language">Upper Sorbian</a></li>
+<li><a href="/wiki/Lower_Sorbian_language" title="Lower Sorbian language">Lower Sorbian</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/East_Slavic_languages" title="East Slavic languages">East Slavic</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Belarusian_language" title="Belarusian language">Belarusian</a></li>
+<li><i><a href="/wiki/Iazychie" title="Iazychie">Iazychie</a></i></li>
+<li><i><a href="/wiki/Old_East_Slavic" title="Old East Slavic">Old East Slavic</a></i></li>
+<li><i><a href="/wiki/Old_Novgorod_dialect" title="Old Novgorod dialect">Old Novgorodian</a></i></li>
+<li><a href="/wiki/Russian_language" title="Russian language">Russian</a></li>
+<li><a href="/wiki/Rusyn_language" title="Rusyn language">Carpathian Rusyn</a></li>
+<li><i><a href="/wiki/Ruthenian_language" title="Ruthenian language">Ruthenian</a></i></li>
+<li><a href="/wiki/Ukrainian_language" title="Ukrainian language">Ukrainian</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/South_Slavic_languages" title="South Slavic languages">South Slavic</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Western</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Serbo-Croatian" title="Serbo-Croatian">Serbo-Croatian</a>
+<ul><li><a href="/wiki/Bosnian_language" title="Bosnian language">Bosnian</a></li>
+<li><a href="/wiki/Croatian_language" title="Croatian language">Croatian</a></li>
+<li><a href="/wiki/Montenegrin_language" title="Montenegrin language">Montenegrin</a></li>
+<li><a href="/wiki/Serbian_language" title="Serbian language">Serbian</a></li></ul></li>
+<li><a href="/wiki/Slovene_language" title="Slovene language">Slovene</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Eastern</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bulgarian_language" title="Bulgarian language">Bulgarian</a></li>
+<li><a href="/wiki/Macedonian_language" title="Macedonian language">Macedonian</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Constructed_language" title="Constructed language">Constructed<br /> languages</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Church_Slavonic_language" title="Church Slavonic language">Church Slavonic</a></li>
+<li><a href="/wiki/Pan-Slavic_language" title="Pan-Slavic language">Pan-Slavic language</a>
+<ul><li><a href="/wiki/Interslavic_language" title="Interslavic language">Interslavic</a></li>
+<li><a href="/wiki/Slovio" title="Slovio">Slovio</a></li>
+<li><a href="/wiki/Lydnevi" title="Lydnevi">Lydnevi</a></li></ul></li>
+<li><i><a href="/wiki/Slavonic-Serbian" title="Slavonic-Serbian">Slavonic-Serbian</a></i></li>
+<li><i><a href="/wiki/Army_Slavic" title="Army Slavic">Army Slavic</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Separate Slavic<br /> dialects and<br /> <a href="/wiki/Slavic_microlanguages" title="Slavic microlanguages">microlanguages</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Balachka" title="Balachka">Balachka</a></li>
+<li><a href="/wiki/Banat_Bulgarian_dialect" title="Banat Bulgarian dialect">Banat Bulgarian</a></li>
+<li><a href="/wiki/Burgenland_Croatian" title="Burgenland Croatian">Burgenland&#160;Croatian</a></li>
+<li><a href="/wiki/Canadian_Ukrainian" title="Canadian Ukrainian">Canadian Ukrainian</a></li>
+<li><a href="/wiki/Chakavian" title="Chakavian">Chakavian</a></li>
+<li><a href="/wiki/Cieszyn_Silesian_dialect" title="Cieszyn Silesian dialect">Cieszyn Silesian</a></li>
+<li><a href="/wiki/Czechoslovak_language" title="Czechoslovak language">Czechoslovak</a></li>
+<li><a href="/wiki/Eastern_Slovak_dialects" title="Eastern Slovak dialects">Eastern Slovak</a></li>
+<li><a href="/wiki/Kajkavian" title="Kajkavian">Kajkavian</a></li>
+<li><i><a href="/wiki/Knaanic_language" title="Knaanic language">Knaanic</a></i></li>
+<li><a href="/wiki/Lach_dialects" title="Lach dialects">Lach</a></li>
+<li><a href="/wiki/Lesser_Polish_dialect" title="Lesser Polish dialect">Lesser Polish</a></li>
+<li><a href="/wiki/Masovian_dialect" title="Masovian dialect">Masovian</a></li>
+<li><a href="/wiki/Masurian_dialect" title="Masurian dialect">Masurian</a></li>
+<li><a href="/wiki/Moravian_dialects" title="Moravian dialects">Moravian</a></li>
+<li><a href="/wiki/Slavomolisano_dialect" title="Slavomolisano dialect">Molise&#160;Croatian</a></li>
+<li><a href="/wiki/Pannonian_Rusyn_language" class="mw-redirect" title="Pannonian Rusyn language">Pannonian Rusyn</a></li>
+<li><a href="/wiki/Podhale_subdialect" class="mw-redirect" title="Podhale subdialect">Podhale</a></li>
+<li><a href="/wiki/Prekmurje_Slovene" title="Prekmurje Slovene">Prekmurje Slovene</a></li>
+<li><a href="/wiki/Resian_dialect" title="Resian dialect">Resian</a></li>
+<li><a href="/wiki/Shtokavian" title="Shtokavian">Shtokavian</a></li>
+<li><a href="/wiki/Silesian_language" title="Silesian language">Silesian</a></li>
+<li><a href="/wiki/Slavic_speakers_of_Greek_Macedonia" title="Slavic speakers of Greek Macedonia">Slavic speakers of Greek&#160;Macedonia</a></li>
+<li><a href="/wiki/Surzhyk" title="Surzhyk">Surzhyk</a></li>
+<li><a href="/wiki/Torlakian_dialect" title="Torlakian dialect">Torlakian</a></li>
+<li><a href="/wiki/Trasianka" title="Trasianka">Trasianka</a></li>
+<li><a href="/wiki/West_Polesian_microlanguage" title="West Polesian microlanguage">West&#160;Polesian</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Historical<br /> phonology</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Slavic_first_palatalization" title="Slavic first palatalization">Slavic first palatalization</a></li>
+<li><a href="/wiki/Slavic_second_palatalization" title="Slavic second palatalization">Slavic second palatalization</a></li>
+<li><a href="/wiki/Slavic_liquid_metathesis_and_pleophony" title="Slavic liquid metathesis and pleophony">Slavic liquid metathesis and pleophony</a></li>
+<li><a href="/wiki/Dybo%27s_law" title="Dybo&#39;s law">Dybo's law</a></li>
+<li><a href="/wiki/Havl%C3%ADk%27s_law" title="Havlík&#39;s law">Havlík's law</a></li>
+<li><a href="/wiki/Hirt%27s_law" title="Hirt&#39;s law">Hirt's law</a></li>
+<li><a href="/wiki/Illi%C4%8D-Svity%C4%8D%27s_law" title="Illič-Svityč&#39;s law">Illič-Svityč's law</a></li>
+<li><a href="/wiki/Iv%C5%A1i%C4%87%27s_law" title="Ivšić&#39;s law">Ivšić's law</a></li>
+<li><a href="/wiki/Meillet%27s_law" title="Meillet&#39;s law">Meillet's law</a></li>
+<li><a href="/wiki/Pedersen%27s_law" title="Pedersen&#39;s law">Pedersen's law</a></li>
+<li><a href="/wiki/Ruki_sound_law" title="Ruki sound law">Ruki sound law</a></li>
+<li><a href="/w/index.php?title=Van_Wijk%27s_law&amp;action=edit&amp;redlink=1" class="new" title="Van Wijk&#39;s law (page does not exist)">Van Wijk's law</a></li>
+<li><a href="/wiki/Winter%27s_law" title="Winter&#39;s law">Winter's law</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><i>Italics</i> indicate <a href="/wiki/Language_death" title="Language death">extinct languages</a>.</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q25442&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q25442&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q25442" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Biblioteca_Nacional_de_Espa%C3%B1a" title="Biblioteca Nacional de España">BNE</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX5219235">XX5219235</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb13516281g">cb13516281g</a> <a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb13516281g">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4116533-0">4116533-0</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/subjects/sh85125290">sh85125290</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00936548">00936548</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ph122469&amp;CON_LNG=ENG">ph122469</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1334
-Cached time: 20190925104235
+Parsed by mw1324
+Cached time: 20191027154215
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.192 seconds
-Real time usage: 0.284 seconds
-Preprocessor visited node count: 695/1000000
+CPU time usage: 0.776 seconds
+Real time usage: 1.113 seconds
+Preprocessor visited node count: 2220/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 6831/2097152 bytes
-Template argument size: 1002/2097152 bytes
-Highest expansion depth: 8/40
-Expensive parser function count: 1/500
+Post‐expand include size: 81025/2097152 bytes
+Template argument size: 4725/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 9/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 6109/5000000 bytes
-Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.081/10.000 seconds
-Lua memory usage: 2.7 MB/50 MB
+Unstrip post‐expand size: 6371/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.480/10.000 seconds
+Lua memory usage: 15.87 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  243.827      1 -total
- 32.57%   79.421      1 Template:Reflist
- 29.04%   70.811      2 Template:Cite_web
- 25.91%   63.167      1 Template:Surname
- 21.42%   52.232      1 Template:Dmbox
- 18.31%   44.646      1 Template:Infobox_surname
- 17.04%   41.538      1 Template:Other_uses
- 12.93%   31.535      1 Template:Infobox
-  9.01%   21.980      1 Template:Short_description
-  7.98%   19.469      1 Template:Pagetype
+100.00%  983.420      1 -total
+ 46.00%  452.376      1 Template:Infobox_language_family
+ 44.25%  435.197      1 Template:Infobox
+ 25.25%  248.321     12 Template:Lang
+ 24.62%  242.114      2 Template:Native_name
+ 14.31%  140.681      1 Template:Refimprove
+ 13.06%  128.436      1 Template:Ambox
+ 12.33%  121.230      1 Template:Glottolog
+ 11.82%  116.247      1 Template:Cite_book
+ 11.20%  110.183      1 Template:Authority_control
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:2460955-0!canonical and timestamp 20190925104235 and revision id 917762806
+<!-- Saved in parser cache with key enwiki:pcache:idhash:27120-0!canonical and timestamp 20191027154214 and revision id 912725494
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Underwood&amp;oldid=917762806">https://en.wikipedia.org/w/index.php?title=Underwood&amp;oldid=917762806</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sorbian_languages&amp;oldid=912725494">https://en.wikipedia.org/w/index.php?title=Sorbian_languages&amp;oldid=912725494</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:English_toponymic_surnames" title="Category:English toponymic surnames">English toponymic surnames</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Sorbian_languages" title="Category:Sorbian languages">Sorbian languages</a></li><li><a href="/wiki/Category:West_Slavic_languages" title="Category:West Slavic languages">West Slavic languages</a></li><li><a href="/wiki/Category:Languages_of_Germany" title="Category:Languages of Germany">Languages of Germany</a></li><li><a href="/wiki/Category:Sorbian_culture" title="Category:Sorbian culture">Sorbian culture</a></li><li><a href="/wiki/Category:Culture_of_Saxony" title="Category:Culture of Saxony">Culture of Saxony</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_January_2011" title="Category:Articles needing additional references from January 2011">Articles needing additional references from January 2011</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_containing_Upper_Sorbian-language_text" title="Category:Articles containing Upper Sorbian-language text">Articles containing Upper Sorbian-language text</a></li><li><a href="/wiki/Category:Articles_containing_Lower_Sorbian-language_text" title="Category:Articles containing Lower Sorbian-language text">Articles containing Lower Sorbian-language text</a></li><li><a href="/wiki/Category:Articles_containing_German-language_text" title="Category:Articles containing German-language text">Articles containing German-language text</a></li><li><a href="/wiki/Category:Articles_needing_the_year_an_event_occurred_from_September_2017" title="Category:Articles needing the year an event occurred from September 2017">Articles needing the year an event occurred from September 2017</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2017" title="Category:Articles with unsourced statements from September 2017">Articles with unsourced statements from September 2017</a></li><li><a href="/wiki/Category:Articles_with_Romanian-language_external_links" title="Category:Articles with Romanian-language external links">Articles with Romanian-language external links</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNE_identifiers" title="Category:Wikipedia articles with BNE identifiers">Wikipedia articles with BNE identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NKC_identifiers" title="Category:Wikipedia articles with NKC identifiers">Wikipedia articles with NKC identifiers</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -253,13 +955,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Underwood" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Underwood" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sorbian+languages" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Sorbian+languages" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Underwood" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Underwood" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Sorbian_languages" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Sorbian_languages" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -274,7 +976,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Underwood">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Underwood&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Underwood&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Sorbian_languages">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Sorbian_languages&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Sorbian_languages&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -313,35 +1015,35 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Underwood" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Underwood" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Underwood&amp;oldid=917762806" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Underwood&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q13583115" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Underwood&amp;id=917762806" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Sorbian_languages" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Sorbian_languages" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Sorbian_languages&amp;oldid=912725494" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Sorbian_languages&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q25442" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sorbian_languages&amp;id=912725494" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
 			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
 			<div class="body">
 								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Underwood_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Sorbian_language" hreflang="en">Wikimedia Commons</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Underwood">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Underwood&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Underwood&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Sorbian+languages">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Sorbian+languages&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Sorbian_languages&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%A0%D7%93%D7%A8%D7%95%D7%95%D7%93" title="אנדרווד – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q13583115#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Sorbies" title="Sorbies – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%84%D8%BA%D8%A7%D8%AA_%D8%B5%D9%88%D8%B1%D8%A8%D9%8A%D8%A9" title="لغات صوربية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Idioma_sorabo" title="Idioma sorabo – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/S%C3%B3rabu" title="Sórabu – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Sorb_dill%C9%99ri" title="Sorb dilləri – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%B3%D9%88%D8%B1%D8%A8_%D8%AF%DB%8C%D9%84%D9%84%D8%B1%DB%8C" title="سورب دیللری – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9B%D1%83%D0%B6%D1%8B%D1%86%D0%BA%D1%96%D1%8F_%D0%BC%D0%BE%D0%B2%D1%8B" title="Лужыцкія мовы – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%9B%D1%83%D0%B6%D1%8B%D1%86%D0%BA%D1%96%D1%8F_%D0%BC%D0%BE%D0%B2%D1%8B" title="Лужыцкія мовы – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9B%D1%83%D0%B6%D0%B8%D1%88%D0%BA%D0%B8_%D0%B5%D0%B7%D0%B8%D1%86%D0%B8" title="Лужишки езици – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Sorabeg" title="Sorabeg – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/S%C3%B2rab" title="Sòrab – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Lu%C5%BEick%C3%A1_srb%C5%A1tina" title="Lužická srbština – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Sorbeg" title="Sorbeg – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Sorbisk" title="Sorbisk – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/Sorbigiella" title="Sorbigiella – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Davvisámegiella</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Sorbische_Sprache" title="Sorbische Sprache – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/Serb%C5%A1%C4%87ina" title="Serbšćina – Lower Sorbian" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A3%CE%BF%CF%81%CE%B2%CE%B9%CE%BA%CE%AD%CF%82_%CE%B3%CE%BB%CF%8E%CF%83%CF%83%CE%B5%CF%82" title="Σορβικές γλώσσες – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Lenguas_sorabas" title="Lenguas sorabas – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Soraba_lingvo" title="Soraba lingvo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Sorabiera" title="Sorabiera – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B2%D8%A8%D8%A7%D9%86%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%B3%D9%88%D8%B1%D8%A8%DB%8C" title="زبان‌های سوربی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Sorabe" title="Sorabe – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Sorbysk" title="Sorbysk – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/An_tSoirbis" title="An tSoirbis – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/S%C3%B2rbais" title="Sòrbais – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Lingua_soraba" title="Lingua soraba – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%86%8C%EB%A5%B4%EB%B8%8C%EC%96%B4" title="소르브어 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%BC%D5%B8%D6%82%D5%AA%D5%AB%D5%AF%D5%A5%D6%80%D5%A5%D5%B6" title="Լուժիկերեն – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Serb%C5%A1%C4%87ina" title="Serbšćina – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Lu%C5%BEi%C4%8Dkosrpski_jezici" title="Lužičkosrpski jezici – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Sorbi-linguo" title="Sorbi-linguo – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Bahasa_Sorbia" title="Bahasa Sorbia – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Lingue_sorabe" title="Lingue sorabe – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A9%D7%A4%D7%95%D7%AA_%D7%A1%D7%95%D7%A8%D7%91%D7%99%D7%95%D7%AA" title="שפות סורביות – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Basa_Sorbia" title="Basa Sorbia – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%9D%E1%83%A0%E1%83%91%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%94%E1%83%9C%E1%83%90" title="სორბული ენა – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Linguae_Sorabicae" title="Linguae Sorabicae – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Sorbu_valodas" title="Sorbu valodas – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Sorb%C5%B3_kalbos" title="Sorbų kalbos – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Sorbisch" title="Sorbisch – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Szorb_nyelv" title="Szorb nyelv – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9B%D1%83%D0%B6%D0%B8%D1%87%D0%BA%D0%B8_%D1%98%D0%B0%D0%B7%D0%B8%D1%86%D0%B8" title="Лужички јазици – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Fiteny_sor%C3%A0ba" title="Fiteny soràba – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%A1%E1%83%9D%E1%83%A0%E1%83%91%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%9C%E1%83%98%E1%83%9C%E1%83%94%E1%83%A4%E1%83%98" title="სორბული ნინეფი – Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li><li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%A1%D0%BE%D1%80%D0%B1_%D1%85%D1%8D%D0%BB" title="Сорб хэл – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Sorbisch" title="Sorbisch – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%AB%E3%83%96%E8%AA%9E" title="ソルブ語 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-frr badge-Q17437798 badge-goodarticle" title="good article"><a href="https://frr.wikipedia.org/wiki/Sorbisch" title="Sorbisch – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Sorbisk" title="Sorbisk – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Sorbiske_spr%C3%A5k" title="Sorbiske språk – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Sorab" title="Sorab – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Sorbsche_Spraken" title="Sorbsche Spraken – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/J%C4%99zyki_%C5%82u%C5%BCyckie" title="Języki łużyckie – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/L%C3%ADnguas_sor%C3%A1bias" title="Línguas sorábias – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Limbi_sorabe" title="Limbi sorabe – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9B%D1%83%D0%B6%D0%B8%D1%86%D0%BA%D0%B8%D0%B5_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8" title="Лужицкие языки – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Sorbisk" title="Sorbisk – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Gjuha_sorbiane" title="Gjuha sorbiane – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Sorbian_languages" title="Sorbian languages – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Lu%C5%BEick%C3%A9_jazyky" title="Lužické jazyky – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Lu%C5%BEi%C5%A1%C4%8Dina" title="Lužiščina – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9B%D1%83%D0%B6%D0%B8%D1%87%D0%BA%D0%BE%D1%81%D1%80%D0%BF%D1%81%D0%BA%D0%B8_%D1%98%D0%B5%D0%B7%D0%B8%D1%86%D0%B8" title="Лужичкосрпски језици – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Lu%C5%BEi%C4%8Dkosrpski_jezici" title="Lužičkosrpski jezici – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Sorbi" title="Sorbi – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Sorbiska" title="Sorbiska – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Sorbca" title="Sorbca – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9B%D1%83%D0%B6%D0%B8%D1%86%D1%8C%D0%BA%D1%96_%D0%BC%D0%BE%D0%B2%D0%B8" title="Лужицькі мови – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Lengue_sorabe" title="Lengue sorabe – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Nh%C3%B3m_ng%C3%B4n_ng%E1%BB%AF_Sorb" title="Nhóm ngôn ngữ Sorb – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E7%B4%A2%E5%B8%83%E8%AA%9E" title="索布語 – Classical Chinese" lang="lzh" hreflang="lzh" class="interlanguage-link-target">文言</a></li><li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%A1%D7%90%D7%A8%D7%91%D7%99%D7%A9" title="סארביש – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E7%B4%A2%E5%B8%83%E6%96%87" title="索布文 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/Suorbu_kalba" title="Suorbu kalba – Samogitian" lang="sgs" hreflang="sgs" class="interlanguage-link-target">Žemaitėška</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%B4%A2%E5%B8%83%E8%AF%AD" title="索布语 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q25442#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 25 September 2019, at 10:42<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 27 August 2019, at 13:47<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -352,7 +1054,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Underwood&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Sorbian_languages&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -364,8 +1066,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.192","walltime":"0.284","ppvisitednodes":{"value":695,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":6831,"limit":2097152},"templateargumentsize":{"value":1002,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":6109,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  243.827      1 -total"," 32.57%   79.421      1 Template:Reflist"," 29.04%   70.811      2 Template:Cite_web"," 25.91%   63.167      1 Template:Surname"," 21.42%   52.232      1 Template:Dmbox"," 18.31%   44.646      1 Template:Infobox_surname"," 17.04%   41.538      1 Template:Other_uses"," 12.93%   31.535      1 Template:Infobox","  9.01%   21.980      1 Template:Short_description","  7.98%   19.469      1 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.081","limit":"10.000"},"limitreport-memusage":{"value":2835813,"limit":52428800}},"cachereport":{"origin":"mw1334","timestamp":"20190925104235","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Underwood","url":"https:\/\/en.wikipedia.org\/wiki\/Underwood","sameAs":"http:\/\/www.wikidata.org\/entity\/Q13583115","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q13583115","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-02-04T16:26:44Z","dateModified":"2019-09-25T10:42:33Z","headline":"family name"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":116,"wgHostname":"mw1330"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.776","walltime":"1.113","ppvisitednodes":{"value":2220,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":81025,"limit":2097152},"templateargumentsize":{"value":4725,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":6371,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  983.420      1 -total"," 46.00%  452.376      1 Template:Infobox_language_family"," 44.25%  435.197      1 Template:Infobox"," 25.25%  248.321     12 Template:Lang"," 24.62%  242.114      2 Template:Native_name"," 14.31%  140.681      1 Template:Refimprove"," 13.06%  128.436      1 Template:Ambox"," 12.33%  121.230      1 Template:Glottolog"," 11.82%  116.247      1 Template:Cite_book"," 11.20%  110.183      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.480","limit":"10.000"},"limitreport-memusage":{"value":16644845,"limit":52428800}},"cachereport":{"origin":"mw1324","timestamp":"20191027154215","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Sorbian languages","url":"https:\/\/en.wikipedia.org\/wiki\/Sorbian_languages","sameAs":"http:\/\/www.wikidata.org\/entity\/Q25442","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q25442","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-05-17T14:03:13Z","dateModified":"2019-08-27T13:47:30Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/04\/%D0%9B%D1%83%D0%B6%D0%B8%D1%86%D0%BA%D0%B8%D0%B5_%D1%81%D0%B5%D1%80%D0%B1%D1%8B_%D0%BD%D0%B0_%D0%BA%D0%B0%D1%80%D1%82%D0%B5_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8.svg","headline":"two languages spoken by the Sorbs"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":107,"wgHostname":"mw1262"});});</script>
 </body>
 </html>

@@ -2,35 +2,38 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Evans (surname) - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Evans_(surname)","wgTitle":"Evans (surname)","wgCurRevisionId":922406688,"wgRevisionId":922406688,"wgArticleId":300658,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: archived copy as title","Articles with short description","All set index articles","Surnames","Surnames of Welsh origin","Anglo-Cornish surnames","Anglicised Welsh-language surnames","Welsh-language surnames","Patronymic surnames"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun",
-"Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Evans_(surname)","wgRelevantArticleId":300658,"wgRequestId":"XbBxowpAICkAAHTxhToAAAAI","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1260663","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":
-"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.cite.tracking","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
-"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Bayeux - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Bayeux","wgTitle":"Bayeux","wgCurRevisionId":915309246,"wgRevisionId":915309246,"wgArticleId":343308,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 French-language sources (fr)","Articles with short description","Infobox mapframe without OSM relation ID on Wikidata","Coordinates on Wikidata","Articles containing Welsh-language text","Articles containing Breton-language text","Articles containing Old Irish-language text","All articles with unsourced statements","Articles with unsourced statements from May 2010","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz area identifiers","Wikipedia articles with NKC identifiers",
+"Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","Pages using the Kartographer extension","Bayeux","Communes of Calvados (department)","Subprefectures in France"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Bayeux","wgRelevantArticleId":343308,"wgRequestId":"XbYHFgpAIC0AAD7712oAAAAT","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,
+"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgKartographerLiveData":{"_e4e2bacdf08989c556104bcb4d80913c17699052":[{"type":"ExternalData","service":"geoshape","url":"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=Q183910","properties":{"stroke-width":3,"stroke":"#FF0000","title":"Bayeux","fill":"#606060"}},{"type":"ExternalData","service":"geoline","url":"https://maps.wikimedia.org/geoline?getgeojson=1\u0026ids=Q183910","properties":{"stroke-width":5,"stroke":"#FF0000","title":"Bayeux"}},{"type":"Feature","geometry":{"coordinates":[-0.70388888888889,49.278611111111],"type":"Point"},"properties":{"title":"Bayeux","marker-color":"#5E74F3"}},{"type":"ExternalData","service":"geoshape","url":
+"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=Q183910","properties":{"stroke-width":3,"stroke":"#FF0000","title":"Bayeux","fill":"#606060"}},{"type":"ExternalData","service":"geoline","url":"https://maps.wikimedia.org/geoline?getgeojson=1\u0026ids=Q183910","properties":{"stroke-width":5,"stroke":"#FF0000","title":"Bayeux"}},{"type":"Feature","geometry":{"coordinates":[-0.70388888888889,49.278611111111],"type":"Point"},"properties":{"title":"Bayeux","marker-color":"#5E74F3"}}]},"wgCoordinates":{"lat":49.2794,"lon":-0.7028},"wgWikibaseItemId":"Q183910","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.kartographer.style":"ready","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready",
+"mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.kartographer.staticframe","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.kartographer.style%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.2"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Evans_(surname)"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Evans_(surname)&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Evans_(surname)&amp;action=edit"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bayeux_centre.jpg/1200px-Bayeux_centre.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Bayeux"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Bayeux&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Bayeux&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Evans_(surname)"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Bayeux"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Evans_surname rootpage-Evans_surname skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Bayeux rootpage-Bayeux skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -39,7 +42,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Evans (surname)</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Bayeux</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -50,78 +53,794 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Evans</b> is a male name &amp; <a href="/wiki/Surname" title="Surname">surname</a> of <a href="/wiki/Wales" title="Wales">Welsh</a>, and possibly <a href="/wiki/Cornish_people" title="Cornish people">Cornish</a>,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> origin.  Within <a href="/wiki/Wales" title="Wales">Wales</a> it is the fifth most common surname and is the tenth most common in <a href="/wiki/England" title="England">England</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Within the <a href="/wiki/United_States" title="United States">United States</a>, it is ranked as the 48th-most common surname.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
-</p><p><b>Evans</b>: In <a href="/wiki/Greece" title="Greece">Greece</a> the male name Evans is pronounced Evangelos. 
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Subprefecture and commune in Normandy, France</div>
+<div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Bayeux_(disambiguation)" class="mw-disambig" title="Bayeux (disambiguation)">Bayeux (disambiguation)</a>.</div>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Subprefecture and commune in Normandy, France</div><table class="infobox geography vcard" style="width:22em;width:23em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><div style="display:inline" class="fn org">Bayeux</div></th></tr><tr><td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;"><div class="category"><a href="/wiki/Subprefectures_in_France" title="Subprefectures in France">Subprefecture</a> and <a href="/wiki/Communes_of_France" title="Communes of France">commune</a></div></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><a href="/wiki/File:Bayeux_centre.jpg" class="image" title="The historic centre, the Notre Dame Cathedral, the Aure and tourist office"><img alt="The historic centre, the Notre Dame Cathedral, the Aure and tourist office" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bayeux_centre.jpg/270px-Bayeux_centre.jpg" decoding="async" width="270" height="182" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bayeux_centre.jpg/405px-Bayeux_centre.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bayeux_centre.jpg/540px-Bayeux_centre.jpg 2x" data-file-width="4588" data-file-height="3086" /></a><div style="padding:0.4em 0 0 0;">The historic centre, the <a href="/wiki/Bayeux_Cathedral" title="Bayeux Cathedral">Notre Dame Cathedral</a>, the <a href="/wiki/Aure_(river)" title="Aure (river)">Aure</a> and tourist office</div></td></tr><tr class="mergedtoprow"><td colspan="2" class="maptable" style="text-align:center"><div style="display:table; width:100%; background:none;">
+<div style="display:table-row"><div style="display:table-cell;vertical-align:middle; text-align:center;"><a href="/wiki/File:Blason_Bayeux.svg" class="image" title="Coat of arms of Bayeux"><img alt="Coat of arms of Bayeux" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Blason_Bayeux.svg/73px-Blason_Bayeux.svg.png" decoding="async" width="73" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Blason_Bayeux.svg/109px-Blason_Bayeux.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Blason_Bayeux.svg/145px-Blason_Bayeux.svg.png 2x" data-file-width="600" data-file-height="660" /></a><br />Coat of arms</div></div></div></td></tr><tr class="mergedrow"><td colspan="2" style="text-align:center"><div class="mw-collapsible mw-collapsed" style="box-sizing:border-box;width:100%;font-size:95%;padding:4px;border:none;"><div style="font-size:100%;line-height:1.6;font-weight:bold;background:transparent;text-align:center;;height:5px;">Location of Bayeux</div><div class="mw-collapsible-content" style="background:transparent;text-align:left;;">
+<div class="center" style="margin-top:1em"><a class="mw-kartographer-map mw-kartographer-container center" data-mw="interface" data-style="osm-intl" data-width="270" data-height="200" data-zoom="12" data-overlays="[&quot;_e4e2bacdf08989c556104bcb4d80913c17699052&quot;]" style="background-image: url(https://maps.wikimedia.org/img/osm-intl,12,a,a,270x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Bayeux&amp;groups=_e4e2bacdf08989c556104bcb4d80913c17699052); width: 270px; height: 200px;" href="/wiki/Special:Map/12/a/a/en"></a></div></div></div></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><div class="switcher-container"><div class="center"><div style="width:270px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:270px;padding:0"><div style="position:relative;width:270px"><a href="/wiki/File:France_location_map-Regions_and_departements-2016.svg" class="image" title="Bayeux is located in France"><img alt="Bayeux is located in France" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/270px-France_location_map-Regions_and_departements-2016.svg.png" decoding="async" width="270" height="259" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/405px-France_location_map-Regions_and_departements-2016.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/France_location_map-Regions_and_departements-2016.svg/540px-France_location_map-Regions_and_departements-2016.svg.png 2x" data-file-width="2000" data-file-height="1922" /></a><div style="position:absolute;top:21.149%;left:32.261%"><div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Bayeux" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" decoding="async" title="Bayeux" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><div style="display:inline;padding:1px;float:left">Bayeux</div></div></div></div><div></div><span class="switcher-label" style="display:none">Show map of France</span></div></div></div><div class="center"><div style="width:270px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:270px;padding:0"><div style="position:relative;width:270px"><a href="/wiki/File:Normandie_region_location_map.svg" class="image" title="Bayeux is located in Normandy"><img alt="Bayeux is located in Normandy" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Normandie_region_location_map.svg/270px-Normandie_region_location_map.svg.png" decoding="async" width="270" height="203" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Normandie_region_location_map.svg/405px-Normandie_region_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Normandie_region_location_map.svg/540px-Normandie_region_location_map.svg.png 2x" data-file-width="2094" data-file-height="1574" /></a><div style="position:absolute;top:42.575%;left:35.089%"><div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Bayeux" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" decoding="async" title="Bayeux" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><div style="display:inline;padding:1px;float:left">Bayeux</div></div></div></div><div></div><span class="switcher-label" style="display:none">Show map of Normandy</span></div></div></div></div></td></tr><tr class="mergedbottomrow"><td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Bayeux&amp;params=49.2794_N_0.7028_W_type:city(13875)_region:FR-NOR"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°16′46″N</span> <span class="longitude">0°42′10″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.2794°N 0.7028°W</span><span style="display:none">&#xfeff; / <span class="geo">49.2794; -0.7028</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Bayeux&amp;params=49.2794_N_0.7028_W_type:city(13875)_region:FR-NOR"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°16′46″N</span> <span class="longitude">0°42′10″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.2794°N 0.7028°W</span><span style="display:none">&#xfeff; / <span class="geo">49.2794; -0.7028</span></span></span></a></span></span></span></td></tr><tr class="mergedtoprow"><th scope="row">Country</th><td><a href="/wiki/France" title="France">France</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Regions_of_France" title="Regions of France">Region</a></th><td><a href="/wiki/Normandy" title="Normandy">Normandy</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Departments_of_France" title="Departments of France">Department</a></th><td><a href="/wiki/Calvados_(department)" title="Calvados (department)">Calvados</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Arrondissements_of_France" title="Arrondissements of France">Arrondissement</a></th><td><a href="/wiki/Arrondissement_of_Bayeux" title="Arrondissement of Bayeux">Bayeux</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Cantons_of_France" title="Cantons of France">Canton</a></th><td><a href="/wiki/Canton_of_Bayeux" title="Canton of Bayeux">Bayeux</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Communes_of_France#Intercommunality" title="Communes of France">Intercommunality</a></th><td>Bayeux Intercom</td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Government<div style="font-weight:normal;display:inline;"></div></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Mayor <style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">(2014&#8211;2020) </span></th><td>Patrick Gomont</td></tr><tr class="mergedtoprow"><th scope="row">Area<div style="font-weight:normal;display:inline;"><sup><small><b>1</b></small></sup></div></th><td>7.11&#160;km<sup>2</sup> (2.75&#160;sq&#160;mi)</td></tr><tr class="mergedtoprow"><th scope="row">Population<div style="font-weight:normal;display:inline;"><span class="nowrap">&#160;</span>(2016-01-01)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div></th><td>13,875</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Density</th><td>2,000/km<sup>2</sup> (5,100/sq&#160;mi)</td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th><td><a href="/wiki/UTC%2B01:00" title="UTC+01:00">UTC+01:00</a> (<a href="/wiki/Central_European_Time" title="Central European Time">CET</a>)</td></tr><tr class="mergedrow"><th scope="row"><span style="white-space:nowrap">&#160;•&#160;Summer (<a href="/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</span></th><td><a href="/wiki/UTC%2B02:00" title="UTC+02:00">UTC+02:00</a> (<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a>)</td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/INSEE_code" title="INSEE code">INSEE</a>/Postal code</th><td class="adr"><div class="postal-code"><a rel="nofollow" class="external text" href="https://www.insee.fr/fr/statistiques/1405599?geo=COM-14047">14047</a> /14400</div></td></tr><tr class="mergedtoprow"><th scope="row">Elevation</th><td>32–67&#160;m (105–220&#160;ft)</td></tr><tr><td colspan="2" style="text-align:center;text-align:left;"><sup><b>1</b></sup> French Land Register data, which excludes lakes, ponds, glaciers &gt; 1&#160;km<sup>2</sup> (0.386&#160;sq&#160;mi or 247 acres) and river estuaries.</td></tr></tbody></table>
+<p><b>Bayeux</b> (<small>French pronunciation:&#160;&#8203;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/French" title="Help:IPA/French">[bajø]</a></span>) is a <a href="/wiki/Communes_of_France" title="Communes of France">commune</a> in the <a href="/wiki/Calvados_(department)" title="Calvados (department)">Calvados</a> <a href="/wiki/Departments_of_France" title="Departments of France">department</a> in <a href="/wiki/Normandy" title="Normandy">Normandy</a> in northwestern <a href="/wiki/France" title="France">France</a>.
+</p><p>Bayeux is the home of the <a href="/wiki/Bayeux_Tapestry" title="Bayeux Tapestry">Bayeux Tapestry</a>, which depicts the events leading up to the <a href="/wiki/Norman_conquest_of_England" title="Norman conquest of England">Norman conquest of England</a>. It is also known as the first major town secured by the Allies during <a href="/wiki/Operation_Overlord" title="Operation Overlord">Operation Overlord</a>. <a href="/wiki/Charles_de_Gaulle" title="Charles de Gaulle">Charles de Gaulle</a> made <a href="/wiki/The_Bayeux_speeches" title="The Bayeux speeches">two famous speeches</a> in this town.
 </p>
-<h2><span class="mw-headline" id="Origin">Origin</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evans_(surname)&amp;action=edit&amp;section=1" title="Edit section: Origin">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Evans is of <a href="/wiki/Wales" title="Wales">Welsh</a> origin. In its <a href="/wiki/Anglicised" class="mw-redirect" title="Anglicised">anglicised</a> form the name means "son of Evan".  Regarding its Welsh roots, it is a derivative of the name <i><b>Ifan</b></i>, a <a href="/wiki/Cognate" title="Cognate">cognate</a> of <a href="/wiki/John_(name)" class="mw-redirect" title="John (name)">John</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> In the <a href="/wiki/Welsh_language" title="Welsh language">Welsh language</a>, the <i>f</i> produces the <i>v</i> sound; <i>Ifan</i> (<i>Ivan</i>) became <i>Evan</i>.
-</p><p>The similarity to the <a href="/wiki/Slavic_languages" title="Slavic languages">Slavic</a> name <a href="/wiki/Ivan_(name)" title="Ivan (name)">Ivan</a> is not accidental, as the latter is a cognate of John too.
-</p><p>In the Welsh language the patronymic "ab Evan" resulted in the anglicized surname "<a href="/wiki/Bevan" title="Bevan">Bevan</a>", which is also common in Wales.
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Administration"><span class="tocnumber">1</span> <span class="toctext">Administration</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Location"><span class="tocnumber">2</span> <span class="toctext">Location</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#History"><span class="tocnumber">4</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Origins"><span class="tocnumber">4.1</span> <span class="toctext">Origins</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Middle_Ages"><span class="tocnumber">4.2</span> <span class="toctext">Middle Ages</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Post-medieval"><span class="tocnumber">4.3</span> <span class="toctext">Post-medieval</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Natural_features"><span class="tocnumber">5</span> <span class="toctext">Natural features</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Population"><span class="tocnumber">6</span> <span class="toctext">Population</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Sights"><span class="tocnumber">7</span> <span class="toctext">Sights</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Personalities"><span class="tocnumber">8</span> <span class="toctext">Personalities</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#International_relations"><span class="tocnumber">9</span> <span class="toctext">International relations</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#See_also"><span class="tocnumber">10</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Administration">Administration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bayeux&amp;action=edit&amp;section=1" title="Edit section: Administration">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Bayeux is a <a href="/wiki/Sub-prefecture" class="mw-redirect" title="Sub-prefecture">sub-prefecture</a> of Calvados. It is the seat of the <a href="/wiki/Arrondissement" title="Arrondissement">arrondissement</a> of Bayeux and of the <a href="/wiki/Cantons_of_France" title="Cantons of France">canton</a> of Bayeux.
 </p>
-<h2><span class="mw-headline" id="Notable_persons_named_Evans">Notable persons named Evans</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evans_(surname)&amp;action=edit&amp;section=2" title="Edit section: Notable persons named Evans">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li>See <a href="/wiki/List_of_people_with_surname_Evans" title="List of people with surname Evans">List of people with surname Evans</a></li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evans_(surname)&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="Location">Location</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bayeux&amp;action=edit&amp;section=2" title="Edit section: Location">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Bayeux is located 7 kilometres (4 miles) from the coast of the English Channel and 30&#160;km (19&#160;mi) north-west of <a href="/wiki/Caen" title="Caen">Caen</a>. The city, with elevations varying from 32 to 67 metres (105 to 220 feet) <a href="/wiki/Above_mean_sea_level" class="mw-redirect" title="Above mean sea level">above sea level</a> – with an average of 46 metres (151 feet) – is bisected by the <a href="/wiki/Aure_(river)" title="Aure (river)">River Aure</a>. Bayeux is located at the crossroads of <a href="/wiki/Route_nationale_13" title="Route nationale 13">RN 13</a> and the train route Paris-Caen-<a href="/wiki/Cherbourg" class="mw-redirect" title="Cherbourg">Cherbourg</a>. The city is the capital of the <a href="/wiki/Bessin" title="Bessin">Bessin</a>, which extends north-west of <a href="/wiki/Calvados_(department)" title="Calvados (department)">Calvados</a>.
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bayeux&amp;action=edit&amp;section=3" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The city was known as <b><a href="/wiki/Augustodurum" class="mw-redirect" title="Augustodurum">Augustodurum</a></b> in the <a href="/wiki/Roman_Empire" title="Roman Empire">Roman Empire</a>. It means the <i>durum</i> (Celtic word <i>duro-</i> 'door', 'gate', Welsh <i><i lang="cy" title="Welsh language text">dor</i></i>, Breton <i><i lang="br" title="Breton language text">dor</i></i> 'door', 'gate') dedicated to <a href="/wiki/Augustus" title="Augustus">Augustus</a>, Roman Emperor. The Celtic word <i>duron</i>, Latinised as <i>durum</i>, was probably used to translate the Latin word <i><a href="/wiki/Forum_(Roman)" title="Forum (Roman)">forum</a></i> (Compare <a href="/wiki/Fr%C3%A9jus" title="Fréjus">Fréjus</a> <i>Forum Julii</i>, dedicated to Julius (Caesar)).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>In the Late Empire it took the name of the Celtic tribe who lived here: the <i>Bodiocassi</i>, Latinized in <i>Bajocassi</i>, <i><a href="/wiki/Bajocasses" class="mw-redirect" title="Bajocasses">Bajocasses</a></i>, and this word explains the place-names Bayeux and <a href="/wiki/Bessin" title="Bessin">Bessin</a>. <i>Bodiocassi</i> has been compared with Old Irish <i><i lang="sga" title="Old Irish language text">Buidechass</i></i> 'with blond locks'.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bayeux&amp;action=edit&amp;section=4" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Origins">Origins</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bayeux&amp;action=edit&amp;section=5" title="Edit section: Origins">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Founded as a Gallo-Roman settlement in the 1st century BC under the name Augustodurum, Bayeux is the capital of the former territory of the <a href="/wiki/Baiocasses" title="Baiocasses">Baiocasses</a> people of Gaul, whose name appears in <a href="/wiki/Pliny%27s_Natural_History" class="mw-redirect" title="Pliny&#39;s Natural History">Pliny's Natural History</a> (iv.107). Evidence of earlier human occupation of the territory comes from fortified Celtic camps, but there is no evidence of any major pre-existing Celtic town before the organization of Gaul in Roman <i><a href="/wiki/Civitas" title="Civitas">civitates</a></i>. Any settlement was more likely confined to scattered Druid huts along the banks of the Aure and Drome rivers or on Mount Phaunus where they worshiped. Cemeteries have been found on the nearby Mount Phaunus indicating the area as a Druid centre. Titus Sabinus, a lieutenant of <a href="/wiki/Julius_Caesar" title="Julius Caesar">Julius Caesar</a>, subjected the Bessin region to Roman domination. The 5th-century <i>Notitia provinciarum et civitatum Galliae</i> mentions <a href="/wiki/Suevi" class="mw-redirect" title="Suevi">Suevi</a> that had been officially settled here (<i><a href="/wiki/Laeti" title="Laeti">laeti</a></i>).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>The town is mentioned by <a href="/wiki/Ptolemy" title="Ptolemy">Ptolemy</a>, writing in the reign of Antoninus Pius, under the name <i>Noemagus Biducassium</i> (for <i>*Noviomagus Badiocassium</i> 'New market of the Badiocassi') and remained so until the time of the Roman Empire. The main street was already the heart of the city. Two baths, under the Church of St. Lawrence and the post office in rue Laitière, and a sculpted head of the goddess Minerva have been found, attesting to the adoption of Roman culture. In 1990 a closer examination of huge blocks discovered in the cathedral in the 19th century indicated the presence of an old Roman building. Bayeux was built on a crossroads between <a href="/wiki/Lisieux" title="Lisieux">Lisieux</a> and <a href="/wiki/Valognes" title="Valognes">Valognes</a>, developing first on the west bank of the river. By the end of the 3rd century a walled enclosure surrounded the city and remained until it was removed in the 18th century. Its layout is still visible and can be followed today. The citadel of the city was located in the southwest corner and the cathedral the southeast. An important city in Normandy, Bayeux was part of the coastal defence of the Roman Empire against the pirates of the region, and a Roman legion was stationed there.
+</p>
+<h3><span class="mw-headline" id="Middle_Ages">Middle Ages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bayeux&amp;action=edit&amp;section=6" title="Edit section: Middle Ages">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:BayeuxTapestryScene22.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BayeuxTapestryScene22.jpg/220px-BayeuxTapestryScene22.jpg" decoding="async" width="220" height="131" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BayeuxTapestryScene22.jpg/330px-BayeuxTapestryScene22.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BayeuxTapestryScene22.jpg/440px-BayeuxTapestryScene22.jpg 2x" data-file-width="600" data-file-height="357" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:BayeuxTapestryScene22.jpg" class="internal" title="Enlarge"></a></div>Bayeux (Bagias), depicted in <a href="/wiki/Bayeux_Tapestry_tituli#22" title="Bayeux Tapestry tituli">scene 22</a> of the <a href="/wiki/Bayeux_Tapestry" title="Bayeux Tapestry">Bayeux Tapestry</a></div></div></div>
+<p>The city was largely destroyed during the <a href="/wiki/Viking_expansion" title="Viking expansion">Viking raids</a> of the late 9th century but was rebuilt in the early 10th century under the reign of Bothon. In the middle of the 10th century Bayeux was controlled by <a href="/wiki/Hagrold" title="Hagrold">Hagrold</a>, a pagan Viking who defended the city against the Franks. The 12th-century poet <a href="/wiki/Beno%C3%AEt_de_Saint-Maure" class="mw-redirect" title="Benoît de Saint-Maure">Benoît de Saint-Maure</a>, in his verse history of the dukes of Normandy, remarked on the "Danish" commonly spoken at Bayeux.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>The 11th century saw the creation of five villages beyond the walls to the north east evidence of its growth during <a href="/wiki/Duchy_of_Normandy" title="Duchy of Normandy">Ducal Normandy</a>. <a href="/wiki/William_the_Conqueror" title="William the Conqueror">William the Conqueror</a>'s half brother <a href="/wiki/Odo,_Earl_of_Kent" class="mw-redirect" title="Odo, Earl of Kent">Odo, Earl of Kent</a> completed the cathedral in the city and it was dedicated in 1077. However the city began to lose prominence when William placed his capital at <a href="/wiki/Caen" title="Caen">Caen</a>. When King <a href="/wiki/Henry_I_of_England" title="Henry I of England">Henry I of England</a> defeated his brother <a href="/wiki/Robert_Curthose" title="Robert Curthose">Robert Curthose</a> for the rule of Normandy, the city was burned to set an example to the rest of the duchy. Under <a href="/wiki/Richard_the_Lionheart" class="mw-redirect" title="Richard the Lionheart">Richard the Lionheart</a>, Bayeux was wealthy enough to purchase a <a href="/wiki/Municipal_charter" title="Municipal charter">municipal charter</a>. From the end of Richard's reign to the end of the <a href="/wiki/Hundred_Years%27_War" title="Hundred Years&#39; War">Hundred Years' War</a>, Bayeux was repeatedly pillaged until <a href="/wiki/Henry_V_of_England" title="Henry V of England">Henry V of England</a> captured the city in 1417. After the <a href="/wiki/Battle_of_Formigny" title="Battle of Formigny">Battle of Formigny</a>, <a href="/wiki/Charles_VII_of_France" title="Charles VII of France">Charles VII of France</a> recaptured the city and granted a general amnesty to its populace in 1450. The capture of Bayeux heralded a return to prosperity as new families replaced those decimated by war and these built some 60 mansions scattered throughout the city, with stone supplanting wood.
+</p>
+<h3><span class="mw-headline" id="Post-medieval">Post-medieval</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bayeux&amp;action=edit&amp;section=7" title="Edit section: Post-medieval">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:272px;"><a href="/wiki/File:Bayeux-centre-ville.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bayeux-centre-ville.jpg/270px-Bayeux-centre-ville.jpg" decoding="async" width="270" height="179" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bayeux-centre-ville.jpg/405px-Bayeux-centre-ville.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bayeux-centre-ville.jpg/540px-Bayeux-centre-ville.jpg 2x" data-file-width="1920" data-file-height="1272" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Bayeux-centre-ville.jpg" class="internal" title="Enlarge"></a></div>Bayeux city centre (2011)</div></div></div>
+<p>The area around Bayeux is called the Bessin, which was the <a href="/wiki/Bailiwick" title="Bailiwick">bailiwick</a> of the province Normandy until the <a href="/wiki/French_Revolution" title="French Revolution">French Revolution</a>. During the <a href="/wiki/Second_World_War" class="mw-redirect" title="Second World War">Second World War</a>, Bayeux was the first city of the <a href="/wiki/Operation_Overlord" title="Operation Overlord">Battle of Normandy</a> to be liberated, and on 16 June 1944 General <a href="/wiki/Charles_de_Gaulle" title="Charles de Gaulle">Charles de Gaulle</a> made <a href="/wiki/The_Bayeux_speeches" title="The Bayeux speeches">the first of two major speeches in Bayeux</a> in which he made clear that France sided with the Allies. The buildings in Bayeux were virtually untouched during the Battle of Normandy, the German forces being fully involved in defending <a href="/wiki/Caen" title="Caen">Caen</a> from the Allies.
+</p><p>The <a href="/wiki/Bayeux_War_Cemetery" class="mw-redirect" title="Bayeux War Cemetery">Bayeux War Cemetery</a> with its memorial includes the largest British cemetery dating from the Second World War in France. There are 4,648 graves, including 3,935 British and 466 Germans. Most of those buried there were killed in the invasion of Normandy.
+</p><p><a href="/wiki/The_Royal_British_Legion" title="The Royal British Legion">Royal British Legion National</a>, every 5 June at 1530 hrs, attends the 3rd Division Cean Memorial Service and beating retreat ceremony. On the 6th of June, it holds a remembrance service in <a href="/wiki/Bayeux_Cathedral" title="Bayeux Cathedral">Bayeux Cathedral</a> starting at 1015 hrs, and later at 1200 hrs, the Royal British Legion National holds a service of remembrance at the Bayeux Cemetery. All services are open to the public, all Standards <a href="/wiki/The_Royal_British_Legion" title="The Royal British Legion">RBL</a>, NVA, <a href="/wiki/Royal_Navy" title="Royal Navy">RN</a>, <a href="/wiki/British_Army" title="British Army">ARMY</a>, and <a href="/wiki/Royal_Air_Force" title="Royal Air Force">RAF</a> service and Regimental Associations are welcome to attend and parade. Details can be found at <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120326180301/http://www.rblsomme.org/">www.rblsomme.org</a>
+</p><p>The French town of Bayeux is also the home of a memorial to all of the journalists who have lost their lives while reporting. The memorial was designed by <a href="/w/index.php?title=Samuel_Craquelin&amp;action=edit&amp;redlink=1" class="new" title="Samuel Craquelin (page does not exist)">Samuel Craquelin</a>, who is a French architect. The memorial lists the names of 1,889 journalists killed between 1944 and 2007. The memorial was established in Bayeux because of its historic liberation on 7 June 1944.<sup id="cite_ref-bayeux_6-0" class="reference"><a href="#cite_note-bayeux-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Natural_features">Natural features</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bayeux&amp;action=edit&amp;section=8" title="Edit section: Natural features">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The river <a href="/wiki/Aure_(river)" title="Aure (river)">Aure</a> flows through Bayeux, offering panoramic views from a number of locations. The Aure has a relatively high level of <a href="/wiki/Turbidity" title="Turbidity">turbidity</a> and the speed of its brownish water is moderate because of the slight slope of the watercourse, although where it is narrow in places like the centre of Bayeux, higher surface speeds are generated. In the centre of Bayeux near the Bayeux Tapestry Museum, <a href="/wiki/PH" title="PH">pH</a> levels were measured at 8.35 and the electrical conductivity of water was tested at 37 microsiemens per centimetre. Turbidity was measured at 13 centimetres by the <a href="/wiki/Secchi_disk" title="Secchi disk">Secchi disk</a> method. At this point of reference, flows are generally of the order of 50 cubic feet per second (1.4&#160;m<sup>3</sup>/s).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>The <a href="/wiki/Bajocian" title="Bajocian">Bajocian</a> Age in the <a href="/wiki/Jurassic" title="Jurassic">Jurassic</a> Period of geological time takes its name from the Latinised name of the inhabitants of Bayeux (the Bajocassi)
+</p>
+<h2><span class="mw-headline" id="Population">Population</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bayeux&amp;action=edit&amp;section=9" title="Edit section: Population">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" style="width:15em;border-spacing: 0;float:left;clear:left;margin:0.5em 1em 0.5em 0;"><tbody><tr><th class="navbox-title" colspan="3" style="padding:0.25em;font-size:110%">Historical population</th></tr><tr style="font-size:95%"><th style="border-bottom:1px solid black;padding:1px;width:3em">Year</th><th style="border-bottom:1px solid black;padding:1px 2px;text-align:right"><abbr title="Population">Pop.</abbr></th><th style="border-bottom:1px solid black;padding:1px;text-align:right"><abbr title="Percent change">±%</abbr></th></tr><tr><th style="text-align:center;padding:1px"> 1793</th><td style="text-align:right;padding:1px">10,578</td><td style="text-align:right;padding:1px">—&#160;&#160;&#160;&#160;</td></tr><tr><th style="text-align:center;padding:1px"> 1800</th><td style="text-align:right;padding:1px">9,600</td><td style="text-align:right;padding:1px">−9.2%</td></tr><tr><th style="text-align:center;padding:1px"> 1806</th><td style="text-align:right;padding:1px">10,419</td><td style="text-align:right;padding:1px">+8.5%</td></tr><tr><th style="text-align:center;padding:1px"> 1821</th><td style="text-align:right;padding:1px">10,280</td><td style="text-align:right;padding:1px">−1.3%</td></tr><tr><th style="text-align:center;padding:1px;border-bottom:1px solid #bbbbbb"> 1831</th><td style="text-align:right;padding:1px;border-bottom:1px solid #bbbbbb">10,303</td><td style="text-align:right;padding:1px;border-bottom:1px solid #bbbbbb">+0.2%</td></tr><tr><th style="text-align:center;padding:1px"> 1836</th><td style="text-align:right;padding:1px">10,242</td><td style="text-align:right;padding:1px">−0.6%</td></tr><tr><th style="text-align:center;padding:1px"> 1841</th><td style="text-align:right;padding:1px">9,840</td><td style="text-align:right;padding:1px">−3.9%</td></tr><tr><th style="text-align:center;padding:1px"> 1846</th><td style="text-align:right;padding:1px">9,765</td><td style="text-align:right;padding:1px">−0.8%</td></tr><tr><th style="text-align:center;padding:1px"> 1851</th><td style="text-align:right;padding:1px">9,360</td><td style="text-align:right;padding:1px">−4.1%</td></tr><tr><th style="text-align:center;padding:1px;border-bottom:1px solid #bbbbbb"> 1856</th><td style="text-align:right;padding:1px;border-bottom:1px solid #bbbbbb">9,667</td><td style="text-align:right;padding:1px;border-bottom:1px solid #bbbbbb">+3.3%</td></tr><tr><th style="text-align:center;padding:1px"> 1861</th><td style="text-align:right;padding:1px">9,483</td><td style="text-align:right;padding:1px">−1.9%</td></tr><tr><th style="text-align:center;padding:1px"> 1866</th><td style="text-align:right;padding:1px">9,138</td><td style="text-align:right;padding:1px">−3.6%</td></tr><tr><th style="text-align:center;padding:1px"> 1872</th><td style="text-align:right;padding:1px">8,536</td><td style="text-align:right;padding:1px">−6.6%</td></tr><tr><th style="text-align:center;padding:1px"> 1876</th><td style="text-align:right;padding:1px">8,614</td><td style="text-align:right;padding:1px">+0.9%</td></tr><tr><th style="text-align:center;padding:1px;border-bottom:1px solid #bbbbbb"> 1881</th><td style="text-align:right;padding:1px;border-bottom:1px solid #bbbbbb">8,357</td><td style="text-align:right;padding:1px;border-bottom:1px solid #bbbbbb">−3.0%</td></tr><tr><th style="text-align:center;padding:1px"> 1886</th><td style="text-align:right;padding:1px">8,347</td><td style="text-align:right;padding:1px">−0.1%</td></tr><tr><th style="text-align:center;padding:1px"> 1891</th><td style="text-align:right;padding:1px">8,102</td><td style="text-align:right;padding:1px">−2.9%</td></tr><tr><th style="text-align:center;padding:1px"> 1896</th><td style="text-align:right;padding:1px">7,912</td><td style="text-align:right;padding:1px">−2.3%</td></tr><tr><th style="text-align:center;padding:1px"> 1901</th><td style="text-align:right;padding:1px">7,806</td><td style="text-align:right;padding:1px">−1.3%</td></tr><tr><th style="text-align:center;padding:1px;border-bottom:1px solid #bbbbbb"> 1906</th><td style="text-align:right;padding:1px;border-bottom:1px solid #bbbbbb">7,736</td><td style="text-align:right;padding:1px;border-bottom:1px solid #bbbbbb">−0.9%</td></tr><tr><th style="text-align:center;padding:1px"> 1911</th><td style="text-align:right;padding:1px">7,638</td><td style="text-align:right;padding:1px">−1.3%</td></tr><tr><th style="text-align:center;padding:1px"> 1921</th><td style="text-align:right;padding:1px">7,206</td><td style="text-align:right;padding:1px">−5.7%</td></tr><tr><th style="text-align:center;padding:1px"> 1926</th><td style="text-align:right;padding:1px">7,525</td><td style="text-align:right;padding:1px">+4.4%</td></tr><tr><th style="text-align:center;padding:1px"> 1931</th><td style="text-align:right;padding:1px">7,351</td><td style="text-align:right;padding:1px">−2.3%</td></tr><tr><th style="text-align:center;padding:1px;border-bottom:1px solid #bbbbbb"> 1936</th><td style="text-align:right;padding:1px;border-bottom:1px solid #bbbbbb">7,637</td><td style="text-align:right;padding:1px;border-bottom:1px solid #bbbbbb">+3.9%</td></tr><tr><th style="text-align:center;padding:1px"> 1946</th><td style="text-align:right;padding:1px">10,246</td><td style="text-align:right;padding:1px">+34.2%</td></tr><tr><th style="text-align:center;padding:1px"> 1954</th><td style="text-align:right;padding:1px">10,077</td><td style="text-align:right;padding:1px">−1.6%</td></tr><tr><th style="text-align:center;padding:1px"> 1962</th><td style="text-align:right;padding:1px">9,678</td><td style="text-align:right;padding:1px">−4.0%</td></tr><tr><th style="text-align:center;padding:1px"> 1968</th><td style="text-align:right;padding:1px">11,451</td><td style="text-align:right;padding:1px">+18.3%</td></tr><tr><th style="text-align:center;padding:1px;border-bottom:1px solid #bbbbbb"> 1975</th><td style="text-align:right;padding:1px;border-bottom:1px solid #bbbbbb">13,457</td><td style="text-align:right;padding:1px;border-bottom:1px solid #bbbbbb">+17.5%</td></tr><tr><th style="text-align:center;padding:1px"> 1982</th><td style="text-align:right;padding:1px">14,721</td><td style="text-align:right;padding:1px">+9.4%</td></tr><tr><th style="text-align:center;padding:1px"> 1990</th><td style="text-align:right;padding:1px">14,704</td><td style="text-align:right;padding:1px">−0.1%</td></tr><tr><th style="text-align:center;padding:1px"> 1999</th><td style="text-align:right;padding:1px">14,961</td><td style="text-align:right;padding:1px">+1.7%</td></tr><tr><th style="text-align:center;padding:1px"> 2008</th><td style="text-align:right;padding:1px">13,478</td><td style="text-align:right;padding:1px">−9.9%</td></tr></tbody></table>
+<p>The inhabitants of Bayeux are called <i>Bayeusains</i> <small></small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/French" title="Help:IPA/French">[bajøzɛ̃]</a></span> or <i>Bajocasses</i> <small></small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/French" title="Help:IPA/French">[baʒokas]</a></span>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2010)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="Sights">Sights</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bayeux&amp;action=edit&amp;section=10" title="Edit section: Sights">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Bayeux_Cathedral.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bayeux_Cathedral.JPG/220px-Bayeux_Cathedral.JPG" decoding="async" width="220" height="275" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bayeux_Cathedral.JPG/330px-Bayeux_Cathedral.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bayeux_Cathedral.JPG/440px-Bayeux_Cathedral.JPG 2x" data-file-width="1920" data-file-height="2398" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Bayeux_Cathedral.JPG" class="internal" title="Enlarge"></a></div>Bayeux Cathedral</div></div></div>
+<p>Bayeux is a major tourist attraction, best known to British and French visitors for the <a href="/wiki/Bayeux_tapestry" class="mw-redirect" title="Bayeux tapestry">Bayeux tapestry</a>, made to commemorate events in the <a href="/wiki/Norman_Conquest" class="mw-redirect" title="Norman Conquest">Norman Conquest</a> of England in 1066. According to the legend, the tapestry was made by <a href="/wiki/Matilda_of_Flanders" title="Matilda of Flanders">Reine Mathilde</a>, wife of William the Conqueror. In fact, it may have been designed and woven in England.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>  It is displayed in a museum in the town centre. The large <a href="/wiki/Norman_architecture" title="Norman architecture">Norman</a>-<a href="/wiki/Romanesque_architecture" title="Romanesque architecture">Romanesque</a> and <a href="/wiki/Gothic_architecture" title="Gothic architecture">Gothic</a> <a href="/wiki/Cath%C3%A9drale_Notre-Dame_de_Bayeux" class="mw-redirect" title="Cathédrale Notre-Dame de Bayeux">Cathédrale Notre-Dame de Bayeux</a>,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> consecrated in 1077, was arguably the original home of the tapestry where William's half-brother <a href="/wiki/Odo_of_Bayeux" title="Odo of Bayeux">Odo of Bayeux</a> (represented on the tapestry with a wooden club at the <a href="/wiki/Battle_of_Hastings" title="Battle of Hastings">Battle of Hastings</a>), would have had it displayed.
+</p><p>The <a href="/wiki/Jardin_botanique_de_Bayeux" title="Jardin botanique de Bayeux">Jardin botanique de Bayeux</a> is a <a href="/wiki/Botanical_garden" title="Botanical garden">botanical garden</a> dating from 1864.
+</p>
+<div style="clear:left;"></div>
+<h2><span class="mw-headline" id="Personalities">Personalities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bayeux&amp;action=edit&amp;section=11" title="Edit section: Personalities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Muriel_Barbery" title="Muriel Barbery">Muriel Barbery</a> (born 1965), writer</li>
+<li><a href="/wiki/Berengar_II_of_Neustria" title="Berengar II of Neustria">Berengar II of Neustria</a> (died 896 AD), Count of Bayeux</li>
+<li><a href="/w/index.php?title=Roger_B%C3%A9sus&amp;action=edit&amp;redlink=1" class="new" title="Roger Bésus (page does not exist)">Roger Bésus</a> (1915–1994), sculptor and writer</li>
+<li><a href="/wiki/Fr%C3%A9d%C3%A9ric_N%C3%A9e" title="Frédéric Née">Frédéric Née</a> (born 1975), footballer</li>
+<li><a href="/wiki/Alain_Chartier" title="Alain Chartier">Alain Chartier</a> (1392–1430), politician and poet</li>
+<li><a href="/w/index.php?title=Pierre_Du_Bosc&amp;action=edit&amp;redlink=1" class="new" title="Pierre Du Bosc (page does not exist)">Pierre Du Bosc</a> (1623–1692), preacher</li>
+<li><a href="/wiki/Franck_Dumas" title="Franck Dumas">Franck Dumas</a> (born 1968), footballer and coach <a href="/wiki/SM_Caen" class="mw-redirect" title="SM Caen">Stade Malherbe de Caen</a></li>
+<li><a href="/wiki/Jean-L%C3%A9once_Dupont" title="Jean-Léonce Dupont">Jean-Léonce Dupont</a> (born 1955), senator and former mayor</li>
+<li><a href="/wiki/Arcisse_de_Caumont" title="Arcisse de Caumont">Arcisse de Caumont</a> (1801–1873), archaeologist, founded the Societé des Antiquaires de Normandy</li>
+<li><a href="/w/index.php?title=Fran%C3%A7ois_de_Caumont&amp;action=edit&amp;redlink=1" class="new" title="François de Caumont (page does not exist)">François de Caumont</a> (1768–1848), designer and painter</li>
+<li><a href="/w/index.php?title=Miss_George&amp;action=edit&amp;redlink=1" class="new" title="Miss George (page does not exist)">Miss George</a> (1787–1867), actress and mistress of <a href="/wiki/Napoleon" title="Napoleon">Napoleon</a></li>
+<li><a href="/w/index.php?title=Georges_Lenepveu&amp;action=edit&amp;redlink=1" class="new" title="Georges Lenepveu (page does not exist)">Georges Lenepveu</a> (1857–1923), inventor and master glassmaker</li>
+<li><a href="/wiki/Fran%C3%A7ois_G%C3%A9rard" title="François Gérard">François Gérard</a> (1770–1837), painter and member of Bayeux</li>
+<li><a href="/wiki/Jean_Gr%C3%A9millon" title="Jean Grémillon">Jean Grémillon</a> (1901–1959), film director</li>
+<li><a href="/w/index.php?title=Joachim_Rupalley&amp;action=edit&amp;redlink=1" class="new" title="Joachim Rupalley (page does not exist)">Joachim Rupalley</a> (1718–1780) painter</li>
+<li><a href="/w/index.php?title=%C3%89douard_Lair_de_Beauvais&amp;action=edit&amp;redlink=1" class="new" title="Édouard Lair de Beauvais (page does not exist)">Édouard Lair de Beauvais</a>, (1790–1851), architect</li>
+<li><a href="/w/index.php?title=Alfred_Lair_de_Beauvais&amp;action=edit&amp;redlink=1" class="new" title="Alfred Lair de Beauvais (page does not exist)">Alfred Lair de Beauvais</a> (1820–1869), organist and composer</li>
+<li><a href="/wiki/Robert_Lef%C3%A8vre" title="Robert Lefèvre">Robert Lefèvre</a> (1755–1830), painter</li>
+<li><a href="/w/index.php?title=Lionel_Lemonchois&amp;action=edit&amp;redlink=1" class="new" title="Lionel Lemonchois (page does not exist)">Lionel Lemonchois</a> (born 1960), navigator</li>
+<li><a href="/wiki/L%C3%A9on_Le_Cieux" title="Léon Le Cieux">Léon Le Cieux</a> (1821–1873), violinist</li>
+<li><a href="/w/index.php?title=Damien_Letulle&amp;action=edit&amp;redlink=1" class="new" title="Damien Letulle (page does not exist)">Damien Letulle</a> (born 1973), Olympic archer</li>
+<li><a href="/w/index.php?title=Gabriel-Narcisse_Rupalley&amp;action=edit&amp;redlink=1" class="new" title="Gabriel-Narcisse Rupalley (page does not exist)">Gabriel-Narcisse Rupalley</a> (1745–1798), painter</li>
+<li><a href="/wiki/Saint_Marcouf" title="Saint Marcouf">Saint Marcouf</a> (died 588 AD), saint born in Bayeux, best known for the healing of <a href="/wiki/Scrofula" class="mw-redirect" title="Scrofula">scrofula</a></li>
+<li><a href="/wiki/%C3%89ric_Navet" title="Éric Navet">Éric Navet</a> (born 1959), jockey</li>
+<li><a href="/wiki/Poppa_of_Bayeux" title="Poppa of Bayeux">Poppa of Bayeux</a>, wife of <a href="/wiki/Rollo" title="Rollo">Rollo</a></li>
+<li><a href="/wiki/Saint_Vigor" title="Saint Vigor">Saint Vigor</a> (died 537 AD), bishop of Bayeux from 513 to 537, destroyed a pagan temple in Bayeux</li>
+<li><a href="/wiki/William_the_Conqueror" title="William the Conqueror">William the Conqueror</a> (1028-1087), Duke of Normandy, King of England</li>
+<li><a href="/wiki/Exuperius" title="Exuperius">Exuperius</a>, (end of 4th century– died c. 410) <a href="/wiki/Roman_Catholic_Archdiocese_of_Toulouse" title="Roman Catholic Archdiocese of Toulouse">Archbishop</a> of Toulouse.</li>
+<li><a href="/wiki/Alfred-Georges_Regner" title="Alfred-Georges Regner">Alfred-Georges Regner</a> 1902-1987, painter-engraver</li></ul>
+<h2><span class="mw-headline" id="International_relations">International relations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bayeux&amp;action=edit&amp;section=12" title="Edit section: International relations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_twin_towns_and_sister_cities_in_France" title="List of twin towns and sister cities in France">List of twin towns and sister cities in France</a></div>
+<p>Bayeux is <a href="/wiki/Twin_towns_and_sister_cities" class="mw-redirect" title="Twin towns and sister cities">twinned</a> with:<sup id="cite_ref-Bayeux_twinnings_10-0" class="reference"><a href="#cite_note-Bayeux_twinnings-10">&#91;10&#93;</a></sup>
+</p>
+<table class="wikitable">
+
+<tbody><tr valign="top">
+<td>
+<ul><li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Dorchester,_Dorset" title="Dorchester, Dorset">Dorchester</a>, United Kingdom<sup id="cite_ref-Bayeux_twinnings_10-1" class="reference"><a href="#cite_note-Bayeux_twinnings-10">&#91;10&#93;</a></sup><sup id="cite_ref-Archant_twinning_3_11-0" class="reference"><a href="#cite_note-Archant_twinning_3-11">&#91;11&#93;</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/L%C3%BCbbecke" title="Lübbecke">Lübbecke</a>, Germany<sup id="cite_ref-Bayeux_twinnings_10-2" class="reference"><a href="#cite_note-Bayeux_twinnings-10">&#91;10&#93;</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a></span> <a href="/wiki/Chojnice" title="Chojnice">Chojnice</a>, Poland<sup id="cite_ref-Bayeux_twinnings_10-3" class="reference"><a href="#cite_note-Bayeux_twinnings-10">&#91;10&#93;</a></sup></li></ul>
+</td>
+<td>
+<ul><li><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Sotome,_Nagasaki" title="Sotome, Nagasaki">Sotome, Nagasaki</a>, Japan<sup id="cite_ref-Bayeux_twinnings_10-4" class="reference"><a href="#cite_note-Bayeux_twinnings-10">&#91;10&#93;</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Eindhoven" title="Eindhoven">Eindhoven</a>, The Netherlands<sup id="cite_ref-Bayeux_twinnings_10-5" class="reference"><a href="#cite_note-Bayeux_twinnings-10">&#91;10&#93;</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/Denmark" title="Denmark"><img alt="Denmark" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/31px-Flag_of_Denmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/40px-Flag_of_Denmark.svg.png 2x" data-file-width="740" data-file-height="560" /></a></span>  <a href="/wiki/Viborg,_Denmark" title="Viborg, Denmark">Viborg</a>, Denmark<sup id="cite_ref-Bayeux_twinnings_10-6" class="reference"><a href="#cite_note-Bayeux_twinnings-10">&#91;10&#93;</a></sup></li></ul>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bayeux&amp;action=edit&amp;section=13" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Communes_of_the_Calvados_department" title="Communes of the Calvados department">Communes of the Calvados department</a></li>
+<li><a href="/wiki/Bayeux,_Brazil" class="mw-redirect" title="Bayeux, Brazil">Bayeux, Brazil</a></li>
+<li><a href="/wiki/Roman_Catholic_Diocese_of_Bayeux" title="Roman Catholic Diocese of Bayeux">Roman Catholic Diocese of Bayeux</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bayeux&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <div class="reflist" style="list-style-type: decimal;">
-<div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">George Pawley White. A handbook of Cornish surnames</span>
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.insee.fr/fr/statistiques/3681328?geo=COM-14047">"Populations légales 2016"</a>. <a href="/wiki/Institut_national_de_la_statistique_et_des_%C3%A9tudes_%C3%A9conomiques" title="Institut national de la statistique et des études économiques">INSEE</a><span class="reference-accessdate">. Retrieved <span class="nowrap">25 April</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Populations+l%C3%A9gales+2016&amp;rft.pub=INSEE&amp;rft_id=https%3A%2F%2Fwww.insee.fr%2Ffr%2Fstatistiques%2F3681328%3Fgeo%3DCOM-14047&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABayeux" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://freepages.history.rootsweb.ancestry.com/~kernow/names_e.htm">"Cornish surnames E"</a>. Freepages.history.rootsweb.ancestry.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-07-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Cornish+surnames+E&amp;rft.pub=Freepages.history.rootsweb.ancestry.com&amp;rft_id=http%3A%2F%2Ffreepages.history.rootsweb.ancestry.com%2F~kernow%2Fnames_e.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEvans+%28surname%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a href="https://fr.wikipedia.org/wiki/Pierre-Yves_Lambert" class="extiw" title="fr:Pierre-Yves Lambert">fr:Pierre-Yves Lambert</a>, <i>La langue gauloise</i>, éditions errance 1994.</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://forebears.co.uk/surnames/campbell">"Campbell Surname Meaning and Distribution"</a>. forebears.co.uk.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Campbell+Surname+Meaning+and+Distribution&amp;rft.pub=forebears.co.uk&amp;rft_id=http%3A%2F%2Fforebears.co.uk%2Fsurnames%2Fcampbell&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEvans+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/> Retrieved 21 January 2014</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Xavier Delamarre, <i>Dictionnaire de la langue Gauloise</i>, éditions errance 2003.</span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://webarchive.loc.gov/all/20101012101346/http%3A//www%2Ecensus%2Egov/genealogy/names/dist%2Eall%2Elast">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="https://www.census.gov/genealogy/names/dist.all.last">the original</a> on October 12, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">August 10,</span> 2006</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=https%3A%2F%2Fwww.census.gov%2Fgenealogy%2Fnames%2Fdist.all.last&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEvans+%28surname%29" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"> <i>Laeti Suevorum</i>, noted in Jean Roemer, <i>Origins of the English People and the English Language</i>, p. 207 note 2.</span>
 </li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Kimberly Powell. <a rel="nofollow" class="external text" href="http://genealogy.about.com/library/surnames/e/bl_name-EVANS.htm">"Evans Surname Meaning and Origin"</a>. <i>About.com Parenting</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=About.com+Parenting&amp;rft.atitle=Evans+Surname+Meaning+and+Origin&amp;rft.au=Kimberly+Powell&amp;rft_id=http%3A%2F%2Fgenealogy.about.com%2Flibrary%2Fsurnames%2Fe%2Fbl_name-EVANS.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEvans+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"> Benoît, <i>Chronique</i>: "Mais a Baiues en a tanz/ Qui ne sevent si daneis non."</span>
+</li>
+<li id="cite_note-bayeux-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-bayeux_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140109061100/http://en.rsf.org/the-french-town-of-bayeux-and-03-05-2007%2C21777">"The French town of Bayeux and Reporters Without Borders inaugurate a journalists memorial on the eve of World Freedom Day"</a>. Reporters Without Borders. 2007-05-03. Archived from <a rel="nofollow" class="external text" href="http://en.rsf.org/the-french-town-of-bayeux-and-03-05-2007,21777">the original</a> on 2014-01-09<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-02-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+French+town+of+Bayeux+and+Reporters+Without+Borders+inaugurate+a+journalists+memorial+on+the+eve+of+World+Freedom+Day&amp;rft.pub=Reporters+Without+Borders&amp;rft.date=2007-05-03&amp;rft_id=http%3A%2F%2Fen.rsf.org%2Fthe-french-town-of-bayeux-and-03-05-2007%2C21777&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABayeux" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a href="https://fr.wikipedia.org/wiki/Bayeux" class="extiw" title="fr:Bayeux">fr:Bayeux</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><i>World Book Encyclopedia</i>, p. 177, World Book Inc.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://france-for-visitors.com/normandy/bayeux/index.html">Cathedral of Bayeux: France Tourism Summaries</a></span>
+</li>
+<li id="cite_note-Bayeux_twinnings-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bayeux_twinnings_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bayeux_twinnings_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Bayeux_twinnings_10-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Bayeux_twinnings_10-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Bayeux_twinnings_10-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Bayeux_twinnings_10-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Bayeux_twinnings_10-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://archive.is/20131127063207/http://www.cncd.fr/frontoffice/bdd-region.asp?action=getRegion&amp;id=4">"National Commission for Decentralised cooperation"</a>. <i>Délégation pour l’Action Extérieure des Collectivités Territoriales (Ministère des Affaires étrangères)</i> (in French). Archived from <a rel="nofollow" class="external text" href="http://www.cncd.fr/frontoffice/bdd-region.asp?action=getRegion&amp;id=4#tabs3">the original</a> on 2013-11-27<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-12-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=D%C3%A9l%C3%A9gation+pour+l%E2%80%99Action+Ext%C3%A9rieure+des+Collectivit%C3%A9s+Territoriales+%28Minist%C3%A8re+des+Affaires+%C3%A9trang%C3%A8res%29&amp;rft.atitle=National+Commission+for+Decentralised+cooperation&amp;rft_id=http%3A%2F%2Fwww.cncd.fr%2Ffrontoffice%2Fbdd-region.asp%3Faction%3DgetRegion%26id%3D4%23tabs3&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABayeux" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Archant_twinning_3-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Archant_twinning_3_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130705094933/http://www.completefrance.com/language-culture/twin-towns">"British towns twinned with French towns <i>&#91;via WaybackMachine.com&#93;</i>"</a>. <i>Archant Community Media Ltd</i>. Archived from <a rel="nofollow" class="external text" href="http://www.completefrance.com/language-culture/twin-towns">the original</a> on 5 July 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-07-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Archant+Community+Media+Ltd&amp;rft.atitle=British+towns+twinned+with+French+towns+%5Bvia+WaybackMachine.com%5D&amp;rft_id=http%3A%2F%2Fwww.completefrance.com%2Flanguage-culture%2Ftwin-towns&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABayeux" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.dorchester-tc.gov.uk/Services/Twinning">Dorchester Town Twinning</a></span>
 </li>
 </ol></div></div>
-<style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
-<table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bayeux&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
 <tbody><tr>
-<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
-<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Evans</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Evans_(surname)&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
-</tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Bayeux" class="extiw" title="commons:Bayeux">Bayeux</a></b></i>.</td></tr>
 </tbody></table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png" decoding="async" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/60px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/80px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></td>
+<td class="mbox-text plainlist">Wikivoyage has a travel guide for <i><b><a href="https://en.wikivoyage.org/wiki/Bayeux#Q183910" class="extiw" title="wikivoyage:Bayeux">Bayeux</a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://www.mairie-bayeux.fr/">Official Web site</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.bessin-normandie.com/">Tourist office Web site</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070311013707/http://www.westfordconnection.com/Photos/France/bayeux/index.htm">Minosh Photography</a></li>
+<li><a rel="nofollow" class="external text" href="https://maps.google.com/maps?ll=49.279861,-0.704842&amp;spn=0.041096,0.059197&amp;t=k&amp;hl=en">Satellite photo on Google Maps</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.flickr.com/photos/d4rr3ll/11607358/in/set-311646/">British War Cemetery</a></li></ul>
+<ul class="gallery mw-gallery-traditional" style="max-width: 1115px;_width: 1115px;">
+	<li class="gallerycaption">Pictures</li>
+		<li class="gallerybox" style="width: 215px"><div style="width: 215px">
+			<div class="thumb" style="width: 210px;"><div style="margin:15px auto;"><a href="/wiki/File:Bayeux_022_20A.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bayeux_022_20A.JPG/180px-Bayeux_022_20A.JPG" decoding="async" width="180" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bayeux_022_20A.JPG/270px-Bayeux_022_20A.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bayeux_022_20A.JPG/360px-Bayeux_022_20A.JPG 2x" data-file-width="1536" data-file-height="1024" /></a></div></div>
+			<div class="gallerytext">
+<p>Near the <a href="/wiki/William_the_Conqueror" title="William the Conqueror">Centre Guillaume le Conquérant</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 215px"><div style="width: 215px">
+			<div class="thumb" style="width: 210px;"><div style="margin:15px auto;"><a href="/wiki/File:03JUL2001_France_Bayeux10.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/03JUL2001_France_Bayeux10.jpg/90px-03JUL2001_France_Bayeux10.jpg" decoding="async" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/03JUL2001_France_Bayeux10.jpg/135px-03JUL2001_France_Bayeux10.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/03JUL2001_France_Bayeux10.jpg/180px-03JUL2001_France_Bayeux10.jpg 2x" data-file-width="960" data-file-height="1280" /></a></div></div>
+			<div class="gallerytext">
+<p>Streets of Bayeux
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 215px"><div style="width: 215px">
+			<div class="thumb" style="width: 210px;"><div style="margin:15px auto;"><a href="/wiki/File:Bayeuxcemetery01.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bayeuxcemetery01.jpg/180px-Bayeuxcemetery01.jpg" decoding="async" width="180" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bayeuxcemetery01.jpg/270px-Bayeuxcemetery01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bayeuxcemetery01.jpg/360px-Bayeuxcemetery01.jpg 2x" data-file-width="800" data-file-height="533" /></a></div></div>
+			<div class="gallerytext">
+<p>Main entrance to <a href="/wiki/Bayeux_War_Cemetery" class="mw-redirect" title="Bayeux War Cemetery">Bayeux War Cemetery</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 215px"><div style="width: 215px">
+			<div class="thumb" style="width: 210px;"><div style="margin:15px auto;"><a href="/wiki/File:Bayeuxcemetery02.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Bayeuxcemetery02.jpg/180px-Bayeuxcemetery02.jpg" decoding="async" width="180" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Bayeuxcemetery02.jpg/270px-Bayeuxcemetery02.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Bayeuxcemetery02.jpg/360px-Bayeuxcemetery02.jpg 2x" data-file-width="800" data-file-height="533" /></a></div></div>
+			<div class="gallerytext">
+<p>The <a href="/wiki/Cross_of_Sacrifice" title="Cross of Sacrifice">Cross of Sacrifice</a> in cemetery
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 215px"><div style="width: 215px">
+			<div class="thumb" style="width: 210px;"><div style="margin:15px auto;"><a href="/wiki/File:Liberation_memorial_plaque_in_Bayeux.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Liberation_memorial_plaque_in_Bayeux.jpg/90px-Liberation_memorial_plaque_in_Bayeux.jpg" decoding="async" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Liberation_memorial_plaque_in_Bayeux.jpg/135px-Liberation_memorial_plaque_in_Bayeux.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Liberation_memorial_plaque_in_Bayeux.jpg/180px-Liberation_memorial_plaque_in_Bayeux.jpg 2x" data-file-width="2448" data-file-height="3264" /></a></div></div>
+			<div class="gallerytext">
+<p>Liberation memorial plaque in Bayeux
+</p>
+			</div>
+		</div></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Communes_of_the_Calvados_department_23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Calvados_communes" title="Template:Calvados communes"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Calvados_communes" title="Template talk:Calvados communes"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Calvados_communes&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Communes_of_the_Calvados_department_23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=" style="font-size:114%;margin:0 4em"><a href="/wiki/Communes_of_the_Calvados_department" title="Communes of the Calvados department">Communes</a> of the <a href="/wiki/Calvados_(department)" title="Calvados (department)">Calvados</a> department <span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></span></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ablon" title="Ablon">Ablon</a></li>
+<li><a href="/wiki/Agy" title="Agy">Agy</a></li>
+<li><a href="/wiki/Amay%C3%A9-sur-Orne" title="Amayé-sur-Orne">Amayé-sur-Orne</a></li>
+<li><a href="/wiki/Amay%C3%A9-sur-Seulles" title="Amayé-sur-Seulles">Amayé-sur-Seulles</a></li>
+<li><a href="/wiki/Amfreville,_Calvados" title="Amfreville, Calvados">Amfreville</a></li>
+<li><a href="/wiki/Angerville,_Calvados" title="Angerville, Calvados">Angerville</a></li>
+<li><a href="/wiki/Anisy" title="Anisy">Anisy</a></li>
+<li><a href="/wiki/Annebault" title="Annebault">Annebault</a></li>
+<li><a href="/wiki/Arganchy" title="Arganchy">Arganchy</a></li>
+<li><a href="/wiki/Argences" title="Argences">Argences</a></li>
+<li><a href="/wiki/Arromanches-les-Bains" title="Arromanches-les-Bains">Arromanches-les-Bains</a></li>
+<li><a href="/wiki/Asnelles" title="Asnelles">Asnelles</a></li>
+<li><a href="/wiki/Asni%C3%A8res-en-Bessin" title="Asnières-en-Bessin">Asnières-en-Bessin</a></li>
+<li><a href="/wiki/Auberville" title="Auberville">Auberville</a></li>
+<li><a href="/wiki/Aubigny,_Calvados" title="Aubigny, Calvados">Aubigny</a></li>
+<li><a href="/wiki/Audrieu" title="Audrieu">Audrieu</a></li>
+<li><a href="/wiki/Aure_sur_Mer" title="Aure sur Mer">Aure sur Mer</a></li>
+<li><a href="/wiki/Aurseulles" title="Aurseulles">Aurseulles</a></li>
+<li><a href="/wiki/Authie,_Calvados" title="Authie, Calvados">Authie</a></li>
+<li><a href="/wiki/Les_Authieux-sur-Calonne" title="Les Authieux-sur-Calonne">Les Authieux-sur-Calonne</a></li>
+<li><a href="/wiki/Auvillars" title="Auvillars">Auvillars</a></li>
+<li><a href="/wiki/Avenay" title="Avenay">Avenay</a></li>
+<li><a href="/wiki/Balleroy-sur-Dr%C3%B4me" title="Balleroy-sur-Drôme">Balleroy-sur-Drôme</a></li>
+<li><a href="/wiki/Banneville-la-Campagne" title="Banneville-la-Campagne">Banneville-la-Campagne</a></li>
+<li><a href="/wiki/Banville,_Calvados" title="Banville, Calvados">Banville</a></li>
+<li><a href="/wiki/Barbery,_Calvados" title="Barbery, Calvados">Barbery</a></li>
+<li><a href="/wiki/Barbeville" title="Barbeville">Barbeville</a></li>
+<li><a href="/wiki/Barneville-la-Bertran" title="Barneville-la-Bertran">Barneville-la-Bertran</a></li>
+<li><a href="/wiki/Baron-sur-Odon" title="Baron-sur-Odon">Baron-sur-Odon</a></li>
+<li><a href="/wiki/Barou-en-Auge" title="Barou-en-Auge">Barou-en-Auge</a></li>
+<li><a href="/wiki/Basly" title="Basly">Basly</a></li>
+<li><a href="/wiki/Basseneville" title="Basseneville">Basseneville</a></li>
+<li><a href="/wiki/Bavent" title="Bavent">Bavent</a></li>
+<li><a class="mw-selflink selflink">Bayeux</a></li>
+<li><a href="/wiki/Bazenville" title="Bazenville">Bazenville</a></li>
+<li><a href="/wiki/La_Bazoque,_Calvados" title="La Bazoque, Calvados">La Bazoque</a></li>
+<li><a href="/wiki/Beaufour-Druval" title="Beaufour-Druval">Beaufour-Druval</a></li>
+<li><a href="/wiki/Beaumais" title="Beaumais">Beaumais</a></li>
+<li><a href="/wiki/Beaumesnil,_Calvados" title="Beaumesnil, Calvados">Beaumesnil</a></li>
+<li><a href="/wiki/Beaumont-en-Auge" title="Beaumont-en-Auge">Beaumont-en-Auge</a></li>
+<li><a href="/wiki/Bellengreville,_Calvados" title="Bellengreville, Calvados">Bellengreville</a></li>
+<li><a href="/wiki/Belle_Vie_en_Auge" title="Belle Vie en Auge">Belle Vie en Auge</a></li>
+<li><a href="/wiki/Benerville-sur-Mer" title="Benerville-sur-Mer">Benerville-sur-Mer</a></li>
+<li><a href="/wiki/B%C3%A9nouville,_Calvados" title="Bénouville, Calvados">Bénouville</a></li>
+<li><a href="/wiki/B%C3%A9ny-sur-Mer" title="Bény-sur-Mer">Bény-sur-Mer</a></li>
+<li><a href="/wiki/Bernesq" title="Bernesq">Bernesq</a></li>
+<li><a href="/wiki/Berni%C3%A8res-d%27Ailly" title="Bernières-d&#39;Ailly">Bernières-d'Ailly</a></li>
+<li><a href="/wiki/Berni%C3%A8res-sur-Mer" title="Bernières-sur-Mer">Bernières-sur-Mer</a></li>
+<li><a href="/wiki/Beuvillers,_Calvados" title="Beuvillers, Calvados">Beuvillers</a></li>
+<li><a href="/wiki/Beuvron-en-Auge" title="Beuvron-en-Auge">Beuvron-en-Auge</a></li>
+<li><a href="/wiki/Bi%C3%A9ville-Beuville" title="Biéville-Beuville">Biéville-Beuville</a></li>
+<li><a href="/wiki/Blainville-sur-Orne" title="Blainville-sur-Orne">Blainville-sur-Orne</a></li>
+<li><a href="/wiki/Blangy-le-Ch%C3%A2teau" title="Blangy-le-Château">Blangy-le-Château</a></li>
+<li><a href="/wiki/Blay" title="Blay">Blay</a></li>
+<li><a href="/wiki/Blonville-sur-Mer" title="Blonville-sur-Mer">Blonville-sur-Mer</a></li>
+<li><a href="/wiki/Le_B%C3%B4" title="Le Bô">Le Bô</a></li>
+<li><a href="/wiki/La_Boissi%C3%A8re,_Calvados" title="La Boissière, Calvados">La Boissière</a></li>
+<li><a href="/wiki/Bonnebosq" title="Bonnebosq">Bonnebosq</a></li>
+<li><a href="/wiki/Bonnemaison" title="Bonnemaison">Bonnemaison</a></li>
+<li><a href="/wiki/Bonneville-la-Louvet" title="Bonneville-la-Louvet">Bonneville-la-Louvet</a></li>
+<li><a href="/wiki/Bonneville-sur-Touques" title="Bonneville-sur-Touques">Bonneville-sur-Touques</a></li>
+<li><a href="/wiki/Bonn%C5%93il" title="Bonnœil">Bonnœil</a></li>
+<li><a href="/wiki/Bons-Tassilly" title="Bons-Tassilly">Bons-Tassilly</a></li>
+<li><a href="/wiki/Bougy" title="Bougy">Bougy</a></li>
+<li><a href="/wiki/Boulon" title="Boulon">Boulon</a></li>
+<li><a href="/wiki/Bourgeauville" title="Bourgeauville">Bourgeauville</a></li>
+<li><a href="/wiki/Bourgu%C3%A9bus" title="Bourguébus">Bourguébus</a></li>
+<li><a href="/wiki/Branville" title="Branville">Branville</a></li>
+<li><a href="/wiki/Br%C3%A9moy" title="Brémoy">Brémoy</a></li>
+<li><a href="/wiki/Bretteville-le-Rabet" title="Bretteville-le-Rabet">Bretteville-le-Rabet</a></li>
+<li><a href="/wiki/Bretteville-sur-Laize" title="Bretteville-sur-Laize">Bretteville-sur-Laize</a></li>
+<li><a href="/wiki/Bretteville-sur-Odon" title="Bretteville-sur-Odon">Bretteville-sur-Odon</a></li>
+<li><a href="/wiki/Le_Breuil-en-Auge" title="Le Breuil-en-Auge">Le Breuil-en-Auge</a></li>
+<li><a href="/wiki/Le_Breuil-en-Bessin" title="Le Breuil-en-Bessin">Le Breuil-en-Bessin</a></li>
+<li><a href="/wiki/Le_Br%C3%A9vedent" title="Le Brévedent">Le Brévedent</a></li>
+<li><a href="/wiki/Br%C3%A9ville-les-Monts" title="Bréville-les-Monts">Bréville-les-Monts</a></li>
+<li><a href="/wiki/Bricqueville" title="Bricqueville">Bricqueville</a></li>
+<li><a href="/wiki/Brucourt" title="Brucourt">Brucourt</a></li>
+<li><a href="/wiki/Buc%C3%A9els" title="Bucéels">Bucéels</a></li>
+<li><a href="/wiki/Le_B%C3%BB-sur-Rouvres" title="Le Bû-sur-Rouvres">Le Bû-sur-Rouvres</a></li>
+<li><a href="/wiki/Cabourg" title="Cabourg">Cabourg</a></li>
+<li><a href="/wiki/Caen" title="Caen">Caen</a></li>
+<li><a href="/wiki/Cagny,_Calvados" title="Cagny, Calvados">Cagny</a></li>
+<li><a href="/wiki/Cahagnes" title="Cahagnes">Cahagnes</a></li>
+<li><a href="/wiki/Cahagnolles" title="Cahagnolles">Cahagnolles</a></li>
+<li><a href="/wiki/La_Caine" title="La Caine">La Caine</a></li>
+<li><a href="/wiki/Cairon" title="Cairon">Cairon</a></li>
+<li><a href="/wiki/La_Cambe" title="La Cambe">La Cambe</a></li>
+<li><a href="/wiki/Cambes-en-Plaine" title="Cambes-en-Plaine">Cambes-en-Plaine</a></li>
+<li><a href="/wiki/Cambremer" title="Cambremer">Cambremer</a></li>
+<li><a href="/wiki/Campagnolles" title="Campagnolles">Campagnolles</a></li>
+<li><a href="/wiki/Campigny,_Calvados" title="Campigny, Calvados">Campigny</a></li>
+<li><a href="/wiki/Canapville,_Calvados" title="Canapville, Calvados">Canapville</a></li>
+<li><a href="/wiki/Canchy,_Calvados" title="Canchy, Calvados">Canchy</a></li>
+<li><a href="/wiki/Canteloup,_Calvados" title="Canteloup, Calvados">Canteloup</a></li>
+<li><a href="/wiki/Carcagny" title="Carcagny">Carcagny</a></li>
+<li><a href="/wiki/Cardonville" title="Cardonville">Cardonville</a></li>
+<li><a href="/wiki/Carpiquet" title="Carpiquet">Carpiquet</a></li>
+<li><a href="/wiki/Cartigny-l%27%C3%89pinay" title="Cartigny-l&#39;Épinay">Cartigny-l'Épinay</a></li>
+<li><a href="/wiki/Le_Castelet" title="Le Castelet">Le Castelet</a></li>
+<li><a href="/wiki/Castillon,_Calvados" title="Castillon, Calvados">Castillon</a></li>
+<li><a href="/wiki/Castillon-en-Auge" title="Castillon-en-Auge">Castillon-en-Auge</a></li>
+<li><a href="/wiki/Castine-en-Plaine" title="Castine-en-Plaine">Castine-en-Plaine</a></li>
+<li><a href="/wiki/Caumont-sur-Aure" title="Caumont-sur-Aure">Caumont-sur-Aure</a></li>
+<li><a href="/wiki/Cauvicourt" title="Cauvicourt">Cauvicourt</a></li>
+<li><a href="/wiki/Cauville" title="Cauville">Cauville</a></li>
+<li><a href="/wiki/Cernay,_Calvados" title="Cernay, Calvados">Cernay</a></li>
+<li><a href="/wiki/Cesny-aux-Vignes" title="Cesny-aux-Vignes">Cesny-aux-Vignes</a></li>
+<li><a href="/wiki/Cesny-les-Sources" title="Cesny-les-Sources">Cesny-les-Sources</a></li>
+<li><a href="/wiki/Chouain" title="Chouain">Chouain</a></li>
+<li><a href="/wiki/Cintheaux" title="Cintheaux">Cintheaux</a></li>
+<li><a href="/wiki/Clarbec" title="Clarbec">Clarbec</a></li>
+<li><a href="/wiki/Cl%C3%A9cy" title="Clécy">Clécy</a></li>
+<li><a href="/wiki/Cl%C3%A9ville,_Calvados" title="Cléville, Calvados">Cléville</a></li>
+<li><a href="/wiki/Colleville-Montgomery" title="Colleville-Montgomery">Colleville-Montgomery</a></li>
+<li><a href="/wiki/Colleville-sur-Mer" title="Colleville-sur-Mer">Colleville-sur-Mer</a></li>
+<li><a href="/wiki/Colombelles" title="Colombelles">Colombelles</a></li>
+<li><a href="/wiki/Colombi%C3%A8res" title="Colombières">Colombières</a></li>
+<li><a href="/wiki/Colombiers-sur-Seulles" title="Colombiers-sur-Seulles">Colombiers-sur-Seulles</a></li>
+<li><a href="/wiki/Colomby-Anguerny" title="Colomby-Anguerny">Colomby-Anguerny</a></li>
+<li><a href="/wiki/Combray" title="Combray">Combray</a></li>
+<li><a href="/wiki/Commes" title="Commes">Commes</a></li>
+<li><a href="/wiki/Cond%C3%A9-en-Normandie" title="Condé-en-Normandie">Condé-en-Normandie</a></li>
+<li><a href="/wiki/Cond%C3%A9-sur-Ifs" title="Condé-sur-Ifs">Condé-sur-Ifs</a></li>
+<li><a href="/wiki/Cond%C3%A9-sur-Seulles" title="Condé-sur-Seulles">Condé-sur-Seulles</a></li>
+<li><a href="/wiki/Coquainvilliers" title="Coquainvilliers">Coquainvilliers</a></li>
+<li><a href="/wiki/Cordebugle" title="Cordebugle">Cordebugle</a></li>
+<li><a href="/wiki/Cordey" title="Cordey">Cordey</a></li>
+<li><a href="/wiki/Cormelles-le-Royal" title="Cormelles-le-Royal">Cormelles-le-Royal</a></li>
+<li><a href="/wiki/Cormolain" title="Cormolain">Cormolain</a></li>
+<li><a href="/wiki/Cossesseville" title="Cossesseville">Cossesseville</a></li>
+<li><a href="/wiki/Cottun" title="Cottun">Cottun</a></li>
+<li><a href="/wiki/Courcy,_Calvados" title="Courcy, Calvados">Courcy</a></li>
+<li><a href="/wiki/Courseulles-sur-Mer" title="Courseulles-sur-Mer">Courseulles-sur-Mer</a></li>
+<li><a href="/wiki/Courtonne-la-Meurdrac" title="Courtonne-la-Meurdrac">Courtonne-la-Meurdrac</a></li>
+<li><a href="/wiki/Courtonne-les-Deux-%C3%89glises" title="Courtonne-les-Deux-Églises">Courtonne-les-Deux-Églises</a></li>
+<li><a href="/wiki/Courvaudon" title="Courvaudon">Courvaudon</a></li>
+<li><a href="/wiki/Cr%C3%A9pon" title="Crépon">Crépon</a></li>
+<li><a href="/wiki/Cresserons" title="Cresserons">Cresserons</a></li>
+<li><a href="/wiki/Cresseveuille" title="Cresseveuille">Cresseveuille</a></li>
+<li><a href="/wiki/Creully_sur_Seulles" title="Creully sur Seulles">Creully sur Seulles</a></li>
+<li><a href="/wiki/Cricqueb%C5%93uf" title="Cricquebœuf">Cricquebœuf</a></li>
+<li><a href="/wiki/Cricqueville-en-Auge" title="Cricqueville-en-Auge">Cricqueville-en-Auge</a></li>
+<li><a href="/wiki/Cricqueville-en-Bessin" title="Cricqueville-en-Bessin">Cricqueville-en-Bessin</a></li>
+<li><a href="/wiki/Cristot" title="Cristot">Cristot</a></li>
+<li><a href="/wiki/Crocy" title="Crocy">Crocy</a></li>
+<li><a href="/wiki/Croisilles,_Calvados" title="Croisilles, Calvados">Croisilles</a></li>
+<li><a href="/wiki/Crouay" title="Crouay">Crouay</a></li>
+<li><a href="/wiki/Culey-le-Patry" title="Culey-le-Patry">Culey-le-Patry</a></li>
+<li><a href="/wiki/Cussy" title="Cussy">Cussy</a></li>
+<li><a href="/wiki/Cuverville,_Calvados" title="Cuverville, Calvados">Cuverville</a></li>
+<li><a href="/wiki/Damblainville" title="Damblainville">Damblainville</a></li>
+<li><a href="/wiki/Danestal" title="Danestal">Danestal</a></li>
+<li><a href="/wiki/Deauville" title="Deauville">Deauville</a></li>
+<li><a href="/wiki/D%C3%A9mouville" title="Démouville">Démouville</a></li>
+<li><a href="/wiki/Le_D%C3%A9troit" title="Le Détroit">Le Détroit</a></li>
+<li><a href="/wiki/Deux-Jumeaux" title="Deux-Jumeaux">Deux-Jumeaux</a></li>
+<li><a href="/wiki/Dialan_sur_Cha%C3%AEne" title="Dialan sur Chaîne">Dialan sur Chaîne</a></li>
+<li><a href="/wiki/Dives-sur-Mer" title="Dives-sur-Mer">Dives-sur-Mer</a></li>
+<li><a href="/wiki/Donnay,_Calvados" title="Donnay, Calvados">Donnay</a></li>
+<li><a href="/wiki/Douville-en-Auge" title="Douville-en-Auge">Douville-en-Auge</a></li>
+<li><a href="/wiki/Douvres-la-D%C3%A9livrande" title="Douvres-la-Délivrande">Douvres-la-Délivrande</a></li>
+<li><a href="/wiki/Dozul%C3%A9" title="Dozulé">Dozulé</a></li>
+<li><a href="/wiki/Drubec" title="Drubec">Drubec</a></li>
+<li><a href="/wiki/Ducy-Sainte-Marguerite" title="Ducy-Sainte-Marguerite">Ducy-Sainte-Marguerite</a></li>
+<li><a href="/wiki/Ellon,_Calvados" title="Ellon, Calvados">Ellon</a></li>
+<li><a href="/wiki/%C3%89mi%C3%A9ville" title="Émiéville">Émiéville</a></li>
+<li><a href="/wiki/Englesqueville-en-Auge" title="Englesqueville-en-Auge">Englesqueville-en-Auge</a></li>
+<li><a href="/wiki/Englesqueville-la-Perc%C3%A9e" title="Englesqueville-la-Percée">Englesqueville-la-Percée</a></li>
+<li><a href="/wiki/%C3%89paney" title="Épaney">Épaney</a></li>
+<li><a href="/wiki/%C3%89pinay-sur-Odon" title="Épinay-sur-Odon">Épinay-sur-Odon</a></li>
+<li><a href="/wiki/%C3%89pron" title="Épron">Épron</a></li>
+<li><a href="/wiki/%C3%89quemauville" title="Équemauville">Équemauville</a></li>
+<li><a href="/wiki/Eraines" title="Eraines">Eraines</a></li>
+<li><a href="/wiki/Ernes" title="Ernes">Ernes</a></li>
+<li><a href="/wiki/Escoville" title="Escoville">Escoville</a></li>
+<li><a href="/wiki/Espins" title="Espins">Espins</a></li>
+<li><a href="/wiki/Esquay-Notre-Dame" title="Esquay-Notre-Dame">Esquay-Notre-Dame</a></li>
+<li><a href="/wiki/Esquay-sur-Seulles" title="Esquay-sur-Seulles">Esquay-sur-Seulles</a></li>
+<li><a href="/wiki/Esson" title="Esson">Esson</a></li>
+<li><a href="/wiki/Estr%C3%A9es-la-Campagne" title="Estrées-la-Campagne">Estrées-la-Campagne</a></li>
+<li><a href="/wiki/%C3%89terville" title="Éterville">Éterville</a></li>
+<li><a href="/wiki/%C3%89tr%C3%A9ham" title="Étréham">Étréham</a></li>
+<li><a href="/wiki/%C3%89vrecy" title="Évrecy">Évrecy</a></li>
+<li><a href="/wiki/Falaise,_Calvados" title="Falaise, Calvados">Falaise</a></li>
+<li><a href="/wiki/Fauguernon" title="Fauguernon">Fauguernon</a></li>
+<li><a href="/wiki/Le_Faulq" title="Le Faulq">Le Faulq</a></li>
+<li><a href="/wiki/Feuguerolles-Bully" title="Feuguerolles-Bully">Feuguerolles-Bully</a></li>
+<li><a href="/wiki/Fierville-les-Parcs" title="Fierville-les-Parcs">Fierville-les-Parcs</a></li>
+<li><a href="/wiki/Firfol" title="Firfol">Firfol</a></li>
+<li><a href="/wiki/Fleury-sur-Orne" title="Fleury-sur-Orne">Fleury-sur-Orne</a></li>
+<li><a href="/wiki/La_Folie" title="La Folie">La Folie</a></li>
+<li><a href="/wiki/La_Folleti%C3%A8re-Abenon" title="La Folletière-Abenon">La Folletière-Abenon</a></li>
+<li><a href="/wiki/Fontaine-%C3%89toupefour" title="Fontaine-Étoupefour">Fontaine-Étoupefour</a></li>
+<li><a href="/wiki/Fontaine-Henry" title="Fontaine-Henry">Fontaine-Henry</a></li>
+<li><a href="/wiki/Fontaine-le-Pin" title="Fontaine-le-Pin">Fontaine-le-Pin</a></li>
+<li><a href="/wiki/Fontenay-le-Marmion" title="Fontenay-le-Marmion">Fontenay-le-Marmion</a></li>
+<li><a href="/wiki/Fontenay-le-Pesnel" title="Fontenay-le-Pesnel">Fontenay-le-Pesnel</a></li>
+<li><a href="/wiki/Formentin" title="Formentin">Formentin</a></li>
+<li><a href="/wiki/Formigny_La_Bataille" title="Formigny La Bataille">Formigny La Bataille</a></li>
+<li><a href="/wiki/Foulognes" title="Foulognes">Foulognes</a></li>
+<li><a href="/wiki/Fourches" title="Fourches">Fourches</a></li>
+<li><a href="/wiki/Fourneaux-le-Val" title="Fourneaux-le-Val">Fourneaux-le-Val</a></li>
+<li><a href="/wiki/Le_Fournet" title="Le Fournet">Le Fournet</a></li>
+<li><a href="/wiki/Fourneville" title="Fourneville">Fourneville</a></li>
+<li><a href="/wiki/Fr%C3%A9nouville" title="Frénouville">Frénouville</a></li>
+<li><a href="/wiki/Le_Fresne-Camilly" title="Le Fresne-Camilly">Le Fresne-Camilly</a></li>
+<li><a href="/wiki/Fresn%C3%A9-la-M%C3%A8re" title="Fresné-la-Mère">Fresné-la-Mère</a></li>
+<li><a href="/wiki/Fresney-le-Puceux" title="Fresney-le-Puceux">Fresney-le-Puceux</a></li>
+<li><a href="/wiki/Fresney-le-Vieux" title="Fresney-le-Vieux">Fresney-le-Vieux</a></li>
+<li><a href="/wiki/Fumichon" title="Fumichon">Fumichon</a></li>
+<li><a href="/wiki/Gavrus" title="Gavrus">Gavrus</a></li>
+<li><a href="/wiki/G%C3%A9fosse-Fontenay" title="Géfosse-Fontenay">Géfosse-Fontenay</a></li>
+<li><a href="/wiki/Genneville" title="Genneville">Genneville</a></li>
+<li><a href="/wiki/Gerrots" title="Gerrots">Gerrots</a></li>
+<li><a href="/wiki/Giberville" title="Giberville">Giberville</a></li>
+<li><a href="/wiki/Glanville,_Calvados" title="Glanville, Calvados">Glanville</a></li>
+<li><a href="/wiki/Glos" title="Glos">Glos</a></li>
+<li><a href="/wiki/Gonneville-en-Auge" title="Gonneville-en-Auge">Gonneville-en-Auge</a></li>
+<li><a href="/wiki/Gonneville-sur-Honfleur" title="Gonneville-sur-Honfleur">Gonneville-sur-Honfleur</a></li>
+<li><a href="/wiki/Gonneville-sur-Mer" title="Gonneville-sur-Mer">Gonneville-sur-Mer</a></li>
+<li><a href="/wiki/Goustranville" title="Goustranville">Goustranville</a></li>
+<li><a href="/wiki/Gouvix" title="Gouvix">Gouvix</a></li>
+<li><a href="/wiki/Grainville-Langannerie" title="Grainville-Langannerie">Grainville-Langannerie</a></li>
+<li><a href="/wiki/Grainville-sur-Odon" title="Grainville-sur-Odon">Grainville-sur-Odon</a></li>
+<li><a href="/wiki/Grandcamp-Maisy" title="Grandcamp-Maisy">Grandcamp-Maisy</a></li>
+<li><a href="/wiki/Grangues" title="Grangues">Grangues</a></li>
+<li><a href="/wiki/Graye-sur-Mer" title="Graye-sur-Mer">Graye-sur-Mer</a></li>
+<li><a href="/wiki/Grentheville" title="Grentheville">Grentheville</a></li>
+<li><a href="/wiki/Grimbosq" title="Grimbosq">Grimbosq</a></li>
+<li><a href="/wiki/Gu%C3%A9ron" title="Guéron">Guéron</a></li>
+<li><a href="/wiki/Hermanville-sur-Mer" title="Hermanville-sur-Mer">Hermanville-sur-Mer</a></li>
+<li><a href="/wiki/Hermival-les-Vaux" title="Hermival-les-Vaux">Hermival-les-Vaux</a></li>
+<li><a href="/wiki/H%C3%A9rouville-Saint-Clair" title="Hérouville-Saint-Clair">Hérouville-Saint-Clair</a></li>
+<li><a href="/wiki/H%C3%A9rouvillette" title="Hérouvillette">Hérouvillette</a></li>
+<li><a href="/wiki/Heuland" title="Heuland">Heuland</a></li>
+<li><a href="/wiki/La_Hoguette" title="La Hoguette">La Hoguette</a></li>
+<li><a href="/wiki/Le_Hom" title="Le Hom">Le Hom</a></li>
+<li><a href="/wiki/Honfleur" title="Honfleur">Honfleur</a></li>
+<li><a href="/wiki/L%27H%C3%B4tellerie" title="L&#39;Hôtellerie">L'Hôtellerie</a></li>
+<li><a href="/wiki/Hotot-en-Auge" title="Hotot-en-Auge">Hotot-en-Auge</a></li>
+<li><a href="/wiki/Hottot-les-Bagues" title="Hottot-les-Bagues">Hottot-les-Bagues</a></li>
+<li><a href="/wiki/La_Houblonni%C3%A8re" title="La Houblonnière">La Houblonnière</a></li>
+<li><a href="/wiki/Houlgate" title="Houlgate">Houlgate</a></li>
+<li><a href="/wiki/Ifs,_Calvados" title="Ifs, Calvados">Ifs</a></li>
+<li><a href="/wiki/Isigny-sur-Mer" title="Isigny-sur-Mer">Isigny-sur-Mer</a></li>
+<li><a href="/wiki/Les_Isles-Bardel" title="Les Isles-Bardel">Les Isles-Bardel</a></li>
+<li><a href="/wiki/Janville,_Calvados" title="Janville, Calvados">Janville</a></li>
+<li><a href="/wiki/Jort" title="Jort">Jort</a></li>
+<li><a href="/wiki/Juaye-Mondaye" title="Juaye-Mondaye">Juaye-Mondaye</a></li>
+<li><a href="/wiki/Juvigny-sur-Seulles" title="Juvigny-sur-Seulles">Juvigny-sur-Seulles</a></li>
+<li><a href="/wiki/Laize-Clinchamps" title="Laize-Clinchamps">Laize-Clinchamps</a></li>
+<li><a href="/wiki/Landelles-et-Coupigny" title="Landelles-et-Coupigny">Landelles-et-Coupigny</a></li>
+<li><a href="/wiki/Landes-sur-Ajon" title="Landes-sur-Ajon">Landes-sur-Ajon</a></li>
+<li><a href="/wiki/Langrune-sur-Mer" title="Langrune-sur-Mer">Langrune-sur-Mer</a></li>
+<li><a href="/wiki/Lasson,_Calvados" title="Lasson, Calvados">Lasson</a></li>
+<li><a href="/wiki/L%C3%A9aupartie" title="Léaupartie">Léaupartie</a></li>
+<li><a href="/wiki/Leffard" title="Leffard">Leffard</a></li>
+<li><a href="/wiki/Lessard-et-le-Ch%C3%AAne" title="Lessard-et-le-Chêne">Lessard-et-le-Chêne</a></li>
+<li><a href="/wiki/Ling%C3%A8vres" title="Lingèvres">Lingèvres</a></li>
+<li><a href="/wiki/Lion-sur-Mer" title="Lion-sur-Mer">Lion-sur-Mer</a></li>
+<li><a href="/wiki/Lisieux" title="Lisieux">Lisieux</a></li>
+<li><a href="/wiki/Lison" title="Lison">Lison</a></li>
+<li><a href="/wiki/Lisores" title="Lisores">Lisores</a></li>
+<li><a href="/wiki/Litteau" title="Litteau">Litteau</a></li>
+<li><a href="/wiki/Livarot-Pays-d%27Auge" title="Livarot-Pays-d&#39;Auge">Livarot-Pays-d'Auge</a></li>
+<li><a href="/wiki/Les_Loges,_Calvados" title="Les Loges, Calvados">Les Loges</a></li>
+<li><a href="/wiki/Les_Loges-Saulces" title="Les Loges-Saulces">Les Loges-Saulces</a></li>
+<li><a href="/wiki/Longues-sur-Mer" title="Longues-sur-Mer">Longues-sur-Mer</a></li>
+<li><a href="/wiki/Longueville,_Calvados" title="Longueville, Calvados">Longueville</a></li>
+<li><a href="/wiki/Longvillers" title="Longvillers">Longvillers</a></li>
+<li><a href="/wiki/Loucelles" title="Loucelles">Loucelles</a></li>
+<li><a href="/wiki/Louvagny" title="Louvagny">Louvagny</a></li>
+<li><a href="/wiki/Louvigny,_Calvados" title="Louvigny, Calvados">Louvigny</a></li>
+<li><a href="/wiki/Luc-sur-Mer" title="Luc-sur-Mer">Luc-sur-Mer</a></li>
+<li><a href="/wiki/Magny-en-Bessin" title="Magny-en-Bessin">Magny-en-Bessin</a></li>
+<li><a href="/wiki/Maisoncelles-Pelvey" title="Maisoncelles-Pelvey">Maisoncelles-Pelvey</a></li>
+<li><a href="/wiki/Maisoncelles-sur-Ajon" title="Maisoncelles-sur-Ajon">Maisoncelles-sur-Ajon</a></li>
+<li><a href="/wiki/Maisons,_Calvados" title="Maisons, Calvados">Maisons</a></li>
+<li><a href="/wiki/Maizet" title="Maizet">Maizet</a></li>
+<li><a href="/wiki/Maizi%C3%A8res,_Calvados" title="Maizières, Calvados">Maizières</a></li>
+<li><a href="/wiki/Malherbe-sur-Ajon" title="Malherbe-sur-Ajon">Malherbe-sur-Ajon</a></li>
+<li><a href="/wiki/Maltot" title="Maltot">Maltot</a></li>
+<li><a href="/wiki/Mandeville-en-Bessin" title="Mandeville-en-Bessin">Mandeville-en-Bessin</a></li>
+<li><a href="/wiki/Manerbe" title="Manerbe">Manerbe</a></li>
+<li><a href="/wiki/Manneville-la-Pipard" title="Manneville-la-Pipard">Manneville-la-Pipard</a></li>
+<li><a href="/wiki/Le_Manoir,_Calvados" title="Le Manoir, Calvados">Le Manoir</a></li>
+<li><a href="/wiki/Manvieux" title="Manvieux">Manvieux</a></li>
+<li><a href="/wiki/Le_Marais-la-Chapelle" title="Le Marais-la-Chapelle">Le Marais-la-Chapelle</a></li>
+<li><a href="/wiki/Marolles,_Calvados" title="Marolles, Calvados">Marolles</a></li>
+<li><a href="/wiki/Martainville,_Calvados" title="Martainville, Calvados">Martainville</a></li>
+<li><a href="/wiki/Martigny-sur-l%27Ante" title="Martigny-sur-l&#39;Ante">Martigny-sur-l'Ante</a></li>
+<li><a href="/wiki/Mathieu,_Calvados" title="Mathieu, Calvados">Mathieu</a></li>
+<li><a href="/wiki/May-sur-Orne" title="May-sur-Orne">May-sur-Orne</a></li>
+<li><a href="/wiki/Merville-Franceville-Plage" title="Merville-Franceville-Plage">Merville-Franceville-Plage</a></li>
+<li><a href="/wiki/M%C3%A9ry-Bissi%C3%A8res-en-Auge" title="Méry-Bissières-en-Auge">Méry-Bissières-en-Auge</a></li>
+<li><a href="/wiki/Meslay,_Calvados" title="Meslay, Calvados">Meslay</a></li>
+<li><a href="/wiki/Le_Mesnil-au-Grain" title="Le Mesnil-au-Grain">Le Mesnil-au-Grain</a></li>
+<li><a href="/wiki/Le_Mesnil-Eudes" title="Le Mesnil-Eudes">Le Mesnil-Eudes</a></li>
+<li><a href="/wiki/Le_Mesnil-Guillaume" title="Le Mesnil-Guillaume">Le Mesnil-Guillaume</a></li>
+<li><a href="/wiki/Le_Mesnil-Robert" title="Le Mesnil-Robert">Le Mesnil-Robert</a></li>
+<li><a href="/wiki/Le_Mesnil-Simon,_Calvados" title="Le Mesnil-Simon, Calvados">Le Mesnil-Simon</a></li>
+<li><a href="/wiki/Le_Mesnil-sur-Blangy" title="Le Mesnil-sur-Blangy">Le Mesnil-sur-Blangy</a></li>
+<li><a href="/wiki/Le_Mesnil-Villement" title="Le Mesnil-Villement">Le Mesnil-Villement</a></li>
+<li><a href="/wiki/Meuvaines" title="Meuvaines">Meuvaines</a></li>
+<li><a href="/wiki/M%C3%A9zidon_Vall%C3%A9e_d%27Auge" title="Mézidon Vallée d&#39;Auge">Mézidon Vallée d'Auge</a></li>
+<li><a href="/wiki/Le_Molay-Littry" title="Le Molay-Littry">Le Molay-Littry</a></li>
+<li><a href="/wiki/Les_Monceaux" title="Les Monceaux">Les Monceaux</a></li>
+<li><a href="/wiki/Monceaux-en-Bessin" title="Monceaux-en-Bessin">Monceaux-en-Bessin</a></li>
+<li><a href="/wiki/Mondeville,_Calvados" title="Mondeville, Calvados">Mondeville</a></li>
+<li><a href="/wiki/Mondrainville" title="Mondrainville">Mondrainville</a></li>
+<li><a href="/wiki/Monfr%C3%A9ville" title="Monfréville">Monfréville</a></li>
+<li><a href="/wiki/Montfiquet" title="Montfiquet">Montfiquet</a></li>
+<li><a href="/wiki/Montigny,_Calvados" title="Montigny, Calvados">Montigny</a></li>
+<li><a href="/wiki/Montilli%C3%A8res-sur-Orne" title="Montillières-sur-Orne">Montillières-sur-Orne</a></li>
+<li><a href="/wiki/Montreuil-en-Auge" title="Montreuil-en-Auge">Montreuil-en-Auge</a></li>
+<li><a href="/wiki/Monts-en-Bessin" title="Monts-en-Bessin">Monts-en-Bessin</a></li>
+<li><a href="/wiki/Les_Monts_d%27Aunay" title="Les Monts d&#39;Aunay">Les Monts d'Aunay</a></li>
+<li><a href="/wiki/Morteaux-Coulib%C5%93uf" title="Morteaux-Coulibœuf">Morteaux-Coulibœuf</a></li>
+<li><a href="/wiki/Mosles" title="Mosles">Mosles</a></li>
+<li><a href="/wiki/Mouen" title="Mouen">Mouen</a></li>
+<li><a href="/wiki/Moulines,_Calvados" title="Moulines, Calvados">Moulines</a></li>
+<li><a href="/wiki/Moulins_en_Bessin" title="Moulins en Bessin">Moulins en Bessin</a></li>
+<li><a href="/wiki/Moult-Chicheboville" title="Moult-Chicheboville">Moult-Chicheboville</a></li>
+<li><a href="/wiki/Les_Moutiers-en-Auge" title="Les Moutiers-en-Auge">Les Moutiers-en-Auge</a></li>
+<li><a href="/wiki/Les_Moutiers-en-Cinglais" title="Les Moutiers-en-Cinglais">Les Moutiers-en-Cinglais</a></li>
+<li><a href="/wiki/Moyaux" title="Moyaux">Moyaux</a></li>
+<li><a href="/wiki/Mutr%C3%A9cy" title="Mutrécy">Mutrécy</a></li>
+<li><a href="/wiki/Nonant" title="Nonant">Nonant</a></li>
+<li><a href="/wiki/Norolles" title="Norolles">Norolles</a></li>
+<li><a href="/wiki/Noron-l%27Abbaye" title="Noron-l&#39;Abbaye">Noron-l'Abbaye</a></li>
+<li><a href="/wiki/Noron-la-Poterie" title="Noron-la-Poterie">Noron-la-Poterie</a></li>
+<li><a href="/wiki/Norrey-en-Auge" title="Norrey-en-Auge">Norrey-en-Auge</a></li>
+<li><a href="/wiki/Notre-Dame-de-Livaye" title="Notre-Dame-de-Livaye">Notre-Dame-de-Livaye</a></li>
+<li><a href="/wiki/Notre-Dame-d%27Estr%C3%A9es-Corbon" title="Notre-Dame-d&#39;Estrées-Corbon">Notre-Dame-d'Estrées-Corbon</a></li>
+<li><a href="/wiki/Noues_de_Sienne" title="Noues de Sienne">Noues de Sienne</a></li>
+<li><a href="/wiki/Olendon" title="Olendon">Olendon</a></li>
+<li><a href="/wiki/Orbec" title="Orbec">Orbec</a></li>
+<li><a href="/wiki/Osmanville" title="Osmanville">Osmanville</a></li>
+<li><a href="/wiki/Ou%C3%A9zy" title="Ouézy">Ouézy</a></li>
+<li><a href="/wiki/Ouffi%C3%A8res" title="Ouffières">Ouffières</a></li>
+<li><a href="/wiki/Ouilly-du-Houley" title="Ouilly-du-Houley">Ouilly-du-Houley</a></li>
+<li><a href="/wiki/Ouilly-le-Tesson" title="Ouilly-le-Tesson">Ouilly-le-Tesson</a></li>
+<li><a href="/wiki/Ouilly-le-Vicomte" title="Ouilly-le-Vicomte">Ouilly-le-Vicomte</a></li>
+<li><a href="/wiki/Ouistreham" title="Ouistreham">Ouistreham</a></li>
+<li><a href="/wiki/Parfouru-sur-Odon" title="Parfouru-sur-Odon">Parfouru-sur-Odon</a></li>
+<li><a href="/wiki/Pennedepie" title="Pennedepie">Pennedepie</a></li>
+<li><a href="/wiki/P%C3%A9riers-en-Auge" title="Périers-en-Auge">Périers-en-Auge</a></li>
+<li><a href="/wiki/P%C3%A9riers-sur-le-Dan" title="Périers-sur-le-Dan">Périers-sur-le-Dan</a></li>
+<li><a href="/wiki/P%C3%A9rigny,_Calvados" title="Périgny, Calvados">Périgny</a></li>
+<li><a href="/wiki/Perri%C3%A8res" title="Perrières">Perrières</a></li>
+<li><a href="/wiki/Pertheville-Ners" title="Pertheville-Ners">Pertheville-Ners</a></li>
+<li><a href="/wiki/Petiville,_Calvados" title="Petiville, Calvados">Petiville</a></li>
+<li><a href="/wiki/Pierrefitte-en-Auge" title="Pierrefitte-en-Auge">Pierrefitte-en-Auge</a></li>
+<li><a href="/wiki/Pierrefitte-en-Cinglais" title="Pierrefitte-en-Cinglais">Pierrefitte-en-Cinglais</a></li>
+<li><a href="/wiki/Pierrepont,_Calvados" title="Pierrepont, Calvados">Pierrepont</a></li>
+<li><a href="/wiki/Le_Pin,_Calvados" title="Le Pin, Calvados">Le Pin</a></li>
+<li><a href="/wiki/Planquery" title="Planquery">Planquery</a></li>
+<li><a href="/wiki/Plumetot" title="Plumetot">Plumetot</a></li>
+<li><a href="/wiki/La_Pommeraye,_Calvados" title="La Pommeraye, Calvados">La Pommeraye</a></li>
+<li><a href="/wiki/Pont-Bellanger" title="Pont-Bellanger">Pont-Bellanger</a></li>
+<li><a href="/wiki/Pont-d%27Ouilly" title="Pont-d&#39;Ouilly">Pont-d'Ouilly</a></li>
+<li><a href="/wiki/Pont%C3%A9coulant" title="Pontécoulant">Pontécoulant</a></li>
+<li><a href="/wiki/Pont-Farcy" title="Pont-Farcy">Pont-Farcy</a></li>
+<li><a href="/wiki/Pont-l%27%C3%89v%C3%AAque,_Calvados" title="Pont-l&#39;Évêque, Calvados">Pont-l'Évêque</a></li>
+<li><a href="/wiki/Port-en-Bessin-Huppain" title="Port-en-Bessin-Huppain">Port-en-Bessin-Huppain</a></li>
+<li><a href="/wiki/Ponts_sur_Seulles" title="Ponts sur Seulles">Ponts sur Seulles</a></li>
+<li><a href="/wiki/Potigny" title="Potigny">Potigny</a></li>
+<li><a href="/wiki/Pr%C3%A9aux-Bocage" title="Préaux-Bocage">Préaux-Bocage</a></li>
+<li><a href="/wiki/Le_Pr%C3%A9-d%27Auge" title="Le Pré-d&#39;Auge">Le Pré-d'Auge</a></li>
+<li><a href="/wiki/Pr%C3%AAtreville" title="Prêtreville">Prêtreville</a></li>
+<li><a href="/wiki/Putot-en-Auge" title="Putot-en-Auge">Putot-en-Auge</a></li>
+<li><a href="/wiki/Quetteville" title="Quetteville">Quetteville</a></li>
+<li><a href="/wiki/Ranchy" title="Ranchy">Ranchy</a></li>
+<li><a href="/wiki/Ranville" title="Ranville">Ranville</a></li>
+<li><a href="/wiki/Rapilly" title="Rapilly">Rapilly</a></li>
+<li><a href="/wiki/Repentigny,_Calvados" title="Repentigny, Calvados">Repentigny</a></li>
+<li><a href="/wiki/Reux" title="Reux">Reux</a></li>
+<li><a href="/wiki/Reviers" title="Reviers">Reviers</a></li>
+<li><a href="/wiki/La_Rivi%C3%A8re-Saint-Sauveur" title="La Rivière-Saint-Sauveur">La Rivière-Saint-Sauveur</a></li>
+<li><a href="/wiki/La_Roque-Baignard" title="La Roque-Baignard">La Roque-Baignard</a></li>
+<li><a href="/wiki/Rocques" title="Rocques">Rocques</a></li>
+<li><a href="/wiki/Rosel" title="Rosel">Rosel</a></li>
+<li><a href="/wiki/Rots" title="Rots">Rots</a></li>
+<li><a href="/wiki/Rouvres,_Calvados" title="Rouvres, Calvados">Rouvres</a></li>
+<li><a href="/wiki/Rubercy" title="Rubercy">Rubercy</a></li>
+<li><a href="/wiki/Rumesnil" title="Rumesnil">Rumesnil</a></li>
+<li><a href="/wiki/Ryes" title="Ryes">Ryes</a></li>
+<li><a href="/wiki/Saint-Andr%C3%A9-d%27H%C3%A9bertot" title="Saint-André-d&#39;Hébertot">Saint-André-d'Hébertot</a></li>
+<li><a href="/wiki/Saint-Andr%C3%A9-sur-Orne" title="Saint-André-sur-Orne">Saint-André-sur-Orne</a></li>
+<li><a href="/wiki/Saint-Arnoult,_Calvados" title="Saint-Arnoult, Calvados">Saint-Arnoult</a></li>
+<li><a href="/wiki/Saint-Aubin-d%27Arquenay" title="Saint-Aubin-d&#39;Arquenay">Saint-Aubin-d'Arquenay</a></li>
+<li><a href="/wiki/Saint-Aubin-des-Bois,_Calvados" title="Saint-Aubin-des-Bois, Calvados">Saint-Aubin-des-Bois</a></li>
+<li><a href="/wiki/Saint-Aubin-sur-Mer,_Calvados" title="Saint-Aubin-sur-Mer, Calvados">Saint-Aubin-sur-Mer</a></li>
+<li><a href="/wiki/Saint-Beno%C3%AEt-d%27H%C3%A9bertot" title="Saint-Benoît-d&#39;Hébertot">Saint-Benoît-d'Hébertot</a></li>
+<li><a href="/wiki/Saint-C%C3%B4me-de-Fresn%C3%A9" title="Saint-Côme-de-Fresné">Saint-Côme-de-Fresné</a></li>
+<li><a href="/wiki/Saint-Contest" title="Saint-Contest">Saint-Contest</a></li>
+<li><a href="/wiki/Saint-Denis-de-Mailloc" title="Saint-Denis-de-Mailloc">Saint-Denis-de-Mailloc</a></li>
+<li><a href="/wiki/Saint-Denis-de-M%C3%A9r%C3%A9" title="Saint-Denis-de-Méré">Saint-Denis-de-Méré</a></li>
+<li><a href="/wiki/Saint-D%C3%A9sir" title="Saint-Désir">Saint-Désir</a></li>
+<li><a href="/wiki/Sainte-Croix-sur-Mer" title="Sainte-Croix-sur-Mer">Sainte-Croix-sur-Mer</a></li>
+<li><a href="/wiki/Sainte-Honorine-de-Ducy" title="Sainte-Honorine-de-Ducy">Sainte-Honorine-de-Ducy</a></li>
+<li><a href="/wiki/Sainte-Honorine-du-Fay" title="Sainte-Honorine-du-Fay">Sainte-Honorine-du-Fay</a></li>
+<li><a href="/wiki/Sainte-Marguerite-d%27Elle" title="Sainte-Marguerite-d&#39;Elle">Sainte-Marguerite-d'Elle</a></li>
+<li><a href="/wiki/Sainte-Marie-Outre-l%27Eau" title="Sainte-Marie-Outre-l&#39;Eau">Sainte-Marie-Outre-l'Eau</a></li>
+<li><a href="/wiki/Saint-%C3%89tienne-la-Thillaye" title="Saint-Étienne-la-Thillaye">Saint-Étienne-la-Thillaye</a></li>
+<li><a href="/wiki/Saint-Gatien-des-Bois" title="Saint-Gatien-des-Bois">Saint-Gatien-des-Bois</a></li>
+<li><a href="/wiki/Saint-Germain-de-Livet" title="Saint-Germain-de-Livet">Saint-Germain-de-Livet</a></li>
+<li><a href="/wiki/Saint-Germain-du-Pert" title="Saint-Germain-du-Pert">Saint-Germain-du-Pert</a></li>
+<li><a href="/wiki/Saint-Germain-la-Blanche-Herbe" title="Saint-Germain-la-Blanche-Herbe">Saint-Germain-la-Blanche-Herbe</a></li>
+<li><a href="/wiki/Saint-Germain-Langot" title="Saint-Germain-Langot">Saint-Germain-Langot</a></li>
+<li><a href="/wiki/Saint-Germain-le-Vasson" title="Saint-Germain-le-Vasson">Saint-Germain-le-Vasson</a></li>
+<li><a href="/wiki/Saint-Hymer" title="Saint-Hymer">Saint-Hymer</a></li>
+<li><a href="/wiki/Saint-Jean-de-Livet" title="Saint-Jean-de-Livet">Saint-Jean-de-Livet</a></li>
+<li><a href="/wiki/Saint-Jouin" title="Saint-Jouin">Saint-Jouin</a></li>
+<li><a href="/wiki/Saint-Julien-sur-Calonne" title="Saint-Julien-sur-Calonne">Saint-Julien-sur-Calonne</a></li>
+<li><a href="/wiki/Saint-Lambert,_Calvados" title="Saint-Lambert, Calvados">Saint-Lambert</a></li>
+<li><a href="/wiki/Saint-Laurent-de-Condel" title="Saint-Laurent-de-Condel">Saint-Laurent-de-Condel</a></li>
+<li><a href="/wiki/Saint-Laurent-sur-Mer" title="Saint-Laurent-sur-Mer">Saint-Laurent-sur-Mer</a></li>
+<li><a href="/wiki/Saint-L%C3%A9ger-Dubosq" title="Saint-Léger-Dubosq">Saint-Léger-Dubosq</a></li>
+<li><a href="/wiki/Saint-Louet-sur-Seulles" title="Saint-Louet-sur-Seulles">Saint-Louet-sur-Seulles</a></li>
+<li><a href="/wiki/Saint-Loup-Hors" title="Saint-Loup-Hors">Saint-Loup-Hors</a></li>
+<li><a href="/wiki/Saint-Manvieu-Norrey" title="Saint-Manvieu-Norrey">Saint-Manvieu-Norrey</a></li>
+<li><a href="/wiki/Saint-Marcouf,_Calvados" title="Saint-Marcouf, Calvados">Saint-Marcouf</a></li>
+<li><a href="/wiki/Saint-Martin-aux-Chartrains" title="Saint-Martin-aux-Chartrains">Saint-Martin-aux-Chartrains</a></li>
+<li><a href="/wiki/Saint-Martin-de-Bienfaite-la-Cressonni%C3%A8re" title="Saint-Martin-de-Bienfaite-la-Cressonnière">Saint-Martin-de-Bienfaite-la-Cressonnière</a></li>
+<li><a href="/wiki/Saint-Martin-de-Blagny" title="Saint-Martin-de-Blagny">Saint-Martin-de-Blagny</a></li>
+<li><a href="/wiki/Saint-Martin-de-Fontenay" title="Saint-Martin-de-Fontenay">Saint-Martin-de-Fontenay</a></li>
+<li><a href="/wiki/Saint-Martin-de-la-Lieue" title="Saint-Martin-de-la-Lieue">Saint-Martin-de-la-Lieue</a></li>
+<li><a href="/wiki/Saint-Martin-de-Mailloc" title="Saint-Martin-de-Mailloc">Saint-Martin-de-Mailloc</a></li>
+<li><a href="/wiki/Saint-Martin-de-Mieux" title="Saint-Martin-de-Mieux">Saint-Martin-de-Mieux</a></li>
+<li><a href="/wiki/Saint-Martin-des-Entr%C3%A9es" title="Saint-Martin-des-Entrées">Saint-Martin-des-Entrées</a></li>
+<li><a href="/wiki/Saint-Omer,_Calvados" title="Saint-Omer, Calvados">Saint-Omer</a></li>
+<li><a href="/wiki/Saint-Ouen-du-Mesnil-Oger" title="Saint-Ouen-du-Mesnil-Oger">Saint-Ouen-du-Mesnil-Oger</a></li>
+<li><a href="/wiki/Saint-Ouen-le-Pin" title="Saint-Ouen-le-Pin">Saint-Ouen-le-Pin</a></li>
+<li><a href="/wiki/Saint-Pair" title="Saint-Pair">Saint-Pair</a></li>
+<li><a href="/wiki/Saint-Paul-du-Vernay" title="Saint-Paul-du-Vernay">Saint-Paul-du-Vernay</a></li>
+<li><a href="/wiki/Saint-Philbert-des-Champs" title="Saint-Philbert-des-Champs">Saint-Philbert-des-Champs</a></li>
+<li><a href="/wiki/Saint-Pierre-Azif" title="Saint-Pierre-Azif">Saint-Pierre-Azif</a></li>
+<li><a href="/wiki/Saint-Pierre-Canivet" title="Saint-Pierre-Canivet">Saint-Pierre-Canivet</a></li>
+<li><a href="/wiki/Saint-Pierre-des-Ifs,_Calvados" title="Saint-Pierre-des-Ifs, Calvados">Saint-Pierre-des-Ifs</a></li>
+<li><a href="/wiki/Saint-Pierre-du-B%C3%BB" title="Saint-Pierre-du-Bû">Saint-Pierre-du-Bû</a></li>
+<li><a href="/wiki/Saint-Pierre-du-Fresne" title="Saint-Pierre-du-Fresne">Saint-Pierre-du-Fresne</a></li>
+<li><a href="/wiki/Saint-Pierre-du-Jonquet" title="Saint-Pierre-du-Jonquet">Saint-Pierre-du-Jonquet</a></li>
+<li><a href="/wiki/Saint-Pierre-du-Mont,_Calvados" title="Saint-Pierre-du-Mont, Calvados">Saint-Pierre-du-Mont</a></li>
+<li><a href="/wiki/Saint-Pierre-en-Auge" title="Saint-Pierre-en-Auge">Saint-Pierre-en-Auge</a></li>
+<li><a href="/wiki/Saint-R%C3%A9my,_Calvados" title="Saint-Rémy, Calvados">Saint-Rémy</a></li>
+<li><a href="/wiki/Saint-Samson,_Calvados" title="Saint-Samson, Calvados">Saint-Samson</a></li>
+<li><a href="/wiki/Saint-Sylvain,_Calvados" title="Saint-Sylvain, Calvados">Saint-Sylvain</a></li>
+<li><a href="/wiki/Saint-Vaast-en-Auge" title="Saint-Vaast-en-Auge">Saint-Vaast-en-Auge</a></li>
+<li><a href="/wiki/Saint-Vaast-sur-Seulles" title="Saint-Vaast-sur-Seulles">Saint-Vaast-sur-Seulles</a></li>
+<li><a href="/wiki/Saint-Vigor-le-Grand" title="Saint-Vigor-le-Grand">Saint-Vigor-le-Grand</a></li>
+<li><a href="/wiki/Saline,_Calvados" title="Saline, Calvados">Saline</a></li>
+<li><a href="/wiki/Sallen" title="Sallen">Sallen</a></li>
+<li><a href="/wiki/Sallenelles" title="Sallenelles">Sallenelles</a></li>
+<li><a href="/wiki/Saon" title="Saon">Saon</a></li>
+<li><a href="/wiki/Saonnet" title="Saonnet">Saonnet</a></li>
+<li><a href="/wiki/Sassy,_Calvados" title="Sassy, Calvados">Sassy</a></li>
+<li><a href="/wiki/Secqueville-en-Bessin" title="Secqueville-en-Bessin">Secqueville-en-Bessin</a></li>
+<li><a href="/wiki/Seulline" title="Seulline">Seulline</a></li>
+<li><a href="/wiki/Soignolles" title="Soignolles">Soignolles</a></li>
+<li><a href="/wiki/Soliers" title="Soliers">Soliers</a></li>
+<li><a href="/wiki/Sommervieu" title="Sommervieu">Sommervieu</a></li>
+<li><a href="/wiki/Soulangy" title="Soulangy">Soulangy</a></li>
+<li><a href="/wiki/Souleuvre-en-Bocage" title="Souleuvre-en-Bocage">Souleuvre-en-Bocage</a></li>
+<li><a href="/wiki/Soumont-Saint-Quentin" title="Soumont-Saint-Quentin">Soumont-Saint-Quentin</a></li>
+<li><a href="/wiki/Subles" title="Subles">Subles</a></li>
+<li><a href="/wiki/Sully,_Calvados" title="Sully, Calvados">Sully</a></li>
+<li><a href="/wiki/Surrain" title="Surrain">Surrain</a></li>
+<li><a href="/wiki/Surville,_Calvados" title="Surville, Calvados">Surville</a></li>
+<li><a href="/wiki/Terres_de_Druance" title="Terres de Druance">Terres de Druance</a></li>
+<li><a href="/wiki/Tessel" title="Tessel">Tessel</a></li>
+<li><a href="/wiki/Thaon" title="Thaon">Thaon</a></li>
+<li><a href="/wiki/Le_Theil-en-Auge" title="Le Theil-en-Auge">Le Theil-en-Auge</a></li>
+<li><a href="/wiki/Thue_et_Mue" title="Thue et Mue">Thue et Mue</a></li>
+<li><a href="/wiki/Tilly-sur-Seulles" title="Tilly-sur-Seulles">Tilly-sur-Seulles</a></li>
+<li><a href="/wiki/Le_Torquesne" title="Le Torquesne">Le Torquesne</a></li>
+<li><a href="/wiki/Touffr%C3%A9ville" title="Touffréville">Touffréville</a></li>
+<li><a href="/wiki/Touques,_Calvados" title="Touques, Calvados">Touques</a></li>
+<li><a href="/wiki/Tour-en-Bessin" title="Tour-en-Bessin">Tour-en-Bessin</a></li>
+<li><a href="/wiki/Tourg%C3%A9ville" title="Tourgéville">Tourgéville</a></li>
+<li><a href="/wiki/Tourni%C3%A8res" title="Tournières">Tournières</a></li>
+<li><a href="/wiki/Tourville-en-Auge" title="Tourville-en-Auge">Tourville-en-Auge</a></li>
+<li><a href="/wiki/Tourville-sur-Odon" title="Tourville-sur-Odon">Tourville-sur-Odon</a></li>
+<li><a href="/wiki/Tracy-Bocage" title="Tracy-Bocage">Tracy-Bocage</a></li>
+<li><a href="/wiki/Tracy-sur-Mer" title="Tracy-sur-Mer">Tracy-sur-Mer</a></li>
+<li><a href="/wiki/Tr%C3%A9prel" title="Tréprel">Tréprel</a></li>
+<li><a href="/wiki/Tr%C3%A9vi%C3%A8res" title="Trévières">Trévières</a></li>
+<li><a href="/wiki/Le_Tronquay,_Calvados" title="Le Tronquay, Calvados">Le Tronquay</a></li>
+<li><a href="/wiki/Trouville-sur-Mer" title="Trouville-sur-Mer">Trouville-sur-Mer</a></li>
+<li><a href="/wiki/Trungy" title="Trungy">Trungy</a></li>
+<li><a href="/wiki/Urville,_Calvados" title="Urville, Calvados">Urville</a></li>
+<li><a href="/wiki/Ussy" title="Ussy">Ussy</a></li>
+<li><a href="/wiki/Vacognes-Neuilly" title="Vacognes-Neuilly">Vacognes-Neuilly</a></li>
+<li><a href="/wiki/Valambray" title="Valambray">Valambray</a></li>
+<li><a href="/wiki/Valdalli%C3%A8re" title="Valdallière">Valdallière</a></li>
+<li><a href="/wiki/Val_d%27Arry" title="Val d&#39;Arry">Val d'Arry</a></li>
+<li><a href="/wiki/Val_de_Dr%C3%B4me" title="Val de Drôme">Val de Drôme</a></li>
+<li><a href="/wiki/Val-de-Vie" title="Val-de-Vie">Val-de-Vie</a></li>
+<li><a href="/wiki/Valorbiquet" title="Valorbiquet">Valorbiquet</a></li>
+<li><a href="/wiki/Valsem%C3%A9" title="Valsemé">Valsemé</a></li>
+<li><a href="/wiki/Varaville" title="Varaville">Varaville</a></li>
+<li><a href="/wiki/Vaucelles" title="Vaucelles">Vaucelles</a></li>
+<li><a href="/wiki/Vauville,_Calvados" title="Vauville, Calvados">Vauville</a></li>
+<li><a href="/wiki/Vaux-sur-Aure" title="Vaux-sur-Aure">Vaux-sur-Aure</a></li>
+<li><a href="/wiki/Vaux-sur-Seulles" title="Vaux-sur-Seulles">Vaux-sur-Seulles</a></li>
+<li><a href="/wiki/Vendes" title="Vendes">Vendes</a></li>
+<li><a href="/wiki/Vendeuvre" title="Vendeuvre">Vendeuvre</a></li>
+<li><a href="/wiki/Versainville" title="Versainville">Versainville</a></li>
+<li><a href="/wiki/Verson" title="Verson">Verson</a></li>
+<li><a href="/wiki/Ver-sur-Mer" title="Ver-sur-Mer">Ver-sur-Mer</a></li>
+<li><a href="/wiki/La_Vespi%C3%A8re-Friardel" title="La Vespière-Friardel">La Vespière-Friardel</a></li>
+<li><a href="/wiki/Le_Vey" title="Le Vey">Le Vey</a></li>
+<li><a href="/wiki/Vicques,_Calvados" title="Vicques, Calvados">Vicques</a></li>
+<li><a href="/wiki/Victot-Pontfol" title="Victot-Pontfol">Victot-Pontfol</a></li>
+<li><a href="/wiki/Vienne-en-Bessin" title="Vienne-en-Bessin">Vienne-en-Bessin</a></li>
+<li><a href="/wiki/Vierville-sur-Mer" title="Vierville-sur-Mer">Vierville-sur-Mer</a></li>
+<li><a href="/wiki/Vieux,_Calvados" title="Vieux, Calvados">Vieux</a></li>
+<li><a href="/wiki/Vieux-Bourg" title="Vieux-Bourg">Vieux-Bourg</a></li>
+<li><a href="/wiki/Vignats" title="Vignats">Vignats</a></li>
+<li><a href="/wiki/Villers-Bocage,_Calvados" title="Villers-Bocage, Calvados">Villers-Bocage</a></li>
+<li><a href="/wiki/Villers-Canivet" title="Villers-Canivet">Villers-Canivet</a></li>
+<li><a href="/wiki/Villers-sur-Mer" title="Villers-sur-Mer">Villers-sur-Mer</a></li>
+<li><a href="/wiki/Villerville" title="Villerville">Villerville</a></li>
+<li><a href="/wiki/La_Villette,_Calvados" title="La Villette, Calvados">La Villette</a></li>
+<li><a href="/wiki/Villons-les-Buissons" title="Villons-les-Buissons">Villons-les-Buissons</a></li>
+<li><a href="/wiki/Villy-Bocage" title="Villy-Bocage">Villy-Bocage</a></li>
+<li><a href="/wiki/Villy-lez-Falaise" title="Villy-lez-Falaise">Villy-lez-Falaise</a></li>
+<li><a href="/wiki/Vimont,_Calvados" title="Vimont, Calvados">Vimont</a></li>
+<li><a href="/wiki/Vire-Normandie" title="Vire-Normandie">Vire-Normandie</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q183910&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q183910&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q183910" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb15247463q">cb15247463q</a> <a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb15247463q">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4005054-3">4005054-3</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n2005040937">n2005040937</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/MusicBrainz" title="MusicBrainz">MusicBrainz</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/area/b387db05-47d8-45a4-9269-d23797fee35a">b387db05-47d8-45a4-9269-d23797fee35a</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ge789481&amp;CON_LNG=ENG">ge789481</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/154760386">154760386</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" class="mw-redirect" title="WorldCat Identities">WorldCat Identities</a> (via VIAF): <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/154760386">154760386</a></span></li></ul>
+</div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1225
-Cached time: 20191021225306
+Parsed by mw1264
+Cached time: 20191027154634
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.144 seconds
-Real time usage: 0.219 seconds
-Preprocessor visited node count: 345/1000000
+CPU time usage: 1.548 seconds
+Real time usage: 2.128 seconds
+Preprocessor visited node count: 7266/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 8010/2097152 bytes
-Template argument size: 802/2097152 bytes
-Highest expansion depth: 8/40
-Expensive parser function count: 1/500
+Post‐expand include size: 137317/2097152 bytes
+Template argument size: 21451/2097152 bytes
+Highest expansion depth: 27/40
+Expensive parser function count: 13/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 11824/5000000 bytes
-Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.081/10.000 seconds
-Lua memory usage: 2.63 MB/50 MB
+Unstrip post‐expand size: 20875/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.912/10.000 seconds
+Lua memory usage: 15.8 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  196.685      1 -total
- 63.77%  125.429      1 Template:Reflist
- 55.43%  109.031      4 Template:Cite_web
- 36.19%   71.177      1 Template:Surname
- 31.20%   61.375      1 Template:Dmbox
- 15.59%   30.670      1 Template:Short_description
- 13.97%   27.475      1 Template:Pagetype
- 10.16%   19.984      1 Template:Category_handler
-  1.79%    3.526      2 Template:Main_other
+100.00% 1837.915      1 -total
+ 59.81% 1099.224      1 Template:Infobox_French_commune
+ 58.92% 1082.913      1 Template:Infobox_settlement
+ 54.62% 1003.846      1 Template:Infobox
+ 18.15%  333.599      7 Template:Wikidata
+ 17.49%  321.478      3 Template:France_metadata_Wikidata
+ 13.42%  246.691      3 Template:Lang
+  7.01%  128.870      8 Template:Both
+  6.56%  120.595      1 Template:Coord
+  4.54%   83.355      1 Template:Reflist
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:300658-0!canonical and timestamp 20191021225307 and revision id 922406688
+<!-- Saved in parser cache with key enwiki:pcache:idhash:343308-0!canonical and timestamp 20191027154631 and revision id 915309246
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Evans_(surname)&amp;oldid=922406688">https://en.wikipedia.org/w/index.php?title=Evans_(surname)&amp;oldid=922406688</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Bayeux&amp;oldid=915309246">https://en.wikipedia.org/w/index.php?title=Bayeux&amp;oldid=915309246</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:Surnames_of_Welsh_origin" title="Category:Surnames of Welsh origin">Surnames of Welsh origin</a></li><li><a href="/wiki/Category:Anglo-Cornish_surnames" title="Category:Anglo-Cornish surnames">Anglo-Cornish surnames</a></li><li><a href="/wiki/Category:Anglicised_Welsh-language_surnames" title="Category:Anglicised Welsh-language surnames">Anglicised Welsh-language surnames</a></li><li><a href="/wiki/Category:Welsh-language_surnames" title="Category:Welsh-language surnames">Welsh-language surnames</a></li><li><a href="/wiki/Category:Patronymic_surnames" title="Category:Patronymic surnames">Patronymic surnames</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">CS1 maint: archived copy as title</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Bayeux" title="Category:Bayeux">Bayeux</a></li><li><a href="/wiki/Category:Communes_of_Calvados_(department)" title="Category:Communes of Calvados (department)">Communes of Calvados (department)</a></li><li><a href="/wiki/Category:Subprefectures_in_France" title="Category:Subprefectures in France">Subprefectures in France</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Infobox_mapframe_without_OSM_relation_ID_on_Wikidata" title="Category:Infobox mapframe without OSM relation ID on Wikidata">Infobox mapframe without OSM relation ID on Wikidata</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_containing_Welsh-language_text" title="Category:Articles containing Welsh-language text">Articles containing Welsh-language text</a></li><li><a href="/wiki/Category:Articles_containing_Breton-language_text" title="Category:Articles containing Breton-language text">Articles containing Breton-language text</a></li><li><a href="/wiki/Category:Articles_containing_Old_Irish-language_text" title="Category:Articles containing Old Irish-language text">Articles containing Old Irish-language text</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2010" title="Category:Articles with unsourced statements from May 2010">Articles with unsourced statements from May 2010</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_MusicBrainz_area_identifiers" title="Category:Wikipedia articles with MusicBrainz area identifiers">Wikipedia articles with MusicBrainz area identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NKC_identifiers" title="Category:Wikipedia articles with NKC identifiers">Wikipedia articles with NKC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat-VIAF_identifiers" title="Category:Wikipedia articles with WorldCat-VIAF identifiers">Wikipedia articles with WorldCat-VIAF identifiers</a></li><li><a href="/wiki/Category:Pages_using_the_Kartographer_extension" title="Category:Pages using the Kartographer extension">Pages using the Kartographer extension</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -137,13 +856,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Evans+%28surname%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Evans+%28surname%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Bayeux" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bayeux" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Evans_(surname)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Evans_(surname)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Bayeux" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Bayeux" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -158,7 +877,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Evans_(surname)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Evans_(surname)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Evans_(surname)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Bayeux">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Bayeux&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Bayeux&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -197,35 +916,35 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Evans_(surname)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Evans_(surname)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Evans_(surname)&amp;oldid=922406688" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Evans_(surname)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1260663" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Evans_%28surname%29&amp;id=922406688" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Bayeux" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Bayeux" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Bayeux&amp;oldid=915309246" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Bayeux&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q183910" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Bayeux&amp;id=915309246" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
 			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
 			<div class="body">
 								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Evans_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Bayeux" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/Bayeux" hreflang="en">Wikivoyage</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Evans+%28surname%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Evans+%28surname%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Evans_(surname)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Bayeux">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Bayeux&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Bayeux&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Evans_(p%C5%99%C3%ADjmen%C3%AD)" title="Evans (příjmení) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Evans_(Familienname)" title="Evans (Familienname) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%AD%D0%B2%D0%B0%D0%BD%D1%81" title="Эванс – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Evans_(priimek)" title="Evans (priimek) – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Evans" title="Evans – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%95%D0%B2%D0%B0%D0%BD%D1%81" title="Еванс – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1260663#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-ang"><a href="https://ang.wikipedia.org/wiki/Baius" title="Baius – Old English" lang="ang" hreflang="ang" class="interlanguage-link-target">Ænglisc</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D9%8A%D9%88" title="بايو – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Bayeux" title="Bayeux – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%91%D0%B0%D0%B9%D0%BE" title="Байо – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Bayeux" title="Bayeux – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Bayeux" title="Bayeux – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Bayeux" title="Bayeux – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Bayeux" title="Bayeux – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Bayeux" title="Bayeux – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Bayeux" title="Bayeux – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Bayeux" title="Bayeux – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9C%CF%80%CE%B1%CE%B3%CE%B9%CE%AD" title="Μπαγιέ – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Bayeux" title="Bayeux – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Bayeux_(Francio)" title="Bayeux (Francio) – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Bayeux" title="Bayeux – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%DB%8C%D9%88%D8%8C_%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87" title="بایو، فرانسه – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Bayeux" title="Bayeux – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Bayeux" title="Bayeux – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B0%94%EC%9D%B4%EC%99%B8" title="바이외 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B2%D5%A1%D5%B5%D5%A5" title="Բայե – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%B8" title="বায়েউক্স – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Bayeux" title="Bayeux – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Bayeux" title="Bayeux – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Bayeux_(Francia)" title="Bayeux (Francia) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%91%D7%90%D7%99%D7%99%D7%94" title="באייה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Bayeux" title="Bayeux – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li><li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Bayeux" title="Bayeux – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Baiocae" title="Baiocae – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Bayeux" title="Bayeux – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Bayeux" title="Bayeux – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Bayeux_(Frankrijk)" title="Bayeux (Frankrijk) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A4%E3%83%A6%E3%83%BC" title="バイユー – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%91%D0%B0%D0%B9%D1%91" title="Байё – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Bayeux" title="Bayeux – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Bayeux" title="Bayeux – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-nrm"><a href="https://nrm.wikipedia.org/wiki/Bayeux" title="Bayeux – Norman" lang="nrf" hreflang="nrf" class="interlanguage-link-target">Nouormand</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Bayeux" title="Bayeux – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Bayeux_(Fransiya)" title="Bayeux (Fransiya) – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Bayeux" title="Bayeux – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Bayeux" title="Bayeux – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Bayeux" title="Bayeux – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Bayeux" title="Bayeux – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B9%D1%91" title="Байё – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Bayeux" title="Bayeux – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Bayeux" title="Bayeux – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Bayeux" title="Bayeux – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Bayeux_(obec)" title="Bayeux (obec) – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Bayeux" title="Bayeux – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%91%D0%B0%D1%98%D0%B5_(%D0%9A%D0%B0%D0%BB%D0%B2%D0%B0%D0%B4%D0%BE%D1%81)" title="Баје (Калвадос) – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Bayeux" title="Bayeux – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Bayeux" title="Bayeux – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Bayeux" title="Bayeux – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Bayeux" title="Bayeux – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%91%D0%B0%D0%B9%D0%BE" title="Байо – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A8%D8%A7%DB%8C%D9%88%D8%8C_%D9%81%D8%B1%D8%A7%D9%86%D8%B3" title="بایو، فرانس – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Bayeux" title="Bayeux – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Bayeux_(Frans%C3%A4n)" title="Bayeux (Fransän) – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-vls"><a href="https://vls.wikipedia.org/wiki/Bayeux" title="Bayeux – West Flemish" lang="vls" hreflang="vls" class="interlanguage-link-target">West-Vlams</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Bayeux" title="Bayeux – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%B7%B4%E7%BA%A6" title="巴约 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q183910#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 21 October 2019, at 22:53<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 12 September 2019, at 13:14<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -236,7 +955,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Evans_(surname)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Bayeux&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -248,8 +967,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.144","walltime":"0.219","ppvisitednodes":{"value":345,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":8010,"limit":2097152},"templateargumentsize":{"value":802,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":11824,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  196.685      1 -total"," 63.77%  125.429      1 Template:Reflist"," 55.43%  109.031      4 Template:Cite_web"," 36.19%   71.177      1 Template:Surname"," 31.20%   61.375      1 Template:Dmbox"," 15.59%   30.670      1 Template:Short_description"," 13.97%   27.475      1 Template:Pagetype"," 10.16%   19.984      1 Template:Category_handler","  1.79%    3.526      2 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.081","limit":"10.000"},"limitreport-memusage":{"value":2757121,"limit":52428800}},"cachereport":{"origin":"mw1225","timestamp":"20191021225306","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Evans (surname)","url":"https:\/\/en.wikipedia.org\/wiki\/Evans_(surname)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1260663","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1260663","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-08-20T14:54:08Z","dateModified":"2019-10-21T22:53:07Z","headline":"family name"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":101,"wgHostname":"mw1320"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.548","walltime":"2.128","ppvisitednodes":{"value":7266,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":137317,"limit":2097152},"templateargumentsize":{"value":21451,"limit":2097152},"expansiondepth":{"value":27,"limit":40},"expensivefunctioncount":{"value":13,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":20875,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00% 1837.915      1 -total"," 59.81% 1099.224      1 Template:Infobox_French_commune"," 58.92% 1082.913      1 Template:Infobox_settlement"," 54.62% 1003.846      1 Template:Infobox"," 18.15%  333.599      7 Template:Wikidata"," 17.49%  321.478      3 Template:France_metadata_Wikidata"," 13.42%  246.691      3 Template:Lang","  7.01%  128.870      8 Template:Both","  6.56%  120.595      1 Template:Coord","  4.54%   83.355      1 Template:Reflist"]},"scribunto":{"limitreport-timeusage":{"value":"0.912","limit":"10.000"},"limitreport-memusage":{"value":16564396,"limit":52428800}},"cachereport":{"origin":"mw1264","timestamp":"20191027154634","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Bayeux","url":"https:\/\/en.wikipedia.org\/wiki\/Bayeux","sameAs":"http:\/\/www.wikidata.org\/entity\/Q183910","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q183910","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-10-17T21:49:51Z","dateModified":"2019-09-12T13:14:29Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/9b\/Bayeux_centre.jpg","headline":"commune in Calvados, France"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":116,"wgHostname":"mw1324"});});</script>
 </body>
 </html>

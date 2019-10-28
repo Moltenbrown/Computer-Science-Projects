@@ -2,35 +2,35 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Douglas (surname) - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Douglas_(surname)","wgTitle":"Douglas (surname)","wgCurRevisionId":921856359,"wgRevisionId":921856359,"wgArticleId":145316,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from December 2016","Articles with permanently dead external links","Articles with short description","All set index articles","Surnames","Scottish-language surnames","Anglicised Scottish Gaelic-language surnames","House of Douglas and Angus","Toponymic surnames"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
-"September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Douglas_(surname)","wgRelevantArticleId":145316,"wgRequestId":"XawsKwpAICIAAIvAkgEAAABQ","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2677358","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready",
-"noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.cite.tracking","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups",
-"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Vocation - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Vocation","wgTitle":"Vocation","wgCurRevisionId":901258438,"wgRevisionId":901258438,"wgArticleId":1566484,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with failed verification","Articles with failed verification from November 2014","Christian missions","Christian terminology","Christian religious occupations"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Vocation",
+"wgRelevantArticleId":1566484,"wgRequestId":"XbTCDApAICMAAK3bY3sAAAAI","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q829183","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns",
+"ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.1"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Douglas_(surname)"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Douglas_(surname)&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Douglas_(surname)&amp;action=edit"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Vocation"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Vocation&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Vocation&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Douglas_(surname)"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Vocation"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Douglas_surname rootpage-Douglas_surname skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Vocation rootpage-Vocation skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -39,7 +39,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Douglas (surname)</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Vocation</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -50,647 +50,152 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For the Scottish family of Douglas see <a href="/wiki/Earl_of_Douglas" title="Earl of Douglas">Earl of Douglas</a>, <a href="/wiki/Earl_of_Angus" title="Earl of Angus">Earl of Angus</a> or <a href="/wiki/Clan_Douglas" title="Clan Douglas">House of Douglas</a></div>
-<table class="infobox" style="width:22em"><caption>Douglas</caption><tbody><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Origin</th></tr><tr><th scope="row">Meaning</th><td>Black Stream</td></tr><tr><th scope="row">Region of origin</th><td><a href="/wiki/Scotland" title="Scotland">Scotland</a></td></tr><tr><td colspan="2" style="text-align:center;border-top: #a2a9b1 1px solid;">Frequency Comparisons:<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr></tbody></table>
-<p><b>Douglas</b> (occasionally spelled <i><a href="/wiki/Douglass_(surname)" title="Douglass (surname)">Douglass</a></i>) is a common surname of <a href="/wiki/Scotland" title="Scotland">Scottish</a> origin, thought to derive from the <a href="/wiki/Scottish_Gaelic_language" class="mw-redirect" title="Scottish Gaelic language">Scottish Gaelic</a> <i>dubh glas</i>, meaning "black stream". There are numerous places in Scotland from which the surname is derived. The surname has developed into the <a href="/wiki/Given_name" title="Given name">given name</a> <i><a href="/wiki/Douglas_(given_name)" title="Douglas (given name)">Douglas</a></i>. <i>Douglas</i> is a habitational name, which could be derived from any of the many places so-named. While there are numerous places with this name in Scotland, it is thought, in most cases, to refer to <a href="/wiki/Douglas,_South_Lanarkshire" title="Douglas, South Lanarkshire">Douglas, South Lanarkshire</a>, the location of <a href="/wiki/Douglas_Castle" title="Douglas Castle">Douglas Castle</a>, the chief stronghold of the <a href="/wiki/Earl_of_Douglas" title="Earl of Douglas">Lords of Douglas</a>.<sup id="cite_ref-a-last1_2-0" class="reference"><a href="#cite_note-a-last1-2">&#91;2&#93;</a></sup> The <a href="/wiki/Scottish_Gaelic" title="Scottish Gaelic">Scottish Gaelic</a> form of the given name is <i>Dùbhghlas</i>; the <a href="/wiki/Irish_language" title="Irish language">Irish language</a> form it is <i>Dúghlas</i>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> and <i>Dubhghlas</i>, which are pronounced <small>Irish pronunciation:&#160;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Irish" title="Help:IPA/Irish">[duːɣləs]</a></span>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> According to George Fraser Black, in southern <a href="/wiki/Argyllshire" class="mw-redirect" title="Argyllshire">Argyllshire</a> the surname is an <a href="/wiki/Anglicised" class="mw-redirect" title="Anglicised">Anglicised</a> form of the surnames <i>MacLucas</i>, <i>MacLugash</i> (which are derived from the Gaelic <i>Mac Lùcais</i>).<sup id="cite_ref-Black_5-0" class="reference"><a href="#cite_note-Black-5">&#91;5&#93;</a></sup>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/List_of_professions" class="mw-redirect" title="List of professions">List of professions</a> and <a href="/wiki/Tradesman" title="Tradesman">Tradesman</a></div>
+<div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Vocation_(disambiguation)" class="mw-disambig" title="Vocation (disambiguation)">Vocation (disambiguation)</a>.</div>
+<p>A <b>vocation</b> (from&#32;<a href="/wiki/Latin_language" class="mw-redirect" title="Latin language">Latin</a>&#32;<i> <a href="https://en.wiktionary.org/wiki/vocatio#Latin" class="extiw" title="wikt:vocatio">vocātiō</a></i>, meaning 'a call, summons'<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>) is an <a href="/wiki/Job" title="Job">occupation</a> to which a person is specially drawn or for which they are suited, trained, or qualified.  Though now often used in non-religious contexts, the meanings of the term originated in <a href="/wiki/Christianity" title="Christianity">Christianity</a>.
 </p>
 <div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Arts"><span class="tocnumber">1</span> <span class="toctext">Arts</span></a>
+<li class="toclevel-1 tocsection-1"><a href="#Senses"><span class="tocnumber">1</span> <span class="toctext">Senses</span></a>
 <ul>
-<li class="toclevel-2 tocsection-2"><a href="#Visual_arts"><span class="tocnumber">1.1</span> <span class="toctext">Visual arts</span></a></li>
-<li class="toclevel-2 tocsection-3"><a href="#Literature"><span class="tocnumber">1.2</span> <span class="toctext">Literature</span></a></li>
-<li class="toclevel-2 tocsection-4"><a href="#Music"><span class="tocnumber">1.3</span> <span class="toctext">Music</span></a></li>
+<li class="toclevel-2 tocsection-2"><a href="#Concept"><span class="tocnumber">1.1</span> <span class="toctext">Concept</span></a></li>
 </ul>
 </li>
-<li class="toclevel-1 tocsection-5"><a href="#Business"><span class="tocnumber">2</span> <span class="toctext">Business</span></a></li>
-<li class="toclevel-1 tocsection-6"><a href="#Law"><span class="tocnumber">3</span> <span class="toctext">Law</span></a></li>
-<li class="toclevel-1 tocsection-7"><a href="#Military"><span class="tocnumber">4</span> <span class="toctext">Military</span></a></li>
-<li class="toclevel-1 tocsection-8"><a href="#Nobility"><span class="tocnumber">5</span> <span class="toctext">Nobility</span></a></li>
-<li class="toclevel-1 tocsection-9"><a href="#Politics"><span class="tocnumber">6</span> <span class="toctext">Politics</span></a></li>
-<li class="toclevel-1 tocsection-10"><a href="#Sport"><span class="tocnumber">7</span> <span class="toctext">Sport</span></a></li>
-<li class="toclevel-1 tocsection-11"><a href="#Science"><span class="tocnumber">8</span> <span class="toctext">Science</span></a>
+<li class="toclevel-1 tocsection-3"><a href="#Christian_views_on_work"><span class="tocnumber">2</span> <span class="toctext">Christian views on work</span></a>
 <ul>
-<li class="toclevel-2 tocsection-12"><a href="#Biology"><span class="tocnumber">8.1</span> <span class="toctext">Biology</span></a></li>
-<li class="toclevel-2 tocsection-13"><a href="#Earth_sciences"><span class="tocnumber">8.2</span> <span class="toctext">Earth sciences</span></a></li>
-<li class="toclevel-2 tocsection-14"><a href="#Engineering"><span class="tocnumber">8.3</span> <span class="toctext">Engineering</span></a></li>
-<li class="toclevel-2 tocsection-15"><a href="#Mathematics"><span class="tocnumber">8.4</span> <span class="toctext">Mathematics</span></a></li>
-<li class="toclevel-2 tocsection-16"><a href="#Physics"><span class="tocnumber">8.5</span> <span class="toctext">Physics</span></a></li>
-<li class="toclevel-2 tocsection-17"><a href="#Other_scientists"><span class="tocnumber">8.6</span> <span class="toctext">Other scientists</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Modern_vocation"><span class="tocnumber">2.1</span> <span class="toctext">Modern vocation</span></a></li>
 </ul>
 </li>
-<li class="toclevel-1 tocsection-18"><a href="#Radio,_television_and_film"><span class="tocnumber">9</span> <span class="toctext">Radio, television and film</span></a></li>
-<li class="toclevel-1 tocsection-19"><a href="#Religion"><span class="tocnumber">10</span> <span class="toctext">Religion</span></a></li>
-<li class="toclevel-1 tocsection-20"><a href="#Other_fields"><span class="tocnumber">11</span> <span class="toctext">Other fields</span></a></li>
-<li class="toclevel-1 tocsection-21"><a href="#Counts_Douglas_in_continental_Europe"><span class="tocnumber">12</span> <span class="toctext">Counts Douglas in continental Europe</span></a></li>
-<li class="toclevel-1 tocsection-22"><a href="#See_also"><span class="tocnumber">13</span> <span class="toctext">See also</span></a></li>
-<li class="toclevel-1 tocsection-23"><a href="#References"><span class="tocnumber">14</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-24"><a href="#External_links"><span class="tocnumber">15</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Literary_clarification"><span class="tocnumber">3</span> <span class="toctext">Literary clarification</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
 </ul>
 </div>
 
-<h2><span class="mw-headline" id="Arts">Arts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Douglas_(surname)&amp;action=edit&amp;section=1" title="Edit section: Arts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Visual_arts">Visual arts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Douglas_(surname)&amp;action=edit&amp;section=2" title="Edit section: Visual arts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Aaron_Douglas" title="Aaron Douglas">Aaron Douglas</a> (1900–1979), American artist</li>
-<li><a href="/wiki/The_Douglas_Brothers" class="mw-redirect" title="The Douglas Brothers">Andrew Douglas</a> (born 1952), British photographer/director</li>
-<li><a href="/wiki/Haldane_Douglas" title="Haldane Douglas">Haldane Douglas</a> (1892–1980), American art director</li>
-<li><a href="/wiki/John_Douglas_(Scottish_architect)" title="John Douglas (Scottish architect)">John Douglas (Scottish architect)</a> (died 1778)</li>
-<li><a href="/wiki/John_Douglas_(architect)" title="John Douglas (architect)">John Douglas (architect)</a> (1830–1911), English architect</li>
-<li><a href="/wiki/Malcolm_Douglas_(illustrator)" title="Malcolm Douglas (illustrator)">Malcolm Douglas</a> (1954–2009), illustrator and an avid fan of folk music</li>
-<li><a href="/wiki/Mel_Douglas" title="Mel Douglas">Mel Douglas</a> (born 1978), Australian glass artist</li>
-<li><a href="/wiki/Sholto_Johnstone_Douglas" title="Sholto Johnstone Douglas">Sholto Johnstone Douglas</a> (1871–1958). Known as Sholto Douglas, or Robert Sholto Johnstone Douglas, he was a Scottish figurative artist,</li>
-<li><a href="/wiki/Stan_Douglas" title="Stan Douglas">Stan Douglas</a> (born 1960), Canadian artist</li>
-<li><a href="/wiki/The_Douglas_Brothers" class="mw-redirect" title="The Douglas Brothers">Stuart Douglas</a> (born 1962), British photographer/director</li></ul>
-<h3><span class="mw-headline" id="Literature">Literature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Douglas_(surname)&amp;action=edit&amp;section=3" title="Edit section: Literature">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Lord_Alfred_Douglas" title="Lord Alfred Douglas">Lord Alfred Douglas</a> (1870–1945), British poet</li>
-<li><a href="/wiki/Alice_May_Douglas" title="Alice May Douglas">Alice May Douglas</a> (1865–1943), American poet, author, editor</li>
-<li><a href="/wiki/Amanda_Minnie_Douglas" title="Amanda Minnie Douglas">Amanda Minnie Douglas</a> (1831–1916), American writer of children's stories</li>
-<li><a href="/wiki/Carole_Nelson_Douglas" title="Carole Nelson Douglas">Carole Nelson Douglas</a> (born 1944), American writer</li>
-<li><a href="/wiki/Colin_Douglas_(novelist)" title="Colin Douglas (novelist)">Colin Douglas (novelist)</a> (born 1945), pseudonym of Colin Thomas Currie, Scottish novelist</li>
-<li><a href="/wiki/David_John_Douglass" title="David John Douglass">David John Douglass</a>, political writer</li>
-<li><a href="/wiki/Ellen_Douglas" title="Ellen Douglas">Ellen Douglas</a> (1921–2012), born Josephine Ayres Haxton, American author</li>
-<li><a href="/wiki/Gavin_Douglas" title="Gavin Douglas">Gavin Douglas</a> (1474–1522), Scottish poet and bishop</li>
-<li><a href="/wiki/Geoffrey_Douglas" title="Geoffrey Douglas">Geoffrey Douglas</a> (born 1944), American author and journalist</li>
-<li><a href="/wiki/Helen_Douglas_Irvine" title="Helen Douglas Irvine">Helen Douglas Irvine</a> (1880–1947), Scottish novelist, historian and translator</li>
-<li><a href="/wiki/Jack_Douglas_(writer)" title="Jack Douglas (writer)">Jack Douglas (writer)</a> (1908–1989), American comedy writer</li>
-<li><a href="/wiki/John_Douglas_(bishop_of_Salisbury)" title="John Douglas (bishop of Salisbury)">John Douglas (bishop of Salisbury)</a> (1721–1807), Scottish man of letters and Anglican bishop</li>
-<li><a href="/wiki/John_E._Douglas" title="John E. Douglas">John E. Douglas</a>, author of horror novels</li>
-<li><a href="/wiki/Keith_Douglas" title="Keith Douglas">Keith Douglas</a> (1920–1944), English poet of World War II</li>
-<li><a href="/wiki/J._Yellowlees_Douglas" title="J. Yellowlees Douglas">J. Yellowlees Douglas</a>, author of hypertext fiction</li>
-<li><a href="/wiki/Marjory_Stoneman_Douglas" title="Marjory Stoneman Douglas">Marjory Stoneman Douglas</a> (1890–1998), American conservationist and writer</li>
-<li><a href="/wiki/Max_Douglas" title="Max Douglas">Max Douglas</a> (born 1970), Canadian comic book creator</li>
-<li>Michael Douglas (pen name <a href="/wiki/Michael_Crichton" title="Michael Crichton">Michael Crichton</a>), American author</li>
-<li><a href="/wiki/Norman_Douglas" title="Norman Douglas">Norman Douglas</a> (1868–1952), British writer</li>
-<li><a href="/wiki/Orville_Lloyd_Douglas" title="Orville Lloyd Douglas">Orville Lloyd Douglas</a> (born 1976), Canadian, essayist, poet, and writer.</li>
-<li><a href="/wiki/Mark_Douglas-Home" title="Mark Douglas-Home">Mark Douglas-Home</a> (born 1951), Scottish editor-in-chief of <i>The Herald</i> in Glasgow, Scotland</li>
-<li><a href="/wiki/William_Douglas-Home" class="mw-redirect" title="William Douglas-Home">William Douglas-Home</a> (1912–1992), British playwright</li></ul>
-<h3><span class="mw-headline" id="Music">Music</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Douglas_(surname)&amp;action=edit&amp;section=4" title="Edit section: Music">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Alan_Douglas_(record_producer)" title="Alan Douglas (record producer)">Alan Douglas (record producer)</a>, American record producer</li>
-<li><a href="/wiki/Ashanti_(entertainer)" class="mw-redirect" title="Ashanti (entertainer)">Ashanti (entertainer)</a> (Ashanti Shequoiya Douglas) (born 1980), American R&amp;B singer</li>
-<li><a href="/wiki/Barry_Douglas_(musician)" title="Barry Douglas (musician)">Barry Douglas</a> (born 1960), classical pianist and conductor</li>
-<li><a href="/wiki/Carl_Douglas" title="Carl Douglas">Carl Douglas</a> (born 1942), Jamaican-born singer</li>
-<li><a href="/wiki/Carol_Douglas" title="Carol Douglas">Carol Douglas</a> (born 1948), American singer</li>
-<li><a href="/wiki/Charles_Douglass" title="Charles Douglass">Charles Douglass</a> (1910–2003), an American sound engineer</li>
-<li><a href="/wiki/Chip_Douglas" title="Chip Douglas">Chip Douglas</a> (Douglas Farthing Hatlelid), songwriter, musician, and record producer</li>
-<li><a href="/wiki/Chris_Douglas" title="Chris Douglas">Chris Douglas</a> (born 1974), American musician</li>
-<li><a href="/wiki/Craig_Douglas" title="Craig Douglas">Craig Douglas</a> (born 1941), English singer</li>
-<li><a href="/wiki/Dave_Douglas_(drummer)" title="Dave Douglas (drummer)">Dave Douglas (drummer)</a>, American drummer</li>
-<li><a href="/wiki/Dave_Douglas_(trumpeter)" title="Dave Douglas (trumpeter)">Dave Douglas (trumpeter)</a> (born 1963), American jazz composer and trumpeter</li>
-<li><a href="/wiki/Jahm%C3%A9ne_Douglas" class="mw-redirect" title="Jahméne Douglas">Jahméne Douglas</a>, English singer, contestant of <a href="/wiki/The_X_Factor_(UK)" class="mw-redirect" title="The X Factor (UK)">The X Factor (UK)</a>, series 9</li>
-<li><a href="/wiki/James_Douglas_(composer)" title="James Douglas (composer)">James Douglas (composer)</a> (born 1932), Scottish composer</li>
-<li><a href="/wiki/Jenny_Douglas" class="mw-redirect" title="Jenny Douglas">Jenny Douglas</a> (born 1991), Scottish singer and actress</li>
-<li><a href="/w/index.php?title=Jeremiah_Douglas&amp;action=edit&amp;redlink=1" class="new" title="Jeremiah Douglas (page does not exist)">Jeremiah Douglas</a>, (born 1993), American drummer of (Face Value)</li>
-<li><a href="/wiki/Jerry_Douglas" title="Jerry Douglas">Jerry Douglas</a> (born 1955), American country music and bluegrass musician</li>
-<li><a href="/wiki/Jimmy_Douglass" title="Jimmy Douglass">Jimmy Douglass</a>, American record producer</li>
-<li><a href="/w/index.php?title=John_Douglas_(drummer)&amp;action=edit&amp;redlink=1" class="new" title="John Douglas (drummer) (page does not exist)">John Douglas (drummer)</a> (born 1973), drummer for English band <a href="/wiki/Anathema_(band)" title="Anathema (band)">Anathema (band)</a></li>
-<li><a href="/wiki/Johnny_Douglas_(conductor)" title="Johnny Douglas (conductor)">Johnny Douglas (conductor)</a> (1920–2003), English composer, musical director and conductor</li>
-<li><a href="/wiki/K._C._Douglas" title="K. C. Douglas">K. C. Douglas</a> (1913–1975), American blues musician</li>
-<li><a href="/wiki/Roy_Douglas" title="Roy Douglas">Roy Douglas</a> (1907–2015), British composer, pianist and arranger</li>
-<li><a href="/wiki/Steve_Douglas_(saxophonist)" title="Steve Douglas (saxophonist)">Steve Douglas (saxophonist)</a> (1938–1993), American saxophonist, flautist and clarinetist</li>
-<li><a href="/wiki/Tom_Douglas_(songwriter)" title="Tom Douglas (songwriter)">Tom Douglas (songwriter)</a>, American country music songwriter</li>
-<li><a href="/wiki/Tony_Douglas_(singer)" title="Tony Douglas (singer)">Tony Douglas (singer)</a> (1929–2013), American country music singer</li></ul>
-<h2><span class="mw-headline" id="Business">Business</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Douglas_(surname)&amp;action=edit&amp;section=5" title="Edit section: Business">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Donald_Wills_Douglas,_Sr." class="mw-redirect" title="Donald Wills Douglas, Sr.">Donald Wills Douglas, Sr.</a> (1892–1981), Scottish businessman, founder of <a href="/wiki/Douglas_Aircraft" class="mw-redirect" title="Douglas Aircraft">Douglas Aircraft</a></li>
-<li><a href="/wiki/Gustaf_Douglas" title="Gustaf Douglas">Gustaf Douglas</a> (born 1938), Swedish businessman, vice chairman and largest single shareholder in security firm Securitas AB</li>
-<li><a href="/wiki/James_Douglas_(businessman)" title="James Douglas (businessman)">James Douglas (businessman)</a> (1867–1949), Canadian mining engineer and businessman</li>
-<li><a href="/wiki/James_Douglas,_Jr." class="mw-redirect" title="James Douglas, Jr.">James Douglas, Jr.</a> (born 1967), businessman and mining executive in Canada, US and Mexico.</li>
-<li><a href="/wiki/Louis_Douglas" title="Louis Douglas">Louis Douglas</a> (1889–1939), American dancer, choreographer, and music businessman.</li>
-<li><a href="/wiki/Raymond_E._Douglas" title="Raymond E. Douglas">Raymond E. Douglas</a> (1948–2007), an executive for the New York Times</li>
-<li><a href="/wiki/Walter_Donald_Douglas" title="Walter Donald Douglas">Walter Donald Douglas</a> (1861–1912), businessman and <i>Titanic</i> casualty</li></ul>
-<h2><span class="mw-headline" id="Law">Law</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Douglas_(surname)&amp;action=edit&amp;section=6" title="Edit section: Law">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Andrew_Douglas_(judge)" title="Andrew Douglas (judge)">Andrew Grant Douglas</a> (b.1932), a former <a href="/wiki/United_States_Republican_Party" class="mw-redirect" title="United States Republican Party">Republican</a> justice of the <a href="/wiki/Ohio_Supreme_Court" class="mw-redirect" title="Ohio Supreme Court">Ohio Supreme Court</a></li>
-<li><a href="/wiki/Byrd_Douglas" title="Byrd Douglas">Byrd Douglas</a> (1894–1965), a college baseball and football coach as well as a judge.</li>
-<li><a href="/wiki/Charles_Douglas_III" title="Charles Douglas III">Charles Gywnne "Chuck" Douglas III</a> (b. 1942),  a trial lawyer and a former <a href="/wiki/United_States_House_of_Representatives" title="United States House of Representatives">United States Representative</a></li>
-<li><a href="/wiki/Douglas_Professor_of_Civil_Law" title="Douglas Professor of Civil Law">John Brown Douglas</a> (c. 1855 – 1935), British Professor of Roman Law</li>
-<li><a href="/wiki/Lori_Douglas" title="Lori Douglas">Lori Douglas</a>, Manitoba judge</li>
-<li><a href="/wiki/Robert_Dick_Douglas" title="Robert Dick Douglas">Robert Dick Douglas</a> (1875–1960), American lawyer and son of Robert M. Douglas</li>
-<li><a href="/wiki/Robert_M._Douglas" title="Robert M. Douglas">Robert M. Douglas</a> (1849–1917), American judge, North Carolina Supreme Court justice</li>
-<li><a href="/wiki/Samuel_Douglas" title="Samuel Douglas">Samuel Douglas</a> (1781–1833), Pennsylvania lawyer and state Attorney General</li>
-<li><a href="/wiki/Wallace_B._Douglas" title="Wallace B. Douglas">Wallace B. Douglas</a> (1852–1930), American judge, Minnesota Supreme Court justice and Minnesota Attorney General</li>
-<li><a href="/wiki/William_O._Douglas" title="William O. Douglas">William O. Douglas</a> (1898–1980), American Associate Justice of the Supreme Court</li></ul>
-<h2><span class="mw-headline" id="Military">Military</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Douglas_(surname)&amp;action=edit&amp;section=7" title="Edit section: Military">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li>Captain <a href="/wiki/Andrew_Snape_Douglas" title="Andrew Snape Douglas">Andrew Snape Douglas</a> (1761–1797), Scottish sea captain in the Royal Navy</li>
-<li>Sir <a href="/wiki/Archibald_Lucius_Douglas" title="Archibald Lucius Douglas">Archibald Lucius Douglas</a> (1842–1913), Canadian officer of the British Navy</li>
-<li>Lt. Col. <a href="/wiki/Campbell_Mellis_Douglas" title="Campbell Mellis Douglas">Campbell Mellis Douglas</a> (1840–1909), Canadian recipient of the Victoria Cross</li>
-<li>Rear-Admiral <a href="/wiki/Charles_Douglas_(admiral)" class="mw-redirect" title="Charles Douglas (admiral)">Sir Charles Douglas</a>, 1st Baronet of Carr, officer in the Royal Navy</li>
-<li>General Sir <a href="/wiki/Charles_W._H._Douglas" title="Charles W. H. Douglas">Charles W. H. Douglas</a> (1850–1914), Chief of the Imperial General Staff (CIGS)</li>
-<li><a href="/wiki/Henry_Kyd_Douglas" title="Henry Kyd Douglas">Henry Kyd Douglas</a> (1838–1903), Confederate States Army officer</li>
-<li>General Sir <a href="/wiki/Howard_Douglas" title="Howard Douglas">Howard Douglas</a> (1776–1861), British general and colonial administrator</li>
-<li>Sir <a href="/wiki/James_Douglas,_Lord_of_Douglas" title="James Douglas, Lord of Douglas">James Douglas, Lord of Douglas</a> (James 'the Good', 1286–1330), Scottish soldier and knight in the Scottish wars of independence</li>
-<li>Sir <a href="/wiki/James_Douglas,_1st_Baronet" class="mw-redirect" title="James Douglas, 1st Baronet">James Douglas, 1st Baronet</a> (1703–1787), Commodore for Newfoundland and Labrador</li></ul>
-<ul><li><a href="/wiki/James_H._Douglas,_Jr." class="mw-redirect" title="James H. Douglas, Jr.">James H. Douglas, Jr.</a> (1899–1988), United States Secretary of the Air Force and United States Deputy Secretary of Defense</li>
-<li><a href="/wiki/James_Postell_Douglas" title="James Postell Douglas">James Postell Douglas</a>: Confederate Captain  of the <i>First Texas Artillery Battery</i>, farmer, founder of the Tyler Tap Railroad, and president of the <i>Texas and Gulf Short Line Railroad</i></li>
-<li><a href="/wiki/Lord_James_Douglas" title="Lord James Douglas">Lord James Douglas</a> (1617–1645), son of the 1st Marquess of Douglas</li>
-<li>Sir <a href="/wiki/John_Douglas_(Royal_Marines_officer)" title="John Douglas (Royal Marines officer)">John Douglas</a> (died 1814), Royal Marine officer</li>
-<li>Admiral <a href="/wiki/John_Erskine_Douglas" title="John Erskine Douglas">John Erskine Douglas</a> (c. 1758–1847), British naval officer</li>
-<li>Major-General <a href="/wiki/John_Primrose_Douglas" title="John Primrose Douglas">John Primrose Douglas</a> (1908-1975), Honorary Surgeon to the Queen</li>
-<li>Lieutenant-General <a href="/wiki/Sir_Kenneth_Douglas,_1st_Baronet" class="mw-redirect" title="Sir Kenneth Douglas, 1st Baronet">Sir Kenneth MacKenzie Douglas, 1st Baronet of Glenbervie</a> (1754–1833) born Kenneth MacKenzie</li>
-<li><a href="/wiki/Douglas_of_Mains#Matthew_Douglas.2C_7th_Laird_of_Mains" title="Douglas of Mains">Matthew Douglas, 7th Laird of Mains</a> (c. 1519 – after 1571), Scottish soldier</li>
-<li>Lt. Col. <a href="/wiki/Montagu_William_Douglas" title="Montagu William Douglas">Montagu William Douglas</a> (1863-1957), British soldier and colonial administrator in India</li>
-<li>Lt. General Sir <a href="/wiki/Neil_Douglas" title="Neil Douglas">Neil Douglas</a> (1779/80–1853)</li>
-<li>Vice-Admiral Sir <a href="/wiki/Percy_Douglas" title="Percy Douglas">Percy Douglas</a> (1876–1939), British naval officer, Hydrographer of the Navy</li>
-<li>Admiral <a href="/wiki/Peter_John_Douglas" title="Peter John Douglas">Peter John Douglas</a> (1787–1858), British naval officer</li>
-<li>Admiral <a href="/wiki/Robert_Douglas_(Royal_Navy_officer)" title="Robert Douglas (Royal Navy officer)">Robert Gordon Douglas</a> (1829 – 1910), British Royal Navy officer, Admiral Superintendent of Malta Dockyard in 1887.</li>
-<li>Field Marshal <a href="/wiki/Robert_Douglas_(1727%E2%80%931809)" title="Robert Douglas (1727–1809)">Robert Douglas</a> (1727-1809), Scottish-born career soldier and field marshal of the Netherlands</li>
-<li>Marshal of the Royal Air Force <a href="/wiki/Sholto_Douglas,_1st_Baron_Douglas_of_Kirtleside" title="Sholto Douglas, 1st Baron Douglas of Kirtleside">Sholto Douglas, 1st Baron Douglas of Kirtleside</a> (1893–1969), British air force officer</li>
-<li>Brigadier General Sir <a href="/wiki/Thomas_Monteath_Douglas" title="Thomas Monteath Douglas">Thomas Monteath Douglas</a> (1788–1868), an army officer in the East India Company</li>
-<li>Col. <a href="/wiki/William_Douglas_of_Balgillo" title="William Douglas of Balgillo">William Douglas of Balgillo</a> (<i><a href="/wiki/Circa" title="Circa">c.</a></i> 1778–1818), a British Army officer during the <a href="/wiki/Napoleonic_Wars" title="Napoleonic Wars">Napoleonic Wars</a></li>
-<li><a href="/wiki/Annie_Laurie#William_Douglas" title="Annie Laurie">William Douglas of Fingland</a> (1672 – c. 1760), Scottish soldier</li>
-<li>Brigadier-General <a href="/wiki/William_Douglas_of_Kirkness" title="William Douglas of Kirkness">William Douglas of Kirkness</a> (c. 1690 – 1747), a Member of Parliament and a soldier.</li>
-<li><a href="/w/index.php?title=David_Douglas_of_St_Vigeans,_Angus&amp;action=edit&amp;redlink=1" class="new" title="David Douglas of St Vigeans, Angus (page does not exist)">David Douglas of St Vigeans, Angus</a> (1777 – c. 1855) Driver, Royal Artillery Corps from 1794 to 1815. Served 20 years in East or West India Services.</li>
-<li><a href="/wiki/Alan_George_Sholto_Douglas-Pennant" title="Alan George Sholto Douglas-Pennant">Alan George Sholto Douglas-Pennant</a> (1890-1914, British nobleman and army officer</li>
-<li>Lt. Col. <a href="/wiki/Angus_Falconer_Douglas-Hamilton" class="mw-redirect" title="Angus Falconer Douglas-Hamilton">Angus Falconer Douglas-Hamilton</a> (1863–1915), Scottish soldier and posthumous recipient of the Victoria Cross</li>
-<li>Admiral <a href="/wiki/Lord_Charles_Montagu_Douglas_Scott" title="Lord Charles Montagu Douglas Scott">Lord Charles Montagu Douglas Scott</a> (1839–1911), Commander-in-Chief, Plymouth.</li>
-<li>Admiral The Honourable Sir <a href="/wiki/Cyril_Douglas-Pennant" title="Cyril Douglas-Pennant">Cyril Douglas-Pennant</a> (1894–1961), Royal Navy officer who went on to be Commander-in-Chief, The Nore</li>
-<li>General Count <a href="/wiki/Archibald_Douglas_(1883%E2%80%931960)" title="Archibald Douglas (1883–1960)">Archibald Douglas-Stjernorp</a>, Swedish military</li>
-<li><a href="/wiki/Violet_Douglas-Pennant" title="Violet Douglas-Pennant">Violet Douglas-Pennant</a> (1865–1945), British philanthropist and commandant of the Women's Royal Air Force</li></ul>
-<h2><span class="mw-headline" id="Nobility">Nobility</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Douglas_(surname)&amp;action=edit&amp;section=8" title="Edit section: Nobility">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
-<ul><li><a href="/wiki/Agnes_Douglas,_Countess_of_Argyll" title="Agnes Douglas, Countess of Argyll">Agnes Douglas, Countess of Argyll</a> (1574–1607), Scottish noblewoman</li>
-<li><a href="/wiki/Archibald_I,_Lord_of_Douglas" title="Archibald I, Lord of Douglas">Archibald I, Lord of Douglas</a> (died c. 1238), Scottish nobleman</li>
-<li>Sir <a href="/wiki/Archibald_Douglas_(died_1333)" title="Archibald Douglas (died 1333)">Archibald Douglas (died 1333)</a> (k. 1333), Guardian of Scotland, leader of Scots army at Halidon Hill</li>
-<li><a href="/wiki/Archibald_Douglas,_1st_Duke_of_Douglas" title="Archibald Douglas, 1st Duke of Douglas">Archibald Douglas, 1st Duke of Douglas</a> (1694–1761), Scottish nobleman</li>
-<li><a href="/wiki/Archibald_Douglas,_1st_Earl_of_Forfar" title="Archibald Douglas, 1st Earl of Forfar">Archibald Douglas, 1st Earl of Forfar</a> (1653–1712), Scottish peer</li>
-<li><a href="/wiki/Archibald_Douglas,_1st_Earl_of_Ormond" title="Archibald Douglas, 1st Earl of Ormond">Archibald Douglas, 1st Earl of Ormond</a> (1609–1655), Scottish Earl of Angus</li>
-<li><a href="/wiki/Archibald_Douglas,_2nd_Earl_of_Forfar" title="Archibald Douglas, 2nd Earl of Forfar">Archibald Douglas, 2nd Earl of Forfar</a> (1692-1715</li>
-<li><a href="/wiki/Archibald_Douglas,_3rd_Earl_of_Douglas" title="Archibald Douglas, 3rd Earl of Douglas">Archibald Douglas, 3rd Earl of Douglas</a> (Archibald the Grim, c. 1328 – 1400), Scottish nobleman</li>
-<li><a href="/wiki/Archibald_Douglas,_4th_Earl_of_Douglas" title="Archibald Douglas, 4th Earl of Douglas">Archibald Douglas, 4th Earl of Douglas</a> (1372–1424), Scottish nobleman and warlord, Duke of Touraine</li>
-<li><a href="/wiki/Archibald_Douglas,_5th_Earl_of_Douglas" title="Archibald Douglas, 5th Earl of Douglas">Archibald Douglas, 5th Earl of Douglas</a> (1390–1439), Scottish nobleman, <i>de jure</i> Duke of Touraine</li>
-<li><a href="/wiki/Archibald_Douglas,_5th_Earl_of_Angus" title="Archibald Douglas, 5th Earl of Angus">Archibald Douglas, 5th Earl of Angus</a> (1453–1514), warden of the east marches</li>
-<li><a href="/wiki/Archibald_Douglas,_6th_Earl_of_Angus" title="Archibald Douglas, 6th Earl of Angus">Archibald Douglas, 6th Earl of Angus</a> (1490–1557)</li>
-<li><a href="/wiki/Archibald_Douglas,_8th_Earl_of_Angus" title="Archibald Douglas, 8th Earl of Angus">Archibald Douglas, 8th Earl of Angus</a> and 5th Earl of Morton (1556–1588)</li>
-<li><a href="/wiki/Archibald_Douglas,_8th_Marquess_of_Queensberry" title="Archibald Douglas, 8th Marquess of Queensberry">Archibald Douglas, 8th Marquess of Queensberry</a> (1818–1858)</li>
-<li><a href="/wiki/Archibald_Douglas_of_Glenbervie" title="Archibald Douglas of Glenbervie">Archibald Douglas of Glenbervie</a>, Scottish nobleman</li>
-<li><a href="/wiki/Archibald_Douglas_of_Kilspindie" title="Archibald Douglas of Kilspindie">Archibald Douglas of Kilspindie</a> (1475–1536), known as Greysteil</li>
-<li><a href="/wiki/Andrew_Douglas_of_Hermiston" title="Andrew Douglas of Hermiston">Andrew Douglas of Hermiston</a> (died before 1277)</li>
-<li><a href="/wiki/Charles_Douglas,_5th_Lord_Mordington" title="Charles Douglas, 5th Lord Mordington">Charles Douglas, 5th Lord Mordington</a> (died after 1746)</li>
-<li><a href="/wiki/Charles_Douglas,_6th_Marquess_of_Queensberry" title="Charles Douglas, 6th Marquess of Queensberry">Charles Douglas, 6th Marquess of Queensberry</a> (1777–1837), great-great-great-great-grandson of the 1st Earl of Queensberry</li>
-<li><a href="/wiki/Charles_Douglas,_3rd_Duke_of_Queensberry" title="Charles Douglas, 3rd Duke of Queensberry">Charles Douglas, 3rd Duke of Queensberry</a> and 2nd Duke of Dover (1698–1778)</li>
-<li><a href="/wiki/David_Douglas,_7th_Earl_of_Angus" title="David Douglas, 7th Earl of Angus">David Douglas, 7th Earl of Angus</a> (c. 1515 – 1558), grandson of George, Master of Douglas</li>
-<li><a href="/wiki/David_Douglas,_12th_Marquess_of_Queensberry" title="David Douglas, 12th Marquess of Queensberry">David Douglas, 12th Marquess of Queensberry</a> (born 1929)</li>
-<li><a href="/wiki/Dunbar_Douglas,_4th_Earl_of_Selkirk" title="Dunbar Douglas, 4th Earl of Selkirk">Dunbar Douglas, 4th Earl of Selkirk</a> (1722–1799), grandnephew of 3rd Earl of Selkirk</li>
-<li><a href="/wiki/Dunbar_Douglas,_6th_Earl_of_Selkirk" title="Dunbar Douglas, 6th Earl of Selkirk">Dunbar Douglas, 6th Earl of Selkirk</a> (1809–1885)</li>
-<li><a href="/wiki/Frances_Douglas,_Lady_Douglas" title="Frances Douglas, Lady Douglas">Frances Douglas, Lady Douglas</a> (1750-1817), wife of Archibald Douglas, 1st Baron Douglas</li>
-<li><a href="/wiki/Francis_Douglas,_11th_Marquess_of_Queensberry" title="Francis Douglas, 11th Marquess of Queensberry">Francis Douglas, 11th Marquess of Queensberry</a> (1896–1954), son of the 10th Marquess of Queensberry</li>
-<li><a href="/wiki/George_Douglas,_1st_Earl_of_Angus" title="George Douglas, 1st Earl of Angus">George Douglas, 1st Earl of Angus</a> (1378–1402)</li>
-<li><a href="/wiki/George_Douglas,_4th_Earl_of_Angus" title="George Douglas, 4th Earl of Angus">George Douglas, 4th Earl of Angus</a> (1429–1462)</li>
-<li><a href="/wiki/George_Douglas,_Master_of_Angus" title="George Douglas, Master of Angus">George Douglas, Master of Angus</a> (1469–1513)</li>
-<li><a href="/wiki/George_Douglas,_13th_Earl_of_Morton" title="George Douglas, 13th Earl of Morton">George Douglas, 13th Earl of Morton</a> (1662–1738), younger brother of the 12th Earl of Morton</li>
-<li><a href="/wiki/George_Douglas,_16th_Earl_of_Morton" title="George Douglas, 16th Earl of Morton">George Douglas, 16th Earl of Morton</a> (1761–1827)</li>
-<li><a href="/wiki/George_Douglas,_17th_Earl_of_Morton" title="George Douglas, 17th Earl of Morton">George Douglas, 17th Earl of Morton</a> (1789–1858), grandson of the 14th Earl of Morton</li>
-<li><a href="/wiki/Henry_Douglas,_Earl_of_Drumlanrig" title="Henry Douglas, Earl of Drumlanrig">Henry Douglas, Earl of Drumlanrig</a> (1722.1754), son of Charles Douglas, 3rd Duke of Queensberry, 2nd Duke of Dover and a soldier</li>
-<li><a href="/wiki/Hugh_the_Dull,_Lord_of_Douglas" title="Hugh the Dull, Lord of Douglas">Hugh the Dull, Lord of Douglas</a> (1294–1342/1346)</li>
-<li><a href="/wiki/James_Douglas,_2nd_Earl_of_Douglas" title="James Douglas, 2nd Earl of Douglas">James Douglas, 2nd Earl of Douglas</a> (1358–1388), influential lord in the Kingdom of Scotland</li>
-<li><a href="/wiki/James_Douglas,_7th_Earl_of_Douglas" title="James Douglas, 7th Earl of Douglas">James Douglas, 7th Earl of Douglas</a> (1371–1443)</li>
-<li><a href="/wiki/James_Douglas,_1st_Lord_Dalkeith" title="James Douglas, 1st Lord Dalkeith">James Douglas, 1st Lord Dalkeith</a> (born after 1372, died before 22 May 1441)</li>
-<li><a href="/wiki/James_Douglas,_9th_Earl_of_Douglas" title="James Douglas, 9th Earl of Douglas">James Douglas, 9th Earl of Douglas</a> (1426–1488)</li>
-<li><a href="/wiki/James_Douglas,_1st_Earl_of_Morton" title="James Douglas, 1st Earl of Morton">James Douglas, 1st Earl of Morton</a> (died 1493)</li>
-<li><a href="/wiki/James_Douglas,_3rd_Earl_of_Angus" title="James Douglas, 3rd Earl of Angus">James Douglas, 3rd Earl of Angus</a> (1426)–1446</li>
-<li><a href="/wiki/James_Douglas,_3rd_Earl_of_Morton" title="James Douglas, 3rd Earl of Morton">James Douglas, 3rd Earl of Morton</a> (died 1548)</li>
-<li><a href="/wiki/James_Douglas,_7th_Baron_Drumlanrig" class="mw-redirect" title="James Douglas, 7th Baron Drumlanrig">James Douglas, 7th Baron Drumlanrig</a> (died 1578), son of the 6th Baron Drumlanrig</li>
-<li><a href="/wiki/James_Douglas,_4th_Earl_of_Morton" title="James Douglas, 4th Earl of Morton">James Douglas, 4th Earl of Morton</a> (c. 1525 – 1581), younger brother of 7th Earl of Angus; the last of the four regents of Scotland during the minority of King James VI</li>
-<li><a href="/wiki/James_Douglas,_2nd_Marquess_of_Douglas" title="James Douglas, 2nd Marquess of Douglas">James Douglas, 2nd Marquess of Douglas</a> (1646–1699)</li>
-<li><a href="/wiki/James_Douglas,_3rd_Marquess_of_Queensberry" title="James Douglas, 3rd Marquess of Queensberry">James Douglas, 3rd Marquess of Queensberry</a> (1697–1715), lunatic and cannibal</li>
-<li><a href="/wiki/James_Douglas,_Earl_of_Angus" title="James Douglas, Earl of Angus">James Douglas, Earl of Angus</a> (1671–1692), Scottish nobleman and soldier, son of the previous</li>
-<li><a href="/wiki/James_Douglas,_2nd_Duke_of_Queensberry" title="James Douglas, 2nd Duke of Queensberry">James Douglas, 2nd Duke of Queensberry</a> and 1st Duke of Dover (1662–1711)</li>
-<li><a href="/wiki/James_Douglas,_14th_Earl_of_Morton" title="James Douglas, 14th Earl of Morton">James Douglas, 14th Earl of Morton</a> (c. 1703 – 1768)</li>
-<li><a href="/wiki/John_Douglas,_2nd_Earl_of_Morton" title="John Douglas, 2nd Earl of Morton">John Douglas, 2nd Earl of Morton</a> (died 1513)</li>
-<li><a href="/wiki/John_Douglas,_7th_Marquess_of_Queensberry" title="John Douglas, 7th Marquess of Queensberry">John Douglas, 7th Marquess of Queensberry</a> (1779–1856), younger brother of the 6th Marquess of Queensberry</li>
-<li><a href="/wiki/John_Douglas,_9th_Marquess_of_Queensberry" title="John Douglas, 9th Marquess of Queensberry">John Douglas, 9th Marquess of Queensberry</a> (1844–1900), Scottish nobleman</li>
-<li><a href="/wiki/John_Douglas,_21st_Earl_of_Morton" title="John Douglas, 21st Earl of Morton">John Douglas, 21st Earl of Morton</a> (1927–2016), grandson of the 19th Earl of Morton</li>
-<li><a href="/wiki/John_Douglas,_Lord_of_Balvenie" title="John Douglas, Lord of Balvenie">John Douglas, Lord of Balvenie</a> (c. 1433–1463),  son of James Douglas, 7th Earl of Douglas</li>
-<li><a href="/wiki/Douglas_of_Mains#Margaret.2C_Duchess_of_Douglas" title="Douglas of Mains">Margaret, Duchess of Douglas</a></li>
-<li><a href="/wiki/Margaret_Douglas" title="Margaret Douglas">Margaret Douglas</a> (1515–1578), the daughter of Archibald Douglas, 6th Earl of Angus, and Margaret Tudor</li>
-<li><a href="/wiki/Margaret_Douglas,_Fair_Maid_of_Galloway" title="Margaret Douglas, Fair Maid of Galloway">Margaret Douglas, Fair Maid of Galloway</a> (died c. 1474),  Scottish noblewoman, a member of the Black Douglas family</li>
-<li><a href="/wiki/Percy_Douglas,_10th_Marquess_of_Queensberry" title="Percy Douglas, 10th Marquess of Queensberry">Percy Douglas, 10th Marquess of Queensberry</a> (1868–1920), son of the 9th Marquess of Queensberry</li>
-<li><a href="/wiki/Robert_Douglas,_8th_Earl_of_Morton" title="Robert Douglas, 8th Earl of Morton">Robert Douglas, 8th Earl of Morton</a> (died 1649), son of the 7th Earl of Morton</li>
-<li><a href="/wiki/Douglas_of_Mains#Robert_Douglas.2C_Viscount_Belhaven" title="Douglas of Mains">Robert Douglas, Viscount Belhaven</a>(executed 1584), Gentlemen of the Bedchamber</li>
-<li><a href="/wiki/Sholto_Douglas" title="Sholto Douglas">Sholto Douglas</a> (d.unknown), mythical progenitor of the <a href="/wiki/House_of_Douglas" class="mw-redirect" title="House of Douglas">House of Douglas</a></li>
-<li><a href="/wiki/Sholto_Douglas,_19th_Earl_of_Morton" title="Sholto Douglas, 19th Earl of Morton">Sholto Douglas, 19th Earl of Morton</a> (1844–1935), son of the 18th Earl of Morton</li>
-<li><a href="/wiki/Sholto_Douglas,_15th_Earl_of_Morton" title="Sholto Douglas, 15th Earl of Morton">Sholto Douglas, 15th Earl of Morton</a> (1732–1774)</li>
-<li><a href="/wiki/Stewart_Douglas,_22nd_Earl_of_Morton" title="Stewart Douglas, 22nd Earl of Morton">Stewart Sholto Douglas, 22nd Earl of Morton</a> (born 1952)</li>
-<li><a href="/wiki/Thomas_Douglas,_5th_Earl_of_Selkirk" title="Thomas Douglas, 5th Earl of Selkirk">Thomas Douglas, 5th Earl of Selkirk</a> (1771–1820), Scottish philanthropist who sponsored immigrant settlements in Canada</li>
-<li><a href="/wiki/William_I,_Lord_of_Douglas" title="William I, Lord of Douglas">William I, Lord of Douglas</a> (died c. 1214)</li>
-<li><a href="/wiki/William_Longleg,_Lord_of_Douglas" title="William Longleg, Lord of Douglas">William Longleg, Lord of Douglas</a> (c. 1220 – c. 1274), Scoto-Norman nobleman</li>
-<li><a href="/wiki/William_the_Hardy,_Lord_of_Douglas" title="William the Hardy, Lord of Douglas">William the Hardy, Lord of Douglas</a> (c. 1240 – 1299), Governor of Berwick Castle, Scottish warrior and freedom-fighter</li>
-<li><a href="/wiki/William_IV,_Lord_of_Douglas" title="William IV, Lord of Douglas">William IV, Lord of Douglas</a> (died 1333)</li>
-<li><a href="/wiki/William_Douglas,_Lord_of_Liddesdale" title="William Douglas, Lord of Liddesdale">William Douglas, Lord of Liddesdale</a> (c. 1300 – 1353)</li>
-<li><a href="/wiki/William_Douglas,_1st_Earl_of_Douglas" title="William Douglas, 1st Earl of Douglas">William Douglas, 1st Earl of Douglas</a> (died 1384)</li>
-<li><a href="/wiki/William_Douglas,_1st_Baron_Drumlanrig" class="mw-redirect" title="William Douglas, 1st Baron Drumlanrig">William Douglas, 1st Baron Drumlanrig</a> (died 1427), illegitimate son of the 2nd Earl of Douglas</li>
-<li><a href="/wiki/William_Douglas,_2nd_Earl_of_Angus" title="William Douglas, 2nd Earl of Angus">William Douglas, 2nd Earl of Angus</a> (c. 1398 – 1437)</li>
-<li><a href="/wiki/William_Douglas,_6th_Earl_of_Douglas" title="William Douglas, 6th Earl of Douglas">William Douglas, 6th Earl of Douglas</a> (c. 1424 – 1440)</li>
-<li><a href="/wiki/William_Douglas,_8th_Earl_of_Douglas" title="William Douglas, 8th Earl of Douglas">William Douglas, 8th Earl of Douglas</a> (1425–1452)</li>
-<li><a href="/wiki/William_Douglas,_9th_Earl_of_Angus" title="William Douglas, 9th Earl of Angus">William Douglas, 9th Earl of Angus</a> (died 1571)</li>
-<li><a href="/wiki/William_Douglas,_6th_Earl_of_Morton" title="William Douglas, 6th Earl of Morton">William Douglas, 6th Earl of Morton</a> (1540–1606)</li>
-<li><a href="/wiki/William_Douglas,_9th_Earl_of_Morton" title="William Douglas, 9th Earl of Morton">William Douglas, 9th Earl of Morton</a> (died bef 1 Nov 1681)</li>
-<li><a href="/wiki/William_Douglas,_10th_Earl_of_Angus" title="William Douglas, 10th Earl of Angus">William Douglas, 10th Earl of Angus</a> (1553–1611)</li>
-<li><a href="/wiki/William_Douglas,_1st_Earl_of_Queensberry" title="William Douglas, 1st Earl of Queensberry">William Douglas, 1st Earl of Queensberry</a> (c. 1582–1640)</li>
-<li><a href="/wiki/William_Douglas,_7th_Earl_of_Morton" title="William Douglas, 7th Earl of Morton">William Douglas, 7th Earl of Morton</a> (1582–1648)</li>
-<li><a href="/wiki/William_Douglas,_1st_Marquess_of_Douglas" title="William Douglas, 1st Marquess of Douglas">William Douglas, 1st Marquess of Douglas</a> (1590–1660), son of the 10th Earl of Angus</li>
-<li><a href="/wiki/William_Douglas,_1st_Duke_of_Queensberry" title="William Douglas, 1st Duke of Queensberry">William Douglas, 1st Duke of Queensberry</a> (1637–1695), Scottish politician</li>
-<li><a href="/wiki/William_Douglas,_4th_Duke_of_Queensberry" title="William Douglas, 4th Duke of Queensberry">William Douglas, 4th Duke of Queensberry</a> (1724–1810), son of 2nd Earl of March</li>
-<li><a href="/wiki/William_Douglas_of_Cluny" title="William Douglas of Cluny">William Douglas of Cluny</a> (c. 1428 – c. 1475), guardian to King James III of Scotland</li>
-<li><a href="/wiki/William_Douglas_of_Glenbervie" title="William Douglas of Glenbervie">William Douglas of Glenbervie</a> (c. 1473 – 1513)</li>
-<li><a href="/wiki/Alexander_Douglas-Hamilton,_10th_Duke_of_Hamilton" class="mw-redirect" title="Alexander Douglas-Hamilton, 10th Duke of Hamilton">Alexander Douglas-Hamilton, 10th Duke of Hamilton</a> (1767–1852), Scottish politician</li>
-<li><a href="/wiki/Angus_Douglas-Hamilton,_15th_Duke_of_Hamilton" title="Angus Douglas-Hamilton, 15th Duke of Hamilton">Angus Douglas-Hamilton, 15th Duke of Hamilton</a> (1938–2010)</li>
-<li><a href="/wiki/Alexander_Douglas-Hamilton,_16th_Duke_of_Hamilton" title="Alexander Douglas-Hamilton, 16th Duke of Hamilton">Alexander Douglas-Hamilton, 16th Duke of Hamilton</a> (born 1978)</li>
-<li><a href="/wiki/Alfred_Douglas-Hamilton,_13th_Duke_of_Hamilton" title="Alfred Douglas-Hamilton, 13th Duke of Hamilton">Alfred Douglas-Hamilton, 13th Duke of Hamilton</a> and 9th Earl of Selkirk (1862–1940)</li>
-<li><a href="/wiki/Douglas_Douglas-Hamilton,_8th_Duke_of_Hamilton" class="mw-redirect" title="Douglas Douglas-Hamilton, 8th Duke of Hamilton">Douglas Douglas-Hamilton, 8th Duke of Hamilton</a> (1756–1799)</li>
-<li><a href="/wiki/Douglas_Douglas-Hamilton,_14th_Duke_of_Hamilton" title="Douglas Douglas-Hamilton, 14th Duke of Hamilton">Douglas Douglas-Hamilton, 14th Duke of Hamilton</a> (1903–1973), aviator, politician and landowner</li>
-<li><a href="/wiki/Frank_Douglas-Pennant,_5th_Baron_Penrhyn" title="Frank Douglas-Pennant, 5th Baron Penrhyn">Frank Douglas-Pennant, 5th Baron Penrhyn</a> (1865-1967)*</li>
-<li><a href="/wiki/George_Douglas-Hamilton,_10th_Earl_of_Selkirk" title="George Douglas-Hamilton, 10th Earl of Selkirk">George Douglas-Hamilton, 10th Earl of Selkirk</a> (1906–1994), younger son of the 13th Duke of Hamilton</li>
-<li><a href="/wiki/George_Douglas-Pennant,_2nd_Baron_Penrhyn" title="George Douglas-Pennant, 2nd Baron Penrhyn">George Douglas-Pennant, 2nd Baron Penrhyn</a> (1836–1907), landowner who played a prominent part in the Welsh slate industry</li>
-<li><a href="/wiki/Hugh_Douglas-Pennant,_4th_Baron_Penrhyn" title="Hugh Douglas-Pennant, 4th Baron Penrhyn">Hugh Douglas-Pennant, 4th Baron Penrhyn</a> (1894-1949)</li>
-<li><a href="/wiki/James_Douglas-Hamilton,_Baron_Selkirk_of_Douglas" title="James Douglas-Hamilton, Baron Selkirk of Douglas">James Douglas-Hamilton, Baron Selkirk of Douglas</a> (briefly 11th Earl of Selkirk) (born 1942), younger son of the 14th Duke of Hamilton and Brandon</li>
-<li><a href="/wiki/Malcolm_Douglas-Pennant,_6th_Baron_Penrhyn" title="Malcolm Douglas-Pennant, 6th Baron Penrhyn">Malcolm Douglas-Pennant, 6th Baron Penrhyn</a> (1908–2003), Welsh peer, soldier, rifleman, and farmer</li>
-<li><a href="/wiki/Mary_Victoria_Douglas-Hamilton" class="mw-redirect" title="Mary Victoria Douglas-Hamilton">Lady Mary Victoria Douglas-Hamilton</a> (1850–1922)</li>
-<li><a href="/wiki/Muriel_Douglas-Pennant" class="mw-redirect" title="Muriel Douglas-Pennant">Muriel Douglas-Pennant</a> (1869–1962), Speaker of the House of Commons</li>
-<li><a href="/wiki/Nina_Douglas-Hamilton,_Duchess_of_Hamilton" title="Nina Douglas-Hamilton, Duchess of Hamilton">Nina Douglas-Hamilton, Duchess of Hamilton</a> and Brandon (1878–1951), the daughter of Major Robert Poore</li>
-<li><a href="/wiki/William_Douglas-Hamilton,_Duke_of_Hamilton" class="mw-redirect" title="William Douglas-Hamilton, Duke of Hamilton">William Douglas-Hamilton, Duke of Hamilton</a> and 1st Earl of Selkirk (1635–1694)</li>
-<li><a href="/wiki/William_Douglas-Hamilton,_12th_Duke_of_Hamilton" title="William Douglas-Hamilton, 12th Duke of Hamilton">William Douglas-Hamilton, 12th Duke of Hamilton</a> and 8th Earl of Selkirk (1845–1895)</li>
-<li><a href="/wiki/David_Douglas-Home,_15th_Earl_of_Home" title="David Douglas-Home, 15th Earl of Home">David Douglas-Home, 15th Earl of Home</a> (born 1943), heir general to the House of Douglas</li>
-<li><a href="/wiki/Cospatrick_Douglas-Home,_11th_Earl_of_Home" title="Cospatrick Douglas-Home, 11th Earl of Home">Cospatrick Douglas-Home, 11th Earl of Home</a> (1799–1881), Scottish diplomat and politician</li>
-<li><a href="/wiki/Rachel_Douglas-Home,_27th_Baroness_Dacre" title="Rachel Douglas-Home, 27th Baroness Dacre">Rachel Douglas-Home, 27th Baroness Dacre</a> (1929–2012), English peeress</li>
-<li><a href="/wiki/James_Hamilton,_4th_Duke_of_Hamilton" title="James Hamilton, 4th Duke of Hamilton">James Hamilton, 4th Duke of Hamilton</a> (1658–1712), eldest son of William Douglas, Duke of Hamilton and his wife Anne</li>
-<li><a href="/wiki/Henry_John_Douglas-Scott-Montagu,_1st_Baron_Montagu_of_Beaulieu" class="mw-redirect" title="Henry John Douglas-Scott-Montagu, 1st Baron Montagu of Beaulieu">Henry John Douglas-Scott-Montagu, 1st Baron Montagu of Beaulieu</a> 1832=1905</li>
-<li><a href="/wiki/Princess_Alice,_Duchess_of_Gloucester" title="Princess Alice, Duchess of Gloucester">Alice Christabel Montagu Douglas Scott</a> (1901–2004), Princess Alice, Duchess of Gloucester</li>
-<li><a href="/wiki/Louisa_Montagu_Douglas_Scott,_Duchess_of_Buccleuch" title="Louisa Montagu Douglas Scott, Duchess of Buccleuch">Louisa Montagu Douglas Scott, Duchess of Buccleuch</a> 1836–1912, wife of 6th Duke of Buccleuch</li>
-<li><a href="/wiki/Mary_Montagu_Douglas_Scott,_Duchess_of_Buccleuch" title="Mary Montagu Douglas Scott, Duchess of Buccleuch">Mary Montagu Douglas Scott, Duchess of Buccleuch</a> (1900–1993), wife of 8th Duke of Buccleuch</li>
-<li><a href="/wiki/Richard_Scott,_10th_Duke_of_Buccleuch" title="Richard Scott, 10th Duke of Buccleuch">Richard Walter John Montagu Douglas Scott, 10th Duke of Buccleuch</a> (Born 1954)</li>
-<li><a href="/wiki/Simon_Douglas-Pennant,_7th_Baron_Penrhyn" title="Simon Douglas-Pennant, 7th Baron Penrhyn">Simon Douglas-Pennant, 7th Baron Penrhyn</a>, (Born 1938)</li>
-<li><a href="/wiki/Walter_Montagu_Douglas_Scott,_5th_Duke_of_Buccleuch" title="Walter Montagu Douglas Scott, 5th Duke of Buccleuch">Walter Montagu Douglas Scott, 5th Duke of Buccleuch</a> (1806–1884), British politician and nobleman</li>
-<li><a href="/wiki/Walter_Montagu_Douglas_Scott,_8th_Duke_of_Buccleuch" title="Walter Montagu Douglas Scott, 8th Duke of Buccleuch">Walter Montagu Douglas Scott, 8th Duke of Buccleuch</a> (1894–1973), a politician and Conservative peer</li></ul>
-</div>
-<h2><span class="mw-headline" id="Politics">Politics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Douglas_(surname)&amp;action=edit&amp;section=9" title="Edit section: Politics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
-<ul><li>Sir <a href="/wiki/Adye_Douglas" title="Adye Douglas">Adye Douglas</a> (1815–1906), Australian lawyer and politician, and first class cricket player</li>
-<li><a href="/wiki/Albert_B._Douglas" title="Albert B. Douglas">Albert B. Douglas</a> (1912–1971), Canadian MP</li>
-<li><a href="/wiki/Alec_Douglas-Home" title="Alec Douglas-Home">Alec Douglas-Home</a> (1903–1995), British baron, politician, and prime minister</li>
-<li><a href="/wiki/Alexander_Douglas_(Orkney_and_Shetland)" class="mw-redirect" title="Alexander Douglas (Orkney and Shetland)">Alexander Douglas (Orkney and Shetland)</a>, MP for Orkney and Shetland, Scotland</li>
-<li><a href="/wiki/Archibald_Douglas,_1st_Baron_Douglas" title="Archibald Douglas, 1st Baron Douglas">Archibald Douglas, 1st Baron Douglas</a> (1748–1827), Member of Parliament for Forfarshire</li>
-<li><a href="/wiki/Archibald_Douglas,_13th_of_Cavers" title="Archibald Douglas, 13th of Cavers">Archibald Douglas, 13th of Cavers</a> (died 1741), Receiver-general for Scotland and MP for Dumfries Burghs</li>
-<li><a href="/wiki/Archibald_Douglas_(1707-1778)" class="mw-redirect" title="Archibald Douglas (1707-1778)">Archibald Douglas (1707-1778)</a> (Lt Gen Archibald Douglas of Kirkton), MP for Dumfriesshire, Scotland</li>
-<li><a href="/wiki/Benjamin_Douglas" title="Benjamin Douglas">Benjamin Douglas</a> (1816–1894), Lieutenant Governor of Connecticut</li>
-<li><a href="/wiki/Beverly_B._Douglas" title="Beverly B. Douglas">Beverly B. Douglas</a> (1822-1878), Virginian politician</li>
-<li>Bob Douglas (politician) (born 1932)</li>
-<li><a href="/wiki/Boyd_Douglas" title="Boyd Douglas">Boyd Douglas</a> (born 1950), politician in Northern Ireland.</li>
-<li><a href="/wiki/Charles_Douglas,_3rd_Baron_Douglas" title="Charles Douglas, 3rd Baron Douglas">Charles Douglas, 3rd Baron Douglas</a> (1775–1848), MP for Lanarkshire, and a cricketer</li>
-<li><a href="/wiki/Charles_Douglas_(mayor)" title="Charles Douglas (mayor)">Charles Douglas (mayor)</a> (1852–1917), Mayor of Vancouver</li>
-<li><a href="/wiki/Charles_Douglas_III" title="Charles Douglas III">Charles Douglas III</a> (born 1942), U.S. Representative from New Hampshire and New Hampshire Supreme Court Associate Justice</li>
-<li><a href="/wiki/Charles_Eurwicke_Douglas" title="Charles Eurwicke Douglas">Charles Eurwicke Douglas</a> 1806–1887, an English M.P</li>
-<li><a href="/wiki/Charles_Mackinnon_Douglas" title="Charles Mackinnon Douglas">Charles Mackinnon Douglas</a> (1865–1924), Liberal MP for North West Lanarkshire</li>
-<li><a href="/wiki/Curtis_N._Douglas" title="Curtis N. Douglas">Curtis N. Douglas</a> (1856–1919), New York politician</li>
-<li><a href="/wiki/Denzil_Douglas" title="Denzil Douglas">Denzil Douglas</a> (born 1953), Prime Minister of St Kitts and Nevis</li>
-<li><a href="/wiki/Dick_Douglas" title="Dick Douglas">Dick Douglas</a> (born 1932), Scottish politician</li>
-<li><a href="/wiki/Emily_Taft_Douglas" title="Emily Taft Douglas">Emily Taft Douglas</a> (1899–1994), American politician, wife of Paul Douglas (below)</li>
-<li><a href="/wiki/Emmitt_Douglas" title="Emmitt Douglas">Emmitt Douglas</a> (1926–1981), president of the Louisiana NAACP from 1966 to 1981</li>
-<li><a href="/wiki/Francis_Douglas,_Viscount_Drumlanrig" title="Francis Douglas, Viscount Drumlanrig">Francis Douglas, Viscount Drumlanrig</a> (1867–1894), a Scottish nobleman and Liberal politician</li>
-<li><a href="/wiki/Fred_J._Douglas" title="Fred J. Douglas">Fred J. Douglas</a> (1869–1949), United States Representative</li>
-<li><a href="/wiki/Frederick_Douglass" title="Frederick Douglass">Frederick Douglass</a> (1818–1895), American abolitionist, editor, orator, author, statesman, and reformer</li>
-<li><a href="/wiki/Helen_Gahagan_Douglas" title="Helen Gahagan Douglas">Helen Gahagan Douglas</a> (1900–1980), American actress and politician</li>
-<li><a href="/wiki/Hezekiah_Ford_Douglas" title="Hezekiah Ford Douglas">Hezekiah Ford Douglas</a> (1831 – 1865), American abolitionist, traveling speaker, political organizer, and newspaper proprietor</li>
-<li><a href="/wiki/Hima_Douglas" title="Hima Douglas">Hima Douglas</a>, Niuean politician</li>
-<li><a href="/wiki/Ian_Douglas_(politician)" title="Ian Douglas (politician)">Ian Douglas (politician)</a>, attorney and politician from Dominica</li>
-<li><a href="/wiki/James_Douglas_(governor)" title="James Douglas (governor)">James Douglas (governor)</a> (1803–1877), Scottish-Canadian governor of the colony of Vancouver Island</li>
-<li><a href="/wiki/James_G._Douglas" title="James G. Douglas">James G. Douglas</a> (1887–1984), Irish senator</li>
-<li><a href="/wiki/James_Douglas_(Australian_politician)" title="James Douglas (Australian politician)">James Henry Douglas</a>, died 1905, an Australian politician</li>
-<li><a href="/wiki/James_W._Douglas" title="James W. Douglas">James W. Douglas</a> (1851-1883), British Columbian politician</li>
-<li><a href="/wiki/Jim_Douglas" title="Jim Douglas">Jim Douglas</a> (born 1952), American politician</li>
-<li><a href="/wiki/John_Douglas_Sr." title="John Douglas Sr.">John Douglas Sr.</a> (b.c.1636), Maryland, USA, politician</li>
-<li><a href="/wiki/John_Douglas_(died_1838)" title="John Douglas (died 1838)">John Douglas (died 1838)</a> (c. 1774 – 1838), MP for Orford and Minehead, England</li>
-<li><a href="/wiki/Sir_John_Douglas,_3rd_Baronet" class="mw-redirect" title="Sir John Douglas, 3rd Baronet">Sir John Douglas, 3rd Baronet</a> of Kelhead (c. 1708 – 1778), MP for Dumfriesshire</li>
-<li><a href="/wiki/John_Douglas_(Queensland_politician)" title="John Douglas (Queensland politician)">John Douglas (Queensland politician)</a> (1828–1904), Premier of Queensland, Australia</li>
-<li><a href="/wiki/John_Douglas_of_Broughton" title="John Douglas of Broughton">John Douglas of Broughton</a> (died 1832), Scottish politician</li>
-<li><a href="/wiki/John_Henry_Douglas" title="John Henry Douglas">John Henry Douglas</a> (1851-1930), Canadian politician and farmer</li>
-<li><a href="/wiki/John_St_Leger_Douglas" title="John St Leger Douglas">John St Leger Douglas</a> (died 17830, MP for Hindon and Weobly.</li>
-<li><a href="/wiki/Lewis_Williams_Douglas" title="Lewis Williams Douglas">Lewis Williams Douglas</a> (1894–1974), American politician, diplomat, businessman and academic</li>
-<li><a href="/wiki/Lincoln_Douglas,_MP" class="mw-redirect" title="Lincoln Douglas, MP">Lincoln Douglas, MP</a>, Trinidad and Tobago Parliament politician</li>
-<li>Count <a href="/wiki/Ludvig_Douglas" title="Ludvig Douglas">Ludvig Douglas</a>, <i>riksmarskalk</i> and Minister of Foreign Affairs of Sweden, peer of the Grand Duchy of Baden</li>
-<li><a href="/wiki/Malcolm_Douglas_(politician)" title="Malcolm Douglas (politician)">Malcolm Douglas</a> (born 1941), New Zealand politician of the Labour Party</li>
-<li><a href="/wiki/Mark_Douglas_(Wisconsin)" class="mw-redirect" title="Mark Douglas (Wisconsin)">Mark Douglas (Wisconsin)</a> (1829–1900), American politician</li>
-<li><a href="/wiki/Michael_Douglas_(politician)" title="Michael Douglas (politician)">Michael Douglas (politician)</a>, d1992, Dominican politician</li>
-<li><a href="/wiki/Paul_Douglas" title="Paul Douglas">Paul Douglas</a> (1892–1976), American economist and United States Senator from Illinois</li>
-<li><a href="/wiki/Robert_Douglas_(New_Zealand_politician)" title="Robert Douglas (New Zealand politician)">Robert Douglas (New Zealand politician)</a>, 19th-century New Zealand MP</li>
-<li><a href="https://nl.wikipedia.org/wiki/Robert_van_Breugel_Douglas" class="extiw" title="nl:Robert van Breugel Douglas">Robert van Breugel Douglas</a> 1791-1873, 19th-century Dutch member of the Council of State and Publicist.</li>
-<li><a href="/wiki/Roger_Douglas" title="Roger Douglas">Roger Douglas</a> (born 1937), former New Zealand politician</li>
-<li><a href="/wiki/Rosie_Douglas" title="Rosie Douglas">Rosie Douglas</a> (1941–2000), Dominican politician</li>
-<li><a href="/wiki/Samuel_J._Douglas" title="Samuel J. Douglas">Samuel J. Douglas</a> (1812–1873), American politician and jurist</li>
-<li><a href="/wiki/Stephen_A._Douglas" title="Stephen A. Douglas">Stephen A. Douglas</a> (1813–1861), American politician</li>
-<li><a href="/wiki/Tommy_Douglas" title="Tommy Douglas">Tommy Douglas</a> (1904–1986), Canadian politician, Premier of Saskatchewan, and father of Shirley Douglas</li>
-<li><a href="/wiki/Walburga_Habsburg_Douglas" title="Walburga Habsburg Douglas">Walburga Habsburg Douglas</a> (born 1958), Austrian-Swedish politician, member of the Swedish parliament since 2006</li>
-<li><a href="/wiki/Walter_Douglas_(governor)" title="Walter Douglas (governor)">Walter Douglas (governor)</a> (1670–1739), Leeward Islands</li>
-<li><a href="/wiki/William_Bloomfield_Douglas" title="William Bloomfield Douglas">William Bloomfield Douglas</a> (1822–1906), Australian public servant and naval officer</li>
-<li><a href="/wiki/Sir_William_Douglas,_4th_Baronet" title="Sir William Douglas, 4th Baronet">Sir William Douglas, 4th Baronet</a> of Kelhead, MP for Dumfries Burghs</li>
-<li><a href="/wiki/William_Douglas_(died_1821)" title="William Douglas (died 1821)">William Douglas (died 1821)</a> of Almorness, British MP</li>
-<li><a href="/wiki/William_Douglas_(Northern_Ireland_politician)" title="William Douglas (Northern Ireland politician)">William Douglas (Northern Ireland politician)</a> born 1921, unionist politician in Northern Ireland</li>
-<li><a href="/wiki/William_Lewis_Douglas" title="William Lewis Douglas">William Lewis Douglas</a> (1845–1924), American businessman and politician</li>
-<li><a href="/wiki/Lord_William_Douglas" title="Lord William Douglas">Lord William Douglas</a> (William Robert Keith Douglas, 1783–1859), British MP</li>
-<li>Chief <a href="/wiki/Alabo_Graham-Douglas" title="Alabo Graham-Douglas">Alabo Graham-Douglas</a> (born 1939), Nigerian politician</li>
-<li><a href="/wiki/Aretas_Akers-Douglas,_1st_Viscount_Chilston" title="Aretas Akers-Douglas, 1st Viscount Chilston">Aretas Akers-Douglas, 1st Viscount Chilston</a> (1851–1926), British statesman and politician</li>
-<li><a href="/wiki/Aretas_Akers-Douglas,_2nd_Viscount_Chilston" title="Aretas Akers-Douglas, 2nd Viscount Chilston">Aretas Akers-Douglas, 2nd Viscount Chilston</a> (1876–1947), British diplomat</li>
-<li><a href="/wiki/Bruce_Douglas-Mann" title="Bruce Douglas-Mann">Bruce Douglas-Mann</a> (1927–2000), British politician</li>
-<li><a href="/wiki/Edward_Douglas-Pennant,_1st_Baron_Penrhyn" title="Edward Douglas-Pennant, 1st Baron Penrhyn">Edward Douglas-Pennant, 1st Baron Penrhyn</a> (1800–1886), Scottish landowner in Wales, and politician</li>
-<li><a href="/wiki/Edward_Douglas-Pennant,_3rd_Baron_Penrhyn" title="Edward Douglas-Pennant, 3rd Baron Penrhyn">Edward Douglas-Pennant, 3rd Baron Penrhyn</a> (1864–1927), British Conservative politician</li>
-<li><a href="/wiki/Edward_Douglas-Scott-Montagu,_3rd_Baron_Montagu_of_Beaulieu" title="Edward Douglas-Scott-Montagu, 3rd Baron Montagu of Beaulieu">Edward Douglas-Scott-Montagu, 3rd Baron Montagu of Beaulieu</a> (born 1926), a British Conservative politician</li>
-<li><a href="/wiki/Henry_Douglas-Scott-Montagu,_1st_Baron_Montagu_of_Beaulieu" title="Henry Douglas-Scott-Montagu, 1st Baron Montagu of Beaulieu">Henry Douglas-Scott-Montagu, 1st Baron Montagu of Beaulieu</a> (1832–1905), a British Conservative Party politician</li>
-<li><a href="/wiki/James_Douglas-Hamilton,_Baron_Selkirk_of_Douglas" title="James Douglas-Hamilton, Baron Selkirk of Douglas">James Douglas-Hamilton, Baron Selkirk of Douglas</a> (born 1942), Scottish nobleman, Conservative politician</li>
-<li><a href="/wiki/John_Douglas-Scott-Montagu,_2nd_Baron_Montagu_of_Beaulieu" title="John Douglas-Scott-Montagu, 2nd Baron Montagu of Beaulieu">John Douglas-Scott-Montagu, 2nd Baron Montagu of Beaulieu</a> (1826–1929), a British Conservative politician</li>
-<li><a href="/wiki/Lord_Malcolm_Douglas-Hamilton" title="Lord Malcolm Douglas-Hamilton">Lord Malcolm Douglas-Hamilton</a> (1919–1964), Scottish nobleman and politician.</li>
-<li><a href="/wiki/John_Scott,_9th_Duke_of_Buccleuch" title="John Scott, 9th Duke of Buccleuch">Walter Francis John Montagu Douglas Scott, 9th Duke of Buccleuch</a> (1923–2007), Scottish Peer, politician and landowner</li>
-<li><a href="/wiki/William_Montagu_Douglas_Scott,_6th_Duke_of_Buccleuch" title="William Montagu Douglas Scott, 6th Duke of Buccleuch">William Montagu Douglas Scott, 6th Duke of Buccleuch</a> (1831–1914),  Scottish Member of Parliament</li></ul>
-</div>
-<h2><span class="mw-headline" id="Sport">Sport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Douglas_(surname)&amp;action=edit&amp;section=10" title="Edit section: Sport">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
-<ul><li><a href="/wiki/Allan_Douglas_(cricketer,_born_1958)" title="Allan Douglas (cricketer, born 1958)">Allan Douglas</a> (born 1958), Bermudian cricketer</li>
-<li><a href="/wiki/Allan_Douglas_(cricketer,_born_1987)" title="Allan Douglas (cricketer, born 1987)">Allan Douglas</a> (born 1987), Bermudian cricketer</li>
-<li><a href="/wiki/Andy_Douglas" class="mw-redirect" title="Andy Douglas">Andy Douglas</a> (born 1978), American professional wrestler</li>
-<li><a href="/wiki/Angus_Douglas" title="Angus Douglas">Angus Douglas</a> (born 1889), Scottish international footballer</li>
-<li><a href="/wiki/A._H._Douglas" title="A. H. Douglas">Archibald Hugh "Toots" "Tootsie" Douglas</a> (1885–1972), college football and baseball player</li>
-<li><a href="/wiki/Anthony_Douglas" title="Anthony Douglas">Anthony Douglas</a> (born 1985), British Olympic Speed Skater</li>
-<li><a href="/wiki/Barry_Douglas_(footballer)" class="mw-redirect" title="Barry Douglas (footballer)">Barry Douglas (footballer)</a> (born 1989), Scottish footballer</li>
-<li><a href="/wiki/Billy_Douglas_(rugby_player)" class="mw-redirect" title="Billy Douglas (rugby player)">Billy Douglas (rugby player)</a> (1863–1945), Welsh international rugby player</li>
-<li><a href="/wiki/Bob_Douglas" title="Bob Douglas">Bob Douglas</a> (1882–1979), US-American sports manager, founder of the New York Renaissance</li>
-<li><a href="/wiki/Bobby_Douglas" title="Bobby Douglas">Bobby Douglas</a> (born 1942), American Olympian wrestler</li>
-<li><a href="/wiki/Bobby_Douglass" title="Bobby Douglass">Bobby Douglass</a> (born 1947), American football player</li>
-<li><a href="/wiki/Bruce_Douglas_(rugby_union)" title="Bruce Douglas (rugby union)">Bruce Douglas (rugby union)</a> (born 1980), Scottish rugby union footballer</li>
-<li><a href="/wiki/Bryan_Douglas" title="Bryan Douglas">Bryan Douglas</a> (born 1934), English footballer</li>
-<li><a href="/wiki/C._A._Douglas" title="C. A. Douglas">C. A. Douglas</a> (1905–2000),  American football coach</li>
-<li><a href="/wiki/Pickles_Douglas" title="Pickles Douglas">C.H. "Pickles" Douglas</a> (1886-1954), cricketer and boxing referee</li>
-<li><a href="/wiki/Caimin_Douglas" title="Caimin Douglas">Caimin Douglas</a> (born 1977), Dutch sprinter</li>
-<li><a href="/wiki/Chris_Douglas_(cricketer)" title="Chris Douglas (cricketer)">Chris Douglas</a> (born 1989), Bermudian cricketer</li>
-<li><a href="/wiki/Colin_Douglas_(footballer)" title="Colin Douglas (footballer)">Colin Douglas</a> (born 1962), Scottish footballer</li>
-<li><a href="/wiki/Darl_Douglas" title="Darl Douglas">Darl Douglas</a> (born 1979), Dutch footballer</li>
-<li><a href="/wiki/Dave_Douglas_(golfer)" title="Dave Douglas (golfer)">Dave Douglas (golfer)</a> (1918–1978), American professional golfer</li>
-<li><a href="/wiki/David_Douglas_(fighter)" title="David Douglas (fighter)">David Douglas (fighter)</a> (born 1982), American mixed martial artist (also known as "Tarzan" Douglas")</li>
-<li><a href="/wiki/David_Douglas_(rower)" title="David Douglas (rower)">David Douglas (rower)</a> (born 1947), Australian rower</li>
-<li><a href="/wiki/Desmond_Douglas" title="Desmond Douglas">Desmond Douglas</a> (born 1955), British table tennis player</li>
-<li><a href="/wiki/Dewayne_Douglas" title="Dewayne Douglas">Dewayne Douglas</a> (1931–2000), American football player</li>
-<li><a href="/wiki/Gabby_Douglas" title="Gabby Douglas">Gabby Douglas</a> (born 1995), American gymnast</li>
-<li><a href="/wiki/Glenn_Douglas" title="Glenn Douglas">Glenn Douglas</a> (1928-2017), Canadian Football League player</li>
-<li><a href="/wiki/Guillermo_Douglas" title="Guillermo Douglas">Guillermo Douglas</a> (1909–1967), Uruguayan Olympic rower</li>
-<li><a href="/wiki/Harry_Douglas" title="Harry Douglas">Harry Douglas</a> (born 1984), American footballer</li>
-<li><a href="/wiki/Hugh_Douglas_(American_football)" title="Hugh Douglas (American football)">Hugh Douglas (American football)</a> (born 1971), American NFL football player</li>
-<li><a href="/wiki/Jack_Douglas_(ice_hockey)" title="Jack Douglas (ice hockey)">Jack Douglas (ice hockey)</a> (1930–2003), Canadian ice hockey defenceman</li>
-<li>James Douglas (<a href="/wiki/Buster_Douglas" title="Buster Douglas">Buster Douglas</a>), born 1960), American heavyweight boxer</li>
-<li><a href="/wiki/James_Douglas_(cricketer)" title="James Douglas (cricketer)">James Douglas (cricketer)</a> (1870–1958), English cricketer</li>
-<li><a href="/wiki/Jason_Douglas_(boxer)" title="Jason Douglas (boxer)">Jason Douglas (boxer)</a> (born 1980), Canadian boxer</li>
-<li><a href="/wiki/Jimmy_Douglas_(American_soccer)" class="mw-redirect" title="Jimmy Douglas (American soccer)">Jimmy Douglas (American soccer)</a></li>
-<li><a href="/wiki/Jimmy_Douglas_(Canadian_soccer)" title="Jimmy Douglas (Canadian soccer)">Jimmy Douglas (Canadian soccer)</a> (born 1948)</li>
-<li><a href="/wiki/Jimmy_Douglas_(Scottish_footballer)" title="Jimmy Douglas (Scottish footballer)">Jimmy Douglas (Scottish footballer)</a> (born 1859)</li>
-<li><a href="/wiki/John_Douglas_(rugby_player)" title="John Douglas (rugby player)">John Douglas (rugby player)</a> (born 1934)</li>
-<li><a href="/wiki/John_Douglas_(sportsman)" title="John Douglas (sportsman)">John Douglas (sportsman)</a> (born 1951), Australian footballer and cricketer</li>
-<li><a href="/wiki/Johnny_Douglas" title="Johnny Douglas">Johnny Douglas</a> (1882–1930), English cricketer</li>
-<li><a href="/wiki/Jon_Douglas" title="Jon Douglas">Jon Douglas</a> (1936–2010), American tennis player</li>
-<li><a href="/wiki/Jonathan_Douglas" title="Jonathan Douglas">Jonathan Douglas</a> (born 1981), Irish football player</li>
-<li><a href="/wiki/Kane_Douglas" title="Kane Douglas">Kane Douglas</a> (born 1989), Australian rugby union footballer</li>
-<li><a href="/wiki/Katie_Douglas" title="Katie Douglas">Katie Douglas</a> (born 1979), American Women's National Basketball Association player</li>
-<li><a href="/wiki/Kent_Douglas" title="Kent Douglas">Kent Douglas</a> (1936–2009), Canadian Ice Hockey player</li>
-<li><a href="/wiki/Laura_Douglas_(artist)" title="Laura Douglas (artist)">Laura Douglas (artist)</a> (1886–1962), American painter</li>
-<li><a href="/wiki/Laura_Douglas_(athlete)" title="Laura Douglas (athlete)">Laura Douglas (athlete)</a> (born 1983), Welsh hammer thrower</li>
-<li><a href="/wiki/Luke_Douglas" title="Luke Douglas">Luke Douglas</a> (born 1986), Australian professional rugby league footballer</li>
-<li><a href="/wiki/Mark_Douglas_(cricketer)" title="Mark Douglas (cricketer)">Mark Douglas</a> (born 1968), New Zealand cricketer</li>
-<li><a href="/wiki/Marques_Douglas" title="Marques Douglas">Marques Douglas</a> (born 1977), American footballer</li>
-<li><a href="/wiki/Marshall_Douglas" title="Marshall Douglas">Marshall Douglas</a> (born 1940), Scottish golfer</li>
-<li><a href="/wiki/Nathan_Douglas" title="Nathan Douglas">Nathan Douglas</a> (born 1982), British triple jumper</li>
-<li><a href="/wiki/Otis_Douglas" title="Otis Douglas">Otis Douglas</a> 1911-1989), American football player</li>
-<li><a href="/wiki/Phil_Douglas_(baseball)" title="Phil Douglas (baseball)">Phil Douglas (baseball)</a> (1890-1952), American baseball player</li>
-<li><a href="/wiki/Rab_Douglas" title="Rab Douglas">Rab Douglas</a> (born 1972), Scottish football goalkeeper</li>
-<li><a href="/wiki/Rasul_Douglas" title="Rasul Douglas">Rasul Douglas</a> (born 1994), American football player</li>
-<li><a href="/wiki/Rene_R._Douglas" class="mw-redirect" title="Rene R. Douglas">Rene R. Douglas</a> (born 1967), Panamanian jockey</li>
-<li><a href="/wiki/Robert_Douglas_(American_football)" title="Robert Douglas (American football)">Robert Douglas (American football)</a> (born 1982), American football player</li>
-<li><a href="/wiki/Robert_Noel_Douglas" title="Robert Noel Douglas">Robert Noel Douglas</a> (1868–1957), English cricketer and priest</li>
-<li><a href="/wiki/Rowley_Douglas" title="Rowley Douglas">Rowley Douglas</a> (born 1977), British Olympic rower</li>
-<li><a href="/wiki/Ruben_Douglas" title="Ruben Douglas">Ruben Douglas</a> (born 1979), Panamanian-American professional basketball player.</li>
-<li><a href="/wiki/Sean_Douglas_(footballer)" title="Sean Douglas (footballer)">Sean Douglas</a> (born 1972), New Zealand association football player</li>
-<li><a href="/wiki/Shane_Douglas" title="Shane Douglas">Shane Douglas</a> (born 1964), American professional wrestler</li>
-<li><a href="/wiki/Steve_Douglas_(darts_player)" title="Steve Douglas (darts player)">Steve Douglas (darts player)</a> (born 1977), English darts player</li>
-<li><a href="/wiki/Steve_Douglas_(skateboarder)" title="Steve Douglas (skateboarder)">Steve Douglas (skateboarder)</a>, professional skateboarder, company owner and industry mogul</li>
-<li><a href="/wiki/Struan_Douglas" title="Struan Douglas">Struan Douglas</a> (born 1966), Scottish Rugby League International</li>
-<li><a href="/wiki/Stuart_Douglas" title="Stuart Douglas">Stuart Douglas</a> (born 1978), English football player</li>
-<li><a href="/wiki/Taz_Douglas" title="Taz Douglas">Taz Douglas</a> (born 1984), Australian race driver</li>
-<li><a href="/wiki/Toney_Douglas" title="Toney Douglas">Toney Douglas</a> (born 1986), American professional basketball player</li>
-<li><a href="/wiki/Troy_Douglas" title="Troy Douglas">Troy Douglas</a> (born 1962), Dutch sprinter</li>
-<li><a href="/wiki/Whetu_Douglas" title="Whetu Douglas">Whetu Douglas</a> (born 1991), New Zealand rugby union player</li>
-<li><a href="/wiki/Ian_Akers-Douglas" title="Ian Akers-Douglas">Ian Akers-Douglas</a> (1902–1952), English cricketer</li>
-<li><a href="/wiki/Thomas_Douglas-Powell" title="Thomas Douglas-Powell">Thomas Douglas-Powell</a> (born 1992),  Australian volleyball player</li></ul>
-</div>
-<h2><span class="mw-headline" id="Science">Science</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Douglas_(surname)&amp;action=edit&amp;section=11" title="Edit section: Science">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Biology">Biology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Douglas_(surname)&amp;action=edit&amp;section=12" title="Edit section: Biology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Claude_Gordon_Douglas" title="Claude Gordon Douglas">Claude Gordon Douglas</a> (1882–1963), British physiologist</li>
-<li><a href="/wiki/David_Douglas_(botanist)" title="David Douglas (botanist)">David Douglas</a> (1799–1834), Scottish botanist</li>
-<li><a href="/wiki/Virginia_Douglas" title="Virginia Douglas">Virginia Douglas</a> (Born 1927), <a href="/wiki/Canadians" title="Canadians">Canadian</a> psychologist and emeritus professor at <a href="/wiki/McGill_University" title="McGill University">McGill University</a></li></ul>
-<h3><span class="mw-headline" id="Earth_sciences">Earth sciences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Douglas_(surname)&amp;action=edit&amp;section=13" title="Edit section: Earth sciences">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/R._J._W._Douglas" title="R. J. W. Douglas">R. J. W. Douglas</a> (1920–1979) Canadian geologist</li></ul>
-<h3><span class="mw-headline" id="Engineering">Engineering</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Douglas_(surname)&amp;action=edit&amp;section=14" title="Edit section: Engineering">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/C._H._Douglas" title="C. H. Douglas">C. H. Douglas</a> (1879–1952), Scottish engineer and pioneer of the social credit concept</li>
-<li><a href="/wiki/Donald_Wills_Douglas,_Sr." class="mw-redirect" title="Donald Wills Douglas, Sr.">Donald Wills Douglas, Sr.</a> (1892–1981), American aircraft industrialist</li></ul>
-<h3><span class="mw-headline" id="Mathematics">Mathematics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Douglas_(surname)&amp;action=edit&amp;section=15" title="Edit section: Mathematics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Jesse_Douglas" title="Jesse Douglas">Jesse Douglas</a> (1897–1965), American mathematician and professor of mathematics</li>
-<li><a href="/wiki/Ronald_G._Douglas" title="Ronald G. Douglas">Ronald G. Douglas</a> (born 1938), American mathematician</li></ul>
-<h3><span class="mw-headline" id="Physics">Physics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Douglas_(surname)&amp;action=edit&amp;section=16" title="Edit section: Physics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/David_Douglass_(physicist)" title="David Douglass (physicist)">David Douglass</a>, American physicist and global-warming skeptic</li>
-<li><a href="/wiki/James_Douglas_(physician)" title="James Douglas (physician)">James Douglas (physician)</a> (1675–1742), Scottish physician and anatomist</li>
-<li><a href="/wiki/Michael_R._Douglas" title="Michael R. Douglas">Michael R. Douglas</a>, American physicist at Rutgers University</li></ul>
-<h3><span class="mw-headline" id="Other_scientists">Other scientists</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Douglas_(surname)&amp;action=edit&amp;section=17" title="Edit section: Other scientists">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Sandy_Douglas" title="Sandy Douglas">A.S. Douglas</a> (1921–2010), British professor of computer science</li>
-<li><a href="/wiki/John_William_Douglas" title="John William Douglas">John William Douglas</a> (1814–1905), English entomologist</li>
-<li><a href="/wiki/Mary_Douglas" title="Mary Douglas">Mary Douglas</a> (born 1921), British anthropologist</li>
-<li><a href="/wiki/Vibert_Douglas" title="Vibert Douglas">Vibert Douglas</a> (1894–1988), Canadian astronomer and the first Canadian woman to become an astrophysicist</li>
-<li><a href="/wiki/Iain_Douglas-Hamilton" title="Iain Douglas-Hamilton">Iain Douglas-Hamilton</a> (born 1942),Zoologist known for his study of elephants</li></ul>
-<h2><span id="Radio.2C_television_and_film"></span><span class="mw-headline" id="Radio,_television_and_film">Radio, television and film</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Douglas_(surname)&amp;action=edit&amp;section=18" title="Edit section: Radio, television and film">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
-<ul><li><a href="/wiki/Aaron_Douglas_(actor)" title="Aaron Douglas (actor)">Aaron Douglas (actor)</a> (born 1971), Canadian actor</li>
-<li><a href="/wiki/Angela_Douglas" title="Angela Douglas">Angela Douglas</a> (born Angela McDonagh in 1940 ), English actress</li>
-<li><a href="/wiki/Bill_Douglas" title="Bill Douglas">Bill Douglas</a> (1934–1991), Scottish film director</li>
-<li><a href="/wiki/Cameron_Douglas" title="Cameron Douglas">Cameron Douglas</a> (born 1978), American actor and drug dealer</li>
-<li><a href="/wiki/Christopher_Douglas_(British_actor)" title="Christopher Douglas (British actor)">Christopher Douglas</a> (born c. 1955), United Kingdom actor and writer</li>
-<li><a href="/wiki/Clare_Douglas" title="Clare Douglas">Clare Douglas</a>, British film editor</li>
-<li><a href="/wiki/Colin_Douglas_(actor)" title="Colin Douglas (actor)">Colin Douglas (actor)</a> (1912–1991), British stage and television actor</li>
-<li><a href="/wiki/D._C._Douglas" title="D. C. Douglas">D. C. Douglas</a> (born 1966), American actor and director</li>
-<li><a href="/wiki/Don_Douglas" title="Don Douglas">Don Douglas</a> (1905–1945), Scottish film actor</li>
-<li><a href="/wiki/Donald_Douglas_(Scottish_actor)" title="Donald Douglas (Scottish actor)">Donald Douglas (Scottish actor)</a> (born 1933), British actor</li>
-<li><a href="/wiki/Donna_Douglas" title="Donna Douglas">Donna Douglas</a> (1933–2015), American actress</li>
-<li><a href="/wiki/Eric_Douglas" title="Eric Douglas">Eric Douglas</a> (1958–2004), American actor, son of Kirk Douglas</li>
-<li><a href="/wiki/Gordon_Douglas_(director)" title="Gordon Douglas (director)">Gordon Douglas (director)</a> (1907–1993), American actor and director</li>
-<li><a href="/wiki/Hal_Douglas" title="Hal Douglas">Hal Douglas</a> (1924–2014), voice actor</li>
-<li><a href="/wiki/Hazel_Douglas" title="Hazel Douglas">Hazel Douglas</a>, British actress</li>
-<li><a href="/wiki/Illeana_Douglas" title="Illeana Douglas">Illeana Douglas</a> (born 1965), American actress</li>
-<li><a href="/wiki/Jack_Douglas_(actor)" title="Jack Douglas (actor)">Jack Douglas (actor)</a> (1927–2008), English actor</li>
-<li><a href="/wiki/James_Douglas_(actor)" title="James Douglas (actor)">James Douglas (actor)</a> (born 1933), American soap opera actor</li>
-<li><a href="/wiki/Jason_Douglas" title="Jason Douglas">Jason Douglas</a>, American stage, film, and voice actor</li>
-<li><a href="/wiki/Jeff_Douglas" title="Jeff Douglas">Jeff Douglas</a> (born 1971), Canadian actor and broadcaster.</li>
-<li><a href="/wiki/Joanna_Douglas_(Canadian_actor)" class="mw-redirect" title="Joanna Douglas (Canadian actor)">Joanna Douglas</a> (born 1983), Canadian actress</li>
-<li><a href="/wiki/Joel_Douglas" title="Joel Douglas">Joel Douglas</a> (born January 23, 1947), American movie producer, son of Kirk Douglas and Diana Dill</li>
-<li><a href="/wiki/Kirk_Douglas" title="Kirk Douglas">Kirk Douglas</a> (born 1916), American actor, producer, director, author</li>
-<li><a href="/wiki/Kyan_Douglas" title="Kyan Douglas">Kyan Douglas</a> (born 1970), American cosmetologist</li>
-<li><a href="/wiki/Malcolm_Douglas_(documentary_maker)" title="Malcolm Douglas (documentary maker)">Malcolm Douglas</a> (1941–1910), Australian wildlife documentary film maker, and crocodile hunter.</li>
-<li><a href="/wiki/Melvyn_Douglas" title="Melvyn Douglas">Melvyn Douglas</a> (1901–1981), American actor</li>
-<li><a href="/wiki/Michael_Douglas" title="Michael Douglas">Michael Douglas</a> (born 1944), American actor and producer, son of Kirk Douglas and Diana Dill</li>
-<li><a href="/wiki/Michael_Keaton" title="Michael Keaton">Michael Keaton</a>, born Michael John Douglas (born 1951), American actor</li>
-<li><a href="/wiki/Mike_Douglas" title="Mike Douglas">Mike Douglas</a> (1925–2006), American entertainer and former TV talk-show host</li>
-<li><a href="/wiki/Paul_Douglas_(actor)" title="Paul Douglas (actor)">Paul Douglas (actor)</a> (1907–1959), American actor</li>
-<li><a href="/wiki/Paul_Douglas_(cameraman)" title="Paul Douglas (cameraman)">Paul Douglas (cameraman)</a> (1958–2006), British CBS News cameraman</li>
-<li><a href="/wiki/Pavel_Douglas" title="Pavel Douglas">Pavel Douglas</a> (born 1951), Polish-born, British-based actor</li>
-<li><a href="/wiki/Peter_Douglas" title="Peter Douglas">Peter Douglas</a> (born November 23, 1955), American television and film producer, son of Kirk Douglas</li>
-<li><a href="/wiki/Robert_Douglas_(actor)" title="Robert Douglas (actor)">Robert Douglas (actor)</a> (born 1909), stage and film actor, television director and producer</li>
-<li><a href="/wiki/R%C3%B3bert_Ingi_Douglas" title="Róbert Ingi Douglas">Róbert Ingi Douglas</a> (born 1973), Icelandic film director</li>
-<li><a href="/wiki/Sam_Douglas" title="Sam Douglas">Sam Douglas</a> (born 1957), British/American film, stage and video game actor</li>
-<li><a href="/wiki/Sarah_Douglas_(actress)" title="Sarah Douglas (actress)">Sarah Douglas (actress)</a> (born 1952), English actress</li>
-<li><a href="/wiki/Sharon_Douglas" title="Sharon Douglas">Sharon Douglas</a> (1920-2016), American film and radio actress</li>
-<li><a href="/wiki/Shirley_Douglas" title="Shirley Douglas">Shirley Douglas</a> (born 1934), Canadian actress, former wife of Donald Sutherland, mother of Kiefer Sutherland</li>
-<li><a href="/w/index.php?title=Steve_Douglas_(radio_personality)&amp;action=edit&amp;redlink=1" class="new" title="Steve Douglas (radio personality) (page does not exist)">Steve Douglas (radio personality)</a>, late-night radio personality from Denver, Colorado</li>
-<li><a href="/wiki/Steve_Douglas_(sportscaster)" title="Steve Douglas (sportscaster)">Steve Douglas (sportscaster)</a>, Canadian sportscaster</li>
-<li><a href="/wiki/Suzzanne_Douglas" title="Suzzanne Douglas">Suzzanne Douglas</a> (born 1957), American film, television and stage actress</li>
-<li><a href="/wiki/Saba_Douglas-Hamilton" title="Saba Douglas-Hamilton">Saba Douglas-Hamilton</a> (born 1970), television presenter and naturalist</li>
-<li><a href="/wiki/Vivien_Endicott-Douglas" title="Vivien Endicott-Douglas">Vivien Endicott-Douglas</a> (born 1990), Canadian actress</li>
-<li><a href="/wiki/Martha_Howe-Douglas" title="Martha Howe-Douglas">Martha Howe-Douglas</a>, British actress</li>
-<li><a href="/w/index.php?title=Richardo_Keens-Douglas&amp;action=edit&amp;redlink=1" class="new" title="Richardo Keens-Douglas (page does not exist)">Richardo Keens-Douglas</a>, Canadian film and stage actor</li></ul>
-</div>
-<h2><span class="mw-headline" id="Religion">Religion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Douglas_(surname)&amp;action=edit&amp;section=19" title="Edit section: Religion">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
-<ul><li><a href="/wiki/Archibald_Douglas,_Parson_of_Douglas" title="Archibald Douglas, Parson of Douglas">Archibald Douglas, Parson of Douglas</a> (b. before 1540 - d. after 1587), Parson, Senator and Ambassador</li>
-<li><a href="/wiki/Reverend_Lord_Archibald_Edward_Douglas" class="mw-redirect" title="Reverend Lord Archibald Edward Douglas">Reverend Lord Archibald Edward Douglas</a> (1850–1938), Catholic priest and orphanage manager</li>
-<li><a href="/wiki/Arthur_Douglas_(bishop)" title="Arthur Douglas (bishop)">Rt. Rev. the Hon. Arthur Gascoigne Douglas</a> (1827–1905), Bishop of Aberdeen and Orkney</li>
-<li><a href="/wiki/Edward_Douglas" title="Edward Douglas">Edward Douglas</a> (1901–1967), Scottish Roman Catholic bishop</li>
-<li><a href="/wiki/Gavin_Douglas" title="Gavin Douglas">Gavin Douglas</a> (1474–1522), Scottish poet and bishop</li>
-<li><a href="/wiki/George_Douglas_(priest)" title="George Douglas (priest)">George Douglas (priest)</a>, 1889–1973</li>
-<li><a href="/wiki/Gerald_Douglas" title="Gerald Douglas">Gerald Douglas</a> (1875–1934), Bishop of Nyasaland</li>
-<li><a href="/wiki/Gordon_Douglas_(monk)" title="Gordon Douglas (monk)">Gordon Douglas (monk)</a>, Bhikkhu monk</li>
-<li><a href="/wiki/Henry_Alexander_Douglas" class="mw-redirect" title="Henry Alexander Douglas">Henry Alexander Douglas</a> (1821–1875), Bishop</li>
-<li><a href="/wiki/Hugh_Douglas_(minister)" title="Hugh Douglas (minister)">The Very Rev Hugh Osborne Douglas</a> (1911–1986), Honorary Chaplain to the Queen</li>
-<li><a href="/wiki/Ian_Douglas_(bishop)" title="Ian Douglas (bishop)">Ian Douglas</a> (born 1958), bishop of the Episcopal Church in Connecticut.</li>
-<li><a href="/wiki/John_Douglas_(archbishop_of_St_Andrews)" title="John Douglas (archbishop of St Andrews)">John Douglas (archbishop of St Andrews)</a> (c. 1494 – 1574)</li>
-<li><a href="/wiki/John_Douglas_(bishop_of_Salisbury)" title="John Douglas (bishop of Salisbury)">John Douglas (bishop of Salisbury)</a> (1721–1807), Scottish man of letters and Anglican bishop</li>
-<li><a href="/wiki/Lloyd_C._Douglas" title="Lloyd C. Douglas">Lloyd C. Douglas</a> (1877–1951), American minister and author</li>
-<li><a href="/wiki/Ranuccio_Scotti_Douglas" title="Ranuccio Scotti Douglas">Ranuccio Scotti Douglas</a> (1597-1659), Italian Bishop</li>
-<li><a href="/wiki/Robert_Douglas_(minister)" title="Robert Douglas (minister)">Robert Douglas (minister)</a> (1594–1674), Scottish minister</li>
-<li><a href="/wiki/Robert_Douglas_(bishop)" title="Robert Douglas (bishop)">Robert Douglas (bishop)</a> (died 1716), Scottish churchman</li>
-<li><a href="/wiki/Robert_Noel_Douglas" title="Robert Noel Douglas">Robert Noel Douglas</a> (1868–1957), English cricketer and priest</li>
-<li>Valentin Douglas (died 1598), <a href="/wiki/Bishop_of_Laon" class="mw-redirect" title="Bishop of Laon">Bishop of Laon</a> and Peer of France</li>
-<li><a href="/wiki/Francis_Douglas_(priest)" title="Francis Douglas (priest)">Vernon Francis Douglas</a> (1910–1943), New Zealand priest</li>
-<li><a href="/wiki/Wilfrid_Douglas" title="Wilfrid Douglas">Wilfrid Douglas</a> (1917–2004), missionary, linguist and translator</li>
-<li><a href="/wiki/William_Douglas_(priest)" title="William Douglas (priest)">William Douglas (priest)</a> (1769?–1819), Archdeacon of Wilts</li></ul>
-</div>
-<h2><span class="mw-headline" id="Other_fields">Other fields</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Douglas_(surname)&amp;action=edit&amp;section=20" title="Edit section: Other fields">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Alexander_Douglas-Douglas" title="Alexander Douglas-Douglas">Alexander Douglas-Douglas</a> (1843–1914), Australian inspector of police and explorer</li>
-<li><a href="/wiki/Alan_Douglas_(journalist)" title="Alan Douglas (journalist)">Alan Douglas (journalist)</a> (born 1951), Scottish journalist and former broadcaster</li>
-<li><a href="/wiki/Ben_Elbert_Douglas,_Sr." class="mw-redirect" title="Ben Elbert Douglas, Sr.">Ben Elbert Douglas, Sr.</a> (1894–1981), an American businessman who had an airport named for his wife, Charlotte</li>
-<li><a href="/wiki/Betto_Douglas" title="Betto Douglas">Betto Douglas</a> (c. 1772 –&#160;?), a slave on the British Colony of St. Kitts</li>
-<li><a href="/wiki/Catherine_Douglas" title="Catherine Douglas">Catherine Douglas</a> aka "Kate" Barlass</li>
-<li><a href="/wiki/Charlie_Douglas" title="Charlie Douglas">Charlie Douglas</a> (Charles Edward Douglas), New Zealand explorer, surveyor, and Royal Geographical Society Gill Memorial Prize winner (1840–1916)</li>
-<li><a href="/wiki/David_Douglas_(publisher)" title="David Douglas (publisher)">David Douglas</a> (1823 – 1916), Scottish publisher</li>
-<li><a href="/wiki/David_C._Douglas" title="David C. Douglas">David C. Douglas</a> (1898–1982), British historian</li>
-<li><a href="/wiki/David_Douglas,_Lord_Reston" title="David Douglas, Lord Reston">David Douglas, Lord Reston</a> (born 1769), Adam Smith's heir</li>
-<li><a href="/wiki/Frank_L._Douglas" title="Frank L. Douglas">Frank L. Douglas</a>, Guyanese American medical doctor.</li>
-<li><a href="/wiki/James_Douglas_(journalist)" title="James Douglas (journalist)">James Douglas (journalist)</a> (1867–1940), British newspaper editor, author and critic</li>
-<li><a href="/wiki/J._Archibald_Douglas" title="J. Archibald Douglas">J. Archibald Douglas</a> (born 1866), first professor of English and History at Government College, Agra</li>
-<li><a href="/wiki/James_W._B._Douglas" title="James W. B. Douglas">James W. B. Douglas</a>, social researcher</li>
-<li><a href="/wiki/Jane_Douglas" title="Jane Douglas">Jane Douglas</a> (c. 1700 – 1762), Brothel Keeper</li>
-<li><a href="/wiki/Janet_Douglas_(seer)" title="Janet Douglas (seer)">Janet Douglas</a>, a Scottish woman who claimed to have second sight</li>
-<li><a href="/wiki/Jennifer_Douglas" title="Jennifer Douglas">Jennifer Douglas</a> (born 1964), an American writer/producer and activist.</li>
-<li><a href="/wiki/John_E._Douglas" title="John E. Douglas">John E. Douglas</a> (born 1945), FBI agent and criminal profiler</li>
-<li><a href="/wiki/Josepha_Williams_Douglas" title="Josepha Williams Douglas">Josepha Williams Douglas</a> (1860-1938), also commonly known as Josepha Williams, was an American physician</li>
-<li><a href="/wiki/Ken_Douglas" title="Ken Douglas">Ken Douglas</a> (born 1934), New Zealand trade union leader</li>
-<li><a href="/wiki/Linda_Douglass" title="Linda Douglass">Linda Douglass</a>, former director of communications for the White House Office of Health Reform</li>
-<li><a href="/wiki/Douglas_of_Mains#Malcolm_Douglas.2C_8th_Laird_of_Mains" title="Douglas of Mains">Malcolm Douglas, 8th Laird of Mains</a></li></ul>
-<p>^ <a href="/wiki/Mark_Douglas_(ethicist)" title="Mark Douglas (ethicist)">Mark Douglas</a> professor of Christian ethics at Columbia Theological Seminary
+<h2><span class="mw-headline" id="Senses">Senses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vocation&amp;action=edit&amp;section=1" title="Edit section: Senses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Use of the word "vocation" before the sixteenth century referred firstly to the "call" by God<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> to an individual, or <a href="/wiki/Universal_call_to_holiness" title="Universal call to holiness">calling of all humankind to salvation</a>, particularly in the <a href="/wiki/Vulgate" title="Vulgate">Vulgate</a>, and more specifically to the "vocation" to the <a href="/wiki/Priesthood" class="mw-redirect" title="Priesthood">priesthood</a>, or to the <a href="/wiki/Religious_(Catholicism)" class="mw-redirect" title="Religious (Catholicism)">religious life</a>, which is still the usual sense in Roman Catholicism. Roman Catholicism recognizes marriage, religious, and ordained life as the three vocations.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The material near this tag failed verification of its source citation(s). (November 2014)">failed verification</span></a></i>&#93;</sup> <a href="/wiki/Martin_Luther" title="Martin Luther">Martin Luther</a>,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> followed by <a href="/wiki/John_Calvin" title="John Calvin">John Calvin</a>, placed a particular emphasis on vocations, or divine callings, as potentially including most secular occupations, though this idea was by no means new.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p><a href="/wiki/Calvinism" title="Calvinism">Calvinism</a> developed complex ideas about different types of vocations of the first type, connected with the concepts of <a href="/wiki/Predestination" title="Predestination">Predestination</a>, <a href="/wiki/Irresistible_grace" title="Irresistible grace">Irresistible grace</a>, and the elect. There are the <i>vocatio universalis</i>, the <i>vocatio specialis</i>, only extended to some. There were also complex distinctions between internal and external, and the "vocatio efficax" and "inefficax" types of callings.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>  <a href="/wiki/Hyper-Calvinism" title="Hyper-Calvinism">Hyper-Calvinism</a>, unusually, rejects the idea of a "universal call", a vocation, to repent and believe, held by virtually all other Christian groups.
+</p><p>In Protestantism the call from God to devote one's life to him by joining the <a href="/wiki/Clergy" title="Clergy">clergy</a> is often covered by the English equivalent term "<a href="/wiki/Calling_(religious)" class="mw-redirect" title="Calling (religious)">call</a>", whereas in Roman Catholicism "vocation" is still used.
+</p><p>Both senses of the word "call" are used in <a href="/wiki/1_Corinthians" class="mw-redirect" title="1 Corinthians">1 Corinthians</a> 7:20, where Paul says "Let every man abide in the same calling wherein he was called" (<a href="/wiki/KJV" class="mw-redirect" title="KJV">KJV</a>).
 </p>
-<ul><li><a href="/wiki/Michael_Dutton_Douglas" class="mw-redirect" title="Michael Dutton Douglas">Michael Dutton Douglas</a> (1945–1963), road accident victim</li>
-<li><a href="/wiki/Sir_Robert_Douglas,_6th_Baronet" title="Sir Robert Douglas, 6th Baronet">Sir Robert Douglas, 6th Baronet</a> (Robert Douglas of Glenbervie, 1694–1770), Scottish genealogist</li>
-<li><a href="/wiki/Robert_Kennaway_Douglas" title="Robert Kennaway Douglas">Sir Robert Kennaway Douglas</a> (1838–1913), Keeper of the British Museum's Department of Oriental Printed Books and Manuscripts</li>
-<li><a href="/wiki/Robert_M._Douglas_(doctor)" title="Robert M. Douglas (doctor)">Robert M. Douglas (doctor)</a> (born 1936), Chairman of Australia 21</li>
-<li><a href="/wiki/Sandy_Douglas" title="Sandy Douglas">Sandy Douglas</a> 1921–2010, a British professor of computer science</li>
-<li><a href="/wiki/Stephen_Douglas_(journalist)" title="Stephen Douglas (journalist)">Stephen Douglas (journalist)</a>, British journalist</li>
-<li><a href="/wiki/Sue_Douglas" title="Sue Douglas">Sue Douglas</a> (born 1957), British media executive and former newspaper editor</li>
-<li><a href="/wiki/Susan_J._Douglas" title="Susan J. Douglas">Susan J. Douglas</a>, feminist academic, columnist, and cultural critic</li>
-<li><a href="/wiki/Walter_Douglas" title="Walter Douglas">Walter Douglas</a>, Scottish drug trafficker</li>
-<li><a href="/wiki/W._A._B._Douglas" title="W. A. B. Douglas">William Alexander Binny "Alec" Douglas</a> (born 1929), Canadian naval historian</li>
-<li><a href="/wiki/William_Douglas_(sea_captain)" title="William Douglas (sea captain)">William Douglas</a> (died 1791), Scottish sea captain</li>
-<li><a href="/wiki/William_Douglas_of_Whittingehame" title="William Douglas of Whittingehame">William Douglas of Whittingehame</a> (c. 1540 – 1595), Senator of the College of Justice at Edinburgh, and a Royal conspirator.</li>
-<li><a href="/wiki/Alexandre-Pierre_de_Mackensie-Douglas,_baron_de_Kildin" title="Alexandre-Pierre de Mackensie-Douglas, baron de Kildin">Alexandre-Pierre de Mackensie-Douglas</a> or Mackenzie-Douglas, baron de Kildin (1713-1765), French chargé d'affaires in St Petersburg</li>
-<li><a href="/wiki/Belinda_Douglas-Scott-Montagu,_Baroness_Montagu_of_Beaulieu" title="Belinda Douglas-Scott-Montagu, Baroness Montagu of Beaulieu">Belinda Douglas-Scott-Montagu, Baroness Montagu of Beaulieu</a> (born 1932), a British embroiderer</li>
-<li><a href="/wiki/Francisco_Tudela" title="Francisco Tudela">Francisco Antonio Gregorio Tudela van Breugel-Douglas</a> (born 1955), Peruvian career diplomat.</li>
-<li><a href="/wiki/Ian_Douglas-Wilson" title="Ian Douglas-Wilson">Ian Douglas-Wilson</a> (1912-2013), British physician and editor of <i><a href="/wiki/The_Lancet" title="The Lancet">The Lancet</a></i>,</li></ul>
-<h2><span class="mw-headline" id="Counts_Douglas_in_continental_Europe">Counts Douglas in continental Europe</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Douglas_(surname)&amp;action=edit&amp;section=21" title="Edit section: Counts Douglas in continental Europe">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Field Marshal <a href="/wiki/Robert_Douglas,_Count_of_Skenninge" title="Robert Douglas, Count of Skenninge">Robert Douglas</a> was firstly created baron, and then count, in Sweden. His main fief was the town of <a href="/wiki/Sk%C3%A4nninge" title="Skänninge">Skänninge</a>, and his wife brought in the estate where they had the manor of <a href="/wiki/Stj%C3%A4rnorp_Castle" title="Stjärnorp Castle">Stjernorp</a> erected. His descendants generally continued to reside in Sweden, some offshoots to Russia, Germany etc. The head of the house received in 1848 the title of Count (count of the entail of <a href="/wiki/M%C3%BChlhausen" title="Mühlhausen">Mühlhausen</a>) also in peerage of the <a href="/wiki/Grand_Duchy_of_Baden" title="Grand Duchy of Baden">Grand Duchy of Baden</a>.
-The main lineage did not produce long-lasting branches (except the Russian branch, a few generations), until the <i><a href="/wiki/Riksmarskalk" class="mw-redirect" title="Riksmarskalk">riksmarskalk</a></i> of Sweden (High Marshal), <a href="/wiki/Ludvig_Douglas" title="Ludvig Douglas">Count Ludvig Douglas</a>, Minister of Foreign Affairs, in the late 1800s, had several sons and yet more grandsons. Branches starting from his sons and so:
+<h3><span class="mw-headline" id="Concept">Concept</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vocation&amp;action=edit&amp;section=2" title="Edit section: Concept">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The idea of vocation is central to the Christian belief that God has created each person with gifts and talents oriented toward specific purposes and a way of life.  In the broadest sense, as stated in the Catechism of the Catholic Church, "<i>Love</i> is the fundamental and innate vocation of every human being" (CCC 2392).  More specifically, in the <a href="/wiki/Orthodox_Church" class="mw-redirect" title="Orthodox Church">Orthodox</a> and <a href="/wiki/Catholic_Church" title="Catholic Church">Catholic Churches</a>, this idea of vocation is especially associated with a divine call to service to the Church and humanity through particular vocational  life commitments such as marriage to a particular person, consecration as a religious, ordination to priestly ministry in the Church and even a holy life as a single person.  In the broader sense, Christian vocation includes the use of one's gifts in their profession, family life, church and civic commitments for the sake of the greater common good.
 </p>
-<ul><li>von Douglas-Langenstein, descendants of count Robert, eldest son of the High Marshal Ludvig. They hold the castle of <a href="/wiki/Langenstein_Castle" title="Langenstein Castle">Langenstein</a> in <a href="/wiki/Baden-W%C3%BCrttemberg" title="Baden-Württemberg">Baden-Württemberg</a>, Germany</li>
-<li>von Reischach-Douglas, a cadet grandson of said count Robert</li>
-<li>Douglas-Gerstorp, the branch (settled to Sweden) descending from the youngest son of said Robert</li>
-<li>Douglas-Stjernorp, the branch descending from the Swedish general <a href="/wiki/Archibald_Douglas_(1883%E2%80%931960)" title="Archibald Douglas (1883–1960)">Archibald Douglas</a>, second son of the High Marshal Ludvig. In this branch, there's the castle of Stjärnorp, reacquired to the family in c. 1875
-<ul><li><a href="/wiki/Rosita_Spencer-Churchill,_Duchess_of_Marlborough" title="Rosita Spencer-Churchill, Duchess of Marlborough">Countess Dagmar Rosita Astrid Libertas Douglas-Stjernorp</a> (born 1943), British artist and former wife the 11th Duke of Marlborough.</li>
-<li><a href="/wiki/Princess_Elisabeth,_Duchess_in_Bavaria" title="Princess Elisabeth, Duchess in Bavaria">Princess Elisabeth, Duchess in Bavaria</a> (born 1940), heir presumptive to both the former Bavarian Royal House and the Jacobite Succession</li>
-<li><a href="/wiki/Gustaf_Douglas" title="Gustaf Douglas">Count Gustaf Archibald Siegwart Douglas</a> (born 1938), a Swedish businessman and politician</li>
-<li><a href="/wiki/Archibald_Douglas_(1883%E2%80%931960)" title="Archibald Douglas (1883–1960)">Count Vilhelm Archibald Douglas</a> (1883–1960), a Swedish nobleman and soldier</li></ul></li>
-<li>Douglas-Kolfall, the branch descending from Oscar, youngest son of the High Marshal Ludvig.</li></ul>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Douglas_(surname)&amp;action=edit&amp;section=22" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Douglass_(surname)" title="Douglass (surname)">Douglass (surname)</a></li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Douglas_(surname)&amp;action=edit&amp;section=23" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="Christian_views_on_work">Christian views on work</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vocation&amp;action=edit&amp;section=3" title="Edit section: Christian views on work">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many Christian theologians appeal to the Old Testment <a href="/wiki/Book_of_Genesis" title="Book of Genesis">Book of Genesis</a> in regards to work. According to <a href="/wiki/Genesis_creation_narrative" title="Genesis creation narrative">Genesis 1</a>, human beings were created in the <a href="/wiki/Image_of_God" title="Image of God">image of God</a>, and according to <a href="/wiki/Genesis_creation_narrative" title="Genesis creation narrative">Genesis 2</a>, <a href="/wiki/Adam" title="Adam">Adam</a> was placed in the <a href="/wiki/Garden_of_Eden" title="Garden of Eden">Garden of Eden</a> to "work it and keep it" (2:15, <a href="/wiki/English_Standard_Version" title="English Standard Version">ESV</a>). <a href="/wiki/Dorothy_L._Sayers" title="Dorothy L. Sayers">Dorothy L. Sayers</a> has argued that "work is the natural exercise and function of man – the creature who is made in the image of his Creator."<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>  Likewise, <a href="/wiki/John_Paul_II" class="mw-redirect" title="John Paul II">John Paul II</a> said in <i><a href="/wiki/Laborem_exercens" title="Laborem exercens">Laborem exercens</a></i> that by his work, man shares in the image of his Creator.
+</p><p>Christian theologians see the <a href="/wiki/Fall_of_man" title="Fall of man">Fall of man</a> profoundly affecting human work. In Genesis 3:17, God said to Adam, "cursed is the ground because of you; in pain you shall eat of it all the days of your life" (<a href="/wiki/English_Standard_Version" title="English Standard Version">ESV</a>). <a href="/wiki/Leland_Ryken" title="Leland Ryken">Leland Ryken</a> points out that, because of the Fall, "many of the tasks we perform in a fallen world are inherently distasteful and wearisome."<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> Through the Fall, work has become toil, but John Paul II says that work is a good thing for man in spite of this toil, and "perhaps, in a sense, because of it" because work is something that corresponds to man's dignity and through it he achieves fulfilment as a human being.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> The Fall also means that a <a href="/wiki/Work_ethic" title="Work ethic">work ethic</a> is needed. As a result of the Fall work has become subject to the abuses of idleness on the one hand, and overwork on the other. Drawing on <a href="/wiki/Aristotle" title="Aristotle">Aristotle</a>, Ryken suggests that the moral ideal is the <a href="/wiki/Golden_mean_(philosophy)" title="Golden mean (philosophy)">golden mean</a> between the two extremes of being lazy and being a workaholic.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p><p>Some Christian theologians also draw on the doctrine of <a href="/wiki/Redemption_(theology)" title="Redemption (theology)">redemption</a> to discuss the concept of work. <a href="/wiki/Oliver_O%27Donovan" title="Oliver O&#39;Donovan">Oliver O'Donovan</a> points out that although work is a gift of creation, it is "ennobled into mutual service in the fellowship of Christ."<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p><p><a href="/wiki/Leland_Ryken" title="Leland Ryken">Leland Ryken</a> argues for seeing the call of God to a particular occupation as a reflection of the gospel call, and suggests that this implies vocational loyalty – "modern notions of job become deficient" and "the element of arbitrariness of one's choice of work" is removed.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Modern_vocation">Modern vocation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vocation&amp;action=edit&amp;section=4" title="Edit section: Modern vocation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Avocation" title="Avocation">Avocation</a></div>
+<p>Since the establishment of Vocational Guidance in 1908 by the engineer <a href="/wiki/Frank_Parsons_(school_counselor)" class="mw-redirect" title="Frank Parsons (school counselor)">Frank Parsons</a>, the use of the term “vocation” has evolved, with emphasis shifting to an individual's development of talents and abilities in the choice and enjoyment of a career. This semantic expansion has meant some diminution of reference to the term's religious meanings in everyday usage.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Literary_clarification">Literary clarification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vocation&amp;action=edit&amp;section=5" title="Edit section: Literary clarification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>These books have attempted to define or clarify the term vocation.
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://archive.org/details/statesofthechris00bertuoft">States of the Christian life and vocation, according to the doctors and theologians of the Church</a></li>
+<li><i>A Theology of the Laity</i> by Hendrik Kraemer <style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-57383-031-7" title="Special:BookSources/978-1-57383-031-7">978-1-57383-031-7</a></li>
+<li><i>Living Your Heart's Desire: God's Call and Your Vocation</i> by Gregory S. Clapper <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8358-9805-8" title="Special:BookSources/978-0-8358-9805-8">978-0-8358-9805-8</a></li>
+<li><i>The Fabric of this World</i> by Lee Hardy <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8028-0298-9" title="Special:BookSources/978-0-8028-0298-9">978-0-8028-0298-9</a></li>
+<li><i>Your Work Matters to God</i> by Doug Sherman and William Hendricks <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-89109-372-5" title="Special:BookSources/978-0-89109-372-5">978-0-89109-372-5</a></li>
+<li><i>The Call</i> by Os Guinness <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8499-4437-6" title="Special:BookSources/978-0-8499-4437-6">978-0-8499-4437-6</a></li>
+<li><i>The Preaching Life</i> by Barbara Brown Taylor <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-56101-074-5" title="Special:BookSources/978-1-56101-074-5">978-1-56101-074-5</a></li>
+<li><i>Let Your Life Speak</i> by Parker J. Palmer <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7879-4735-4" title="Special:BookSources/978-0-7879-4735-4">978-0-7879-4735-4</a></li>
+<li><i>Lay People in the Church: A Study for a Theology of the Laity</i> by Yves M.J. Congar, O.P.  Translated by Donald Attwater 1959</li>
+<li><i>Luther on Vocation</i> by Gustaf Wingren 1957</li>
+<li><i>God at Work: Your Christian Vocation in All of Life</i> by <a href="/wiki/Gene_Edward_Veith_Jr." class="mw-redirect" title="Gene Edward Veith Jr.">Gene Edward Veith Jr.</a> <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-58134-403-1" title="Special:BookSources/1-58134-403-1">1-58134-403-1</a></li>
+<li><i>The Fabric of Faithfulness</i> by Steven Garber, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8308-1994-0" title="Special:BookSources/0-8308-1994-0">0-8308-1994-0</a></li>
+<li><i>Visions of Vocation</i> by Steven Garber, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8308-3666-6" title="Special:BookSources/978-0-8308-3666-6">978-0-8308-3666-6</a></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vocation&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Profession" title="Profession">Profession</a></li>
+<li><a href="/wiki/List_of_largest_employers" title="List of largest employers">List of largest employers</a></li>
+<li><a href="/wiki/Effectual_calling" title="Effectual calling">Effectual calling</a></li>
+<li><a href="/wiki/Otium" title="Otium">Otium</a></li>
+<li><a href="/wiki/Religious_calling" title="Religious calling">Religious calling</a></li>
+<li><a href="/wiki/Trade_(occupation)" class="mw-redirect" title="Trade (occupation)">Trade (occupation)</a></li>
+<li><a href="/wiki/Vocational_discernment_in_the_Catholic_Church" title="Vocational discernment in the Catholic Church">Vocational discernment in the Catholic Church</a></li>
+<li><a href="/wiki/Vocational_education" title="Vocational education">Vocational education</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vocation&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <div class="reflist" style="list-style-type: decimal;">
-<div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://forebears.co.uk/surnames/douglas">"Douglas Surname Meaning and Distribution"</a>. forebears.co.uk.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Douglas+Surname+Meaning+and+Distribution&amp;rft.pub=forebears.co.uk&amp;rft_id=http%3A%2F%2Fforebears.co.uk%2Fsurnames%2Fdouglas&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADouglas+%28surname%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style> Retrieved 23 January 2014</span>
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Richard A. Muller, <i>Dictionary of Latin and Greek Theological Terms: Drawn Principally from Protestant Scholastic Theology</i> (Grand Rapids, Michigan: Baker Book House Company, 1985), s.v. “vocation.”</span>
 </li>
-<li id="cite_note-a-last1-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-a-last1_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ancestry.com/learn/facts/default.aspx?">"Learn about the family history of your surname"</a>. <a href="/wiki/Ancestry.com" title="Ancestry.com">Ancestry.com</a><span class="reference-accessdate">. Retrieved <span class="nowrap">6 April</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Learn+about+the+family+history+of+your+surname&amp;rft.pub=Ancestry.com&amp;rft_id=http%3A%2F%2Fwww.ancestry.com%2Flearn%2Ffacts%2Fdefault.aspx%3F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADouglas+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/> which cited <cite class="citation book"><i>Dictionary of American Family Names</i>. <a href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-508137-4" title="Special:BookSources/0-19-508137-4"><bdi>0-19-508137-4</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Dictionary+of+American+Family+Names&amp;rft.pub=Oxford+University+Press&amp;rft.isbn=0-19-508137-4&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADouglas+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/> for the surname "Douglas".</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">The <a href="/wiki/OED" class="mw-redirect" title="OED">OED</a> records effectively identical uses of "call" in English back to c.1300: OED, "Call", 6 "To nominate by a personal "call" or summons (to special service or office);<i>esp.</i> by Divine authority..."</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite id="CITEREFCoghlan,_Ronan1979" class="citation">Coghlan, Ronan (1979), <i>Irish Christian names: an A-Z of first names</i>, Johnston and Bacon, p.&#160;42</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Irish+Christian+names%3A+an+A-Z+of+first+names&amp;rft.pages=42&amp;rft.pub=Johnston+and+Bacon&amp;rft.date=1979&amp;rft.au=Coghlan%2C+Ronan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADouglas+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.vatican.va/holy_father/john_paul_ii/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio_en.html">Pope John Paul II, <i>Familiaris Consortio</i>, 11.4</a></span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite id="CITEREFNorman,_Teresa2003" class="citation">Norman, Teresa (2003), <span class="cs1-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/worldofbabynames00norm_1"><i>A World of Baby Names</i></a></span> (Revised ed.), Perigee, p.&#160;287, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-399-52894-1" title="Special:BookSources/978-0-399-52894-1"><bdi>978-0-399-52894-1</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+World+of+Baby+Names&amp;rft.pages=287&amp;rft.edition=Revised&amp;rft.pub=Perigee&amp;rft.date=2003&amp;rft.isbn=978-0-399-52894-1&amp;rft.au=Norman%2C+Teresa&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fworldofbabynames00norm_1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADouglas+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Gustaf Wingren, <i>Luther on Vocation</i></span>
 </li>
-<li id="cite_note-Black-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Black_5-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFBlack1946" class="citation">Black, George Fraser (1946), <i>The Surnames of Scotland: Their Origin, Meaning, and History</i>, New York: <a href="/wiki/New_York_Public_Library" title="New York Public Library">New York Public Library</a>, pp.&#160;217–218</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Surnames+of+Scotland%3A+Their+Origin%2C+Meaning%2C+and+History&amp;rft.place=New+York&amp;rft.pages=217-218&amp;rft.pub=New+York+Public+Library&amp;rft.date=1946&amp;rft.aulast=Black&amp;rft.aufirst=George+Fraser&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADouglas+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">David L. Jeffrey, <i>A Dictionary of biblical tradition in English literature</i>, Wm. B. Eerdmans Publishing, 1992, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8028-3634-8" title="Special:BookSources/0-8028-3634-8">0-8028-3634-8</a>, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8028-3634-2" title="Special:BookSources/978-0-8028-3634-2">978-0-8028-3634-2</a>, <a rel="nofollow" class="external text" href="https://books.google.com/books?id=zD6xVr1CizIC&amp;pg=PA815&amp;dq=vocatio+universalis&amp;ei=V-MCSqT_H4e4M5WVuekD#PPA815,M1">Google books</a> See also <a href="/wiki/Max_Weber" title="Max Weber">Max Weber</a>, <i><a href="/wiki/The_Protestant_Ethic_and_the_Spirit_of_Capitalism" title="The Protestant Ethic and the Spirit of Capitalism">The Protestant Ethic and the Spirit of Capitalism</a></i>, trans. Alcott Parsons, Ch.3, p. 79 &amp; note 1.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Kenneth G. Appold. <i>Abraham Calov's doctrine of vocatio in its systematic context</i>, p. 125 and generally, Mohr Siebeck, 1998, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-16-146858-9" title="Special:BookSources/3-16-146858-9">3-16-146858-9</a>, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-16-146858-2" title="Special:BookSources/978-3-16-146858-2">978-3-16-146858-2</a>, <a rel="nofollow" class="external text" href="https://books.google.com/books?id=ZAed_DrVKOMC&amp;pg=PA125&amp;dq=vocatio+universalis&amp;lr=&amp;as_brr=3&amp;ei=HOkCSvmqLKDcMMPo2dID">Google books</a>. See also Jeffrey, 815</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Dorothy_L._Sayers" title="Dorothy L. Sayers">Sayers, Dorothy L.</a> <a rel="nofollow" class="external text" href="http://www.faith-at-work.net/Docs/WhyWork.pdf">"Why Work?"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">29 July</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Why+Work%3F&amp;rft.aulast=Sayers&amp;rft.aufirst=Dorothy+L.&amp;rft_id=http%3A%2F%2Fwww.faith-at-work.net%2FDocs%2FWhyWork.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVocation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a href="/wiki/Leland_Ryken" title="Leland Ryken">Leland Ryken</a>, <i>Work and Leisure in Christian Perspective</i> (Portland: Multnomah, 1987), 120.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a href="/wiki/John_Paul_II" class="mw-redirect" title="John Paul II">John Paul II</a>, <i><a href="/wiki/Laborem_exercens" title="Laborem exercens">Laborem exercens</a></i>, § 9.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Ryken, <i>Work and Leisure</i>, 176.</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a href="/wiki/Oliver_O%27Donovan" title="Oliver O&#39;Donovan">Oliver O'Donovan</a>, "Christian Moral Reasoning," in David J. Atkinson and David H. Field (eds), <i>New Dictionary of Christian Ethics and Pastoral Theology</i> (Leicester: IVP, 1995), 123.</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Ryken, <i>Work and Leisure</i>, 147.</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Douglas J. Schuurman; <i>Vocation: Discerning Our Callings in Life</i> (Grand Rapids: Wm B. Eerdmans Publishing Co., 2004) <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8028-0137-1" title="Special:BookSources/978-0-8028-0137-1">978-0-8028-0137-1</a> pages 5 &amp; 6</span>
 </li>
 </ol></div></div>
-<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Douglas_(surname)&amp;action=edit&amp;section=24" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a rel="nofollow" class="external text" href="http://mdz10.bib-bvb.de/~db/bsb00000601/images/index.html?seite=334">Genealogisches Handbuch der baltischen Ritterschaften Teil 2,3: Estland, Görlitz 1930</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since December 2016">permanent dead link</span></a></i>&#93;</span></sup> Genealogy handbook of <a href="/wiki/Baltic_nobility" title="Baltic nobility">Baltic nobility</a></li></ul>
-<style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
-<table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vocation&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
 <tbody><tr>
-<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
-<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Douglas</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Douglas_(surname)&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
-</tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" decoding="async" width="34" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="https://en.wikiquote.org/wiki/Special:Search/Vocation" class="extiw" title="q:Special:Search/Vocation">Vocation</a></b></i></td></tr>
 </tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://cara.georgetown.edu">Center for Applied Research in the Apostolate</a> national, non-profit, Georgetown University affiliated research center that conducts social scientific studies about the Catholic Church.</li></ul>
 <!-- 
 NewPP limit report
-Parsed by mw1228
-Cached time: 20191018103101
+Parsed by mw1320
+Cached time: 20191011154233
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.420 seconds
-Real time usage: 0.568 seconds
-Preprocessor visited node count: 1755/1000000
+CPU time usage: 0.392 seconds
+Real time usage: 0.518 seconds
+Preprocessor visited node count: 3320/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 16736/2097152 bytes
-Template argument size: 2390/2097152 bytes
+Post‐expand include size: 23992/2097152 bytes
+Template argument size: 7618/2097152 bytes
 Highest expansion depth: 15/40
-Expensive parser function count: 2/500
+Expensive parser function count: 1/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 16814/5000000 bytes
+Unstrip post‐expand size: 36497/5000000 bytes
 Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.153/10.000 seconds
-Lua memory usage: 3.79 MB/50 MB
+Lua time usage: 0.149/10.000 seconds
+Lua memory usage: 6.37 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  377.225      1 -total
- 43.00%  162.205      1 Template:Reflist
- 32.19%  121.417      2 Template:Cite_web
- 16.07%   60.624      1 Template:Infobox_surname
- 12.62%   47.602      1 Template:Surname
- 12.58%   47.462      1 Template:Dead_link
- 12.35%   46.580      1 Template:Infobox
- 10.57%   39.864      1 Template:Fix
- 10.05%   37.899      3 Template:Category_handler
-  9.95%   37.550      1 Template:Dmbox
+100.00%  478.762      1 -total
+ 41.08%  196.695     15 Template:ISBN
+ 24.04%  115.091      1 Template:Reflist
+ 21.72%  103.996     15 Template:Catalog_lookup_link
+ 13.56%   64.937      1 Template:Failed_verification
+ 11.89%   56.907      1 Template:Ety
+ 11.50%   55.081      1 Template:Fix
+ 11.06%   52.941      1 Template:Cite_web
+ 10.51%   50.312      1 Template:Etymology/lang
+  8.13%   38.915      1 Template:Category_handler
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:145316-0!canonical and timestamp 20191018103133 and revision id 921856359
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1566484-0!canonical and timestamp 20191011154233 and revision id 901258438
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Douglas_(surname)&amp;oldid=921856359">https://en.wikipedia.org/w/index.php?title=Douglas_(surname)&amp;oldid=921856359</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Vocation&amp;oldid=901258438">https://en.wikipedia.org/w/index.php?title=Vocation&amp;oldid=901258438</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:Scottish-language_surnames" title="Category:Scottish-language surnames">Scottish-language surnames</a></li><li><a href="/wiki/Category:Anglicised_Scottish_Gaelic-language_surnames" title="Category:Anglicised Scottish Gaelic-language surnames">Anglicised Scottish Gaelic-language surnames</a></li><li><a href="/wiki/Category:House_of_Douglas_and_Angus" title="Category:House of Douglas and Angus">House of Douglas and Angus</a></li><li><a href="/wiki/Category:Toponymic_surnames" title="Category:Toponymic surnames">Toponymic surnames</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_December_2016" title="Category:Articles with dead external links from December 2016">Articles with dead external links from December 2016</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Christian_missions" title="Category:Christian missions">Christian missions</a></li><li><a href="/wiki/Category:Christian_terminology" title="Category:Christian terminology">Christian terminology</a></li><li><a href="/wiki/Category:Christian_religious_occupations" title="Category:Christian religious occupations">Christian religious occupations</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_failed_verification" title="Category:All articles with failed verification">All articles with failed verification</a></li><li><a href="/wiki/Category:Articles_with_failed_verification_from_November_2014" title="Category:Articles with failed verification from November 2014">Articles with failed verification from November 2014</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -706,13 +211,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Douglas+%28surname%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Douglas+%28surname%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Vocation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Vocation" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Douglas_(surname)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Douglas_(surname)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Vocation" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Vocation" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -727,7 +232,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Douglas_(surname)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Douglas_(surname)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Douglas_(surname)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Vocation">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Vocation&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Vocation&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -766,35 +271,35 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Douglas_(surname)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Douglas_(surname)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Douglas_(surname)&amp;oldid=921856359" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Douglas_(surname)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2677358" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Douglas_%28surname%29&amp;id=921856359" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Vocation" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Vocation" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Vocation&amp;oldid=901258438" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Vocation&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q829183" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Vocation&amp;id=901258438" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
 			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
 			<div class="body">
 								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Douglas_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
+					<li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Vocation" hreflang="en">Wikiquote</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Douglas+%28surname%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Douglas+%28surname%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Douglas_(surname)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Vocation">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Vocation&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Vocation&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Douglas_(p%C5%99%C3%ADjmen%C3%AD)" title="Douglas (příjmení) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Douglas_(Familienname)" title="Douglas (Familienname) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Douglas_(efternamn)" title="Douglas (efternamn) – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2677358#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Berufung_(Religion)" title="Berufung (Religion) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Vocaci%C3%B3n_profesional" title="Vocación profesional – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Vokiteco" title="Vokiteco – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Bokazio" title="Bokazio – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Vocation" title="Vocation – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Vocation" title="Vocation – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Vocazione" title="Vocazione – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Hivat%C3%A1s" title="Hivatás – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Roeping_(idee)" title="Roeping (idee) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E5%8F%AC%E5%91%BD" title="召命 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Kallelse" title="Kallelse – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Powo%C5%82anie" title="Powołanie – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Vocation" title="Vocation – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Vokaatio" title="Vokaatio – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Kallelse" title="Kallelse – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%BF%97%E6%A5%AD" title="志業 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q829183#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 18 October 2019, at 10:31<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 10 June 2019, at 17:59<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -805,7 +310,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Douglas_(surname)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Vocation&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -817,8 +322,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.420","walltime":"0.568","ppvisitednodes":{"value":1755,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":16736,"limit":2097152},"templateargumentsize":{"value":2390,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":16814,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  377.225      1 -total"," 43.00%  162.205      1 Template:Reflist"," 32.19%  121.417      2 Template:Cite_web"," 16.07%   60.624      1 Template:Infobox_surname"," 12.62%   47.602      1 Template:Surname"," 12.58%   47.462      1 Template:Dead_link"," 12.35%   46.580      1 Template:Infobox"," 10.57%   39.864      1 Template:Fix"," 10.05%   37.899      3 Template:Category_handler","  9.95%   37.550      1 Template:Dmbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.153","limit":"10.000"},"limitreport-memusage":{"value":3972262,"limit":52428800}},"cachereport":{"origin":"mw1228","timestamp":"20191018103101","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Douglas (surname)","url":"https:\/\/en.wikipedia.org\/wiki\/Douglas_(surname)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2677358","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2677358","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-11-08T22:50:18Z","dateModified":"2019-10-18T10:31:33Z","headline":"family name"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":105,"wgHostname":"mw1332"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.392","walltime":"0.518","ppvisitednodes":{"value":3320,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":23992,"limit":2097152},"templateargumentsize":{"value":7618,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":36497,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  478.762      1 -total"," 41.08%  196.695     15 Template:ISBN"," 24.04%  115.091      1 Template:Reflist"," 21.72%  103.996     15 Template:Catalog_lookup_link"," 13.56%   64.937      1 Template:Failed_verification"," 11.89%   56.907      1 Template:Ety"," 11.50%   55.081      1 Template:Fix"," 11.06%   52.941      1 Template:Cite_web"," 10.51%   50.312      1 Template:Etymology/lang","  8.13%   38.915      1 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.149","limit":"10.000"},"limitreport-memusage":{"value":6684250,"limit":52428800}},"cachereport":{"origin":"mw1320","timestamp":"20191011154233","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Vocation","url":"https:\/\/en.wikipedia.org\/wiki\/Vocation","sameAs":"http:\/\/www.wikidata.org\/entity\/Q829183","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q829183","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-03-03T23:52:29Z","dateModified":"2019-06-10T17:59:28Z","headline":"occupation to which a person is specially drawn or for which he or she is suited, trained, or qualified"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":107,"wgHostname":"mw1333"});});</script>
 </body>
 </html>

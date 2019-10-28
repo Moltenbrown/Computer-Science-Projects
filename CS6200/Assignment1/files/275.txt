@@ -2,35 +2,35 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Miller (surname) - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Miller_(surname)","wgTitle":"Miller (surname)","wgCurRevisionId":907369880,"wgRevisionId":907369880,"wgArticleId":3895112,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Use dmy dates from October 2010","Surnames","Occupational surnames","Surnames of British Isles origin","Surnames of Ulster-Scottish origin","Surnames of Scottish origin","Scottish surnames","English-language surnames"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr",
-"May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Miller_(surname)","wgRelevantArticleId":3895112,"wgRequestId":"Xa@0vApAICkAADlqycsAAACF","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Miller_(name)","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Miller_(surname)","wgWikibaseItemId":"Q1605060","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready",
-"noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups",
-"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Walker (surname) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Walker_(surname)","wgTitle":"Walker (surname)","wgCurRevisionId":915231575,"wgRevisionId":915231575,"wgArticleId":250543,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using infobox given name with unknown parameters","Articles with short description","All set index articles","Surnames","English-language surnames","German-language surnames","Occupational surnames"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+"wgRelevantPageName":"Walker_(surname)","wgRelevantArticleId":250543,"wgRequestId":"XbXRoApAMFUAACWoEcMAAABN","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1158605","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading",
+"ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.2"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Miller_(surname)"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Miller_(surname)&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Miller_(surname)&amp;action=edit"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Walker_(surname)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Walker_(surname)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Walker_(surname)&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Miller_(surname)"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Walker_(surname)"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Miller_surname rootpage-Miller_surname skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Walker_surname rootpage-Walker_surname skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -39,152 +39,364 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Miller (surname)</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Walker (surname)</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
-		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Miller_(name)&amp;redirect=no" class="mw-redirect" title="Miller (name)">Miller (name)</a>)</span></div>
+		<div id="contentSub"></div>
 		
 		
 		
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For a list of people with the surname Miller, see <a href="/wiki/List_of_people_with_surname_Miller" title="List of people with surname Miller">List of people with surname Miller</a>.</div>
-<table class="infobox" style="width:22em"><caption>Miller</caption><tbody><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Origin</th></tr><tr><th scope="row">Meaning</th><td>derived from the occupation of a <a href="/wiki/Miller" title="Miller">miller</a></td></tr><tr><th scope="row">Region of origin</th><td><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> (<a href="/wiki/England" title="England">England</a>, <a href="/wiki/Northern_Ireland" title="Northern Ireland">Northern Ireland</a>, <a href="/wiki/Scotland" title="Scotland">Scotland</a>)</td></tr><tr><td colspan="2" style="text-align:center;border-top: #a2a9b1 1px solid;"><sup id="cite_ref-worldnames_1-0" class="reference"><a href="#cite_note-worldnames-1">&#91;1&#93;</a></sup><sup id="cite_ref-gbnames_2-0" class="reference"><a href="#cite_note-gbnames-2">&#91;2&#93;</a></sup><sup id="cite_ref-britishsurnames_3-0" class="reference"><a href="#cite_note-britishsurnames-3">&#91;3&#93;</a></sup><sup id="cite_ref-scotland_4-0" class="reference"><a href="#cite_note-scotland-4">&#91;4&#93;</a></sup><sup id="cite_ref-ancestry_5-0" class="reference"><a href="#cite_note-ancestry-5">&#91;5&#93;</a></sup><sup id="cite_ref-mencken_6-0" class="reference"><a href="#cite_note-mencken-6">&#91;6&#93;</a></sup></td></tr></tbody></table>
-<p><b>Miller</b> and <b>Millar</b> are surnames of <a href="/wiki/English_language" title="English language">English language</a>, <a href="/wiki/Old_English" title="Old English">Old English</a> or <a href="/wiki/Scots_language" title="Scots language">Scottish</a> origin. There are two <a href="/wiki/Homonym" title="Homonym">homonymous</a> forms of <i>Miller</i>, one that began as an <a href="/wiki/Surname#Occupational_surname" title="Surname">occupational surname</a> for a <a href="/wiki/Miller" title="Miller">miller</a><sup id="cite_ref-worldnames_1-1" class="reference"><a href="#cite_note-worldnames-1">&#91;1&#93;</a></sup><sup id="cite_ref-gbnames_2-1" class="reference"><a href="#cite_note-gbnames-2">&#91;2&#93;</a></sup><sup id="cite_ref-britishsurnames_3-1" class="reference"><a href="#cite_note-britishsurnames-3">&#91;3&#93;</a></sup><sup id="cite_ref-scotland_4-1" class="reference"><a href="#cite_note-scotland-4">&#91;4&#93;</a></sup> and another that began as a <a href="/wiki/Toponymic_surname" title="Toponymic surname">toponymic surname</a> for people from a locale in <a href="/wiki/Glasgow" title="Glasgow">Glasgow</a>. <i>Miller</i> of the occupational origin may also be translated from many <a href="/wiki/Cognate" title="Cognate">cognate</a> surnames from other <a href="/wiki/European_languages" class="mw-redirect" title="European languages">European languages</a>,<sup id="cite_ref-ancestry_5-1" class="reference"><a href="#cite_note-ancestry-5">&#91;5&#93;</a></sup><sup id="cite_ref-mencken_6-1" class="reference"><a href="#cite_note-mencken-6">&#91;6&#93;</a></sup> such as <i><a href="/wiki/Mueller" title="Mueller">Mueller</a></i>, <i><a href="/wiki/M%C3%BCller_(surname)" title="Müller (surname)">Müller</a></i>, <i>Mühler</i>, <i><a href="/wiki/Moller" title="Moller">Moller</a></i>, <i>Möller</i>, <i>Møller</i>, <a href="/wiki/Myller" title="Myller">Myller</a>, and others. There is also a form in the early English lingusitics as <i>Milleiir</i>.
-</p><p>The standard modern word represents the northern <a href="/wiki/Middle_English" title="Middle English">Middle English</a> term, an agent derivative of mille ‘mill’, reinforced by <a href="/wiki/Old_Norse" title="Old Norse">Old Norse</a> mylnari (see Milner). In southern, western, and central England, Millward (literally, ‘mill keeper’) was the usual term.<sup id="cite_ref-ancestry_5-2" class="reference"><a href="#cite_note-ancestry-5">&#91;5&#93;</a></sup>
-</p><p>The origin of the Scottish surname is from a burn (rivulet) in <a href="/wiki/Glasgow" title="Glasgow">Glasgow</a>, namely the molindinar (Mo-lynn-dine-are), and the name has evolved over the years to molindar Mo-lynn-dar and to molinar mo-lynn-ar and to Millar and finally to Miller. The first record of the name was in <a href="/wiki/Dumfriesshire" title="Dumfriesshire">Dumfriesshire</a>, <a href="/wiki/Scotland" title="Scotland">Scotland</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> If the surname has Highland Scottish origins, the bearers are associated with <a href="/wiki/Clan_MacFarlane" title="Clan MacFarlane">Clan MacFarlane</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> In 1995, Miller was the 22nd most common surname on the birth, death and marriage registers in Scotland; Millar was 77th.<sup id="cite_ref-scotland_4-2" class="reference"><a href="#cite_note-scotland-4">&#91;4&#93;</a></sup>
-</p><p>The name Miller also has a long history in <a href="/wiki/Northern_Ireland" title="Northern Ireland">Northern Ireland</a>, notably <a href="/wiki/County_Antrim" title="County Antrim">County Antrim</a> where many migrants from Northern England and Scotland settled in the 16th and 17th centuries.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
-</p><p>Amongst the earliest recordings of the surname is Reginald Miller in the Subsidy Tax Rolls of <a href="/wiki/Sussex" title="Sussex">Sussex</a>, <a href="/wiki/South_East_England" title="South East England">South East England</a> in 1327.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em"><caption>Walker</caption><tbody><tr><th scope="row">Pronunciation</th><td><span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="&#39;w&#39; in &#39;wind&#39;">w</span><span title="/ɔː/: &#39;au&#39; in &#39;fraud&#39;">ɔː</span><span title="&#39;k&#39; in &#39;kind&#39;">k</span><span title="/ər/: &#39;er&#39; in &#39;letter&#39;">ər</span></span>/</a></span></span></td></tr><tr><th scope="row"><a href="/wiki/Language" title="Language">Language</a>(s)</th><td><a href="/wiki/English_language" title="English language">English</a>, <a href="/wiki/Scots_language" title="Scots language">Scots</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>, <a href="/wiki/Middle_High_German" title="Middle High German">Middle High German</a>, <a href="/wiki/German_language" title="German language">German</a></td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Origin</th></tr><tr><th scope="row">Meaning</th><td>A <i><a href="/wiki/Fulling" title="Fulling">walker</a>,</i> or one who "walked" on raw, damp cloth in order to thicken it.</td></tr><tr><th scope="row">Region of origin</th><td>Europe</td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Other names</th></tr><tr><th scope="row">Variant form(s)</th><td><a href="/wiki/Welker" title="Welker">Welker</a>, Walcher, Welcker, Wallker, Walkyr, Walkere, <i>Wealcan</i>, <i>Walcere</i></td></tr></tbody></table>
+<p><b>Walker</b> is an <a href="/wiki/English_name" title="English name">English</a> and <a href="/wiki/German_name" title="German name">German</a> <a href="/wiki/Surname" title="Surname">surname</a> derived from either a <a href="/wiki/Fulling" title="Fulling">fuller</a>, from the <a href="/wiki/Middle_High_German" title="Middle High German">Middle High German</a> <i>walker,</i><sup id="cite_ref-:0_2-0" class="reference"><a href="#cite_note-:0-2">&#91;2&#93;</a></sup> meaning "a fuller of cloth", or an officer whose duty consisted of walking or inspecting a certain part of a forest. The surname "Walker" was first found in Germany where records of the name date back to the thirteenth century. In 1253, Sigelo dictus Welkere was recorded in <a href="/wiki/Wei%C3%9Fenburg_in_Bayern" title="Weißenburg in Bayern">Weissenburg</a>,<sup id="cite_ref-:0_2-1" class="reference"><a href="#cite_note-:0-2">&#91;2&#93;</a></sup> and in 1209, Bruno Welkiner was a citizen of <a href="/wiki/Cologne" title="Cologne">Cologne</a>.<sup id="cite_ref-:0_2-2" class="reference"><a href="#cite_note-:0-2">&#91;2&#93;</a></sup> The Walker Families of <a href="/wiki/England" title="England">England</a> are believed to originate from <a href="/wiki/Yorkshire" title="Yorkshire">Yorkshire</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>.
+</p><p>With close to 100,000 bearers, Walker is the 18th most common surname in England.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> As of the 2000 U.S. Census, 501,307 people had the surname Walker, making it the 28th most common surname in America.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> It is the 14th most common surname in Australia, with 26,688 people as of 2007.<sup id="cite_ref-Australia1_6-0" class="reference"><a href="#cite_note-Australia1-6">&#91;6&#93;</a></sup>
 </p>
-<h2><span class="mw-headline" id="In_North_America">In North America</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Miller_(surname)&amp;action=edit&amp;section=1" title="Edit section: In North America">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>The surname Miller in Canada and the United States can also be the result of <a href="/wiki/Anglicization" class="mw-redirect" title="Anglicization">anglicization</a> of:
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#People_with_the_surname"><span class="tocnumber">1</span> <span class="toctext">People with the surname</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Arts_and_letters"><span class="tocnumber">1.1</span> <span class="toctext">Arts and letters</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Business"><span class="tocnumber">1.2</span> <span class="toctext">Business</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Film_and_radio"><span class="tocnumber">1.3</span> <span class="toctext">Film and radio</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Musicians_and_singers"><span class="tocnumber">1.4</span> <span class="toctext">Musicians and singers</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Actors"><span class="tocnumber">1.5</span> <span class="toctext">Actors</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Dancers"><span class="tocnumber">1.6</span> <span class="toctext">Dancers</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Military"><span class="tocnumber">1.7</span> <span class="toctext">Military</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Politics_and_law"><span class="tocnumber">1.8</span> <span class="toctext">Politics and law</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Science"><span class="tocnumber">1.9</span> <span class="toctext">Science</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Sports"><span class="tocnumber">1.10</span> <span class="toctext">Sports</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Miscellaneous"><span class="tocnumber">1.11</span> <span class="toctext">Miscellaneous</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Disambiguations"><span class="tocnumber">1.12</span> <span class="toctext">Disambiguations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#People_with_the_given_name"><span class="tocnumber">2</span> <span class="toctext">People with the given name</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Fictional_characters"><span class="tocnumber">3</span> <span class="toctext">Fictional characters</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Other"><span class="tocnumber">4</span> <span class="toctext">Other</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="People_with_the_surname">People with the surname</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=1" title="Edit section: People with the surname">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Arts_and_letters">Arts and letters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=2" title="Edit section: Arts and letters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Ada_Hill_Walker" title="Ada Hill Walker">Ada Hill Walker</a> (1879-1955), scientific illustrator</li>
+<li><a href="/wiki/Alice_Walker" title="Alice Walker">Alice Walker</a> (born 1944), American author</li>
+<li><a href="/wiki/Derek_Walker" title="Derek Walker">Derek Walker</a> (1929–2015), British architect</li>
+<li><a href="/wiki/Frank_Buckley_Walker" title="Frank Buckley Walker">Frank Buckley Walker</a> (1889–1963), American musical talent agent and author</li>
+<li><a href="/wiki/Frederick_Walker_(painter)" title="Frederick Walker (painter)">Frederick Walker (painter)</a> (1840–1875), English painter and illustrator</li>
+<li><a href="/wiki/James_F._Walker" title="James F. Walker">James F. Walker</a> (1913–1994), American graphic artist</li>
+<li><a href="/wiki/Kara_Walker" title="Kara Walker">Kara Walker</a> (born 1969), American artist</li>
+<li><a href="/wiki/Laura_S._Walker" title="Laura S. Walker">Laura S. Walker</a> (1861-1955), American writer</li>
+<li><a href="/wiki/Margaret_Walker" title="Margaret Walker">Margaret Walker</a> (1915–1998), American poet</li>
+<li><a href="/wiki/Murray_Walker" title="Murray Walker">Murray Walker</a> (born 1923), English journalist</li>
+<li><a href="/wiki/Obadiah_Walker" title="Obadiah Walker">Obadiah Walker</a> (1616–1699), English man of letters</li>
+<li><a href="/wiki/Ranginui_Walker" title="Ranginui Walker">Ranginui Walker</a> (1932–2016), Māori academic and writer</li>
+<li><a href="/wiki/Ray_Walker_(artist)" title="Ray Walker (artist)">Ray Walker (artist)</a> (1945–1984), British mural artist</li>
+<li><a href="/wiki/Ryan_Walker_(cartoonist)" title="Ryan Walker (cartoonist)">Ryan Walker (cartoonist)</a> (1870–1932), American political cartoonist</li>
+<li><a href="/wiki/W._H._Romaine-Walker" title="W. H. Romaine-Walker">William Henry Romaine-Walker</a> (1854–1940), English architect and interior decorator</li></ul>
+<h3><span class="mw-headline" id="Business">Business</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=3" title="Edit section: Business">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Aldace_F._Walker" title="Aldace F. Walker">Aldace F. Walker</a> (1842–1901), American railroad executive</li>
+<li><a href="/wiki/Darren_Walker" title="Darren Walker">Darren Walker</a>, African-American lawyer and banker</li>
+<li><a href="/wiki/Gene_S._Walker,_Sr." class="mw-redirect" title="Gene S. Walker, Sr.">Gene S. Walker, Sr.</a> (1926–2015), American rancher and businessman</li>
+<li><a href="/wiki/Joseph_Edison_Walker" title="Joseph Edison Walker">Joseph Edison Walker</a> (1879–1958), American insurance executive and banker</li>
+<li><a href="/wiki/Madam_C._J._Walker" title="Madam C. J. Walker">Madam C. J. Walker</a>, African-American entrepreneur</li>
+<li><a href="/wiki/Norman_W._Walker" title="Norman W. Walker">Norman W. Walker</a> (1886–1985), English-American pioneer in vegetable juicing</li>
+<li><a href="/wiki/Thomas_B._Walker,_Jr." class="mw-redirect" title="Thomas B. Walker, Jr.">Thomas B. Walker, Jr.</a> (1923–2016), American investment banker</li></ul>
+<h3><span class="mw-headline" id="Film_and_radio">Film and radio</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=4" title="Edit section: Film and radio">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Anna_Walker_(television_presenter)" title="Anna Walker (television presenter)">Anna Walker (television presenter)</a> (born 1962), English television presenter</li>
+<li><a href="/wiki/Cas_Walker" title="Cas Walker">Cas Walker</a> (1902–1998), American grocer and radio/TV producer from Tennessee</li>
+<li><a href="/wiki/Ed_Walker_(radio_personality)" title="Ed Walker (radio personality)">Ed Walker (radio personality)</a> (1932–2015), radio personality</li>
+<li><a href="/wiki/Hal_Walker" title="Hal Walker">Hal Walker</a> (1896–1972), American director</li>
+<li><a href="/wiki/H._M._Walker" title="H. M. Walker">H. M. Walker</a> (c. 1884 – 1937), American scriptwriter</li>
+<li><a href="/wiki/Lesley_Walker" title="Lesley Walker">Lesley Walker</a>, British film editor</li>
+<li><a href="/wiki/Walter_Walker_(actor)" title="Walter Walker (actor)">Walter Walker</a> (1864–1947), American actor of the stage and screen</li></ul>
+<h3><span class="mw-headline" id="Musicians_and_singers">Musicians and singers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=5" title="Edit section: Musicians and singers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Alan_Walker_(music_producer)" title="Alan Walker (music producer)">Alan Walker (music producer)</a>, Norwegian DJ and music producer</li>
+<li><a href="/wiki/Billy_Walker_(musician)" title="Billy Walker (musician)">Billy Walker (musician)</a> (1929–2006), American country music singer</li>
+<li><a href="/wiki/Butch_Walker" title="Butch Walker">Butch Walker</a> (born 1969), American musician</li>
+<li>Carlos Walker (1976–2016), birth name of <a href="/wiki/Shawty_Lo" title="Shawty Lo">Shawty Lo</a>, American rap musician</li>
+<li><a href="/wiki/Charlie_Walker_(musician)" title="Charlie Walker (musician)">Charlie Walker (musician)</a> (1926–2008), American country music singer-songwriter</li>
+<li><a href="/wiki/Cindy_Walker" title="Cindy Walker">Cindy Walker</a> (1918–2006), American songwriter, country singer</li>
+<li><a href="/wiki/Clay_Walker" title="Clay Walker">Clay Walker</a>, American country music singer-songwriter</li>
+<li><a href="/wiki/John_Walker_(organist)" title="John Walker (organist)">John Walker (organist)</a>, (born 1941) recording artist</li>
+<li><a href="/wiki/Junior_Walker" title="Junior Walker">Junior Walker</a> (1931–1995), musician</li>
+<li><a href="/wiki/Shirley_Walker" title="Shirley Walker">Shirley Walker</a> (1945–2006), American music composer</li>
+<li><a href="/wiki/Stan_Walker" title="Stan Walker">Stan Walker</a> (born 1990), Australian-New Zealand recording artist, actor, and television personality</li>
+<li><a href="/wiki/Stewart_Walker" title="Stewart Walker">Stewart Walker</a>, American electronic musician</li>
+<li><a href="/wiki/T-Bone_Walker" title="T-Bone Walker">T-Bone Walker</a> (1910–1975), American musician</li>
+<li><a href="/wiki/Vincent_Walker" title="Vincent Walker">Vincent Walker</a>, American singer and trumpet player</li></ul>
+<h3><span class="mw-headline" id="Actors">Actors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=6" title="Edit section: Actors">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Clint_Walker" title="Clint Walker">Clint Walker</a> (1927–2018), American actor</li>
+<li><a href="/wiki/Doug_Walker_(actor)" class="mw-redirect" title="Doug Walker (actor)">Doug Walker</a> (born 1981), American actor and internet personality</li>
+<li><a href="/wiki/Jimmie_Walker" title="Jimmie Walker">Jimmie Walker</a> (born 1947) American actor and comedian, best known as "J.J." in the sitcom "Good Times" and his signature catchphrase "Dy-no-mite!"</li>
+<li><a href="/wiki/Liza_Walker" title="Liza Walker">Liza Walker</a> (born 1972), English actress</li>
+<li><a href="/wiki/Marcy_Walker" title="Marcy Walker">Marcy Walker</a> (born 1961), American actress</li>
+<li><a href="/wiki/Nancy_Walker" title="Nancy Walker">Nancy Walker</a> (1922–1992), American actress</li>
+<li><a href="/wiki/Paul_Walker" title="Paul Walker">Paul Walker</a> (1973–2013), American actor</li>
+<li><a href="/wiki/Tonja_Walker" title="Tonja Walker">Tonja Walker</a> (born 1960), American soap opera actress</li>
+<li><a href="/wiki/Jonathan_Lloyd_Walker" title="Jonathan Lloyd Walker">Jonathan Walker</a> (born 1976), British actor</li></ul>
+<h3><span class="mw-headline" id="Dancers">Dancers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=7" title="Edit section: Dancers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Elizabeth_Walker_(dancer)" class="mw-redirect" title="Elizabeth Walker (dancer)">Elizabeth Walker (dancer)</a>, American ballet dancer</li>
+<li><a href="/wiki/Travis_Walker_(dancer)" class="mw-redirect" title="Travis Walker (dancer)">Travis Walker (dancer)</a> American contemporary ballet dancer</li></ul>
+<h3><span class="mw-headline" id="Military">Military</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=8" title="Edit section: Military">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Arnold_Walker_(RAF_officer)" title="Arnold Walker (RAF officer)">Arnold Walker (RAF officer)</a>, British fighter pilot</li>
+<li><a href="/wiki/Diana_Barnato_Walker" title="Diana Barnato Walker">Diana Barnato Walker</a> (1918–2008), British support pilot of World War II</li>
+<li><a href="/wiki/Duncan_Stephen_Walker" title="Duncan Stephen Walker">Duncan Stephen Walker</a>, American Union brevet brigadier general</li>
+<li><a href="/wiki/Edward_Alexander_Walker" title="Edward Alexander Walker">Edward Alexander Walker</a>, American Medal of Honor recipient</li>
+<li>Major General <a href="/wiki/Edwin_Walker" title="Edwin Walker">Edwin Walker</a>, American general</li>
+<li>Lieutenant General <a href="/wiki/Emmett_H._Walker,_Jr." class="mw-redirect" title="Emmett H. Walker, Jr.">Emmett H. Walker, Jr.</a>, American National Guard chief</li>
+<li><a href="/wiki/Frank_O._Walker" class="mw-redirect" title="Frank O. Walker">Frank O. Walker</a>, Philippine–American War Medal of Honor recipient</li>
+<li>Major General <a href="/wiki/Fred_L._Walker" title="Fred L. Walker">Fred L. Walker</a>, (1887–1969), American general</li>
+<li>Captain <a href="/wiki/Frederic_John_Walker" title="Frederic John Walker">Frederic John Walker</a> (1896–1944), British naval officer</li>
+<li>Surgeon-General <a href="/wiki/James_Pattison_Walker" title="James Pattison Walker">James Pattison Walker</a> (1823-1906), British Indian army surgeon</li>
+<li><a href="/wiki/John_Anthony_Walker" title="John Anthony Walker">John Anthony Walker</a> (1937-2014), US Navy communications specialist convicted in 1985 of spying for the Soviet Union</li>
+<li><a href="/wiki/Lucius_M._Walker" title="Lucius M. Walker">Lucius M. Walker</a> (1829–1863), American soldier</li>
+<li><a href="/wiki/Meriwether_Lewis_Walker" title="Meriwether Lewis Walker">Meriwether Lewis Walker</a>, (1869-1947) American brigadier general</li>
+<li><a href="/wiki/Moses_B._Walker" title="Moses B. Walker">Moses B. Walker</a>, American Union brevet brigadier general and Texas judge</li>
+<li><a href="/wiki/Samuel_Hamilton_Walker" title="Samuel Hamilton Walker">Samuel Hamilton Walker</a> (1817–1847), American soldier and lawman</li>
+<li>General <a href="/wiki/Walton_Walker" title="Walton Walker">Walton Walker</a> (1889–1950), American general</li></ul>
+<h3><span class="mw-headline" id="Politics_and_law">Politics and law</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=9" title="Edit section: Politics and law">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Amasa_Walker" title="Amasa Walker">Amasa Walker</a> (1799–1875), American politician, U.S. Representative from Massachusetts, businessman, and economist</li>
+<li>Sir Alfred <a href="/wiki/Cecil_Walker" title="Cecil Walker">Cecil Walker</a> (1924–2007), UK politician, MP from Northern Ireland</li>
+<li><a href="/wiki/Bret_Walker" title="Bret Walker">Bret William Walker</a> (born 1954), Australian barrister</li>
+<li><a href="/wiki/Clifford_Walker" title="Clifford Walker">Clifford Walker</a> (1877–1954), American politician, governor of Georgia</li>
+<li><a href="/wiki/Dan_Walker_(politician)" title="Dan Walker (politician)">Dan Walker</a> (1922–2015), American politician, governor of Illinois</li>
+<li><a href="/wiki/David_S._Walker" title="David S. Walker">David S. Walker</a>, 8th governor of Florida</li>
+<li><a href="/wiki/Francis_Walker_(Virginia)" title="Francis Walker (Virginia)">Francis Walker (Virginia)</a> (1764–1806), U.S. Representative from Virginia</li>
+<li><a href="/wiki/Frank_Comerford_Walker" title="Frank Comerford Walker">Frank Comerford Walker</a> (1886–1959), American political figure and Postmaster General</li>
+<li><a href="/wiki/Jimmy_Walker" title="Jimmy Walker">Jimmy Walker</a>, aka "Beau James"(1881-1946), American. politician, Mayor of New York City (1926-1932), member New York State Senate (1915-1925), member New York State Assembly (1910-1914)</li>
+<li><a href="/wiki/Ignacio_Walker" title="Ignacio Walker">Ignacio Walker</a> (born 1956), Chilean politician</li>
+<li><a href="/wiki/Isaac_P._Walker" title="Isaac P. Walker">Isaac P. Walker</a> (1815–1872), American politician, U.S. Senator from Wisconsin</li>
+<li><a href="/wiki/Lo_Walker" title="Lo Walker">Lo Walker</a> (born 1933), American politician, mayor of Bossier City, Louisiana</li>
+<li><a href="/wiki/Lyman_Walker" title="Lyman Walker">Lyman Walker</a> (1799–1886), American politician</li>
+<li><a href="/wiki/Mary_Edwards_Walker" title="Mary Edwards Walker">Mary Edwards Walker</a> (1832–1919), American activist</li>
+<li><a href="/wiki/Norman_R._Walker" title="Norman R. Walker">Norman R. Walker</a> (1889–1949), American politician</li>
+<li><a href="/wiki/Olene_S._Walker" class="mw-redirect" title="Olene S. Walker">Olene S. Walker</a> (1930–2015), American politician, governor of Utah</li>
+<li><a href="/wiki/Patricio_Walker" title="Patricio Walker">Patricio Walker</a> (born 1969), Chilean politician</li>
+<li><a href="/wiki/Patrick_Gordon_Walker" title="Patrick Gordon Walker">Patrick Gordon Walker</a> (1907–1980), British politician</li>
+<li><a href="/wiki/Pinkney_H._Walker" title="Pinkney H. Walker">Pinkney H. Walker</a> (1815–1885), American jurist</li>
+<li><a href="/wiki/R._Tracy_Walker" title="R. Tracy Walker">R. Tracy Walker</a>, American politician from North Carolina</li>
+<li><a href="/wiki/Rebecca_Walker" title="Rebecca Walker">Rebecca Walker</a> (born 1969), American activist</li>
+<li><a href="/wiki/Scott_Walker_(politician)" title="Scott Walker (politician)">Scott Walker</a> (born 1967) American politician, governor of Wisconsin</li>
+<li><a href="/wiki/William_H._Walker_(New_York_City)" title="William H. Walker (New York City)">William H. Walker (New York City)</a> (1842-1916) American politician, member New York Board of Aldermen (1887-1890), member New York State Assembly (1892 &amp; 1893), father of <a href="/wiki/Jimmy_Walker" title="Jimmy Walker">Jimmy Walker</a>, American politician</li></ul>
+<h3><span class="mw-headline" id="Science">Science</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=10" title="Edit section: Science">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Arthur_B._C._Walker,_Jr." class="mw-redirect" title="Arthur B. C. Walker, Jr.">Arthur B. C. Walker, Jr.</a> (1936–2001), American solar physicist</li>
+<li><a href="/wiki/Arthur_Geoffrey_Walker" title="Arthur Geoffrey Walker">Arthur Geoffrey Walker</a> (1909–2001), English cosmologist</li>
+<li><a href="/wiki/Bryant_Walker" title="Bryant Walker">Bryant Walker</a> (1856–1936), American malacologist</li>
+<li><a href="/wiki/Cyril_Walker_(paleontologist)" class="mw-redirect" title="Cyril Walker (paleontologist)">Cyril Walker (paleontologist)</a> (1939–2009)</li>
+<li><a href="/wiki/Edward_Walker_(mathematician)" title="Edward Walker (mathematician)">Edward Walker (mathematician)</a> (1820–1893), English applied mathematician</li>
+<li><a href="/wiki/Edwin_Francis_Walker" title="Edwin Francis Walker">Edwin Francis Walker</a> (1872–1956), US archaeologist, and author</li>
+<li><a href="/wiki/Francis_Walker_(entomologist)" title="Francis Walker (entomologist)">Francis Walker (entomologist)</a> (1809–1874), English entomologist</li>
+<li><a href="/wiki/Gilbert_Walker" title="Gilbert Walker">Gilbert Walker</a> (1868–1958), English meteorologist</li>
+<li><a href="/wiki/Jearl_Walker" title="Jearl Walker">Jearl Walker</a> (born 1945), American physicist</li>
+<li><a href="/wiki/Mary_Broadfoot_Walker" title="Mary Broadfoot Walker">Mary Broadfoot Walker</a> (1888–1974), Scottish doctor</li>
+<li><a href="/wiki/Roger_G._Walker" title="Roger G. Walker">Roger G. Walker</a> (1939–), Canadian geologist</li>
+<li><a href="/wiki/Sears_Cook_Walker" title="Sears Cook Walker">Sears Cook Walker</a> (1805–1853), American astronomer</li></ul>
+<h3><span class="mw-headline" id="Sports">Sports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=11" title="Edit section: Sports">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Albert_Walker_(footballer)" title="Albert Walker (footballer)">Albert Walker (footballer)</a> (1910–1993), English footballer</li>
+<li><a href="/wiki/Alf_Walker" title="Alf Walker">Alf Walker</a>, English football manager</li>
+<li><a href="/wiki/Allan_Walker" title="Allan Walker">Allan Walker</a> (born 1986), Scottish footballer</li>
+<li><a href="/wiki/Anthony_Walker_Jr." title="Anthony Walker Jr.">Anthony Walker Jr.</a> (born 1995), American football player</li>
+<li><a href="/wiki/Antoine_Walker" title="Antoine Walker">Antoine Walker</a> (born 1976), American basketball player</li>
+<li><a href="/wiki/Arnold_Walker" title="Arnold Walker">Arnold Walker</a> ('Boxer' Walker), former international rugby league player</li>
+<li><a href="/wiki/Ben_Walker" title="Ben Walker">Ben Walker</a>, Australian rugby league player</li>
+<li><a href="/wiki/Casey_Walker" title="Casey Walker">Casey Walker</a> (born 1989), American football player</li>
+<li><a href="/wiki/Clifford_Walker_(cricketer)" title="Clifford Walker (cricketer)">Clifford Walker (cricketer)</a></li>
+<li><a href="/wiki/Cyril_Walker" title="Cyril Walker">Cyril Walker</a> (1892–1948), English golfer</li>
+<li><a href="/wiki/D%27Andre_Walker" title="D&#39;Andre Walker">D'Andre Walker</a> (born 1997), American football player</li>
+<li><a href="/wiki/DeMarcus_Walker" title="DeMarcus Walker">DeMarcus Walker</a> (born 1994), American football player</li>
+<li><a href="/wiki/Derek_Walker_(footballer)" title="Derek Walker (footballer)">Derek Walker (footballer)</a> (born 1965), Scottish footballer</li>
+<li><a href="/wiki/Derrick_Walker" title="Derrick Walker">Derrick Walker</a>, auto racer</li>
+<li><a href="/wiki/Derrick_Walker_(American_football)" title="Derrick Walker (American football)">Derrick Walker (American football)</a>, American football player</li>
+<li><a href="/wiki/Des_Walker" title="Des Walker">Des Walker</a>, English footballer</li>
+<li><a href="/wiki/Doak_Walker" title="Doak Walker">Doak Walker</a> (1927–1998), American football player</li>
+<li><a href="/wiki/Ed_Walker_(baseball)" title="Ed Walker (baseball)">Ed Walker (baseball)</a>, baseball player</li>
+<li><a href="/wiki/Fraser_Walker" title="Fraser Walker">Fraser Walker</a> (born 1972), Scottish medley swimmer</li>
+<li><a href="/wiki/Geoff_Walker_(canoeist)" title="Geoff Walker (canoeist)">Geoff Walker (canoeist)</a> (1952–1997), New Zealand canoeist</li>
+<li><a href="/wiki/Geoff_Walker_(ice_hockey)" title="Geoff Walker (ice hockey)">Geoff Walker (ice hockey)</a> (born 1987), Canadian ice hockey player</li>
+<li><a href="/wiki/Georgia_Walker" title="Georgia Walker">Georgia Walker</a> (born 1998), Australian rules footballer</li>
+<li><a href="/wiki/Glen_Walker" title="Glen Walker">Glen Walker</a> (born 1952), American football player</li>
+<li><a href="/wiki/Harold_Walker_(cricketer)" title="Harold Walker (cricketer)">Harold Walker (cricketer)</a> (1918–2000), English cricketer</li>
+<li><a href="/wiki/Harry_Walker" title="Harry Walker">Harry Walker</a> (1916–1999), American baseball player, manager, and coach</li>
+<li><a href="/wiki/Herschel_Walker" title="Herschel Walker">Herschel Walker</a> (born 1962), American football player</li>
+<li><a href="/wiki/Ian_Walker_(footballer)" title="Ian Walker (footballer)">Ian Walker (footballer)</a> (born 1971), English footballer</li>
+<li><a href="/wiki/Ian_Walker_(sailor)" title="Ian Walker (sailor)">Ian Walker (sailor)</a> (born 1970), English sailboat racer</li>
+<li><a href="/wiki/Jason_Walker_(footballer)" class="mw-redirect" title="Jason Walker (footballer)">Jason Walker (footballer)</a> (born 1984), English footballer</li>
+<li><a href="/wiki/Josh_Walker_(American_football)" title="Josh Walker (American football)">Josh Walker (American football)</a> (born 1991), American football player</li>
+<li><a href="/wiki/Josh_Walker_(Australian_footballer)" title="Josh Walker (Australian footballer)">Josh Walker (Australian footballer)</a> (born 1992), Australian rules footballer</li>
+<li><a href="/wiki/Karen_Walker_(footballer)" title="Karen Walker (footballer)">Karen Walker (footballer)</a> (born 1969), English association footballer</li>
+<li><a href="/wiki/Kemba_Walker" title="Kemba Walker">Kemba Walker</a> (born 1990), American professional basketball player</li>
+<li><a href="/wiki/Kyle_Walker" title="Kyle Walker">Kyle Walker</a> (born 1990), English footballer</li>
+<li><a href="/wiki/Larry_Walker" title="Larry Walker">Larry Walker</a> (born 1966), Canadian baseball player</li>
+<li><a href="/wiki/Laura_Walker" title="Laura Walker">Laura Walker</a> (born 1970), American swimmer</li>
+<li><a href="/wiki/Max_Walker" title="Max Walker">Max Walker</a>, Australian cricketer</li>
+<li><a href="/wiki/Mickey_Walker_(boxer)" title="Mickey Walker (boxer)">Mickey Walker (boxer)</a> (1903–1981), American boxer</li>
+<li><a href="/wiki/Mysterious_Walker" title="Mysterious Walker">Mysterious Walker</a> (1884–1958), American athlete and coach</li>
+<li><a href="/wiki/Nathan_Walker" title="Nathan Walker">Nathan Walker</a> (born 1994), Australian ice hockey player</li>
+<li><a href="/wiki/Neil_Walker_(baseball)" class="mw-redirect" title="Neil Walker (baseball)">Neil Walker (baseball)</a> (born 1985), American baseball player</li>
+<li><a href="/wiki/Neil_Walker_(swimmer)" title="Neil Walker (swimmer)">Neil Walker (swimmer)</a> (born 1976), American swimmer</li>
+<li><a href="/wiki/Peahead_Walker" title="Peahead Walker">Peahead Walker</a> (1899–1970), American football and baseball coach</li>
+<li><a href="/wiki/Phillip_Walker_(American_football)" title="Phillip Walker (American football)">Phillip Walker (American football)</a> (born 1995), American football player</li>
+<li><a href="/wiki/Rachel_Walker_(field_hockey)" title="Rachel Walker (field hockey)">Rachel Walker (field hockey)</a>, English field hockey player</li>
+<li><a href="/wiki/Randy_Walker_(football_coach)" class="mw-redirect" title="Randy Walker (football coach)">Randy Walker (football coach)</a> (1954–2006), American football coach</li>
+<li><a href="/wiki/Reggie_Walker" title="Reggie Walker">Reggie Walker</a> (1889–1951), South African track and field athlete</li>
+<li><a href="/wiki/Russ_Walker_(ice_hockey)" title="Russ Walker (ice hockey)">Russ Walker (ice hockey)</a> (born 1953), ice hockey player</li>
+<li><a href="/wiki/Russ_Walker_(rugby_league)" title="Russ Walker (rugby league)">Russ Walker (rugby league)</a>, Rugby league player</li>
+<li><a href="/wiki/Sam_Walker_(footballer)" title="Sam Walker (footballer)">Sam Walker (footballer)</a>, association footballer, currently playing for Chelsea F.C.</li>
+<li><a href="/wiki/Shelby_Walker" title="Shelby Walker">Shelby Walker</a></li>
+<li><a href="/wiki/Terry_Walker_(footballer)" title="Terry Walker (footballer)">Terry Walker (footballer)</a> (born 1921), English professional footballer</li>
+<li><a href="/wiki/Tracy_Walker_(American_football)" title="Tracy Walker (American football)">Tracy Walker (American football)</a> (born 1995), American football player</li>
+<li><a href="/wiki/Wade_Walker" title="Wade Walker">Wade Walker</a>, American football player</li>
+<li><a href="/wiki/Walker_(Kent_cricketer)" class="mw-redirect" title="Walker (Kent cricketer)">Walker (Kent cricketer)</a>, English cricketer playing in 1822</li></ul>
+<h3><span class="mw-headline" id="Miscellaneous">Miscellaneous</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=12" title="Edit section: Miscellaneous">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Anna_Walker_(civil_servant)" title="Anna Walker (civil servant)">Anna Walker (civil servant)</a> (born 1951), British civil servant</li>
+<li><a href="/wiki/Darren_Walker" title="Darren Walker">Darren Walker</a>, President of Ford Foundation</li>
+<li><a href="/wiki/Eric_A._Walker_(engineer)" title="Eric A. Walker (engineer)">Eric A. Walker (engineer)</a> (1910–1995), American academic administrator</li>
+<li><a href="/wiki/Francis_Amasa_Walker" title="Francis Amasa Walker">Francis Amasa Walker</a> (1840–1897), American economist</li>
+<li><a href="/wiki/Marietta_Walker" title="Marietta Walker">Marietta Walker</a> (1834–1930), American founder of Graceland University</li>
+<li><a href="/wiki/Mort_Walker" title="Mort Walker">Mort Walker</a> (1923–2018), American cartoonist</li>
+<li><a href="/wiki/Sally_Walker" title="Sally Walker">Sally Walker</a>, Australian academic administrator</li>
+<li><a href="/wiki/Vaughn_Walker" title="Vaughn Walker">Vaughn Walker</a> (born 1944), American federal judge</li>
+<li><a href="/wiki/Williston_Walker" title="Williston Walker">Williston Walker</a> (1860–1922), American church historian</li>
+<li><a href="/wiki/Murder_of_Anthony_Walker" title="Murder of Anthony Walker">Murder of Anthony Walker</a>, 2005 event in Huyton, England</li></ul>
+<h3><span class="mw-headline" id="Disambiguations">Disambiguations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=13" title="Edit section: Disambiguations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Adam_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Adam Walker (disambiguation)">Adam Walker (disambiguation)</a></li>
+<li><a href="/wiki/Alan_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Alan Walker (disambiguation)">Alan Walker (disambiguation)</a></li>
+<li><a href="/wiki/Andrew_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Andrew Walker (disambiguation)">Andrew Walker (disambiguation)</a></li>
+<li><a href="/wiki/Andy_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Andy Walker (disambiguation)">Andy Walker (disambiguation)</a></li>
+<li><a href="/wiki/Bruce_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Bruce Walker (disambiguation)">Bruce Walker (disambiguation)</a></li>
+<li><a href="/wiki/Charles_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Charles Walker (disambiguation)">Charles Walker (disambiguation)</a></li>
+<li><a href="/w/index.php?title=Chelsea_Walker_(disambiguation)&amp;action=edit&amp;redlink=1" class="new" title="Chelsea Walker (disambiguation) (page does not exist)">Chelsea Walker (disambiguation)</a></li>
+<li><a href="/wiki/Chris_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Chris Walker (disambiguation)">Chris Walker (disambiguation)</a></li>
+<li><a href="/wiki/David_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="David Walker (disambiguation)">David Walker (disambiguation)</a></li>
+<li><a href="/wiki/Felix_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Felix Walker (disambiguation)">Felix Walker (disambiguation)</a></li>
+<li><a href="/wiki/George_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="George Walker (disambiguation)">George Walker (disambiguation)</a></li>
+<li><a href="/wiki/James_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="James Walker (disambiguation)">James Walker (disambiguation)</a></li>
+<li><a href="/wiki/John_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="John Walker (disambiguation)">John Walker (disambiguation)</a></li>
+<li><a href="/wiki/Jonathan_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Jonathan Walker (disambiguation)">Jonathan Walker (disambiguation)</a></li>
+<li><a href="/wiki/Joseph_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Joseph Walker (disambiguation)">Joseph Walker (disambiguation)</a></li>
+<li><a href="/wiki/Kevin_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Kevin Walker (disambiguation)">Kevin Walker (disambiguation)</a></li>
+<li><a href="/wiki/Lynne_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Lynne Walker (disambiguation)">Lynne Walker (disambiguation)</a></li>
+<li><a href="/wiki/Michael_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Michael Walker (disambiguation)">Michael Walker (disambiguation)</a></li>
+<li><a href="/wiki/Nicholas_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Nicholas Walker (disambiguation)">Nicholas Walker (disambiguation)</a></li>
+<li><a href="/wiki/Peter_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Peter Walker (disambiguation)">Peter Walker (disambiguation)</a></li>
+<li><a href="/wiki/Richard_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Richard Walker (disambiguation)">Richard Walker (disambiguation)</a></li>
+<li><a href="/wiki/Robert_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Robert Walker (disambiguation)">Robert Walker (disambiguation)</a></li>
+<li><a href="/wiki/Rodney_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Rodney Walker (disambiguation)">Rodney Walker (disambiguation)</a></li>
+<li><a href="/wiki/Sarah_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Sarah Walker (disambiguation)">Sarah Walker (disambiguation)</a></li>
+<li><a href="/wiki/Scott_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Scott Walker (disambiguation)">Scott Walker (disambiguation)</a></li>
+<li><a href="/wiki/Shane_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Shane Walker (disambiguation)">Shane Walker (disambiguation)</a></li>
+<li><a href="/wiki/Shaun_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Shaun Walker (disambiguation)">Shaun Walker (disambiguation)</a></li>
+<li><a href="/wiki/Thomas_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Thomas Walker (disambiguation)">Thomas Walker (disambiguation)</a></li>
+<li><a href="/wiki/Timothy_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Timothy Walker (disambiguation)">Timothy Walker (disambiguation)</a></li>
+<li><a href="/wiki/Tyler_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Tyler Walker (disambiguation)">Tyler Walker (disambiguation)</a></li>
+<li><a href="/wiki/William_Walker_(disambiguation)" class="mw-redirect mw-disambig" title="William Walker (disambiguation)">William Walker (disambiguation)</a></li></ul>
+<h2><span class="mw-headline" id="People_with_the_given_name">People with the given name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=14" title="Edit section: People with the given name">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Notable persons with "Walker" as their given name.
 </p>
-<ul><li>surnames of German origin as <a href="/wiki/M%C3%BCller_(surname)" title="Müller (surname)">Müller</a>, "<a href="/wiki/Mueller" title="Mueller">Mueller</a>", "<a href="/wiki/Moeller" title="Moeller">Moeller</a>", "<a href="/wiki/Muller" title="Muller">Muller</a>" and "<a href="/wiki/Mahler_(surname)" title="Mahler (surname)">Mahler</a>", all of which are cognates of Miller</li>
-<li>surnames from other European languages, for example: French - <a href="/wiki/Meunier_(disambiguation)" class="mw-redirect" title="Meunier (disambiguation)">Meunier</a>, <a href="/wiki/Dumoulin_(disambiguation)" class="mw-disambig" title="Dumoulin (disambiguation)">Dumoulin</a>, Demoulins and Moulin, Dutch - <a href="/wiki/Molenaar" title="Molenaar">Molenaar</a>, <a href="/wiki/Mulder" title="Mulder">Mulder</a> and <a href="/wiki/Smulders" title="Smulders">Smulders</a>, Danish - <a href="/wiki/M%C3%B8ller" title="Møller">Møller</a>, Italian - <a href="/wiki/Molinaro" title="Molinaro">Molinaro</a> and <a href="/wiki/Molinari" title="Molinari">Molinari</a>, Spanish - Molinero or Molino (= mill), Romanian - <a href="/wiki/Moraru_(disambiguation)" class="mw-redirect mw-disambig" title="Moraru (disambiguation)">Morariu</a>, Hungarian - Molnár, Slavic - Mlinar or Melnik, Greek - Mylonas (Μυλωνάς) etc.<sup id="cite_ref-ancestry_5-3" class="reference"><a href="#cite_note-ancestry-5">&#91;5&#93;</a></sup><sup id="cite_ref-mencken_6-2" class="reference"><a href="#cite_note-mencken-6">&#91;6&#93;</a></sup></li></ul>
-<p>Miller is also the third most common surname among <a href="/wiki/Jews_in_the_United_States" class="mw-redirect" title="Jews in the United States">Jews in the United States</a> (after Cohen and Levy), from the <a href="/wiki/Yiddish_language" class="mw-redirect" title="Yiddish language">Yiddish</a> cognate of Müller, which would be Miller (מיללער) or Milner <sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>(מילנער).
-</p><p>According to the 1990 U.S. Census, Miller was the 7th most common surname in the United States by 1990, accounting for 0.424% of the population.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
-</p><p>In 2007, about 1 in every 25 <a href="/wiki/Americans" title="Americans">Americans</a> were named Smith, Johnson, Williams, Brown, Jones, Miller or Davis. Miller was the seventh most common surname.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
-</p>
-<div role="navigation" class="navbox" aria-labelledby="Surnames_associated_with_the_occupation_of_miller" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Miller-surname" title="Template:Miller-surname"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Miller-surname" title="Template talk:Miller-surname"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Miller-surname&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Surnames_associated_with_the_occupation_of_miller" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Surnames associated with</a> the occupation of <a href="/wiki/Miller" title="Miller">miller</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Germanic</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Meuleman" title="Meuleman">Meuleman</a></li>
-<li><a href="/wiki/Milward" title="Milward">Milward</a></li>
-<li><a href="/wiki/List_of_people_with_surname_Miller" title="List of people with surname Miller">Miller</a></li>
-<li><a href="/wiki/Millman" title="Millman">Millman</a></li>
-<li><a href="/wiki/Millar" title="Millar">Millar</a></li>
-<li><a href="/wiki/Milner_(surname)" title="Milner (surname)">Milner</a></li>
-<li><a href="/wiki/Millner_(surname)" title="Millner (surname)">Millner</a></li>
-<li><a href="/wiki/Millward_(disambiguation)" class="mw-redirect mw-disambig" title="Millward (disambiguation)">Millward</a></li>
-<li><a href="/wiki/Molenaar" title="Molenaar">Molenaar</a></li>
-<li><a href="/wiki/Moeller" title="Moeller">Moeller</a></li>
-<li><a href="/wiki/Moller" title="Moller">Moller</a> (Möller)</li>
-<li><a href="/wiki/M%C3%B8ller" title="Møller">Møller</a></li>
-<li><a href="/wiki/M%C3%BChl" title="Mühl">Mühl</a></li>
-<li><a href="/wiki/Mulder" title="Mulder">Mulder</a></li>
-<li><a href="/wiki/Mueller" title="Mueller">Mueller</a></li>
-<li><a href="/wiki/Muller" title="Muller">Muller</a></li>
-<li><a href="/wiki/M%C3%BCller_(surname)" title="Müller (surname)">Müller</a></li>
-<li><a href="/wiki/Smulders" title="Smulders">Smulders</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Romance</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Dumoulin" title="Dumoulin">Dumoulin</a></li>
-<li><a href="/wiki/Desmoulins_(surname)" title="Desmoulins (surname)">Desmoulins</a> (De Moulins, Demoulins)</li>
-<li><a href="/wiki/Meunier_(disambiguation)" class="mw-redirect" title="Meunier (disambiguation)">Meunier</a></li>
-<li><a href="/wiki/Moleiro" title="Moleiro">Moleiro</a></li>
-<li><a href="/wiki/Molinari" title="Molinari">Molinari</a></li>
-<li><a href="/wiki/Molinaro" title="Molinaro">Molinaro</a></li>
-<li><a href="/wiki/Molinero" title="Molinero">Molinero</a></li>
-<li><a href="/wiki/Morar_(surname)" title="Morar (surname)">Morar</a></li>
-<li><a href="/wiki/Morariu" title="Morariu">Morariu</a></li>
-<li><a href="/wiki/Moraru_(surname)" title="Moraru (surname)">Moraru</a></li>
-<li><a href="/wiki/Moulin_(surname)" title="Moulin (surname)">Moulin</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Slavic</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Melnik_(surname)" title="Melnik (surname)">Melnik</a></li>
-<li><a href="/wiki/Melnikov" title="Melnikov">Melnikov</a></li>
-<li><a href="/wiki/Melnychuk" title="Melnychuk">Melnychuk</a></li>
-<li><a href="/wiki/Miroshnichenko" title="Miroshnichenko">Miroshnichenko</a></li>
-<li><a href="/wiki/Mlinari%C4%87" title="Mlinarić">Mlinarić</a></li>
-<li><a href="/wiki/Mlinar" title="Mlinar">Mlinar</a></li>
-<li><a href="/wiki/Mlyn%C3%A1r" class="mw-redirect" title="Mlynár">Mlynár</a></li>
-<li><a href="/wiki/Mlyn%C3%A1%C5%99" title="Mlynář">Mlynář</a></li>
-<li><a href="/w/index.php?title=M%C5%82ynarz&amp;action=edit&amp;redlink=1" class="new" title="Młynarz (page does not exist)">Młynarz</a>, <a href="/wiki/M%C5%82ynarski" title="Młynarski">Młynarski</a>, <a href="/wiki/M%C5%82ynarczyk" title="Młynarczyk">Młynarczyk</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/M%C3%B6lder" class="mw-redirect" title="Mölder">Mölder</a>, <a href="/wiki/Moln%C3%A1r" title="Molnár">Molnár</a>, <a href="/wiki/Myll%C3%A4ri_(surname)" title="Mylläri (surname)">Mylläri (surname)</a></li></ul>
-</div></td></tr></tbody></table></div>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Miller_(surname)&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
-<ol class="references">
-<li id="cite_note-worldnames-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-worldnames_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-worldnames_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://worldnames.publicprofiler.org/Default.aspx">World Family Names: Miller</a></span>
+<ul><li><a href="/wiki/Walker_Butler" title="Walker Butler">Walker Butler</a>, American jurist and politician</li>
+<li><a href="/wiki/Walker_Connor" title="Walker Connor">Walker Connor</a>, American political scientist</li>
+<li><a href="/wiki/Walker_M._Curtiss" title="Walker M. Curtiss">Walker M. Curtiss</a>, American politician</li>
+<li><a href="/wiki/Walker_Evans" title="Walker Evans">Walker Evans</a>, American photographer</li>
+<li><a href="/wiki/Walker_Percy" title="Walker Percy">Walker Percy</a>, American author</li>
+<li><a href="/wiki/George_Herbert_Walker_Bush" class="mw-redirect" title="George Herbert Walker Bush">George Herbert Walker Bush</a>, US President (1989–1993)</li>
+<li><a href="/wiki/George_Walker_Bush" class="mw-redirect" title="George Walker Bush">George Walker Bush</a>, US President (2001–2009)</li></ul>
+<h2><span class="mw-headline" id="Fictional_characters">Fictional characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=15" title="Edit section: Fictional characters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Infamous_(series)#Abigail_.22Fetch.22_Walker" title="Infamous (series)">Abigail "Fetch" Walker</a>, a fictional character in the video game series <i>Infamous</i></li>
+<li><a href="/wiki/List_of_D.Gray-man_characters#Allen_Walker" title="List of D.Gray-man characters">Allen Walker</a>, the main character of <i>D.Gray-man</i></li>
+<li><a href="/wiki/Annie_Walker_(Coronation_Street)" title="Annie Walker (Coronation Street)">Annie Walker (<i>Coronation Street</i>)</a>, a character from the British television series <i>Coronation Street</i></li>
+<li>Annie Walker, a main character from the American television series <i><a href="/wiki/Covert_Affairs#Main_characters" title="Covert Affairs">Covert Affairs#Main_characters</a></i></li>
+<li>Chris Walker, antagonist of the horror game <i><a href="/wiki/Outlast" title="Outlast">Outlast</a></i></li>
+<li>Cordell Walker, title character from the TV series <i><a href="/wiki/Walker,_Texas_Ranger" title="Walker, Texas Ranger">Walker, Texas Ranger</a></i></li>
+<li>Gerald Walker, half-brother of Usui Takumi in the Japanese manga series <i><a href="/wiki/Kaichou_wa_Maid-sama!" class="mw-redirect" title="Kaichou wa Maid-sama!">Kaichou wa Maid-sama!</a></i></li>
+<li><a href="/wiki/Jack_Walker_(Coronation_Street)" class="mw-redirect" title="Jack Walker (Coronation Street)">Jack Walker (Coronation Street)</a>, original landlord of the Rovers Return in <i>Coronation Street</i></li>
+<li><a href="/wiki/Jed_Walker" title="Jed Walker">Jed Walker</a>, comic book character</li>
+<li>John, Susan, Titty, Roger and Bridget Walker, the Swallows of <i><a href="/wiki/Swallows_and_Amazons" title="Swallows and Amazons">Swallows and Amazons</a></i></li>
+<li>Mary Walker, the alter-ego of the comic book character <a href="/wiki/Typhoid_Mary_(comics)" title="Typhoid Mary (comics)">Typhoid Mary (comics)</a></li>
+<li><a href="/wiki/Molly_Walker" title="Molly Walker">Molly Walker</a>, character from the TV series <i>Heroes</i></li>
+<li><a href="/wiki/Patsy_Walker" title="Patsy Walker">Patsy Walker</a>, comic book character</li>
+<li><a href="/wiki/Renee_Walker" class="mw-redirect" title="Renee Walker">Renee Walker</a>, character from TV series <i>24</i></li>
+<li><a href="/wiki/Sarah_Walker_(Chuck)" title="Sarah Walker (Chuck)">Sarah Walker (Chuck)</a>, a character in the television show <i>Chuck</i></li>
+<li>Tommy Walker, title character of <i><a href="/wiki/Tommy_(album)" title="Tommy (album)">Tommy</a></i> by The Who</li>
+<li>The Walker family of <a href="/wiki/Brothers_%26_Sisters_(2006_TV_series)" title="Brothers &amp; Sisters (2006 TV series)"><i>Brothers &amp; Sisters</i> (2006 TV series)</a></li>
+<li>Walker, one of the two main villains in <i><a href="/wiki/Teenage_Mutant_Ninja_Turtles_III" title="Teenage Mutant Ninja Turtles III">Teenage Mutant Ninja Turtles III</a></i></li>
+<li><a href="/wiki/Walker_Boh" class="mw-redirect" title="Walker Boh">Walker Boh</a>, character from the <i>Shannara</i> series</li>
+<li><a href="/wiki/Walker_(Danny_Phantom)" class="mw-redirect" title="Walker (Danny Phantom)">Walker (Danny Phantom)</a>, a character in animated TV series <i>Danny Phantom</i></li>
+<li>Mr. Walker, a character played by Goofy in the Goofy short <i><a href="/wiki/Motor_Mania" title="Motor Mania">Motor Mania</a></i></li>
+<li>Mr. Walker, an alias of <a href="/wiki/The_Phantom" title="The Phantom">The Phantom</a> for the times when the Phantom leaves his jungle home and travels as an ordinary man</li></ul>
+<h2><span class="mw-headline" id="Other">Other</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=16" title="Edit section: Other">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Colorow Ignacio Ouray <a href="/wiki/Walkara" title="Walkara">Walkara</a>, Ute chief, also called "Walker"</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=17" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Walker_(disambiguation)" class="mw-redirect mw-disambig" title="Walker (disambiguation)">Walker (disambiguation)</a></li>
+<li><a href="/wiki/Walker_(taxonomic_authority)" class="mw-redirect" title="Walker (taxonomic authority)">Walker (taxonomic authority)</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.ancestry.com/name-origin?surname=walker">"Walker Name Meaning &amp; Walker Family History at Ancestry.com"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">February 16,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Walker+Name+Meaning+%26+Walker+Family+History+at+Ancestry.com&amp;rft_id=https%3A%2F%2Fwww.ancestry.com%2Fname-origin%3Fsurname%3Dwalker&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalker+%28surname%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
 </li>
-<li id="cite_note-gbnames-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-gbnames_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-gbnames_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://gbnames.publicprofiler.org/Map.aspx?name=MILLER&amp;year=1998&amp;altyear=1881&amp;country=GB&amp;type=name">"Great Britain Family Names - Public Profiler"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">8 March</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Great+Britain+Family+Names+-+Public+Profiler&amp;rft_id=http%3A%2F%2Fgbnames.publicprofiler.org%2FMap.aspx%3Fname%3DMILLER%26year%3D1998%26altyear%3D1881%26country%3DGB%26type%3Dname&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMiller+%28surname%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+<li id="cite_note-:0-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.houseofnames.com/walker-family-crest/German">"HouseofNames"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=HouseofNames&amp;rft_id=https%3A%2F%2Fwww.houseofnames.com%2Fwalker-family-crest%2FGerman&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalker+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-britishsurnames-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-britishsurnames_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-britishsurnames_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://britishsurnames.co.uk/surname/miller">British Surnames - Miller</a></span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.ancestry.com/name-origin?surname=walker">"Walker Name Meaning &amp; Walker Family History at Ancestry.com"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">February 16,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Walker+Name+Meaning+%26+Walker+Family+History+at+Ancestry.com&amp;rft_id=https%3A%2F%2Fwww.ancestry.com%2Fname-origin%3Fsurname%3Dwalker&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalker+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-scotland-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-scotland_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-scotland_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-scotland_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.gro-scotland.gov.uk/statistics/theme/vital-events/births/popular-names/archive/surnames.html">100 Most Common Surnames - General Register Office for Scotland</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120925045427/http://www.gro-scotland.gov.uk/statistics/theme/vital-events/births/popular-names/archive/surnames.html">Archived</a> 25 September 2012 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://forebears.co.uk/surnames/walker">"Forebears"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Forebears&amp;rft_id=http%3A%2F%2Fforebears.co.uk%2Fsurnames%2Fwalker&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalker+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-ancestry-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-ancestry_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ancestry_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ancestry_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-ancestry_5-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ancestry.com/facts/Miller-name-meaning.ashx">ancestry.com, Miller Name Meaning and Origin</a> "The American surname has absorbed many cognate surnames from other European languages"</span>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.census.gov/genealogy/www/data/2000surnames/index.html">"Genealogy Data: Frequently Occurring Surnames from Census 2000 – U.S. Census Bureau"</a>. U.S. Census Bureau<span class="reference-accessdate">. Retrieved <span class="nowrap">14 November</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Genealogy+Data%3A+Frequently+Occurring+Surnames+from+Census+2000+%E2%80%93+U.S.+Census+Bureau&amp;rft.pub=U.S.+Census+Bureau&amp;rft_id=https%3A%2F%2Fwww.census.gov%2Fgenealogy%2Fwww%2Fdata%2F2000surnames%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalker+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-mencken-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-mencken_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mencken_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-mencken_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">H.L. Mencken, American Language, 2012, p. 477 "A large proportion of our Millers would be more exactly known as Müller, Mühler or Möller, and another substantial group as Millar"</span>
+<li id="cite_note-Australia1-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Australia1_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web">IP Australia. <a rel="nofollow" class="external text" href="http://pericles.ipaustralia.gov.au/atmoss/falcon_search_tools.Main?pSearch=Surname">"Search for Australian Surnames"</a>. Government of Australia<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-05-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Search+for+Australian+Surnames&amp;rft.pub=Government+of+Australia&amp;rft.au=IP+Australia&amp;rft_id=http%3A%2F%2Fpericles.ipaustralia.gov.au%2Fatmoss%2Ffalcon_search_tools.Main%3FpSearch%3DSurname&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalker+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.houseofnames.com/xq/asp/kbId.312/title.Sample+History%3A+Miller/qx/knowledgebase.htm">Sample History: Miller - Knowledge Base, House of Names</a></span>
-</li>
-<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.electricscotland.com/webclans/m/miller2.html">Clan Miller: Electric Scotland</a></span>
-</li>
-<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">E. MacLysaght, The surnames of Ireland, 1973</span>
-</li>
-<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.surnamedb.com/Surname/miller#ixzz10sDNP24G">Surname Database: Miller last name origin</a></span>
-</li>
-<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.jewfaq.org/jnames.htm">Jewish Names</a></span>
-</li>
-<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a href="/wiki/United_States_Census_Bureau" title="United States Census Bureau">United States Census Bureau</a> (9 May 1995). <a href="https://en.wikisource.org/wiki/1990_Census_Name_Files_dist.all.last_(1-100)" class="extiw" title="s:1990 Census Name Files dist.all.last (1-100)">s:1990 Census Name Files dist.all.last (1-100)</a>. Retrieved on 2008-07-04.</span>
-</li>
-<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news">Roberts, Sam (17 November 2007). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2007/11/17/us/17surnames.html">"In U.S. Name Count, Garcias Are Catching Up With Joneses"</a>. <i>The New York Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">8 March</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=In+U.S.+Name+Count%2C+Garcias+Are+Catching+Up+With+Joneses&amp;rft.date=2007-11-17&amp;rft.aulast=Roberts&amp;rft.aufirst=Sam&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2007%2F11%2F17%2Fus%2F17surnames.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMiller+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-</ol></div>
-<p class="mw-empty-elt">
-</p>
+</ol></div></div>
+<style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
+<table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
+<tbody><tr>
+<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Walker</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Walker_(surname)&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
+</tr>
+</tbody></table>
 <!-- 
 NewPP limit report
-Parsed by mw1347
-Cached time: 20191007235554
+Parsed by mw1321
+Cached time: 20191024203049
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.196 seconds
-Real time usage: 0.282 seconds
-Preprocessor visited node count: 781/1000000
+CPU time usage: 0.280 seconds
+Real time usage: 0.369 seconds
+Preprocessor visited node count: 991/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 16531/2097152 bytes
-Template argument size: 731/2097152 bytes
-Highest expansion depth: 13/40
+Post‐expand include size: 15476/2097152 bytes
+Template argument size: 2024/2097152 bytes
+Highest expansion depth: 9/40
 Expensive parser function count: 1/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 12184/5000000 bytes
+Unstrip post‐expand size: 17364/5000000 bytes
 Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.085/10.000 seconds
-Lua memory usage: 2.57 MB/50 MB
+Lua time usage: 0.110/10.000 seconds
+Lua memory usage: 3.27 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  253.477      1 -total
- 48.15%  122.053      1 Template:Reflist
- 30.37%   76.983      1 Template:Cite_web
- 20.19%   51.168      1 Template:Infobox_surname
- 14.85%   37.633      1 Template:Infobox
- 14.01%   35.507      1 Template:For
-  7.96%   20.185      1 Template:Use_dmy_dates
-  6.63%   16.810      1 Template:Webarchive
-  5.72%   14.509      1 Template:DMCA
-  4.78%   12.110      1 Template:Dated_maintenance_category
+100.00%  272.449      1 -total
+ 42.64%  116.160      1 Template:Infobox_surname
+ 40.83%  111.233      1 Template:Reflist
+ 36.01%   98.121      1 Template:Infobox
+ 30.48%   83.030      2 Template:Citeweb
+ 16.68%   45.433      1 Template:IPAc-en
+ 14.37%   39.147      1 Template:Surname
+ 10.95%   29.840      1 Template:Dmbox
+  6.24%   16.993      1 Template:Short_description
+  5.64%   15.363      4 Template:Cite_web
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:3895112-0!canonical and timestamp 20191007235554 and revision id 907369880
+<!-- Saved in parser cache with key enwiki:pcache:idhash:250543-0!canonical and timestamp 20191024203048 and revision id 915231575
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Miller_(surname)&amp;oldid=907369880">https://en.wikipedia.org/w/index.php?title=Miller_(surname)&amp;oldid=907369880</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Walker_(surname)&amp;oldid=915231575">https://en.wikipedia.org/w/index.php?title=Walker_(surname)&amp;oldid=915231575</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:Occupational_surnames" title="Category:Occupational surnames">Occupational surnames</a></li><li><a href="/wiki/Category:Surnames_of_British_Isles_origin" title="Category:Surnames of British Isles origin">Surnames of British Isles origin</a></li><li><a href="/wiki/Category:Surnames_of_Ulster-Scottish_origin" title="Category:Surnames of Ulster-Scottish origin">Surnames of Ulster-Scottish origin</a></li><li><a href="/wiki/Category:Surnames_of_Scottish_origin" title="Category:Surnames of Scottish origin">Surnames of Scottish origin</a></li><li><a href="/wiki/Category:Scottish_surnames" title="Category:Scottish surnames">Scottish surnames</a></li><li><a href="/wiki/Category:English-language_surnames" title="Category:English-language surnames">English-language surnames</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_October_2010" title="Category:Use dmy dates from October 2010">Use dmy dates from October 2010</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:English-language_surnames" title="Category:English-language surnames">English-language surnames</a></li><li><a href="/wiki/Category:German-language_surnames" title="Category:German-language surnames">German-language surnames</a></li><li><a href="/wiki/Category:Occupational_surnames" title="Category:Occupational surnames">Occupational surnames</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_infobox_given_name_with_unknown_parameters" title="Category:Pages using infobox given name with unknown parameters">Pages using infobox given name with unknown parameters</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -200,13 +412,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Miller+%28surname%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Miller+%28surname%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Walker+%28surname%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Walker+%28surname%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Miller_(surname)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Miller_(surname)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Walker_(surname)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Walker_(surname)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -221,7 +433,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Miller_(surname)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Miller_(surname)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Miller_(surname)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Walker_(surname)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Walker_(surname)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Walker_(surname)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -260,35 +472,35 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Miller_(surname)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Miller_(surname)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Miller_(surname)&amp;oldid=907369880" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Miller_(surname)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1605060" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Miller_%28surname%29&amp;id=907369880" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Walker_(surname)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Walker_(surname)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Walker_(surname)&amp;oldid=915231575" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Walker_(surname)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1158605" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Walker_%28surname%29&amp;id=915231575" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
 			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
 			<div class="body">
 								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Miller_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Walker_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Miller+%28surname%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Miller+%28surname%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Miller_(surname)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Walker+%28surname%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Walker+%28surname%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Walker_(surname)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Miller_(mi%C3%A2)" title="Miller (miâ) – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Miller_(Name)" title="Miller (Name) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Miller" title="Miller – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D9%84%D8%B1_(%D9%86%D8%A7%D9%85)" title="میلر (نام) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Miller" title="Miller – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Molenaar" title="Molenaar – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%A9%E3%83%BC" title="ミラー – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Miller" title="Miller – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%BB%D0%B5%D1%80" title="Миллер – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Miller_(priezvisko)" title="Miller (priezvisko) – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Miller" title="Miller – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1605060#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Uoker" title="Uoker – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Walker_(s%C3%A8%E2%81%BF)" title="Walker (sèⁿ) – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A3%D0%BE%D0%BA%D0%B5%D1%80" title="Уокер – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Walker" title="Walker – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Walker_(Familienname)" title="Walker (Familienname) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%93%CE%BF%CF%85%CF%8C%CE%BA%CE%B5%CF%81" title="Γουόκερ – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Walker" title="Walker – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Walker" title="Walker – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Walker" title="Walker – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%95%D7%95%D7%A7%D7%A8_(%D7%A4%D7%99%D7%A8%D7%95%D7%A9%D7%95%D7%A0%D7%99%D7%9D)" title="ווקר (פירושונים) – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC" title="ウォーカー – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Walker" title="Walker – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Walker" title="Walker – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A3%D0%BE%D0%BA%D0%B5%D1%80" title="Уокер – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Walker" title="Walker – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Walker_(efternamn)" title="Walker (efternamn) – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Walker" title="Walker – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1158605#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 22 July 2019, at 12:41<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 12 September 2019, at 00:05<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -299,7 +511,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Miller_(surname)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Walker_(surname)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -311,8 +523,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.196","walltime":"0.282","ppvisitednodes":{"value":781,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":16531,"limit":2097152},"templateargumentsize":{"value":731,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":12184,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  253.477      1 -total"," 48.15%  122.053      1 Template:Reflist"," 30.37%   76.983      1 Template:Cite_web"," 20.19%   51.168      1 Template:Infobox_surname"," 14.85%   37.633      1 Template:Infobox"," 14.01%   35.507      1 Template:For","  7.96%   20.185      1 Template:Use_dmy_dates","  6.63%   16.810      1 Template:Webarchive","  5.72%   14.509      1 Template:DMCA","  4.78%   12.110      1 Template:Dated_maintenance_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.085","limit":"10.000"},"limitreport-memusage":{"value":2696376,"limit":52428800}},"cachereport":{"origin":"mw1347","timestamp":"20191007235554","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Miller (surname)","url":"https:\/\/en.wikipedia.org\/wiki\/Miller_(surname)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1605060","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1605060","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-01-30T13:09:44Z","dateModified":"2019-07-22T12:41:19Z","headline":"family name"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":98,"wgHostname":"mw1320"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.280","walltime":"0.369","ppvisitednodes":{"value":991,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":15476,"limit":2097152},"templateargumentsize":{"value":2024,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":17364,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  272.449      1 -total"," 42.64%  116.160      1 Template:Infobox_surname"," 40.83%  111.233      1 Template:Reflist"," 36.01%   98.121      1 Template:Infobox"," 30.48%   83.030      2 Template:Citeweb"," 16.68%   45.433      1 Template:IPAc-en"," 14.37%   39.147      1 Template:Surname"," 10.95%   29.840      1 Template:Dmbox","  6.24%   16.993      1 Template:Short_description","  5.64%   15.363      4 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.110","limit":"10.000"},"limitreport-memusage":{"value":3431841,"limit":52428800}},"cachereport":{"origin":"mw1321","timestamp":"20191024203049","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Walker (surname)","url":"https:\/\/en.wikipedia.org\/wiki\/Walker_(surname)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1158605","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1158605","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-06-21T08:42:44Z","dateModified":"2019-09-12T00:05:38Z","headline":"family name"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":315,"wgHostname":"mw1250"});});</script>
 </body>
 </html>

@@ -2,14 +2,14 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Harrison (name) - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Harrison_(name)","wgTitle":"Harrison (name)","wgCurRevisionId":918028055,"wgRevisionId":918028055,"wgArticleId":16668461,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","All set index articles","Given names","Surnames","Masculine given names","Surnames of English origin","Patronymic surnames"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Harrison_(name)",
-"wgRelevantArticleId":16668461,"wgRequestId":"XbILOgpAADgAABOsAWcAAACY","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2712864","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready",
-"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init",
-"ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Bridget - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Bridget","wgTitle":"Bridget","wgCurRevisionId":900530779,"wgRevisionId":900530779,"wgArticleId":13568253,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using infobox given name with unknown parameters","Articles with short description","All set index articles","Given names","Irish feminine given names","English feminine given names"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Bridget",
+"wgRelevantArticleId":13568253,"wgRequestId":"XbHw7gpAME4AAKJcp7cAAAAC","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Bridget_(given_name)","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Bridget","wgWikibaseItemId":"Q913810","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready",
+"user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging",
+"ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
@@ -17,20 +17,21 @@
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Harrison_(name)"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Harrison_(name)&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Harrison_(name)&amp;action=edit"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/0/09/Stbrigid.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Bridget"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Bridget&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Bridget&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Harrison_(name)"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Bridget"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Harrison_name rootpage-Harrison_name skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Bridget rootpage-Bridget skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -39,310 +40,174 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Harrison (name)</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Bridget</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
-		<div id="contentSub"></div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Bridget_(given_name)&amp;redirect=no" class="mw-redirect" title="Bridget (given name)">Bridget (given name)</a>)</span></div>
 		
 		
 		
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about the given name and surname, Harrison. For other uses, see <a href="/wiki/Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Harrison (disambiguation)">Harrison (disambiguation)</a>.</div>
-<table class="infobox" style="width:22em"><caption>Harrison</caption><tbody><tr><th scope="row">Pronunciation</th><td><span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="&#39;h&#39; in &#39;hi&#39;">h</span><span title="/ær/: &#39;arr&#39; in &#39;marry&#39;">ær</span><span title="/ɪ/: &#39;i&#39; in &#39;kit&#39;">ɪ</span><span title="&#39;s&#39; in &#39;sigh&#39;">s</span><span title="/ən/: &#39;on&#39; in &#39;button&#39;">ən</span></span>/</a></span></span> <a href="/wiki/Help:Pronunciation_respelling_key" title="Help:Pronunciation respelling key"><i title="English pronunciation respelling"><span style="font-size:90%">HARR</span>-i-sən</i></a></td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Origin</th></tr><tr><th scope="row">Word/name</th><td>English</td></tr><tr><th scope="row">Meaning</th><td>"son of Harris", "son of Harry"</td></tr><tr><th scope="row">Region of origin</th><td><a href="/wiki/England" title="England">England</a></td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Other names</th></tr><tr><th scope="row">Variant form(s)</th><td><a href="/wiki/Harris_(surname)" title="Harris (surname)">Harris</a></td></tr><tr><td colspan="2" style="text-align:center;border-top: #a2a9b1 1px solid;">Frequency and comparisons:<sup id="cite_ref-fb_1-0" class="reference"><a href="#cite_note-fb-1">&#91;1&#93;</a></sup></td></tr></tbody></table>
-<p><b>Harrison</b> is a common <a href="/wiki/Patronymic" title="Patronymic">patronymic</a> <a href="/wiki/Surname" title="Surname">surname</a> of <a href="/wiki/England" title="England">English</a> origin.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> It may also be spelled <b>Harrisson</b>, <b>Harryson</b> or <b>Harrysson</b>. Harrison means "son of Harry". Early records suggest that the surnames Harrison and <a href="/wiki/Harris_(surname)" title="Harris (surname)">Harris</a> were used interchangeably by some families. Harrison is the 42nd most common surname in England and 123rd most common in the United States.<sup id="cite_ref-fb_1-1" class="reference"><a href="#cite_note-fb-1">&#91;1&#93;</a></sup> The first known recording of the surname had been dated from 1355 in <a href="/wiki/London" title="London">London</a>, <a href="/wiki/England" title="England">England</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
-</p><p>It is also a masculine <a href="/wiki/Given_name" title="Given name">given name</a> derived from the surname, of fairly recent origin.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Bridget_(disambiguation)" class="mw-disambig" title="Bridget (disambiguation)">Bridget (disambiguation)</a>.</div>
+<table class="infobox" style="width:22em"><caption>Bridget</caption><tbody><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Stbrigid.jpg" class="image"><img alt="Stbrigid.jpg" src="//upload.wikimedia.org/wikipedia/commons/0/09/Stbrigid.jpg" decoding="async" width="214" height="300" data-file-width="214" data-file-height="300" /></a><div>St. Brigid of Kildare inspired the popularity of the name Bridget.</div></td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Origin</th></tr><tr><th scope="row">Word/name</th><td><a href="/wiki/Irish_language" title="Irish language">Irish</a></td></tr><tr><th scope="row">Meaning</th><td>Noble or exalted one</td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Other names</th></tr><tr><th scope="row">Related names</th><td><a href="/wiki/Brigitte" title="Brigitte">Brigitte</a>, <a href="/wiki/Birgit" title="Birgit">Birgit</a>, <a href="/wiki/Birgitta" title="Birgitta">Birgitta</a>, <a href="/wiki/Birgitte" class="mw-redirect" title="Birgitte">Birgitte</a>, <a href="/wiki/Bridgette" title="Bridgette">Bridgette</a></td></tr></tbody></table>
+<p><b>Bridget</b> or <b>Brigid</b> is a <a href="/wiki/Goidelic_languages" title="Goidelic languages">Gaelic</a>/<a href="/wiki/Irish_language" title="Irish language">Irish</a> female name derived from the noun <i>brígh</i>, meaning "power, strength, vigor, virtue".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> An alternate meaning of the name is "exalted one".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Its popularity, especially in Ireland, is largely related to the popularity of <a href="/wiki/Saint_Brigid" class="mw-redirect" title="Saint Brigid">Saint Brigid of Kildare</a>, who was so popular in Ireland she was known as "Mary of the <a href="/wiki/Gaels" title="Gaels">Gael</a>". This saint took on many of the characteristics of the early Celtic goddess <a href="/wiki/Brigid" title="Brigid">Brigid</a>, who was the goddess of agriculture and healing and possibly also of poetry and fire. One of her epithets was "Brigid of the Holy Fire".<sup id="cite_ref-Todd_1998,_p._23_3-0" class="reference"><a href="#cite_note-Todd_1998,_p._23-3">&#91;3&#93;</a></sup> In German and Scandinavian countries, the popularity of the name spread due to <a href="/wiki/Bridget_of_Sweden" title="Bridget of Sweden">Saint Bridget of Sweden</a>. 
+</p><p>In the <a href="/wiki/Irish_language" title="Irish language">Irish language</a>, the name is spelled <i>Brighid</i> or <i>Bríd</i> and is pronounced "breed" or "breej". In the <a href="/wiki/Scottish_Gaelic" title="Scottish Gaelic">Scottish Gaelic</a> language, the name is spelled <i>Brìghde</i> and is pronounced "breej-eh" At one time the name was so popular for Irish girls that Bridey was used as a slang term for an Irish girl in <a href="/wiki/English_language" title="English language">English-speaking</a> countries. Some Irish servant girls were called Biddie or Biddy by their employers even if that wasn't their real first name. It has been steadily used in the United States throughout the 20th century, though never among the top 100 most popular names for girls. It was most popular in the 1970s, when it ranked as the 153rd most popular name for girls born in that decade in the United States. In 2006, it was the 349th most popular female given name in the United States; in 2007 it fell to 357th place. It was ranked as the 367th most common name for girls and women in the United States in the 1990 census.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
 </p>
-<div role="navigation" id="toc" class="toc plainlinks hlist" aria-label="Contents" style="text-align:left;">
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#W">W</a> </li></ul>
-<p class="mw-empty-elt">
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Uses"><span class="tocnumber">1</span> <span class="toctext">Uses</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Given_name"><span class="tocnumber">1.1</span> <span class="toctext">Given name</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Fictional_characters"><span class="tocnumber">1.2</span> <span class="toctext">Fictional characters</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Variations"><span class="tocnumber">2</span> <span class="toctext">Variations</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Bibliography"><span class="tocnumber">5</span> <span class="toctext">Bibliography</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Uses">Uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bridget&amp;action=edit&amp;section=1" title="Edit section: Uses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The following people and characters share given name Bridget.
 </p>
-<ul><li><a href="#Given_name">Given name  </a></li>
-<li><a href="#Fictional_characters">Fictional characters  </a></li>
-<li><a href="#See_also">See also  </a></li>
-<li><a href="#References">References  </a></li></ul>
-</div></div>
-<h2><span class="mw-headline" id="Surname">Surname</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harrison_(name)&amp;action=edit&amp;section=1" title="Edit section: Surname">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Notable people with the surname Harrison include:
-</p>
-<h3><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harrison_(name)&amp;action=edit&amp;section=2" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/%C3%86lfric_Harrison" title="Ælfric Harrison">Ælfric Harrison</a> (1889–1958), English cricketer</li>
-<li><a href="/wiki/Albert_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Albert Harrison (disambiguation)">Albert Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Albertis_Sydney_Harrison_Jr." class="mw-redirect" title="Albertis Sydney Harrison Jr.">Albertis Sydney Harrison Jr.</a> (1907–1995), American politician and jurist</li>
-<li><a href="/wiki/Alistair_Harrison" title="Alistair Harrison">Alistair Harrison</a> (born 1954) British diplomat and former Governor of Anguilla</li>
-<li><a href="/wiki/Alvin_Harrison" title="Alvin Harrison">Alvin Harrison</a> (born 1974), American athlete</li>
-<li><a href="/wiki/Andrew_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Andrew Harrison (disambiguation)">Andrew Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Ann_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Ann Harrison (disambiguation)">Ann Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Anna_Harrison" title="Anna Harrison">Anna Harrison</a> (1775–1864), wife of U.S. president William Henry Harrison</li>
-<li><a href="/wiki/Annie_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Annie Harrison (disambiguation)">Annie Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Arthur_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Arthur Harrison (disambiguation)">Arthur Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Ashley_Harrison" title="Ashley Harrison">Ashley Harrison</a> (born 1981), Australian rugby league player</li>
-<li><a href="/wiki/Audley_Harrison" title="Audley Harrison">Audley Harrison</a> (born 1971), British boxer</li></ul>
-<h3><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harrison_(name)&amp;action=edit&amp;section=3" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Ben_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Ben Harrison (disambiguation)">Ben Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Benjamin_Harrison_(disambiguation)" class="mw-disambig" title="Benjamin Harrison (disambiguation)">Benjamin Harrison (disambiguation)</a>, multiple people and 23rd president of America</li>
-<li><a href="/wiki/Bret_Harrison" title="Bret Harrison">Bret Harrison</a> (born 1982), American actor</li>
-<li><a href="/wiki/Brian_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Brian Harrison (disambiguation)">Brian Harrison (disambiguation)</a>, multiple people</li></ul>
-<h3><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harrison_(name)&amp;action=edit&amp;section=4" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Caroline_Harrison" title="Caroline Harrison">Caroline Harrison</a> (1832–1892), wife of U.S. president Benjamin Harrison</li>
-<li><a href="/wiki/Carter_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Carter Harrison (disambiguation)">Carter Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Catherine_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Catherine Harrison (disambiguation)">Catherine Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Charles_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Charles Harrison (disambiguation)">Charles Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Charlie_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Charlie Harrison (disambiguation)">Charlie Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Christopher_Harrison_(disambiguation)" class="mw-disambig" title="Christopher Harrison (disambiguation)">Christopher Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Colin_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Colin Harrison (disambiguation)">Colin Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Constance_Cary_Harrison" title="Constance Cary Harrison">Constance Cary Harrison</a> (1843-1920; pen name, "Refugitta"), American writer</li>
-<li><a href="/wiki/Craig_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Craig Harrison (disambiguation)">Craig Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Cyril_Harrison_(cricketer)" title="Cyril Harrison (cricketer)">Cyril Harrison (cricketer)</a> (1915–1998), English cricketer</li></ul>
-<h3><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harrison_(name)&amp;action=edit&amp;section=5" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Damon_Harrison" title="Damon Harrison">Damon Harrison</a> (born 1988), American football player</li>
-<li><a href="/wiki/D%27Angelo_Harrison" title="D&#39;Angelo Harrison">D'Angelo Harrison</a> (born 1993), American basketball player</li>
-<li><a href="/wiki/Daniel_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Daniel Harrison (disambiguation)">Daniel Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Danny_Harrison_(disambiguation)" class="mw-redirect" title="Danny Harrison (disambiguation)">Danny Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/David_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="David Harrison (disambiguation)">David Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Derrick_Harrison" title="Derrick Harrison">Derrick Harrison</a> (1929–1967), rugby league footballer of the 1950s</li>
-<li><a href="/wiki/Desmond_Harrison_(American_football)" title="Desmond Harrison (American football)">Desmond Harrison (American football)</a> (born 1993), American football player</li>
-<li><a href="/wiki/Dhani_Harrison" title="Dhani Harrison">Dhani Harrison</a> (born 1978), English musician; son of George Harrison of Beatles fame</li></ul>
-<h3><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harrison_(name)&amp;action=edit&amp;section=6" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Earl_G._Harrison" title="Earl G. Harrison">Earl G. Harrison</a>, American Dean of the <a href="/wiki/University_of_Pennsylvania_Law_School" title="University of Pennsylvania Law School">University of Pennsylvania Law School</a>; Commissioner of the <a href="/wiki/United_States_Immigration_and_Naturalization_Service" class="mw-redirect" title="United States Immigration and Naturalization Service">United States Immigration and Naturalization Service</a>, 1942–44</li>
-<li><a href="/wiki/Edward_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Edward Harrison (disambiguation)">Edward Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/E._J._Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="E. J. Harrison (disambiguation)">E. J. Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Elizabeth_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Elizabeth Harrison (disambiguation)">Elizabeth Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Ellie_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Ellie Harrison (disambiguation)">Ellie Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Ellis_Harrison" title="Ellis Harrison">Ellis Harrison</a> (born 1994), English footballer</li>
-<li><a href="/wiki/Eric_Harrison_(disambiguation)" class="mw-disambig" title="Eric Harrison (disambiguation)">Eric Harrison (disambiguation)</a>, multiple people</li></ul>
-<h3><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harrison_(name)&amp;action=edit&amp;section=7" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Fairfax_Harrison" title="Fairfax Harrison">Fairfax Harrison</a> (1869–1938), American railroad executive and writer</li>
-<li><a href="/wiki/Francis_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Francis Harrison (disambiguation)">Francis Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Fred_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Fred Harrison (disambiguation)">Fred Harrison (disambiguation)</a>, multiple people</li></ul>
-<h3><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harrison_(name)&amp;action=edit&amp;section=8" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Gabriel_Harrison" title="Gabriel Harrison">Gabriel Harrison</a> (1818–1902), American photographer and actor</li>
-<li><a href="/wiki/Gary_Harrison" title="Gary Harrison">Gary Harrison</a>, American songwriter</li>
-<li><a href="/wiki/Gavin_Harrison" title="Gavin Harrison">Gavin Harrison</a> (born 1963), British drummer</li>
-<li><a href="/wiki/George_Harrison_(disambiguation)" class="mw-disambig" title="George Harrison (disambiguation)">George Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Gessner_Harrison" title="Gessner Harrison">Gessner Harrison</a> (1807–1862), American professor of classical languages</li>
-<li><a href="/wiki/Gilbert_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Gilbert Harrison (disambiguation)">Gilbert Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Glynn_Harrison" title="Glynn Harrison">Glynn Harrison</a> (born 1954), American football player</li>
-<li><a href="/wiki/Gregory_Harrison" title="Gregory Harrison">Gregory Harrison</a> (born 1950), American actor</li></ul>
-<h3><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harrison_(name)&amp;action=edit&amp;section=9" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Hardbody_Harrison" title="Hardbody Harrison">Hardbody Harrison</a>, former professional wrestler, toughman competitor and convicted felon</li>
-<li><a href="/wiki/Harry_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Harry Harrison (disambiguation)">Harry Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/H._C._A._Harrison" title="H. C. A. Harrison">H. C. A. Harrison</a> (1836–1929), Australian football pioneer</li>
-<li><a href="/wiki/Henry_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Henry Harrison (disambiguation)">Henry Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Herbert_C._Harrison" title="Herbert C. Harrison">Herbert C. Harrison</a> (1876–1927), Developer of the modern automobile radiator</li>
-<li><a href="/wiki/Herm_Harrison" title="Herm Harrison">Herm Harrison</a> (1939–2013), Canadian football tight end</li>
-<li><a href="/wiki/Hubert_Harrison" title="Hubert Harrison">Hubert Harrison</a> (1883–1927), American writer and activist</li></ul>
-<h3><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harrison_(name)&amp;action=edit&amp;section=10" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Ian_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Ian Harrison (disambiguation)">Ian Harrison (disambiguation)</a>, multiple people</li></ul>
-<h3><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harrison_(name)&amp;action=edit&amp;section=11" title="Edit section: J">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/J._Hartwell_Harrison" title="J. Hartwell Harrison">J. Hartwell Harrison</a> (1909–1984), American premier transplant surgeon</li>
-<li><a href="/wiki/Jack_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Jack Harrison (disambiguation)">Jack Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/James_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="James Harrison (disambiguation)">James Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Jane_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Jane Harrison (disambiguation)">Jane Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/James_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="James Harrison (disambiguation)">James Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Jenilee_Harrison" title="Jenilee Harrison">Jenilee Harrison</a> (born 1959), American actress</li>
-<li><a href="/wiki/Jerry_Harrison" title="Jerry Harrison">Jerry Harrison</a> (born 1949), American musician</li>
-<li><a href="/wiki/Jessica_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Jessica Harrison (disambiguation)">Jessica Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Joan_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Joan Harrison (disambiguation)">Joan Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Joe_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Joe Harrison (disambiguation)">Joe Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/John_Harrison_(disambiguation)" class="mw-disambig" title="John Harrison (disambiguation)">John Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Jonotthan_Harrison" title="Jonotthan Harrison">Jonotthan Harrison</a> (born 1991), American football player</li>
-<li><a href="/wiki/Joseph_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Joseph Harrison (disambiguation)">Joseph Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Josh_Harrison" title="Josh Harrison">Josh Harrison</a> (born 1987), American baseball player</li></ul>
-<h3><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harrison_(name)&amp;action=edit&amp;section=12" title="Edit section: K">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Kayla_Harrison" title="Kayla Harrison">Kayla Harrison</a> (born 1990), American judoka</li>
-<li><a href="/wiki/Ken_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Ken Harrison (disambiguation)">Ken Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Kendra_Harrison" title="Kendra Harrison">Kendra Harrison</a> (born 1992), American track and field athlete</li>
-<li><a href="/wiki/Kenny_Harrison" title="Kenny Harrison">Kenny Harrison</a> (born 1965), American track and field athlete</li>
-<li><a href="/wiki/Kevin_Harrison" title="Kevin Harrison">Kevin Harrison</a> (born 1981), American football player</li></ul>
-<h3><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harrison_(name)&amp;action=edit&amp;section=13" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Larry_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Larry Harrison (disambiguation)">Larry Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Lee_Harrison_(disambiguation)" class="mw-disambig" title="Lee Harrison (disambiguation)">Lee Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Leigh_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Leigh Harrison (disambiguation)">Leigh Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Leo_Harrison" title="Leo Harrison">Leo Harrison</a> (1922–2016), English cricketer</li>
-<li><a href="/wiki/Lester_Harrison" class="mw-redirect" title="Lester Harrison">Lester Harrison</a> (1904–1997), American basketball player, coach, and team owner</li>
-<li><a href="/wiki/Liam_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Liam Harrison (disambiguation)">Liam Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Linda_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Linda Harrison (disambiguation)">Linda Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Lou_Harrison" title="Lou Harrison">Lou Harrison</a> (1917–2003), American composer</li>
-<li><a href="/wiki/Lowell_H._Harrison" title="Lowell H. Harrison">Lowell H. Harrison</a> (1922–2011), American historian specializing in Kentucky</li>
-<li><a href="/wiki/Lyndon_Harrison,_Baron_Harrison" title="Lyndon Harrison, Baron Harrison">Lyndon Harrison, Baron Harrison</a> (born 1947), British Labour Party politician</li></ul>
-<h3><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harrison_(name)&amp;action=edit&amp;section=14" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Mark_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Mark Harrison (disambiguation)">Mark Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Martin_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Martin Harrison (disambiguation)">Martin Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Martez_Harrison" title="Martez Harrison">Martez Harrison</a> (born 1993), American basketball player</li>
-<li><a href="/wiki/Marvin_Harrison" title="Marvin Harrison">Marvin Harrison</a> (born 1972), American football player</li>
-<li><a href="/wiki/Maurice_Harrison-Gray" title="Maurice Harrison-Gray">Maurice Harrison-Gray</a> (1899–1968), British bridge player</li>
-<li><a href="/wiki/Mary_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Mary Harrison (disambiguation)">Mary Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Matthew_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Matthew Harrison (disambiguation)">Matthew Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Michael_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Michael Harrison (disambiguation)">Michael Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Monte_Harrison" title="Monte Harrison">Monte Harrison</a> (born 1995), American football and baseball player</li>
-<li><a href="/wiki/Moses_Harrison" title="Moses Harrison">Moses Harrison</a> (1932–2013), American jurist</li>
-<li><a href="/wiki/M._John_Harrison" title="M. John Harrison">M. John Harrison</a> (born 1945), British writer</li>
-<li><a href="/wiki/Mark_Simon_Harrison" class="mw-redirect" title="Mark Simon Harrison">Mark Simon Harrison</a> (born 1960), British footballer</li></ul>
-<h3><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harrison_(name)&amp;action=edit&amp;section=15" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Nigel_Harrison" title="Nigel Harrison">Nigel Harrison</a> (born 1951), British guitarist</li>
-<li><a href="/wiki/Noel_Harrison" title="Noel Harrison">Noel Harrison</a> (1934–2013), English singer, actor, and Olympic skier</li></ul>
-<h3><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harrison_(name)&amp;action=edit&amp;section=16" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Olivia_Harrison" title="Olivia Harrison">Olivia Harrison</a> (born 1948), Mexican author and film producer</li></ul>
-<h3><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harrison_(name)&amp;action=edit&amp;section=17" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Pat_Harrison" title="Pat Harrison">Pat Harrison</a> (1881–1941), American politician</li>
-<li><a href="/wiki/Paul_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Paul Harrison (disambiguation)">Paul Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Peter_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Peter Harrison (disambiguation)">Peter Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Phil_Harrison_(disambiguation)" class="mw-disambig" title="Phil Harrison (disambiguation)">Phil Harrison (disambiguation)</a>, multiple people</li></ul>
-<h3><span class="mw-headline" id="Q">Q</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harrison_(name)&amp;action=edit&amp;section=18" title="Edit section: Q">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Queen_Harrison" class="mw-redirect" title="Queen Harrison">Queen Harrison</a> (born 1988), American track and field athlete</li></ul>
-<h3><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harrison_(name)&amp;action=edit&amp;section=19" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Randy_Harrison" title="Randy Harrison">Randy Harrison</a> (born 1977), American actor</li>
-<li><a href="/wiki/Rex_Harrison" title="Rex Harrison">Rex Harrison</a> (1908–1990), British actor</li>
-<li><a href="/wiki/Richard_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Richard Harrison (disambiguation)">Richard Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Rob_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Rob Harrison (disambiguation)">Rob Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Robert_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Robert Harrison (disambiguation)">Robert Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Rodney_Harrison" title="Rodney Harrison">Rodney Harrison</a> (born 1972), American football player</li>
-<li><a href="/wiki/Ronnie_Harrison" title="Ronnie Harrison">Ronnie Harrison</a> (born 1997), American football player</li>
-<li><a href="/wiki/Ross_Granville_Harrison" title="Ross Granville Harrison">Ross Granville Harrison</a> (1870–1959), American biologist</li>
-<li><a href="/wiki/Russell_Benjamin_Harrison" title="Russell Benjamin Harrison">Russell Benjamin Harrison</a> (1854–1936), American lawyer and politician</li>
-<li><a href="/wiki/Ryan_Harrison_(disambiguation)" class="mw-disambig" title="Ryan Harrison (disambiguation)">Ryan Harrison (disambiguation)</a>, multiple people</li></ul>
-<h3><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harrison_(name)&amp;action=edit&amp;section=20" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Sam_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Sam Harrison (disambiguation)">Sam Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Samuel_Harrison_(disambiguation)" class="mw-disambig" title="Samuel Harrison (disambiguation)">Samuel Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Sarah_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Sarah Harrison (disambiguation)">Sarah Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Scott_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Scott Harrison (disambiguation)">Scott Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Steve_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Steve Harrison (disambiguation)">Steve Harrison (disambiguation)</a>, multiple people</li></ul>
-<h3><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harrison_(name)&amp;action=edit&amp;section=21" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Terry_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Terry Harrison (disambiguation)">Terry Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Thomas_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Thomas Harrison (disambiguation)">Thomas Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Tony_Harrison_(disambiguation)" class="mw-disambig" title="Tony Harrison (disambiguation)">Tony Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Tristia_Harrison" title="Tristia Harrison">Tristia Harrison</a> (born 1973), British businesswoman, CEO of TalkTalk Group</li></ul>
-<h3><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harrison_(name)&amp;action=edit&amp;section=22" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Wallace_Harrison" title="Wallace Harrison">Wallace Harrison</a> (1895–1981), American architect</li>
-<li><a href="/wiki/Wayne_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="Wayne Harrison (disambiguation)">Wayne Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Wilbert_Harrison" title="Wilbert Harrison">Wilbert Harrison</a> (1929–1994), American singer</li>
-<li><a href="/wiki/William_Harrison_(disambiguation)" class="mw-redirect mw-disambig" title="William Harrison (disambiguation)">William Harrison (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/William_Henry_Harrison" title="William Henry Harrison">William Henry Harrison</a> (1773–1841), ninth president of the United States</li>
-<li><a href="/wiki/William_Jerome_Harrison" title="William Jerome Harrison">William Jerome Harrison</a> (1845–1908), British geologist and photographer</li></ul>
-<h2><span class="mw-headline" id="Given_name">Given name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harrison_(name)&amp;action=edit&amp;section=23" title="Edit section: Given name">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Harrison_Afful" title="Harrison Afful">Harrison Afful</a> (born 1986), Ghanaian football player</li>
-<li><a href="/wiki/Harrison_Bader" title="Harrison Bader">Harrison Bader</a> (born 1994), American baseball player</li>
-<li><a href="/wiki/Harrison_Barnes" title="Harrison Barnes">Harrison Barnes</a> (born 1992), NBA player for the Dallas Mavericks</li>
-<li><a href="/wiki/Harrison_Birtwistle" title="Harrison Birtwistle">Harrison Birtwistle</a> (born 1934), British composer</li>
-<li><a href="/wiki/Harrison_Butker" title="Harrison Butker">Harrison Butker</a> (born 1995), American football player</li>
-<li><a href="/wiki/Harrison_Cady" title="Harrison Cady">Harrison Cady</a> (1877–1970), American illustrator</li>
-<li><a href="/wiki/Harrison_Craig" title="Harrison Craig">Harrison Craig</a> (born 1994), Australian singer</li>
-<li><a href="/wiki/Harrison_Gray_Dyar" title="Harrison Gray Dyar">Harrison Gray Dyar</a> (1805–1875), American inventor</li>
-<li><a href="/wiki/Harrison_Dillard" title="Harrison Dillard">Harrison Dillard</a> (born 1923), American track athlete</li>
-<li><a href="/wiki/Harrison_Ford_(silent_film_actor)" title="Harrison Ford (silent film actor)">Harrison Ford (silent film actor)</a> (1884–1957), American stage and cinema actor</li>
-<li><a href="/wiki/Harrison_Ford" title="Harrison Ford">Harrison Ford</a> (born 1942), American actor</li>
-<li><a href="/wiki/Harrison_Gray_Otis_(publisher)" title="Harrison Gray Otis (publisher)">Harrison Gray Otis (publisher)</a> (1837–1917), American publisher</li>
-<li><a href="/wiki/Harrison_Marks" title="Harrison Marks">Harrison Marks</a> (1926–1997), British photographer</li>
-<li><a href="/wiki/Harrison_McCain" title="Harrison McCain">Harrison McCain</a> (1927–2004), Canadian businessman</li>
-<li><a href="/wiki/Harrison_Page" title="Harrison Page">Harrison Page</a> (born 1941), American actor</li>
-<li><a href="/wiki/Harrison_Phillips" title="Harrison Phillips">Harrison Phillips</a> (born 1996), American football player</li>
-<li><a href="/wiki/Harrison_Reed_(politician)" title="Harrison Reed (politician)">Harrison Reed (politician)</a> (1813–1899), American politician</li>
-<li><a href="/wiki/Harrison_Salisbury" title="Harrison Salisbury">Harrison Salisbury</a> (1908–1993), American journalist</li>
-<li><a href="/wiki/Harrison_Schmitt" title="Harrison Schmitt">Harrison Schmitt</a> (born 1935), American astronaut and politician</li>
-<li><a href="/wiki/Harrison_Smith_(disambiguation)" class="mw-redirect mw-disambig" title="Harrison Smith (disambiguation)">Harrison Smith (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Harrison_Storms" title="Harrison Storms">Harrison Storms</a> (1915–1992), American aeronautical engineer</li>
-<li><a href="/wiki/Harrison_H._Wheeler" title="Harrison H. Wheeler">Harrison H. Wheeler</a> (1839–1896), American politician from Michigan</li>
-<li><a href="/wiki/Harrison_White" title="Harrison White">Harrison White</a> (born 1930), American sociologist</li>
-<li><a href="/wiki/Harrison_Wilson_Jr." title="Harrison Wilson Jr.">Harrison Wilson Jr.</a> (1925&#8211;2019), American educator and college basketball coach</li>
-<li><a href="/wiki/Harrison_Young" title="Harrison Young">Harrison Young</a> (1930–2005), American actor</li></ul>
-<h2><span class="mw-headline" id="Fictional_characters">Fictional characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harrison_(name)&amp;action=edit&amp;section=24" title="Edit section: Fictional characters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Harrison_Bergeron" title="Harrison Bergeron">Harrison Bergeron</a>, title character in a short story by Kurt Vonnegut</li>
-<li><a href="/wiki/Harrison_Wells" title="Harrison Wells">Harrison Wells</a>, the name of several characters in the CW series <i>The Flash</i></li>
-<li>John Harrison, pseudonym used by <a href="/wiki/Khan_Noonien_Singh" title="Khan Noonien Singh">Khan Noonien Singh</a> in <i>Star Trek Into Darkness</i></li>
-<li><a href="/wiki/Jude_Harrison" class="mw-redirect" title="Jude Harrison">Jude Harrison</a>, musician in the television series <i>Instant Star</i></li>
-<li><a href="/wiki/Steve_Harrison_(character)" title="Steve Harrison (character)">Steve Harrison (character)</a>, detective created by Robert E. Howard</li>
-<li><a href="/wiki/List_of_recurring_characters_from_The_Mighty_Boosh#Tony_Harrison" class="mw-redirect" title="List of recurring characters from The Mighty Boosh">Tony Harrison</a>, shaman in the television series <i>The Mighty Boosh</i></li></ul>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harrison_(name)&amp;action=edit&amp;section=25" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><span class="selfreference"><a href="/wiki/Special:Search/intitle:%22Harrison%22" title="Special:Search/intitle:&quot;Harrison&quot;">All pages with titles containing <i>Harrison</i></a></span></li>
-<li><a href="/wiki/Francis_Harison" title="Francis Harison">Francis Harison</a> (died 1740), colonial New York lawyer</li>
-<li><a href="/wiki/Richard_Harison" title="Richard Harison">Richard Harison</a> (1748–1829), New York lawyer</li>
-<li><a href="/wiki/Tom_Harrisson" title="Tom Harrisson">Tom Harrisson</a> (1911–1976), ethnologist and World War II guerilla fighter</li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harrison_(name)&amp;action=edit&amp;section=26" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Given_name">Given name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bridget&amp;action=edit&amp;section=2" title="Edit section: Given name">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Bridget_Breiner" title="Bridget Breiner">Bridget Breiner</a> (born 1974), American dancer and choreographer, working mainly in Germany</li>
+<li><a href="/wiki/Bridget_Carleton" title="Bridget Carleton">Bridget Carleton</a> (born 1997), Canadian basketball player</li>
+<li><a href="/wiki/Bridget_Rose_Dugdale" class="mw-redirect" title="Bridget Rose Dugdale">Bridget Rose Dugdale</a>, English heiress who joined the Provisional Irish Republican Army</li>
+<li><a href="/wiki/Bridget_Fonda" title="Bridget Fonda">Bridget Fonda</a> (born 1964), American actress</li>
+<li><a href="/wiki/Bridget_Marquardt" title="Bridget Marquardt">Bridget Marquardt</a>, from <i>The Girls Next Door</i></li>
+<li><a href="/wiki/Bridget_Moynahan" title="Bridget Moynahan">Bridget Moynahan</a>, actress and model</li>
+<li><a href="/wiki/Bridget_Perrier" title="Bridget Perrier">Bridget Perrier</a> (born 1977), Canadian anti-prostitution activist</li>
+<li><a href="/wiki/Brigitte_Bardot" title="Brigitte Bardot">Brigitte Bardot</a> French actress</li></ul>
+<h3><span class="mw-headline" id="Fictional_characters">Fictional characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bridget&amp;action=edit&amp;section=3" title="Edit section: Fictional characters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Bridget_(Guilty_Gear)" title="Bridget (Guilty Gear)">Bridget (<i>Guilty Gear</i>)</a>, in the fighting game series <i>Guilty Gear</i></li>
+<li>Bridget, in the film <i><a href="/wiki/The_Wild" title="The Wild">The Wild</a></i></li>
+<li>Bridget, in the film <i><a href="/wiki/An_American_Tail" title="An American Tail">An American Tail</a></i></li>
+<li><a href="/wiki/Bridget_Forrester" title="Bridget Forrester">Bridget Forrester</a>, in <i>The Bold and the Beautiful</i></li>
+<li>Bridget Hennessey, the eldest child on the sitcom <i><a href="/wiki/8_Simple_Rules" title="8 Simple Rules">8 Simple Rules</a></i></li>
+<li><a href="/wiki/Bridget_Jones" title="Bridget Jones">Bridget Jones</a></li>
+<li><a href="/wiki/Bridget_%22Bee%22_Vreeland" class="mw-redirect" title="Bridget &quot;Bee&quot; Vreeland">Bridget "Bee" Vreeland</a>, in the book and movie <i>The Sisterhood of the Traveling Pants</i></li>
+<li><a href="/wiki/Brigitte_(Overwatch)" title="Brigitte (Overwatch)">Brigitte (<i>Overwatch</i>)</a>, in the game <i>Overwatch</i></li></ul>
+<h2><span class="mw-headline" id="Variations">Variations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bridget&amp;action=edit&amp;section=4" title="Edit section: Variations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 15em; -webkit-column-width: 15em; column-width: 15em;">
+<ul><li>Berc'hed (<a href="/wiki/Breton_language" title="Breton language">Breton</a>)</li>
+<li>Berget (<a href="/wiki/Swedish_language" title="Swedish language">Swedish</a>)</li>
+<li>Bergit (<a href="/wiki/Scandinavian_languages" class="mw-redirect" title="Scandinavian languages">Scandinavian</a>)</li>
+<li>Berit (<a href="/wiki/Scandinavian_languages" class="mw-redirect" title="Scandinavian languages">Scandinavian</a>)</li>
+<li><a href="/wiki/Birgit_(disambiguation)" class="mw-redirect" title="Birgit (disambiguation)">Birgit</a></li>
+<li><a href="/wiki/Birgitta" title="Birgitta">Birgitta</a> (<a href="/wiki/Scandinavian_languages" class="mw-redirect" title="Scandinavian languages">Scandinavian</a>)</li>
+<li>Birgitte (<a href="/wiki/Norwegian_language" title="Norwegian language">Norwegian</a>)</li>
+<li>Birte (<a href="/wiki/Norwegian_language" title="Norwegian language">Norwegian</a>)</li>
+<li>Brede (<a href="/wiki/Manx_language" title="Manx language">Manx</a>)</li>
+<li>Breesha (<a href="/wiki/Manx_language" title="Manx language">Manx</a>)</li>
+<li>Breeshey (<a href="/wiki/Manx_language" title="Manx language">Manx</a>)</li>
+<li>Bríd (<a href="/wiki/Irish_language" title="Irish language">Irish</a>)</li>
+<li>Bríde (<a href="/wiki/Irish_language" title="Irish language">Irish</a>)</li>
+<li>Bridget (<a href="/wiki/English_language" title="English language">English</a>)</li>
+<li>Bridgette (<a href="/wiki/English_language" title="English language">English</a>)</li>
+<li>Bridgid (<a href="/wiki/English_language" title="English language">English</a>)</li>
+<li>Brídín (<a href="/wiki/Irish_language" title="Irish language">Irish</a>)</li>
+<li>Brigette (<a href="/wiki/French_language" title="French language">French</a>)</li>
+<li>Brìghde (<a href="/wiki/Scottish_Gaelic" title="Scottish Gaelic">Scottish Gaelic</a>)</li>
+<li>Brighid (<a href="/wiki/Irish_language" title="Irish language">Irish</a>)</li>
+<li>Brighidín (<a href="/wiki/Irish_language" title="Irish language">Irish</a>)</li>
+<li>Brigid (<a href="/wiki/Old_Irish" title="Old Irish">Old Irish</a>)</li>
+<li>Brígida (<a href="/wiki/Catalan_language" title="Catalan language">Catalan</a>) (<a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>) (<a href="/wiki/Spanish_language" title="Spanish language">Spanish</a>)</li>
+<li>Brigida (<a href="/wiki/Italian_language" title="Italian language">Italian</a>), (<a href="/wiki/Spanish_language" title="Spanish language">Spanish</a>)</li>
+<li>Brigit (<a href="/wiki/English_language" title="English language">English</a>, <a href="/wiki/Old_Irish" title="Old Irish">Old Irish</a>)</li>
+<li><a href="/wiki/Brigita" title="Brigita">Brigita</a> (<a href="/wiki/Latvian_language" title="Latvian language">Latvian</a>), (<a href="/wiki/Lithuanian_language" title="Lithuanian language">Lithuanian</a>), (<a href="/wiki/Slovenian_language" class="mw-redirect" title="Slovenian language">Slovenian</a>)</li>
+<li>Brigitta (<a href="/wiki/German_language" title="German language">German</a>), (<a href="/wiki/Hungarian_language" title="Hungarian language">Hungarian</a>)</li>
+<li><a href="/wiki/Brigitte" title="Brigitte">Brigitte</a> (<a href="/wiki/French_language" title="French language">French</a>), (<a href="/wiki/German_language" title="German language">German</a>)</li>
+<li>Brit (<a href="/wiki/Norwegian_language" title="Norwegian language">Norwegian</a>)</li>
+<li>Brita (<a href="/wiki/Finnish_language" title="Finnish language">Finnish</a>), (<a href="/wiki/Scandinavian_languages" class="mw-redirect" title="Scandinavian languages">Scandinavian</a>)</li>
+<li>Britt (<a href="/wiki/Scandinavian_languages" class="mw-redirect" title="Scandinavian languages">Scandinavian</a>)</li>
+<li><a href="/wiki/Britta" title="Britta">Britta</a> (<a href="/wiki/Scandinavian_languages" class="mw-redirect" title="Scandinavian languages">Scandinavian</a>)</li>
+<li>Brygid (<a href="/wiki/Polish_language" title="Polish language">Polish</a>)</li>
+<li>Brygida (<a href="/wiki/Polish_language" title="Polish language">Polish</a>)</li>
+<li>Ffraid (<a href="/wiki/Welsh_language" title="Welsh language">Welsh</a>)</li>
+<li>Gitta (<a href="/wiki/German_language" title="German language">German</a>)</li>
+<li>Gittan (<a href="/wiki/Swedish_language" title="Swedish language">Swedish</a>)</li>
+<li>Piritta (<a href="/wiki/Finnish_language" title="Finnish language">Finnish</a>)</li>
+<li>Pirkko (<a href="/wiki/Finnish_language" title="Finnish language">Finnish</a>)</li>
+<li>Priita (<a href="/wiki/Finnish_language" title="Finnish language">Finnish</a>)</li>
+<li>Riitta (<a href="/wiki/Finnish_language" title="Finnish language">Finnish</a>)<sup id="cite_ref-Todd_1998,_p._23_3-1" class="reference"><a href="#cite_note-Todd_1998,_p._23-3">&#91;3&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup></li></ul>
+</div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bridget&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_Irish-language_given_names" title="List of Irish-language given names">List of Irish-language given names</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bridget&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <div class="reflist" style="list-style-type: decimal;">
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-fb-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-fb_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fb_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://forebears.co.uk/surnames/harrison">Harrison Surname at Forebears</a></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Todd (1998), p. 23.</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ancestry.co.uk/name-origin?surname=harrison">"Harrison Surname Meaning and Distribution"</a>. ancestry.co.uk.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Harrison+Surname+Meaning+and+Distribution&amp;rft.pub=ancestry.co.uk&amp;rft_id=http%3A%2F%2Fwww.ancestry.co.uk%2Fname-origin%3Fsurname%3Dharrison&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarrison+%28name%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style> Retrieved 25 January 2014</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Campbell, Mike. <a rel="nofollow" class="external text" href="http://www.behindthename.com/name/bridget">"Meaning, origin and history of the name Bridget"</a>. <i>Behind the Name</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 February</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Behind+the+Name&amp;rft.atitle=Meaning%2C+origin+and+history+of+the+name+Bridget&amp;rft.aulast=Campbell&amp;rft.aufirst=Mike&amp;rft_id=http%3A%2F%2Fwww.behindthename.com%2Fname%2Fbridget&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABridget" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.surnamedb.com/Surname/Harrison">http://www.surnamedb.com/Surname/Harrison</a></span>
+<li id="cite_note-Todd_1998,_p._23-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Todd_1998,_p._23_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Todd_1998,_p._23_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Todd (1998), p. 23</span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">J. Cresswell (1995). <i>Dictionary of First Names</i>. Bookmart Ltd.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Dictionary+of+First+Names&amp;rft.pub=Bookmart+Ltd&amp;rft.date=1995&amp;rft.au=J.+Cresswell&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarrison+%28name%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Campbell, Mike. <a rel="nofollow" class="external text" href="http://www.behindthename.com/top/search.php?terms=bridget">"Popularity for the name Bridget"</a>. <i>Behind the Name</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 February</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Behind+the+Name&amp;rft.atitle=Popularity+for+the+name+Bridget&amp;rft.aulast=Campbell&amp;rft.aufirst=Mike&amp;rft_id=http%3A%2F%2Fwww.behindthename.com%2Ftop%2Fsearch.php%3Fterms%3Dbridget&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABridget" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Campbell, Mike. <a rel="nofollow" class="external text" href="http://www.behindthename.com/php/related.php?name=bridget">"Names Related to Bridget"</a>. <i>Behind the Name</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 February</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Behind+the+Name&amp;rft.atitle=Names+Related+to+Bridget&amp;rft.aulast=Campbell&amp;rft.aufirst=Mike&amp;rft_id=http%3A%2F%2Fwww.behindthename.com%2Fphp%2Frelated.php%3Fname%3Dbridget&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABridget" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://gov.im/mnh/heritage/library/publicinfo/manxNames.xml">Manx First Names</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Rosenkrantz and Satran (2007), p. 40</span>
 </li>
 </ol></div></div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bridget&amp;action=edit&amp;section=7" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Rosenkrantz, Linda, and Satran, Pamela Redmond (2008). <i>Cool Names for Babies</i>. St. Martin's Griffin. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-312-37786-1" title="Special:BookSources/978-0-312-37786-1">978-0-312-37786-1</a></li>
+<li>Todd, Loreto (1998). <i>Celtic Names for Children</i>. Irish American Book Company. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-86278-556-1" title="Special:BookSources/0-86278-556-1">0-86278-556-1</a>.</li></ul>
 <style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
 <table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
 <tbody><tr>
 <td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
-<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Name list</div>This page or section lists people that share the same <a href="/wiki/Given_name" title="Given name">given name</a> or the same <a href="/wiki/Family_name" class="mw-redirect" title="Family name">family name</a>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Harrison_(name)&amp;namespace=0">internal link</a> led you here, you may wish to change that link to point directly to the intended article. </td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Name list</div>This page or section lists people that share the same <a href="/wiki/Given_name" title="Given name">given name</a>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Bridget&amp;namespace=0">internal link</a> led you here, you may wish to change that link to point directly to the intended article. </td>
 </tr>
 </tbody></table>
 <!-- 
 NewPP limit report
-Parsed by mw1261
-Cached time: 20191024203610
+Parsed by mw1330
+Cached time: 20191007152825
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.260 seconds
-Real time usage: 0.370 seconds
-Preprocessor visited node count: 1241/1000000
+CPU time usage: 0.232 seconds
+Real time usage: 0.364 seconds
+Preprocessor visited node count: 1227/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 11869/2097152 bytes
-Template argument size: 1778/2097152 bytes
-Highest expansion depth: 9/40
+Post‐expand include size: 12017/2097152 bytes
+Template argument size: 2057/2097152 bytes
+Highest expansion depth: 13/40
 Expensive parser function count: 1/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 6442/5000000 bytes
+Unstrip post‐expand size: 13919/5000000 bytes
 Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.110/10.000 seconds
-Lua memory usage: 3.23 MB/50 MB
+Lua time usage: 0.098/10.000 seconds
+Lua memory usage: 3.06 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  296.115      1 -total
- 32.04%   94.884      1 Template:Infobox_surname
- 31.94%   94.592      1 Template:Reflist
- 26.12%   77.348      1 Template:Infobox
- 25.86%   76.578      1 Template:Cite_web
- 16.75%   49.596      1 Template:About
- 13.14%   38.918      1 Template:Given_name
-  9.41%   27.872      1 Template:IPAc-en
-  9.15%   27.089      1 Template:Dmbox
-  3.89%   11.533      1 Template:Comma_separated_entries
+100.00%  319.373      1 -total
+ 30.22%   96.530      1 Template:Reflist
+ 26.48%   84.561      3 Template:Cite_web
+ 21.82%   69.695      1 Template:Given_name
+ 18.47%   58.992      1 Template:Dmbox
+ 16.27%   51.951      2 Template:ISBN
+ 15.53%   49.590      1 Template:Infobox_Given_Name_Revised
+ 10.59%   33.822      1 Template:Infobox
+  9.71%   31.021      1 Template:Other_uses
+  8.48%   27.087      1 Template:Short_description
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:16668461-0!canonical and timestamp 20191024203610 and revision id 918028055
+<!-- Saved in parser cache with key enwiki:pcache:idhash:13568253-0!canonical and timestamp 20191007152825 and revision id 900530779
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Harrison_(name)&amp;oldid=918028055">https://en.wikipedia.org/w/index.php?title=Harrison_(name)&amp;oldid=918028055</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Bridget&amp;oldid=900530779">https://en.wikipedia.org/w/index.php?title=Bridget&amp;oldid=900530779</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Given_names" title="Category:Given names">Given names</a></li><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:Masculine_given_names" title="Category:Masculine given names">Masculine given names</a></li><li><a href="/wiki/Category:Surnames_of_English_origin" title="Category:Surnames of English origin">Surnames of English origin</a></li><li><a href="/wiki/Category:Patronymic_surnames" title="Category:Patronymic surnames">Patronymic surnames</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Given_names" title="Category:Given names">Given names</a></li><li><a href="/wiki/Category:Irish_feminine_given_names" title="Category:Irish feminine given names">Irish feminine given names</a></li><li><a href="/wiki/Category:English_feminine_given_names" title="Category:English feminine given names">English feminine given names</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_infobox_given_name_with_unknown_parameters" title="Category:Pages using infobox given name with unknown parameters">Pages using infobox given name with unknown parameters</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -358,13 +223,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Harrison+%28name%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Harrison+%28name%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Bridget" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bridget" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Harrison_(name)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Harrison_(name)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Bridget" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Bridget" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -379,7 +244,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Harrison_(name)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Harrison_(name)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Harrison_(name)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Bridget">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Bridget&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Bridget&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -418,35 +283,35 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Harrison_(name)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Harrison_(name)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Harrison_(name)&amp;oldid=918028055" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Harrison_(name)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2712864" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Harrison_%28name%29&amp;id=918028055" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Bridget" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Bridget" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Bridget&amp;oldid=900530779" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Bridget&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q913810" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Bridget&amp;id=900530779" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
 			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
 			<div class="body">
 								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Harrison_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Bridget_(given_name)" hreflang="en">Wikimedia Commons</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Harrison+%28name%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Harrison+%28name%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Harrison_(name)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Bridget">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Bridget&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Bridget&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Harrison_(jm%C3%A9no)" title="Harrison (jméno) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Harrison_(Name)" title="Harrison (Name) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Harrison" title="Harrison – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Harrison_(namn)" title="Harrison (namn) – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D1%80%D1%96%D1%81%D0%BE%D0%BD_(%D1%96%D0%BC%27%D1%8F)" title="Гаррісон (ім&#039;я) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2712864#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Bridget_(Vorname)" title="Bridget (Vorname) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Bridget" title="Bridget – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Bridget" title="Bridget – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Bridget" title="Bridget – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q913810#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 26 September 2019, at 17:21<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 6 June 2019, at 07:16<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -457,7 +322,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Harrison_(name)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Bridget&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -469,8 +334,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.260","walltime":"0.370","ppvisitednodes":{"value":1241,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":11869,"limit":2097152},"templateargumentsize":{"value":1778,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":6442,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  296.115      1 -total"," 32.04%   94.884      1 Template:Infobox_surname"," 31.94%   94.592      1 Template:Reflist"," 26.12%   77.348      1 Template:Infobox"," 25.86%   76.578      1 Template:Cite_web"," 16.75%   49.596      1 Template:About"," 13.14%   38.918      1 Template:Given_name","  9.41%   27.872      1 Template:IPAc-en","  9.15%   27.089      1 Template:Dmbox","  3.89%   11.533      1 Template:Comma_separated_entries"]},"scribunto":{"limitreport-timeusage":{"value":"0.110","limit":"10.000"},"limitreport-memusage":{"value":3384246,"limit":52428800}},"cachereport":{"origin":"mw1261","timestamp":"20191024203610","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Harrison (name)","url":"https:\/\/en.wikipedia.org\/wiki\/Harrison_(name)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2712864","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2712864","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-03-30T01:55:53Z","dateModified":"2019-09-26T17:21:59Z","headline":"family name"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":556,"wgHostname":"mw1261"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.232","walltime":"0.364","ppvisitednodes":{"value":1227,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":12017,"limit":2097152},"templateargumentsize":{"value":2057,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":13919,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  319.373      1 -total"," 30.22%   96.530      1 Template:Reflist"," 26.48%   84.561      3 Template:Cite_web"," 21.82%   69.695      1 Template:Given_name"," 18.47%   58.992      1 Template:Dmbox"," 16.27%   51.951      2 Template:ISBN"," 15.53%   49.590      1 Template:Infobox_Given_Name_Revised"," 10.59%   33.822      1 Template:Infobox","  9.71%   31.021      1 Template:Other_uses","  8.48%   27.087      1 Template:Short_description"]},"scribunto":{"limitreport-timeusage":{"value":"0.098","limit":"10.000"},"limitreport-memusage":{"value":3203462,"limit":52428800}},"cachereport":{"origin":"mw1330","timestamp":"20191007152825","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Bridget","url":"https:\/\/en.wikipedia.org\/wiki\/Bridget","sameAs":"http:\/\/www.wikidata.org\/entity\/Q913810","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q913810","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-10-04T16:41:52Z","dateModified":"2019-06-06T07:16:12Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/09\/Stbrigid.jpg","headline":"female given name"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":105,"wgHostname":"mw1243"});});</script>
 </body>
 </html>

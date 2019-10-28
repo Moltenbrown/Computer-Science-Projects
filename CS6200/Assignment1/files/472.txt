@@ -2,36 +2,35 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Galton–Watson process - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Galton–Watson_process","wgTitle":"Galton–Watson process","wgCurRevisionId":916662873,"wgRevisionId":916662873,"wgArticleId":350596,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles lacking in-text citations from July 2009","All articles lacking in-text citations","Articles with short description","CS1: long volume value","Genetic genealogy","Genetics in the United Kingdom","Human population genetics","Stochastic processes","Surname"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November",
-"December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Galton–Watson_process","wgRelevantArticleId":350596,"wgRequestId":"Xa-OYwpAICsAAL6E6uYAAADM","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q462144","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready",
-"user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.cite.tracking","ext.math.scripts","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher",
-"ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Stepmother - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Stepmother","wgTitle":"Stepmother","wgCurRevisionId":920779849,"wgRevisionId":920779849,"wgArticleId":229235,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from April 2018","All articles needing additional references","Articles using small message boxes","All articles with unsourced statements","Articles with unsourced statements from April 2018","Stepfamily","Parenting","Terms for women","Cinderella characters"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],
+"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Stepmother","wgRelevantArticleId":229235,"wgRequestId":"XbQPaApAICkAALiBG-MAAADL","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q15384699","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.2"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/3/3f/Galton_Watson_survival_Poisson.png"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Galton%E2%80%93Watson_process"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Galton%E2%80%93Watson_process&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Galton%E2%80%93Watson_process&amp;action=edit"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Stepmother"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Stepmother&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Stepmother&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Galton%E2%80%93Watson_process"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Stepmother"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Galton–Watson_process rootpage-Galton–Watson_process skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Stepmother rootpage-Stepmother skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -40,7 +39,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Galton–Watson process</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Stepmother</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -51,513 +50,249 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-More_footnotes plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>.<span class="hide-when-compact"> Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" class="mw-redirect" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span>  <small class="date-container"><i>(<span class="date">July 2009</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
-<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Probability model, originally to model the extinction of family names</div>
-<div class="thumb tright"><div class="thumbinner" style="width:322px;"><a href="/wiki/File:Galton_Watson_survival_Poisson.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Galton_Watson_survival_Poisson.png/320px-Galton_Watson_survival_Poisson.png" decoding="async" width="320" height="320" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Galton_Watson_survival_Poisson.png/480px-Galton_Watson_survival_Poisson.png 1.5x, //upload.wikimedia.org/wikipedia/commons/3/3f/Galton_Watson_survival_Poisson.png 2x" data-file-width="540" data-file-height="540" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Galton_Watson_survival_Poisson.png" class="internal" title="Enlarge"></a></div>Galton&#8211;Watson survival probabilities for different exponential rates of population growth, if the number of children of each parent node can be assumed to follow a <a href="/wiki/Poisson_distribution" title="Poisson distribution">Poisson distribution</a>.  For <i>&#955;</i>&#160;&#8804;&#160;1, eventual extinction will occur with probability&#160;1.  But the probability of survival of a new type may be quite low even if <i>&#955;</i>&#160;&gt;&#160;1 and the population as a whole is experiencing quite strong <a href="/wiki/Exponential_growth" title="Exponential growth">exponential increase</a>.</div></div></div>
-<p>The <b>Galton–Watson process</b> is a <a href="/wiki/Branching_process" title="Branching process">branching</a> <a href="/wiki/Stochastic_process" title="Stochastic process">stochastic process</a> arising from <a href="/wiki/Francis_Galton" title="Francis Galton">Francis Galton</a>'s statistical investigation of the extinction of <a href="/wiki/Family_name" class="mw-redirect" title="Family name">family names</a>. The process models family names as <a href="/wiki/Patrilineal" class="mw-redirect" title="Patrilineal">patrilineal</a> (passed from father to son), while offspring are randomly either male or female, and names become extinct if the family name line dies out (holders of the family name die without male descendants).  This is an accurate description of <a href="/wiki/Y_chromosome" title="Y chromosome">Y chromosome</a> transmission in genetics, and the model is thus useful for understanding <a href="/wiki/Human_Y-chromosome_DNA_haplogroup" title="Human Y-chromosome DNA haplogroup">human Y-chromosome DNA haplogroups</a>, and is also of use in understanding other processes (as described below); but its application to actual extinction of family names is fraught. In practice, family names change for many other reasons, and dying out of name line is only one factor, as discussed in <a href="#Examples">examples</a>, below; the Galton–Watson process is thus of limited applicability in understanding actual family name distributions.
-</p><p>There was concern amongst the <a href="/wiki/Victorian_era" title="Victorian era">Victorians</a> that <a href="/wiki/Aristocracy_(class)" title="Aristocracy (class)">aristocratic</a> surnames were becoming extinct.  Galton originally posed the question regarding the probability of such an event in an 1873 issue of <i><a href="/w/index.php?title=The_Educational_Times&amp;action=edit&amp;redlink=1" class="new" title="The Educational Times (page does not exist)">The Educational Times</a></i>,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> and the Reverend <a href="/wiki/Henry_William_Watson" title="Henry William Watson">Henry William Watson</a> replied with a solution.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>  Together, they then wrote an 1874 paper entitled "On the probability of the extinction of families" in the Journal of the Anthropological Institute of Great Britain and Ireland (now the <a href="/wiki/Journal_of_the_Royal_Anthropological_Institute" title="Journal of the Royal Anthropological Institute">Journal of the Royal Anthropological Institute</a>).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>  Galton and Watson appear to have derived their process independently of the earlier work by <a href="/wiki/Ir%C3%A9n%C3%A9e-Jules_Bienaym%C3%A9" title="Irénée-Jules Bienaymé">I. J. Bienaymé</a>; see Heyde and Seneta 1977.  For a detailed history see Kendall (1966 and 1975).
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/The_Stepmother_(disambiguation)" class="mw-redirect mw-disambig" title="The Stepmother (disambiguation)">The Stepmother</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable">"Stepmom" redirects here. For the American film, see <a href="/wiki/Stepmom_(1998_film)" title="Stepmom (1998 film)">Stepmom (1998 film)</a>. For the Russian film, see <a href="/wiki/Stepmom_(1973_film)" title="Stepmom (1973 film)">Stepmom (1973 film)</a>.</div>
+<p>A <b>stepmother</b> is the current wife of one's natural parent that is not one's biological mother.
+</p><p><br />
 </p>
 <div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Concepts"><span class="tocnumber">1</span> <span class="toctext">Concepts</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Mathematical_definition"><span class="tocnumber">2</span> <span class="toctext">Mathematical definition</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#Extinction_criterion_for_Galton–Watson_process"><span class="tocnumber">3</span> <span class="toctext">Extinction criterion for Galton–Watson process</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#Bisexual_Galton–Watson_process"><span class="tocnumber">4</span> <span class="toctext">Bisexual Galton&#8211;Watson process</span></a>
+<li class="toclevel-1 tocsection-1"><a href="#Culture"><span class="tocnumber">1</span> <span class="toctext">Culture</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Fiction"><span class="tocnumber">2</span> <span class="toctext">Fiction</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Classical_Literature"><span class="tocnumber">3</span> <span class="toctext">Classical Literature</span></a>
 <ul>
-<li class="toclevel-2 tocsection-5"><a href="#Extinction_criterion"><span class="tocnumber">4.1</span> <span class="toctext">Extinction criterion</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Greek"><span class="tocnumber">3.1</span> <span class="toctext">Greek</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Alcestis_(play)"><span class="tocnumber">3.1.1</span> <span class="toctext">Alcestis (play)</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Hippolytus"><span class="tocnumber">3.1.2</span> <span class="toctext">Hippolytus</span></a></li>
 </ul>
 </li>
-<li class="toclevel-1 tocsection-6"><a href="#Examples"><span class="tocnumber">5</span> <span class="toctext">Examples</span></a></li>
-<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
-<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-9"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li>
-<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
 </ul>
 </div>
 
-<h2><span class="mw-headline" id="Concepts">Concepts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Galton%E2%80%93Watson_process&amp;action=edit&amp;section=1" title="Edit section: Concepts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Assume, for the sake of the model, that surnames are passed on to all male children by their father.  Suppose the number of a man's sons to be a <a href="/wiki/Random_variable" title="Random variable">random variable</a> <a href="/wiki/Probability_distribution" title="Probability distribution">distributed</a> on the set&#160;{&#160;0,&#160;1,&#160;2,&#160;3,&#160;...&#160;}.  Further suppose the numbers of different men's sons to be <a href="/wiki/Statistical_independence" class="mw-redirect" title="Statistical independence">independent</a> random variables, all having the same distribution.
-</p><p>Then the simplest substantial mathematical conclusion is that if the average number of a man's sons is 1 or less, then their surname will <a href="/wiki/Almost_surely" title="Almost surely">almost surely</a> die out, and if it is more than&#160;1, then there is more than zero probability that it will survive for any given number of generations.
-</p><p>Modern applications include the survival probabilities for a new <a href="/wiki/Mutant" title="Mutant">mutant</a> gene, or the initiation of a <a href="/wiki/Nuclear_chain_reaction" title="Nuclear chain reaction">nuclear chain reaction</a>, or the dynamics of <a href="/wiki/Epidemic" title="Epidemic">disease outbreaks</a> in their first generations of spread, or the chances of <a href="/wiki/Extinction" title="Extinction">extinction</a> of small <a href="/wiki/Population" title="Population">population</a> of <a href="/wiki/Organism" title="Organism">organisms</a>; as well as explaining (perhaps closest to Galton's original interest) why only a handful of males in the deep past of humanity now have <i>any</i> surviving male-line descendants, reflected in a rather small number of distinctive <a href="/wiki/Human_Y-chromosome_DNA_haplogroups" class="mw-redirect" title="Human Y-chromosome DNA haplogroups">human Y-chromosome DNA haplogroups</a>.
-</p><p>A corollary of high extinction probabilities is that if a lineage <i>has</i> survived, it is likely to have experienced, purely by chance, an unusually high growth rate in its early generations at least when compared to the rest of the population.
+<h2><span class="mw-headline" id="Culture">Culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stepmother&amp;action=edit&amp;section=1" title="Edit section: Culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Step parents (mainly stepmothers) may also face some societal challenges due to the stigma surrounding the "evil stepmother" character. Morello notes that the introduction of the "evil step-mother" character in the past is problematic to stepparents today, as it has created a stigma towards stepmothers.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> The presence of this stigma can have a powerful, negative impact on stepmothers' self-esteems according to one Christian study.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
 </p>
-<h2><span class="mw-headline" id="Mathematical_definition">Mathematical definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Galton%E2%80%93Watson_process&amp;action=edit&amp;section=2" title="Edit section: Mathematical definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>A Galton–Watson process is a stochastic process {<i>X</i><sub><i>n</i></sub>} which evolves according to the recurrence formula <i>X</i><sub>0</sub> = 1 and
+<h2><span class="mw-headline" id="Fiction">Fiction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stepmother&amp;action=edit&amp;section=2" title="Edit section: Fiction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">"Wicked stepmother" redirects here. For the film, see <a href="/wiki/Wicked_Stepmother" title="Wicked Stepmother">Wicked Stepmother</a>. For Lady Tremaine, Cinderella's evil stepmother in Disney's <i>Cinderella</i>, see <a href="/wiki/Lady_Tremaine" class="mw-redirect" title="Lady Tremaine">Lady Tremaine</a>. For the Evil Queen, Snow White's evil stepmother in Disney's <i>Snow White and the Seven Dwarfs</i>, see <a href="/wiki/Evil_Queen_(Disney)" title="Evil Queen (Disney)">Evil Queen (Disney)</a>.</div>
+<table class="box-More_citations_needed_section plainlinks metadata ambox mbox-small-left ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></td><td class="mbox-text"><div class="mbox-text-span">This section <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.  <small class="date-container"><i>(<span class="date">April 2018</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>In fiction, stepmothers are often portrayed as being wicked and <a href="/wiki/Evil" title="Evil">evil</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> The character of the wicked stepmother features heavily in <a href="/wiki/Fairy_tales" class="mw-redirect" title="Fairy tales">fairy tales</a>; the most famous examples are <i><a href="/wiki/Cinderella" title="Cinderella">Cinderella</a></i>, <i><a href="/wiki/Snow_White" title="Snow White">Snow White</a></i> and <i><a href="/wiki/Hansel_and_Gretel" title="Hansel and Gretel">Hansel and Gretel</a></i>. Stepdaughters are her most common victim, and then stepdaughter/stepson pairs, but stepsons also are victims as in <i><a href="/wiki/The_Juniper_Tree_(fairy_tale)" title="The Juniper Tree (fairy tale)">The Juniper Tree</a></i><sup id="cite_ref-annotated-161_4-0" class="reference"><a href="#cite_note-annotated-161-4">&#91;4&#93;</a></sup>—sometimes, as in <i><a href="/wiki/East_of_the_Sun_and_West_of_the_Moon" title="East of the Sun and West of the Moon">East of the Sun and West of the Moon</a></i>, because he refused to marry his stepsister as she wished,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> or, indeed, they may make their stepdaughters-in-law their victims, as in <i><a href="/wiki/The_Boys_with_the_Golden_Stars" title="The Boys with the Golden Stars">The Boys with the Golden Stars</a></i>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> In some fairy tales, such as <a href="/wiki/Giambattista_Basile" title="Giambattista Basile">Giambattista Basile</a>'s <i>La Gatta Cennerentola</i> or the Danish <i><a href="/wiki/The_Green_Knight_(fairy_tale)" title="The Green Knight (fairy tale)">Green Knight</a></i>, the stepmother wins the marriage by ingratiating herself with the stepdaughter, and once she obtains it, becomes cruel.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>In some fairy tales, the stepdaughter's escape by marrying does not free her from her stepmother. After the birth of the stepdaughter's first child, the stepmother may attempt to murder the new mother and replace her with her own daughter—thus making her the stepmother to the next generation. Such a replacement occurs in <i><a href="/wiki/The_Wonderful_Birch" title="The Wonderful Birch">The Wonderful Birch</a></i>, <i><a href="/wiki/Brother_and_Sister" title="Brother and Sister">Brother and Sister</a></i>, and <i><a href="/wiki/The_Three_Little_Men_in_the_Wood" title="The Three Little Men in the Wood">The Three Little Men in the Wood</a></i>; only by foiling the stepmother's plot (and usually executing her), is the story brought to a happy ending.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> In the Korean Folktale <i><a href="/wiki/Janghwa_Hongryeon_jeon" title="Janghwa Hongryeon jeon">Janghwa Hongryeon jeon</a></i>, the stepmother kills her own stepdaughters.
 </p>
-<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle X_{n+1}=\sum _{j=1}^{X_{n}}\xi _{j}^{(n)}}">
-  <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <msub>
-          <mi>X</mi>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mi>n</mi>
-            <mo>+</mo>
-            <mn>1</mn>
-          </mrow>
-        </msub>
-        <mo>=</mo>
-        <munderover>
-          <mo>&#x2211;<!-- ∑ --></mo>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mi>j</mi>
-            <mo>=</mo>
-            <mn>1</mn>
-          </mrow>
-          <mrow class="MJX-TeXAtom-ORD">
-            <msub>
-              <mi>X</mi>
-              <mrow class="MJX-TeXAtom-ORD">
-                <mi>n</mi>
-              </mrow>
-            </msub>
-          </mrow>
-        </munderover>
-        <msubsup>
-          <mi>&#x03BE;<!-- ξ --></mi>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mi>j</mi>
-          </mrow>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mo stretchy="false">(</mo>
-            <mi>n</mi>
-            <mo stretchy="false">)</mo>
-          </mrow>
-        </msubsup>
-      </mstyle>
-    </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle X_{n+1}=\sum _{j=1}^{X_{n}}\xi _{j}^{(n)}}</annotation>
-  </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3c7ef871e2a2655661a3973a08262ad377e2df03" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.338ex; width:15.615ex; height:7.676ex;" alt="X_{n+1}=\sum _{j=1}^{X_{n}}\xi _{j}^{(n)}"/></span></dd></dl>
-<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \{\xi _{j}^{(n)}:n,j\in \mathbb {N} \}}">
-  <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mo fence="false" stretchy="false">{</mo>
-        <msubsup>
-          <mi>&#x03BE;<!-- ξ --></mi>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mi>j</mi>
-          </mrow>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mo stretchy="false">(</mo>
-            <mi>n</mi>
-            <mo stretchy="false">)</mo>
-          </mrow>
-        </msubsup>
-        <mo>:</mo>
-        <mi>n</mi>
-        <mo>,</mo>
-        <mi>j</mi>
-        <mo>&#x2208;<!-- ∈ --></mo>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mi mathvariant="double-struck">N</mi>
-        </mrow>
-        <mo fence="false" stretchy="false">}</mo>
-      </mstyle>
-    </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \{\xi _{j}^{(n)}:n,j\in \mathbb {N} \}}</annotation>
-  </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1430f2eeabadd74374c128b653a4ae955c7dfeab" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.338ex; width:15.699ex; height:4.009ex;" alt="\{\xi _{j}^{(n)}:n,j\in \mathbb {N} \}"/></span> is a set of <a href="/wiki/Independent_and_identically-distributed_random_variables" class="mw-redirect" title="Independent and identically-distributed random variables">independent and identically-distributed</a> natural number-valued random variables.
-</p><p>In the analogy with family names, <i>X</i><sub><i>n</i></sub> can be thought of as the number of descendants (along the male line) in the <i>n</i>th generation, and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \xi _{j}^{(n)}}">
-  <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <msubsup>
-          <mi>&#x03BE;<!-- ξ --></mi>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mi>j</mi>
-          </mrow>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mo stretchy="false">(</mo>
-            <mi>n</mi>
-            <mo stretchy="false">)</mo>
-          </mrow>
-        </msubsup>
-      </mstyle>
-    </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \xi _{j}^{(n)}}</annotation>
-  </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9b36195ff13b1ffffb335762566542464758f3c8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.338ex; width:3.532ex; height:4.009ex;" alt="\xi _{j}^{(n)}"/></span> can be thought of as the number of (male) children of the <i>j</i>th of these descendants. The recurrence relation states that the number of descendants in the <i>n</i>+1st generation is the sum, over all <i>n</i>th generation descendants, of the number of children of that descendant.
-</p><p>The extinction probability (i.e. the probability of final extinction) is given by
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Awake_Groa_Awake_Mother_-_John_Bauer.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Awake_Groa_Awake_Mother_-_John_Bauer.jpg/220px-Awake_Groa_Awake_Mother_-_John_Bauer.jpg" decoding="async" width="220" height="245" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Awake_Groa_Awake_Mother_-_John_Bauer.jpg/330px-Awake_Groa_Awake_Mother_-_John_Bauer.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Awake_Groa_Awake_Mother_-_John_Bauer.jpg/440px-Awake_Groa_Awake_Mother_-_John_Bauer.jpg 2x" data-file-width="737" data-file-height="821" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Awake_Groa_Awake_Mother_-_John_Bauer.jpg" class="internal" title="Enlarge"></a></div>"Awake Groa Awake Mother" by <a href="/wiki/John_Bauer_(illustrator)" title="John Bauer (illustrator)">John Bauer</a>, a son at his mother's grave seeking aid against his stepmother.</div></div></div>
+<p>In many stories with evil stepmothers, the hostility between the stepmother and the stepchild is underscored by having the child succeed through aid from the dead mother.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> This motif occurs from <a href="/wiki/Norse_mythology" title="Norse mythology">Norse mythology</a>, where <a href="/wiki/Svipdagr" title="Svipdagr">Svipdagr</a> rouses his mother <a href="/wiki/Gr%C3%B3a" title="Gróa">Gróa</a> from the grave so as to learn from her how to accomplish a task his stepmother set, to fairy tales such as the <a href="/wiki/Brothers_Grimm" title="Brothers Grimm">Brothers Grimm</a> version of <i><a href="/wiki/Cinderella" title="Cinderella">Cinderella</a></i>, where Aschenputtel receives her clothing from a tree growing on her mother's grave, the Russian <i><a href="/wiki/Vasilissa_the_Beautiful" class="mw-redirect" title="Vasilissa the Beautiful">Vasilissa the Beautiful</a></i>, where Vasilissa is aided by a doll her mother gave, and her mother's blessing, and the Malay <i><a href="/wiki/Bawang_Putih_Bawang_Merah" class="mw-redirect" title="Bawang Putih Bawang Merah">Bawang Putih Bawang Merah</a></i>, where the heroine's mother comes back as fish to protect her.
 </p>
-<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \lim _{n\to \infty }\Pr(X_{n}=0).\,}">
-  <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <munder>
-          <mo movablelimits="true" form="prefix">lim</mo>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mi>n</mi>
-            <mo stretchy="false">&#x2192;<!-- → --></mo>
-            <mi mathvariant="normal">&#x221E;<!-- ∞ --></mi>
-          </mrow>
-        </munder>
-        <mo movablelimits="true" form="prefix">Pr</mo>
-        <mo stretchy="false">(</mo>
-        <msub>
-          <mi>X</mi>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mi>n</mi>
-          </mrow>
-        </msub>
-        <mo>=</mo>
-        <mn>0</mn>
-        <mo stretchy="false">)</mo>
-        <mo>.</mo>
-        <mspace width="thinmathspace" />
-      </mstyle>
-    </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \lim _{n\to \infty }\Pr(X_{n}=0).\,}</annotation>
-  </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/883431caae8b7727bcda9952ae83eed927777227" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:17.401ex; height:3.843ex;" alt="\lim _{n\to \infty }\Pr(X_{n}=0).\,"/></span></dd></dl>
-<p>This is clearly equal to zero if each member of the population has exactly one descendant.  Excluding this  case (usually called the trivial case) there exists
-a simple necessary and sufficient condition, which is given in the next section.
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:Franz_J%C3%BCttner_Schneewittchen_8.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Franz_J%C3%BCttner_Schneewittchen_8.jpg/300px-Franz_J%C3%BCttner_Schneewittchen_8.jpg" decoding="async" width="300" height="233" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Franz_J%C3%BCttner_Schneewittchen_8.jpg/450px-Franz_J%C3%BCttner_Schneewittchen_8.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Franz_J%C3%BCttner_Schneewittchen_8.jpg/600px-Franz_J%C3%BCttner_Schneewittchen_8.jpg 2x" data-file-width="981" data-file-height="761" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Franz_J%C3%BCttner_Schneewittchen_8.jpg" class="internal" title="Enlarge"></a></div>Illustration of <i>Schneewittchen (<a href="/wiki/Snow_White" title="Snow White">Snow White</a>)</i> by <a href="/w/index.php?title=Franz_J%C3%BCttner&amp;action=edit&amp;redlink=1" class="new" title="Franz Jüttner (page does not exist)">Franz Jüttner</a>: the <a href="/wiki/Queen_(Snow_White)" class="mw-redirect" title="Queen (Snow White)">evil stepmother</a> realizes her stepdaughter Snow White has escaped her magic.</div></div></div>
+<p>The notion of the word <i>stepmother</i> being descriptive of an intrinsically unkind parent is suggested by peculiar wording in John Gamble's "An Irish Wake" (1826). He writes of a woman soon to die, who instructs her successor to "be kind to my children." Gamble writes that the injunction was forgotten and that she "proved a very step-mother."
+</p><p>Fairy tales can have variants where one tale has an evil mother and the other an evil stepmother: in <i><a href="/wiki/The_Six_Swans" title="The Six Swans">The Six Swans</a></i> by the <a href="/wiki/Brothers_Grimm" title="Brothers Grimm">Brothers Grimm</a> and also in <i><a href="/wiki/The_Wild_Swans" title="The Wild Swans">The Wild Swans</a></i> by <a href="/wiki/Hans_Christian_Andersen" title="Hans Christian Andersen">Hans Christian Andersen</a>, the heroine is persecuted by her husband's mother and in the another one by her stepmother, and in <i><a href="/wiki/The_Twelve_Wild_Ducks" title="The Twelve Wild Ducks">The Twelve Wild Ducks</a></i>, by his stepmother. Sometimes this appears to be a deliberate switch: The <a href="/wiki/Brothers_Grimm" title="Brothers Grimm">Brothers Grimm</a>, having put in their first editions versions of <i><a href="/wiki/Snow_White" title="Snow White">Snow White</a></i> and <i><a href="/wiki/Hansel_and_Gretel" title="Hansel and Gretel">Hansel and Gretel</a></i> where the villain was the biological mother, altered it to a stepmother in later editions, perhaps to mitigate the story's violence.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> Another reason for the change from a villainous mother to a villainous stepmother may have been the belief that mothers were sacred, as well as the belief that people would not believe that a mother could harbor such ill-will and animosity toward their child.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> The Icelandic fairy tale <i><a href="/wiki/The_Horse_Gullfaxi_and_the_Sword_Gunnfoder" title="The Horse Gullfaxi and the Sword Gunnfoder">The Horse Gullfaxi and the Sword Gunnfoder</a></i> features a good stepmother, who indeed aids the prince like a <a href="/wiki/Fairy_godmother" title="Fairy godmother">fairy godmother</a>, but this figure is very rare in fairy tales.
+</p><p>The stepmother may be identified with other evils the characters meet. For instance, both the stepmother and the witch in <i>Hansel and Gretel</i> are deeply concerned with food, the stepmother to avoid hunger, the witch with her house built of food and her desire to eat the children, and when the children kill the witch and return home, their stepmother has mysteriously died.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p><p>This hostility from the stepmother and tenderness from the true mother has been interpreted in varying ways. A psychological interpretation, by <a href="/wiki/Bruno_Bettelheim" title="Bruno Bettelheim">Bruno Bettelheim</a>, describes it as "splitting" the actual mother in an ideal mother and a false mother that contains what the child dislikes in the actual mother.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> However, historically, many women died in childbirth, their husbands remarried, and the new stepmothers competed with the children of the first marriage for resources; the tales can be interpreted as factual conflicts from history.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> In some fairy tales, such as <i>The Juniper Tree</i>, the stepmother's hostility is overtly the desire to secure the inheritance of her children.<sup id="cite_ref-annotated-161_4-1" class="reference"><a href="#cite_note-annotated-161-4">&#91;4&#93;</a></sup>
+</p><p>Stepmothers also make many appearances in Chinese tales of family. Wicked stepmothers are common.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> In <i><a href="/wiki/Classic_of_Filial_Piety" title="Classic of Filial Piety">Classic of Filial Piety</a></i>, <a href="/wiki/Guo_Jujing" class="mw-redirect" title="Guo Jujing">Guo Jujing</a> told the story of <a href="/wiki/Min_Ziqian" class="mw-redirect" title="Min Ziqian">Min Ziqian</a>, who had lost his mother at a young age. His stepmother had two more sons and saw to it that they were warmly dressed in winter but neglected her stepson. When her husband discovered this, he decided to divorce her. His son interceded, on the ground that she neglected only him, but when they had no mother, all three sons would be neglected. His father relented, and the stepmother henceforth took care of all three children. For this, he was held up as a model of <a href="/wiki/Filial_piety" title="Filial piety">filial piety</a>.
+</p><p>Conversely, the exemplary stepmother prefers the stepson to her own child, in recognition that his seniority makes him superior.<sup id="cite_ref-lewis158_17-0" class="reference"><a href="#cite_note-lewis158-17">&#91;17&#93;</a></sup> The "righteous stepmother of Qi", faced with her son and stepson having been found by a murdered man, and both having confessed to shield the other, argues for her son's execution because her husband had ordered her to look after her stepson, and her son is the junior brother; the king pardoned them both for her devotion to duty.<sup id="cite_ref-lewis158_17-1" class="reference"><a href="#cite_note-lewis158-17">&#91;17&#93;</a></sup>
+</p><p>The ubiquity of the wicked stepmother has made it a frequent theme of <a href="/wiki/Fictional_revisionism" class="mw-redirect" title="Fictional revisionism">revisionist</a> <a href="/wiki/Fairy_tale_fantasy" class="mw-redirect" title="Fairy tale fantasy">fairy tale fantasy</a>. This can range from <a href="/wiki/Tanith_Lee" title="Tanith Lee">Tanith Lee</a>'s <i>Red as Blood</i>, where the stepmother queen is desperately trying to protect the land from her evil stepdaughter's magic, to <a href="/wiki/Diana_Wynne_Jones" title="Diana Wynne Jones">Diana Wynne Jones</a>'s <i><a href="/wiki/Howl%27s_Moving_Castle" title="Howl&#39;s Moving Castle">Howl's Moving Castle</a></i>, where, although it is known that stepmothers are evil, the actual stepmother is guilty of nothing more than some carelessness, to <a href="/wiki/Erma_Bombeck" title="Erma Bombeck">Erma Bombeck</a>'s retelling where <a href="/wiki/Cinderella" title="Cinderella">Cinderella</a> is lazy and a liar. More subtly, <a href="/wiki/Piers_Anthony" title="Piers Anthony">Piers Anthony</a> depicted the Princess Threnody as being cursed by her stepmother in <i><a href="/wiki/Crewel_Lye:_A_Caustic_Yarn" title="Crewel Lye: A Caustic Yarn">Crewel Lye: A Caustic Yarn</a></i>: if she ever entered Castle Roogna, it would fall down. But Threnody explains that her presence at the castle caused her father to dote on her and neglect his duties to the destruction of the kingdom; her stepmother had merely made her destructive potential literal, and forced her to confront what she was doing.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2018)">citation needed</span></a></i>&#93;</sup>
+</p><p>The character of the evil stepmother can also be found in the genre of <a href="/wiki/Young_adult_fiction" title="Young adult fiction">young adult fiction</a> or young adult social problem novels. In Lisa Heathfield's <a href="/w/index.php?title=Paper_Butterflies&amp;action=edit&amp;redlink=1" class="new" title="Paper Butterflies (page does not exist)">Paper Butterflies</a>. the protagonist June suffers horrific abuse at the hands of her stepmother, a fact that she conceals from her father.
+</p><p>Despite many examples of evil or cruel stepmothers, loving stepmothers also exist in fiction. In <a href="/wiki/Kevin_and_Kell" title="Kevin and Kell">Kevin and Kell</a>, Kell is portrayed as loving her stepdaughter Lindesfarne, whom her husband Kevin had adopted during his previous marriage. Likewise, Lindesfarne considers Kell her mother, and has a considerably more favorable view of her than Angelique, Kevin's ex-wife and her adoptive mother, due to feeling neglected by Angelique during her childhood. The Disney film <i><a href="/wiki/Enchanted_(film)" title="Enchanted (film)">Enchanted</a></i> also makes references to the "evil stepmother" belief, as the villainess is a stepmother, but her wickedness comes from her selfishness and power hungriness rather than the simple fact she is a stepmother. When a little girl tells the heroine Giselle that all stepmothers are evil, Giselle reminds her that she personally knows some wonderful women who were good stepmothers, and the fact a woman is a stepmother does not suddenly change her personality. This is shown later on when Giselle gets married to that girl's father, who had her from a previous marriage, thus becoming a stepmother herself. As Giselle is a sweet and caring woman, she makes a good wife and stepmother. However, it is notable that during much of that film, Giselle was more of an older sister figure than a maternal figure to that little girl.
+</p><p>In the movie <i><a href="/wiki/Nanny_McPhee" title="Nanny McPhee">Nanny McPhee</a></i> a group of children worry that their father will remarry, believing from their fairy tales that all stepmothers are an "evil breed." Although they help their father marry again to help keep the family together, their soon-to-be stepmother is very cruel, as they suspected. When the wedding to her is called off, the father decides to marry the much kinder scullery maid, causing one child to comment that the evil stepmother personification does not apply to her.
+</p><p>Stepmother relationships are often examined in <a href="/wiki/Soap_opera" title="Soap opera">soap operas</a>. An example of this is the long-running rivalry between <a href="/wiki/Victoria_Lord" title="Victoria Lord">Victoria Lord Banks</a> and stepmother <a href="/wiki/Dorian_Lord" title="Dorian Lord">Dorian Lord</a> on the American soap opera <i><a href="/wiki/One_Life_to_Live" title="One Life to Live">One Life to Live</a></i>.
+</p><p>In contrast to many other <a href="/wiki/Disney" class="mw-redirect" title="Disney">Disney</a>-related media, the animated series <i><a href="/wiki/Phineas_and_Ferb" title="Phineas and Ferb">Phineas and Ferb</a></i> features a stepfamily in which both parents get along well with their three children (avoiding the normal tropes of evil stepparents).<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> In television, <i><a href="/wiki/Drake_%26_Josh" title="Drake &amp; Josh">Drake &amp; Josh</a></i> features a stepfamily in which both parents usually get along well with their three children.  In the series <i><a href="/wiki/The_Adventures_of_Shirley_Holmes" title="The Adventures of Shirley Holmes">The Adventures of Shirley Holmes</a></i>, one episode featured a princess who was the heir to the throne of her country and feared that her stepmother wanted to have her assassinated as her own son was next in line after her stepdaughter.  The episode concludes the revelation that her stepmother actually wanted her stepdaughter to inherit the throne and had attempted to thwart actual assassins who did not want a woman to rule their country.  In <i><a href="/wiki/Sofia_the_First" title="Sofia the First">Sofia the First</a></i>, Sofia's mother Miranda became stepmother to Prince James and Princess Amber, she acknowledged there weren't many tales featuring loving and kind stepmothers. This is another example of a well-blended family.
 </p>
-<h2><span id="Extinction_criterion_for_Galton.E2.80.93Watson_process"></span><span class="mw-headline" id="Extinction_criterion_for_Galton–Watson_process">Extinction criterion for Galton–Watson process</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Galton%E2%80%93Watson_process&amp;action=edit&amp;section=3" title="Edit section: Extinction criterion for Galton–Watson process">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>In the non-trivial case the probability of final extinction is equal to one if <i>E</i>{<i>ξ</i><sub>1</sub>}&#160;≤&#160;1 and strictly less than one if <i>E</i>{<i>ξ</i><sub>1</sub>}&#160;&gt;&#160;1.
-</p><p>The process can be treated analytically using the method of <a href="/wiki/Probability_generating_function" class="mw-redirect" title="Probability generating function">probability generating functions</a>.
-</p><p>If the number of children <i>ξ <sub>j</sub></i> at each node follows a <a href="/wiki/Poisson_distribution" title="Poisson distribution">Poisson distribution</a> with parameter λ, a particularly simple recurrence can be found for the total extinction probability&#160;<i>x<sub>n</sub></i> for a process starting with a single individual at time <i>n</i>&#160;=&#160;0:
+<h2><span class="mw-headline" id="Classical_Literature">Classical Literature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stepmother&amp;action=edit&amp;section=3" title="Edit section: Classical Literature">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Greek">Greek</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stepmother&amp;action=edit&amp;section=4" title="Edit section: Greek">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span id="Alcestis_.28play.29"></span><span class="mw-headline" id="Alcestis_(play)"><a href="/wiki/Alcestis" title="Alcestis"> Alcestis (play)</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stepmother&amp;action=edit&amp;section=5" title="Edit section: Alcestis (play)">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>438 BCE: The dying biological mother requests that her husband not remarry, for fear of her children being mistreated by a stepmother.
 </p>
-<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle x_{n+1}=e^{\lambda (x_{n}-1)},\,}">
-  <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <msub>
-          <mi>x</mi>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mi>n</mi>
-            <mo>+</mo>
-            <mn>1</mn>
-          </mrow>
-        </msub>
-        <mo>=</mo>
-        <msup>
-          <mi>e</mi>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mi>&#x03BB;<!-- λ --></mi>
-            <mo stretchy="false">(</mo>
-            <msub>
-              <mi>x</mi>
-              <mrow class="MJX-TeXAtom-ORD">
-                <mi>n</mi>
-              </mrow>
-            </msub>
-            <mo>&#x2212;<!-- − --></mo>
-            <mn>1</mn>
-            <mo stretchy="false">)</mo>
-          </mrow>
-        </msup>
-        <mo>,</mo>
-        <mspace width="thinmathspace" />
-      </mstyle>
-    </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle x_{n+1}=e^{\lambda (x_{n}-1)},\,}</annotation>
-  </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3d702e67bbea1be15b9a0ffffd57bb2283632cf4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:16.34ex; height:3.176ex;" alt="x_{n+1}=e^{\lambda (x_{n}-1)},\,"/></span></dd></dl>
-<p>giving the above curves.
+<h4><span class="mw-headline" id="Hippolytus"><a href="/wiki/Hippolytus_(play)" title="Hippolytus (play)">Hippolytus</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stepmother&amp;action=edit&amp;section=6" title="Edit section: Hippolytus">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>428 BCE: The stepmother commits suicide to prevent herself from following through on her lust for her stepson and leaves a note falsely claiming that the stepson had raped her.
 </p>
-<h2><span id="Bisexual_Galton.E2.80.93Watson_process"></span><span class="mw-headline" id="Bisexual_Galton–Watson_process">Bisexual Galton&#8211;Watson process</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Galton%E2%80%93Watson_process&amp;action=edit&amp;section=4" title="Edit section: Bisexual Galton–Watson process">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>In the classical Galton&#8211;Watson process described above, only men are considered, effectively modeling reproduction as asexual.  A model more closely following actual sexual reproduction is the so-called "bisexual Galton&#8211;Watson process", where only couples reproduce.  (<i>Bisexual</i> in this context refers to the number of sexes involved, not <a href="/wiki/Sexual_orientation" title="Sexual orientation">sexual orientation</a>.)  In this process, each child is supposed as male or female, independently of each other, with a specified probability, and a so-called "mating function" determines how many couples will form in a given generation.  As before, reproduction of different couples are considered to be independent of each other.  Now the analogue of the trivial case corresponds to the case of each male and female reproducing in exactly one couple, having one male and one female descendant, and that the mating function takes the value of the minimum of the number of males and females (which are then the same from the next generation onwards).
-</p><p>Since the total reproduction within a generation depends now strongly on the mating function, there exists in general no simple necessary and sufficient condition for final extinction as it is the case in the classical Galton&#8211;Watson process.  However, excluding the non-trivial case, the concept of the <a href="/w/index.php?title=Averaged_reproduction_mean&amp;action=edit&amp;redlink=1" class="new" title="Averaged reproduction mean (page does not exist)">averaged reproduction mean</a> (Bruss (1984)) allows for a general sufficient condition for final extinction, treated in the next section.
-</p>
-<h3><span class="mw-headline" id="Extinction_criterion">Extinction criterion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Galton%E2%80%93Watson_process&amp;action=edit&amp;section=5" title="Edit section: Extinction criterion">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>If in the non-trivial case the <a href="/w/index.php?title=Averaged_reproduction_mean&amp;action=edit&amp;redlink=1" class="new" title="Averaged reproduction mean (page does not exist)">averaged reproduction mean</a> per couple stays bounded over all generations and will not exceed 1 for a sufficiently large population size, then the probability of final extinction is always&#160;1.
-</p>
-<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Galton%E2%80%93Watson_process&amp;action=edit&amp;section=6" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Citing historical examples of Galton–Watson process is complicated due to the history of family names often deviating significantly from the theoretical model. Notably, new names can be created, existing names can be changed over a person's lifetime, and people historically have often assumed names of unrelated persons, particularly nobility. Thus, a small number of family names at present is not <a href="/wiki/Ipso_facto" title="Ipso facto">in itself</a> evidence for names having become extinct over time, or that they did so due to dying out of family name lines – that requires that there were more names in the past <i>and</i> that they die out due to the line dying out, rather than the name changing for other reasons, such as vassals assuming the name of their lord.
-</p><p><a href="/wiki/Chinese_surname#Surnames_at_present" title="Chinese surname">Chinese names</a> are a well-studied example of surname extinction: there are currently only about 3,100 surnames in use in China, compared with close to 12,000 recorded in the past,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><sup id="cite_ref-du_5-0" class="reference"><a href="#cite_note-du-5">&#91;5&#93;</a></sup> with 22% of the population sharing the names <a href="/wiki/Li_(surname)" title="Li (surname)">Li</a>, <a href="/wiki/Wang_(surname)" title="Wang (surname)">Wang</a> and <a href="/wiki/Zhang_(surname)" title="Zhang (surname)">Zhang</a> (numbering close to 300 million people), and the top 200 names covering 96% of the population. Names have changed or become extinct for various reasons such as people taking the names of their rulers, orthographic simplifications, taboos against using characters from an emperor's name, among others.<sup id="cite_ref-du_5-1" class="reference"><a href="#cite_note-du-5">&#91;5&#93;</a></sup> While family name lines dying out may be a factor in the surname extinction, it is by no means the only or even a significant factor. Indeed, the most significant factor affecting the surname frequency is other ethnic groups identifying as <a href="/wiki/Han_Chinese" title="Han Chinese">Han</a> and adopting Han names.<sup id="cite_ref-du_5-2" class="reference"><a href="#cite_note-du-5">&#91;5&#93;</a></sup> Further, while new names have arisen for various reasons, this has been outweighed by old names disappearing.<sup id="cite_ref-du_5-3" class="reference"><a href="#cite_note-du-5">&#91;5&#93;</a></sup>
-</p><p>By contrast, some nations have adopted family names only recently. This means both that they have not experienced surname extinction for an extended period, and that the names were adopted when the nation had a relatively large population, rather than the smaller populations of ancient times.<sup id="cite_ref-du_5-4" class="reference"><a href="#cite_note-du-5">&#91;5&#93;</a></sup> Further, these names have often been chosen creatively and are very diverse. Examples include:
-</p>
-<ul><li><a href="/wiki/Japanese_names" class="mw-redirect" title="Japanese names">Japanese names</a>, which in general use date only to the <a href="/wiki/Meiji_restoration" class="mw-redirect" title="Meiji restoration">Meiji restoration</a> in the late 19th century (when the population was over 30,000,000), have over 100,000 family names, surnames are very varied, and the government restricts married couples to using the same surname.</li>
-<li>Many <a href="/wiki/Dutch_name" title="Dutch name">Dutch names</a> have included a family name only since the <a href="/wiki/Napoleonic_Wars" title="Napoleonic Wars">Napoleonic Wars</a> in the early 19th century, and there are over 68,000 Dutch family names.</li>
-<li><a href="/wiki/Thai_name" title="Thai name">Thai names</a> have included a family name only since 1920, and only a single family can use a given family name; hence there are a great number of Thai names. Furthermore, Thai people change their family names with some frequency, complicating the analysis.</li></ul>
-<p>On the other hand, some examples of high concentration of family names is not primarily due to the Galton–Watson process:
-</p>
-<ul><li><a href="/wiki/Vietnamese_name" title="Vietnamese name">Vietnamese names</a> have about 100 family names, and 60% of the population sharing three family names. The name <a href="/wiki/Nguy%E1%BB%85n" class="mw-redirect" title="Nguyễn">Nguyễn</a> alone is estimated to be used by almost 40% of the Vietnamese population, and 90% share 15 names. However, as the history of the <a href="/wiki/Nguy%E1%BB%85n" class="mw-redirect" title="Nguyễn">Nguyễn</a> name makes clear, this is in no small part due to names being forced on people or adopted for reasons unrelated to genetic relation.</li></ul>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Galton%E2%80%93Watson_process&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Branching_process" title="Branching process">Branching process</a></li>
-<li><a href="/wiki/Resource-dependent_branching_process" title="Resource-dependent branching process">Resource-dependent branching process</a></li>
-<li><a href="/wiki/Pedigree_collapse" title="Pedigree collapse">Pedigree collapse</a></li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Galton%E2%80%93Watson_process&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="reflist" style="list-style-type: decimal;">
-<div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a href="/wiki/Francis_Galton" title="Francis Galton">Francis Galton</a>, Problem 4001, <i><a href="/w/index.php?title=Educational_Times&amp;action=edit&amp;redlink=1" class="new" title="Educational Times (page does not exist)">Educational Times</a></i> <a rel="nofollow" class="external text" href="http://ioearc.da.ulcc.ac.uk/9344/1/Educational%20Times%20Vol%2025%20Iss%20143.PDF"><b>25</b>(143)</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170123114453/http://ioearc.da.ulcc.ac.uk/9344/1/Educational%20Times%20Vol%2025%20Iss%20143.PDF">Archived</a> 2017-01-23 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> p.300 (March 1, 1873)</span>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stepmother&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation news">Morello, C. (January 19, 2011). <a rel="nofollow" class="external text" href="https://www.washingtonpost.com/wp-dyn/content/article/2011/01/19/AR2011011902589.html">"Blended families more common, but the 'step' in 'stepmom' still carries a stigma"</a>. The Washington Post.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Blended+families+more+common%2C+but+the+%27step%27+in+%27stepmom%27+still+carries+a+stigma&amp;rft.date=2011-01-19&amp;rft.aulast=Morello&amp;rft.aufirst=C.&amp;rft_id=https%3A%2F%2Fwww.washingtonpost.com%2Fwp-dyn%2Fcontent%2Farticle%2F2011%2F01%2F19%2FAR2011011902589.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStepmother" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">
-<a href="/wiki/Henry_William_Watson" title="Henry William Watson">H.W. Watson</a>, Problem 4001, <i><a href="/w/index.php?title=Educational_Times&amp;action=edit&amp;redlink=1" class="new" title="Educational Times (page does not exist)">Educational Times</a></i> <a rel="nofollow" class="external text" href="http://ioearc.da.ulcc.ac.uk/9309/1/Educational%20Times%20Vol%2026%20Iss%20148.PDF"><b>26</b>(148)</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161201212518/http://ioearc.da.ulcc.ac.uk/9309/1/Educational%20Times%20Vol%2026%20Iss%20148.PDF">Archived</a> 2016-12-01 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> p.115 (August 1, 1873)<br />
-(A first offering submitted by G.S. Carr, <i><a href="/w/index.php?title=Educational_Times&amp;action=edit&amp;redlink=1" class="new" title="Educational Times (page does not exist)">Educational Times</a></i> <a rel="nofollow" class="external text" href="http://ioearc.da.ulcc.ac.uk/9305/1/Educational%20Times%20Vol%2026%20Iss%20144.PDF"><b>26</b>(144)</a> p.17 (April 1, 1873), according to Galton was "totally erroneous")</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Christian, A. (2005). "Contesting the myth of the 'wicked stepmother': Narrative analysis of an online family support group". <i>Western Journal of Communication</i>. <b>69</b> (1): 27–47. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1080%2F10570310500034030">10.1080/10570310500034030</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Western+Journal+of+Communication&amp;rft.atitle=Contesting+the+myth+of+the+%27wicked+stepmother%27%3A+Narrative+analysis+of+an+online+family+support+group&amp;rft.volume=69&amp;rft.issue=1&amp;rft.pages=27-47&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.1080%2F10570310500034030&amp;rft.aulast=Christian&amp;rft.aufirst=A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStepmother" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Galton, F., &amp; Watson, H. W. (1875). <a rel="nofollow" class="external text" href="https://www.jstor.org/stable/pdf/2841222.pdf">"On the probability of the extinction of families"</a>. <i><a href="/wiki/Journal_of_the_Royal_Anthropological_Institute" title="Journal of the Royal Anthropological Institute">Journal of the Royal Anthropological Institute</a></i>, <b>4</b>, <a rel="nofollow" class="external text" href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015027596207;view=1up;seq=166">138–144</a>.</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><i>The Hard Facts of the Grimms' Fairy Tales</i>, p. 141</span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation">"O rare John Smith", <i><a href="/wiki/The_Economist" title="The Economist">The Economist</a></i> (US ed.): 32, June 3, 1995, <q>Only 3,100 surnames are now in use in China [...] compared with nearly 12,000 in the past. An 'evolutionary dwindling' of surnames is common to all societies. [...] [B]ut in China, [Du] says, where surnames have been in use far longer than in most other places, the paucity has become acute.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Economist&amp;rft.atitle=O+rare+John+Smith&amp;rft.pages=32&amp;rft.date=1995-06-03&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGalton%E2%80%93Watson+process" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+<li id="cite_note-annotated-161-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-annotated-161_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-annotated-161_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><i>The Annotated Classic Fairy Tales</i>, p. 161</span>
 </li>
-<li id="cite_note-du-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-du_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-du_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-du_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-du_5-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-du_5-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFDu_et_al.1992" class="citation">Du, Ruofu; Yida, Yuan; Hwang, Juliana; Mountain, Joanna L.; <a href="/wiki/Luigi_Luca_Cavalli-Sforza" title="Luigi Luca Cavalli-Sforza">Cavalli-Sforza, L. Luca</a> (1992), <a rel="nofollow" class="external text" href="https://web.archive.org/web/20121120173231/http://hsblogs.stanford.edu/morrison/files/2011/02/27.pdf"><i>Chinese Surnames and the Genetic Differences between North and South China</i></a> <span class="cs1-format">(PDF)</span>, Journal of Chinese Linguistics Monograph Series, pp.&#160;18–22 (History of Chinese surnames and sources of data for the present research), archived from <a rel="nofollow" class="external text" href="http://hsblogs.stanford.edu/morrison/files/2011/02/27.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2012-11-20, also part of <a rel="nofollow" class="external text" href="http://hsblogs.stanford.edu/morrison/">Morrison Institute for Population and Resource Studies</a> <a rel="nofollow" class="external text" href="http://hsblogs.stanford.edu/morrison/morrison-institute-working-papers1-pdf/">Working papers</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Chinese+Surnames+and+the+Genetic+Differences+between+North+and+South+China&amp;rft.series=Journal+of+Chinese+Linguistics+Monograph+Series&amp;rft.pages=18-22+%28History+of+Chinese+surnames+and+sources+of+data+for+the+present+research%29&amp;rft.date=1992&amp;rft.aulast=Du&amp;rft.aufirst=Ruofu&amp;rft.au=Yida%2C+Yuan&amp;rft.au=Hwang%2C+Juliana&amp;rft.au=Mountain%2C+Joanna+L.&amp;rft.au=Cavalli-Sforza%2C+L.+Luca&amp;rft_id=http%3A%2F%2Fhsblogs.stanford.edu%2Fmorrison%2Ffiles%2F2011%2F02%2F27.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGalton%E2%80%93Watson+process" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><i>The Annotated Classic Fairy Tales</i>, p. 193</span>
 </li>
-</ol></div></div>
-<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Galton%E2%80%93Watson_process&amp;action=edit&amp;section=9" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<style data-mw-deduplicate="TemplateStyles:r886047268">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin" style="">
-<ul><li><a href="/wiki/F._Thomas_Bruss" class="mw-redirect" title="F. Thomas Bruss">F. Thomas Bruss</a> (1984). "A Note on Extinction Criteria for Bisexual Galton&#8211;Watson Processes". <i><a href="/wiki/Journal_of_Applied_Probability" class="mw-redirect" title="Journal of Applied Probability">Journal of Applied Probability</a></i> <b>21</b>: 915&#8211;919.</li>
-<li><a href="/w/index.php?title=C_C_Heyde&amp;action=edit&amp;redlink=1" class="new" title="C C Heyde (page does not exist)">C C Heyde</a> and <a href="/w/index.php?title=E_Seneta&amp;action=edit&amp;redlink=1" class="new" title="E Seneta (page does not exist)">E Seneta</a> (1977). <i>I.J. Bienayme: Statistical Theory Anticipated</i>. Berlin, Germany.</li>
-<li><cite class="citation journal"><a href="/wiki/David_George_Kendall" title="David George Kendall">Kendall, D. G.</a> (1966). "Branching Processes Since 1873". <i>Journal of the London Mathematical Society</i>. s1-41: 385–406. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1112%2Fjlms%2Fs1-41.1.385">10.1112/jlms/s1-41.1.385</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0024-6107">0024-6107</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+London+Mathematical+Society&amp;rft.atitle=Branching+Processes+Since+1873&amp;rft.volume=s1-41&amp;rft.pages=385-406&amp;rft.date=1966&amp;rft_id=info%3Adoi%2F10.1112%2Fjlms%2Fs1-41.1.385&amp;rft.issn=0024-6107&amp;rft.aulast=Kendall&amp;rft.aufirst=D.+G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGalton%E2%80%93Watson+process" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><cite class="citation journal"><a href="/wiki/David_George_Kendall" title="David George Kendall">Kendall, D. G.</a> (1975). "The Genealogy of Genealogy Branching Processes before (and after) 1873". <i>Bulletin of the London Mathematical Society</i>. <b>7</b> (3): 225–253. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1112%2Fblms%2F7.3.225">10.1112/blms/7.3.225</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0024-6093">0024-6093</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bulletin+of+the+London+Mathematical+Society&amp;rft.atitle=The+Genealogy+of+Genealogy+Branching+Processes+before+%28and+after%29+1873&amp;rft.volume=7&amp;rft.issue=3&amp;rft.pages=225-253&amp;rft.date=1975&amp;rft_id=info%3Adoi%2F10.1112%2Fblms%2F7.3.225&amp;rft.issn=0024-6093&amp;rft.aulast=Kendall&amp;rft.aufirst=D.+G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGalton%E2%80%93Watson+process" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
-</div>
-<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Galton%E2%80%93Watson_process&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20040401131411/http://www-users.york.ac.uk/~pml1/stats/gwproc.ps">"Survival of a Single Mutant" by Peter M. Lee of the University of York</a></li></ul>
-<div role="navigation" class="navbox" aria-labelledby="Stochastic_processes" style="padding:3px"><table class="nowraplinks mw-collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Stochastic_processes" title="Template:Stochastic processes"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Stochastic_processes" title="Template talk:Stochastic processes"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Stochastic_processes&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Stochastic_processes" style="font-size:114%;margin:0 4em"><a href="/wiki/Stochastic_process" title="Stochastic process">Stochastic processes</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Discrete-time_stochastic_process" class="mw-redirect" title="Discrete-time stochastic process">Discrete time</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Bernoulli_process" title="Bernoulli process">Bernoulli process</a></li>
-<li><a href="/wiki/Branching_process" title="Branching process">Branching process</a></li>
-<li><a href="/wiki/Chinese_restaurant_process" title="Chinese restaurant process">Chinese restaurant process</a></li>
-<li><a class="mw-selflink selflink">Galton–Watson process</a></li>
-<li><a href="/wiki/Independent_and_identically_distributed_random_variables" title="Independent and identically distributed random variables">Independent and identically distributed random variables</a></li>
-<li><a href="/wiki/Markov_chain" title="Markov chain">Markov chain</a></li>
-<li><a href="/wiki/Moran_process" title="Moran process">Moran process</a></li>
-<li><a href="/wiki/Random_walk" title="Random walk">Random walk</a>
-<ul><li><a href="/wiki/Loop-erased_random_walk" title="Loop-erased random walk">Loop-erased</a></li>
-<li><a href="/wiki/Self-avoiding_walk" title="Self-avoiding walk">Self-avoiding</a></li>
-<li><a href="/wiki/Biased_random_walk_on_a_graph" title="Biased random walk on a graph"> Biased</a></li>
-<li><a href="/wiki/Maximal_Entropy_Random_Walk" class="mw-redirect" title="Maximal Entropy Random Walk">Maximal entropy</a></li></ul></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Continuous-time_stochastic_process" title="Continuous-time stochastic process">Continuous time</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Bessel_process" title="Bessel process">Bessel process</a></li>
-<li><a href="/wiki/Birth%E2%80%93death_process" title="Birth–death process">Birth–death process</a></li>
-<li><a href="/wiki/Wiener_process" title="Wiener process">Brownian motion</a>
-<ul><li><a href="/wiki/Brownian_bridge" title="Brownian bridge">Bridge</a></li>
-<li><a href="/wiki/Brownian_excursion" title="Brownian excursion">Excursion</a></li>
-<li><a href="/wiki/Fractional_Brownian_motion" title="Fractional Brownian motion">Fractional</a></li>
-<li><a href="/wiki/Geometric_Brownian_motion" title="Geometric Brownian motion">Geometric</a></li>
-<li><a href="/wiki/Brownian_meander" title="Brownian meander">Meander</a></li></ul></li>
-<li><a href="/wiki/Cauchy_process" title="Cauchy process">Cauchy process</a></li>
-<li><a href="/wiki/Contact_process_(mathematics)" title="Contact process (mathematics)">Contact process</a></li>
-<li><a href="/wiki/Continuous-time_random_walk" title="Continuous-time random walk">Continuous-time random walk</a></li>
-<li><a href="/wiki/Cox_process" title="Cox process">Cox process</a></li>
-<li><a href="/wiki/Diffusion_process" title="Diffusion process">Diffusion process</a></li>
-<li><a href="/wiki/Empirical_process" title="Empirical process">Empirical process</a></li>
-<li><a href="/wiki/Feller_process" title="Feller process">Feller process</a></li>
-<li><a href="/wiki/Fleming%E2%80%93Viot_process" title="Fleming–Viot process">Fleming–Viot process</a></li>
-<li><a href="/wiki/Gamma_process" title="Gamma process">Gamma process</a></li>
-<li><a href="/wiki/Geometric_process" title="Geometric process">Geometric process</a></li>
-<li><a href="/wiki/Hunt_process" title="Hunt process">Hunt process</a></li>
-<li><a href="/wiki/Interacting_particle_system" title="Interacting particle system">Interacting particle systems</a></li>
-<li><a href="/wiki/It%C3%B4_diffusion" title="Itô diffusion">Itô diffusion</a></li>
-<li><a href="/wiki/It%C3%B4_process" class="mw-redirect" title="Itô process">Itô process</a></li>
-<li><a href="/wiki/Jump_diffusion" title="Jump diffusion">Jump diffusion</a></li>
-<li><a href="/wiki/Jump_process" title="Jump process">Jump process</a></li>
-<li><a href="/wiki/L%C3%A9vy_process" title="Lévy process">Lévy process</a></li>
-<li><a href="/wiki/Local_time_(mathematics)" title="Local time (mathematics)">Local time</a></li>
-<li><a href="/wiki/Markov_additive_process" title="Markov additive process">Markov additive process</a></li>
-<li><a href="/wiki/McKean%E2%80%93Vlasov_process" title="McKean–Vlasov process">McKean–Vlasov process</a></li>
-<li><a href="/wiki/Ornstein%E2%80%93Uhlenbeck_process" title="Ornstein–Uhlenbeck process">Ornstein–Uhlenbeck process</a></li>
-<li><a href="/wiki/Poisson_process" class="mw-redirect" title="Poisson process">Poisson process</a>
-<ul><li><a href="/wiki/Compound_Poisson_process" title="Compound Poisson process">Compound</a></li>
-<li><a href="/wiki/Non-homogeneous_Poisson_process" class="mw-redirect" title="Non-homogeneous Poisson process">Non-homogeneous</a></li>
-<li><a href="/wiki/Poisson_point_process" title="Poisson point process">Point process</a></li></ul></li>
-<li><a href="/wiki/Schramm%E2%80%93Loewner_evolution" title="Schramm–Loewner evolution">Schramm–Loewner evolution</a></li>
-<li><a href="/wiki/Semimartingale" title="Semimartingale">Semimartingale</a></li>
-<li><a href="/wiki/Sigma-martingale" title="Sigma-martingale">Sigma-martingale</a></li>
-<li><a href="/wiki/Stable_process" title="Stable process">Stable process</a></li>
-<li><a href="/wiki/Superprocess" title="Superprocess">Superprocess</a></li>
-<li><a href="/wiki/Telegraph_process" title="Telegraph process">Telegraph process</a></li>
-<li><a href="/wiki/Variance_gamma_process" title="Variance gamma process">Variance gamma process</a></li>
-<li><a href="/wiki/Wiener_process" title="Wiener process">Wiener process</a></li>
-<li><a href="/wiki/Wiener_sausage" title="Wiener sausage">Wiener sausage</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Both</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Branching_process" title="Branching process">Branching process</a></li>
-<li><a href="/wiki/Galves%E2%80%93L%C3%B6cherbach_model" title="Galves–Löcherbach model">Galves–Löcherbach model</a></li>
-<li><a href="/wiki/Gaussian_process" title="Gaussian process">Gaussian process</a></li>
-<li><a href="/wiki/Hidden_Markov_model" title="Hidden Markov model">Hidden Markov model (HMM)</a></li>
-<li><a href="/wiki/Markov_process" class="mw-redirect" title="Markov process">Markov process</a></li>
-<li><a href="/wiki/Martingale_(probability_theory)" title="Martingale (probability theory)">Martingale</a>
-<ul><li><a href="/wiki/Martingale_difference_sequence" title="Martingale difference sequence">Differences</a></li>
-<li><a href="/wiki/Local_martingale" title="Local martingale">Local</a></li>
-<li><a href="/wiki/Submartingale" class="mw-redirect" title="Submartingale">Sub-</a></li>
-<li><a href="/wiki/Supermartingale" class="mw-redirect" title="Supermartingale">Super-</a></li></ul></li>
-<li><a href="/wiki/Random_dynamical_system" title="Random dynamical system">Random dynamical system</a></li>
-<li><a href="/wiki/Regenerative_process" title="Regenerative process">Regenerative process</a></li>
-<li><a href="/wiki/Renewal_process" class="mw-redirect" title="Renewal process">Renewal process</a></li>
-<li><a href="/wiki/Stochastic_chains_with_memory_of_variable_length" title="Stochastic chains with memory of variable length">Stochastic chains with memory of variable length</a></li>
-<li><a href="/wiki/White_noise" title="White noise">White noise</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Fields and other</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Dirichlet_process" title="Dirichlet process">Dirichlet process</a></li>
-<li><a href="/wiki/Gaussian_random_field" title="Gaussian random field">Gaussian random field</a></li>
-<li><a href="/wiki/Gibbs_measure" title="Gibbs measure">Gibbs measure</a></li>
-<li><a href="/wiki/Hopfield_model" class="mw-redirect" title="Hopfield model">Hopfield model</a></li>
-<li><a href="/wiki/Ising_model" title="Ising model">Ising model</a>
-<ul><li><a href="/wiki/Potts_model" title="Potts model">Potts model</a></li>
-<li><a href="/wiki/Boolean_network" title="Boolean network">Boolean network</a></li></ul></li>
-<li><a href="/wiki/Markov_random_field" title="Markov random field">Markov random field</a></li>
-<li><a href="/wiki/Percolation_theory" title="Percolation theory">Percolation</a></li>
-<li><a href="/wiki/Pitman%E2%80%93Yor_process" title="Pitman–Yor process">Pitman–Yor process</a></li>
-<li><a href="/wiki/Point_process" title="Point process">Point process</a>
-<ul><li><a href="/wiki/Point_process#Cox_point_process" title="Point process">Cox</a></li>
-<li><a href="/wiki/Poisson_point_process" title="Poisson point process">Poisson</a></li></ul></li>
-<li><a href="/wiki/Random_field" title="Random field">Random field</a></li>
-<li><a href="/wiki/Random_graph" title="Random graph">Random graph</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Time_series" title="Time series">Time series models</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Autoregressive_conditional_heteroskedasticity" title="Autoregressive conditional heteroskedasticity">Autoregressive conditional heteroskedasticity (ARCH) model</a></li>
-<li><a href="/wiki/Autoregressive_integrated_moving_average" title="Autoregressive integrated moving average">Autoregressive integrated moving average (ARIMA) model</a></li>
-<li><a href="/wiki/Autoregressive_model" title="Autoregressive model">Autoregressive (AR) model</a></li>
-<li><a href="/wiki/Autoregressive%E2%80%93moving-average_model" title="Autoregressive–moving-average model">Autoregressive–moving-average (ARMA) model</a></li>
-<li><a href="/wiki/Autoregressive_conditional_heteroskedasticity" title="Autoregressive conditional heteroskedasticity">Generalized autoregressive conditional heteroskedasticity (GARCH) model</a></li>
-<li><a href="/wiki/Moving-average_model" title="Moving-average model">Moving-average (MA) model</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Financial models</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Black%E2%80%93Derman%E2%80%93Toy_model" title="Black–Derman–Toy model">Black–Derman–Toy</a></li>
-<li><a href="/wiki/Black%E2%80%93Karasinski_model" title="Black–Karasinski model">Black–Karasinski</a></li>
-<li><a href="/wiki/Black%E2%80%93Scholes_model" title="Black–Scholes model">Black–Scholes</a></li>
-<li><a href="/wiki/Chen_model" title="Chen model">Chen</a></li>
-<li><a href="/wiki/Constant_elasticity_of_variance_model" title="Constant elasticity of variance model">Constant elasticity of variance (CEV)</a></li>
-<li><a href="/wiki/Cox%E2%80%93Ingersoll%E2%80%93Ross_model" title="Cox–Ingersoll–Ross model">Cox–Ingersoll–Ross (CIR)</a></li>
-<li><a href="/wiki/Garman%E2%80%93Kohlhagen_model" class="mw-redirect" title="Garman–Kohlhagen model">Garman–Kohlhagen</a></li>
-<li><a href="/wiki/Heath%E2%80%93Jarrow%E2%80%93Morton_framework" title="Heath–Jarrow–Morton framework">Heath–Jarrow–Morton (HJM)</a></li>
-<li><a href="/wiki/Heston_model" title="Heston model">Heston</a></li>
-<li><a href="/wiki/Ho%E2%80%93Lee_model" title="Ho–Lee model">Ho–Lee</a></li>
-<li><a href="/wiki/Hull%E2%80%93White_model" title="Hull–White model">Hull–White</a></li>
-<li><a href="/wiki/LIBOR_market_model" title="LIBOR market model">LIBOR market</a></li>
-<li><a href="/wiki/Rendleman%E2%80%93Bartter_model" title="Rendleman–Bartter model">Rendleman–Bartter</a></li>
-<li><a href="/wiki/SABR_volatility_model" title="SABR volatility model">SABR volatility</a></li>
-<li><a href="/wiki/Vasicek_model" title="Vasicek model">Vašíček</a></li>
-<li><a href="/wiki/Wilkie_investment_model" title="Wilkie investment model">Wilkie</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Actuarial_mathematics" class="mw-redirect" title="Actuarial mathematics">Actuarial models</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/B%C3%BChlmann_model" title="Bühlmann model">Bühlmann</a></li>
-<li><a href="/wiki/Cram%C3%A9r%E2%80%93Lundberg_model" class="mw-redirect" title="Cramér–Lundberg model">Cramér–Lundberg</a></li>
-<li><a href="/wiki/Risk_process" class="mw-redirect" title="Risk process">Risk process</a></li>
-<li><a href="/wiki/Sparre%E2%80%93Anderson_model" class="mw-redirect" title="Sparre–Anderson model">Sparre–Anderson</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Queueing_model" class="mw-redirect" title="Queueing model">Queueing models</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Bulk_queue" title="Bulk queue">Bulk</a></li>
-<li><a href="/wiki/Fluid_queue" title="Fluid queue">Fluid</a></li>
-<li><a href="/wiki/G-network" title="G-network">Generalized queueing network</a></li>
-<li><a href="/wiki/M/G/1_queue" title="M/G/1 queue">M/G/1</a></li>
-<li><a href="/wiki/M/M/1_queue" title="M/M/1 queue">M/M/1</a></li>
-<li><a href="/wiki/M/M/c_queue" title="M/M/c queue">M/M/c</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Properties</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/C%C3%A0dl%C3%A0g" title="Càdlàg">Càdlàg paths</a></li>
-<li><a href="/wiki/Continuous_stochastic_process" title="Continuous stochastic process">Continuous</a></li>
-<li><a href="/wiki/Sample-continuous_process" title="Sample-continuous process">Continuous paths</a></li>
-<li><a href="/wiki/Ergodicity" title="Ergodicity">Ergodic</a></li>
-<li><a href="/wiki/Exchangeable_random_variables" title="Exchangeable random variables">Exchangeable</a></li>
-<li><a href="/wiki/Feller-continuous_process" title="Feller-continuous process">Feller-continuous</a></li>
-<li><a href="/wiki/Gauss%E2%80%93Markov_process" title="Gauss–Markov process">Gauss–Markov</a></li>
-<li><a href="/wiki/Markov_property" title="Markov property">Markov</a></li>
-<li><a href="/wiki/Mixing_(mathematics)" title="Mixing (mathematics)">Mixing</a></li>
-<li><a href="/wiki/Piecewise_deterministic_Markov_process" class="mw-redirect" title="Piecewise deterministic Markov process">Piecewise deterministic</a></li>
-<li><a href="/wiki/Predictable_process" title="Predictable process">Predictable</a></li>
-<li><a href="/wiki/Progressively_measurable_process" title="Progressively measurable process">Progressively measurable</a></li>
-<li><a href="/wiki/Self-similar_process" title="Self-similar process">Self-similar</a></li>
-<li><a href="/wiki/Stationary_process" title="Stationary process">Stationary</a></li>
-<li><a href="/wiki/Time_reversibility" title="Time reversibility">Time-reversible</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Limit theorems</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Central_limit_theorem" title="Central limit theorem">Central limit theorem</a></li>
-<li><a href="/wiki/Donsker%27s_theorem" title="Donsker&#39;s theorem">Donsker's theorem</a></li>
-<li><a href="/wiki/Doob%27s_martingale_convergence_theorems" title="Doob&#39;s martingale convergence theorems">Doob's martingale convergence theorems</a></li>
-<li><a href="/wiki/Ergodic_theorem" class="mw-redirect" title="Ergodic theorem">Ergodic theorem</a></li>
-<li><a href="/wiki/Fisher%E2%80%93Tippett%E2%80%93Gnedenko_theorem" title="Fisher–Tippett–Gnedenko theorem">Fisher–Tippett–Gnedenko theorem</a></li>
-<li><a href="/wiki/Large_deviation_principle" class="mw-redirect" title="Large deviation principle">Large deviation principle</a></li>
-<li><a href="/wiki/Law_of_large_numbers" title="Law of large numbers">Law of large numbers (weak/strong)</a></li>
-<li><a href="/wiki/Law_of_the_iterated_logarithm" title="Law of the iterated logarithm">Law of the iterated logarithm</a></li>
-<li><a href="/wiki/Maximal_ergodic_theorem" title="Maximal ergodic theorem">Maximal ergodic theorem</a></li>
-<li><a href="/wiki/Sanov%27s_theorem" title="Sanov&#39;s theorem">Sanov's theorem</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_inequalities#Probability_theory_and_statistics" title="List of inequalities">Inequalities</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Burkholder%E2%80%93Davis%E2%80%93Gundy_inequalities" class="mw-redirect" title="Burkholder–Davis–Gundy inequalities">Burkholder–Davis–Gundy</a></li>
-<li><a href="/wiki/Doob%27s_martingale_inequality" title="Doob&#39;s martingale inequality">Doob's martingale</a></li>
-<li><a href="/wiki/Kunita%E2%80%93Watanabe_inequality" title="Kunita–Watanabe inequality">Kunita–Watanabe</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Tools</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Cameron%E2%80%93Martin_formula" class="mw-redirect" title="Cameron–Martin formula">Cameron–Martin formula</a></li>
-<li><a href="/wiki/Convergence_of_random_variables" title="Convergence of random variables">Convergence of random variables</a></li>
-<li><a href="/wiki/Dol%C3%A9ans-Dade_exponential" title="Doléans-Dade exponential">Doléans-Dade exponential</a></li>
-<li><a href="/wiki/Doob_decomposition_theorem" title="Doob decomposition theorem">Doob decomposition theorem</a></li>
-<li><a href="/wiki/Doob%E2%80%93Meyer_decomposition_theorem" title="Doob–Meyer decomposition theorem">Doob–Meyer decomposition theorem</a></li>
-<li><a href="/wiki/Doob%27s_optional_stopping_theorem" class="mw-redirect" title="Doob&#39;s optional stopping theorem">Doob's optional stopping theorem</a></li>
-<li><a href="/wiki/Dynkin%27s_formula" title="Dynkin&#39;s formula">Dynkin's formula</a></li>
-<li><a href="/wiki/Feynman%E2%80%93Kac_formula" title="Feynman–Kac formula">Feynman–Kac formula</a></li>
-<li><a href="/wiki/Filtration_(probability_theory)" title="Filtration (probability theory)">Filtration</a></li>
-<li><a href="/wiki/Girsanov_theorem" title="Girsanov theorem">Girsanov theorem</a></li>
-<li><a href="/wiki/Infinitesimal_generator_(stochastic_processes)" title="Infinitesimal generator (stochastic processes)">Infinitesimal generator</a></li>
-<li><a href="/wiki/It%C3%B4_integral" class="mw-redirect" title="Itô integral">Itô integral</a></li>
-<li><a href="/wiki/It%C3%B4%27s_lemma" title="Itô&#39;s lemma">Itô's lemma</a></li>
-<li><a href="/wiki/Kolmogorov_continuity_theorem" title="Kolmogorov continuity theorem">Kolmogorov continuity theorem</a></li>
-<li><a href="/wiki/Kolmogorov_extension_theorem" title="Kolmogorov extension theorem">Kolmogorov extension theorem</a></li>
-<li><a href="/wiki/L%C3%A9vy%E2%80%93Prokhorov_metric" title="Lévy–Prokhorov metric">Lévy–Prokhorov metric</a></li>
-<li><a href="/wiki/Malliavin_calculus" title="Malliavin calculus">Malliavin calculus</a></li>
-<li><a href="/wiki/Martingale_representation_theorem" title="Martingale representation theorem">Martingale representation theorem</a></li>
-<li><a href="/wiki/Optional_stopping_theorem" title="Optional stopping theorem">Optional stopping theorem</a></li>
-<li><a href="/wiki/Prokhorov%27s_theorem" title="Prokhorov&#39;s theorem">Prokhorov's theorem</a></li>
-<li><a href="/wiki/Quadratic_variation" title="Quadratic variation">Quadratic variation</a></li>
-<li><a href="/wiki/Reflection_principle_(Wiener_process)" title="Reflection principle (Wiener process)">Reflection principle</a></li>
-<li><a href="/wiki/Skorokhod_integral" title="Skorokhod integral">Skorokhod integral</a></li>
-<li><a href="/wiki/Skorokhod%27s_representation_theorem" title="Skorokhod&#39;s representation theorem">Skorokhod's representation theorem</a></li>
-<li><a href="/wiki/Skorokhod_space" class="mw-redirect" title="Skorokhod space">Skorokhod space</a></li>
-<li><a href="/wiki/Snell_envelope" title="Snell envelope">Snell envelope</a></li>
-<li><a href="/wiki/Stochastic_differential_equation" title="Stochastic differential equation">Stochastic differential equation</a>
-<ul><li><a href="/wiki/Tanaka_equation" title="Tanaka equation">Tanaka</a></li></ul></li>
-<li><a href="/wiki/Stopping_time" title="Stopping time">Stopping time</a></li>
-<li><a href="/wiki/Stratonovich_integral" title="Stratonovich integral">Stratonovich integral</a></li>
-<li><a href="/wiki/Uniform_integrability" title="Uniform integrability">Uniform integrability</a></li>
-<li><a href="/wiki/Usual_hypotheses" class="mw-redirect" title="Usual hypotheses">Usual hypotheses</a></li>
-<li><a href="/wiki/Wiener_space" class="mw-redirect" title="Wiener space">Wiener space</a>
-<ul><li><a href="/wiki/Classical_Wiener_space" title="Classical Wiener space">Classical</a></li>
-<li><a href="/wiki/Abstract_Wiener_space" title="Abstract Wiener space">Abstract</a></li></ul></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Disciplines</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Actuarial_mathematics" class="mw-redirect" title="Actuarial mathematics">Actuarial mathematics</a></li>
-<li><a href="/wiki/Econometrics" title="Econometrics">Econometrics</a></li>
-<li><a href="/wiki/Ergodic_theory" title="Ergodic theory">Ergodic theory</a></li>
-<li><a href="/wiki/Extreme_value_theory" title="Extreme value theory">Extreme value theory (EVT)</a></li>
-<li><a href="/wiki/Large_deviations_theory" title="Large deviations theory">Large deviations theory</a></li>
-<li><a href="/wiki/Mathematical_finance" title="Mathematical finance">Mathematical finance</a></li>
-<li><a href="/wiki/Mathematical_statistics" title="Mathematical statistics">Mathematical statistics</a></li>
-<li><a href="/wiki/Probability_theory" title="Probability theory">Probability theory</a></li>
-<li><a href="/wiki/Queueing_theory" title="Queueing theory">Queueing theory</a></li>
-<li><a href="/wiki/Renewal_theory" title="Renewal theory">Renewal theory</a></li>
-<li><a href="/wiki/Ruin_theory" title="Ruin theory">Ruin theory</a></li>
-<li><a href="/wiki/Statistics" title="Statistics">Statistics</a></li>
-<li><a href="/wiki/System_on_a_chip" title="System on a chip">System on Chip</a> design</li>
-<li><a href="/wiki/Stochastic_analysis" class="mw-redirect" title="Stochastic analysis">Stochastic analysis</a></li>
-<li><a href="/wiki/Time_series_analysis" class="mw-redirect" title="Time series analysis">Time series analysis</a></li>
-<li><a href="/wiki/Machine_learning" title="Machine learning">Machine learning</a></li></ul>
-</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
-<ul><li><a href="/wiki/List_of_stochastic_processes_topics" title="List of stochastic processes topics">List of topics</a></li>
-<li><a href="/wiki/Category:Stochastic_processes" title="Category:Stochastic processes">Category</a></li></ul>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Warner, p. 221</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Warner, pp. 205–6</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><i>The Hard Facts of the Grimms' Fairy Tales</i>, pp. 147–8</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><i>The Hard Facts of the Grimms' Fairy Tales</i>, p. 151</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><i>The Hard Facts of the Grimms' Fairy Tales</i>, p. 36</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news">Flood, A. (2014). <a rel="nofollow" class="external text" href="https://www.theguardian.com/books/2014/nov/12/grimm-brothers-fairytales-horror-new-translation">"Grimm brothers' fairytales have blood and horror restored in new translation"</a>. The Guardian.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Grimm+brothers%27+fairytales+have+blood+and+horror+restored+in+new+translation&amp;rft.date=2014&amp;rft.aulast=Flood&amp;rft.aufirst=A.&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fbooks%2F2014%2Fnov%2F12%2Fgrimm-brothers-fairytales-horror-new-translation&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStepmother" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">Claxton-Oldfield, S. (2000). "Deconstructing the myth of the wicked stepparent". <i>Marriage &amp; Family Review</i>. <b>30</b> (1–2): 51–58. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1300%2Fj002v30n01_04">10.1300/j002v30n01_04</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Marriage+%26+Family+Review&amp;rft.atitle=Deconstructing+the+myth+of+the+wicked+stepparent&amp;rft.volume=30&amp;rft.issue=1%E2%80%932&amp;rft.pages=51-58&amp;rft.date=2000&amp;rft_id=info%3Adoi%2F10.1300%2Fj002v30n01_04&amp;rft.aulast=Claxton-Oldfield&amp;rft.aufirst=S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStepmother" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><i>The Annotated Classic Fairy Tales</i>, p. 57</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Warner, p. 212</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Warner, p. 213</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Mark Edward Lewis <i>The Early Chinese Empires: Qin and Han</i> p 157 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-674-02477-9" title="Special:BookSources/978-0-674-02477-9">978-0-674-02477-9</a></span>
+</li>
+<li id="cite_note-lewis158-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-lewis158_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-lewis158_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Mark Edward Lewis <i>The Early Chinese Empires: Qin and Han</i> p. 158 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-674-02477-9" title="Special:BookSources/978-0-674-02477-9">978-0-674-02477-9</a></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.bellaonline.com/articles/art8292.asp">http://www.bellaonline.com/articles/art8292.asp</a></span>
+</li>
+</ol></div>
+<div role="navigation" class="navbox" aria-labelledby="Family" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Family" title="Template:Family"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Family" title="Template talk:Family"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Family&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Family" style="font-size:114%;margin:0 4em"><a href="/wiki/Family" title="Family">Family</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_History&amp;#10;*_Household&amp;#10;*_Nuclear_family&amp;#10;*_Extended_family&amp;#10;*_Conjugal_family&amp;#10;*_Immediate_family&amp;#10;*_Matrifocal_family&amp;#10;*_Stepfamily&amp;#10;*_Dysfunctional_family&amp;#10;*_Polyfidelitous_families">
+<ul><li><a href="/wiki/History_of_the_family" title="History of the family">History</a></li>
+<li><a href="/wiki/Household" title="Household">Household</a></li>
+<li><a href="/wiki/Nuclear_family" title="Nuclear family">Nuclear family</a></li>
+<li><a href="/wiki/Extended_family" title="Extended family">Extended family</a></li>
+<li><a href="/wiki/Conjugal_family" title="Conjugal family">Conjugal family</a></li>
+<li><a href="/wiki/Immediate_family" title="Immediate family">Immediate family</a></li>
+<li><a href="/wiki/Matrifocal_family" title="Matrifocal family">Matrifocal family</a></li>
+<li><a href="/wiki/Stepfamily" title="Stepfamily">Stepfamily</a></li>
+<li><a href="/wiki/Dysfunctional_family" title="Dysfunctional family">Dysfunctional family</a></li>
+<li><a href="/wiki/Polyfidelity" title="Polyfidelity">Polyfidelitous families</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/First-degree_relatives" title="First-degree relatives">First-degree relatives</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Parent" title="Parent">Parent</a>
+<ul><li><a href="/wiki/Father" title="Father">father</a></li>
+<li><a href="/wiki/Mother" title="Mother">mother</a></li></ul></li>
+<li><a href="/wiki/Child" title="Child">Child</a>
+<ul><li><a href="/wiki/Son" title="Son">son</a></li>
+<li><a href="/wiki/Daughter" title="Daughter">daughter</a></li></ul></li>
+<li><a href="/wiki/Sibling" title="Sibling">Sibling</a>
+<ul><li><a href="/wiki/Brother" title="Brother">brother</a></li>
+<li><a href="/wiki/Sister" title="Sister">sister</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Second-degree_relative" title="Second-degree relative">Second-degree relatives</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Grandparent" title="Grandparent">Grandparent</a></li>
+<li><a href="/wiki/Grandchild" class="mw-redirect" title="Grandchild">Grandchild</a></li>
+<li><a href="/wiki/Aunt" title="Aunt">Aunt</a></li>
+<li><a href="/wiki/Uncle" title="Uncle">Uncle</a></li>
+<li><a href="/wiki/Niece_and_nephew" title="Niece and nephew">Niece and nephew</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Third-degree_relative" title="Third-degree relative">Third-degree relatives</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Great-grandparent" class="mw-redirect" title="Great-grandparent">Great-grandparent</a></li>
+<li><a href="/wiki/Great-grandchild" class="mw-redirect" title="Great-grandchild">Great-grandchild</a></li>
+<li><a href="/wiki/Niece_and_nephew" title="Niece and nephew">Grandnephew and grandniece</a></li>
+<li><a href="/wiki/Uncle" title="Uncle">Great-Uncle</a></li>
+<li><a href="/wiki/Aunt" title="Aunt">Great-Aunt</a></li>
+<li><a href="/wiki/Cousin" title="Cousin">Cousin</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Affinity_(law)" title="Affinity (law)">Family-in-law</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Spouse" title="Spouse">Spouse</a>
+<ul><li><a href="/wiki/Wife" title="Wife">wife</a></li>
+<li><a href="/wiki/Husband" title="Husband">husband</a></li></ul></li>
+<li><a href="/wiki/Parent-in-law" title="Parent-in-law">Parents-in-law</a></li>
+<li><a href="/wiki/Sibling-in-law" title="Sibling-in-law">Siblings-in-law</a></li>
+<li><a href="/wiki/Son-in-law" class="mw-redirect" title="Son-in-law">Son-in-law</a></li>
+<li><a href="/wiki/Daughter-in-law" class="mw-redirect" title="Daughter-in-law">Daughter-in-law</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Stepfamily" title="Stepfamily">Stepfamily</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Stepfather" title="Stepfather">Stepfather</a></li>
+<li><a class="mw-selflink selflink">Stepmother</a></li>
+<li><a href="/wiki/Stepchild" title="Stepchild">Stepchild</a></li>
+<li><a href="/wiki/Stepsibling" title="Stepsibling">Stepsibling</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Kinship_terminology" title="Kinship terminology">Kinship terminology</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kinship" title="Kinship">Kinship</a></li>
+<li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal kinship</a></li>
+<li><a href="/wiki/Adoption" title="Adoption">Adoption</a></li>
+<li><a href="/wiki/Affinity_(law)" title="Affinity (law)">Affinity</a></li>
+<li><a href="/wiki/Consanguinity" title="Consanguinity">Consanguinity</a></li>
+<li><a href="/wiki/Disownment" title="Disownment">Disownment</a></li>
+<li><a href="/wiki/Divorce" title="Divorce">Divorce</a></li>
+<li><a href="/wiki/Family_estrangement" title="Family estrangement">Estrangement</a></li>
+<li><a href="/wiki/Fictive_kinship" title="Fictive kinship">Fictive kinship</a></li>
+<li><a href="/wiki/Marriage" title="Marriage">Marriage</a></li>
+<li><a href="/wiki/Nurture_kinship" title="Nurture kinship">Nurture kinship</a></li>
+<li><a href="/wiki/Hawaiian_kinship" title="Hawaiian kinship">Hawaiian kinship</a></li>
+<li><a href="/wiki/Sudanese_kinship" title="Sudanese kinship">Sudanese kinship</a></li>
+<li><a href="/wiki/Eskimo_kinship" title="Eskimo kinship">Eskimo kinship</a></li>
+<li><a href="/wiki/Iroquois_kinship" title="Iroquois kinship">Iroquois kinship</a></li>
+<li><a href="/wiki/Crow_kinship" title="Crow kinship">Crow kinship</a></li>
+<li><a href="/wiki/Omaha_kinship" title="Omaha kinship">Omaha kinship</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ancestor" title="Ancestor">Lineage</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bilateral_descent" title="Bilateral descent">Bilateral descent</a></li>
+<li><a href="/wiki/Most_recent_common_ancestor" title="Most recent common ancestor">Common ancestor</a></li>
+<li><a href="/wiki/Surname" title="Surname">Family name</a></li>
+<li><a href="/wiki/Family_tree" title="Family tree">Family tree</a></li>
+<li><a href="/wiki/Genealogy" title="Genealogy">Genealogy</a></li>
+<li><a href="/wiki/Heirloom" title="Heirloom">Heirloom</a></li>
+<li><a href="/wiki/Heredity" title="Heredity">Heredity</a></li>
+<li><a href="/wiki/Inheritance" title="Inheritance">Inheritance</a></li>
+<li><a href="/wiki/Lineal_descendant" title="Lineal descendant">Lineal descendant</a></li>
+<li><a href="/wiki/Matrilineality" title="Matrilineality">Matrilineality</a></li>
+<li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineality</a></li>
+<li><a href="/wiki/Pedigree_chart" title="Pedigree chart">Pedigree chart</a></li>
+<li><a href="/wiki/Progenitor" title="Progenitor">Progenitor</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Relationships</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Agape" title="Agape">Agape (parental love)</a></li>
+<li><a href="/wiki/Eros_(concept)" title="Eros (concept)">Eros (marital love)</a></li>
+<li><a href="/wiki/Filial_piety" title="Filial piety">Filial piety</a></li>
+<li><a href="/wiki/Storge" title="Storge">Storge (familial love)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Holidays</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mother%27s_Day" title="Mother&#39;s Day">Mother's Day</a>
+<ul><li><a href="/wiki/Mother%27s_Day_(United_States)" title="Mother&#39;s Day (United States)">U.S.</a></li></ul></li>
+<li><a href="/wiki/Father%27s_Day" title="Father&#39;s Day">Father's Day</a></li>
+<li><a href="/wiki/Father-Daughter_Day" class="mw-redirect" title="Father-Daughter Day">Father-Daughter Day</a></li>
+<li><a href="/wiki/Siblings_Day" title="Siblings Day">Siblings Day</a></li>
+<li><a href="/wiki/National_Grandparents_Day" title="National Grandparents Day">National Grandparents Day</a></li>
+<li><a href="/wiki/Parents%27_Day" title="Parents&#39; Day">Parents' Day</a></li>
+<li><a href="/wiki/Children%27s_Day" title="Children&#39;s Day">Children's Day</a></li>
+<li><a href="/wiki/Family_Day" title="Family Day">Family Day</a>
+<ul><li><a href="/wiki/Family_Day_(Canada)" title="Family Day (Canada)">Canada</a></li></ul></li>
+<li><a href="/wiki/American_Family_Day" title="American Family Day">American Family Day</a></li>
+<li><a href="/wiki/National_Family_Week" title="National Family Week">National Family Week</a>
+<ul><li><a href="/wiki/National_Family_Week_(UK)" title="National Family Week (UK)">UK</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wedding_anniversary" title="Wedding anniversary">Wedding anniversary</a></li>
+<li><a href="/wiki/Sociology_of_the_family" title="Sociology of the family">Sociology of the family</a></li>
+<li><a href="/wiki/Museum_of_Motherhood" title="Museum of Motherhood">Museum of Motherhood</a></li>
+<li><a href="/wiki/Incest" title="Incest">Incest</a></li></ul>
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1264
-Cached time: 20191020005045
+Parsed by mw1340
+Cached time: 20191011201820
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.360 seconds
-Real time usage: 0.543 seconds
-Preprocessor visited node count: 747/1000000
+CPU time usage: 0.340 seconds
+Real time usage: 0.505 seconds
+Preprocessor visited node count: 1164/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 49698/2097152 bytes
-Template argument size: 414/2097152 bytes
-Highest expansion depth: 13/40
-Expensive parser function count: 3/500
+Post‐expand include size: 36576/2097152 bytes
+Template argument size: 1563/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 5/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 14026/5000000 bytes
-Number of Wikibase entities loaded: 2/400
-Lua time usage: 0.171/10.000 seconds
-Lua memory usage: 3.9 MB/50 MB
+Unstrip post‐expand size: 20217/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.149/10.000 seconds
+Lua memory usage: 4.4 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  399.344      1 -total
- 42.66%  170.374      1 Template:Reflist
- 29.53%  117.917      2 Template:Citation
- 20.85%   83.261      1 Template:More_footnotes
- 19.88%   79.379      2 Template:Cite_journal
- 13.36%   53.372      1 Template:Ambox
-  6.01%   23.996      2 Template:Webarchive
-  5.90%   23.564      1 Template:Stochastic_processes
-  4.87%   19.458      1 Template:Short_description
-  4.59%   18.341      1 Template:Navbox
+100.00%  427.585      1 -total
+ 48.71%  208.269      1 Template:Reflist
+ 22.78%   97.392      1 Template:Refimprove_section
+ 20.07%   85.806      1 Template:More_citations_needed
+ 19.76%   84.503      2 Template:Cite_news
+ 19.03%   81.354      1 Template:Ambox
+ 11.11%   47.522      2 Template:ISBN
+  9.76%   41.743      1 Template:Other
+  9.50%   40.605      1 Template:Find_sources_mainspace
+  9.10%   38.909      2 Template:Cite_journal
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:350596-0!canonical!math=5 and timestamp 20191020005045 and revision id 916662873
+<!-- Saved in parser cache with key enwiki:pcache:idhash:229235-0!canonical and timestamp 20191011201819 and revision id 920779849
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Galton–Watson_process&amp;oldid=916662873">https://en.wikipedia.org/w/index.php?title=Galton–Watson_process&amp;oldid=916662873</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Stepmother&amp;oldid=920779849">https://en.wikipedia.org/w/index.php?title=Stepmother&amp;oldid=920779849</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Genetic_genealogy" title="Category:Genetic genealogy">Genetic genealogy</a></li><li><a href="/wiki/Category:Genetics_in_the_United_Kingdom" title="Category:Genetics in the United Kingdom">Genetics in the United Kingdom</a></li><li><a href="/wiki/Category:Human_population_genetics" title="Category:Human population genetics">Human population genetics</a></li><li><a href="/wiki/Category:Stochastic_processes" title="Category:Stochastic processes">Stochastic processes</a></li><li><a href="/wiki/Category:Surname" title="Category:Surname">Surname</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_July_2009" title="Category:Articles lacking in-text citations from July 2009">Articles lacking in-text citations from July 2009</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:CS1:_long_volume_value" title="Category:CS1: long volume value">CS1: long volume value</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Stepfamily" title="Category:Stepfamily">Stepfamily</a></li><li><a href="/wiki/Category:Parenting" title="Category:Parenting">Parenting</a></li><li><a href="/wiki/Category:Terms_for_women" title="Category:Terms for women">Terms for women</a></li><li><a href="/wiki/Category:Cinderella_characters" title="Category:Cinderella characters">Cinderella characters</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_April_2018" title="Category:Articles needing additional references from April 2018">Articles needing additional references from April 2018</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">Articles using small message boxes</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2018" title="Category:Articles with unsourced statements from April 2018">Articles with unsourced statements from April 2018</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -573,13 +308,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Galton%E2%80%93Watson+process" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Galton%E2%80%93Watson+process" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Stepmother" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Stepmother" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Galton%E2%80%93Watson_process" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Galton%E2%80%93Watson_process" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Stepmother" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Stepmother" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -594,7 +329,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Galton%E2%80%93Watson_process">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Galton%E2%80%93Watson_process&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Galton%E2%80%93Watson_process&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Stepmother">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Stepmother&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Stepmother&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -633,28 +368,35 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Galton%E2%80%93Watson_process" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Galton%E2%80%93Watson_process" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Galton%E2%80%93Watson_process&amp;oldid=916662873" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Galton%E2%80%93Watson_process&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q462144" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Galton%E2%80%93Watson_process&amp;id=916662873" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Stepmother" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Stepmother" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Stepmother&amp;oldid=920779849" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Stepmother&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q15384699" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Stepmother&amp;id=920779849" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Stepmothers_in_art" hreflang="en">Wikimedia Commons</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Galton%E2%80%93Watson+process">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Galton%E2%80%93Watson+process&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Galton%E2%80%93Watson_process&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Stepmother">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Stepmother&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Stepmother&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Proc%C3%A9s_de_Galton-Watson" title="Procés de Galton-Watson – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Galton-Watson-Prozess" title="Galton-Watson-Prozess – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Proceso_de_Galton-Watson" title="Proceso de Galton-Watson – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%A7%DB%8C%D9%86%D8%AF_%DA%AF%D8%A7%D9%84%D8%AA%D9%88%D9%86-%D9%88%D8%A7%D8%AA%D8%B3%D9%88%D9%86" title="فرایند گالتون-واتسون – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Processus_de_Galton-Watson" title="Processus de Galton-Watson – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Processo_de_Galton%E2%80%93Watson" title="Processo de Galton–Watson – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q462144#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Madrasca" title="Madrasca – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9C%D0%B0%D1%87%D0%B0%D1%85%D0%B0" title="Мачаха – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%9C%D0%B0%D1%87%D0%B0%D1%85%D0%B0" title="Мачаха – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9C%D0%B0%D1%89%D0%B5%D1%85%D0%B0" title="Мащеха – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Lezvamm" title="Lezvamm – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Madrastra" title="Madrastra – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Stiefmutter" title="Stiefmutter – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Madrastra" title="Madrastra – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%D8%A7%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D9%86%D8%AF%D9%87_(%D9%86%D8%A7%D9%85%D8%A7%D8%AF%D8%B1%DB%8C)" title="مادرخوانده (نامادری) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%AE%E0%B2%B2%E0%B2%A4%E0%B2%BE%E0%B2%AF%E0%B2%BF" title="ಮಲತಾಯಿ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D3%A8%D0%B3%D0%B5%D0%B9_%D1%88%D0%B5%D1%88%D0%B5" title="Өгей шеше – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D3%A8%D0%B3%D3%A9%D0%B9_%D1%8D%D0%BD%D0%B5" title="Өгөй эне – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%87%D0%B5%D1%85%D0%B0" title="Мачеха – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Parrastra" title="Parrastra – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Macocha" title="Macocha – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Styvmor" title="Styvmor – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%87%D1%83%D1%85%D0%B0" title="Мачуха – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q15384699#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 20 September 2019, at 00:39<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 11 October 2019, at 20:18<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -665,7 +407,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Galton%E2%80%93Watson_process&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Stepmother&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -677,8 +419,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.360","walltime":"0.543","ppvisitednodes":{"value":747,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":49698,"limit":2097152},"templateargumentsize":{"value":414,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":14026,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  399.344      1 -total"," 42.66%  170.374      1 Template:Reflist"," 29.53%  117.917      2 Template:Citation"," 20.85%   83.261      1 Template:More_footnotes"," 19.88%   79.379      2 Template:Cite_journal"," 13.36%   53.372      1 Template:Ambox","  6.01%   23.996      2 Template:Webarchive","  5.90%   23.564      1 Template:Stochastic_processes","  4.87%   19.458      1 Template:Short_description","  4.59%   18.341      1 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.171","limit":"10.000"},"limitreport-memusage":{"value":4086063,"limit":52428800}},"cachereport":{"origin":"mw1264","timestamp":"20191020005045","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Galton\u2013Watson process","url":"https:\/\/en.wikipedia.org\/wiki\/Galton%E2%80%93Watson_process","sameAs":"http:\/\/www.wikidata.org\/entity\/Q462144","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q462144","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-10-27T00:52:38Z","dateModified":"2019-09-20T00:39:44Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/3f\/Galton_Watson_survival_Poisson.png"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":96,"wgHostname":"mw1322"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.340","walltime":"0.505","ppvisitednodes":{"value":1164,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":36576,"limit":2097152},"templateargumentsize":{"value":1563,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":20217,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  427.585      1 -total"," 48.71%  208.269      1 Template:Reflist"," 22.78%   97.392      1 Template:Refimprove_section"," 20.07%   85.806      1 Template:More_citations_needed"," 19.76%   84.503      2 Template:Cite_news"," 19.03%   81.354      1 Template:Ambox"," 11.11%   47.522      2 Template:ISBN","  9.76%   41.743      1 Template:Other","  9.50%   40.605      1 Template:Find_sources_mainspace","  9.10%   38.909      2 Template:Cite_journal"]},"scribunto":{"limitreport-timeusage":{"value":"0.149","limit":"10.000"},"limitreport-memusage":{"value":4610444,"limit":52428800}},"cachereport":{"origin":"mw1340","timestamp":"20191011201820","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Stepmother","url":"https:\/\/en.wikipedia.org\/wiki\/Stepmother","sameAs":"http:\/\/www.wikidata.org\/entity\/Q15384699","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q15384699","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-05-18T17:24:26Z","dateModified":"2019-10-11T20:18:13Z","headline":"female stepparent"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw1320"});});</script>
 </body>
 </html>

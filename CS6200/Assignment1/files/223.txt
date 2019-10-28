@@ -2,36 +2,35 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Smith (surname) - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Smith_(surname)","wgTitle":"Smith (surname)","wgCurRevisionId":921044996,"wgRevisionId":921044996,"wgArticleId":1683750,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Pages using infobox given name with unknown parameters","All accuracy disputes","Articles with disputed statements from June 2017","All articles with unsourced statements","Articles with unsourced statements from February 2010","Use dmy dates from August 2011","Occupational surnames","Surnames","English-language surnames","Surnames of English origin"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February",
-"March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Smith_(surname)","wgRelevantArticleId":1683750,"wgRequestId":"Xa4PdgpAICsAABw@FUsAAAAK","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1158446","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={
-"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.cite.tracking","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons",
-"ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Shepherd (name) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Shepherd_(name)","wgTitle":"Shepherd (name)","wgCurRevisionId":913696641,"wgRevisionId":913696641,"wgArticleId":14200606,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","All set index articles","Surnames","English-language surnames","Given names","Occupational surnames"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Shepherd_(name)","wgRelevantArticleId":14200606,
+"wgRequestId":"XbR72wpAICAAAAN9mp0AAABB","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Shepherd_(surname)","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Shepherd_(name)#Shepherd","wgWikibaseItemId":"Q18987420","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":
+"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks",
+"ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.2"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Blacksmith_at_work02.jpg/1200px-Blacksmith_at_work02.jpg"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Smith_(surname)"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Smith_(surname)&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Smith_(surname)&amp;action=edit"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Shepherd_(name)#Shepherd"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Shepherd_(name)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Shepherd_(name)&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Smith_(surname)"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Shepherd_(name)#Shepherd"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Smith_surname rootpage-Smith_surname skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Shepherd_name rootpage-Shepherd_name skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -40,475 +39,344 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Smith (surname)</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Shepherd (name)</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
-		<div id="contentSub"></div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Shepherd_(surname)&amp;redirect=no" class="mw-redirect" title="Shepherd (surname)">Shepherd (surname)</a>)</span></div>
 		
 		
 		
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For a list of people with surname Smith, see <a href="/wiki/List_of_people_with_surname_Smith" title="List of people with surname Smith">List of people with surname Smith</a>.</div>
-<table class="infobox" style="width:22em"><caption>Smith</caption><tbody><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Blacksmith_at_work02.jpg" class="image"><img alt="Blacksmith at work02.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Blacksmith_at_work02.jpg/220px-Blacksmith_at_work02.jpg" decoding="async" width="220" height="145" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Blacksmith_at_work02.jpg/330px-Blacksmith_at_work02.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Blacksmith_at_work02.jpg/440px-Blacksmith_at_work02.jpg 2x" data-file-width="1600" data-file-height="1053" /></a><div>A close-up of a <a href="/wiki/Blacksmith" title="Blacksmith">blacksmith</a> at work. Smith became a popular last name for those with this occupation.</div></td></tr><tr><th scope="row">Pronunciation</th><td><span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="&#39;s&#39; in &#39;sigh&#39;">s</span><span title="&#39;m&#39; in &#39;my&#39;">m</span><span title="/ɪ/: &#39;i&#39; in &#39;kit&#39;">ɪ</span><span title="/θ/: &#39;th&#39; in &#39;thigh&#39;">θ</span></span>/</a></span></span></td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Origin</th></tr><tr><th scope="row">Word/name</th><td><a href="/wiki/Old_English" title="Old English">Old English</a></td></tr><tr><th scope="row">Meaning</th><td>derived from <i>smitan</i>, meaning "to smite"</td></tr><tr><th scope="row">Region of origin</th><td><a href="/wiki/England" title="England">England</a></td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Other names</th></tr><tr><th scope="row">Variant form(s)</th><td><a href="#Variations">numerous</a></td></tr><tr><td colspan="2" style="text-align:center;border-top: #a2a9b1 1px solid;"><sup id="cite_ref-BRN_1-0" class="reference"><a href="#cite_note-BRN-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></td></tr></tbody></table>
-<p><b>Smith</b> is a <a href="/wiki/Surname" title="Surname">surname</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> originating in <a href="/wiki/England" title="England">England</a>. It is the most prevalent surname in the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><sup id="cite_ref-BRN_1-1" class="reference"><a href="#cite_note-BRN-1">&#91;1&#93;</a></sup> <a href="/wiki/Australia" title="Australia">Australia</a>, <a href="/wiki/Canada" title="Canada">Canada</a>, <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a> and the <a href="/wiki/United_States" title="United States">United States</a>,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> and the fifth most common surname in the <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Republic of Ireland</a>. The surname Smith is particularly prevalent among those of English, Scottish and Irish descent,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> but is also a common surname among <a href="/wiki/African_American" class="mw-redirect" title="African American">African Americans</a>, which can be attributed either to <a href="/wiki/Black_slaves" class="mw-redirect" title="Black slaves">black slaves</a> being given the surname during slavery and never changing the name upon the end of the <a href="/wiki/Slave_trade" class="mw-redirect" title="Slave trade">era of slavery</a> and after the issuance of the <a href="/wiki/Emancipation_Proclamation" title="Emancipation Proclamation">Emancipation Proclamation</a> or to descendants of interracial marriages.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Accuracy_dispute#Disputed_statement" title="Wikipedia:Accuracy dispute"><span title="The material near this tag is possibly inaccurate or nonfactual. (June 2017)">dubious</span></a>&#32;<span class="metadata"> &#8211; <a href="/wiki/Talk:Smith_(surname)#Occupation-based_names_common_among_freedmen_and_slaves" title="Talk:Smith (surname)">discuss</a></span></i>&#93;</sup> 2,376,206 Americans shared the surname Smith during the <a href="/wiki/2000_US_census" class="mw-redirect" title="2000 US census">2000 census</a>,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> and more than 500,000 people share it in the United Kingdom.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>  At the turn of the 20th century, the surname was sufficiently prevalent in England to have prompted the statement: "Common to every village in England, north, south, east and west";<sup id="cite_ref-Bardsley1901_10-0" class="reference"><a href="#cite_note-Bardsley1901-10">&#91;10&#93;</a></sup> and sufficiently common on the (European) continent (in various forms) to be "common in most countries of Europe".<sup id="cite_ref-Anderson1863_11-0" class="reference"><a href="#cite_note-Anderson1863-11">&#91;11&#93;</a></sup>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Shepherd</b>, <b>Shepard</b>, <b>Sheppard</b>, <b>Shephard</b> and <b>Shepperd</b> are <a href="/wiki/Surname" title="Surname">surnames</a> and <a href="/wiki/Given_name" title="Given name">given names</a>, and alternative spellings and <a href="/wiki/Cognate" title="Cognate">cognates</a> of the English word "Shepherd".
 </p>
 <div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Etymology_and_history"><span class="tocnumber">1</span> <span class="toctext">Etymology and history</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Geographical_distribution"><span class="tocnumber">2</span> <span class="toctext">Geographical distribution</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#Variations"><span class="tocnumber">3</span> <span class="toctext">Variations</span></a>
+<li class="toclevel-1 tocsection-1"><a href="#Shepherd"><span class="tocnumber">1</span> <span class="toctext">Shepherd</span></a>
 <ul>
-<li class="toclevel-2 tocsection-4"><a href="#English_variations"><span class="tocnumber">3.1</span> <span class="toctext">English variations</span></a></li>
-<li class="toclevel-2 tocsection-5"><a href="#Other_languages"><span class="tocnumber">3.2</span> <span class="toctext">Other languages</span></a>
-<ul>
-<li class="toclevel-3 tocsection-6"><a href="#Other_Germanic_languages"><span class="tocnumber">3.2.1</span> <span class="toctext">Other Germanic languages</span></a></li>
-<li class="toclevel-3 tocsection-7"><a href="#Romance_languages"><span class="tocnumber">3.2.2</span> <span class="toctext">Romance languages</span></a></li>
-<li class="toclevel-3 tocsection-8"><a href="#Celtic_languages"><span class="tocnumber">3.2.3</span> <span class="toctext">Celtic languages</span></a></li>
-<li class="toclevel-3 tocsection-9"><a href="#Slavic_languages"><span class="tocnumber">3.2.4</span> <span class="toctext">Slavic languages</span></a></li>
-<li class="toclevel-3 tocsection-10"><a href="#Other_European"><span class="tocnumber">3.2.5</span> <span class="toctext">Other European</span></a></li>
-<li class="toclevel-3 tocsection-11"><a href="#Other"><span class="tocnumber">3.2.6</span> <span class="toctext">Other</span></a></li>
+<li class="toclevel-2 tocsection-2"><a href="#Surname"><span class="tocnumber">1.1</span> <span class="toctext">Surname</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Given_name"><span class="tocnumber">1.2</span> <span class="toctext">Given name</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Fictional_Shepherds"><span class="tocnumber">1.3</span> <span class="toctext">Fictional Shepherds</span></a></li>
 </ul>
 </li>
+<li class="toclevel-1 tocsection-5"><a href="#Shepperd"><span class="tocnumber">2</span> <span class="toctext">Shepperd</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Surname_2"><span class="tocnumber">2.1</span> <span class="toctext">Surname</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Given_name_2"><span class="tocnumber">2.2</span> <span class="toctext">Given name</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Other_uses"><span class="tocnumber">2.3</span> <span class="toctext">Other uses</span></a></li>
 </ul>
 </li>
-<li class="toclevel-1 tocsection-12"><a href="#Notable_people"><span class="tocnumber">4</span> <span class="toctext">Notable people</span></a></li>
-<li class="toclevel-1 tocsection-13"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
-<li class="toclevel-1 tocsection-14"><a href="#Notes"><span class="tocnumber">6</span> <span class="toctext">Notes</span></a></li>
-<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Shephard"><span class="tocnumber">3</span> <span class="toctext">Shephard</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Surname_3"><span class="tocnumber">3.1</span> <span class="toctext">Surname</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Other_uses_2"><span class="tocnumber">3.2</span> <span class="toctext">Other uses</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Fictional_Shephards"><span class="tocnumber">3.3</span> <span class="toctext">Fictional Shephards</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Sheppard"><span class="tocnumber">4</span> <span class="toctext">Sheppard</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Surname_4"><span class="tocnumber">4.1</span> <span class="toctext">Surname</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Given_name_3"><span class="tocnumber">4.2</span> <span class="toctext">Given name</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Fictional_Sheppards"><span class="tocnumber">4.3</span> <span class="toctext">Fictional Sheppards</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Shepard"><span class="tocnumber">5</span> <span class="toctext">Shepard</span></a>
+<ul>
+<li class="toclevel-2 tocsection-18"><a href="#Surname_5"><span class="tocnumber">5.1</span> <span class="toctext">Surname</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Given_name_4"><span class="tocnumber">5.2</span> <span class="toctext">Given name</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Fictional_Shepards"><span class="tocnumber">5.3</span> <span class="toctext">Fictional Shepards</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
 </ul>
 </div>
 
-<h2><span class="mw-headline" id="Etymology_and_history">Etymology and history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smith_(surname)&amp;action=edit&amp;section=1" title="Edit section: Etymology and history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>The name refers to a <a href="/wiki/Metalsmith" title="Metalsmith">smith</a>, originally deriving from <i>smið</i> or <a href="https://en.wiktionary.org/wiki/smitan" class="extiw" title="wikt:smitan">smiþ</a>, the <a href="/wiki/Old_English" title="Old English">Old English</a> term meaning <i>one who works in metal</i> related to the word <i><a href="https://en.wiktionary.org/wiki/Smitan" class="extiw" title="wikt:Smitan">smitan</a></i>, the Old English form of <i>smite</i>, which also meant <i><a href="https://en.wiktionary.org/wiki/strike" class="extiw" title="wikt:strike">strike</a></i> (as in early 17th century Biblical English: the verb "to smite" = to hit). The Old English word <i>smiþ</i> comes from the <a href="/wiki/Proto-Germanic" class="mw-redirect" title="Proto-Germanic">Proto-Germanic</a> word <i>smiþaz</i>. <i>Smithy</i> comes from the Old English word <i>smiðē</i> from the Proto-Germanic <i>smiðjon</i>. The use of <i>Smith</i> as an <a href="/wiki/Occupational_surname" class="mw-redirect" title="Occupational surname">occupational surname</a> dates back to <a href="/wiki/Anglo-Saxon" class="mw-redirect" title="Anglo-Saxon">Anglo-Saxon</a> times, when inherited surnames were still unknown: Ecceard Smith of <a href="/wiki/County_Durham" title="County Durham">County Durham</a>, <a href="/wiki/North_East_England" title="North East England">North East England</a>, was recorded in 975.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
-</p><p>Although the name is derived from a common occupation, many later Smiths had no connection to that occupation, but adopted or were given the surname precisely because of its commonness. For example:
-</p>
-<ul><li>It is common for people in English-speaking countries to adopt the surname Smith in order to maintain a <a href="/wiki/Secret_identity" title="Secret identity">secret identity</a>, when they wish to avoid being found. Smith is an extremely common name among English <a href="/wiki/Romani_people" title="Romani people">Gypsies</a>; see also <a href="/wiki/John_Smith_(disambiguation)" class="mw-redirect mw-disambig" title="John Smith (disambiguation)">John Smith</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2010)">citation needed</span></a></i>&#93;</sup></li>
-<li>During the colonization of <a href="/wiki/North_America" title="North America">North America</a>, some <a href="/wiki/Indigenous_peoples_of_the_Americas" title="Indigenous peoples of the Americas">Native Americans</a> took the name for use in dealing with colonists.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2010)">citation needed</span></a></i>&#93;</sup></li>
-<li>During the period of <a href="/wiki/Slavery" title="Slavery">slavery</a> in the United States, many other slaves were known by the surname of their masters, or adopted those surnames upon their <a href="/wiki/Emancipation_Proclamation" title="Emancipation Proclamation">emancipation</a>.</li>
-<li>During the <a href="/wiki/World_war" title="World war">world wars</a>, many <a href="/wiki/German_American" class="mw-redirect" title="German American">German Americans</a> <a href="/wiki/Anglicise" class="mw-redirect" title="Anglicise">anglicised</a> the common and equivalent German surname <i><a href="/wiki/Schmidt_(surname)" title="Schmidt (surname)">Schmidt</a></i> or <i>Schmitz</i> to <i>Smith</i> to avoid discrimination.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2010)">citation needed</span></a></i>&#93;</sup></li></ul>
-<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Ellis_island_1902.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ellis_island_1902.jpg/200px-Ellis_island_1902.jpg" decoding="async" width="200" height="137" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ellis_island_1902.jpg/300px-Ellis_island_1902.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ellis_island_1902.jpg/400px-Ellis_island_1902.jpg 2x" data-file-width="1185" data-file-height="812" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Ellis_island_1902.jpg" class="internal" title="Enlarge"></a></div>Immigrants arriving at <a href="/wiki/Ellis_Island" title="Ellis Island">Ellis Island</a>; some chose more "American" surnames, like "Smith", on arrival.</div></div></div>
-<p>A popular misconception holds that at the beginning of the 20th century, when many new immigrants were entering the U.S., <a href="/wiki/Civil_servant" class="mw-redirect" title="Civil servant">civil servants</a> at <a href="/wiki/Ellis_Island" title="Ellis Island">Ellis Island</a> responsible for cataloging the entry of such persons sometimes arbitrarily assigned new surnames if the immigrants' original surname was particularly lengthy, or difficult for the processor to spell or pronounce.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2010)">citation needed</span></a></i>&#93;</sup> While such claims are likely vastly exaggerated,<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> many immigrants did choose to begin their American lives with more "American" names, particularly with <a href="/wiki/Anglicised" class="mw-redirect" title="Anglicised">Anglicised</a> versions of their birth names; the German <i>Schmidt</i> was often Anglicized to <i>Smith</i> not only during the <a href="/wiki/World_war" title="World war">world wars</a>, but also commonly in times of peace, and the equivalent <a href="/wiki/Polish_American" class="mw-redirect" title="Polish American">Polish</a> <i><a href="/wiki/Kowalski" title="Kowalski">Kowalski</a></i> was Anglicized to <i>Smith</i> as well.
-</p>
-<h2><span class="mw-headline" id="Geographical_distribution">Geographical distribution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smith_(surname)&amp;action=edit&amp;section=2" title="Edit section: Geographical distribution">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>As of 2014, 64.3% of all known bearers of the surname <i>Smith</i> were residents of the <a href="/wiki/United_States" title="United States">United States</a> (frequency 1:121), 13.7% of <a href="/wiki/England" title="England">England</a> (1:88), 4.2% of <a href="/wiki/Canada" title="Canada">Canada</a> (1:191), 4.0% of <a href="/wiki/Australia" title="Australia">Australia</a> (1:130), 3.9% of <a href="/wiki/South_Africa" title="South Africa">South Africa</a> (1:295), 1.4% of <a href="/wiki/Scotland" title="Scotland">Scotland</a> (1:84) and 1.0% of <a href="/wiki/Jamaica" title="Jamaica">Jamaica</a> (1:62).
-</p><p>In <a href="/wiki/Scotland" title="Scotland">Scotland</a>, the frequency of the surname was higher than average (1:84) in the following council areas:
-</p>
-<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
-<ul><li>1. <a href="/wiki/Shetland" title="Shetland">Shetland</a> (1:33)</li>
-<li>2. <a href="/wiki/Outer_Hebrides" title="Outer Hebrides">Outer Hebrides</a> (1:46)</li>
-<li>3. <a href="/wiki/Moray" title="Moray">Moray</a> (1:49)</li>
-<li>4. <a href="/wiki/Angus,_Scotland" title="Angus, Scotland">Angus</a> (1:50)</li>
-<li>5. <a href="/wiki/Aberdeenshire" title="Aberdeenshire">Aberdeenshire</a> (1:57)</li>
-<li>6. <a href="/wiki/Dundee" title="Dundee">Dundee</a> (1:70)</li>
-<li>7. <a href="/wiki/Aberdeen" title="Aberdeen">Aberdeen</a> (1:71)</li>
-<li>8. <a href="/wiki/East_Lothian" title="East Lothian">East Lothian</a> (1:75)</li>
-<li>9. <a href="/wiki/Perth_and_Kinross" title="Perth and Kinross">Perth and Kinross</a> (1:76)</li>
-<li>10. <a href="/wiki/Midlothian" title="Midlothian">Midlothian</a> (1:77)</li>
-<li>11. <a href="/wiki/Dumfries_and_Galloway" title="Dumfries and Galloway">Dumfries and Galloway</a> (1:77)</li>
-<li>12. <a href="/wiki/Fife" title="Fife">Fife</a> (1:82)</li>
-<li>13. <a href="/wiki/South_Lanarkshire" title="South Lanarkshire">South Lanarkshire</a> (1:83)</li></ul>
-</div>
-<p>In <a href="/wiki/England" title="England">England</a>, the frequency of the surname was higher than average (1:88) in the following counties:
-</p>
-<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
-<ul><li>1. <a href="/wiki/Lincolnshire" title="Lincolnshire">Lincolnshire</a> (1:61)</li>
-<li>2. <a href="/wiki/Worcestershire" title="Worcestershire">Worcestershire</a> (1:64)</li>
-<li>3. <a href="/wiki/Warwickshire" title="Warwickshire">Warwickshire</a> (1:67)</li>
-<li>4. <a href="/wiki/Nottinghamshire" title="Nottinghamshire">Nottinghamshire</a> (1:67)</li>
-<li>5. <a href="/wiki/Derbyshire" title="Derbyshire">Derbyshire</a> (1:67)</li>
-<li>6. <a href="/wiki/Norfolk" title="Norfolk">Norfolk</a> (1:68)</li>
-<li>7. <a href="/wiki/Suffolk" title="Suffolk">Suffolk</a> (1:69)</li>
-<li>8. <a href="/wiki/Rutland" title="Rutland">Rutland</a> (1:69)</li>
-<li>9. <a href="/wiki/East_Riding_of_Yorkshire" title="East Riding of Yorkshire">East Riding of Yorkshire</a> (1:69)</li>
-<li>10. <a href="/wiki/Essex" title="Essex">Essex</a> (1:70)</li>
-<li>11. <a href="/wiki/Leicestershire" title="Leicestershire">Leicestershire</a> (1:70)</li>
-<li>12. <a href="/wiki/Staffordshire" title="Staffordshire">Staffordshire</a> (1:71)</li>
-<li>13. <a href="/wiki/Northamptonshire" title="Northamptonshire">Northamptonshire</a> (1:72)</li>
-<li>14. <a href="/wiki/Herefordshire" title="Herefordshire">Herefordshire</a> (1:74)</li>
-<li>15. <a href="/wiki/Gloucestershire" title="Gloucestershire">Gloucestershire</a> (1:75)</li>
-<li>16. <a href="/wiki/North_Yorkshire" title="North Yorkshire">North Yorkshire</a> (1:77)</li>
-<li>17. <a href="/wiki/Isle_of_Wight" title="Isle of Wight">Isle of Wight</a> (1:78)</li>
-<li>18. <a href="/wiki/Kent" title="Kent">Kent</a> (1:78)</li>
-<li>19. <a href="/wiki/South_Yorkshire" title="South Yorkshire">South Yorkshire</a> (1:78)</li>
-<li>20. <a href="/wiki/Cambridgeshire" title="Cambridgeshire">Cambridgeshire</a> (1:80)</li>
-<li>21. <a href="/wiki/Northumberland" title="Northumberland">Northumberland</a> (1:81)</li>
-<li>22. <a href="/wiki/Hampshire" title="Hampshire">Hampshire</a> (1:82)</li>
-<li>23. <a href="/wiki/County_Durham" title="County Durham">Durham</a> (1:82)</li>
-<li>24. <a href="/wiki/West_Midlands_(county)" title="West Midlands (county)">West Midlands</a> (1:83)</li>
-<li>25. <a href="/wiki/Tyne_and_Wear" title="Tyne and Wear">Tyne and Wear</a> (1:83)</li>
-<li>26. <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a> (1:83)</li>
-<li>27. <a href="/wiki/Oxfordshire" title="Oxfordshire">Oxfordshire</a> (1:85)</li>
-<li>28. <a href="/wiki/Merseyside" title="Merseyside">Merseyside</a> (1:85)</li>
-<li>29. <a href="/wiki/Lancashire" title="Lancashire">Lancashire</a> (1:87)</li>
-<li>30. <a href="/wiki/Wiltshire" title="Wiltshire">Wiltshire</a> (1:88)</li></ul>
-</div>
-<p>In the <a href="/wiki/United_States" title="United States">United States</a>, the frequency of the surname was higher than average (1:121) in the following states:<sup id="cite_ref-smith2014_14-0" class="reference"><a href="#cite_note-smith2014-14">&#91;14&#93;</a></sup>
-</p>
-<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
-<ul><li>1. <a href="/wiki/Mississippi" title="Mississippi">Mississippi</a> (1:61)</li>
-<li>2. <a href="/wiki/Alabama" title="Alabama">Alabama</a> (1:69)</li>
-<li>3. <a href="/wiki/Arkansas" title="Arkansas">Arkansas</a> (1:74)</li>
-<li>4. <a href="/wiki/Tennessee" title="Tennessee">Tennessee</a> (1:80)</li>
-<li>5. <a href="/wiki/South_Carolina" title="South Carolina">South Carolina</a> (1:80)</li>
-<li>6. <a href="/wiki/North_Carolina" title="North Carolina">North Carolina</a> (1:83)</li>
-<li>7. <a href="/wiki/Kentucky" title="Kentucky">Kentucky</a> (1:83)</li>
-<li>8. <a href="/wiki/Oklahoma" title="Oklahoma">Oklahoma</a> (1:84)</li>
-<li>9. <a href="/wiki/West_Virginia" title="West Virginia">West Virginia</a> (1:87)</li>
-<li>10. <a href="/wiki/Georgia_(U.S._state)" title="Georgia (U.S. state)">Georgia</a> (1:88)</li>
-<li>11. <a href="/wiki/Louisiana" title="Louisiana">Louisiana</a> (1:91)</li>
-<li>12. <a href="/wiki/Indiana" title="Indiana">Indiana</a> (1:97)</li>
-<li>13. <a href="/wiki/Ohio" title="Ohio">Ohio</a> (1:102)</li>
-<li>14. <a href="/wiki/Maryland" title="Maryland">Maryland</a> (1:104)</li>
-<li>15. <a href="/wiki/Virginia" title="Virginia">Virginia</a> (1:105)</li>
-<li>16. <a href="/wiki/Kansas" title="Kansas">Kansas</a> (1:106)</li>
-<li>17. <a href="/wiki/Missouri" title="Missouri">Missouri</a> (1:106)</li>
-<li>18. <a href="/wiki/Idaho" title="Idaho">Idaho</a> (1:106)</li>
-<li>19. <a href="/wiki/Utah" title="Utah">Utah</a> (1:108)</li>
-<li>20. <a href="/wiki/Michigan" title="Michigan">Michigan</a> (1:111)</li>
-<li>21. <a href="/wiki/Delaware" title="Delaware">Delaware</a> (1:113)</li>
-<li>22. <a href="/wiki/Maine" title="Maine">Maine</a> (1:114)</li>
-<li>23. <a href="/wiki/Wyoming" title="Wyoming">Wyoming</a> (1:118)</li>
-<li>24. <a href="/wiki/Oregon" title="Oregon">Oregon</a> (1:118)</li></ul>
-</div>
-<h2><span class="mw-headline" id="Variations">Variations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smith_(surname)&amp;action=edit&amp;section=3" title="Edit section: Variations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Variations of the surname Smith also remain very common. These include different spellings of the English term, and versions in other languages.
-</p>
-<h3><span class="mw-headline" id="English_variations">English variations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smith_(surname)&amp;action=edit&amp;section=4" title="Edit section: English variations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>There is some disagreement about the origins of the numerous variations of the name Smith. The addition of an <i>e</i> at the end of the name is sometimes considered an affectation, but may have arisen either as an attempt to spell <i>smithy</i> or as the Middle English adjectival form of <i>smith</i>,<sup id="cite_ref-cottle_15-0" class="reference"><a href="#cite_note-cottle-15">&#91;15&#93;</a></sup> which would have been used in surnames based on location rather than occupation (in other words, for someone living near or at the smithy).<sup id="cite_ref-Lower1860_16-0" class="reference"><a href="#cite_note-Lower1860-16">&#91;16&#93;</a></sup> Likewise, the replacement of the <i>i</i> with a <i>y</i> in <i>Smyth</i> or <i>Smythe</i> is also often considered an affectation but may have originally occurred because of the difficulty of reading <a href="/wiki/Blackletter" title="Blackletter">blackletter</a> text, where <i>Smith</i> might look like <i>Snuth</i> or <i>Simth</i>.<sup id="cite_ref-cottle_15-1" class="reference"><a href="#cite_note-cottle-15">&#91;15&#93;</a></sup> However, Charles Bardsley wrote in 1901, "The y in Smyth is the almost invariable spelling in early rolls, so that it cannot exactly be styled a modern affectation."<sup id="cite_ref-Bardsley1901_10-1" class="reference"><a href="#cite_note-Bardsley1901-10">&#91;10&#93;</a></sup> Some variants (such as <a href="/wiki/Smijth" class="mw-redirect" title="Smijth">Smijth</a>) were adopted by individuals for personal reasons, while others may have arisen independently or as offshoots from the <i>Smith</i> root. Names such as <a href="/wiki/Smither" title="Smither">Smither</a> and <a href="/wiki/Smithers_(name)" class="mw-redirect" title="Smithers (name)">Smithers</a> may in some cases be variants of <i>Smith</i> but in others independent surnames based on a meaning of <i>light and active</i> attributed to <i><a href="https://en.wiktionary.org/wiki/smyther" class="extiw" title="wikt:smyther">smyther</a></i>.<sup id="cite_ref-Lower1860_16-1" class="reference"><a href="#cite_note-Lower1860-16">&#91;16&#93;</a></sup> Additional derivatives include Smithman, Smithson and Smithfield (see below).<sup id="cite_ref-Lower1860_16-2" class="reference"><a href="#cite_note-Lower1860-16">&#91;16&#93;</a></sup> Athersmith may derive from <i>at the Smith</i>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
-</p><p>Other variations focus on specialisms within the profession; for example <a href="/wiki/Blacksmith" title="Blacksmith">Blacksmith</a>, from those who worked predominantly with iron, <a href="/wiki/Whitesmith" title="Whitesmith">Whitesmith</a>, from those who worked with tin (and the more obvious <a href="/wiki/Tinsmith" title="Tinsmith">Tinsmith</a>), Brownsmith and Redsmith, from those who worked with copper (<a href="/wiki/Coppersmith" title="Coppersmith">Coppersmith</a> and Greensmith; copper is green when oxidised), <a href="/wiki/Silversmith" title="Silversmith">Silversmith</a> and <a href="/wiki/Goldsmith" title="Goldsmith">Goldsmith</a> – and those based on the goods produced, such as Hammersmith, <a href="/wiki/Bladesmith" title="Bladesmith">Bladesmith</a>, Naismith (<a href="/wiki/Nail_(fastener)" title="Nail (fastener)">nail</a>-smith), Arrowsmith which in turn was shortened to Arsmith,<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> or <a href="/wiki/Shoesmith" title="Shoesmith">Shoesmith</a> (referring to <a href="/wiki/Horseshoe" title="Horseshoe">horseshoes</a>).<sup id="cite_ref-Lower1860_16-3" class="reference"><a href="#cite_note-Lower1860-16">&#91;16&#93;</a></sup> <a href="/wiki/Sixsmith" title="Sixsmith">Sixsmith</a> is variant spelling of a <a href="/wiki/Sickle" title="Sickle">sickle</a>- or <a href="/wiki/Scythe" title="Scythe">scythe</a>-smith.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> Wildsmith in turn is a corruption of wheelsmith<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
-</p><p>The <a href="/wiki/Patronymic" title="Patronymic">patronymic</a> practice of attaching <i>son</i> to the end of a name to indicate that the bearer is the child of the original holder has also led to the surnames <a href="/wiki/Smithson" title="Smithson">Smithson</a> and Smisson. Historically, "Smitty" has been a common nickname given to someone with the surname, Smith; in some instances, this usage has passed into "Smitty" being used as a surname itself.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Other_languages">Other languages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smith_(surname)&amp;action=edit&amp;section=5" title="Edit section: Other languages">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Other languages with different words for the occupation of "smith" or "blacksmith" also produced surnames based on that root.
-</p>
-<h4><span class="mw-headline" id="Other_Germanic_languages">Other Germanic languages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smith_(surname)&amp;action=edit&amp;section=6" title="Edit section: Other Germanic languages">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
-<ul><li><a href="/wiki/German_language" title="German language">German</a>: <a href="/wiki/Schmid" title="Schmid">Schmid</a>, <a href="/wiki/Schmidt_(surname)" title="Schmidt (surname)">Schmidt</a>, <a href="/wiki/Schmitt_(disambiguation)" class="mw-redirect mw-disambig" title="Schmitt (disambiguation)">Schmitt</a>, <a href="/wiki/Schmitz" title="Schmitz">Schmitz</a>, Schmith, <a href="/wiki/Schmied" title="Schmied">Schmied</a>,<sup id="cite_ref-Anderson1863_11-1" class="reference"><a href="#cite_note-Anderson1863-11">&#91;11&#93;</a></sup> <a href="/wiki/Schmick" title="Schmick">Schmick</a></li>
-<li><a href="/wiki/Yiddish_language" class="mw-redirect" title="Yiddish language">Yiddish</a>: <a href="/wiki/Schmidt_(surname)" title="Schmidt (surname)">Schmidt</a> (שמידט), <a href="/wiki/Schmitt_(disambiguation)" class="mw-redirect mw-disambig" title="Schmitt (disambiguation)">Schmitt</a> (שמיט), <a href="/wiki/Schmitz" title="Schmitz">Schmitz</a> (שמיץ)</li>
-<li><a href="/wiki/Dutch_language" title="Dutch language">Southern Dutch</a>: De Smid, De Smedt, Desmedt, <a href="/wiki/De_Smet_(surname)" title="De Smet (surname)">De Smet</a>, Desmet, <a href="/wiki/Smeets" title="Smeets">Smeets</a>, Smets</li>
-<li><a href="/wiki/Dutch_language" title="Dutch language">Northern Dutch</a> and <a href="/wiki/Afrikaans" title="Afrikaans">Afrikaans</a>: <a href="/wiki/Smit" title="Smit">Smit</a>, <a href="/wiki/Smits" title="Smits">Smits</a>, Smid, Smidt, Smed, De Smet</li>
-<li><a href="/wiki/Danish_language" title="Danish language">Danish</a>, <a href="/wiki/Norwegian_language" title="Norwegian language">Norwegian</a> and <a href="/wiki/Swedish_language" title="Swedish language">Swedish</a>: Smed</li></ul>
-<h4><span class="mw-headline" id="Romance_languages">Romance languages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smith_(surname)&amp;action=edit&amp;section=7" title="Edit section: Romance languages">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
-<p>Words derived from the <a href="/wiki/Latin" title="Latin">Latin</a> term for smith (literally "one who works with iron"), such as the <a href="/wiki/Italian_language" title="Italian language">Italian</a> words <i>fabbro</i> and <i>ferraio</i>, are the root of last names common in several parts of Europe.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2010)">citation needed</span></a></i>&#93;</sup>
-</p>
-<ul><li><a href="/wiki/Italian_language" title="Italian language">Italian</a>: Fabbri, Fabbro, Fabris, Ferrara, <a href="/wiki/Ferraro" title="Ferraro">Ferraro</a>, Ferrari, Ferrera, Ferrero</li>
-<li><a href="/wiki/French_language" title="French language">French</a>: <a href="/wiki/Lefebvre" title="Lefebvre">Lefebvre</a>, <a href="/wiki/Lef%C3%A8vre" title="Lefèvre">Lefèvre</a>, <a href="/wiki/Lefeuvre" title="Lefeuvre">Lefeuvre</a>, <a href="/wiki/Lef%C3%A9bure" title="Lefébure">Lefébure</a>, <a href="/wiki/Favre" title="Favre">Favre</a>, <a href="/wiki/Faber_(disambiguation)" class="mw-redirect mw-disambig" title="Faber (disambiguation)">Faber</a>, <a href="/wiki/Fabre" title="Fabre">Fabre</a>, <a href="/wiki/Fabr%C3%A9" class="mw-redirect" title="Fabré">Fabré</a>, <a href="/wiki/Faure" title="Faure">Faure</a>, <a href="/wiki/Faur%C3%A9" title="Fauré">Fauré</a>, Favret, Favrette, or <a href="/wiki/Dufaure" class="mw-redirect" title="Dufaure">Dufaure</a>, <a href="/wiki/Feaver" title="Feaver">Feaver</a> (<i>anglicisation</i>)</li>
-<li><a href="/wiki/Spanish_language" title="Spanish language">Spanish</a>: <a href="/wiki/Herrero" title="Herrero">Herrero</a>, <a href="/wiki/Herrera_(surname)" title="Herrera (surname)">Herrera</a>, <a href="/wiki/Ferrero" title="Ferrero">Ferrero</a></li>
-<li><a href="/wiki/Romanian_language" title="Romanian language">Romanian</a>: Feraru, Fieraru</li>
-<li><a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>: Ferreiro, <a href="/wiki/Ferreira_(surname)" title="Ferreira (surname)">Ferreira</a></li>
-<li><a href="/wiki/Catalan_language" title="Catalan language">Catalan</a>: <a href="/wiki/Ferrer_(surname)" title="Ferrer (surname)">Ferrer</a>, Ferré, Farré, Fabre, Fabra</li>
-<li><a href="/wiki/Latin_language" class="mw-redirect" title="Latin language">Latin</a>: <a href="/wiki/Faber_(surname)" title="Faber (surname)">Faber</a></li></ul>
-<h4><span class="mw-headline" id="Celtic_languages">Celtic languages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smith_(surname)&amp;action=edit&amp;section=8" title="Edit section: Celtic languages">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
-<p>In <a href="/wiki/Ireland" title="Ireland">Ireland</a> and <a href="/wiki/Scotland" title="Scotland">Scotland</a>, the word for smith, <i>gobha</i>, is found in the surname "MacGouren"/<i>MacGouran</i>/<i>MacGowan</i>/<i><a href="/wiki/McGowan" title="McGowan">McGowan</a></i>. This surname is an Anglicised form of <i>Mac a' Ghobhainn</i> (<a href="/wiki/Scottish_Gaelic" title="Scottish Gaelic">Scottish Gaelic</a>), <i>Mac Gabhann</i> (<a href="/wiki/Irish_(language)" class="mw-redirect" title="Irish (language)">Irish</a>), meaning "son of the smith".<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup> In England the surname <a href="/wiki/Goff" title="Goff">Goff</a>, which is common in <a href="/wiki/East_Anglia" title="East Anglia">East Anglia</a>, is derived from the <a href="/wiki/Breton_language" title="Breton language">Breton</a> and <a href="/wiki/Cornish_language" title="Cornish language">Cornish</a> <i>goff</i> a cognate of the <a href="/wiki/Gaelic_languages" class="mw-redirect" title="Gaelic languages">Gaelic</a> <i>gobha</i>. This particular surname was brought to England by migrant <a href="/wiki/Breton_people" class="mw-redirect" title="Breton people">Bretons</a>, following the <a href="/wiki/Norman_Conquest_of_England" class="mw-redirect" title="Norman Conquest of England">Norman Conquest of England</a>.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
-</p>
-<ul><li><a href="/wiki/Cornish_language" title="Cornish language">Cornish</a>: <a href="/wiki/Angove" title="Angove">Angove</a> (an Gov), <a href="/wiki/Goff" title="Goff">Goff</a>, Goffe, Trengove</li></ul>
-<h4><span class="mw-headline" id="Slavic_languages">Slavic languages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smith_(surname)&amp;action=edit&amp;section=9" title="Edit section: Slavic languages">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
-<ul><li><a href="/wiki/Belarusian_language" title="Belarusian language">Belarusian</a>: Kavalou (Кавалёў), <a href="/wiki/Koval_(surname)" title="Koval (surname)">Koval</a> (Коваль), Kavalonak (Кавалёнак), Kavaluk (Кавалюк), Kavalevič (Кавалевіч)</li>
-<li><a href="/wiki/Russian_language" title="Russian language">Russian</a>: <a href="/wiki/Kovalyov" title="Kovalyov">Kovalyov</a> (Ковалёв), <a href="/wiki/Kuznetsov" title="Kuznetsov">Kuznetsov</a> (Кузнецов)</li>
-<li><a href="/wiki/Bosnian_language" title="Bosnian language">Bosnian</a>: <a href="/wiki/Kova%C4%8D_(surname)" title="Kovač (surname)">Kovač</a>, <a href="/wiki/Kova%C4%8Di%C4%87_(surname)" title="Kovačić (surname)">Kovačić</a>, <a href="/wiki/Kova%C4%8Devi%C4%87" title="Kovačević">Kovačević</a></li>
-<li><a href="/wiki/Bulgarian_language" title="Bulgarian language">Bulgarian</a>: <a href="/wiki/Kovachev" title="Kovachev">Kovachev</a> (Ковачев)</li>
-<li><a href="/wiki/Croatian_language" title="Croatian language">Croatian</a>: <a href="/wiki/Kova%C4%8D_(surname)" title="Kovač (surname)">Kovač</a>, <a href="/wiki/Kova%C4%8Di%C4%87_(surname)" title="Kovačić (surname)">Kovačić</a>, <a href="/wiki/Kova%C4%8Devi%C4%87" title="Kovačević">Kovačević</a>, <a href="/wiki/Kova%C4%8Dev" title="Kovačev">Kovačev</a>, <a href="/wiki/Kova%C4%8Dec" title="Kovačec">Kovačec</a>, Kovaček</li>
-<li><a href="/wiki/Czech_language" title="Czech language">Czech</a>: <a href="/wiki/Kov%C3%A1%C5%99" title="Kovář">Kovář</a></li>
-<li><a href="/wiki/Macedonian_language" title="Macedonian language">Macedonian</a>: <a href="/wiki/Kova%C4%8Devski" class="mw-redirect" title="Kovačevski">Kovačevski</a> (Ковачевски), <a href="/wiki/Kova%C4%8Dev" title="Kovačev">Kovačev</a> (Ковачев)</li>
-<li><a href="/wiki/Slovak_language" title="Slovak language">Slovak</a>: <a href="/wiki/Kov%C3%A1%C4%8D" class="mw-redirect" title="Kováč">Kováč</a> and derived <a href="/wiki/Kov%C3%A1%C4%8Dik" class="mw-redirect" title="Kováčik">Kováčik</a>, <a href="/wiki/Kova%C4%8Dovi%C4%8D" class="mw-redirect" title="Kovačovič">Kovačovič</a></li>
-<li><a href="/wiki/Polish_language" title="Polish language">Polish</a>: <a href="/wiki/Kowal_(surname)" title="Kowal (surname)">Kowal</a> and its place name derivative <a href="/wiki/Kowalski" title="Kowalski">Kowalski</a>, and patronymics Kowalik, Kowalczyk and Kowalewski</li>
-<li><a href="/wiki/Serbian_language" title="Serbian language">Serbian</a>: <a href="/wiki/Kova%C4%8Devi%C4%87" title="Kovačević">Kovačević</a> (Ковачевић), <a href="/wiki/Kova%C4%8D_(surname)" title="Kovač (surname)">Kovač</a> (Ковач), <a href="/wiki/Kova%C4%8Dev" title="Kovačev">Kovačev</a> (Ковачев)</li>
-<li><a href="/wiki/Slovenian_language" class="mw-redirect" title="Slovenian language">Slovenian</a>: <a href="/wiki/Kova%C4%8D_(surname)" title="Kovač (surname)">Kovač</a>, <a href="/wiki/Kova%C4%8Di%C4%8D" class="mw-redirect" title="Kovačič">Kovačič</a></li>
-<li><a href="/wiki/Ukrainian_language" title="Ukrainian language">Ukrainian</a>: <a href="/wiki/Kovalenko" title="Kovalenko">Kovalenko</a> (Коваленко), <a href="/wiki/Kovalchuk" title="Kovalchuk">Kovalchuk</a> (Ковальчук), <a href="/wiki/Koval_(surname)" title="Koval (surname)">Koval</a> (Коваль)</li></ul>
-<h4><span class="mw-headline" id="Other_European">Other European</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smith_(surname)&amp;action=edit&amp;section=10" title="Edit section: Other European">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
-<ul><li><a href="/wiki/Greek_language" title="Greek language">Greek</a>: Sideras (Σιδεράς)</li>
-<li><a href="/wiki/Hungarian_language" title="Hungarian language">Hungarian</a>: <a href="/wiki/Kov%C3%A1cs" title="Kovács">Kovács</a></li>
-<li><a href="/wiki/Latvian_language" title="Latvian language">Latvian</a>: <a href="/wiki/Kal%C4%93js" title="Kalējs">Kalējs</a></li>
-<li><a href="/wiki/Lithuanian_language" title="Lithuanian language">Lithuanian</a>: <a href="/wiki/Kalvaitis" title="Kalvaitis">Kalvaitis</a>, <a href="/wiki/Kavaliauskas" title="Kavaliauskas">Kavaliauskas</a></li></ul>
-<h4><span class="mw-headline" id="Other">Other</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smith_(surname)&amp;action=edit&amp;section=11" title="Edit section: Other">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
-<ul><li><a href="/wiki/Arabic_language" class="mw-redirect" title="Arabic language">Arabic</a>: <a href="/wiki/Haddad" title="Haddad">Haddad</a> (حداد)</li>
-<li><a href="/wiki/Albanian_language" title="Albanian language">Albanian</a>: Nallbani</li>
-<li><a href="/wiki/Azerbaijan_language" class="mw-redirect" title="Azerbaijan language">Azerbaijani</a>: Dəmirçi</li>
-<li><a href="/wiki/Aramaic_language" class="mw-redirect" title="Aramaic language">Aramaic</a>: Haddad</li>
-<li><a href="/wiki/Armenian_language" title="Armenian language">Armenian</a>: <a href="/wiki/Darbinyan" title="Darbinyan">Darbinyan</a>, Tarpinyan (Դարբինյան, Տարպինյան)</li>
-<li><a href="/wiki/Balinese_language" title="Balinese language">Balinese</a>: Pande</li>
-<li><a href="/wiki/Bengali_language" title="Bengali language">Bengali</a>: <a href="/wiki/Karmakar" title="Karmakar">Karmakar</a> (কর্মকার)</li>
-<li><a href="/wiki/Estonian_language" title="Estonian language">Estonian</a>: Sepp</li>
-<li><a href="/wiki/Finnish_language" title="Finnish language">Finnish</a>: Seppä, Seppälä, Seppänen</li>
-<li><a href="/wiki/Georgian_language" title="Georgian language">Georgian</a>: Mchedlidze, Mchedlishvili (მჭედლიძე, მჭედლიშვილი)</li>
-<li><a href="/wiki/Hindi" title="Hindi">Hindi</a>: <a href="/wiki/Lohar" title="Lohar">Lohar</a> (लोहार)</li>
-<li><a href="/wiki/Japanese_language" title="Japanese language">Japanese</a>: Kajiya (鍛冶屋)</li>
-<li><a href="/wiki/Lingala_language" class="mw-redirect" title="Lingala language">Lingala</a>: Motuli</li>
-<li><a href="/wiki/Median_language" title="Median language">Median</a>: <a href="/w/index.php?title=Esmi_(disambiguation)&amp;action=edit&amp;redlink=1" class="new" title="Esmi (disambiguation) (page does not exist)">Esmi</a></li>
-<li><a href="/wiki/Nepali_language" title="Nepali language">Nepali</a>: <a href="/wiki/Kami_(caste)" title="Kami (caste)">Kami</a> (कामी)</li>
-<li><a href="/wiki/Persian_language" title="Persian language">Persian</a>: <a href="/wiki/Zargar_(disambiguation)" class="mw-redirect mw-disambig" title="Zargar (disambiguation)">Zargar</a> (زرگر)</li>
-<li><a href="/wiki/Punjabi_language" title="Punjabi language">Punjabi</a>: <a href="/wiki/Lohar" title="Lohar">Lohar</a> (ਲੋਹਾਰ/لوہار)</li>
-<li><a href="/wiki/Syriac_language" title="Syriac language">Syriac</a>: <a href="/wiki/Hadodo" title="Hadodo">Hadodo</a> (ܚܕܕܐ), Hadad, <a href="/wiki/Haddad" title="Haddad">Haddad</a><sup id="cite_ref-Anderson1863_11-2" class="reference"><a href="#cite_note-Anderson1863-11">&#91;11&#93;</a></sup></li>
-<li><a href="/wiki/Turkish_language" title="Turkish language">Turkish</a>: Demirci</li></ul>
-<h2><span class="mw-headline" id="Notable_people">Notable people</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smith_(surname)&amp;action=edit&amp;section=12" title="Edit section: Notable people">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/List_of_people_with_surname_Smith" title="List of people with surname Smith">List of people with surname Smith</a></div>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smith_(surname)&amp;action=edit&amp;section=13" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/List_of_most_common_surnames_in_Europe" title="List of most common surnames in Europe">List of most common surnames in Europe</a></li>
-<li><a href="/wiki/Smith_Family_(disambiguation)" class="mw-redirect mw-disambig" title="Smith Family (disambiguation)">Smith Family (disambiguation)</a></li>
-<li><a href="/wiki/Smyth" title="Smyth">Smyth</a></li>
-<li><a href="/wiki/Smythe_(disambiguation)" class="mw-redirect mw-disambig" title="Smythe (disambiguation)">Smythe (disambiguation)</a></li>
-<li><a href="/wiki/Smith_(taxonomic_authority)" class="mw-redirect" title="Smith (taxonomic authority)">Smith (taxonomic authority)</a></li>
-<li><a href="/wiki/Smith_and_Jones_(disambiguation)" class="mw-redirect mw-disambig" title="Smith and Jones (disambiguation)">Smith and Jones (disambiguation)</a></li>
-<li><a href="/wiki/Smithson" title="Smithson">Smithson</a> (son of Smith)</li>
-<li><a href="/wiki/Psmith" title="Psmith">Psmith</a></li>
-<li><a href="/wiki/Admiral_Smith_(disambiguation)" class="mw-redirect mw-disambig" title="Admiral Smith (disambiguation)">Admiral Smith (disambiguation)</a></li>
-<li><a href="/wiki/Doctor_Smith_(disambiguation)" class="mw-redirect mw-disambig" title="Doctor Smith (disambiguation)">Doctor Smith (disambiguation)</a></li>
-<li><a href="/wiki/General_Smith_(disambiguation)" class="mw-redirect mw-disambig" title="General Smith (disambiguation)">General Smith (disambiguation)</a></li>
-<li><a href="/wiki/Governor_Smith_(disambiguation)" class="mw-redirect mw-disambig" title="Governor Smith (disambiguation)">Governor Smith (disambiguation)</a></li>
-<li><a href="/wiki/Judge_Smith_(disambiguation)" class="mw-disambig" title="Judge Smith (disambiguation)">Judge Smith (disambiguation)</a></li>
-<li><a href="/wiki/Justice_Smith_(disambiguation)" class="mw-disambig" title="Justice Smith (disambiguation)">Justice Smith (disambiguation)</a></li>
-<li><a href="/wiki/Mayor_Smith_(disambiguation)" class="mw-redirect mw-disambig" title="Mayor Smith (disambiguation)">Mayor Smith (disambiguation)</a></li>
-<li><a href="/wiki/President_Smith_(disambiguation)" class="mw-redirect mw-disambig" title="President Smith (disambiguation)">President Smith (disambiguation)</a></li>
-<li><a href="/wiki/Reverend_Smith_(disambiguation)" class="mw-redirect mw-disambig" title="Reverend Smith (disambiguation)">Reverend Smith (disambiguation)</a></li>
-<li><a href="/wiki/Sgt._Smith_(disambiguation)" class="mw-redirect mw-disambig" title="Sgt. Smith (disambiguation)">Sgt. Smith (disambiguation)</a></li></ul>
-<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smith_(surname)&amp;action=edit&amp;section=14" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="reflist" style="list-style-type: decimal;">
-<div class="mw-references-wrap mw-references-columns"><ol class="references">
-<li id="cite_note-BRN-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-BRN_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BRN_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Services, Good Stuff IT. <a rel="nofollow" class="external text" href="http://www.britishsurnames.co.uk/surname/smith/">"Smith surname meaning, origin, etymology and distribution in Great Britain"</a>. <i>Britishsurnames.co.uk</i><span class="reference-accessdate">. Retrieved <span class="nowrap">8 October</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Britishsurnames.co.uk&amp;rft.atitle=Smith+surname+meaning%2C+origin%2C+etymology+and+distribution+in+Great+Britain&amp;rft.aulast=Services&amp;rft.aufirst=Good+Stuff+IT&amp;rft_id=http%3A%2F%2Fwww.britishsurnames.co.uk%2Fsurname%2Fsmith%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmith+%28surname%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
-</li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20050330030604/http://www.census.gov/genealogy/names/names_files.html">"1990 Census Name Files"</a>. <i>Web.archive.org</i>. 30 March 2005<span class="reference-accessdate">. Retrieved <span class="nowrap">8 October</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Web.archive.org&amp;rft.atitle=1990+Census+Name+Files&amp;rft.date=2005-03-30&amp;rft_id=https%3A%2F%2Fweb.archive.org%2Fweb%2F20050330030604%2Fhttp%3A%2F%2Fwww.census.gov%2Fgenealogy%2Fnames%2Fnames_files.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmith+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://genealogy.about.com/od/surname_meaning/p/smith.htm">"SMITH - Surname Meaning and Origin"</a>. <i>Genealogy.about.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">8 October</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Genealogy.about.com&amp;rft.atitle=SMITH+-+Surname+Meaning+and+Origin&amp;rft_id=http%3A%2F%2Fgenealogy.about.com%2Fod%2Fsurname_meaning%2Fp%2Fsmith.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmith+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.surnamemap.eu/unitedkingdom/surnames_ranking.php">"UK surnames ranking"</a>. <i>Surname Map of UK</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Surname+Map+of+UK&amp;rft.atitle=UK+surnames+ranking&amp;rft_id=https%3A%2F%2Fwww.surnamemap.eu%2Funitedkingdom%2Fsurnames_ranking.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmith+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20071119144227/http://www.census.gov/genealogy/www/freqnames2k.html">"Genealogy - Frequently Occurring Surnames From Census 2000"</a>. <i>Web.archive.org</i>. 19 November 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">8 October</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Web.archive.org&amp;rft.atitle=Genealogy+-+Frequently+Occurring+Surnames+From+Census+2000&amp;rft.date=2007-11-19&amp;rft_id=https%3A%2F%2Fweb.archive.org%2Fweb%2F20071119144227%2Fhttp%3A%2F%2Fwww.census.gov%2Fgenealogy%2Fwww%2Ffreqnames2k.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmith+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Citation: Brooke, 2006.</span>
-</li>
-<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Franklin Carter Smith, Emily Anne Croom, <i>A Genealogist's Guide to Discovering Your <a href="/wiki/African-American" class="mw-redirect" title="African-American">African-American</a> Ancestors</i> (2009), p. 109-110.</span>
-</li>
-<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a href="/wiki/United_States_Census_Bureau" title="United States Census Bureau">United States Census Bureau</a>. "<a rel="nofollow" class="external text" href="https://www.census.gov/topics/population/genealogy/data/2000_surnames.html">Genealogy Data: Frequently Occurring Surnames from Census 2000</a>". 27 September 2011. Accessed 29 March 2012.</span>
-</li>
-<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.ucl.ac.uk/news/news-articles/0601/06011801">"Surname Profiler"</a>. <i>Ucl.ac.uk</i><span class="reference-accessdate">. Retrieved <span class="nowrap">8 October</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ucl.ac.uk&amp;rft.atitle=Surname+Profiler&amp;rft_id=https%3A%2F%2Fwww.ucl.ac.uk%2Fnews%2Fnews-articles%2F0601%2F06011801&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmith+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-Bardsley1901-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bardsley1901_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bardsley1901_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Bardsley. <i>English and Welsh Surnames</i>. 1901.</span>
-</li>
-<li id="cite_note-Anderson1863-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Anderson1863_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Anderson1863_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Anderson1863_11-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Citation: Anderson, 1863.</span>
-</li>
-<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Citation: Simpson, 2007.</span>
-</li>
-<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://uscis.gov/graphics/aboutus/history/articles/NameEssay.html">USCIS Home Page</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20051222115035/http://uscis.gov/graphics/aboutus/history/articles/nameessay.html">Archived</a> 22 December 2005 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
-</li>
-<li id="cite_note-smith2014-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-smith2014_14-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://forebears.co.uk/surnames/smith#surnames">Smith surname distribution</a></span>
-</li>
-<li id="cite_note-cottle-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-cottle_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-cottle_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Cottle, Basil. <i>Penguin Dictionary of Surnames.</i> Baltimore, MD: Penguin Books, 1967.</span>
-</li>
-<li id="cite_note-Lower1860-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-Lower1860_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Lower1860_16-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Lower1860_16-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Lower1860_16-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Citation: Lower, 1860.</span>
-</li>
-<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.surnamedb.com/Surname/Athersmith">"Surname Database: Athersmith Last Name Origin"</a>. <i>The Internet Surname Database</i><span class="reference-accessdate">. Retrieved <span class="nowrap">8 October</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Internet+Surname+Database&amp;rft.atitle=Surname+Database%3A+Athersmith+Last+Name+Origin&amp;rft_id=http%3A%2F%2Fwww.surnamedb.com%2FSurname%2FAthersmith&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmith+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.surnamedb.com/Surname/Arsmith">"Surname Database: Arsmith Last Name Origin"</a>. <i>The Internet Surname Database</i><span class="reference-accessdate">. Retrieved <span class="nowrap">8 October</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Internet+Surname+Database&amp;rft.atitle=Surname+Database%3A+Arsmith+Last+Name+Origin&amp;rft_id=http%3A%2F%2Fwww.surnamedb.com%2FSurname%2FArsmith&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmith+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.surnamedb.com/Surname/Sixsmith">"Surname Database: Sixsmith Last Name Origin"</a>. <i>The Internet Surname Database</i><span class="reference-accessdate">. Retrieved <span class="nowrap">8 October</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Internet+Surname+Database&amp;rft.atitle=Surname+Database%3A+Sixsmith+Last+Name+Origin&amp;rft_id=http%3A%2F%2Fwww.surnamedb.com%2FSurname%2FSixsmith&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmith+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.surnamedb.com/Surname/Wildsmith">"Surname Database: Wildsmith Last Name Origin"</a>. <i>The Internet Surname Database</i><span class="reference-accessdate">. Retrieved <span class="nowrap">8 October</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Internet+Surname+Database&amp;rft.atitle=Surname+Database%3A+Wildsmith+Last+Name+Origin&amp;rft_id=http%3A%2F%2Fwww.surnamedb.com%2FSurname%2FWildsmith&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmith+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Elsdon Coles Smith, <i>The Book of Smith</i> (1979), p. 195, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0399503935" title="Special:BookSources/0399503935">0399503935</a>.</span>
-</li>
-<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ancestry.com/facts/mcgowan-family-history.ashx">"Mcgowan Name Meaning &amp; Mcgowan Family History at Ancestry.com"</a>. <i>Ancestry.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">8 October</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ancestry.com&amp;rft.atitle=Mcgowan+Name+Meaning+%26+Mcgowan+Family+History+at+Ancestry.com&amp;rft_id=http%3A%2F%2Fwww.ancestry.com%2Ffacts%2Fmcgowan-family-history.ashx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmith+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ancestry.com/facts/Goff-family-history.ashx">"Goff Name Meaning &amp; Goff Family History at Ancestry.com"</a>. <i>Ancestry.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">8 October</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ancestry.com&amp;rft.atitle=Goff+Name+Meaning+%26+Goff+Family+History+at+Ancestry.com&amp;rft_id=http%3A%2F%2Fwww.ancestry.com%2Ffacts%2FGoff-family-history.ashx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmith+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-</ol></div></div>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smith_(surname)&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<style data-mw-deduplicate="TemplateStyles:r886047268">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin" style="">
-<ul><li><cite class="citation book"><a href="/wiki/William_Anderson_(Scottish_writer)" title="William Anderson (Scottish writer)">Anderson, William</a> (1863). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=3rQEAAAAIAAJ"><i>The Scottish Nation (Volume 3: MAC to ZET)</i></a> <span class="cs1-format">(PDF)</span>. Edinburgh: <a href="/w/index.php?title=A._Fullerton_%26_Co.&amp;action=edit&amp;redlink=1" class="new" title="A. Fullerton &amp; Co. (page does not exist)">A. Fullerton &amp; Co.</a> p.&#160;479<span class="reference-accessdate">. Retrieved <span class="nowrap">4 March</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Scottish+Nation+%28Volume+3%3A+MAC+to+ZET%29&amp;rft.place=Edinburgh&amp;rft.pages=479&amp;rft.pub=A.+Fullerton+%26+Co.&amp;rft.date=1863&amp;rft.aulast=Anderson&amp;rft.aufirst=William&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D3rQEAAAAIAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmith+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><cite class="citation book">Bardsley, Charles Wareing (1901). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=RbkEAAAAIAAJ"><i>English and Welsh Surnames</i></a> <span class="cs1-format">(PDF)</span>. London: <a href="/wiki/Henry_Frowde" class="mw-redirect" title="Henry Frowde">Henry Frowde</a>. p.&#160;699. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8063-0022-1" title="Special:BookSources/0-8063-0022-1"><bdi>0-8063-0022-1</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">3 March</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=English+and+Welsh+Surnames&amp;rft.place=London&amp;rft.pages=699&amp;rft.pub=Henry+Frowde&amp;rft.date=1901&amp;rft.isbn=0-8063-0022-1&amp;rft.aulast=Bardsley&amp;rft.aufirst=Charles+Wareing&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DRbkEAAAAIAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmith+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>  The section heading referenced here reads "Smith, Smyth, Smythe", suggesting these to be the most common variants at the time (1901).</li>
-<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.celticfamilymaps.com/index.php?link=Smith&amp;q=node/2">"Surname Map for Smith in Britain, Ireland and Mann"</a> <span class="cs1-format">(map)</span>. <i>CelticFamilyMaps.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 March</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CelticFamilyMaps.com&amp;rft.atitle=Surname+Map+for+Smith+in+Britain%2C+Ireland+and+Mann.&amp;rft_id=http%3A%2F%2Fwww.celticfamilymaps.com%2Findex.php%3Flink%3DSmith%26q%3Dnode%2F2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmith+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><cite class="citation web">Brooke, Bob (31 December 2006). <a rel="nofollow" class="external text" href="http://www.genealogytoday.com/columns/everyday/020509.html">"The Mighty Smiths: Dealing With Common Surnames"</a>. <i>Everyday Genealogy</i>. Genealogy Today, LLC<span class="reference-accessdate">. Retrieved <span class="nowrap">1 March</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Everyday+Genealogy&amp;rft.atitle=The+Mighty+Smiths%3A+Dealing+With+Common+Surnames&amp;rft.date=2006-12-31&amp;rft.aulast=Brooke&amp;rft.aufirst=Bob&amp;rft_id=http%3A%2F%2Fwww.genealogytoday.com%2Fcolumns%2Feveryday%2F020509.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmith+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><cite class="citation news"><a href="/wiki/CBC_News" title="CBC News">CBC News</a> (26 July 2007). <a rel="nofollow" class="external text" href="http://www.cbc.ca/news/background/name-change/common-surnames.html">"Common surnames"</a>. <i>News In Depth</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 March</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=News+In+Depth&amp;rft.atitle=Common+surnames&amp;rft.date=2007-07-26&amp;rft.au=CBC+News&amp;rft_id=http%3A%2F%2Fwww.cbc.ca%2Fnews%2Fbackground%2Fname-change%2Fcommon-surnames.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmith+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><cite class="citation book"><a href="/wiki/Basil_Cottle" title="Basil Cottle">Cottle, Basil</a> (1967). <i>Penguin Dictionary of Surnames</i>. Baltimore, MD: Penguin Books.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Penguin+Dictionary+of+Surnames&amp;rft.place=Baltimore%2C+MD&amp;rft.pub=Penguin+Books&amp;rft.date=1967&amp;rft.aulast=Cottle&amp;rft.aufirst=Basil&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmith+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><cite class="citation book">Dorward, David (1998). <i>Scottish Surnames</i>. Collins Celtic (Pocket edition).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Scottish+Surnames&amp;rft.pub=Collins+Celtic+%28Pocket+edition%29&amp;rft.date=1998&amp;rft.aulast=Dorward&amp;rft.aufirst=David&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmith+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><cite class="citation web">Geoghegan, Eddie (26 May 2006). <a rel="nofollow" class="external text" href="http://www.araltas.com/features/smith/">"Smith coat of arms and family history"</a>. <i>Araltas.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 March</span> 2008</span>. <q>At the outset it is important to mention that the spelling of the name as Smith, Smyth, Smithe, Smythe, etc. is of little historical significance. The use of "i" and "y" and the presence or absence of the terminal "e" merely reflect the writing styles of the day.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Araltas.com&amp;rft.atitle=Smith+coat+of+arms+and+family+history&amp;rft.date=2006-05-26&amp;rft.aulast=Geoghegan&amp;rft.aufirst=Eddie&amp;rft_id=http%3A%2F%2Fwww.araltas.com%2Ffeatures%2Fsmith%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmith+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://howmanyofme.com/search/">"How Many of Me?"</a> <span class="cs1-format">(database search result)</span>. <i>HowManyofMe.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 March</span> 2008</span>. <q>There are 3,053,623 people in the U.S. with the last name Smith.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HowManyofMe.com&amp;rft.atitle=How+Many+of+Me%3F&amp;rft_id=http%3A%2F%2Fhowmanyofme.com%2Fsearch%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmith+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><cite class="citation book"><a href="/wiki/Mark_Antony_Lower" title="Mark Antony Lower">Lower, Mark Antony</a> (1860) [1860]. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=00cBAAAAQAAJ"><i>Patronymica Britannica: A Dictionary of Family Names of the United Kingdom</i></a> <span class="cs1-format">(PDF (Google Books))</span>. London: John Russell Smith. pp.&#160;319–321. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7884-0456-3" title="Special:BookSources/0-7884-0456-3"><bdi>0-7884-0456-3</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">16 March</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Patronymica+Britannica%3A+A+Dictionary+of+Family+Names+of+the+United+Kingdom&amp;rft.place=London&amp;rft.pages=319-321&amp;rft.pub=John+Russell+Smith&amp;rft.date=1860&amp;rft.isbn=0-7884-0456-3&amp;rft.aulast=Lower&amp;rft.aufirst=Mark+Antony&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D00cBAAAAQAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmith+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><cite class="citation journal">O'Kane, Willie (1998). <a rel="nofollow" class="external text" href="http://www.irishtimes.com/ancestor/magazine/articles/ir_monaghan.htm">"Surnames of County Monaghan"</a>. <i>Irish Roots</i>. <b>26</b> (2nd quarter)<span class="reference-accessdate">. Retrieved <span class="nowrap">2 March</span> 2008</span>. <q>...certain members of the MacGabhann and O Gabhan septs, usually Anglicised as McGowan, took the name Smith on the basis of the name Mac Gobha, 'son of the smith'.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Irish+Roots&amp;rft.atitle=Surnames+of+County+Monaghan&amp;rft.volume=26&amp;rft.issue=2nd+quarter&amp;rft.date=1998&amp;rft.aulast=O%27Kane&amp;rft.aufirst=Willie&amp;rft_id=http%3A%2F%2Fwww.irishtimes.com%2Fancestor%2Fmagazine%2Farticles%2Fir_monaghan.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmith+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><br />The URL here is to a reprint on the Irish Ancestors website.  Tables of contents for back issues of Irish Roots Magazine are found at <a rel="nofollow" class="external free" href="https://web.archive.org/web/20091217104309/http://irishroots.ie/Back%20Issues%20List.htm">https://web.archive.org/web/20091217104309/http://irishroots.ie/Back%20Issues%20List.htm</a> and there are two listings for the title here, one in 'Issue No. 26 (1998 Second quarter)', the other in 'Issue No. 48 (2003 Fourth quarter)'.  It is not clear whether the latter is a simple reprint of the former or an update.  The reprinted article notes 'From Irish Roots, (No. 28)'.</li>
-<li><cite class="citation web">Simpson, David (30 January 2007). <a rel="nofollow" class="external text" href="http://www.northeastengland.talktalk.net/Surnames%20of%20North%20East%20England.htm">"Surnames of North East England"</a>. <i>The North East England History Pages</i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 March</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+North+East+England+History+Pages&amp;rft.atitle=Surnames+of+North+East+England&amp;rft.date=2007-01-30&amp;rft.aulast=Simpson&amp;rft.aufirst=David&amp;rft_id=http%3A%2F%2Fwww.northeastengland.talktalk.net%2FSurnames%2520of%2520North%2520East%2520England.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmith+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><cite class="citation book">Smith, Elsdon C. (1997). <i>American Surnames</i>. Genealogical Publishing Company.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=American+Surnames&amp;rft.pub=Genealogical+Publishing+Company&amp;rft.date=1997&amp;rft.aulast=Smith&amp;rft.aufirst=Elsdon+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmith+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20061111104726/http://www.yournotme.com/results.asp?surname=Smith&amp;forename=">"Smith surname at YourNotMe"</a>. <i>YourNotMe.com</i>. Archived from <a rel="nofollow" class="external text" href="http://www.yournotme.com/results.asp?forename=&amp;surname=smith">the original</a> <span class="cs1-format">(database search result)</span> on 11 November 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">1 March</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=YourNotMe.com&amp;rft.atitle=Smith+surname+at+YourNotMe&amp;rft_id=http%3A%2F%2Fwww.yournotme.com%2Fresults.asp%3Fforename%3D%26surname%3Dsmith&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmith+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><a href="/wiki/United_States_Census_Bureau" title="United States Census Bureau">US Census Bureau</a> (9 May 1995). <a href="https://en.wikisource.org/wiki/1990_Census_Name_Files_dist.all.last_(1-100)" class="extiw" title="s:1990 Census Name Files dist.all.last (1-100)">s:1990 Census Name Files dist.all.last (1-100)</a>. Retrieved on 25 February 2008.</li></ul>
-</div>
-<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smith_(surname)&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div role="navigation" aria-labelledby="sister-projects" class="metadata plainlinks sistersitebox plainlist mbox-small" style="border:1px solid #aaa; padding:0; background:#f9f9f9;"><div style="padding: 0.75em 0; text-align: center;"><b style="display:block;">Smith</b>at Wikipedia's <a href="/wiki/Wikipedia:Wikimedia_sister_projects" title="Wikipedia:Wikimedia sister projects"><span id="sister-projects">sister projects</span></a></div><ul style="border-top:1px solid #aaa; padding: 0.75em 0; width:217px; margin:0 auto;"><li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/27px-Wiktionary-logo-v2.svg.png" decoding="async" width="27" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/41px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/54px-Wiktionary-logo-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wiktionary.org/wiki/Smith" class="extiw" title="wikt:Smith">Definitions</a> from Wiktionary</span>
-            </li><li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" decoding="async" width="20" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://commons.wikimedia.org/wiki/Category:Smith_(surname)" class="extiw" title="c:Category:Smith (surname)">Media</a> from Wikimedia Commons</span>
-            </li><li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/27px-Wikidata-logo.svg.png" decoding="async" width="27" height="15" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/41px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/54px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://www.wikidata.org/wiki/Q1158446" class="extiw" title="d:Q1158446">Data</a> from Wikidata</span>
-            </li></ul>
-</div>
-<ul><li><a rel="nofollow" class="external text" href="https://archive.org/details/originhistoryofn00lcamer"><i>Origin and history of the name of Smith, with biographies of all the most noted persons of that name</i></a>, Chicago, Ill., American Publishers' Association, 1902. via <a href="/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a></li></ul>
-<div role="navigation" class="navbox" aria-labelledby="Surnames_associated_with_the_occupation_of_smith" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Smith-surname" title="Template:Smith-surname"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Smith-surname" title="Template talk:Smith-surname"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Smith-surname&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Surnames_associated_with_the_occupation_of_smith" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Surnames associated with</a> the occupation of <a href="/wiki/Smith_(metalworker)" class="mw-redirect" title="Smith (metalworker)">smith</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Armenian</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Darbinyan" title="Darbinyan">Darbinyan</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Baltic</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Kal%C4%93js" title="Kalējs">Kalējs</a></li>
-<li><a href="/wiki/Kalvaitis" title="Kalvaitis">Kalvaitis</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Celtic</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Cowell_(surname)" title="Cowell (surname)">Cowell</a></li>
-<li><a href="/wiki/Goff" title="Goff">Goff</a></li>
-<li><a href="/wiki/Gow_(surname)" title="Gow (surname)">Gow</a></li>
-<li><a href="/wiki/Gowan_(disambiguation)" class="mw-redirect mw-disambig" title="Gowan (disambiguation)">Gowan</a></li>
-<li><a href="/wiki/Mac_a%27_Ghobhainn" title="Mac a&#39; Ghobhainn">Mac a' Ghobhainn</a></li>
-<li><a href="/wiki/McGavin" title="McGavin">MacGavin / McGavin</a></li>
-<li><a href="/wiki/McGowan" title="McGowan">MacGowan / McGowan</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Germanic</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/De_Smet_(surname)" title="De Smet (surname)">De Smet</a></li>
-<li><a href="/wiki/Schmid" title="Schmid">Schmid</a></li>
-<li><a href="/wiki/Schmidt_(surname)" title="Schmidt (surname)">Schmidt</a></li>
-<li><a href="/wiki/Schmied" title="Schmied">Schmied</a></li>
-<li><a href="/wiki/Schmieden" title="Schmieden">Schmieden</a></li>
-<li><a href="/wiki/Schmitt_(surname)" title="Schmitt (surname)">Schmitt</a></li>
-<li><a href="/wiki/Schmitz" title="Schmitz">Schmitz</a></li>
-<li><a href="/wiki/Schmitzer" title="Schmitzer">Schmitzer</a></li>
-<li><a href="/wiki/Smeets_(surname)" class="mw-redirect" title="Smeets (surname)">Smeets</a></li>
-<li><a href="/wiki/Smet" title="Smet">Smet</a></li>
-<li><a href="/wiki/Smets" title="Smets">Smets</a></li>
-<li><a href="/wiki/Smit" title="Smit">Smit</a></li>
-<li><a class="mw-selflink selflink">Smith</a></li>
-<li><a href="/wiki/Smithe" title="Smithe">Smithe</a></li>
-<li><a href="/wiki/Smither" title="Smither">Smither</a></li>
-<li><a href="/wiki/Smithers_(name)" class="mw-redirect" title="Smithers (name)">Smithers</a></li>
-<li><a href="/wiki/Smithies_(disambiguation)" class="mw-redirect mw-disambig" title="Smithies (disambiguation)">Smithies</a></li>
-<li><a href="/wiki/Smithson" title="Smithson">Smithson</a></li>
-<li><a href="/wiki/Smits" title="Smits">Smits</a></li>
-<li><a href="/wiki/Smyth" title="Smyth">Smyth</a></li>
-<li><a href="/wiki/Smythe_(disambiguation)" class="mw-redirect mw-disambig" title="Smythe (disambiguation)">Smythe</a></li>
-<li><a href="/wiki/Szmidt" title="Szmidt">Szmidt</a></li>
-<li><a href="/wiki/%C5%A0m%C3%ADd" title="Šmíd">Šmíd</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Indic</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Lohar" title="Lohar">Lohar</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Kartvelian</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Mchedlidze" title="Mchedlidze">Mchedlidze</a></li>
-<li><a href="/wiki/Mchedlishvili" title="Mchedlishvili">Mchedlishvili</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Romance</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Fabbri_(disambiguation)" class="mw-redirect mw-disambig" title="Fabbri (disambiguation)">Fabbri</a></li>
-<li><a href="/wiki/Faber_(surname)" title="Faber (surname)">Faber</a></li>
-<li><a href="/wiki/Fabre" title="Fabre">Fabre</a></li>
-<li><a href="/wiki/Fabri" title="Fabri">Fabri</a></li>
-<li><a href="/wiki/Faure" title="Faure">Faure</a></li>
-<li><a href="/wiki/Favre" title="Favre">Favre</a></li>
-<li><a href="/wiki/Feaver" title="Feaver">Feaver</a></li>
-<li><a href="/wiki/Ferrara_(surname)" title="Ferrara (surname)">Ferrara</a></li>
-<li><a href="/wiki/Ferrari_(surname)" title="Ferrari (surname)">Ferrari</a></li>
-<li><a href="/wiki/Ferraris_(surname)" title="Ferraris (surname)">Ferraris</a></li>
-<li><a href="/wiki/Ferraro" title="Ferraro">Ferraro</a></li>
-<li><a href="/wiki/Ferrara_(surname)" title="Ferrara (surname)">Ferrara</a></li>
-<li><a href="/wiki/Ferr%C3%A9" title="Ferré">Ferré</a></li>
-<li><a href="/wiki/Ferreira_(surname)" title="Ferreira (surname)">Ferreira</a></li>
-<li><a href="/wiki/Ferrer_(surname)" title="Ferrer (surname)">Ferrer</a></li>
-<li><a href="/wiki/Ferrero" title="Ferrero">Ferrero</a></li>
-<li><a href="/wiki/Ferreiro" title="Ferreiro">Ferreiro</a></li>
-<li><a href="/wiki/Ferretti_(surname)" title="Ferretti (surname)">Ferretti</a></li>
-<li><a href="/wiki/Ferrier_(surname)" title="Ferrier (surname)">Ferrier</a></li>
-<li><a href="/wiki/Fieraru" title="Fieraru">Fieraru</a></li>
-<li><a href="/wiki/Fierarul" class="mw-redirect" title="Fierarul">Fierarul</a></li>
-<li><a href="/wiki/Herrera_(surname)" title="Herrera (surname)">Herrera</a></li>
-<li><a href="/wiki/Herrero" title="Herrero">Herrero</a></li>
-<li><a href="/wiki/Lef%C3%A9bure" title="Lefébure">Lefébure</a></li>
-<li><a href="/wiki/Lefebvre" title="Lefebvre">Lefebvre</a></li>
-<li><a href="/wiki/Lef%C3%A8vre" title="Lefèvre">Lefèvre</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Semitic</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Haddad" title="Haddad">Haddad</a></li>
-<li><a href="/wiki/Hadodo" title="Hadodo">Hadodo</a></li>
-<li><a href="/wiki/Al-Haddad" class="mw-redirect" title="Al-Haddad">Al-Haddad</a></li>
-<li><a href="/wiki/El-Haddad" class="mw-redirect" title="El-Haddad">El-Haddad</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Slavic</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Covaci" title="Covaci">Covaci</a></li>
-<li><a href="/wiki/Coval" title="Coval">Coval</a></li>
-<li><a href="/wiki/Covali" title="Covali">Covali</a></li>
-<li><a href="/wiki/Covaliov" title="Covaliov">Covaliov</a></li>
-<li><a href="/wiki/Kavalyow" title="Kavalyow">Kavalyow</a></li>
-<li><a href="/wiki/Kova%C4%8D_(surname)" title="Kovač (surname)">Kovač</a></li>
-<li><a href="/wiki/Kovach_(surname)" title="Kovach (surname)">Kovach</a></li>
-<li><a href="/wiki/Kova%C4%8Di%C4%87_(surname)" title="Kovačić (surname)">Kovačić</a></li>
-<li><a href="/wiki/Kova%C4%8Di%C4%8D" class="mw-redirect" title="Kovačič">Kovačič</a></li>
-<li><a href="/wiki/Kova%C4%8Devi%C4%87" title="Kovačević">Kovačević</a></li>
-<li><a href="/wiki/Kova%C4%8Devi%C4%8D" class="mw-redirect" title="Kovačevič">Kovačevič</a></li>
-<li><a href="/wiki/Kova%C4%8Dovi%C4%8D" class="mw-redirect" title="Kovačovič">Kovačovič</a></li>
-<li><a href="/wiki/Kova%C4%8Dev" title="Kovačev">Kovačev</a></li>
-<li><a href="/wiki/Kovachev" title="Kovachev">Kovachev</a></li>
-<li><a href="/wiki/Kova%C4%8Dec" title="Kovačec">Kovačec</a></li>
-<li><a href="/w/index.php?title=Kova%C4%8Dek&amp;action=edit&amp;redlink=1" class="new" title="Kovaček (page does not exist)">Kovaček</a></li>
-<li><a href="/wiki/Kova%C4%8Dik" class="mw-redirect" title="Kovačik">Kovačik</a></li>
-<li><a href="/wiki/Kovacik#Kováčik" title="Kovacik">Kováčik</a></li>
-<li><a href="/wiki/Kova%C4%8Devski" class="mw-redirect" title="Kovačevski">Kovačevski</a></li>
-<li><a href="/w/index.php?title=Kovachevski&amp;action=edit&amp;redlink=1" class="new" title="Kovachevski (page does not exist)">Kovachevski</a></li>
-<li><a href="/w/index.php?title=Kova%C4%8Dina_(surname)&amp;action=edit&amp;redlink=1" class="new" title="Kovačina (surname) (page does not exist)">Kovačina</a></li>
-<li><a href="/wiki/Kov%C3%A1cs" title="Kovács">Kovács</a></li>
-<li><a href="/wiki/Koval_(surname)" title="Koval (surname)">Koval</a></li>
-<li><a href="/wiki/Kovalchuk" title="Kovalchuk">Kovalchuk</a> (<a href="/wiki/Kowalczuk" class="mw-redirect" title="Kowalczuk">Kowalczuk</a>)</li>
-<li><a href="/wiki/Kovalenko" title="Kovalenko">Kovalenko</a></li>
-<li><a href="/wiki/Kovalevich" title="Kovalevich">Kovalevich</a></li>
-<li><a href="/wiki/Kovalevsky" title="Kovalevsky">Kovalevsky</a></li>
-<li><a href="/wiki/Kovalic" class="mw-redirect" title="Kovalic">Kovalic</a></li>
-<li><a href="/wiki/Kovalik" title="Kovalik">Kovalik</a></li>
-<li><a href="/wiki/Kovalyuk" title="Kovalyuk">Kovalyuk</a></li>
-<li><a href="/wiki/Kovals" class="mw-redirect" title="Kovals">Kovals</a></li>
-<li><a href="/wiki/Kovalyov" title="Kovalyov">Kovalyov</a></li>
-<li><a href="/wiki/Kov%C3%A1%C5%99" title="Kovář">Kovář</a></li>
-<li><a href="/wiki/Kova%C5%99%C3%ADk" title="Kovařík">Kovařík</a></li>
-<li><a href="/wiki/Kowal_(surname)" title="Kowal (surname)">Kowal</a>, <a href="/wiki/Kowalewicz" class="mw-redirect" title="Kowalewicz">Kowalewicz</a>, <a href="/wiki/Kowalczyk" title="Kowalczyk">Kowalczyk</a>, <a href="/wiki/Kowalewski" title="Kowalewski">Kowalewski</a>, <a href="/wiki/Kowalik_(surname)" title="Kowalik (surname)">Kowalik</a>, <a href="/wiki/Kowalski" title="Kowalski">Kowalski</a></li>
-<li><a href="/wiki/Kuznets" title="Kuznets">Kuznets</a></li>
-<li><a href="/wiki/Kuznetsov" title="Kuznetsov">Kuznetsov</a></li>
-<li><a href="/wiki/Ku%C5%BAniar" title="Kuźniar">Kuźniar</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Turkic</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Demirci_(surname)" title="Demirci (surname)">Demirci</a></li>
-<li><a href="/wiki/Demircio%C4%9Flu" class="mw-redirect" title="Demircioğlu">Demircioğlu</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Uralic</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Sepp_(surname)" title="Sepp (surname)">Sepp</a></li>
-<li><a href="/wiki/Sepp%C3%A4" title="Seppä">Seppä</a></li>
-<li><a href="/wiki/Sepp%C3%A4nen" title="Seppänen">Seppänen</a></li>
-<li><a href="/wiki/Sepp%C3%A4l%C3%A4" title="Seppälä">Seppälä</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">From "spark"<br />rel. to occ. 'smith'</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Funke" title="Funke">Funke</a></li>
-<li><a href="/wiki/Vonck" title="Vonck">Vonck</a></li>
-<li><a href="/wiki/Vonk_(surname)" title="Vonk (surname)">Vonk</a></li></ul>
-</div></td></tr></tbody></table></div>
-<p class="mw-empty-elt">
-</p>
+<h2><span class="mw-headline" id="Shepherd">Shepherd</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shepherd_(name)&amp;action=edit&amp;section=1" title="Edit section: Shepherd">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Surname">Surname</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shepherd_(name)&amp;action=edit&amp;section=2" title="Edit section: Surname">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
+<table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
+<tbody><tr>
+<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This section lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Shepherd</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Shepherd_(name)&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
+</tr>
+</tbody></table>
+<ul><li><a href="/wiki/Adaline_Shepherd" title="Adaline Shepherd">Adaline Shepherd</a>, American composer</li>
+<li><a href="/wiki/Alan_Shepherd" title="Alan Shepherd">Alan Shepherd</a>, motorcycle Grand Prix road racer</li>
+<li><a href="/wiki/Amba_Shepherd" title="Amba Shepherd">Amba Shepherd</a>, Australian singer</li>
+<li>Ann Shepherd, American actress born <a href="/wiki/Shaindel_Kalish" title="Shaindel Kalish">Shaindel Kalish</a></li>
+<li><a href="/wiki/Briana_Shepherd" class="mw-redirect" title="Briana Shepherd">Briana Shepherd</a>, New York City Ballet dancer</li>
+<li><a href="/wiki/Chandler_Shepherd" title="Chandler Shepherd">Chandler Shepherd</a>, American professional baseball player (Boston Red Sox)</li>
+<li><a href="/wiki/Cybill_Shepherd" title="Cybill Shepherd">Cybill Shepherd</a>, American actress</li>
+<li><a href="/wiki/Darrius_Shepherd" title="Darrius Shepherd">Darrius Shepherd</a> (born 1995), American football player</li>
+<li><a href="/wiki/David_Shepherd_(disambiguation)" class="mw-redirect mw-disambig" title="David Shepherd (disambiguation)">David Shepherd (disambiguation)</a></li>
+<li><a href="/wiki/Dolly_Shepherd" title="Dolly Shepherd">Dolly Shepherd</a>, hot-air balloon trapeze artist</li>
+<li><a href="/wiki/Frances_Alice_Shepherd" title="Frances Alice Shepherd">Frances Alice Shepherd</a>, Canadian academic</li>
+<li><a href="/wiki/Freddy_Shepherd" title="Freddy Shepherd">Freddy Shepherd</a>, businessman and chairman of Newcastle United</li>
+<li><a href="/wiki/George_Shepherd_(artist)" title="George Shepherd (artist)">George Shepherd (artist)</a>, English draughtsman and watercolourist</li>
+<li><a href="/wiki/George_Shepherd,_1st_Baron_Shepherd" title="George Shepherd, 1st Baron Shepherd">George Shepherd, 1st Baron Shepherd</a>, British Labour politician</li>
+<li><a href="/wiki/J._Marshall_Shepherd" title="J. Marshall Shepherd">J. Marshall Shepherd</a>, American meteorologist</li>
+<li><a href="/wiki/JaCorey_Shepherd" title="JaCorey Shepherd">JaCorey Shepherd</a>, American football player</li>
+<li><a href="/wiki/Jean_Shepherd" title="Jean Shepherd">Jean Shepherd</a>, American radio personality and writer</li>
+<li><a href="/wiki/Jenny_Shepherd" title="Jenny Shepherd">Jenny Shepherd</a>, New Zealand field hockey player</li>
+<li><a href="/wiki/Joel_Shepherd" title="Joel Shepherd">Joel Shepherd</a>, Australian science fiction author</li>
+<li><a href="/wiki/Jonathan_Shepherd" title="Jonathan Shepherd">Jonathan Shepherd</a>, Welsh surgeon</li>
+<li><a href="/wiki/Keith_Shepherd" title="Keith Shepherd">Keith Shepherd</a>, major league baseball player</li>
+<li><a href="/wiki/Kenny_Wayne_Shepherd" title="Kenny Wayne Shepherd">Kenny Wayne Shepherd</a> (born Kenny Wayne Brobst, Jr), an American blues guitarist, singer and songwriter</li>
+<li><a href="/wiki/Kirk_Shepherd" title="Kirk Shepherd">Kirk Shepherd</a>, English darts player</li>
+<li><a href="/wiki/Leo_Shepherd" title="Leo Shepherd">Leo Shepherd</a>, US jazz trumpeter</li>
+<li><a href="/wiki/Malcolm_Shepherd,_2nd_Baron_Shepherd" title="Malcolm Shepherd, 2nd Baron Shepherd">Malcolm Shepherd, 2nd Baron Shepherd</a>, British Labour politician</li>
+<li><a href="/wiki/Mark_Shepherd_(businessman)" title="Mark Shepherd (businessman)">Mark Shepherd (businessman)</a>, chairman and CEO of Texas Instruments</li>
+<li><a href="/wiki/Mark_Shepherd_(novelist)" title="Mark Shepherd (novelist)">Mark Shepherd (novelist)</a>, author of several fantasy novels</li>
+<li><a href="/wiki/Mark_Allen_Shepherd" title="Mark Allen Shepherd">Mark Allen Shepherd</a> (born 1961), actor</li>
+<li><a href="/wiki/Mary_Shepherd" class="mw-redirect" title="Mary Shepherd">Mary Shepherd</a>, British philosopher</li>
+<li><a href="/wiki/Mary_Patricia_Shepherd" title="Mary Patricia Shepherd">Mary Patricia Shepherd</a> (1933 –  2003), British thoracic surgeon</li>
+<li><a href="/wiki/Michael_Shepherd_(psychiatrist)" title="Michael Shepherd (psychiatrist)">Michael Shepherd (psychiatrist)</a>, British psychiatrist and author</li>
+<li><a href="/wiki/Nathan_Shepherd_(American_football)" title="Nathan Shepherd (American football)">Nathan Shepherd (American football)</a> (born 1993), Canadian-American football player</li>
+<li><a href="/wiki/Robert_Shepherd" title="Robert Shepherd">Robert Shepherd</a> (1937–2008), law professor</li>
+<li><a href="/wiki/Roy_Shepherd" title="Roy Shepherd">Roy Shepherd</a> (born 1931), British ice hockey player</li>
+<li><a href="/wiki/Roy_Shepherd_(pianist)" title="Roy Shepherd (pianist)">Roy Shepherd (pianist)</a>, Australian pianist and teacher</li>
+<li><a href="/wiki/Sanger_Shepherd" title="Sanger Shepherd">Sanger Shepherd</a>, British inventor of an early colour photography process</li>
+<li><a href="/wiki/Sherri_Shepherd" title="Sherri Shepherd">Sherri Shepherd</a>, media personality, actress and comedian</li>
+<li><a href="/wiki/Thomas_H._Shepherd" title="Thomas H. Shepherd">Thomas H. Shepherd</a>, seventeenth-century British architectural artist</li>
+<li><a href="/wiki/William_Robert_Shepherd" title="William Robert Shepherd">William Robert Shepherd</a> (1871–1934), American cartographer and historian</li></ul>
+<h3><span class="mw-headline" id="Given_name">Given name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shepherd_(name)&amp;action=edit&amp;section=3" title="Edit section: Given name">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Shepherd Brooks, member of a prominent Medford family who developed the 19th-century <a href="/wiki/Shepherd_Brooks_Estate" title="Shepherd Brooks Estate">Shepherd Brooks Estate</a></li>
+<li><a href="/wiki/Shepherd_Clark" title="Shepherd Clark">Shepherd Clark</a>, American competitive figure skater</li>
+<li><a href="/wiki/Shepherd_Dawson" title="Shepherd Dawson">Shepherd Dawson</a> (1880–1935), British psychologist</li>
+<li><a href="/wiki/Shepherd_Heyward" class="mw-redirect" title="Shepherd Heyward">Shepherd Heyward</a> (died 1859), free black man who was killed during the raid on Harpers Ferry</li>
+<li><a href="/wiki/Shepherd_Leffler" title="Shepherd Leffler">Shepherd Leffler</a> (1811–1879), U.S. Representative from Iowa</li>
+<li><a href="/wiki/Shepherd_Mead" title="Shepherd Mead">Shepherd Mead</a> (1914–1994), born Edward Mead, American writer</li>
+<li><a href="/wiki/Shepherd_Murape" title="Shepherd Murape">Shepherd Murape</a>, Zimbabwean former football player and manager</li>
+<li><a href="/wiki/Shepherd_Skanes" title="Shepherd Skanes">Shepherd Skanes</a>, American football coach</li></ul>
+<h3><span class="mw-headline" id="Fictional_Shepherds">Fictional Shepherds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shepherd_(name)&amp;action=edit&amp;section=4" title="Edit section: Fictional Shepherds">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Derrial_Book" class="mw-redirect" title="Derrial Book">Derrial Book</a> (a.k.a. Shepherd Book), character in the television series, <i>Firefly</i></li>
+<li>Alex Shepherd, character from the <a href="/wiki/Silent_Hill" title="Silent Hill">Silent Hill</a> series</li>
+<li><a href="/wiki/Derek_Shepherd" title="Derek Shepherd">Derek Shepherd</a>, character on the ABC television series <i>Grey's Anatomy</i> and <i>Private Practice</i></li>
+<li><a href="/wiki/Amelia_Shepherd" title="Amelia Shepherd">Amelia Shepherd</a>, character on the ABC television series <i>Private Practice</i> and <i>Grey's Anatomy</i></li>
+<li>General Shepherd, a fictional character and the main antagonist from video game <a href="/wiki/Call_of_Duty:_Modern_Warfare_2" title="Call of Duty: Modern Warfare 2">Call of Duty: Modern Warfare 2</a></li>
+<li>Jason Shepherd, the main protagonist of the film <a href="/wiki/Big_Fat_Liar" title="Big Fat Liar">Big Fat Liar</a></li></ul>
+<h2><span class="mw-headline" id="Shepperd">Shepperd</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shepherd_(name)&amp;action=edit&amp;section=5" title="Edit section: Shepperd">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Surname_2">Surname</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shepherd_(name)&amp;action=edit&amp;section=6" title="Edit section: Surname">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r889293728"/>
+<table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
+<tbody><tr>
+<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This section lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Shepperd</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Shepherd_(name)&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
+</tr>
+</tbody></table>
+<ul><li><a href="/wiki/Augustine_Henry_Shepperd" title="Augustine Henry Shepperd">Augustine Henry Shepperd</a>, Congressional Representative from North Carolina</li>
+<li><a href="/wiki/Robin_Shepperd" title="Robin Shepperd">Robin Shepperd</a>, British television director</li></ul>
+<h3><span class="mw-headline" id="Given_name_2">Given name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shepherd_(name)&amp;action=edit&amp;section=7" title="Edit section: Given name">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Shepperd_Strudwick" title="Shepperd Strudwick">Shepperd Strudwick</a>, American actor of film, television and stage</li>
+<li><a href="/wiki/William_Shepperd_Ashe" title="William Shepperd Ashe">William Shepperd Ashe</a>, Democratic U.S. Congressman from North Carolina between 1849 and 1855</li></ul>
+<h3><span class="mw-headline" id="Other_uses">Other uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shepherd_(name)&amp;action=edit&amp;section=8" title="Edit section: Other uses">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Shepperd%27s_Dell" title="Shepperd&#39;s Dell">Shepperd's Dell</a>, a small canyon in the Columbia River Gorge in Oregon</li></ul>
+<h2><span class="mw-headline" id="Shephard">Shephard</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shepherd_(name)&amp;action=edit&amp;section=9" title="Edit section: Shephard">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Surname_3">Surname</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shepherd_(name)&amp;action=edit&amp;section=10" title="Edit section: Surname">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r889293728"/>
+<table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
+<tbody><tr>
+<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This section lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Shephard</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Shepherd_(name)&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
+</tr>
+</tbody></table>
+<ul><li><a href="/wiki/Ben_Shephard" title="Ben Shephard">Ben Shephard</a>, English television presenter</li>
+<li><a href="/wiki/Ben_Shephard_(English_historian)" class="mw-redirect" title="Ben Shephard (English historian)">Ben Shephard (English historian)</a></li>
+<li><a href="/wiki/Gary_Shephard" class="mw-redirect" title="Gary Shephard">Gary Shephard</a>, former Welsh professional footballer</li>
+<li><a href="/wiki/Geoffrey_Colin_Shephard" title="Geoffrey Colin Shephard">Geoffrey Colin Shephard</a>, Mathematician</li>
+<li><a href="/wiki/Gillian_Shephard,_Baroness_Shephard_of_Northwold" class="mw-redirect" title="Gillian Shephard, Baroness Shephard of Northwold">Gillian Shephard, Baroness Shephard of Northwold</a></li>
+<li><a href="/wiki/Gordon_Strachey_Shephard" title="Gordon Strachey Shephard">Gordon Strachey Shephard</a> Brigadier-General killed in action in 1918</li>
+<li><a href="/wiki/Hale_Horatio_Shephard" title="Hale Horatio Shephard">Hale Horatio Shephard</a> (1842–1921), British judge in India</li>
+<li><a href="/wiki/Isaac_F._Shephard" class="mw-redirect" title="Isaac F. Shephard">Isaac F. Shephard</a>, American Civil War officer</li>
+<li><a href="/wiki/Michelle_Shephard" title="Michelle Shephard">Michelle Shephard</a>, Canadian journalist</li>
+<li><a href="/wiki/Neil_Shephard" title="Neil Shephard">Neil Shephard</a>, British economist</li>
+<li><a href="/wiki/Richard_Shephard" title="Richard Shephard">Richard Shephard</a>, British choral music composer</li>
+<li><a href="/wiki/Ronald_Shephard" title="Ronald Shephard">Ronald Shephard</a>, American economist</li>
+<li><a href="/wiki/Rupert_Shephard" title="Rupert Shephard">Rupert Shephard</a>, English artist</li>
+<li><a href="/wiki/Sidney_Shephard" title="Sidney Shephard">Sidney Shephard</a>, British politician</li></ul>
+<h3><span class="mw-headline" id="Other_uses_2">Other uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shepherd_(name)&amp;action=edit&amp;section=11" title="Edit section: Other uses">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Shephard%27s_lemma" title="Shephard&#39;s lemma">Shephard's lemma</a></li>
+<li><a href="/wiki/Shephard%27s_problem" title="Shephard&#39;s problem">Shephard's problem</a></li>
+<li><a href="/wiki/Chevalley%E2%80%93Shephard%E2%80%93Todd_theorem" title="Chevalley–Shephard–Todd theorem">Chevalley–Shephard–Todd theorem</a></li></ul>
+<h3><span class="mw-headline" id="Fictional_Shephards">Fictional Shephards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shepherd_(name)&amp;action=edit&amp;section=12" title="Edit section: Fictional Shephards">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Adrian_Shephard" class="mw-redirect" title="Adrian Shephard">Adrian Shephard</a>, character in the computer game <i>Half-Life: Opposing Force</i></li>
+<li><a href="/wiki/Christian_Shephard" title="Christian Shephard">Christian Shephard</a>, character on the television series <i>Lost</i>, father of Jack Shephard</li>
+<li><a href="/wiki/Jack_Shephard" title="Jack Shephard">Jack Shephard</a>, character on the television series <i>Lost</i></li></ul>
+<h2><span class="mw-headline" id="Sheppard">Sheppard</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shepherd_(name)&amp;action=edit&amp;section=13" title="Edit section: Sheppard">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Surname_4">Surname</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shepherd_(name)&amp;action=edit&amp;section=14" title="Edit section: Surname">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r889293728"/>
+<table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
+<tbody><tr>
+<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This section lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Sheppard</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Shepherd_(name)&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
+</tr>
+</tbody></table>
+<ul><li><a href="/wiki/Alison_Sheppard" title="Alison Sheppard">Alison Sheppard</a> (born 1972), Scottish Olympic swimmer</li>
+<li><a href="/wiki/Allen_Sheppard,_Baron_Sheppard_of_Didgemere" title="Allen Sheppard, Baron Sheppard of Didgemere">Allen Sheppard, Baron Sheppard of Didgemere</a> (born 1932), British industrialist</li>
+<li><a href="/wiki/Andy_Sheppard" title="Andy Sheppard">Andy Sheppard</a> (born 1957), British jazz saxophonist and composer</li>
+<li><a href="/wiki/Ashley_Sheppard" title="Ashley Sheppard">Ashley Sheppard</a> (born 1969), American football player</li>
+<li><a href="/wiki/Bob_Sheppard" title="Bob Sheppard">Bob Sheppard</a> (1910–2010), American sports announcer</li>
+<li><a href="/wiki/Bob_Sheppard_(musician)" title="Bob Sheppard (musician)">Bob Sheppard (musician)</a> (born 1952), American jazz saxophonist</li>
+<li><a href="/wiki/Charles_Bradford_Sheppard" title="Charles Bradford Sheppard">Charles Bradford Sheppard</a>, American radio and electrical engineer</li>
+<li><a href="/wiki/Chris_Sheppard" title="Chris Sheppard">Chris Sheppard</a> (born 1981), Australian rugby player</li>
+<li><a href="/wiki/Chris_Sheppard_(DJ)" title="Chris Sheppard (DJ)">Chris Sheppard (DJ)</a>, Jamaican-Canadian disc jockey and musician</li>
+<li><a href="/wiki/Colin_Sheppard" title="Colin Sheppard">Colin Sheppard</a>, British engineering professor</li>
+<li><a href="/wiki/Curtis_Sheppard" title="Curtis Sheppard">Curtis Sheppard</a> (born <abbr title="circa">c.</abbr><span style="white-space:nowrap;">&#8201;1919</span>), American boxer</li>
+<li><a href="/wiki/Dave_Sheppard" title="Dave Sheppard">Dave Sheppard</a> (1931–2000), American weightlifter and Olympic medalist</li>
+<li><a href="/wiki/David_Sheppard" title="David Sheppard">David Sheppard</a> (1929–2005), English cricketer and bishop</li>
+<li><a href="/wiki/Dick_Sheppard_(priest)" title="Dick Sheppard (priest)">Dick Sheppard (priest)</a> (1880–1937), English clergyman and pacifist</li>
+<li><a href="/wiki/Dick_Sheppard_(footballer)" title="Dick Sheppard (footballer)">Dick Sheppard (footballer)</a> (1945–1998), English football goalkeeper</li>
+<li><a href="/wiki/Elizabeth_Sheppard" class="mw-redirect" title="Elizabeth Sheppard">Elizabeth Sheppard</a> (1830–1862), British novelist</li>
+<li><a href="/wiki/Emma_Sheppard" title="Emma Sheppard">Emma Sheppard</a> (1813-1871), English writer and workhouse reformer</li>
+<li><a href="/wiki/Fleetwood_Sheppard" title="Fleetwood Sheppard">Fleetwood Sheppard</a> (1634–1698), British poet</li>
+<li><a href="/wiki/Gerrard_Sheppard" title="Gerrard Sheppard">Gerrard Sheppard</a> (born 1990), American football player</li>
+<li><a href="/wiki/Harriet_Sheppard" title="Harriet Sheppard">Harriet Sheppard</a> (born circa 1783), Canadian botanist</li>
+<li><a href="/wiki/Howard_Sheppard" title="Howard Sheppard">Howard Sheppard</a> (1933–2013), Canadian politician</li>
+<li><a href="/wiki/Jack_Sheppard" title="Jack Sheppard">Jack Sheppard</a> (1702–1724), English criminal</li>
+<li><a href="/wiki/Jack_Sheppard_(cave_diver)" title="Jack Sheppard (cave diver)">Jack Sheppard (cave diver)</a> (1909–2001), British cave diver</li>
+<li><a href="/wiki/Jack_Sheppard_(cricketer)" title="Jack Sheppard (cricketer)">Jack Sheppard (cricketer)</a> (born 1992), English cricketer</li>
+<li><a href="/wiki/James_Sheppard" title="James Sheppard">James Sheppard</a> (born 1988), Canadian ice hockey player</li>
+<li><a href="/wiki/Jeff_Sheppard" title="Jeff Sheppard">Jeff Sheppard</a> (born 1974), American professional and collegiate basketball player</li>
+<li><a href="/wiki/John_Sheppard_(disambiguation)" class="mw-redirect mw-disambig" title="John Sheppard (disambiguation)">John Sheppard (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Joseph_Sheppard" title="Joseph Sheppard">Joseph Sheppard</a> (born 1958), American actor</li>
+<li><a href="/wiki/Kate_Sheppard" title="Kate Sheppard">Kate Sheppard</a> (1848–1934), New Zealand suffragette and civil rights campaigner</li>
+<li><a href="/wiki/Kenny_Wayne_Shepherd" title="Kenny Wayne Shepherd">Kenny Wayne Shepherd</a> (born 1977), American guitarist, singer, and songwriter</li>
+<li><a href="/wiki/Kiki_Shepard" title="Kiki Shepard">Kiki Shepard</a> (born 1951), American television host</li>
+<li><a href="/wiki/Lianne_Sheppard" title="Lianne Sheppard">Lianne Sheppard</a>, American statistician</li>
+<li><a href="/wiki/Lito_Sheppard" title="Lito Sheppard">Lito Sheppard</a> (born 1981), American football cornerback</li>
+<li><a href="/wiki/Mark_Sheppard" title="Mark Sheppard">Mark Sheppard</a> (born 1964), English actor</li>
+<li><a href="/wiki/Mel_Sheppard" title="Mel Sheppard">Mel Sheppard</a> (1883–1942), American athlete</li>
+<li><a href="/wiki/Mike_Sheppard_(baseball)" title="Mike Sheppard (baseball)">Mike Sheppard (baseball)</a> (born 1936), American college baseball coach</li>
+<li><a href="/wiki/Mike_Sheppard" title="Mike Sheppard">Mike Sheppard</a> (born 1951), American football player and coach</li>
+<li><a href="/wiki/Morris_Sheppard" title="Morris Sheppard">Morris Sheppard</a> (1875–1941), American Congressman and Senator</li>
+<li><a href="/wiki/Moses_Sheppard" title="Moses Sheppard">Moses Sheppard</a> (1771–1857), American businessman and Quaker</li>
+<li><a href="/wiki/Mubin_Sheppard" title="Mubin Sheppard">Mubin Sheppard</a> (1905–1994), Irish-born historian of Malaysian culture</li>
+<li><a href="/wiki/Peter_Sheppard_Sk%C3%A6rved" title="Peter Sheppard Skærved">Peter Sheppard Skærved</a> (born 1966), British violinist</li>
+<li><a href="/wiki/Philip_Sheppard" title="Philip Sheppard">Philip Sheppard</a> (1921–1976), British geneticist</li>
+<li><a href="/wiki/R._Sheppard_Marble_and_Stone_Works" title="R. Sheppard Marble and Stone Works">R. Sheppard Marble and Stone Works</a> of Toronto, Ontario was a monumental masonry firm active in nineteenth-century Ontario</li>
+<li><a href="/wiki/Ray_Sheppard" title="Ray Sheppard">Ray Sheppard</a> (born 1966), Canadian ice hockey player</li>
+<li><a href="/wiki/Revett_Sheppard" title="Revett Sheppard">Revett Sheppard</a> (1778-1830), British naturalist</li>
+<li><a href="/wiki/Richard_Sheppard_(architect)" title="Richard Sheppard (architect)">Richard Sheppard (architect)</a> (1910–1982), English architect</li>
+<li><a href="/wiki/Rob_Sheppard" title="Rob Sheppard">Rob Sheppard</a>, American college baseball coach</li>
+<li><a href="/wiki/Ronald_G._Sheppard" title="Ronald G. Sheppard">Ronald G. Sheppard</a> (born 1939), US politician</li>
+<li><a href="/wiki/Sam_Sheppard" title="Sam Sheppard">Sam Sheppard</a> (1923–1970), American neurosurgeon</li>
+<li><a href="/wiki/Samara_Sheppard" title="Samara Sheppard">Samara Sheppard</a> (born 1990), New Zealand mountain biker</li>
+<li><a href="/wiki/Scott_S._Sheppard" title="Scott S. Sheppard">Scott S. Sheppard</a> (born 1976), American astronomer</li>
+<li><a href="/wiki/Sheppard_family_(clothiers)" title="Sheppard family (clothiers)">Sheppard family (clothiers)</a>, family in Frome, Somerset since 1614</li>
+<li><a href="/wiki/Sherri_D._Sheppard" class="mw-redirect" title="Sherri D. Sheppard">Sherri D. Sheppard</a> (born 1956), American professor of mechanical engineering</li>
+<li><a href="/wiki/Simon_Sheppard_(writer)" title="Simon Sheppard (writer)">Simon Sheppard (writer)</a>, American writer</li>
+<li><a href="/wiki/Simon_Sheppard_(activist)" title="Simon Sheppard (activist)">Simon Sheppard (activist)</a> (born 1957), British far-right activist</li>
+<li><a href="/wiki/Simon_Sheppard_(footballer)" title="Simon Sheppard (footballer)">Simon Sheppard (footballer)</a> (born 1973), English former goalkeeper</li>
+<li><a href="/wiki/Stephen_Lea_Sheppard" title="Stephen Lea Sheppard">Stephen Lea Sheppard</a> (born 1983), Canadian television and film actor</li>
+<li><a href="/wiki/Thomas_Sheppard_(disambiguation)" class="mw-redirect mw-disambig" title="Thomas Sheppard (disambiguation)">Thomas Sheppard (disambiguation)</a>, several people</li>
+<li><a href="/wiki/T._G._Sheppard" title="T. G. Sheppard">T. G. Sheppard</a> (born 1944), American country music singer</li>
+<li><a href="/wiki/William_Sheppard_(disambiguation)" class="mw-redirect mw-disambig" title="William Sheppard (disambiguation)">William Sheppard (disambiguation)</a>, several people</li></ul>
+<h3><span class="mw-headline" id="Given_name_3">Given name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shepherd_(name)&amp;action=edit&amp;section=15" title="Edit section: Given name">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Sheppard_Frere" title="Sheppard Frere">Sheppard Frere</a> (1916–2015), British historian and archaeologist</li>
+<li><a href="/wiki/Sheppard_Homans_Jr." title="Sheppard Homans Jr.">Sheppard Homans Jr.</a> (1871–1952), All-American football player and insurance executive</li>
+<li><a href="/wiki/Sheppard_J._Shreaves" title="Sheppard J. Shreaves">Sheppard J. Shreaves</a> (1885–1968), dockmaster, shipwright and diver</li>
+<li><a href="/wiki/Sheppard_Solomon" title="Sheppard Solomon">Sheppard Solomon</a>, American songwriter</li></ul>
+<h3><span class="mw-headline" id="Fictional_Sheppards">Fictional Sheppards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shepherd_(name)&amp;action=edit&amp;section=16" title="Edit section: Fictional Sheppards">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/John_Sheppard_(Stargate)" title="John Sheppard (Stargate)">John Sheppard (Stargate)</a>, lieutenant colonel in the United States Air Force played by Joe Flanigan in the television series <i>Stargate Atlantis</i></li>
+<li>James Sheppard, the narrator in <a href="/wiki/The_Murder_of_Roger_Ackroyd" title="The Murder of Roger Ackroyd">The Murder of Roger Ackroyd</a> by Agatha Christie</li>
+<li>Bruno Sheppard, an antagonist in <i><a href="/wiki/M.A.S.K._(TV_series)" title="M.A.S.K. (TV series)">M.A.S.K. (TV series)</a></i></li>
+<li><a href="/wiki/Principal_Sheppard" class="mw-redirect" title="Principal Sheppard">Principal Sheppard</a>, a fictional character in <i>Degrassi: The Next Generation</i></li></ul>
+<h2><span class="mw-headline" id="Shepard">Shepard</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shepherd_(name)&amp;action=edit&amp;section=17" title="Edit section: Shepard">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Surname_5">Surname</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shepherd_(name)&amp;action=edit&amp;section=18" title="Edit section: Surname">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r889293728"/>
+<table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
+<tbody><tr>
+<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This section lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Shepard</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Shepherd_(name)&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
+</tr>
+</tbody></table>
+<ul><li><a href="/wiki/Alan_Shepard" title="Alan Shepard">Alan Shepard</a>, American astronaut</li>
+<li><a href="/wiki/Alexandra_Shepard" title="Alexandra Shepard">Alexandra Shepard</a>, Historian</li>
+<li><a href="/wiki/Anna_O._Shepard" title="Anna O. Shepard">Anna O. Shepard</a>, American archaeologist</li>
+<li><a href="/wiki/Bert_Shepard" title="Bert Shepard">Bert Shepard</a>, American WWII pilot &amp; baseball player</li>
+<li><a href="/wiki/Cecelia_Shepard" class="mw-redirect" title="Cecelia Shepard">Cecelia Shepard</a>, victim of the Zodiac Killer</li>
+<li><a href="/wiki/David_Shepard_(film_preservationist)" title="David Shepard (film preservationist)">David Shepard (film preservationist)</a></li>
+<li><a href="/wiki/David_H._Shepard" title="David H. Shepard">David H. Shepard</a>, American inventor</li>
+<li><a href="/wiki/Dax_Shepard" title="Dax Shepard">Dax Shepard</a>, American actor, comedian, writer, and director</li>
+<li><a href="/wiki/Elliott_Fitch_Shepard" title="Elliott Fitch Shepard">Elliott Fitch Shepard</a>, American lawyer, banker, and newspaper editor</li>
+<li><a href="/wiki/E._H._Shepard" title="E. H. Shepard">E. H. Shepard</a>, British artist and illustrator</li>
+<li><a href="/wiki/Edward_M._Shepard" title="Edward M. Shepard">Edward M. Shepard</a>, American lawyer and political reformer</li>
+<li><a href="/wiki/Irene_Shepard" title="Irene Shepard">Irene Shepard</a>, American educator and politician</li>
+<li><a href="/wiki/Jean_Shepard" title="Jean Shepard">Jean Shepard</a> (1933–2016), American honky tonk singer and songwriter</li>
+<li><a href="/wiki/Jessica_Shepard" title="Jessica Shepard">Jessica Shepard</a> (born 1996), American basketball player</li>
+<li><a href="/wiki/Lorenzo_B._Shepard" title="Lorenzo B. Shepard">Lorenzo B. Shepard</a>, American lawyer and politician</li>
+<li><a href="/wiki/Louis_C._Shepard" title="Louis C. Shepard">Louis C. Shepard</a>, American Civil War Medal of Honor recipient</li>
+<li><a href="/wiki/Lucius_Shepard" title="Lucius Shepard">Lucius Shepard</a>, American science fiction and fantasy writer</li>
+<li><a href="/wiki/Marshall_L._Shepard" title="Marshall L. Shepard">Marshall L. Shepard</a>, American politician</li>
+<li><a href="/wiki/Mary_Shepard" title="Mary Shepard">Mary Shepard</a>, British illustrator</li>
+<li><a href="/wiki/Matt_Shepard_(sportscaster)" title="Matt Shepard (sportscaster)">Matt Shepard (sportscaster)</a>, Detroit, Michigan TV sports commentator</li>
+<li><a href="/wiki/Matthew_Shepard" title="Matthew Shepard">Matthew Shepard</a>, American victim of a hate crime</li>
+<li><a href="/wiki/Norman_Shepard" title="Norman Shepard">Norman Shepard</a>, American college sports coach</li>
+<li><a href="/wiki/Roger_Shepard" title="Roger Shepard">Roger Shepard</a>, American cognitive scientist</li>
+<li><a href="/wiki/Sam_Shepard" title="Sam Shepard">Sam Shepard</a> (1943-2017), American playwright and actor</li>
+<li><a href="/wiki/Thomas_Shepard_(minister)" title="Thomas Shepard (minister)">Thomas Shepard (minister)</a>, Puritan minister in colonial America</li>
+<li><a href="/wiki/Thomas_Z._Shepard" title="Thomas Z. Shepard">Thomas Z. Shepard</a>, American recording producer, composer, and conductor</li>
+<li><a href="/wiki/Vonda_Shepard" title="Vonda Shepard">Vonda Shepard</a>, American singer</li>
+<li><a href="/wiki/William_Shepard" title="William Shepard">William Shepard</a>, former U.S. Representative from Massachusetts</li></ul>
+<h3><span class="mw-headline" id="Given_name_4">Given name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shepherd_(name)&amp;action=edit&amp;section=19" title="Edit section: Given name">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Shepard_Broad" title="Shepard Broad">Shepard Broad</a>, American banker and lawyer</li>
+<li><a href="/wiki/Shepard_Cary" title="Shepard Cary">Shepard Cary</a>, U.S. Representative from Maine</li>
+<li><a href="/wiki/Shepard_Fairey" title="Shepard Fairey">Shepard Fairey</a>, American artist</li>
+<li><a href="/wiki/Shepard_Smith" title="Shepard Smith">Shepard Smith</a>, American TV anchor</li></ul>
+<h3><span class="mw-headline" id="Fictional_Shepards">Fictional Shepards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shepherd_(name)&amp;action=edit&amp;section=20" title="Edit section: Fictional Shepards">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Commander_Shepard" title="Commander Shepard">Commander Shepard</a>, main character of the <i>Mass Effect</i> video games.</li>
+<li>Tim Shepard, character from S.E. Hinton's novel <a href="/wiki/The_Outsiders_(novel)" title="The Outsiders (novel)"><i>The Outsiders</i></a>. He has siblings Curly Shepard and Angela Shepard, featuring in Hinton's novel <i>That Was Then, This Is Now</i></li>
+<li><a href="/wiki/Shepard_(comics)" title="Shepard (comics)">Shepard (comics)</a>, character in the Marvel Comics Universe</li>
+<li>Director <a href="/wiki/Jenny_Shepard" class="mw-redirect" title="Jenny Shepard">Jenny Shepard</a>, character on the TV series <i>NCIS</i></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shepherd_(name)&amp;action=edit&amp;section=21" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Shepherd_(disambiguation)" class="mw-disambig" title="Shepherd (disambiguation)">Shepherd (disambiguation)</a></li>
+<li><a href="/wiki/Shepard_(disambiguation)" class="mw-redirect mw-disambig" title="Shepard (disambiguation)">Shepard (disambiguation)</a></li>
+<li><a href="/wiki/Sheppard_(disambiguation)" class="mw-redirect mw-disambig" title="Sheppard (disambiguation)">Sheppard (disambiguation)</a></li>
+<li><a href="/wiki/Schappert" title="Schappert">Schappert</a></li>
+<li><a href="/wiki/Schaefer" title="Schaefer">Schaefer</a></li></ul>
 <!-- 
 NewPP limit report
-Parsed by mw1232
-Cached time: 20191013142244
+Parsed by mw1339
+Cached time: 20191018145203
 Cache expiry: 2592000
 Dynamic content: false
-Complications: [vary‐revision‐sha1]
-CPU time usage: 0.764 seconds
-Real time usage: 0.954 seconds
-Preprocessor visited node count: 3168/1000000
+Complications: []
+CPU time usage: 0.188 seconds
+Real time usage: 0.241 seconds
+Preprocessor visited node count: 930/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 81066/2097152 bytes
-Template argument size: 5040/2097152 bytes
-Highest expansion depth: 15/40
-Expensive parser function count: 3/500
-Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 68095/5000000 bytes
+Post‐expand include size: 12998/2097152 bytes
+Template argument size: 3688/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1240/5000000 bytes
 Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.348/10.000 seconds
-Lua memory usage: 6.82 MB/50 MB
+Lua time usage: 0.040/10.000 seconds
+Lua memory usage: 1.44 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  738.429      1 -total
- 31.44%  232.132      1 Template:Reflist
- 26.58%  196.298     18 Template:Cite_web
- 17.08%  126.112      1 Template:Infobox_surname
- 13.65%  100.784      1 Template:Infobox
- 10.89%   80.434      6 Template:Fix
-  8.99%   66.375      6 Template:Cite_book
-  7.53%   55.616      5 Template:Citation_needed
-  6.07%   44.847      6 Template:Delink
-  5.62%   41.526      1 Template:Dubious
+100.00%  158.286      1 -total
+ 91.18%  144.332      5 Template:Surname
+ 77.51%  122.682      5 Template:Dmbox
+ 47.36%   74.964      5 Template:Short_description
+ 44.54%   70.507      5 Template:Pagetype
+ 17.35%   27.467      5 Template:Category_handler
+  8.12%   12.854      1 Template:Circa
+  5.38%    8.510      1 Template:Abbr
+  2.66%    4.214      5 Template:Main_other
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:1683750-0!canonical and timestamp 20191013142245 and revision id 921044996
+<!-- Saved in parser cache with key enwiki:pcache:idhash:14200606-0!canonical and timestamp 20191018145202 and revision id 913696641
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Smith_(surname)&amp;oldid=921044996">https://en.wikipedia.org/w/index.php?title=Smith_(surname)&amp;oldid=921044996</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Shepherd_(name)&amp;oldid=913696641#Shepherd">https://en.wikipedia.org/w/index.php?title=Shepherd_(name)&amp;oldid=913696641#Shepherd</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Occupational_surnames" title="Category:Occupational surnames">Occupational surnames</a></li><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:English-language_surnames" title="Category:English-language surnames">English-language surnames</a></li><li><a href="/wiki/Category:Surnames_of_English_origin" title="Category:Surnames of English origin">Surnames of English origin</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Pages_using_infobox_given_name_with_unknown_parameters" title="Category:Pages using infobox given name with unknown parameters">Pages using infobox given name with unknown parameters</a></li><li><a href="/wiki/Category:All_accuracy_disputes" title="Category:All accuracy disputes">All accuracy disputes</a></li><li><a href="/wiki/Category:Articles_with_disputed_statements_from_June_2017" title="Category:Articles with disputed statements from June 2017">Articles with disputed statements from June 2017</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2010" title="Category:Articles with unsourced statements from February 2010">Articles with unsourced statements from February 2010</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_August_2011" title="Category:Use dmy dates from August 2011">Use dmy dates from August 2011</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:English-language_surnames" title="Category:English-language surnames">English-language surnames</a></li><li><a href="/wiki/Category:Given_names" title="Category:Given names">Given names</a></li><li><a href="/wiki/Category:Occupational_surnames" title="Category:Occupational surnames">Occupational surnames</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -524,13 +392,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Smith+%28surname%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Smith+%28surname%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Shepherd+%28name%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Shepherd+%28name%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Smith_(surname)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Smith_(surname)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Shepherd_(name)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Shepherd_(name)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -545,7 +413,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Smith_(surname)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Smith_(surname)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Smith_(surname)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Shepherd_(name)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Shepherd_(name)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Shepherd_(name)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -584,35 +452,35 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Smith_(surname)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Smith_(surname)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Smith_(surname)&amp;oldid=921044996" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Smith_(surname)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1158446" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Smith_%28surname%29&amp;id=921044996" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Shepherd_(name)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Shepherd_(name)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Shepherd_(name)&amp;oldid=913696641" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Shepherd_(name)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q18987420" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Shepherd_%28name%29&amp;id=913696641" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
 			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
 			<div class="body">
 								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Smith_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Shepherd_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Smith+%28surname%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Smith+%28surname%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Smith_(surname)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Shepherd+%28name%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Shepherd+%28name%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Shepherd_(name)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Smith_(s%C3%A8%E2%81%BF)" title="Smith (sèⁿ) – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Smith_(Familienname)" title="Smith (Familienname) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Smith_(Familiennaam)" title="Smith (Familiennaam) – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Smith" title="Smith – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Smith_(nume)" title="Smith (nume) – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BC%D0%B8%D1%82" title="Смит – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Smith" title="Smith – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Smith" title="Smith – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Smith_(soyad%C4%B1)" title="Smith (soyadı) – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%8F%B2%E5%AF%86%E6%96%AF_(%E5%A7%93%E6%B0%8F)" title="史密斯 (姓氏) – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1158446#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Shepherd_(s%C3%A8%E2%81%BF)" title="Shepherd (sèⁿ) – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q18987420#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 13 October 2019, at 14:22<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 2 September 2019, at 17:27<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -623,7 +491,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Smith_(surname)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Shepherd_(name)&amp;mobileaction=toggle_view_mobile#Shepherd" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -635,8 +503,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.764","walltime":"0.954","ppvisitednodes":{"value":3168,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":81066,"limit":2097152},"templateargumentsize":{"value":5040,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":68095,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  738.429      1 -total"," 31.44%  232.132      1 Template:Reflist"," 26.58%  196.298     18 Template:Cite_web"," 17.08%  126.112      1 Template:Infobox_surname"," 13.65%  100.784      1 Template:Infobox"," 10.89%   80.434      6 Template:Fix","  8.99%   66.375      6 Template:Cite_book","  7.53%   55.616      5 Template:Citation_needed","  6.07%   44.847      6 Template:Delink","  5.62%   41.526      1 Template:Dubious"]},"scribunto":{"limitreport-timeusage":{"value":"0.348","limit":"10.000"},"limitreport-memusage":{"value":7155774,"limit":52428800}},"cachereport":{"origin":"mw1232","timestamp":"20191013142244","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Smith (surname)","url":"https:\/\/en.wikipedia.org\/wiki\/Smith_(surname)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1158446","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1158446","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-04-02T19:11:55Z","dateModified":"2019-10-13T14:22:45Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/41\/Blacksmith_at_work02.jpg","headline":"family name"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":111,"wgHostname":"mw1322"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.188","walltime":"0.241","ppvisitednodes":{"value":930,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":12998,"limit":2097152},"templateargumentsize":{"value":3688,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1240,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  158.286      1 -total"," 91.18%  144.332      5 Template:Surname"," 77.51%  122.682      5 Template:Dmbox"," 47.36%   74.964      5 Template:Short_description"," 44.54%   70.507      5 Template:Pagetype"," 17.35%   27.467      5 Template:Category_handler","  8.12%   12.854      1 Template:Circa","  5.38%    8.510      1 Template:Abbr","  2.66%    4.214      5 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.040","limit":"10.000"},"limitreport-memusage":{"value":1510660,"limit":52428800}},"cachereport":{"origin":"mw1339","timestamp":"20191018145203","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Shepherd (name)","url":"https:\/\/en.wikipedia.org\/wiki\/Shepherd_(name)#Shepherd","sameAs":"http:\/\/www.wikidata.org\/entity\/Q18987420","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q18987420","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-11-11T22:29:47Z","dateModified":"2019-09-02T17:27:22Z","headline":"family name"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":128,"wgHostname":"mw1330"});});</script>
 </body>
 </html>

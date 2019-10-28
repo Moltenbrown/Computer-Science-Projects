@@ -2,35 +2,34 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Brooks (surname) - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Brooks_(surname)","wgTitle":"Brooks (surname)","wgCurRevisionId":917548251,"wgRevisionId":917548251,"wgArticleId":4661526,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","All set index articles","Surnames","English-language surnames","Surnames of English origin"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Brooks_(surname)","wgRelevantArticleId":4661526,
-"wgRequestId":"Xa3F0ApAAEUAACKOAFYAAABB","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1354011","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready",
-"mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp",
-"skins.vector.js"];</script>
+<title>DeLuca - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"DeLuca","wgTitle":"DeLuca","wgCurRevisionId":903526112,"wgRevisionId":903526112,"wgArticleId":37677998,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","All set index articles","Surnames","Italian-language surnames","Surnames of Italian origin"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"DeLuca","wgRelevantArticleId":37677998,"wgRequestId":
+"XbPyBApAME8AAKb9sq4AAABN","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q28885953","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready",
+"wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.2"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Brooks_(surname)"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Brooks_(surname)&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Brooks_(surname)&amp;action=edit"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/DeLuca"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=DeLuca&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=DeLuca&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Brooks_(surname)"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/DeLuca"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Brooks_surname rootpage-Brooks_surname skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-DeLuca rootpage-DeLuca skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -39,7 +38,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Brooks (surname)</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">DeLuca</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -50,576 +49,106 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em"><caption>Brooks</caption><tbody><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Origin</th></tr><tr><th scope="row">Meaning</th><td>"residing near a stream or brook"</td></tr><tr><th scope="row">Region of origin</th><td><a href="/wiki/Anjou,_Is%C3%A8re" title="Anjou, Isère">Anjou, France</a> / <a href="/wiki/Germany" title="Germany">Germany</a> / <a href="/wiki/Scandinavia" title="Scandinavia">Scandinavia</a></td></tr><tr><td colspan="2" style="text-align:center;border-top: #a2a9b1 1px solid;"><sup id="cite_ref-BDR_1-0" class="reference"><a href="#cite_note-BDR-1">&#91;1&#93;</a></sup></td></tr></tbody></table>
-<p><b>Brooks</b> is a <a href="/wiki/Toponymic" class="mw-redirect" title="Toponymic">toponymic</a> <a href="/wiki/Surname" title="Surname">surname</a> that is thought to have been derived residing near a <a href="/wiki/Stream" title="Stream">stream</a> (or <a href="/wiki/Stream" title="Stream">brook</a>) from both the <a href="/wiki/Swedish_language" title="Swedish language">Swedish</a> surname Bäckland, meaning bäck "brook, stream" and lund "grove" and <a href="/wiki/English_language" title="English language">English</a> , <a href="/wiki/Old_Irish" title="Old Irish">Gaelic</a> and <a href="/wiki/Scots_language" title="Scots language">Scottish</a> from the possessive case of Brook (i.e. ‘of the brook’) from pre 7th century English origins; Old English broc and appearing in the Medieval predecessors of "Brooks" such as "Ate-Broc" and "Atte-Broc". The surname Brooks has many <a href="/wiki/Germanic_languages" title="Germanic languages">Germanic</a> (Anglo Saxon) links and is sometimes associated with the countries <a href="/wiki/Denmark" title="Denmark">Denmark</a> , <a href="/wiki/Sweden" title="Sweden">Sweden</a> and <a href="/wiki/Norway" title="Norway">Norway</a> within <a href="/wiki/Scandinavia" title="Scandinavia">Scandinavia</a> and has wide links to the <a href="/wiki/Scandinavian_Peninsula" title="Scandinavian Peninsula">Scandinavian Peninsula</a>. Commonly recorded in <a href="/wiki/Germany" title="Germany">Germany</a> , where it is sometimes found with the aristocratic "von", England, Scotland and Ireland it has many possible origins.<sup id="cite_ref-CrescentRecord_2-0" class="reference"><a href="#cite_note-CrescentRecord-2">&#91;2&#93;</a></sup> The word "brook" derives from the <a href="/wiki/Old_English" title="Old English">Old English</a> <i>broc</i> and appears in the Medieval predecessors of "Brooks" such as "Ate-Broc" and "Atte-Broc".<sup id="cite_ref-CrescentRecord_2-1" class="reference"><a href="#cite_note-CrescentRecord-2">&#91;2&#93;</a></sup><sup id="cite_ref-OnlineEtym_3-0" class="reference"><a href="#cite_note-OnlineEtym-3">&#91;3&#93;</a></sup><sup id="cite_ref-Webster&#39;sDict_4-0" class="reference"><a href="#cite_note-Webster&#39;sDict-4">&#91;4&#93;</a></sup> The surname arrived in North America from England in the mid-seventeenth century.<sup id="cite_ref-CrescentRecord_2-2" class="reference"><a href="#cite_note-CrescentRecord-2">&#91;2&#93;</a></sup>
-</p><p>The surname is recorded in Ireland from the 1600s. O'Laughlin reports that "some of the name could stem from Irish origins, the name being changed into the English word 'Brook' or Brooks."<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
-The surname is also found among English-speaking <a href="/wiki/Ashkenazi_Jews" title="Ashkenazi Jews">Ashkenazi Jews</a>, deriving from the male Hebrew given name <i><a href="/wiki/Boruch" title="Boruch">Boruch</a></i>, meaning "blessed".
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em"><caption>DeLuca</caption><tbody><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Origin</th></tr><tr><th scope="row">Language(s)</th><td><a href="/wiki/Italian_language" title="Italian language">Italian</a></td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Other names</th></tr><tr><th scope="row">Variant form(s)</th><td>Deluca, De Luca</td></tr></tbody></table>
+<p><b>DeLuca</b>, also spelled <b>Deluca</b> or <b>De Luca</b>, is an <a href="/wiki/Italian_language" title="Italian language">Italian-language</a> surname.
+</p><p>People with the surname include:
 </p>
-<div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;"><span id="tocheading" style="font-weight:bold;">Contents</span></div>
-<div style="margin:auto;white-space:nowrap;">         
-<ul><li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a> </li></ul>
-<p class="mw-empty-elt">
-</p>
-<ul><li><a href="#Compound_surnames">Compound surnames  </a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li></ul>
-</div></div>
-<p>The surname <b>Brooks</b> is shared by many notable people:
-</p>
-<h2><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooks_(surname)&amp;action=edit&amp;section=1" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/A._Brooks_(Middlesex_cricketer)" class="mw-redirect" title="A. Brooks (Middlesex cricketer)">A. Brooks (Middlesex cricketer)</a> (b. c. 1800), English cricketer</li>
-<li><a href="/wiki/Aaron_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Aaron Brooks (disambiguation)">Aaron Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Abraham_Brooks" title="Abraham Brooks">Abraham Brooks</a> (1852–1925), English cricketer</li>
-<li><a href="/wiki/Adam_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Adam Brooks (disambiguation)">Adam Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Adrian_Brooks" title="Adrian Brooks">Adrian Brooks</a> (b. 1957), English soccer player</li>
-<li><a href="/wiki/Ahmad_Brooks" title="Ahmad Brooks">Ahmad Brooks</a> (b. 1984), American football linebacker</li>
-<li><a href="/wiki/Ahmad_D._Brooks" title="Ahmad D. Brooks">Ahmad D. Brooks</a> (b. 1980), American football player and sports broadcaster</li>
-<li><a href="/wiki/Aimee_Brooks" title="Aimee Brooks">Aimee Brooks</a> (b. 1974), American actress</li>
-<li><a href="/wiki/Albert_Brooks" title="Albert Brooks">Albert Brooks</a> (b. 1947), American actor, comedian, and director</li>
-<li><a href="/wiki/Alden_Brooks" title="Alden Brooks">Alden Brooks</a> (1882–1964), American writer</li>
-<li><a href="/wiki/Alex_Brooks" title="Alex Brooks">Alex Brooks</a> (b. 1976), American ice hockey player</li>
-<li><a href="/wiki/Alexandra_Brooks" title="Alexandra Brooks">Alexandra Brooks</a> (b. 1995), English footballer</li>
-<li><a href="/wiki/Alfred_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Alfred Brooks (disambiguation)">Alfred Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Alison_Brooks" title="Alison Brooks">Alison Brooks</a> (b. 1962), Canadian architect</li>
-<li><a href="/wiki/Allan_Brooks" title="Allan Brooks">Allan Brooks</a> (1869&#8211;1946), Canadian ornithologist and bird artist</li>
-<li><a href="/wiki/Allette_Brooks" title="Allette Brooks">Allette Brooks</a> (<a href="/wiki/Floruit" title="Floruit">fl.</a> 1996&#8211;2001), American folk singer</li>
-<li><a href="/wiki/Allison_Brooks" title="Allison Brooks">Allison Brooks</a> (1917–2006), American aviator</li>
-<li><a href="/wiki/Alvin_Brooks" title="Alvin Brooks">Alvin Brooks</a>, American basketball coach</li>
-<li><a href="/wiki/Amanda_Brooks" title="Amanda Brooks">Amanda Brooks</a> (b. 1981), American actress</li>
-<li><a href="/wiki/Amber_Brooks" title="Amber Brooks">Amber Brooks</a> (b. 1991), American soccer player</li>
-<li><a href="/wiki/Ameal_Brooks" title="Ameal Brooks">Ameal Brooks</a> (1904–1971), American baseball player</li>
-<li><a href="/wiki/Andy_Brooks" title="Andy Brooks">Andy Brooks</a>, British Communist leader</li>
-<li><a href="/wiki/Angel_Brooks" class="mw-redirect" title="Angel Brooks">Angel Brooks</a>, character on the Australian soap opera <i>Home and Away</i></li>
-<li>Angela Brooks, American architect, partner in <a href="/wiki/Brooks_%2B_Scarpa" title="Brooks + Scarpa">Brooks + Scarpa</a></li>
-<li><a href="/wiki/Angelle_Brooks" title="Angelle Brooks">Angelle Brooks</a> (b. 1967), American actress</li>
-<li><a href="/wiki/Angie_Brooks" title="Angie Brooks">Angie Brooks</a> (1928–2007), Liberian diplomat and jurist</li>
-<li><a href="/wiki/Annabel_Brooks" title="Annabel Brooks">Annabel Brooks</a> (b. 1962), British actress</li>
-<li><a href="/wiki/Anne_Brooks" title="Anne Brooks">Anne Brooks</a> (b. 1938), American physician and nun</li>
-<li><a href="/wiki/Anne_Rose_Brooks" title="Anne Rose Brooks">Anne Rose Brooks</a> (b. 1963), American actress</li>
-<li><a href="/wiki/Anthony_Brooks" title="Anthony Brooks">Anthony Brooks</a> (1922&#8211;2007), British undercover agent</li>
-<li><a href="/wiki/Anthony_Michael_Brooks" title="Anthony Michael Brooks">Anthony Michael Brooks</a> (b. 1993), American speedcuber</li>
-<li>April Brooks, the real name of professional wrestler <a href="/wiki/AJ_Lee" title="AJ Lee">AJ Lee</a></li>
-<li><a href="/wiki/Archie_Brooks" title="Archie Brooks">Archie Brooks</a>, fictional character from the British soap opera <i>Emmerdale</i></li>
-<li>Art Brooks, see <a href="/wiki/Arthur_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Arthur Brooks (disambiguation)">Arthur Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Arthur_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Arthur Brooks (disambiguation)">Arthur Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Audrey_Brooks" title="Audrey Brooks">Audrey Brooks</a> (1933-2018), British botanist</li>
-<li><a href="/wiki/Avery_Brooks" title="Avery Brooks">Avery Brooks</a> (b. 1948), American film/TV actor</li></ul>
-<h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooks_(surname)&amp;action=edit&amp;section=2" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Barney_Brooks" title="Barney Brooks">Barney Brooks</a>, American physician</li>
-<li><a href="/wiki/Barrett_Brooks" title="Barrett Brooks">Barrett Brooks</a>, American football player</li>
-<li><a href="/wiki/Barry_Brooks_(disambiguation)" class="mw-disambig" title="Barry Brooks (disambiguation)">Barry Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Beau_Brooks" class="mw-redirect" title="Beau Brooks">Beau Brooks</a>, member of <a href="/wiki/The_Janoskians" title="The Janoskians">The Janoskians</a></li>
-<li>Ben Brooks, see <a href="/wiki/Benjamin_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Benjamin Brooks (disambiguation)">Benjamin Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Benjamin_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Benjamin Brooks (disambiguation)">Benjamin Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Bert_Brooks" title="Bert Brooks">Bert Brooks</a> (1920–1968), Canadian race car driver</li>
-<li><a href="/wiki/Beverley_Brooks" class="mw-redirect" title="Beverley Brooks">Beverley Brooks</a>, stage name of British actress Pamela Harmsworth, Viscountess Rothermere</li>
-<li><a href="/wiki/Bill_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Bill Brooks (disambiguation)">Bill Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Billy_Brooks" title="Billy Brooks">Billy Brooks</a> (b. 1953), American football player</li>
-<li>Bob or Bobby Brooks, see <a href="/wiki/Robert_Brooks_(disambiguation)" class="mw-disambig" title="Robert Brooks (disambiguation)">Robert Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Bonnie_Brooks" title="Bonnie Brooks">Bonnie Brooks</a> (b. 1953), Canadian department store executive</li>
-<li><a href="/wiki/Brandon_Brooks_(disambiguation)" class="mw-disambig" title="Brandon Brooks (disambiguation)">Brandon Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Brendan_Brooks" title="Brendan Brooks">Brendan Brooks</a> (b. 1978), Canadian ice hockey player</li>
-<li><a href="/wiki/Brittany_Brooks" title="Brittany Brooks">Brittany Brooks</a> (b. 1985), American musician</li>
-<li><a href="/wiki/Bruce_Brooks" title="Bruce Brooks">Bruce Brooks</a> (b. 1950), American author</li>
-<li><a href="/wiki/Bryant_Butler_Brooks" title="Bryant Butler Brooks">Bryant Butler Brooks</a>, American politician</li>
-<li><a href="/wiki/Bubba_Brooks" title="Bubba Brooks">Bubba Brooks</a> (1922–2002), American saxophonist</li>
-<li><a href="/wiki/Bucky_Brooks" title="Bucky Brooks">Bucky Brooks</a> (b. 1971), American sportswriter</li>
-<li><a href="/wiki/Bud_Brooks" title="Bud Brooks">Bud Brooks</a>, American football player</li>
-<li>Byron Alden Brooks, author of the 1893 novel <i><a href="/wiki/Earth_Revisited" title="Earth Revisited">Earth Revisited</a></i></li></ul>
-<h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooks_(surname)&amp;action=edit&amp;section=3" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li>Carl Brooks, 1973 Author</li>
-<li>Carlos Brooks, writer and director of the 2008 movie <i><a href="/wiki/Quid_Pro_Quo_(film)" title="Quid Pro Quo (film)">Quid Pro Quo</a></i></li>
-<li><a href="/wiki/Caroline_Shawk_Brooks" title="Caroline Shawk Brooks">Caroline Shawk Brooks</a> (1840–1913), American sculptor</li>
-<li><a href="/wiki/Cat_Brooks" title="Cat Brooks">Cat Brooks</a>, American activist</li>
-<li><a href="/wiki/Cecil_Brooks_III" title="Cecil Brooks III">Cecil Brooks III</a>, American jazz drummer</li>
-<li><a href="/wiki/Cecil_Joslin_Brooks" title="Cecil Joslin Brooks">Cecil Joslin Brooks</a> (1875–1953), British metallurgical chemist and naturalist</li>
-<li><a href="/wiki/Cedric_Brooks" title="Cedric Brooks">Cedric Brooks</a> (1943–2013), Jamaican saxophonist and flautist</li>
-<li><a href="/wiki/Chandler_McCuskey_Brooks" title="Chandler McCuskey Brooks">Chandler McCuskey Brooks</a> (1905–1989), American physiologist</li>
-<li><a href="/wiki/Charles_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Charles Brooks (disambiguation)">Charles Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Charlie_Brooks" title="Charlie Brooks">Charlie Brooks</a> (b. 1981), Welsh actress</li>
-<li><a href="/wiki/Charlie_Brooks_(racehorse_trainer)" title="Charlie Brooks (racehorse trainer)">Charlie Brooks (racehorse trainer)</a> (b. 1963), British racehorse trainer</li>
-<li><a href="/wiki/Charlotte_Brooks" title="Charlotte Brooks">Charlotte Brooks</a> (1918–2014), American photojournalist</li>
-<li><a href="/wiki/Charmaine_Brooks" title="Charmaine Brooks">Charmaine Brooks</a> (b. 1970), Canadian singer-songwriter</li>
-<li><a href="/wiki/Chase_Brooks" title="Chase Brooks">Chase Brooks</a>, American soccer player and coach</li>
-<li><a href="/wiki/Cherryl_Brooks" class="mw-redirect" title="Cherryl Brooks">Cherryl Brooks</a>, fictional character from <i>Atlas Shrugged</i></li>
-<li><a href="/wiki/Chet_Brooks" title="Chet Brooks">Chet Brooks</a> (b. 1966), American football player</li>
-<li><a href="/wiki/Chris_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Chris Brooks (disambiguation)">Chris Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Clifford_Cleveland_Brooks" title="Clifford Cleveland Brooks">Clifford Cleveland Brooks</a>, American politician</li>
-<li><a href="/wiki/Cindy_Brooks_(model)" class="mw-redirect" title="Cindy Brooks (model)">Cindy Brooks (model)</a> (born 1951), American model and actress</li>
-<li><a href="/wiki/Cindy_Brooks_(rower)" title="Cindy Brooks (rower)">Cindy Brooks (rower)</a> (born 1965), American rower</li>
-<li><a href="/wiki/Claire_Brooks" title="Claire Brooks">Claire Brooks</a> (1931–2008), British politician</li>
-<li><a href="/wiki/Cleanth_Brooks" title="Cleanth Brooks">Cleanth Brooks</a> (1906&#8211;1994), American literary critic</li>
-<li><a href="/wiki/Clifford_Brooks" title="Clifford Brooks">Clifford Brooks</a> (b. 1949), American football player</li>
-<li><a href="/wiki/Clive_Brooks" title="Clive Brooks">Clive Brooks</a> (b. 1949), English drummer</li>
-<li><a href="/wiki/Coby_G._Brooks" title="Coby G. Brooks">Coby G. Brooks</a> (b. 1969), American businessman</li>
-<li><a href="/wiki/Colin_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Colin Brooks (disambiguation)">Colin Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Collin_Brooks" title="Collin Brooks">Collin Brooks</a> (1893–1959), British journalist, writer and broadcaster</li>
-<li><a href="/wiki/Conrad_Brooks" title="Conrad Brooks">Conrad Brooks</a> (1931–2017), American actor</li>
-<li>Constance "Connie" Brooks (see <i><a href="/wiki/Our_Miss_Brooks" title="Our Miss Brooks">Our Miss Brooks</a></i>), fictional English language teacher</li>
-<li><a href="/wiki/Corey_Brooks" title="Corey Brooks">Corey Brooks</a>, American politician</li></ul>
-<h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooks_(surname)&amp;action=edit&amp;section=4" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/D._W._Brooks" title="D. W. Brooks">D. W. Brooks</a> (1901–1969), American farmer and businessman</li>
-<li><a href="/wiki/Dallas_Brooks" title="Dallas Brooks">Dallas Brooks</a>, Australian general and politician</li>
-<li>Daniel Brooks, American clothier, one of the <a href="/wiki/Brooks_Brothers" title="Brooks Brothers">Brooks Brothers</a></li>
-<li><a href="/wiki/Daniel_Brooks" title="Daniel Brooks">Daniel Brooks</a> (born  1958), Canadian theatre director, actor and playwright</li>
-<li><a href="/wiki/Danny_Brooks" title="Danny Brooks">Danny Brooks</a> (born  1951), Canadian blues musician</li>
-<li><a href="/wiki/Darin_Brooks" title="Darin Brooks">Darin Brooks</a>, American actor</li>
-<li><a href="/wiki/Darren_Brooks" title="Darren Brooks">Darren Brooks</a> (born  1982), American professional basketball player</li>
-<li><a href="/wiki/David_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="David Brooks (disambiguation)">David Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Dean_Brooks" title="Dean Brooks">Dean Brooks</a> (1916–2013), American physician and actor</li>
-<li><a href="/wiki/Deanna_Brooks" title="Deanna Brooks">Deanna Brooks</a>, American model</li>
-<li><a href="/wiki/Delray_Brooks" title="Delray Brooks">Delray Brooks</a> (born  1965), American basketball player and coach</li>
-<li><a href="/wiki/De%27Mon_Brooks" title="De&#39;Mon Brooks">De'Mon Brooks</a>, (born  1992), American basketball player</li>
-<li><a href="/wiki/Derreck_Brooks" title="Derreck Brooks">Derreck Brooks</a> (born  1994), American professional basketball player</li>
-<li><a href="/wiki/Derrick_Brooks" title="Derrick Brooks">Derrick Brooks</a> (born  1973), American professional football player</li>
-<li><a href="/wiki/Derrius_Brooks" title="Derrius Brooks">Derrius Brooks</a> (born 1988), American football player</li>
-<li><a href="/wiki/Desley_Brooks" title="Desley Brooks">Desley Brooks</a>, American politician</li>
-<li><a href="/wiki/Dianne_Brooks" title="Dianne Brooks">Dianne Brooks</a> (1939–2005), American jazz singer</li>
-<li>Dick or Dickie Brooks, see <a href="/wiki/Richard_Brooks_(disambiguation)" class="mw-disambig" title="Richard Brooks (disambiguation)">Richard Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Dillon_Brooks" title="Dillon Brooks">Dillon Brooks</a> (born 1996), Canadian basketball player</li>
-<li><a href="/wiki/Dolores_%22LaLa%22_Brooks" title="Dolores &quot;LaLa&quot; Brooks">Dolores "LaLa" Brooks</a> (born  1947), former member of girl group The Crystals</li>
-<li><a href="/wiki/Don_Frank_Brooks" title="Don Frank Brooks">Don Frank Brooks</a> (1947–2000), American blues harmonica player</li>
-<li><a href="/wiki/Donald_Brooks" title="Donald Brooks">Donald Brooks</a>, American fashion designer</li>
-<li><a href="/wiki/Donnie_Brooks" title="Donnie Brooks">Donnie Brooks</a> (born  1936), American pop music singer</li>
-<li>Douglas Jackson Brooks (born  1956), American country music singer, known as <a href="/wiki/Doug_Stone" title="Doug Stone">Doug Stone</a></li>
-<li><a href="/wiki/Dudley_Brooks" title="Dudley Brooks">Dudley Brooks</a> (1913–1989), American jazz pianist</li>
-<li><a href="/wiki/Durant_Brooks" title="Durant Brooks">Durant Brooks</a> (born  1985), American football player</li>
-<li><a href="/wiki/Dustin_Brooks_(Zoey_101)" class="mw-redirect" title="Dustin Brooks (Zoey 101)">Dustin</a> <a href="/wiki/List_of_Zoey_101_characters" title="List of Zoey 101 characters">Brooks</a>, two unrelated fictional characters from <i>Power Rangers Ninja Storm</i> and <i>Zoey 101,</i> respectively</li>
-<li><a href="/wiki/Duwayne_Brooks" title="Duwayne Brooks">Duwayne Brooks</a> (born  1974), English politician</li></ul>
-<h2><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooks_(surname)&amp;action=edit&amp;section=5" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Earl_Brooks" title="Earl Brooks">Earl Brooks</a> (1929–2010), American race car driver</li>
-<li>Earl Brooks, title character of the film <i><a href="/wiki/Mr._Brooks" title="Mr. Brooks">Mr. Brooks</a></i></li>
-<li>Ed Brooks, see <a href="/wiki/Edward_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Edward Brooks (disambiguation)">Edward Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Edgar_Brooks" title="Edgar Brooks">Edgar Brooks</a> (b. 1914), English rugby league footballer</li>
-<li><a href="/wiki/Edmund_Wright_Brooks" title="Edmund Wright Brooks">Edmund Wright Brooks</a> (1834&#8211;1928), English Quaker philanthropist and cement maker</li>
-<li><a href="/wiki/Edward_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Edward Brooks (disambiguation)">Edward Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Edwin_Brooks" title="Edwin Brooks">Edwin Brooks</a> (b. 1929), British-Australian politician and academic</li>
-<li><a href="/wiki/Edwin_B._Brooks" title="Edwin B. Brooks">Edwin B. Brooks</a> (1868–1933), American politician</li>
-<li><a href="/wiki/Edwy_Searles_Brooks" title="Edwy Searles Brooks">Edwy Searles Brooks</a> (1889–1965), British novelist</li>
-<li><a href="/wiki/Elbridge_Streeter_Brooks" title="Elbridge Streeter Brooks">Elbridge Streeter Brooks</a> (1846–1902), American author, editor and critic</li>
-<li><a href="/wiki/Elisabeth_Brooks" title="Elisabeth Brooks">Elisabeth Brooks</a> (1951&#8211;1997), Canadian actress</li>
-<li>Elisha Brooks, American clothier, one of the <a href="/wiki/Brooks_Brothers" title="Brooks Brothers">Brooks Brothers</a></li>
-<li><a href="/wiki/Elizabeth_Carter_Brooks" title="Elizabeth Carter Brooks">Elizabeth Carter Brooks</a> (1867-1951), American architect, educator and social activist</li>
-<li><a href="/wiki/Elkie_Brooks" title="Elkie Brooks">Elkie Brooks</a> (b. 1945), British singer</li>
-<li><a href="/wiki/Ellen_Brooks" title="Ellen Brooks">Ellen Brooks</a> (b. 1946), American photographer</li>
-<li><a href="/wiki/Elmore_Brooks" class="mw-redirect" title="Elmore Brooks">Elmore Brooks</a> (1918–1963), American blues guitarist, better known as Elmore James</li>
-<li><a href="/wiki/Erastus_Brooks" title="Erastus Brooks">Erastus Brooks</a> (1815–1886), New York newspaper editor and politician</li>
-<li><a href="/wiki/Eric_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Eric Brooks (disambiguation)">Eric Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Ernest_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Ernest Brooks (disambiguation)">Ernest Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Errol_Brooks" title="Errol Brooks">Errol Brooks</a> (b. 1951), Antiguan bishop</li>
-<li><a href="/wiki/Ethan_Brooks" title="Ethan Brooks">Ethan Brooks</a> (b. 1972), American football player</li>
-<li><a href="/wiki/Eugene_C._Brooks" title="Eugene C. Brooks">Eugene C. Brooks</a> (1871–1947), American educator</li></ul>
-<h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooks_(surname)&amp;action=edit&amp;section=6" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Farmer_Brooks" title="Farmer Brooks">Farmer Brooks</a>, Canadian professional wrestler</li>
-<li><a href="/wiki/Foster_Brooks" title="Foster Brooks">Foster Brooks</a>, American comedian</li>
-<li><a href="/wiki/Francis_Gerard_Brooks" title="Francis Gerard Brooks">Francis Gerard Brooks</a> (1924–2010), Northern Irish Roman Catholic bishop</li>
-<li><a href="/wiki/Francis_K._Brooks" title="Francis K. Brooks">Francis K. Brooks</a> (b. 1943), American educator and politician</li>
-<li><a href="/wiki/Frank_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Frank Brooks (disambiguation)">Frank Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Frank_Leonard_Brooks" title="Frank Leonard Brooks">Frank Leonard Brooks</a>, Canadian artist</li>
-<li><a href="/wiki/Frankie_Brooks" class="mw-redirect" title="Frankie Brooks">Frankie Brooks</a>, fictional character in the Australian soap opera <i>Home and Away</i></li>
-<li><a href="/wiki/Franklin_E._Brooks" title="Franklin E. Brooks">Franklin E. Brooks</a> (1860–1916), American politician</li>
-<li><a href="/wiki/Frederick_Brooks_(disambiguation)" class="mw-disambig" title="Frederick Brooks (disambiguation)">Frederick Brooks (disambiguation)</a>, also includes Fred and Freddie Brooks</li></ul>
-<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooks_(surname)&amp;action=edit&amp;section=7" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Gabriel_Brooks" title="Gabriel Brooks">Gabriel Brooks</a> (1704–1741), English calligrapher</li>
-<li><a href="/wiki/Gareth_Brooks" title="Gareth Brooks">Gareth Brooks</a> (b. 1979), New Zealand field hockey player</li>
-<li><a href="/wiki/Garth_Brooks" title="Garth Brooks">Garth Brooks</a> (b. 1962), American musician</li>
-<li><a href="/wiki/Gary_Brooks" title="Gary Brooks">Gary Brooks</a> (b. 1980), Jamaican <a href="/wiki/Association_football" title="Association football">Association football</a> player</li>
-<li><a href="/wiki/Gene_Edward_Brooks" title="Gene Edward Brooks">Gene Edward Brooks</a> (1931–2004), American judge</li>
-<li><a href="/wiki/George_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="George Brooks (disambiguation)">George Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Georgia_Brooks" title="Georgia Brooks">Georgia Brooks</a>, fictional character from the soap opera <i>Neighbours</i></li>
-<li><a href="/wiki/Gerald_Brooks" title="Gerald Brooks">Gerald Brooks</a> (1905–1974), Belizean bishop</li>
-<li><a href="/wiki/Geraldine_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Geraldine Brooks (disambiguation)">Geraldine Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Glenn_Brooks" title="Glenn Brooks">Glenn Brooks</a>, Canadian politician</li>
-<li><a href="/wiki/Golden_Brooks" title="Golden Brooks">Golden Brooks</a>, American actress</li>
-<li><a href="/wiki/Gord_Brooks" title="Gord Brooks">Gord Brooks</a> (b. 1950), Canadian ice hockey player</li>
-<li><a href="/wiki/Gordon_Brooks" title="Gordon Brooks">Gordon Brooks</a> (1938–2004), Australian cricketer</li>
-<li><a href="/wiki/Greg_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Greg Brooks (disambiguation)">Greg Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Gregory_Brooks" title="Gregory Brooks">Gregory Brooks</a>, American poker player</li>
-<li><a href="/wiki/Guy_Brooks" title="Guy Brooks">Guy Brooks</a>, American fiddle player</li>
-<li><a href="/wiki/Gwendolyn_Brooks" title="Gwendolyn Brooks">Gwendolyn Brooks</a>, (1917&#8211;2000), award-winning African American woman poet</li></ul>
-<h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooks_(surname)&amp;action=edit&amp;section=8" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/H._Allen_Brooks" title="H. Allen Brooks">H. Allen Brooks</a> (1925–2010), American architectural historian</li>
-<li>H. H. Brooks, co-founder of the <a href="/wiki/Herff-Brooks_Corporation" title="Herff-Brooks Corporation">Herff-Brooks Corporation</a></li>
-<li><a href="/wiki/Hadda_Brooks" title="Hadda Brooks">Hadda Brooks</a>, American pianist</li>
-<li><a href="/wiki/Halbert_W._Brooks" title="Halbert W. Brooks">Halbert W. Brooks</a> (b. 1985), American politician</li>
-<li><a href="/wiki/Hannibal_Brooks" title="Hannibal Brooks">Hannibal Brooks</a>, fictional character from the film of the same name</li>
-<li><a href="/wiki/Harold_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Harold Brooks (disambiguation)">Harold Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Harriet_Brooks" title="Harriet Brooks">Harriet Brooks</a>, Canadian physicist</li>
-<li><a href="/wiki/Harry_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Harry Brooks (disambiguation)">Harry Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Harvey_Brooks_(bassist)" title="Harvey Brooks (bassist)">Harvey Brooks (bassist)</a>, American bassist</li>
-<li><a href="/wiki/Harvey_Brooks_(physicist)" title="Harvey Brooks (physicist)">Harvey Brooks (physicist)</a> (1915–2004), American physicist</li>
-<li><a href="/wiki/Harvey_Oliver_Brooks" class="mw-redirect" title="Harvey Oliver Brooks">Harvey Oliver Brooks</a> (1899–1968), American pianist and composer</li>
-<li><a href="/wiki/Hazel_Brooks" title="Hazel Brooks">Hazel Brooks</a> (1924–2002), American actress</li>
-<li><a href="/wiki/Helen_Brooks" class="mw-redirect" title="Helen Brooks">Helen Brooks</a>, pseudonym of the British novelist Rita Bradshaw</li>
-<li><a href="/wiki/Hellen_M._Brooks" title="Hellen M. Brooks">Hellen M. Brooks</a>, American educator and politician</li>
-<li>Henderson Brooks, Indian general, co-author of the <a href="/wiki/Henderson_Brooks%E2%80%93Bhagat_Report" title="Henderson Brooks–Bhagat Report">Henderson Brooks–Bhagat Report</a></li>
-<li><a href="/wiki/Henry_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Henry Brooks (disambiguation)">Henry Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Herb_Brooks" title="Herb Brooks">Herb Brooks</a>, American ice hockey coach</li>
-<li>Hillery Brooks, American planter, for whom <a href="/wiki/Brooks,_Georgia" title="Brooks, Georgia">Brooks, Georgia</a>, was named</li>
-<li><a href="/wiki/Holly_Brooks" title="Holly Brooks">Holly Brooks</a> (b. 1982), American skier</li>
-<li>Holly Brooks, fictional character on the TV show <i><a href="/wiki/Malcolm_%26_Eddie" title="Malcolm &amp; Eddie">Malcolm &amp; Eddie</a></i></li>
-<li><a href="/wiki/Horace_Brooks" title="Horace Brooks">Horace Brooks</a> (1814–1894), American army officer</li>
-<li><a href="/wiki/Horatio_G._Brooks" title="Horatio G. Brooks">Horatio G. Brooks</a>, American rail engineer</li>
-<li><a href="/wiki/Hubert_Brooks" title="Hubert Brooks">Hubert Brooks</a> (1921–1984), Canadian air force officer and hockey player</li>
-<li><a href="/wiki/Hubie_Brooks" title="Hubie Brooks">Hubie Brooks</a>, American baseball player</li></ul>
-<h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooks_(surname)&amp;action=edit&amp;section=9" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Ian_James_Brooks" class="mw-redirect" title="Ian James Brooks">Ian James Brooks</a> (b. 1928), New Zealand politician</li>
-<li><a href="/wiki/Irvin_Brooks" title="Irvin Brooks">Irvin Brooks</a> (1891–1966), American baseball player</li></ul>
-<h2><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooks_(surname)&amp;action=edit&amp;section=10" title="Edit section: J">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/J._Brooks" title="J. Brooks">J. Brooks</a> (fl. 1892), English cricketer</li>
-<li><a href="/wiki/J._Stewart_Brooks" title="J. Stewart Brooks">J. Stewart Brooks</a> (1910–2000), Canadian politician</li>
-<li><a href="/wiki/J._Twing_Brooks" title="J. Twing Brooks">J. Twing Brooks</a> (1884&#8211;1956), U.S. congressman from Pennsylvania</li>
-<li><a href="/wiki/Jack_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Jack Brooks (disambiguation)">Jack Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Jai_Brooks" class="mw-redirect" title="Jai Brooks">Jai Brooks</a>, member of Australian group "The Janoskians"</li>
-<li><a href="/wiki/Jamal_Brooks" title="Jamal Brooks">Jamal Brooks</a> (b. 1976), American football player</li>
-<li><a href="/wiki/James_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="James Brooks (disambiguation)">James Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Jamie_Brooks" title="Jamie Brooks">Jamie Brooks</a> (born 1983), English football player</li>
-<li><a href="/wiki/Janice_Young_Brooks" class="mw-redirect" title="Janice Young Brooks">Janice Young Brooks</a>, birth name of American mystery writer Jill Churchill</li>
-<li><a href="/wiki/Jason_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Jason Brooks (disambiguation)">Jason Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Javille_Brooks" title="Javille Brooks">Javille Brooks</a> (b. 1984), Anguillan footballer</li>
-<li>Jay Brooks, fictional character from the movie <i><a href="/wiki/I%27m_Through_with_White_Girls_(The_Inevitable_Undoing_of_Jay_Brooks)" class="mw-redirect" title="I&#39;m Through with White Girls (The Inevitable Undoing of Jay Brooks)">I'm Through with White Girls (The Inevitable Undoing of Jay Brooks)</a></i></li>
-<li>JC Brooks, lead singer of <a href="/wiki/JC_Brooks_%26_the_Uptown_Sound" class="mw-redirect" title="JC Brooks &amp; the Uptown Sound">JC Brooks &amp; the Uptown Sound</a></li>
-<li><a href="/wiki/Jean_Brooks" title="Jean Brooks">Jean Brooks</a>, American actress</li>
-<li><a href="/wiki/Jeff_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Jeff Brooks (disambiguation)">Jeff Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Jehiel_Brooks" title="Jehiel Brooks">Jehiel Brooks</a> (1797–1886), American soldier and politician</li>
-<li><a href="/wiki/Jeremy_Brooks" title="Jeremy Brooks">Jeremy Brooks</a> (1926–1994), British writer</li>
-<li><a href="/wiki/Jerry_Brooks" title="Jerry Brooks">Jerry Brooks</a> (b. 1967), American baseball player</li>
-<li>Jerry Brooks (b. 1966), American actor and writer, known by the stage name <a href="/wiki/J._B._Smoove" title="J. B. Smoove">J. B. Smoove</a></li>
-<li><a href="/wiki/Jess_Lee_Brooks" title="Jess Lee Brooks">Jess Lee Brooks</a> (1894–1944), American actor</li>
-<li><a href="/wiki/Jessica_Brooks" title="Jessica Brooks">Jessica Brooks</a> (b. 1981), English actress</li>
-<li>Jim or Jimmy Brooks, see <a href="/wiki/James_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="James Brooks (disambiguation)">James Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Joanna_Brooks" title="Joanna Brooks">Joanna Brooks</a>, American author and professor</li>
-<li><a href="/wiki/Jody_Brooks" class="mw-redirect" title="Jody Brooks">Jody Brooks</a>, American country music singer, better known as Jody Miller</li>
-<li>Joe Brooks, see <a href="/wiki/Joseph_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Joseph Brooks (disambiguation)">Joseph Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Joel_Brooks" title="Joel Brooks">Joel Brooks</a> (b. 1949), American actor</li>
-<li><a href="/wiki/John_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="John Brooks (disambiguation)">John Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Johnny_Brooks" title="Johnny Brooks">Johnny Brooks</a> (b. 1931), English footballer</li>
-<li><a href="/wiki/Jon_Brooks_(disambiguation)" class="mw-disambig" title="Jon Brooks (disambiguation)">Jon Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Joseph_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Joseph Brooks (disambiguation)">Joseph Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Joshua_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Joshua Brooks (disambiguation)">Joshua Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Josie_Brooks" class="mw-redirect" title="Josie Brooks">Josie Brooks</a>, fictional character from the British soap opera <i>Brookside</i></li>
-<li><a href="/wiki/Juanita_Brooks" title="Juanita Brooks">Juanita Brooks</a>, American writer</li>
-<li><a href="/wiki/Julia_Evangeline_Brooks" title="Julia Evangeline Brooks">Julia Evangeline Brooks</a> (1882–1948), American educator</li>
-<li><a href="/wiki/Justin_Brooks" class="mw-redirect" title="Justin Brooks">Justin Brooks</a> (b. 1965), American attorney</li></ul>
-<h2><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooks_(surname)&amp;action=edit&amp;section=11" title="Edit section: K">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/K._S._Brooks" title="K. S. Brooks">K. S. Brooks</a> (b. 1963), American writer and photographer</li>
-<li><a href="/wiki/Karen_Brooks" title="Karen Brooks">Karen Brooks</a> (b. 1954), American country music singer</li>
-<li><a href="/wiki/Karen_Brooks_(author)" title="Karen Brooks (author)">Karen Brooks (author)</a>, Australian fantasy author</li>
-<li><a href="/wiki/Kate_Brooks" title="Kate Brooks">Kate Brooks</a> (b. 1977), American photojournalist</li>
-<li><a href="/wiki/Kate_Brooks_(astronomer)" title="Kate Brooks (astronomer)">Kate Brooks (astronomer)</a>, Australian astronomer</li>
-<li><a href="/wiki/Katherine_Brooks" title="Katherine Brooks">Katherine Brooks</a> (b. 1976), American film writer and director</li>
-<li>Kelly Shane Brooks (b. 1974), American singer-songwriter and pastor, known by the stage name <a href="/wiki/Shane_Stockton" title="Shane Stockton">Shane Stockton</a></li>
-<li><a href="/wiki/Kevin_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Kevin Brooks (disambiguation)">Kevin Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Kimberly_Brooks" title="Kimberly Brooks">Kimberly Brooks</a> (b. 1981), American actress</li>
-<li><a href="/wiki/Kix_Brooks" title="Kix Brooks">Kix Brooks</a> (b. 1955), American musician from <a href="/wiki/Brooks_%26_Dunn" title="Brooks &amp; Dunn">Brooks &amp; Dunn</a></li>
-<li><a href="/wiki/Koleen_Brooks" title="Koleen Brooks">Koleen Brooks</a> (b. 1965), American politician and model</li>
-<li><a href="/wiki/Kristi_Brooks" title="Kristi Brooks">Kristi Brooks</a>, American science fiction author</li></ul>
-<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooks_(surname)&amp;action=edit&amp;section=12" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Lance_Brooks" title="Lance Brooks">Lance Brooks</a> (b. 1984), American discus thrower</li>
-<li><a href="/wiki/Larry_Brooks" title="Larry Brooks">Larry Brooks</a> (b. 1950), American football player</li>
-<li><a href="/wiki/Lawrence_Brooks" title="Lawrence Brooks">Lawrence Brooks</a> (fl. 1940s–1960s), American singer and actor</li>
-<li><a href="/wiki/Lee_Brooks" title="Lee Brooks">Lee Brooks</a> (b. 1983), American composer</li>
-<li><a href="/wiki/Lela_Brooks" title="Lela Brooks">Lela Brooks</a> (1908–1990), Canadian skater</li>
-<li><a href="/wiki/Leo_Brooks" title="Leo Brooks">Leo Brooks</a> (1947–2002), American football player</li>
-<li><a href="/wiki/Leo_A._Brooks,_Jr." class="mw-redirect" title="Leo A. Brooks, Jr.">Leo A. Brooks, Jr.</a> (b. 1957), American general</li>
-<li><a href="/wiki/Leo_A._Brooks,_Sr." class="mw-redirect" title="Leo A. Brooks, Sr.">Leo A. Brooks, Sr.</a>, American general</li>
-<li><a href="/wiki/Leslie_Brooks" title="Leslie Brooks">Leslie Brooks</a> (1922–2011), American actress</li>
-<li><a href="/wiki/Lexie_Brooks" class="mw-redirect" title="Lexie Brooks">Lexie Brooks</a>, fictional character on the American soap opera <i>Days of Our Lives</i></li>
-<li><a href="/wiki/Linton_Brooks" title="Linton Brooks">Linton Brooks</a> (b. 1938), American diplomat</li>
-<li>Linus Brooks, early settler in <a href="/wiki/Brooks,_Oregon" title="Brooks, Oregon">Brooks, Oregon</a></li>
-<li><a href="/wiki/Lonnie_Brooks" title="Lonnie Brooks">Lonnie Brooks</a> (1933–2017), American blues musician</li>
-<li><a href="/wiki/Lorie_Brooks" class="mw-redirect" title="Lorie Brooks">Lorie Brooks</a>, fictional character on the soap opera <i>The Young and the Restless</i></li>
-<li><a href="/wiki/Louise_Brooks" title="Louise Brooks">Louise Brooks</a> (1906–1985), American actress and dancer</li>
-<li><a href="/wiki/Louise_Cromwell_Brooks" title="Louise Cromwell Brooks">Louise Cromwell Brooks</a> (c. 1890–1965), American socialite</li>
-<li><a href="/wiki/Louise_Susannah_Brooks" class="mw-redirect" title="Louise Susannah Brooks">Louise Susannah Brooks</a>, fictional character from the British sitcom <i>Two Pints of Lager and a Packet of Crisps</i></li>
-<li><a href="/wiki/Luke_Brooks" title="Luke Brooks">Luke Brooks</a> (b. 1994), Australian rugby league footballer</li>
-<li><a href="/wiki/Luke_Brooks_(singer)" class="mw-redirect" title="Luke Brooks (singer)">Luke Brooks (singer)</a>, member of the Australian group <a href="/wiki/The_Janoskians" title="The Janoskians">The Janoskians</a></li>
-<li><a href="/wiki/Lyall_Brooks" title="Lyall Brooks">Lyall Brooks</a> (b. 1978), Australian actor</li>
-<li><a href="/wiki/Lydia_Brooks" class="mw-redirect" title="Lydia Brooks">Lydia Brooks</a> (1818–1905), Labradorian diarist, better known by her married name, Lydia Campbell</li>
-<li><a href="/wiki/Lyman_Brooks" title="Lyman Brooks">Lyman Brooks</a> (1910–1984), American educator</li></ul>
-<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooks_(surname)&amp;action=edit&amp;section=13" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Macey_Brooks" title="Macey Brooks">Macey Brooks</a> (b. 1975), American football player</li>
-<li><a href="/wiki/Maggie_Brooks" title="Maggie Brooks">Maggie Brooks</a> (b. 1955), American politician</li>
-<li><a href="/wiki/Malcolm_Brooks" title="Malcolm Brooks">Malcolm Brooks</a> (b. 1930), Australian politician</li>
-<li><a href="/wiki/Mandy_Brooks" title="Mandy Brooks">Mandy Brooks</a> (1897–1976), American baseball player</li>
-<li><a href="/wiki/Maria_Gowen_Brooks" title="Maria Gowen Brooks">Maria Gowen Brooks</a>, American poet</li>
-<li>Marion E. Brooks, American environmentalist, for whom <a href="/wiki/Marion_Brooks_Natural_Area" title="Marion Brooks Natural Area">Marion Brooks Natural Area</a> was named</li>
-<li><a href="/wiki/Mark_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Mark Brooks (disambiguation)">Mark Brooks (disambiguation)</a></li>
-<li>Markell Brooks, see <a href="/wiki/Edward,_Sr._and_Markell_Brooks_House" class="mw-redirect" title="Edward, Sr. and Markell Brooks House">Edward, Sr. and Markell Brooks House</a></li>
-<li><a href="/wiki/Marshall_Brooks" title="Marshall Brooks">Marshall Brooks</a>, British sportsman</li>
-<li><a href="/wiki/MarShon_Brooks" title="MarShon Brooks">MarShon Brooks</a> (b. 1989), American basketball player</li>
-<li><a href="/wiki/Martha_Brooks" title="Martha Brooks">Martha Brooks</a> (b. 1944), Canadian writer</li>
-<li><a href="/wiki/Martin_E._Brooks" title="Martin E. Brooks">Martin E. Brooks</a> (b. 1925), American actor</li>
-<li><a href="/wiki/Marva_Jean_Brooks" class="mw-redirect" title="Marva Jean Brooks">Marva Jean Brooks</a>, Muddy Waters's wife</li>
-<li><a href="/wiki/Mary_Brooks" title="Mary Brooks">Mary Brooks</a> (1907–2002), director of the U.S. Mint</li>
-<li><a href="/wiki/Matilda_Moldenhauer_Brooks" title="Matilda Moldenhauer Brooks">Matilda Moldenhauer Brooks</a> (1888–1981), American botanist</li>
-<li><a href="/wiki/Maurice_Brooks" title="Maurice Brooks">Maurice Brooks</a>, American naturalist</li>
-<li><a href="/wiki/Max_Brooks" title="Max Brooks">Max Brooks</a>, American novelist</li>
-<li><a href="/wiki/McKenna_Brooks" class="mw-redirect" title="McKenna Brooks">McKenna Brooks</a>, fictional character from American Girl</li>
-<li><a href="/wiki/Mehcad_Brooks" title="Mehcad Brooks">Mehcad Brooks</a>, American actor</li>
-<li><a href="/wiki/Mel_Brooks" title="Mel Brooks">Mel Brooks</a> (b. 1926), American comic actor, writer, director, and theatrical producer</li>
-<li><a href="/wiki/Meredith_Brooks" title="Meredith Brooks">Meredith Brooks</a> (b. 1958), American musician</li>
-<li><a href="/wiki/Merv_Brooks" title="Merv Brooks">Merv Brooks</a> (1919–2011), Australian rules football player</li>
-<li><a href="/wiki/Micah_Brooks" title="Micah Brooks">Micah Brooks</a> (1775–1857), American politician</li>
-<li><a href="/wiki/Michael_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Michael Brooks (disambiguation)">Michael Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Michele_Brooks" title="Michele Brooks">Michele Brooks</a>, American politician</li>
-<li>Mike Brooks, see <a href="/wiki/Michael_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Michael Brooks (disambiguation)">Michael Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Milton_Brooks" title="Milton Brooks">Milton Brooks</a> (1901–1956), American photographer</li>
-<li><a href="/wiki/Mo_Brooks" title="Mo Brooks">Mo Brooks</a> (b. 1954), American politician</li>
-<li><a href="/wiki/Morgan_Brooks" title="Morgan Brooks">Morgan Brooks</a> (1861–1947), American engineer</li></ul>
-<h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooks_(surname)&amp;action=edit&amp;section=14" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Nan_Brooks" title="Nan Brooks">Nan Brooks</a>, American illustrator</li>
-<li><a href="/wiki/Natalie_Brooks_(shooting_victim)" class="mw-redirect" title="Natalie Brooks (shooting victim)">Natalie Brooks (shooting victim)</a>, American school shooting victim</li>
-<li><a href="/wiki/Nate_Brooks" title="Nate Brooks">Nate Brooks</a> (b. 1933), American boxer</li>
-<li><a href="/wiki/Nathan_C._Brooks" title="Nathan C. Brooks">Nathan C. Brooks</a>, American educator</li>
-<li><a href="/wiki/Ned_Brooks" title="Ned Brooks">Ned Brooks</a>, American broadcaster</li>
-<li><a href="/wiki/Neil_Brooks" title="Neil Brooks">Neil Brooks</a>, Australian swimmer</li>
-<li><a href="/wiki/Nicole_Paige_Brooks" class="mw-redirect" title="Nicole Paige Brooks">Nicole Paige Brooks</a>, contestant on American reality TV show <a href="/wiki/RuPaul%27s_Drag_Race_(season_2)" title="RuPaul&#39;s Drag Race (season 2)"><i>RuPaul's Drag Race</i> (season 2)</a></li>
-<li><a href="/wiki/Nigel_Brooks" title="Nigel Brooks">Nigel Brooks</a> (b. 1936), English composer</li>
-<li><a href="/wiki/Noah_Brooks" title="Noah Brooks">Noah Brooks</a>, American journalist</li>
-<li>Noel Edgell Brooks, Canadian railway engineer, for whom <a href="/wiki/Brooks,_Alberta" title="Brooks, Alberta">Brooks, Alberta</a>, was named</li>
-<li><a href="/wiki/Nona_L._Brooks" title="Nona L. Brooks">Nona L. Brooks</a> (1861–1945), American minister</li>
-<li><a href="/wiki/Norman_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Norman Brooks (disambiguation)">Norman Brooks (disambiguation)</a></li></ul>
-<h2><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooks_(surname)&amp;action=edit&amp;section=15" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li>Oland J. Brooks, American financier, founder of <a href="/wiki/Brooks_Steam_Motors" title="Brooks Steam Motors">Brooks Steam Motors</a></li>
-<li><a href="/wiki/Oliver_Brooks" title="Oliver Brooks">Oliver Brooks</a>, British soldier</li>
-<li><a href="/wiki/Oswald_Brooks" class="mw-redirect" title="Oswald Brooks">Oswald Brooks</a> (b. c. 1935), Jamaican trumpet player</li>
-<li><a href="/wiki/Overton_Brooks" title="Overton Brooks">Overton Brooks</a>, American politician</li></ul>
-<h2><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooks_(surname)&amp;action=edit&amp;section=16" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Pamela_Brooks" title="Pamela Brooks">Pamela Brooks</a> (b. 1966), British writer</li>
-<li>Pamela Brooks (b. 1956), American composer and performer, known by the stage name <a href="/wiki/Pamela_Z" title="Pamela Z">Pamela Z</a></li>
-<li><a href="/wiki/Patricia_Brooks" title="Patricia Brooks">Patricia Brooks</a> (1937–1993), American opera singer</li>
-<li><a href="/wiki/Pattie_Brooks" title="Pattie Brooks">Pattie Brooks</a>, American singer</li>
-<li><a href="/wiki/Patty_Brooks" class="mw-redirect" title="Patty Brooks">Patty Brooks</a>, fictional character in the American TV show <i>24</i></li>
-<li><a href="/wiki/Paul_Brooks" title="Paul Brooks">Paul Brooks</a> (b. 1959), British film producer</li>
-<li><a href="/wiki/Paul_Brooks_(author)" title="Paul Brooks (author)">Paul Brooks (author)</a> (1909–1998), American nature writer and editor</li>
-<li><a href="/wiki/Paul_Brooks_(cricketer)" title="Paul Brooks (cricketer)">Paul Brooks (cricketer)</a> (1921–1946), English cricketer</li>
-<li><a href="/wiki/Paula_Brooks" title="Paula Brooks">Paula Brooks</a>, fictional DC Comics supervillain</li>
-<li><a href="/wiki/Paula_Brooks_(politician)" title="Paula Brooks (politician)">Paula Brooks (politician)</a> (b. 1953), American politician</li>
-<li><a href="/wiki/Perry_Brooks" title="Perry Brooks">Perry Brooks</a> (1954–2010), American football player</li>
-<li><a href="/wiki/Peter_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Peter Brooks (disambiguation)">Peter Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Philip_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Philip Brooks (disambiguation)">Philip Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Phillips_Brooks" title="Phillips Brooks">Phillips Brooks</a>, American Episcopalian bishop and writer</li>
-<li><a href="/wiki/Phyllis_Brooks" title="Phyllis Brooks">Phyllis Brooks</a> (1915–1995), American actress and model</li>
-<li><a href="/wiki/Preston_Brooks" title="Preston Brooks">Preston Brooks</a>, American politician</li>
-<li><a href="/wiki/Priest_Joseph_Brooks" class="mw-redirect" title="Priest Joseph Brooks">Priest Joseph Brooks</a> (b. 1972), American hip hop producer and rapper, known by the stage name Soopafly</li></ul>
-<h2><span class="mw-headline" id="Q">Q</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooks_(surname)&amp;action=edit&amp;section=17" title="Edit section: Q">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li>Quincy Brooks IV (b. 1977), American rapper, known by the stage name <a href="/wiki/San_Quinn" title="San Quinn">San Quinn</a></li></ul>
-<h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooks_(surname)&amp;action=edit&amp;section=18" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/R._L._Brooks" class="mw-redirect" title="R. L. Brooks">R. L. Brooks</a>, American singer-guitarist in the band Flee the Seen</li>
-<li><a href="/wiki/R._Leonard_Brooks" title="R. Leonard Brooks">R. Leonard Brooks</a>, British mathematician</li>
-<li>Ralph D. Brooks, Colorado School of Mines benefactor, for whom <a href="/wiki/Brooks_Field_(Colorado)" class="mw-redirect" title="Brooks Field (Colorado)">Brooks Field</a> was named</li>
-<li><a href="/wiki/Ralph_G._Brooks" title="Ralph G. Brooks">Ralph G. Brooks</a>, American politician</li>
-<li><a href="/wiki/Ramy_Brooks" title="Ramy Brooks">Ramy Brooks</a>, American dog racer</li>
-<li><a href="/wiki/Rand_Brooks" title="Rand Brooks">Rand Brooks</a> (1918–2003), American actor</li>
-<li><a href="/wiki/Randy_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Randy Brooks (disambiguation)">Randy Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Ray_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Ray Brooks (disambiguation)">Ray Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Rebekah_Brooks" title="Rebekah Brooks">Rebekah Brooks</a>, British journalist</li>
-<li><a href="/wiki/Reggie_Brooks" title="Reggie Brooks">Reggie Brooks</a> (b. 1971), American football player</li>
-<li><a href="/wiki/Reva_Brooks" title="Reva Brooks">Reva Brooks</a> (1913–2004), Canadian photographer</li>
-<li>Rich Brooks, see <a href="/wiki/Richard_Brooks_(disambiguation)" class="mw-disambig" title="Richard Brooks (disambiguation)">Richard Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Richard_Brooks_(disambiguation)" class="mw-disambig" title="Richard Brooks (disambiguation)">Richard Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Rob_Brooks" class="mw-redirect" title="Rob Brooks">Rob Brooks</a>, American ice hockey team owner</li>
-<li><a href="/wiki/Robert_Brooks_(disambiguation)" class="mw-disambig" title="Robert Brooks (disambiguation)">Robert Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Robin_Brooks_(disambiguation)" class="mw-disambig" title="Robin Brooks (disambiguation)">Robin Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Rodney_Brooks" title="Rodney Brooks">Rodney Brooks</a> (b. 1954), director of the MIT Computer Science and Artificial Intelligence Laboratory</li>
-<li><a href="/wiki/Rodregis_Brooks" title="Rodregis Brooks">Rodregis Brooks</a> (b. 1978), American football player</li>
-<li><a href="/wiki/Romaine_Brooks" title="Romaine Brooks">Romaine Brooks</a>, American painter</li>
-<li><a href="/wiki/Ron_Brooks" title="Ron Brooks">Ron Brooks</a> (b. 1988), American football player</li>
-<li>Ron Brooks, American rapper, known by the stage name <a href="/wiki/Money-B" title="Money-B">Money-B</a></li>
-<li><a href="/wiki/Ronnie_Brooks_(Law_%26_Order:_UK)" class="mw-redirect" title="Ronnie Brooks (Law &amp; Order: UK)">Ronnie Brooks (Law &amp; Order: UK)</a>, fictional character from <i>Law &amp; Order: UK</i></li>
-<li><a href="/wiki/Ronnie_Baker_Brooks" title="Ronnie Baker Brooks">Ronnie Baker Brooks</a> (b. 1967), American blues guitarist</li>
-<li>Rory and Elizabeth Brooks, British philanthropists after whom the <a href="/wiki/Brooks_World_Poverty_Institute" title="Brooks World Poverty Institute">Brooks World Poverty Institute</a> was named</li>
-<li><a href="/wiki/Rosa_Brooks" title="Rosa Brooks">Rosa Brooks</a>, American law professor</li>
-<li><a href="/wiki/Ross_Brooks" title="Ross Brooks">Ross Brooks</a> (b. 1937), Canadian ice hockey player</li>
-<li><a href="/wiki/Roy_Brooks" title="Roy Brooks">Roy Brooks</a> (1938–2005), American jazz drummer</li>
-<li><a href="/wiki/Ruby_Brooks" title="Ruby Brooks">Ruby Brooks</a> (1861–1906), American banjoist</li>
-<li><a href="/wiki/Rusty_Brooks" title="Rusty Brooks">Rusty Brooks</a> (b. 1958), American professional wrestler</li>
-<li><a href="/wiki/Ryan_Brooks" title="Ryan Brooks">Ryan Brooks</a> (b. 1988) American basketball player</li></ul>
-<h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooks_(surname)&amp;action=edit&amp;section=19" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Sacha_Brooks" title="Sacha Brooks">Sacha Brooks</a>, British DJ</li>
-<li><a href="/wiki/Sammy_Brooks" title="Sammy Brooks">Sammy Brooks</a> (1891–1951), American actor</li>
-<li><a href="/wiki/Sammy_Brooks_(footballer)" title="Sammy Brooks (footballer)">Sammy Brooks (footballer)</a> (1890–1960), English footballer</li>
-<li><a href="/wiki/Samuel_Brooks_(railway_pioneer)" class="mw-redirect" title="Samuel Brooks (railway pioneer)">Samuel Brooks</a>, Manchester (UK) businessman</li>
-<li><a href="/wiki/Samuel_Brooks_(politician)" title="Samuel Brooks (politician)">Samuel Brooks (politician)</a> (c. 1793–1849), Canadian politician</li>
-<li>Samuel Hamilton Brooks, after whom the <a href="/wiki/Memphis_Brooks_Museum_of_Art" title="Memphis Brooks Museum of Art">Memphis Brooks Museum of Art</a> was named</li>
-<li><a href="/wiki/Samuel_Palmer_Brooks" title="Samuel Palmer Brooks">Samuel Palmer Brooks</a> (1863–1931), American educator</li>
-<li><a href="/wiki/Scott_Brooks" title="Scott Brooks">Scott Brooks</a> (b. 1965), American basketball player</li>
-<li><a href="/wiki/Scott_Martin_Brooks" title="Scott Martin Brooks">Scott Martin Brooks</a> (b. 1972), American actor</li>
-<li><a href="/wiki/Shanon_Brooks" class="mw-redirect" title="Shanon Brooks">Shanon Brooks</a>, American university president</li>
-<li><a href="/wiki/Sharmarh_Brooks" class="mw-redirect" title="Sharmarh Brooks">Sharmarh Brooks</a> (b. 1988), Barbadian cricketer</li>
-<li><a href="/wiki/Sheila_Brooks" title="Sheila Brooks">Sheila Brooks</a>, American journalist</li>
-<li><a href="/wiki/Shelton_Brooks" title="Shelton Brooks">Shelton Brooks</a> (1886–1975), American popular music composer</li>
-<li>Shepher Brooks, owner of the <a href="/wiki/Shepherd_Brooks_Estate" title="Shepherd Brooks Estate">Shepherd Brooks Estate</a></li>
-<li><a href="/wiki/Sheri-Ann_Brooks" title="Sheri-Ann Brooks">Sheri-Ann Brooks</a> (b. 1983), Jamaican sprinter</li>
-<li><a href="/wiki/Shirley_Brooks" title="Shirley Brooks">Shirley Brooks</a> (1816–1874), English journalist and novelist</li>
-<li>Shirley Brooks, plaintiff/appellee in <i><a href="/wiki/Flagg_Brothers,_Inc._v._Brooks" class="mw-redirect" title="Flagg Brothers, Inc. v. Brooks">Flagg Brothers, Inc. v. Brooks</a></i></li>
-<li>Sidney Johnson Brooks, Jr. (d. 1917), American aviator for whom <a href="/wiki/Brooks_Air_Force_Base" title="Brooks Air Force Base">Brooks Air Force Base</a> was named</li>
-<li><a href="/wiki/Simon_Brooks_(disambiguation)" class="mw-disambig" title="Simon Brooks (disambiguation)">Simon Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Siobhan_Brooks" title="Siobhan Brooks">Siobhan Brooks</a> (b. 1972), American sociologist and activist</li>
-<li><a href="/wiki/Stacy_Brooks" title="Stacy Brooks">Stacy Brooks</a> (b. 1952), public critic of the Church of Scientology</li>
-<li><a href="/wiki/Stan_Brooks_(radio_broadcaster)" title="Stan Brooks (radio broadcaster)">Stan Brooks (radio broadcaster)</a> (1927–2013), American radio broadcaster</li>
-<li><a href="/wiki/Stanley_Brooks" title="Stanley Brooks">Stanley Brooks</a>, American film and television producer</li>
-<li><a href="/wiki/Stella_Brooks" title="Stella Brooks">Stella Brooks</a> (1910–2002), American jazz vocalist</li>
-<li><a href="/wiki/Stennett_H._Brooks" title="Stennett H. Brooks">Stennett H. Brooks</a> (d. 2004), American pastor</li>
-<li><a href="/wiki/Stephen_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Stephen Brooks (disambiguation)">Stephen Brooks (disambiguation)</a></li>
-<li>Steve Brooks, see <a href="/wiki/Stephen_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Stephen Brooks (disambiguation)">Stephen Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Stratton_D._Brooks" title="Stratton D. Brooks">Stratton D. Brooks</a> (1870–1949), American educator</li>
-<li><a href="/wiki/Stuart_M._Brooks" title="Stuart M. Brooks">Stuart M. Brooks</a> (b. 1936), American pulmonary doctor</li>
-<li><a href="/wiki/Sue_Brooks" title="Sue Brooks">Sue Brooks</a> (b. 1953), Australian film director and producer</li>
-<li><a href="/wiki/Susan_Brooks" title="Susan Brooks">Susan Brooks</a> (b. 1960), American politician</li>
-<li>Susan Brooks, plaintiff in <i><a href="/wiki/Brooks_v._Canada_Safeway_Ltd." class="mw-redirect" title="Brooks v. Canada Safeway Ltd.">Brooks v. Canada Safeway Ltd.</a></i></li>
-<li><a href="/wiki/Sydney_Brooks" title="Sydney Brooks">Sydney Brooks</a> (1872–1937), British author and critic</li>
-<li><a href="/wiki/Sylvia_Brooks" title="Sylvia Brooks">Sylvia Brooks</a>, American jazz musician</li></ul>
-<h2><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooks_(surname)&amp;action=edit&amp;section=20" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Tamara_Brooks" title="Tamara Brooks">Tamara Brooks</a> (1941–2012), American choral conductor</li>
-<li><a href="/wiki/Ted_Brooks" title="Ted Brooks">Ted Brooks</a> (1898–1960), English cricketer</li>
-<li><a href="/wiki/Terrance_Brooks" title="Terrance Brooks">Terrance Brooks</a> (1963–2011), American football player and coach</li>
-<li><a href="/wiki/Terrence_Brooks" title="Terrence Brooks">Terrence Brooks</a> (b. 1991), American football player</li>
-<li><a href="/wiki/Terron_Brooks" title="Terron Brooks">Terron Brooks</a>, American singer and actor</li>
-<li><a href="/wiki/Terry_Brooks" title="Terry Brooks">Terry Brooks</a> (b. 1944), American author</li>
-<li><a href="/wiki/Terry_Brooks_(basketball)" title="Terry Brooks (basketball)">Terry Brooks (basketball)</a>, American basketball player</li>
-<li><a href="/wiki/Theodore_Marley_Brooks" class="mw-redirect" title="Theodore Marley Brooks">Theodore Marley Brooks</a>, fictional character from <i>Doc Savage</i></li>
-<li><a href="/wiki/Thomas_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Thomas Brooks (disambiguation)">Thomas Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Tia_Brooks" title="Tia Brooks">Tia Brooks</a> (b. 1990), American shot putter</li>
-<li><a href="/wiki/Tiffany_Brooks" title="Tiffany Brooks">Tiffany Brooks</a>, American baseball player</li>
-<li><a href="/wiki/Tim_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Tim Brooks (disambiguation)">Tim Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Timothy_L._Brooks" title="Timothy L. Brooks">Timothy L. Brooks</a> (b. 1964), American attorney</li>
-<li><a href="/wiki/Tina_Brooks" title="Tina Brooks">Tina Brooks</a>, American jazz saxophonist</li>
-<li>Tom or Tommy Brooks, see <a href="/wiki/Thomas_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Thomas Brooks (disambiguation)">Thomas Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Tony_Brooks_(racing_driver)" title="Tony Brooks (racing driver)">Tony Brooks (racing driver)</a>, British racing driver</li>
-<li><a href="/wiki/Tony_Brooks_(American_football)" title="Tony Brooks (American football)">Tony Brooks (American football)</a> (b. 1969), American football player</li>
-<li><a href="/wiki/Tracey_Brooks" class="mw-redirect" title="Tracey Brooks">Tracey Brooks</a>, American politician</li>
-<li><a href="/wiki/Traci_Brooks" title="Traci Brooks">Traci Brooks</a>, Canadian professional wrestler</li>
-<li><a href="/wiki/Travis_Brooks" title="Travis Brooks">Travis Brooks</a>, Australian field hockey player</li>
-<li><a href="/wiki/Trevor_Brooks" class="mw-redirect" title="Trevor Brooks">Trevor Brooks</a> (b. 1975), British alleged terrorist, also known as Abu Izzadeen</li></ul>
-<h2><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooks_(surname)&amp;action=edit&amp;section=21" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Van_Wyck_Brooks" title="Van Wyck Brooks">Van Wyck Brooks</a>, American writer</li>
-<li><a href="/wiki/Vaushaun_Brooks" class="mw-redirect" title="Vaushaun Brooks">Vaushaun Brooks</a> (b. 1980), American hip hop record producer, known by the stage name Maestro</li>
-<li><a href="/wiki/Vic_Brooks" title="Vic Brooks">Vic Brooks</a> (b. 1948), English cricketer</li>
-<li><a href="/wiki/Victor_Brooks_(actor)" title="Victor Brooks (actor)">Victor Brooks (actor)</a> (1918–2000), English actor</li>
-<li><a href="/wiki/Victor_Brooks_(athlete)" title="Victor Brooks (athlete)">Victor Brooks (athlete)</a> (born 1941), Jamaican long jumper</li>
-<li><a href="/wiki/Vincent_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Vincent Brooks (disambiguation)">Vincent Brooks (disambiguation)</a></li></ul>
-<h2><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooks_(surname)&amp;action=edit&amp;section=22" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Wallis_Brooks" title="Wallis Brooks">Wallis Brooks</a>, American politician</li>
-<li><a href="/wiki/Walter_Brooks" title="Walter Brooks">Walter Brooks</a> (1837–1902), English organist</li>
-<li><a href="/wiki/Walter_Brooks_(cricketer)" title="Walter Brooks (cricketer)">Walter Brooks (cricketer)</a> (1884–1965), English cricketer and British Army officer</li>
-<li><a href="/wiki/Walter_R._Brooks" title="Walter R. Brooks">Walter R. Brooks</a>, American children's writer</li>
-<li><a href="/wiki/Wayne_Baker_Brooks" title="Wayne Baker Brooks">Wayne Baker Brooks</a>, American blues musician</li>
-<li><a href="/wiki/Wiley_Brooks" class="mw-redirect" title="Wiley Brooks">Wiley Brooks</a>, founder of the Breatharian Institute of America</li>
-<li>Wilks Brooks, owner of the <a href="/wiki/Wilks_Brooks_House" title="Wilks Brooks House">Wilks Brooks House</a></li>
-<li><a href="/wiki/Will_Brooks" title="Will Brooks">Will Brooks</a> (b. 1986), American mixed martial artist</li>
-<li><a href="/wiki/William_Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="William Brooks (disambiguation)">William Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Wyndham_Brooks" class="mw-redirect" title="Wyndham Brooks">Wyndham Brooks</a>, pen name of American horror author Wayne Robbins</li></ul>
-<h2><span class="mw-headline" id="Z">Z</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooks_(surname)&amp;action=edit&amp;section=23" title="Edit section: Z">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Zoey_Brooks" class="mw-redirect" title="Zoey Brooks">Zoey Brooks</a>, title character of the American TV show <i>Zoey 101</i></li></ul>
-<h2><span class="mw-headline" id="Compound_surnames">Compound surnames</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooks_(surname)&amp;action=edit&amp;section=24" title="Edit section: Compound surnames">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Harold_Brooks-Baker" title="Harold Brooks-Baker">Harold Brooks-Baker</a>, American journalist</li>
-<li><a href="/wiki/Ruth_Brooks_Flippen" title="Ruth Brooks Flippen">Ruth Brooks Flippen</a> (1921–1981), American screenwriter</li>
-<li><a href="/wiki/Reginald_Brooks-King" title="Reginald Brooks-King">Reginald Brooks-King</a> (1861–1938), Welsh archer</li>
-<li><a href="/wiki/Corrin_Brooks-Meade" title="Corrin Brooks-Meade">Corrin Brooks-Meade</a> (b. 1988), English footballer</li>
-<li><a href="/wiki/Emmerson_Brooks-Meade" title="Emmerson Brooks-Meade">Emmerson Brooks-Meade</a> (b. 1983), Anguillan footballer</li>
-<li><a href="/wiki/Renel_Brooks-Moon" title="Renel Brooks-Moon">Renel Brooks-Moon</a> (b. 1958), American public address announcer</li>
-<li><a href="/wiki/Ellenese_Brooks-Simms" class="mw-redirect" title="Ellenese Brooks-Simms">Ellenese Brooks-Simms</a>, Louisiana school official</li>
-<li>John Brooks Close-Brooks (1850–1914), English banker and amateur rower, who competed as <a href="/wiki/John_Brooks_Close" title="John Brooks Close">John Brooks Close</a></li>
-<li><a href="/wiki/Caroline_St_John-Brooks" title="Caroline St John-Brooks">Caroline St John-Brooks</a>, British journalist and academic</li>
-<li><a href="/wiki/Birnie_Stephenson-Brooks" title="Birnie Stephenson-Brooks">Birnie Stephenson-Brooks</a>, Guayanese judge</li></ul>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooks_(surname)&amp;action=edit&amp;section=25" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Brooks_baronets" title="Brooks baronets">Brooks baronets</a></li>
-<li><a href="/wiki/Brooks%E2%80%93McFarland_Feud" class="mw-redirect" title="Brooks–McFarland Feud">Brooks–McFarland Feud</a></li>
-<li><a href="/wiki/Brooks_(disambiguation)" class="mw-redirect mw-disambig" title="Brooks (disambiguation)">Brooks (disambiguation)</a></li>
-<li><a href="/wiki/Brook_(surname)" title="Brook (surname)">Brook (surname)</a></li>
-<li><a href="/wiki/Brooke_(surname)" title="Brooke (surname)">Brooke (surname)</a></li>
-<li><a href="/wiki/Brookes_(disambiguation)" class="mw-redirect" title="Brookes (disambiguation)">Brookes (disambiguation)</a></li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooks_(surname)&amp;action=edit&amp;section=26" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="reflist" style="list-style-type: decimal;">
-<div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-BDR-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-BDR_1-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.houseofnames.com/brooks-family-crests">Brooks Family Crest and History</a></span>
-</li>
-<li id="cite_note-CrescentRecord-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-CrescentRecord_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CrescentRecord_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-CrescentRecord_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=cGE2AAAAMAAJ"><i>Origin and History of the Name of Brooks: With Biographies of All the Most Noted Persons of that Name</i></a> <span class="cs1-format">(PDF)</span>. The Crescent Family Record. Chicago, Illinois (United States): American Publishers' Association. 2007-06-06 [1905]<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-01-10</span></span>. <q>The name of Brooks is said to have derived from residence near a stream.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Origin+and+History+of+the+Name+of+Brooks%3A+With+Biographies+of+All+the+Most+Noted+Persons+of+that+Name&amp;rft.place=Chicago%2C+Illinois+%28United+States%29&amp;rft.series=The+Crescent+Family+Record&amp;rft.pub=American+Publishers%27+Association&amp;rft.date=2007-06-06&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DcGE2AAAAMAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrooks+%28surname%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
-</li>
-<li id="cite_note-OnlineEtym-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-OnlineEtym_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Harper, Douglas (November 2001). <a rel="nofollow" class="external text" href="http://www.etymonline.com/index.php?term=brook">"brook"</a>. <i>Online Etymology Dictionary</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-01-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Online+Etymology+Dictionary&amp;rft.atitle=brook&amp;rft.date=2001-11&amp;rft.aulast=Harper&amp;rft.aufirst=Douglas&amp;rft_id=http%3A%2F%2Fwww.etymonline.com%2Findex.php%3Fterm%3Dbrook&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrooks+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-Webster&#39;sDict-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Webster&#39;sDict_4-0">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia">"brook". <i>Webster's Encyclopedic Unabridged Dictionary of the English Language</i> (1989 ed.). New York: <a href="/w/index.php?title=Portland_House_(publisher)&amp;action=edit&amp;redlink=1" class="new" title="Portland House (publisher) (page does not exist)">Portland House</a>. 1989. p.&#160;189. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-517-68781-X" title="Special:BookSources/0-517-68781-X"><bdi>0-517-68781-X</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=brook&amp;rft.btitle=Webster%27s+Encyclopedic+Unabridged+Dictionary+of+the+English+Language&amp;rft.place=New+York&amp;rft.pages=189&amp;rft.edition=1989&amp;rft.pub=Portland+House&amp;rft.date=1989&amp;rft.isbn=0-517-68781-X&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrooks+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Michael C. O'Laughlin. <a rel="nofollow" class="external text" href="https://books.google.ie/books?id=mZt3oGtk1KgC&amp;pg=PA32&amp;lpg=PA32&amp;dq=brooks+surname+origin+ireland&amp;source=bl&amp;ots=or3uBoUkuu&amp;sig=PxX5nJvULVsAyl9A_yDxCiZG6nQ&amp;hl=en&amp;sa=X&amp;ei=wFvgUf-dJsqO0AWsoYCQDA&amp;ved=0CE0Q6AEwBg#v=onepage&amp;q=brooks%20surname%20origin%20ireland&amp;f=false"><i>The Book of Irish Families, Great &amp; Small</i></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Book+of+Irish+Families%2C+Great+%26+Small&amp;rft.au=Michael+C.+O%27Laughlin&amp;rft_id=https%3A%2F%2Fbooks.google.ie%2Fbooks%3Fid%3DmZt3oGtk1KgC%26pg%3DPA32%26lpg%3DPA32%26dq%3Dbrooks%2Bsurname%2Borigin%2Bireland%26source%3Dbl%26ots%3Dor3uBoUkuu%26sig%3DPxX5nJvULVsAyl9A_yDxCiZG6nQ%26hl%3Den%26sa%3DX%26ei%3DwFvgUf-dJsqO0AWsoYCQDA%26ved%3D0CE0Q6AEwBg%23v%3Donepage%26q%3Dbrooks%2520surname%2520origin%2520ireland%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrooks+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-</ol></div></div>
+<h2><span class="mw-headline" id="People">People</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DeLuca&amp;action=edit&amp;section=1" title="Edit section: People">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Adrian_Deluca" title="Adrian Deluca">Adrian Deluca</a> (born 1982), former Australian rules footballer</li>
+<li><a href="/wiki/Alby_De_Luca" title="Alby De Luca">Alby De Luca</a> (1908–1978), Australian rules footballer</li>
+<li><a href="/wiki/Anthony_DeLuca_(disambiguation)" class="mw-redirect mw-disambig" title="Anthony DeLuca (disambiguation)">Anthony DeLuca (disambiguation)</a>, various people</li>
+<li><a href="/wiki/Anthony_J._DeLuca" title="Anthony J. DeLuca">Anthony J. DeLuca</a>, American politician</li>
+<li><a href="/wiki/Anthony_M._DeLuca" title="Anthony M. DeLuca">Anthony M. DeLuca</a> (born 1937), American politician</li>
+<li><a href="/wiki/Antonio_De_Luca_(bishop)" title="Antonio De Luca (bishop)">Antonio De Luca (bishop)</a> (born 1956), Italian Catholic bishop</li>
+<li><a href="/wiki/Dan_DeLuca" title="Dan DeLuca">Dan DeLuca</a> (born 1970), American actor</li>
+<li><a href="/wiki/Eduardo_Deluca" title="Eduardo Deluca">Eduardo Deluca</a>, Argentinian football administrator</li>
+<li><a href="/wiki/Fabian_Deluca" title="Fabian Deluca">Fabian Deluca</a> (born 1987), Australian rules footballer</li>
+<li><a href="/wiki/Frank_Deluca" title="Frank Deluca">Frank Deluca</a> (1898–1967), Italian-American mobster and brother of Joseph DeLuca</li>
+<li><a href="/wiki/Fred_DeLuca" title="Fred DeLuca">Fred DeLuca</a> (1947–2015), American businessman and co-founder of the Subway franchise of sandwich restaurants</li>
+<li><a href="/wiki/George_DeLuca" title="George DeLuca">George DeLuca</a> (1889–1983), American lawyer, banker and politician</li>
+<li><a href="/wiki/Giorgio_DeLuca" title="Giorgio DeLuca">Giorgio DeLuca</a>, businessman and a founder of the gourmet grocery store Dean &amp; DeLuca</li>
+<li><a href="/wiki/Giuseppe_De_Luca" title="Giuseppe De Luca">Giuseppe De Luca</a> (1876–1950), Italian baritone</li>
+<li><a href="/wiki/Hector_DeLuca" title="Hector DeLuca">Hector DeLuca</a>, American biochemist and professor</li>
+<li><a href="/wiki/Jacqueline_Frank_DeLuca" title="Jacqueline Frank DeLuca">Jacqueline Frank DeLuca</a> (born 1980), American water polo goalkeeper</li>
+<li><a href="/wiki/Joe_DeLuca" title="Joe DeLuca">Joe DeLuca</a> (1932–2013), Canadian football player</li>
+<li><a href="/wiki/John_DeLuca" title="John DeLuca">John DeLuca</a> (born 1986), American actor</li>
+<li><a href="/wiki/Joseph_Deluca" title="Joseph Deluca">Joseph Deluca</a> (1893–1952), Italian-American mobster</li>
+<li><a href="/wiki/Josh_Deluca" title="Josh Deluca">Josh Deluca</a> (born 1996), Australian rules footballer</li>
+<li><a href="/wiki/Louis_DeLuca" title="Louis DeLuca">Louis DeLuca</a> (born 1933), American retired businessman and politician, former Connecticut state senator</li>
+<li><a href="/wiki/Maura_DeLuca" title="Maura DeLuca">Maura DeLuca</a>, American activist and political candidate</li>
+<li><a href="/wiki/Michael_De_Luca" title="Michael De Luca">Michael De Luca</a> (born 1965), American film producer and screenwriter</li>
+<li><a href="/wiki/Nick_De_Luca" title="Nick De Luca">Nick De Luca</a> (born 1984), Scottish rugby union player</li>
+<li><a href="/wiki/Nick_DeLuca" title="Nick DeLuca">Nick DeLuca</a> (born 1995), American footballer</li>
+<li><a href="/wiki/Rob_De_Luca" title="Rob De Luca">Rob De Luca</a>, American rock bass guitarist</li>
+<li><a href="/wiki/Rocco_DeLuca" title="Rocco DeLuca">Rocco DeLuca</a> (born 1975), leader and guitarist of the now-disbanded indie rock band Rocco DeLuca and the Burden</li>
+<li><a href="/wiki/Ryan_DeLuca" class="mw-redirect" title="Ryan DeLuca">Ryan DeLuca</a>, founder of Bodybuilding.com</li>
+<li><a href="/wiki/Sam_DeLuca" title="Sam DeLuca">Sam DeLuca</a> (1936–2011), American Football League lineman</li>
+<li><a href="/wiki/Stefanie_DeLuca" title="Stefanie DeLuca">Stefanie DeLuca</a>, sociologist</li>
+<li><a href="/wiki/Suzanne_Greco" title="Suzanne Greco">Suzanne Greco</a> (born DeLuca, 1957/58), American businesswoman, president and CEO of <a href="/wiki/Subway_(restaurant)" title="Subway (restaurant)">Subway</a> fast food chain</li>
+<li><a href="/wiki/Tony_DeLuca" title="Tony DeLuca">Tony DeLuca</a> (1960–1999), American footballer</li></ul>
+<h2><span class="mw-headline" id="Characters">Characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DeLuca&amp;action=edit&amp;section=2" title="Edit section: Characters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Andrew_DeLuca" title="Andrew DeLuca">Andrew DeLuca</a>, character from the medical drama television series <i>Grey's Anatomy</i></li>
+<li>Detective Achille De Luca from <a href="/wiki/Inspector_De_Luca_(TV_series)" title="Inspector De Luca (TV series)"><i>Inspector De Luca</i> (TV series)</a>, an Italian TV police drama</li>
+<li><a href="/wiki/Maria_DeLuca" title="Maria DeLuca">Maria DeLuca</a>, fictional character in the <i>Roswell High</i> book series and the TV series <i>Roswell</i></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DeLuca&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" decoding="async" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512" /></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/DeLuca" class="extiw" title="wiktionary:DeLuca">DeLuca</a></b></i>, <i><b><a href="https://en.wiktionary.org/wiki/Deluca" class="extiw" title="wiktionary:Deluca">Deluca</a></b></i>, or <i><b><a href="https://en.wiktionary.org/wiki/De_Luca" class="extiw" title="wiktionary:De Luca">De Luca</a></b></i> in Wiktionary, the free dictionary.</td></tr>
+</tbody></table>
+<ul><li><a href="/wiki/Inspector_De_Luca_(disambiguation)" class="mw-redirect mw-disambig" title="Inspector De Luca (disambiguation)">Inspector De Luca (disambiguation)</a></li>
+<li><i><a href="/wiki/Dean_%26_DeLuca" title="Dean &amp; DeLuca">Dean &amp; DeLuca</a></i>, upscale grocery store</li>
+<li><a href="/wiki/Luca_(disambiguation)" class="mw-redirect mw-disambig" title="Luca (disambiguation)">Luca (disambiguation)</a></li>
+<li><a href="/wiki/De_Lucas_(surname)" class="mw-redirect" title="De Lucas (surname)">De Lucas (surname)</a></li></ul>
 <style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
 <table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
 <tbody><tr>
 <td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
-<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Brooks</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Brooks_(surname)&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>DeLuca, Deluca or De Luca</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/DeLuca&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
 </tr>
 </tbody></table>
 <!-- 
 NewPP limit report
-Parsed by mw1323
-Cached time: 20190924095713
+Parsed by mw1272
+Cached time: 20191001023738
 Cache expiry: 2592000
 Dynamic content: false
-Complications: [vary‐revision‐sha1]
-CPU time usage: 0.248 seconds
-Real time usage: 0.335 seconds
-Preprocessor visited node count: 1481/1000000
+Complications: []
+CPU time usage: 0.104 seconds
+Real time usage: 0.159 seconds
+Preprocessor visited node count: 543/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 13228/2097152 bytes
-Template argument size: 1183/2097152 bytes
-Highest expansion depth: 8/40
+Post‐expand include size: 5942/2097152 bytes
+Template argument size: 1162/2097152 bytes
+Highest expansion depth: 9/40
 Expensive parser function count: 1/500
-Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 13486/5000000 bytes
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 247/5000000 bytes
 Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.082/10.000 seconds
-Lua memory usage: 2.71 MB/50 MB
+Lua time usage: 0.030/10.000 seconds
+Lua memory usage: 1.5 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  233.452      1 -total
- 41.98%   98.006      1 Template:Reflist
- 31.00%   72.377      2 Template:Cite_book
- 25.01%   58.384      1 Template:Infobox_surname
- 21.83%   50.964      1 Template:Surname
- 19.28%   45.000      1 Template:Infobox
- 18.85%   44.000      1 Template:Dmbox
-  9.38%   21.901      1 Template:Short_description
-  9.06%   21.160      1 Template:Compact_ToC
-  8.42%   19.665      1 Template:Pagetype
+100.00%  129.871      1 -total
+ 45.73%   59.388      1 Template:Infobox_surname
+ 40.20%   52.213      1 Template:Surname
+ 35.85%   46.553      1 Template:Infobox
+ 33.86%   43.979      1 Template:Dmbox
+ 14.34%   18.622      1 Template:Short_description
+ 13.88%   18.020      1 Template:Wiktionary
+ 12.58%   16.341      1 Template:Pagetype
+ 11.57%   15.029      1 Template:Sister_project
+ 11.45%   14.872      1 Template:Category_handler
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:4661526-0!canonical and timestamp 20190924095713 and revision id 917548251
+<!-- Saved in parser cache with key enwiki:pcache:idhash:37677998-0!canonical and timestamp 20191001023737 and revision id 903526112
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Brooks_(surname)&amp;oldid=917548251">https://en.wikipedia.org/w/index.php?title=Brooks_(surname)&amp;oldid=917548251</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=DeLuca&amp;oldid=903526112">https://en.wikipedia.org/w/index.php?title=DeLuca&amp;oldid=903526112</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:English-language_surnames" title="Category:English-language surnames">English-language surnames</a></li><li><a href="/wiki/Category:Surnames_of_English_origin" title="Category:Surnames of English origin">Surnames of English origin</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:Italian-language_surnames" title="Category:Italian-language surnames">Italian-language surnames</a></li><li><a href="/wiki/Category:Surnames_of_Italian_origin" title="Category:Surnames of Italian origin">Surnames of Italian origin</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -635,13 +164,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Brooks+%28surname%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Brooks+%28surname%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=DeLuca" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=DeLuca" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Brooks_(surname)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Brooks_(surname)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/DeLuca" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:DeLuca" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -656,7 +185,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Brooks_(surname)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Brooks_(surname)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Brooks_(surname)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/DeLuca">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=DeLuca&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=DeLuca&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -695,35 +224,35 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Brooks_(surname)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Brooks_(surname)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Brooks_(surname)&amp;oldid=917548251" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Brooks_(surname)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1354011" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Brooks_%28surname%29&amp;id=917548251" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/DeLuca" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/DeLuca" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=DeLuca&amp;oldid=903526112" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=DeLuca&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q28885953" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=DeLuca&amp;id=903526112" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
 			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
 			<div class="body">
 								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Brooks_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:DeLuca_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Brooks+%28surname%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Brooks+%28surname%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Brooks_(surname)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=DeLuca">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=DeLuca&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=DeLuca&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Brooks_(p%C5%99%C3%ADjmen%C3%AD)" title="Brooks (příjmení) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Brooks_(Familienname)" title="Brooks (Familienname) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Brooks_(cognome)" title="Brooks (cognome) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1354011#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q28885953#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 24 September 2019, at 09:56<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 26 June 2019, at 05:31<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -734,7 +263,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Brooks_(surname)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=DeLuca&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -746,8 +275,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.248","walltime":"0.335","ppvisitednodes":{"value":1481,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":13228,"limit":2097152},"templateargumentsize":{"value":1183,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":13486,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  233.452      1 -total"," 41.98%   98.006      1 Template:Reflist"," 31.00%   72.377      2 Template:Cite_book"," 25.01%   58.384      1 Template:Infobox_surname"," 21.83%   50.964      1 Template:Surname"," 19.28%   45.000      1 Template:Infobox"," 18.85%   44.000      1 Template:Dmbox","  9.38%   21.901      1 Template:Short_description","  9.06%   21.160      1 Template:Compact_ToC","  8.42%   19.665      1 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.082","limit":"10.000"},"limitreport-memusage":{"value":2846729,"limit":52428800}},"cachereport":{"origin":"mw1323","timestamp":"20190924095713","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Brooks (surname)","url":"https:\/\/en.wikipedia.org\/wiki\/Brooks_(surname)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1354011","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1354011","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-04-07T14:39:15Z","dateModified":"2019-09-24T09:56:29Z","headline":"family name"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":105,"wgHostname":"mw1274"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.104","walltime":"0.159","ppvisitednodes":{"value":543,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":5942,"limit":2097152},"templateargumentsize":{"value":1162,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":247,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  129.871      1 -total"," 45.73%   59.388      1 Template:Infobox_surname"," 40.20%   52.213      1 Template:Surname"," 35.85%   46.553      1 Template:Infobox"," 33.86%   43.979      1 Template:Dmbox"," 14.34%   18.622      1 Template:Short_description"," 13.88%   18.020      1 Template:Wiktionary"," 12.58%   16.341      1 Template:Pagetype"," 11.57%   15.029      1 Template:Sister_project"," 11.45%   14.872      1 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.030","limit":"10.000"},"limitreport-memusage":{"value":1576129,"limit":52428800}},"cachereport":{"origin":"mw1272","timestamp":"20191001023738","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"DeLuca","url":"https:\/\/en.wikipedia.org\/wiki\/DeLuca","sameAs":"http:\/\/www.wikidata.org\/entity\/Q28885953","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q28885953","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2012-11-18T14:39:15Z","dateModified":"2019-06-26T05:31:49Z","headline":"family name"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":113,"wgHostname":"mw1244"});});</script>
 </body>
 </html>

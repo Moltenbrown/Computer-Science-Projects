@@ -2,35 +2,35 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Robinson (name) - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Robinson_(name)","wgTitle":"Robinson (name)","wgCurRevisionId":915010748,"wgRevisionId":915010748,"wgArticleId":14638144,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","All set index articles","Surnames","English-language surnames","Scottish-language surnames","Masculine given names","Surnames of English origin","Patronymic surnames"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
-"wgRelevantPageName":"Robinson_(name)","wgRelevantArticleId":14638144,"wgRequestId":"XbCM@QpAAD4AAIYfJIMAAABP","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2798428","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading",
-"ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.cite.tracking","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks",
-"ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Stewart (name) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Stewart_(name)","wgTitle":"Stewart (name)","wgCurRevisionId":923302050,"wgRevisionId":923302050,"wgArticleId":16443853,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles incorporating a citation from the ODNB","Articles needing additional references from January 2019","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from October 2011","Articles with short description","All set index articles","Given names","Surnames","Occupational surnames","Scottish surnames","Scottish given names"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["",
+"January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Stewart_(name)","wgRelevantArticleId":16443853,"wgRequestId":"XbXaZgpAADsAAHsmskUAAABH","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2801971","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart",
+"ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.2"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Robinson_(name)"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Robinson_(name)&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Robinson_(name)&amp;action=edit"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Stewart_(name)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Stewart_(name)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Stewart_(name)&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Robinson_(name)"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Stewart_(name)"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Robinson_name rootpage-Robinson_name skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Stewart_name rootpage-Stewart_name skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -39,7 +39,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Robinson (name)</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Stewart (name)</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -50,290 +50,205 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="Robinson (disambiguation)">Robinson</a>.</div>
-<table class="infobox" style="width:22em"><caption>Robinson</caption><tbody><tr><th scope="row"><a href="/wiki/Language" title="Language">Language</a>(s)</th><td><a href="/wiki/Old_English_language" class="mw-redirect" title="Old English language">Old English</a></td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Origin</th></tr><tr><th scope="row">Meaning</th><td>"son of Robin"; "Robin" means "fame-bright"</td></tr><tr><th scope="row">Region of origin</th><td>England</td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Other names</th></tr><tr><th scope="row">Variant form(s)</th><td><a href="/wiki/Hopkins" title="Hopkins">Hopkins</a>, <a href="/wiki/Robertson_(surname)" title="Robertson (surname)">Robertson</a>, Robyns, <a href="/wiki/Robins_(disambiguation)" class="mw-redirect mw-disambig" title="Robins (disambiguation)">Robins</a>, <a href="/wiki/Robben" title="Robben">Robben</a>, Robens, Robbings, <a href="/wiki/Robeson_(disambiguation)" class="mw-redirect mw-disambig" title="Robeson (disambiguation)">Robeson</a>, <a href="/wiki/Robison_(name)" title="Robison (name)">Robison</a></td></tr><tr><td colspan="2" style="text-align:center;border-top: #a2a9b1 1px solid;">Frequency comparisons;<sup id="cite_ref-AFG_1-0" class="reference"><a href="#cite_note-AFG-1">&#91;1&#93;</a></sup></td></tr></tbody></table>
-<p><b>Robinson</b> is an <a href="/wiki/English_language" title="English language">English language</a> <a href="/wiki/Patronymic" title="Patronymic">patronymic</a> <a href="/wiki/Surname" title="Surname">surname</a>, originating in England. It means "son of <a href="/wiki/Robin_(name)" title="Robin (name)">Robin</a> (a diminutive of <a href="/wiki/Robert" title="Robert">Robert</a>)". There are similar surname spellings such as <a href="/wiki/Robison_(name)" title="Robison (name)">Robison</a> and <a href="/wiki/Robeson_(disambiguation)" class="mw-redirect mw-disambig" title="Robeson (disambiguation)">Robeson</a>. Robinson is the 15th-most common surname in the United Kingdom.<sup id="cite_ref-AFG_1-1" class="reference"><a href="#cite_note-AFG-1">&#91;1&#93;</a></sup> According to the 1990 United States Census, Robinson was the twentieth most frequently encountered surname among those reported, accounting for 0.23% of the population.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
-</p><p>In Ireland, Robinson is only really common in <a href="/wiki/Ulster" title="Ulster">Ulster</a>. The two names had been used interchangeably in some areas of the province around the beginning of the 20th century. It can also be an Anglicization of such Jewish surnames as Rabinowitz and Rubinstein.
-</p><p>Robinson, the compound word, is a rare <a href="/wiki/Given_name" title="Given name">given name</a>, while its derivative, Robin, has the distinction of being both a masculine and feminine given name.
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about the given name and surname. For other uses, see <a href="/wiki/Stewart_(disambiguation)" class="mw-redirect mw-disambig" title="Stewart (disambiguation)">Stewart</a>.</div>
+<table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Stewart_(name)&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Stewart%22+name">"Stewart"&#160;name</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Stewart%22+name+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Stewart%22+name+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Stewart%22+name+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Stewart%22+name">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Stewart%22+name&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">January 2019</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="infobox" style="width:22em"><caption>Stewart</caption><tbody><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Origin</th></tr><tr><th scope="row">Meaning</th><td>"household guardian"</td></tr><tr><th scope="row">Region of origin</th><td><a href="/wiki/Scotland" title="Scotland">Scotland</a></td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Other names</th></tr><tr><th scope="row">Variant form(s)</th><td>Stuart, Steward, Steuart</td></tr></tbody></table>
+<table class="infobox" style="width:22em"><caption>Stewart</caption><tbody><tr><th scope="row">Gender</th><td>Masculine</td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Other names</th></tr><tr><th scope="row">Related names</th><td>Stuart</td></tr></tbody></table>
+<p><b>Stewart</b> is a <a href="/wiki/Scottish_people" title="Scottish people">Scottish</a> <a href="/wiki/Surname" title="Surname">surname</a> (also used as a <a href="/wiki/Masculine" class="mw-redirect" title="Masculine">masculine</a> <a href="/wiki/Given_name" title="Given name">given name</a>) possibly of pre-7th century <a href="/wiki/Old_English_language" class="mw-redirect" title="Old English language">Old English</a> origin, derived from <i>stigeweard</i>, the genitive prefix <i>stige</i> meaning "hall", and the suffix <i>weard</i> meaning "guardian" or "warden" (whence also the word <i><a href="https://en.wiktionary.org/wiki/steward" class="extiw" title="wikt:steward">steward</a></i>). Alternative spellings are <a href="/wiki/Stuart_(name)" title="Stuart (name)">Stuart</a>, <a href="/wiki/Steward_(surname)" title="Steward (surname)">Steward</a> and <a href="/wiki/Steuart_(disambiguation)" class="mw-redirect mw-disambig" title="Steuart (disambiguation)">Steuart</a>. The surname Stewart has large concentrations in the <a href="/wiki/United_States" title="United States">United States</a> (mainly in the <a href="/wiki/Deep_South" title="Deep South">Deep South</a>, and the other <a href="/wiki/Southern_United_States" title="Southern United States">southern</a> states), <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> (mainly in <a href="/wiki/Scotland" title="Scotland">Scotland</a>, <a href="/wiki/Northern_Ireland" title="Northern Ireland">Northern Ireland</a>, <a href="/wiki/North_East_England" title="North East England">North East England</a>, <a href="/wiki/South_West_England" title="South West England">South West England</a>, <a href="/wiki/Cumbria" title="Cumbria">Cumbria</a>, <a href="/wiki/Lancashire" title="Lancashire">Lancashire</a>, and <a href="/wiki/Yorkshire" title="Yorkshire">Yorkshire</a>), <a href="/wiki/Canada" title="Canada">Canada</a>, <a href="/wiki/Jamaica" title="Jamaica">Jamaica</a>, <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a>, and elsewhere that has large <a href="/wiki/Scottish_people" title="Scottish people">Scottish</a> or <a href="/wiki/Ulster_Scots_people" title="Ulster Scots people">Ulster Scots</a> diaspora.
+</p><p>The progenitor of the Stewart family was <a href="/wiki/Alan_fitz_Flaad" title="Alan fitz Flaad">Alan fitz Flaad</a>, a <a href="/wiki/Breton_people" class="mw-redirect" title="Breton people">Breton</a> knight who settled in England after the <a href="/wiki/Norman_conquest_of_England" title="Norman conquest of England">Norman Conquest</a>. His son, <a href="/wiki/Walter_fitz_Alan" title="Walter fitz Alan">Walter fitz Alan</a>, relocated to <a href="/wiki/Scotland" title="Scotland">Scotland</a> during <a href="/wiki/The_Anarchy" title="The Anarchy">the Anarchy</a>, became the <a href="/wiki/High_Steward_of_Scotland" class="mw-redirect" title="High Steward of Scotland">High Steward of Scotland</a>,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> hence the origin of the surname. Stewart is the 66th-most common surname in the United Kingdom.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
 </p>
-<style data-mw-deduplicate="TemplateStyles:r886049878">.mw-parser-output .tocright{float:right;clear:right;width:auto;background:none;padding:.5em 0 .8em 1.4em;margin-bottom:.5em}.mw-parser-output .tocright-clear-left{clear:left}.mw-parser-output .tocright-clear-both{clear:both}.mw-parser-output .tocright-clear-none{clear:none}</style><div class="tocright" style=""><div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Given_name"><span class="tocnumber">1</span> <span class="toctext">Given name</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Surname"><span class="tocnumber">2</span> <span class="toctext">Surname</span></a>
+<li class="toclevel-1 tocsection-1"><a href="#House_of_Stewart"><span class="tocnumber">1</span> <span class="toctext">House of Stewart</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Stewart_peers"><span class="tocnumber">2</span> <span class="toctext">Stewart peers</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Diaspora"><span class="tocnumber">3</span> <span class="toctext">Diaspora</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#People_named_Stewart"><span class="tocnumber">4</span> <span class="toctext">People named Stewart</span></a>
 <ul>
-<li class="toclevel-2 tocsection-3"><a href="#A–D"><span class="tocnumber">2.1</span> <span class="toctext">A–D</span></a></li>
-<li class="toclevel-2 tocsection-4"><a href="#E–I"><span class="tocnumber">2.2</span> <span class="toctext">E–I</span></a></li>
-<li class="toclevel-2 tocsection-5"><a href="#J–M"><span class="tocnumber">2.3</span> <span class="toctext">J–M</span></a></li>
-<li class="toclevel-2 tocsection-6"><a href="#N–Z"><span class="tocnumber">2.4</span> <span class="toctext">N–Z</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Surname"><span class="tocnumber">4.1</span> <span class="toctext">Surname</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Given_name"><span class="tocnumber">4.2</span> <span class="toctext">Given name</span></a></li>
 </ul>
 </li>
-<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
-<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
 </ul>
 </div>
-</div>
-<h2><span class="mw-headline" id="Given_name">Given name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Robinson_(name)&amp;action=edit&amp;section=1" title="Edit section: Given name">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Robinson_Can%C3%B3" title="Robinson Canó">Robinson Canó</a> (born 1982), Dominican baseball player</li>
-<li><a href="/wiki/Robinson_Crusoe" title="Robinson Crusoe">Robinson Crusoe</a>, fictional eponymous hero of Daniel Defoe's novel</li>
-<li><a href="/wiki/Robinson_Jeffers" title="Robinson Jeffers">Robinson Jeffers</a> (1887–1962), American poet</li>
-<li><a href="/wiki/Robinson_Merch%C3%A1n" title="Robinson Merchán">Robinson Merchán</a> (born 1974), Venezuelan road cyclist</li>
-<li><a href="/wiki/Robinson_Odoch" class="mw-redirect" title="Robinson Odoch">Robinson Odoch</a> (born 1989), Ugandan basketball player</li>
-<li><a href="/wiki/Robins%C3%B3n_Pital%C3%BAa" title="Robinsón Pitalúa">Robinsón Pitalúa</a> (1964–1985), Colombian boxer</li></ul>
-<h2><span class="mw-headline" id="Surname">Surname</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Robinson_(name)&amp;action=edit&amp;section=2" title="Edit section: Surname">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span id="A.E2.80.93D"></span><span class="mw-headline" id="A–D">A–D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Robinson_(name)&amp;action=edit&amp;section=3" title="Edit section: A–D">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Adrien_Robinson" title="Adrien Robinson">Adrien Robinson</a> (born 1988), American football player</li>
-<li><a href="/wiki/Abraham_Robinson" title="Abraham Robinson">Abraham Robinson</a> (1918–1974), German-American mathematician</li>
-<li><a href="/wiki/Alastair_Robinson" title="Alastair Robinson">Alastair Robinson</a>, British botanist</li>
-<li><a href="/wiki/Alastair_Robinson_(rugby_union)" title="Alastair Robinson (rugby union)">Alastair Robinson (rugby union)</a> (born 1956), New Zealand rugby union player</li>
-<li><a href="/wiki/Albert_William_Robinson" class="mw-redirect" title="Albert William Robinson">Albert William Robinson</a> (1877–1943) Australian parliamentarian</li>
-<li><a href="/wiki/Alexander_Robinson" title="Alexander Robinson">Alexander "Buck Alec" Robinson</a> (<abbr title="circa">c.</abbr><span style="white-space:nowrap;">&#8201;1901</span>–1995), Irish boxer, loyalist paramilitary and Ulster Special Constabulary reservist</li>
-<li><a href="/wiki/Allen_Robinson" title="Allen Robinson">Allen Robinson</a> (born 1993), American football player</li>
-<li><a href="/wiki/Amy_Robinson" title="Amy Robinson">Amy Robinson</a> (born 1948), American actress and film producer</li>
-<li><a href="/wiki/Amy_Robinson_(athlete)" class="mw-redirect" title="Amy Robinson (athlete)">Amy Robinson (athlete)</a>, New Zealand field hockey and volleyball player</li>
-<li><a href="/wiki/Andrew_Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="Andrew Robinson (disambiguation)">Andrew Robinson (disambiguation)</a></li>
-<li><a href="/wiki/Andy_Robinson" title="Andy Robinson">Andy Robinson</a> (born 1964), English rugby union coach and former player</li>
-<li><a href="/wiki/Angus_Hargreaves_Robinson" title="Angus Hargreaves Robinson">Angus Hargreaves Robinson</a> (1907–1973), Australian grazier and ornithologist</li>
-<li><a href="/wiki/Anna_Lynch-Robinson" title="Anna Lynch-Robinson">Anna Lynch-Robinson</a>, costume designer</li>
-<li><a href="/wiki/Annot_Robinson" title="Annot Robinson">Annot Robinson</a>, née Wilkie, nicknamed Annie, (1874–1925), British pacifist and suffragette</li>
-<li><a href="/wiki/Anthony_Charles_Robinson" class="mw-redirect" title="Anthony Charles Robinson">Anthony Charles Robinson</a> (born 1952), English business speaker, author and micro-enterprise campaigner</li>
-<li><a href="/wiki/Arthur_Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="Arthur Robinson (disambiguation)">Arthur Robinson (disambiguation)</a></li>
-<li><a href="/wiki/A._N._R._Robinson" title="A. N. R. Robinson">A. N. R. Robinson</a> (born 1926), the President (1997–2003) and Prime Minister (1986–1991) of Trinidad and Tobago</li>
-<li><a href="/wiki/Barbara_Robinson_(author)" title="Barbara Robinson (author)">Barbara Robinson (author)</a> (born 1927), American children's writer</li>
-<li><a href="/wiki/Basil_Robinson_(RAF_officer)" title="Basil Robinson (RAF officer)">Basil Robinson (RAF officer)</a> (1912–1943), pilot with RAF Bomber Command during World War II</li>
-<li><a href="/wiki/Basil_Robinson_(cricketer)" title="Basil Robinson (cricketer)">Basil Robinson (cricketer)</a> (1919–2012), Canadian cricketer</li>
-<li><a href="/wiki/Basil_William_Robinson" title="Basil William Robinson">Basil William Robinson</a>, British art scholar and author</li>
-<li><a href="/wiki/Benjamin_Lincoln_Robinson" title="Benjamin Lincoln Robinson">Benjamin Lincoln Robinson</a> (1864–1935), American botanist</li>
-<li><a href="/wiki/Bernadette_Robinson" title="Bernadette Robinson">Bernadette Robinson</a>, Australian stage actress</li>
-<li><a href="/wiki/Bertram_Fletcher_Robinson" title="Bertram Fletcher Robinson">Bertram Fletcher Robinson</a> (1870–1907), British journalist, editor, author and sportsperson</li>
-<li><a href="/wiki/Beth_Robinson" title="Beth Robinson">Beth Robinson</a>, member of the Supreme Court of Vermont</li>
-<li><a href="/wiki/Betty_Robinson" title="Betty Robinson">Betty Robinson</a> (1911–1999), American sprinter, winner of the first Olympic 100m for women</li>
-<li><a href="/wiki/Bill_Robinson_(author)" title="Bill Robinson (author)">Bill Robinson (author)</a> (1918–2007), American editor, author and sailor</li>
-<li><a href="/wiki/Bishop_Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="Bishop Robinson (disambiguation)">Bishop Robinson (disambiguation)</a></li>
-<li><a href="/wiki/Bo_Robinson" title="Bo Robinson">Bo Robinson</a> (born 1956), American football player</li>
-<li><a href="/wiki/Brian_Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="Brian Robinson (disambiguation)">Brian Robinson (disambiguation)</a></li>
-<li><a href="/wiki/Bryan_Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="Bryan Robinson (disambiguation)">Bryan Robinson (disambiguation)</a></li>
-<li><a href="/wiki/Cam_Robinson" title="Cam Robinson">Cam Robinson</a> (born 1995), American football player</li>
-<li><a href="/wiki/Carl_Robinson" title="Carl Robinson">Carl Robinson</a> (born 1976), Welsh football player</li>
-<li><a href="/wiki/Cedric_Robinson" title="Cedric Robinson">Cedric Robinson</a> (1940-2016), American professor</li>
-<li><a href="/wiki/Cedric_Robinson_(guide)" title="Cedric Robinson (guide)">Cedric Robinson (guide)</a> (born 1933), guide to Morecambe Bay Sands, England</li>
-<li><a href="/wiki/Charles_M._Robinson_III" title="Charles M. Robinson III">Charles M. Robinson III</a>, American author and illustrator</li>
-<li><a href="/wiki/Charles_Mulford_Robinson" title="Charles Mulford Robinson">Charles Mulford Robinson</a> (1869–1917), American city planner and journalist</li>
-<li><a href="/wiki/Charles_W._Robinson" title="Charles W. Robinson">Charles W. Robinson</a> (born 1919), American business person and entrepreneur</li>
-<li><a href="/wiki/Chris_Robinson_(actor)" title="Chris Robinson (actor)">Chris Robinson (actor)</a> (born 1938), American film and television actor</li>
-<li><a href="/wiki/Claire_Robinson" title="Claire Robinson">Claire Robinson</a> (born c. 1978), American cook and television host</li>
-<li><a href="/wiki/Claude_E._Robinson" title="Claude E. Robinson">Claude E. Robinson</a> (born 1900), American pioneer in advertising and public opinion research</li>
-<li><a href="/wiki/Courtney_Robinson" title="Courtney Robinson">Courtney Robinson</a> (born 1986), American football player</li>
-<li><a href="/wiki/Craig_Robinson_(basketball)" title="Craig Robinson (basketball)">Craig Robinson (basketball)</a> (born 1962), American college basketball coach</li>
-<li><a href="/wiki/Cynthia_Robinson" title="Cynthia Robinson">Cynthia Robinson</a> (1944–2015), American trumpeter</li>
-<li><a href="/wiki/David_Robinson_(disambiguation)" class="mw-disambig" title="David Robinson (disambiguation)">David Robinson (disambiguation)</a></li>
-<li><a href="/wiki/David_Robinson_(basketball)" class="mw-redirect" title="David Robinson (basketball)">David Robinson (basketball)</a> (born 1965), American basketball player</li>
-<li>Sir <a href="/wiki/David_Robinson_(philanthropist)" title="David Robinson (philanthropist)">David Robinson (philanthropist)</a> (1904–1987), British philanthropist and entrepreneur</li>
-<li><a href="/wiki/Denard_Robinson" title="Denard Robinson">Denard Robinson</a> (born 1990), American football player</li>
-<li><a href="/wiki/Derek_Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="Derek Robinson (disambiguation)">Derek Robinson (disambiguation)</a></li>
-<li><a href="/wiki/Dollie_Lowther_Robinson" title="Dollie Lowther Robinson">Dollie Lowther Robinson</a> (died 1983), American politician and labor rights worker</li>
-<li><a href="/wiki/Douglas_C_Robinson" class="mw-redirect" title="Douglas C Robinson">Douglas C Robinson</a> (1884–1963), Gloucestershire cricketer</li>
-<li><a href="/wiki/Duncan_Robinson" title="Duncan Robinson">Duncan Robinson</a>, Master of Magdalene College, Cambridge, and art historian</li>
-<li><a href="/wiki/Dunta_Robinson" title="Dunta Robinson">Dunta Robinson</a> (born 1982), American NFL cornerback, playing for the Houston Texans</li></ul>
-<h3><span id="E.E2.80.93I"></span><span class="mw-headline" id="E–I">E–I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Robinson_(name)&amp;action=edit&amp;section=4" title="Edit section: E–I">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Earl_Robinson" title="Earl Robinson">Earl Robinson</a> (1910–1991), American singer-songwriter, father of Perry Robinson</li>
-<li><a href="/wiki/Eddie_N._Robinson" title="Eddie N. Robinson">Eddie N. Robinson</a> (1873–1945), American college football coach</li>
-<li><a href="/wiki/Edmond_Robinson" title="Edmond Robinson">Edmond Robinson</a> (born 1992), American football player</li>
-<li><a href="/wiki/Edward_Robinson_(scholar)" title="Edward Robinson (scholar)">Edward Robinson (scholar)</a>, American biblical scholar</li>
-<li><a href="/wiki/Edward_G._Robinson" title="Edward G. Robinson">Edward G. Robinson</a> (1893–1973), Romanian-American actor</li>
-<li><a href="/wiki/Edwin_Arlington_Robinson" title="Edwin Arlington Robinson">Edwin Arlington Robinson</a> (1869–1935), American poet</li>
-<li><a href="/wiki/Eleanor_Robinson_(swimmer)" class="mw-redirect" title="Eleanor Robinson (swimmer)">Eleanor Robinson (swimmer)</a> (born 2001), British para-swimmer and Paralympic gold medalist</li>
-<li><a href="/wiki/Elisha_Smith_Robinson" title="Elisha Smith Robinson">Elisha Smith Robinson</a>, (1817–1885), paper and packaging manufacturer of Bristol, England</li>
-<li><a href="/wiki/Emily_Robinson" title="Emily Robinson">Emily Robinson</a> (born 1998), American actress</li>
-<li><a href="/wiki/Eric_Robinson_(veterinarian)" title="Eric Robinson (veterinarian)">Eric Robinson (veterinarian)</a> (1891–1982), South African veterinarian</li>
-<li><a href="/wiki/Ezekiel_Robinson" title="Ezekiel Robinson">Ezekiel Gilman Robinson</a>, (1815–1894), American Baptist clergyman</li>
-<li><a href="/wiki/Fiona_Robinson" title="Fiona Robinson">Fiona Robinson</a> (born 1969), Australian basketball and handball player</li>
-<li><a href="/wiki/Foster_Robinson" title="Foster Robinson">Foster Robinson</a> (1880–1957), Gloucestershire cricketer and businessman</li>
-<li><a href="/wiki/Frank_Robinson_(disambiguation)" class="mw-disambig" title="Frank Robinson (disambiguation)">Frank Robinson (disambiguation)</a></li>
-<li><a href="/wiki/Frank_Norman_Robinson" title="Frank Norman Robinson">Frank Norman Robinson</a> (1911–1997), Australian wildlife sound recordist and ornithologist</li>
-<li><a href="/wiki/Frederick_John_Robinson,_1st_Viscount_Goderich" class="mw-redirect" title="Frederick John Robinson, 1st Viscount Goderich">Frederick John Robinson, 1st Viscount Goderich</a> (1782–1859), British statesman and prime minister</li>
-<li><a href="/wiki/Gene_Robinson" title="Gene Robinson">Gene Robinson</a> (born 1947), American, bishop of the Episcopal diocese of New Hampshire</li>
-<li><a href="/wiki/Sir_George_Best_Robinson,_2nd_Baronet" class="mw-redirect" title="Sir George Best Robinson, 2nd Baronet">Sir George Best Robinson, 2nd Baronet</a> (1797–1855), Chief Superintendent of British Trade in China</li>
-<li><a href="/wiki/George_Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="George Robinson (disambiguation)">George Robinson (disambiguation)</a></li>
-<li><a href="/wiki/George_Robinson,_1st_Marquess_of_Ripon" title="George Robinson, 1st Marquess of Ripon">George Robinson, 1st Marquess of Ripon</a> (1827–1909), British politician</li>
-<li><a href="/wiki/Georgia_Ann_Robinson" title="Georgia Ann Robinson">Georgia Ann Robinson</a> (1879–1961), American law enforcement officer and activist</li>
-<li>Gerald Robinson (born 1938), American priest, convicted of the <a href="/wiki/Murder_of_Margaret_Ann_Pahl" title="Murder of Margaret Ann Pahl">murder of Margaret Ann Pahl</a></li>
-<li><a href="/wiki/Gerald_Robinson_(American_football)" title="Gerald Robinson (American football)">Gerald Robinson (American football)</a> (born 1963), American football player</li>
-<li><a href="/wiki/Gerald_Robinson_(basketball,_born_1984)" title="Gerald Robinson (basketball, born 1984)">Gerald Robinson (basketball, born 1984)</a>, American basketball player</li>
-<li><a href="/wiki/Gerald_Robinson_(basketball,_born_1989)" title="Gerald Robinson (basketball, born 1989)">Gerald Robinson (basketball, born 1989)</a>, American basketball player</li>
-<li>Sir <a href="/wiki/Gerry_Robinson" title="Gerry Robinson">Gerry Robinson</a> (born 1948), Irish-born British businessman</li>
-<li><a href="/wiki/Gertrude_Maud_Robinson" title="Gertrude Maud Robinson">Gertrude Maud Robinson</a>, British organic chemist</li>
-<li><a href="/wiki/Gil_Robinson" title="Gil Robinson">Gil Robinson</a>, American football player</li>
-<li><a href="/wiki/Gilbert_de_Beauregard_Robinson" title="Gilbert de Beauregard Robinson">Gilbert de Beauregard Robinson</a> (1906–1992), Canadian mathematician</li>
-<li><a href="/wiki/Gilbert_Robinson" title="Gilbert Robinson">Gilbert Robinson</a>, rugby league footballer of the 1930s for Great Britain, Wakefield Trinity, and Castleford</li>
-<li><a href="/wiki/Glenn_Robinson" title="Glenn Robinson">Glenn Robinson</a> (born 1973), American basketball player</li>
-<li><a href="/wiki/Glenn_Robinson_III" title="Glenn Robinson III">Glenn Robinson III</a> (born 1994), son of the above, also a basketball player</li>
-<li><a href="/wiki/Greg_Robinson_(American_football_coach)" title="Greg Robinson (American football coach)">Greg Robinson (American football coach)</a>, American football coach</li>
-<li><a href="/wiki/Greg_Robinson_(running_back)" title="Greg Robinson (running back)">Greg Robinson (running back)</a>, American football running back</li>
-<li><a href="/wiki/Greg_Robinson_(offensive_tackle)" title="Greg Robinson (offensive tackle)">Greg Robinson (offensive tackle)</a>, American football offensive tackle</li>
-<li>Harvey Robinson, several people:
-<ul><li><a href="/wiki/Harvey_Robinson" title="Harvey Robinson">Harvey Leigh Robinson</a> (1908-1979), American football player and coach</li>
-<li><a href="/wiki/Harvey_Miguel_Robinson" title="Harvey Miguel Robinson">Harvey Miguel Robinson</a> (born 1974), American serial killer and rapist</li>
-<li>Harvey Rodriguez Robinson, father of Harvey Miguel and convicted murderer</li></ul></li>
-<li><a href="/wiki/Hannah_Robinson" title="Hannah Robinson">Hannah Robinson</a>, British songwriter</li>
-<li><a href="/wiki/Helen_Ring_Robinson" title="Helen Ring Robinson">Helen Ring Robinson</a> (1878–1923), second woman to serve as a state senator in the United States</li>
-<li><a href="/wiki/Henry_Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="Henry Robinson (disambiguation)">Henry Robinson (disambiguation)</a></li>
-<li><a href="/wiki/Herbert_Christopher_Robinson" class="mw-redirect" title="Herbert Christopher Robinson">Herbert Christopher Robinson</a> (1874–1929), British zoologist and ornithologist</li>
-<li><a href="/wiki/Hercules_Robinson,_1st_Baron_Rosmead" title="Hercules Robinson, 1st Baron Rosmead">Hercules Robinson, 1st Baron Rosmead</a> (1824–1897), British colonial administrator, Governor of Hong Kong</li>
-<li><a href="/wiki/Hervey_Robinson" title="Hervey Robinson">Hervey Robinson</a> (born 1954), English professional footballer</li>
-<li><a href="/wiki/Ian_Robinson_(cricket_umpire)" title="Ian Robinson (cricket umpire)">Ian Robinson (cricket umpire)</a> (1947–2016), Zimbabwean cricket umpire</li>
-<li><a href="/wiki/Iris_Robinson" title="Iris Robinson">Iris Robinson</a> (born 1949), Northern Irish politician</li></ul>
-<h3><span id="J.E2.80.93M"></span><span class="mw-headline" id="J–M">J–M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Robinson_(name)&amp;action=edit&amp;section=5" title="Edit section: J–M">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Jack_Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="Jack Robinson (disambiguation)">Jack Robinson (disambiguation)</a></li>
-<li><a href="/wiki/Jackie_Robinson" title="Jackie Robinson">Jackie Robinson</a> (1919–1972), first African-American Major League Baseball player of the modern era</li>
-<li><a href="/wiki/Jackie_Robinson_(disambiguation)" class="mw-disambig" title="Jackie Robinson (disambiguation)">Jackie Robinson (disambiguation)</a>, several other people</li>
-<li><a href="/wiki/Jamal_Robinson_(American_football)" title="Jamal Robinson (American football)">Jamal Robinson (American football)</a> (born 1993), American football player</li>
-<li><a href="/wiki/James_Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="James Robinson (disambiguation)">James Robinson (disambiguation)</a></li>
-<li><a href="/wiki/Jane_Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="Jane Robinson (disambiguation)">Jane Robinson (disambiguation)</a></li>
-<li><a href="/wiki/Jason_Robinson_(rugby_player)" class="mw-redirect" title="Jason Robinson (rugby player)">Jason Robinson (rugby player)</a> (born 1974), English dual-code rugby international</li>
-<li><a href="/wiki/Jason_Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="Jason Robinson (disambiguation)">Jason Robinson (disambiguation)</a></li>
-<li><a href="/wiki/Jennifer_Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="Jennifer Robinson (disambiguation)">Jennifer Robinson (disambiguation)</a></li>
-<li><a href="/wiki/Jerry_Robinson" title="Jerry Robinson">Jerry Robinson</a>, comics artist</li>
-<li><a href="/wiki/Joan_Robinson" title="Joan Robinson">Joan Robinson</a> (1903–1983), British economist</li>
-<li><a href="/wiki/John_Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="John Robinson (disambiguation)">John Robinson (disambiguation)</a>, numerous people</li>
-<li><a href="/wiki/Joyce_Robinson" title="Joyce Robinson">Joyce Robinson</a> (1925 – 2013), Jamaican public servant</li>
-<li><a href="/wiki/Julia_Robinson" title="Julia Robinson">Julia Robinson</a> (née Bowman, 1919–1985), American mathematician, first female president of the AMS</li>
-<li><a href="/wiki/Keith_Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="Keith Robinson (disambiguation)">Keith Robinson (disambiguation)</a></li>
-<li>Sir <a href="/wiki/Ken_Robinson_(educationalist)" title="Ken Robinson (educationalist)">Ken Robinson (educationalist)</a> (born 1950), British educationalist and author</li>
-<li><a href="/wiki/Ken_Robinson_(field_hockey)" title="Ken Robinson (field hockey)">Ken Robinson (field hockey)</a> (born 1971), New Zealand field hockey player</li>
-<li>Khalid Robinson (born 1998), American singer and songwriter known professionally as <a href="/wiki/Khalid_(singer)" title="Khalid (singer)">Khalid</a></li>
-<li><a href="/wiki/Khiry_Robinson" title="Khiry Robinson">Khiry Robinson</a> (born 1989), American football player</li>
-<li><a href="/wiki/Kim_Stanley_Robinson" title="Kim Stanley Robinson">Kim Stanley Robinson</a>, (born 1952), American science fiction writer</li>
-<li><a href="/wiki/Larry_Robinson" title="Larry Robinson">Larry Robinson</a>, (born 1951), Canadian ice hockey player</li>
-<li>Lionel Robinson (1866–1922), principal of <a href="/wiki/Clark_%26_Robinson" title="Clark &amp; Robinson">Clark &amp; Robinson</a>, Australian stockbrokers and racehorse owners</li>
-<li><a href="/wiki/Lionel_Keir_Robinson" title="Lionel Keir Robinson">Lionel Keir Robinson</a> (1897–1983) antiquarian bookseller</li>
-<li><a href="/wiki/Lucius_Robinson" title="Lucius Robinson">Lucius Robinson</a> (1810–1891), New York Governor 1877–1879</li>
-<li><a href="/wiki/Lucy_Robinson_(actress)" title="Lucy Robinson (actress)">Lucy Robinson (actress)</a>, British actress</li>
-<li><a href="/wiki/Luke_Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="Luke Robinson (disambiguation)">Luke Robinson (disambiguation)</a></li>
-<li><a href="/wiki/Luther_Robinson" title="Luther Robinson">Luther Robinson</a> (born 1991), American football player</li>
-<li><a href="/wiki/Maria_D._Robinson" title="Maria D. Robinson">Maria D. Robinson</a> (1840–1920), British-Irish artist</li>
-<li><a href="/wiki/Mark_Robinson_(Northern_Ireland_politician)" title="Mark Robinson (Northern Ireland politician)">Mark Robinson (Northern Ireland politician)</a>, (born 1959), Northern Irish politician</li>
-<li><a href="/wiki/Mark_Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="Mark Robinson (disambiguation)">Mark Robinson (disambiguation)</a></li>
-<li><a href="/wiki/Mary_Robinson_(disambiguation)" class="mw-disambig" title="Mary Robinson (disambiguation)">Mary Robinson (disambiguation)</a></li>
-<li><a href="/wiki/Marilynne_Robinson" title="Marilynne Robinson">Marilynne Robinson</a> (born 1947), American writer</li>
-<li><a href="/wiki/Matthew_Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="Matthew Robinson (disambiguation)">Matthew Robinson (disambiguation)</a></li>
-<li><a href="/wiki/Michael_Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="Michael Robinson (disambiguation)">Michael Robinson (disambiguation)</a></li>
-<li><a href="/wiki/Michelle_Robinson" class="mw-redirect" title="Michelle Robinson">Michelle Robinson</a> (Michelle Obama, born 1964), American lawyer and First Lady of the United States</li>
-<li><a href="/wiki/Mitch_Robinson" title="Mitch Robinson">Mitch Robinson</a> (born 1989), Australian rules footballer</li>
-<li><a href="/wiki/Morgana_Robinson" title="Morgana Robinson">Morgana Robinson</a> (born 1982), British comedian</li>
-<li><a href="/wiki/Morris_Robinson" title="Morris Robinson">Morris Robinson</a> (born 1969), American operatic bass</li>
-<li><a href="/wiki/Moses_Robinson" title="Moses Robinson">Moses Robinson</a> (1741–1813), American statesman, governor of the Vermont Republic (1789–1790), one of the first two United States senators from the state of Vermont (1791–1796)</li>
-<li><a href="/wiki/Moushaumi_Robinson" title="Moushaumi Robinson">Moushaumi Robinson</a> (born 1981), American track and field sprinter</li>
-<li><a href="/wiki/Muriel_Robinson" title="Muriel Robinson">Muriel Robinson</a> (born 1954), British academic administrator and education scholar</li></ul>
-<h3><span id="N.E2.80.93Z"></span><span class="mw-headline" id="N–Z">N–Z</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Robinson_(name)&amp;action=edit&amp;section=6" title="Edit section: N–Z">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Nate_Robinson_(disambiguation)" class="mw-disambig" title="Nate Robinson (disambiguation)">Nate Robinson (disambiguation)</a></li>
-<li><a href="/wiki/Nathan_Robinson" title="Nathan Robinson">Nathan Robinson</a> (born 1981), Canadian ice hockey player</li>
-<li><a href="/wiki/Neville_Robinson" title="Neville Robinson">Neville Robinson</a> (1925–1996), British physicist</li>
-<li><a href="/wiki/Nick_Robinson_(American_actor)" title="Nick Robinson (American actor)">Nick Robinson (American actor)</a> (born 1995), American actor</li>
-<li><a href="/wiki/Norm_Robinson" title="Norm Robinson">Norm Robinson</a>, Australian rugby league footballer and coach</li>
-<li><a href="/wiki/Patricia_Robinson" title="Patricia Robinson">Patricia Robinson</a>, Trinidadian economist</li>
-<li><a href="/wiki/Paul_Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="Paul Robinson (disambiguation)">Paul Robinson (disambiguation)</a></li>
-<li><a href="/wiki/Perry_Robinson" title="Perry Robinson">Perry Robinson</a> (1938–2018), American jazz clarinetist and composer, son of Earl Robinson</li>
-<li><a href="/wiki/Peter_Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="Peter Robinson (disambiguation)">Peter Robinson (disambiguation)</a></li>
-<li><a href="/wiki/Phoebe_Robinson" title="Phoebe Robinson">Phoebe Robinson</a>, American comedian, writer, and actress</li>
-<li><a href="/wiki/Piers_Robinson" title="Piers Robinson">Piers Robinson</a>, British academic</li>
-<li><a href="/wiki/Porter_Robinson" title="Porter Robinson">Porter Robinson</a>, American electronic musician</li>
-<li><a href="/wiki/Rachel_Robinson" title="Rachel Robinson">Rachel Robinson</a> (born 1922), widow of Jackie Robinson and founder of the Jackie Robinson Foundation</li>
-<li><a href="/wiki/Raphael_M._Robinson" title="Raphael M. Robinson">Raphael M. Robinson</a> (1911–1995), American mathematician</li>
-<li><a href="/wiki/Ray_Charles_Robinson" class="mw-redirect" title="Ray Charles Robinson">Ray Charles Robinson</a> (1930–2004), American pianist commonly known as Ray Charles</li>
-<li><a href="/wiki/Richard_Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="Richard Robinson (disambiguation)">Richard Robinson (disambiguation)</a></li>
-<li><a href="/wiki/Rix_Robinson" title="Rix Robinson">Rix Robinson</a> (1789–1875), American politician</li>
-<li><a href="/wiki/Robert_Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="Robert Robinson (disambiguation)">Robert Robinson (disambiguation)</a></li>
-<li><a href="/wiki/Rodney_Robinson" title="Rodney Robinson">Rodney Robinson</a> (born 1978), American educator</li>
-<li><a href="/wiki/Rod_Robinson" title="Rod Robinson">Rod Robinson</a> (born 1976), professional football player</li>
-<li><a href="/wiki/Roger_Robinson_(poet)" title="Roger Robinson (poet)">Roger Robinson (poet)</a>, British/Trinidadian writer, musician and performer</li>
-<li><a href="/wiki/Romona_Robinson" title="Romona Robinson">Romona Robinson</a> (born 1959), American television news anchor</li>
-<li><a href="/wiki/Ronald_Robinson" title="Ronald Robinson">Ronald Robinson</a> (1920–1999), British historian of Africa</li>
-<li><a href="/wiki/Samuel_Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="Samuel Robinson (disambiguation)">Samuel Robinson (disambiguation)</a>, many individuals</li>
-<li>Samuel Robinson, alias of South American philosopher and educator <a href="/wiki/Sim%C3%B3n_Rodr%C3%ADguez" title="Simón Rodríguez">Simón Rodríguez</a> (1769–1854)</li>
-<li><a href="/wiki/Seamus_Robinson_(fencer)" title="Seamus Robinson (fencer)">Seamus Robinson (fencer)</a> (born 1975), Australian fencer</li>
-<li><a href="/wiki/S%C3%A9umas_Robinson_(Irish_republican)" title="Séumas Robinson (Irish republican)">Séumas Robinson (Irish republican)</a> (1890–1961), Irish Republican</li>
-<li><a href="/wiki/Shawna_Robinson" title="Shawna Robinson">Shawna Robinson</a> (born 1964), American female NASCAR driver</li>
-<li><a href="/wiki/Sidney_Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="Sidney Robinson (disambiguation)">Sidney Robinson (disambiguation)</a></li>
-<li><a href="/wiki/Sozhasingarayer_Robinson" title="Sozhasingarayer Robinson">Sozhasingarayer Robinson</a> (born 1980), Basketball player for India's national team</li>
-<li><a href="/wiki/Smokey_Robinson" title="Smokey Robinson">Smokey Robinson</a> (born 1940), African-American R&amp;B and soul singer and songwriter</li>
-<li><a href="/wiki/Spider_Robinson" title="Spider Robinson">Spider Robinson</a>, (born 1948), American science fiction writer</li>
-<li><a href="/wiki/Stanley_L._Robinson" title="Stanley L. Robinson">Stanley L. Robinson</a> (1890–1967), American football player and coach</li>
-<li><a href="/wiki/Stephen_Robinson" title="Stephen Robinson">Stephen Robinson</a> (born 1955), American astronaut</li>
-<li><a href="/wiki/Steve_Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="Steve Robinson (disambiguation)">Steve Robinson (disambiguation)</a></li>
-<li><a href="/wiki/Sugar_Ray_Robinson" title="Sugar Ray Robinson">Sugar Ray Robinson</a> (Walker Smith Jr., 1921–1989), American boxer</li>
-<li><a href="/wiki/The_Swiss_Family_Robinson" title="The Swiss Family Robinson">The Swiss Family Robinson</a>, characters in eponymous books and films</li>
-<li><a href="/wiki/Thomas_Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="Thomas Robinson (disambiguation)">Thomas Robinson (disambiguation)</a></li>
-<li><a href="/wiki/Tony_Robinson" title="Tony Robinson">Tony Robinson</a> (born 1946), British television comedy actor and political campaigner</li>
-<li><a href="/wiki/Trent_Robinson" title="Trent Robinson">Trent Robinson</a> (born 1977), Australian Rugby League coach for the Sydney Roosters</li>
-<li><a href="/wiki/Tyree_Robinson" title="Tyree Robinson">Tyree Robinson</a> (born 1994), American football player</li>
-<li><a href="/wiki/W._Andrew_Robinson" title="W. Andrew Robinson">W. Andrew Robinson</a> (born 1957), British author and editor</li>
-<li><a href="/wiki/W._Heath_Robinson" title="W. Heath Robinson">W. Heath Robinson</a> (William Heath Robinson, 1872–1944), British cartoonist and illustrator</li>
-<li><a href="/wiki/William_Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="William Robinson (disambiguation)">William Robinson (disambiguation)</a></li>
-<li><a href="/wiki/V%27Alonee_Robinson" title="V&#39;Alonee Robinson">V'Alonee Robinson</a> (born 1992), Bahamian sprinter</li></ul>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Robinson_(name)&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Mr._Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="Mr. Robinson (disambiguation)">Mr. Robinson (disambiguation)</a></li>
-<li><a href="/wiki/Robertson_(surname)" title="Robertson (surname)">Robertson (surname)</a></li>
-<li><a href="/wiki/Robeson_(disambiguation)" class="mw-redirect mw-disambig" title="Robeson (disambiguation)">Robeson (disambiguation)</a></li>
-<li><a href="/wiki/Robin_(name)" title="Robin (name)">Robin (name)</a></li>
-<li><a href="/wiki/Robinson_(disambiguation)" class="mw-redirect mw-disambig" title="Robinson (disambiguation)">Robinson (disambiguation)</a></li>
-<li><a href="/wiki/Robison_(disambiguation)" class="mw-redirect mw-disambig" title="Robison (disambiguation)">Robison (disambiguation)</a></li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Robinson_(name)&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+
+<h2><span class="mw-headline" id="House_of_Stewart">House of Stewart</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stewart_(name)&amp;action=edit&amp;section=1" title="Edit section: House of Stewart">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/House_of_Stuart" title="House of Stuart">House of Stuart</a></div>
+<p>One of the hereditary Stewart stewards, <a href="/wiki/Walter_Stewart,_6th_High_Steward_of_Scotland" title="Walter Stewart, 6th High Steward of Scotland">Walter Stewart</a>, married <a href="/wiki/Marjorie_Bruce" title="Marjorie Bruce">Marjorie Bruce</a>, daughter of King <a href="/wiki/Robert_I_of_Scotland" class="mw-redirect" title="Robert I of Scotland">Robert I</a>, and founded the royal <a href="/wiki/House_of_Stewart" class="mw-redirect" title="House of Stewart">House of Stewart</a>, beginning with their son King <a href="/wiki/Robert_II_of_Scotland" title="Robert II of Scotland">Robert II</a>. The House of Stewart was the longest serving royal dynasty of Scotland. <a href="/wiki/Mary,_Queen_of_Scots" title="Mary, Queen of Scots">Mary, Queen of Scots</a> formalised the use of the spelling Stuart, while resident in France, in order to preserve the correct pronunciation. In 1603, the Stewart King <a href="/wiki/James_VI_of_Scotland" class="mw-redirect" title="James VI of Scotland">James VI of Scotland</a> became King James I of England and Wales by his <a href="/wiki/Succession_to_Queen_Elizabeth_I" class="mw-redirect" title="Succession to Queen Elizabeth I">succession to Queen Elizabeth I</a>. The Stewart dynasty ruled Scotland, England and Wales (with an interruption during Cromwell's Commonwealth after the <a href="/wiki/English_Civil_War" title="English Civil War">English Civil War</a>) until 1714, when <a href="/wiki/Anne,_Queen_of_Great_Britain" title="Anne, Queen of Great Britain">Queen Anne</a> died and the British Crown passed to the German Electors of Hanover.
+</p><p>The grandson of <a href="/wiki/James_II_of_England" title="James II of England">James II</a>, Prince <a href="/wiki/Charles_Edward_Stuart" title="Charles Edward Stuart">Charles Edward Stuart</a>, led the last attempt to restore the Stewart dynasty to the British Crown in 1745-6 and became known to history as "<a href="/wiki/Bonnie_Prince_Charlie" class="mw-redirect" title="Bonnie Prince Charlie">Bonnie Prince Charlie</a>". This attempted coup d'état ended in the slaughter of Charles' army at the <a href="/wiki/Battle_of_Culloden" title="Battle of Culloden">Battle of Culloden</a> in April, 1746.
+</p>
+<h2><span class="mw-headline" id="Stewart_peers">Stewart peers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stewart_(name)&amp;action=edit&amp;section=2" title="Edit section: Stewart peers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In addition to the Royal House of Stuart, various branches of the Stewart family became Scottish peers, at various times holding the <a href="/wiki/Marquis_of_Bute" class="mw-redirect" title="Marquis of Bute">Marquisate of Bute</a>, the earldoms of <a href="/wiki/Earl_of_Atholl" title="Earl of Atholl">Atholl</a>, <a href="/wiki/Earl_of_Mar" title="Earl of Mar">Mar</a>, <a href="/wiki/Earl_of_Moray" title="Earl of Moray">Moray</a>, <a href="/wiki/Earl_of_Angus" title="Earl of Angus">Angus</a>, <a href="/wiki/Earl_of_Galloway" title="Earl of Galloway">Galloway</a>, as well as several <a href="/wiki/List_of_Lordships_of_Parliament" class="mw-redirect" title="List of Lordships of Parliament">Lordships of Parliament</a>. Several families of Stewarts became Highland clans in their own right, including the <a href="/wiki/Stewarts_of_Appin" class="mw-redirect" title="Stewarts of Appin">Stewarts of Appin</a>, the <a href="/w/index.php?title=Stewarts_of_Ardvorlich&amp;action=edit&amp;redlink=1" class="new" title="Stewarts of Ardvorlich (page does not exist)">Stewarts of Ardvorlich</a> the <a href="/w/index.php?title=Stewarts_of_Atholl&amp;action=edit&amp;redlink=1" class="new" title="Stewarts of Atholl (page does not exist)">Stewarts of Atholl</a>, the <a href="/w/index.php?title=Stewarts_of_Garth&amp;action=edit&amp;redlink=1" class="new" title="Stewarts of Garth (page does not exist)">Stewarts of Garth</a>.
+</p>
+<h2><span class="mw-headline" id="Diaspora">Diaspora</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stewart_(name)&amp;action=edit&amp;section=3" title="Edit section: Diaspora">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many Stewart emigrants from the lowlands of Scotland settled in the Irish Province of Ulster in the seventeenth century.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2011)">citation needed</span></a></i>&#93;</sup>  Stewarts also emigrated from other parts of Scotland and settled throughout the rest of Ireland, all the way over to the west coast of Ireland in cities as far-west as Galway.  The Stewarts left lasting families in Ireland, some modern-day Irish still claiming Stewart lineage.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2011)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="People_named_Stewart">People named Stewart</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stewart_(name)&amp;action=edit&amp;section=4" title="Edit section: People named Stewart">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Surname">Surname</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stewart_(name)&amp;action=edit&amp;section=5" title="Edit section: Surname">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Al_Stewart" title="Al Stewart">Al Stewart</a> (born 1945), singer-songwriter</li>
+<li><a href="/wiki/Alana_Stewart" title="Alana Stewart">Alana Stewart</a> (born 1945), former model, now an actress, former wife of Rod Stewart</li>
+<li><a href="/wiki/Alastair_Stewart" title="Alastair Stewart">Alastair Stewart</a> (born 1952), broadcaster</li>
+<li><a href="/wiki/Alec_Stewart" title="Alec Stewart">Alec Stewart</a> (born 1963), former England wicket-keeper</li>
+<li><a href="/wiki/Alexander_P._Stewart" title="Alexander P. Stewart">Alexander P. Stewart</a> (1821–1908), American general and professor</li>
+<li><a href="/wiki/Alexis_Stewart" title="Alexis Stewart">Alexis Stewart</a> (born 1965), daughter of Martha Stewart</li>
+<li><a href="/wiki/Alice_Stewart" title="Alice Stewart">Alice Stewart</a> (1906–2002), physician and epidemiologist</li>
+<li><a href="/wiki/Alison_Stewart" title="Alison Stewart">Alison Stewart</a> (born 1966), reporter</li>
+<li>Several people named <a href="/wiki/Andy_Stewart_(disambiguation)" class="mw-redirect mw-disambig" title="Andy Stewart (disambiguation)">Andy Stewart</a></li>
+<li><a href="/wiki/ArDarius_Stewart" title="ArDarius Stewart">ArDarius Stewart</a> (born 1993), American football player</li>
+<li><a href="/wiki/Belle_Stewart" title="Belle Stewart">Belle Stewart</a> (1906–1997), singer</li>
+<li>Several people named <a href="/wiki/William_Stewart_(disambiguation)" class="mw-redirect mw-disambig" title="William Stewart (disambiguation)">Bill Stewart</a></li>
+<li>Several people named <a href="/wiki/Bob_Stewart_(disambiguation)" class="mw-redirect mw-disambig" title="Bob Stewart (disambiguation)">Bob Stewart</a></li>
+<li><a href="/wiki/Booboo_Stewart" title="Booboo Stewart">Booboo Stewart</a> (born 1994), singer of T-Squad and actor</li>
+<li><a href="/wiki/Breanna_Stewart" title="Breanna Stewart">Breanna Stewart</a> (born 1994), American basketball player</li>
+<li><a href="/wiki/Brent_Stewart" title="Brent Stewart">Brent Stewart</a>, Manitoba judge</li>
+<li>Several people named <a href="/wiki/Brett_Stewart_(disambiguation)" class="mw-redirect mw-disambig" title="Brett Stewart (disambiguation)">Brett Stewart</a></li>
+<li><a href="/wiki/Bryanne_Stewart" title="Bryanne Stewart">Bryanne Stewart</a> (born 1979), Australian tennis player</li>
+<li><a href="/wiki/Calum_Stewart" title="Calum Stewart">Calum Stewart</a> (born 1982), Scottish musician</li>
+<li><a href="/wiki/Catherine_Mary_Stewart" title="Catherine Mary Stewart">Catherine Mary Stewart</a>, Canadian actress</li>
+<li>Several people named <a href="/wiki/Charles_Stewart_(disambiguation)" class="mw-redirect mw-disambig" title="Charles Stewart (disambiguation)">Charles Stewart</a></li>
+<li><a href="/wiki/Corbet_Page_Stewart" title="Corbet Page Stewart">Corbet Page Stewart</a> <a href="/wiki/FRSE" class="mw-redirect" title="FRSE">FRSE</a> Scottish biochemist</li>
+<li>Several people named <a href="/wiki/Corey_Stewart_(disambiguation)" class="mw-disambig" title="Corey Stewart (disambiguation)">Corey Stewart</a></li>
+<li><a href="/wiki/Crystle_Stewart" title="Crystle Stewart">Crystle Stewart</a>, Miss USA 2008</li>
+<li>Several people named <a href="/wiki/Daniel_Stewart_(disambiguation)" class="mw-redirect mw-disambig" title="Daniel Stewart (disambiguation)">Daniel Stewart</a></li>
+<li>Several people named <a href="/wiki/David_Stewart_(disambiguation)" class="mw-redirect mw-disambig" title="David Stewart (disambiguation)">David Stewart</a></li>
+<li>Several people named <a href="/wiki/Dennis_Stewart_(disambiguation)" class="mw-redirect mw-disambig" title="Dennis Stewart (disambiguation)">Dennis Stewart</a></li>
+<li><a href="/wiki/Derek_Stewart_(footballer)" title="Derek Stewart (footballer)">Derek Stewart (footballer)</a> (born 1948), Scottish footballer</li>
+<li>Several people named <a href="/wiki/Donald_Stewart_(disambiguation)" class="mw-redirect mw-disambig" title="Donald Stewart (disambiguation)">Donald Stewart</a></li>
+<li><a href="/wiki/Dugald_Stewart" title="Dugald Stewart">Dugald Stewart</a> (1753–1828), philosopher</li>
+<li>Several people named <a href="/wiki/Duncan_Stewart_(disambiguation)" class="mw-redirect mw-disambig" title="Duncan Stewart (disambiguation)">Duncan Stewart</a></li>
+<li><a href="/wiki/Earnie_Stewart" title="Earnie Stewart">Earnie Stewart</a> (born 1969), Dutch-born American soccer player</li>
+<li><a href="/wiki/Ed_Stewart" title="Ed Stewart">Ed Stewart</a> (1941–2016), British broadcaster</li>
+<li><a href="/wiki/Ed_Stewart_(American_football)" title="Ed Stewart (American football)">Ed Stewart (American football)</a> (born 1972), American football player</li>
+<li><a href="/wiki/Edwin_C._Stewart" title="Edwin C. Stewart">Edwin C. Stewart</a> (1864–1921), New York politician</li>
+<li><a href="/wiki/E._J._Stewart" title="E. J. Stewart">E. J. Stewart</a> (1877–1929), American college sports coach</li>
+<li><a href="/wiki/E._L._Stewart" title="E. L. Stewart">E. L. Stewart</a> (1872–1956), American lawyer and state legislator</li>
+<li><a href="/wiki/Elinore_Pruitt_Stewart" title="Elinore Pruitt Stewart">Elinore Pruitt Stewart</a> (1876–1933), American homesteader in Wyoming and memoirist</li>
+<li><a href="/wiki/Evan_Stewart" title="Evan Stewart">Evan Stewart</a> (born 1975), Zimbabwean diver</li>
+<li><a href="/wiki/G._Fowler_Stewart" title="G. Fowler Stewart">G. Fowler Stewart</a> (1861–1917), businessman in South Australia.</li>
+<li>Several people named <a href="/wiki/Frederick_Stewart_(disambiguation)" class="mw-redirect mw-disambig" title="Frederick Stewart (disambiguation)">Frederick Stewart</a></li>
+<li>Several people named <a href="/wiki/George_Stewart_(disambiguation)" class="mw-redirect mw-disambig" title="George Stewart (disambiguation)">George Stewart</a></li>
+<li><a href="/wiki/Gershom_Stewart" title="Gershom Stewart">Gershom Stewart</a> (1857–1929), British businessman in China, Conservative Member of Parliament (MP) 1910–1923</li>
+<li><a href="/wiki/Glenn_Stewart" title="Glenn Stewart">Glenn Stewart</a> (born 1984), Australian Rugby League player</li>
+<li><a href="/wiki/Grover_Stewart" title="Grover Stewart">Grover Stewart</a> (born 1993), American football player</li>
+<li><a href="/wiki/Haldane_Stewart" title="Haldane Stewart">Haldane Stewart</a> (1868–1942), English musician and cricketer</li>
+<li><a href="/wiki/Harry_Stewart" title="Harry Stewart">Harry Stewart</a> (1908–1956), American comedian</li>
+<li>Several people named <a href="/wiki/Helen_Stewart_(disambiguation)" class="mw-redirect mw-disambig" title="Helen Stewart (disambiguation)">Helen Stewart</a></li>
+<li>Several people named <a href="/wiki/Henry_Stewart_(disambiguation)" class="mw-redirect mw-disambig" title="Henry Stewart (disambiguation)">Henry Stewart</a></li>
+<li>Several people named <a href="/wiki/Iain_Stewart_(disambiguation)" class="mw-redirect mw-disambig" title="Iain Stewart (disambiguation)">Iain Stewart</a></li>
+<li>Several people named <a href="/wiki/Ian_Stewart_(disambiguation)" class="mw-redirect mw-disambig" title="Ian Stewart (disambiguation)">Ian Stewart</a></li>
+<li><a href="/wiki/Ivan_Stewart" title="Ivan Stewart">Ivan Stewart</a>, US offroad racing legend</li>
+<li><a href="/wiki/Jackie_Stewart" title="Jackie Stewart">Jackie Stewart</a> (born 1939), former Scottish Formula One driver and triple World Champion</li>
+<li>Several people named <a href="/wiki/James_Stewart_(disambiguation)" class="mw-disambig" title="James Stewart (disambiguation)">James Stewart</a></li>
+<li><a href="/wiki/Jean_Stewart_(disambiguation)" class="mw-redirect mw-disambig" title="Jean Stewart (disambiguation)">Jean Stewart (disambiguation)</a>, various people</li>
+<li><a href="/wiki/J._I._M._Stewart" title="J. I. M. Stewart">J. I. M. Stewart</a>, (1906–1994)</li>
+<li><a href="/wiki/Joffre_Stewart" title="Joffre Stewart">Joffre Stewart</a> (born 1925), American poet, anarchist and pacifist</li>
+<li>Several people named <a href="/wiki/John_Stewart_(disambiguation)" class="mw-redirect mw-disambig" title="John Stewart (disambiguation)">John Stewart</a></li>
+<li><a href="/wiki/Jon_Stewart" title="Jon Stewart">Jon Stewart</a> (born 1962), American political satirist, writer, television host, actor, media critic and stand-up comedian</li>
+<li>Several people named <a href="/wiki/Josh_Stewart_(disambiguation)" class="mw-disambig" title="Josh Stewart (disambiguation)">Josh Stewart</a></li>
+<li><a href="/wiki/Julius_LeBlanc_Stewart" title="Julius LeBlanc Stewart">Julius LeBlanc Stewart</a>, (1855–1919), American artist</li>
+<li><a href="/wiki/Karen_Weldin_Stewart" title="Karen Weldin Stewart">Karen Weldin Stewart</a>, Insurance Commissioner of Delaware as of 2009</li>
+<li><a href="/wiki/Kevin_Stewart_(footballer)" title="Kevin Stewart (footballer)">Kevin Stewart</a> (born 1993), English football player</li>
+<li><a href="/wiki/Kordell_Stewart" title="Kordell Stewart">Kordell Stewart</a> (born 1972), American football player</li>
+<li><a href="/wiki/Kristen_Stewart" title="Kristen Stewart">Kristen Stewart</a> (born 1990), American actress</li>
+<li><a href="/wiki/Lizbeth_Stewart" title="Lizbeth Stewart">Lizbeth Stewart</a> (1948–2013), American ceramist</li>
+<li><a href="/wiki/Lynne_Stewart" title="Lynne Stewart">Lynne Stewart</a> (1939–2017), American lawyer and criminal</li>
+<li><a href="/wiki/M._J._Stewart" title="M. J. Stewart">M. J. Stewart</a> (born 1995), American football player</li>
+<li>Several people named <a href="/wiki/Malcolm_Stewart_(disambiguation)" class="mw-redirect mw-disambig" title="Malcolm Stewart (disambiguation)">Malcolm Stewart</a></li>
+<li><a href="/wiki/Martha_Stewart" title="Martha Stewart">Martha Stewart</a> (born 1941), home economist</li>
+<li>Several people named <a href="/wiki/Mary_Stuart_(disambiguation)" class="mw-redirect mw-disambig" title="Mary Stuart (disambiguation)">Mary Stewart</a></li>
+<li>Several people named <a href="/wiki/Matthew_Stewart_(disambiguation)" class="mw-redirect mw-disambig" title="Matthew Stewart (disambiguation)">Matthew Stewart</a></li>
+<li>Several people named <a href="/wiki/Michael_Stewart_(disambiguation)" class="mw-redirect mw-disambig" title="Michael Stewart (disambiguation)">Michael Stewart</a></li>
+<li>Several people named <a href="/wiki/Patrick_Stewart_(disambiguation)" class="mw-disambig" title="Patrick Stewart (disambiguation)">Patrick Stewart</a></li>
+<li>Several people named <a href="/wiki/Paul_Stewart_(disambiguation)" class="mw-redirect mw-disambig" title="Paul Stewart (disambiguation)">Paul Stewart</a></li>
+<li><a href="/wiki/Payne_Stewart" title="Payne Stewart">Payne Stewart</a> (1957–1999), golfer</li>
+<li><a href="/wiki/Perez_M._Stewart" title="Perez M. Stewart">Perez M. Stewart</a> (1858–1924), New York politician</li>
+<li><a href="/wiki/Potter_Stewart" title="Potter Stewart">Potter Stewart</a> (1915–1985), US Supreme Court justice</li>
+<li>Several people named <a href="/wiki/Robert_Stewart_(disambiguation)" class="mw-redirect mw-disambig" title="Robert Stewart (disambiguation)">Robert Stewart</a></li>
+<li><a href="/wiki/Rod_Stewart" title="Rod Stewart">Rod Stewart</a> (born 1945), British singer</li>
+<li><a href="/wiki/Rosemary_Stewart_(business_theorist)" title="Rosemary Stewart (business theorist)">Rosemary Stewart (business theorist)</a></li>
+<li><a href="/wiki/Roy_Mackenzie_Stewart" title="Roy Mackenzie Stewart">Roy Mackenzie Stewart</a> (1889–1964), British neurologist</li>
+<li>Several people named <a href="/wiki/Scott_Stewart_(disambiguation)" class="mw-redirect mw-disambig" title="Scott Stewart (disambiguation)">Scott Stewart</a></li>
+<li>Several people named <a href="/wiki/Thomas_Stewart_(disambiguation)" class="mw-redirect mw-disambig" title="Thomas Stewart (disambiguation)">Thomas Stewart</a></li>
+<li>Several people named <a href="/wiki/Tony_Stewart_(disambiguation)" class="mw-disambig" title="Tony Stewart (disambiguation)">Tony Stewart</a></li>
+<li><a href="/wiki/Trenton_Lee_Stewart" title="Trenton Lee Stewart">Trenton Lee Stewart</a>, American writer</li>
+<li>Several people named <a href="/wiki/Walter_Stewart_(disambiguation)" class="mw-redirect mw-disambig" title="Walter Stewart (disambiguation)">Walter Stewart</a></li>
+<li>Several people named <a href="/wiki/William_Stewart_(disambiguation)" class="mw-redirect mw-disambig" title="William Stewart (disambiguation)">William Stewart</a></li>
+<li><a href="/wiki/Wyatt_A._Stewart" title="Wyatt A. Stewart">Wyatt A. Stewart</a>, career political fundraiser and American businessman</li>
+<li><a href="/wiki/Wynn_Stewart" title="Wynn Stewart">Wynn Stewart</a>, singer-songwriter, musician</li>
+<li>The members of the Stewart family who performed as part of <a href="/wiki/Sly_and_the_Family_Stone" title="Sly and the Family Stone">Sly and the Family Stone</a>:
+<ul><li>Sylvester Stewart (<a href="/wiki/Sly_Stone" title="Sly Stone">Sly Stone</a>) (born 1944), singer-songwriter, frontman</li>
+<li>Rose Stewart (<a href="/wiki/Rose_Stone" title="Rose Stone">Rose Stone</a>) (born 1945), singer/keyboardist</li>
+<li>Fred Stewart (<a href="/wiki/Freddie_Stone" title="Freddie Stone">Freddie Stone</a>) (born 1946), singer/guitarist</li>
+<li>Vaetta Stewart (<a href="/wiki/Vet_Stone" title="Vet Stone">Vet Stone</a>) (born 1949), singer</li></ul></li></ul>
+<h3><span class="mw-headline" id="Given_name">Given name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stewart_(name)&amp;action=edit&amp;section=6" title="Edit section: Given name">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Stewart_Copeland" title="Stewart Copeland">Stewart Copeland</a>, American drummer, best known as the drummer in The Police</li>
+<li><a href="/wiki/Stewart_Granger" title="Stewart Granger">Stewart Granger</a>, English-American actor, born James Stewart</li>
+<li><a href="/wiki/Stewart_Lee" title="Stewart Lee">Stewart Lee</a>, English stand-up comedian, writer, director and musician</li>
+<li><a href="/wiki/Stewart_Mills" title="Stewart Mills">Stewart Mills</a>, Australian Rugby League player</li>
+<li><a href="/wiki/Stewart_Stevenson" title="Stewart Stevenson">Stewart Stevenson</a>, SNP Member of the Scottish Parliament for Banffshire &amp; Buchan Coast, and Minister for Transport, Infrastructure and Climate Change</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stewart_(name)&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Stuart_(name)" title="Stuart (name)">Stuart (name)</a></li>
+<li><a href="/wiki/Steward_(surname)" title="Steward (surname)">Steward (surname)</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stewart_(name)&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <div class="reflist" style="list-style-type: decimal;">
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-AFG-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-AFG_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AFG_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://forebears.co.uk/surnames/robinson">Robinson Surname at Forebears</a></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite id="CITEREFBarrow" class="citation encyclopaedia">Barrow, G. W. S. "Stewart family". <i><a href="/wiki/Dictionary_of_National_Biography#Oxford_Dictionary_of_National_Biography" title="Dictionary of National Biography">Oxford Dictionary of National Biography</a></i> (online ed.). Oxford University Press. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1093%2Fref%3Aodnb%2F49411">10.1093/ref:odnb/49411</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Stewart+family&amp;rft.btitle=Oxford+Dictionary+of+National+Biography&amp;rft.edition=online&amp;rft.pub=Oxford+University+Press&amp;rft_id=info%3Adoi%2F10.1093%2Fref%3Aodnb%2F49411&amp;rft.aulast=Barrow&amp;rft.aufirst=G.+W.+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStewart+%28name%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><span style="font-size:0.95em; font-size:90%; color:#555">(Subscription or <a rel="nofollow" class="external text" href="http://www.oxforddnb.com/help/subscribe#public">UK public library membership</a> required.)</span></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a href="https://en.wikisource.org/wiki/1990_Census_Name_Files_dist.all.last_(1-100)" class="extiw" title="s:1990 Census Name Files dist.all.last (1-100)">1990 Census Name Files dist.all.last (1–100)</a>. <a href="/wiki/United_States_Census_Bureau" title="United States Census Bureau">United States Census Bureau</a> (9 May 1995).</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.surnamedb.com/surname.aspx?name=Stewart">"Stewart"</a>. Internet Surname Database.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Stewart&amp;rft.pub=Internet+Surname+Database&amp;rft_id=http%3A%2F%2Fwww.surnamedb.com%2Fsurname.aspx%3Fname%3DStewart&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStewart+%28name%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/> Retrieved 15 October 2014</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://forebears.co.uk/surnames/stewart">"Stewart Surname Meaning and Geographic Distribution"</a>. forebears.co.uk.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Stewart+Surname+Meaning+and+Geographic+Distribution&amp;rft.pub=forebears.co.uk&amp;rft_id=http%3A%2F%2Fforebears.co.uk%2Fsurnames%2Fstewart&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStewart+%28name%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/> Retrieved 19 January 2014</span>
 </li>
 </ol></div></div>
 <style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
 <table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
 <tbody><tr>
 <td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
-<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Robinson</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Robinson_(name)&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Name list</div>This page or section lists people that share the same <a href="/wiki/Given_name" title="Given name">given name</a> or the same <a href="/wiki/Family_name" class="mw-redirect" title="Family name">family name</a>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Stewart_(name)&amp;namespace=0">internal link</a> led you here, you may wish to change that link to point directly to the intended article. </td>
 </tr>
 </tbody></table>
 <!-- 
 NewPP limit report
-Parsed by mw1261
-Cached time: 20191010192801
+Parsed by mw1307
+Cached time: 20191027175626
 Cache expiry: 2592000
 Dynamic content: false
-Complications: []
-CPU time usage: 0.192 seconds
-Real time usage: 0.266 seconds
-Preprocessor visited node count: 814/1000000
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.320 seconds
+Real time usage: 0.458 seconds
+Preprocessor visited node count: 1518/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 6500/2097152 bytes
-Template argument size: 1490/2097152 bytes
-Highest expansion depth: 9/40
-Expensive parser function count: 2/500
-Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 1501/5000000 bytes
-Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.044/10.000 seconds
-Lua memory usage: 1.45 MB/50 MB
+Post‐expand include size: 22962/2097152 bytes
+Template argument size: 2208/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 8758/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.153/10.000 seconds
+Lua memory usage: 4.24 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  198.962      1 -total
- 33.85%   67.357      1 Template:Surname
- 29.64%   58.981      1 Template:Dmbox
- 27.11%   53.935      1 Template:Infobox_surname
- 20.53%   40.855      1 Template:Infobox
- 15.40%   30.639      1 Template:Other_uses
- 14.16%   28.173      1 Template:Short_description
- 11.98%   23.845      1 Template:Pagetype
- 11.54%   22.953      1 Template:TOC_right
- 10.09%   20.080      1 Template:Category_handler
+100.00%  388.437      1 -total
+ 30.92%  120.104      1 Template:Reflist
+ 26.84%  104.247      1 Template:Cite_ODNB
+ 17.22%   66.873      1 Template:More_citations_needed
+ 15.57%   60.469      1 Template:Ambox
+ 13.97%   54.270      1 Template:Infobox_surname
+ 13.49%   52.414      1 Template:About
+ 13.25%   51.458      2 Template:Infobox
+  8.52%   33.095      2 Template:Citation_needed
+  8.38%   32.537      1 Template:Find_sources_mainspace
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:14638144-0!canonical and timestamp 20191010192801 and revision id 915010748
+<!-- Saved in parser cache with key enwiki:pcache:idhash:16443853-0!canonical and timestamp 20191027175626 and revision id 923302050
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Robinson_(name)&amp;oldid=915010748">https://en.wikipedia.org/w/index.php?title=Robinson_(name)&amp;oldid=915010748</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Stewart_(name)&amp;oldid=923302050">https://en.wikipedia.org/w/index.php?title=Stewart_(name)&amp;oldid=923302050</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:English-language_surnames" title="Category:English-language surnames">English-language surnames</a></li><li><a href="/wiki/Category:Scottish-language_surnames" title="Category:Scottish-language surnames">Scottish-language surnames</a></li><li><a href="/wiki/Category:Masculine_given_names" title="Category:Masculine given names">Masculine given names</a></li><li><a href="/wiki/Category:Surnames_of_English_origin" title="Category:Surnames of English origin">Surnames of English origin</a></li><li><a href="/wiki/Category:Patronymic_surnames" title="Category:Patronymic surnames">Patronymic surnames</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Given_names" title="Category:Given names">Given names</a></li><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:Occupational_surnames" title="Category:Occupational surnames">Occupational surnames</a></li><li><a href="/wiki/Category:Scottish_surnames" title="Category:Scottish surnames">Scottish surnames</a></li><li><a href="/wiki/Category:Scottish_given_names" title="Category:Scottish given names">Scottish given names</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_ODNB" title="Category:Wikipedia articles incorporating a citation from the ODNB">Wikipedia articles incorporating a citation from the ODNB</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_January_2019" title="Category:Articles needing additional references from January 2019">Articles needing additional references from January 2019</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2011" title="Category:Articles with unsourced statements from October 2011">Articles with unsourced statements from October 2011</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -349,13 +264,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Robinson+%28name%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Robinson+%28name%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Stewart+%28name%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Stewart+%28name%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Robinson_(name)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Robinson_(name)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Stewart_(name)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Stewart_(name)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -370,7 +285,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Robinson_(name)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Robinson_(name)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Robinson_(name)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Stewart_(name)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Stewart_(name)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Stewart_(name)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -409,35 +324,35 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Robinson_(name)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Robinson_(name)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Robinson_(name)&amp;oldid=915010748" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Robinson_(name)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2798428" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Robinson_%28name%29&amp;id=915010748" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Stewart_(name)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Stewart_(name)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Stewart_(name)&amp;oldid=923302050" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Stewart_(name)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2801971" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Stewart_%28name%29&amp;id=923302050" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
 			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
 			<div class="body">
 								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Robinson_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Stewart_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Robinson+%28name%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Robinson+%28name%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Robinson_(name)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Stewart+%28name%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Stewart+%28name%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Stewart_(name)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Robinson_(mi%C3%A2)" title="Robinson (miâ) – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Robinson" title="Robinson – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Robinson_(Name)" title="Robinson (Name) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Robinson" title="Robinson – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Robinson" title="Robinson – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2798428#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Stewart_(p%C5%99%C3%ADjmen%C3%AD)" title="Stewart (příjmení) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Stewart_(Familienname)" title="Stewart (Familienname) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Stewart_(familia_nomo)" title="Stewart (familia nomo) – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Stewart_(priimek)" title="Stewart (priimek) – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2801971#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 10 September 2019, at 17:57<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 27 October 2019, at 17:56<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -448,7 +363,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Robinson_(name)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Stewart_(name)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -460,8 +375,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.192","walltime":"0.266","ppvisitednodes":{"value":814,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":6500,"limit":2097152},"templateargumentsize":{"value":1490,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1501,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  198.962      1 -total"," 33.85%   67.357      1 Template:Surname"," 29.64%   58.981      1 Template:Dmbox"," 27.11%   53.935      1 Template:Infobox_surname"," 20.53%   40.855      1 Template:Infobox"," 15.40%   30.639      1 Template:Other_uses"," 14.16%   28.173      1 Template:Short_description"," 11.98%   23.845      1 Template:Pagetype"," 11.54%   22.953      1 Template:TOC_right"," 10.09%   20.080      1 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.044","limit":"10.000"},"limitreport-memusage":{"value":1518328,"limit":52428800}},"cachereport":{"origin":"mw1261","timestamp":"20191010192801","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Robinson (name)","url":"https:\/\/en.wikipedia.org\/wiki\/Robinson_(name)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2798428","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2798428","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-12-10T02:55:14Z","dateModified":"2019-09-10T17:57:12Z","headline":"family name"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":109,"wgHostname":"mw1267"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.320","walltime":"0.458","ppvisitednodes":{"value":1518,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":22962,"limit":2097152},"templateargumentsize":{"value":2208,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":8758,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  388.437      1 -total"," 30.92%  120.104      1 Template:Reflist"," 26.84%  104.247      1 Template:Cite_ODNB"," 17.22%   66.873      1 Template:More_citations_needed"," 15.57%   60.469      1 Template:Ambox"," 13.97%   54.270      1 Template:Infobox_surname"," 13.49%   52.414      1 Template:About"," 13.25%   51.458      2 Template:Infobox","  8.52%   33.095      2 Template:Citation_needed","  8.38%   32.537      1 Template:Find_sources_mainspace"]},"scribunto":{"limitreport-timeusage":{"value":"0.153","limit":"10.000"},"limitreport-memusage":{"value":4449996,"limit":52428800}},"cachereport":{"origin":"mw1307","timestamp":"20191027175626","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Stewart (name)","url":"https:\/\/en.wikipedia.org\/wiki\/Stewart_(name)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2801971","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2801971","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-03-21T00:12:31Z","dateModified":"2019-10-27T17:56:24Z","headline":"family name"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":107,"wgHostname":"mw1264"});});</script>
 </body>
 </html>

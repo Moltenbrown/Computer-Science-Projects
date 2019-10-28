@@ -4,16 +4,16 @@
 <meta charset="UTF-8"/>
 <title>Hispanophone - Wikipedia</title>
 <script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Hispanophone","wgTitle":"Hispanophone","wgCurRevisionId":916708748,"wgRevisionId":916708748,"wgArticleId":940236,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Spanish-language text","Webarchive template wayback links","Articles with Spanish-language external links","Articles with short description","Wikipedia articles needing clarification from February 2019","Articles containing potentially dated statements from 2013","All articles containing potentially dated statements","All articles with unsourced statements","Articles with unsourced statements from June 2015","Articles with unsourced statements from February 2007","Articles with unsourced statements from July 2007","Articles with unsourced statements from July 2008",
-"Articles with unsourced statements from August 2016","Articles containing Tagalog-language text","Spanish-speaking countries and territories","Country classifications","Cultural regions","Spanish diaspora","Spanish language","Hispanidad"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hispanophone","wgRelevantArticleId":940236,"wgRequestId":"Xa@QYApAME8AADXz7vIAAADS","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,
+"Articles with unsourced statements from August 2016","Articles containing Tagalog-language text","Spanish-speaking countries and territories","Country classifications","Cultural regions","Spanish diaspora","Spanish language","Hispanidad"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hispanophone","wgRelevantArticleId":940236,"wgRequestId":"XbVx9QpAICMAAI6dVTIAAABV","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,
 "wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q514022","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":
-"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.cite.tracking","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.2"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
@@ -732,14 +732,14 @@ and integrated within the society they had settled, creating a large empire that
 </div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1244
-Cached time: 20191022232729
+Parsed by mw1249
+Cached time: 20191027082015
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.824 seconds
+CPU time usage: 0.820 seconds
 Real time usage: 1.073 seconds
-Preprocessor visited node count: 5188/1000000
+Preprocessor visited node count: 5194/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 136833/2097152 bytes
 Template argument size: 14908/2097152 bytes
@@ -748,24 +748,24 @@ Expensive parser function count: 9/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 51361/5000000 bytes
 Number of Wikibase entities loaded: 2/400
-Lua time usage: 0.371/10.000 seconds
+Lua time usage: 0.365/10.000 seconds
 Lua memory usage: 15.61 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  828.654      1 -total
- 30.90%  256.050      2 Template:Reflist
- 19.24%  159.465      2 Template:Efn-lr
- 18.95%  157.026      2 Template:Efn
- 17.67%  146.406      3 Template:Lang-es
- 16.40%  135.870     12 Template:Cite_web
- 10.79%   89.425     26 Template:Flag
- 10.09%   83.651      7 Template:Citation_needed
-  8.84%   73.292      7 Template:Fix
-  6.37%   52.750      8 Template:Delink
+100.00%  828.595      1 -total
+ 31.35%  259.756      2 Template:Reflist
+ 18.33%  151.849      2 Template:Efn-lr
+ 18.06%  149.667      2 Template:Efn
+ 16.89%  139.944     12 Template:Cite_web
+ 16.40%  135.898      3 Template:Lang-es
+ 11.58%   95.966     26 Template:Flag
+  9.21%   76.353      7 Template:Citation_needed
+  8.06%   66.811      7 Template:Fix
+  6.25%   51.766      1 Template:Clarify
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:940236-0!canonical and timestamp 20191022232728 and revision id 916708748
+<!-- Saved in parser cache with key enwiki:pcache:idhash:940236-0!canonical and timestamp 20191027082014 and revision id 916708748
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
@@ -891,8 +891,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.824","walltime":"1.073","ppvisitednodes":{"value":5188,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":136833,"limit":2097152},"templateargumentsize":{"value":14908,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":51361,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  828.654      1 -total"," 30.90%  256.050      2 Template:Reflist"," 19.24%  159.465      2 Template:Efn-lr"," 18.95%  157.026      2 Template:Efn"," 17.67%  146.406      3 Template:Lang-es"," 16.40%  135.870     12 Template:Cite_web"," 10.79%   89.425     26 Template:Flag"," 10.09%   83.651      7 Template:Citation_needed","  8.84%   73.292      7 Template:Fix","  6.37%   52.750      8 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.371","limit":"10.000"},"limitreport-memusage":{"value":16364531,"limit":52428800}},"cachereport":{"origin":"mw1244","timestamp":"20191022232729","ttl":2592000,"transientcontent":false}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.820","walltime":"1.073","ppvisitednodes":{"value":5194,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":136833,"limit":2097152},"templateargumentsize":{"value":14908,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":51361,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  828.595      1 -total"," 31.35%  259.756      2 Template:Reflist"," 18.33%  151.849      2 Template:Efn-lr"," 18.06%  149.667      2 Template:Efn"," 16.89%  139.944     12 Template:Cite_web"," 16.40%  135.898      3 Template:Lang-es"," 11.58%   95.966     26 Template:Flag","  9.21%   76.353      7 Template:Citation_needed","  8.06%   66.811      7 Template:Fix","  6.25%   51.766      1 Template:Clarify"]},"scribunto":{"limitreport-timeusage":{"value":"0.365","limit":"10.000"},"limitreport-memusage":{"value":16364513,"limit":52428800}},"cachereport":{"origin":"mw1249","timestamp":"20191027082015","ttl":2592000,"transientcontent":false}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Hispanophone","url":"https:\/\/en.wikipedia.org\/wiki\/Hispanophone","sameAs":"http:\/\/www.wikidata.org\/entity\/Q514022","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q514022","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-08-29T18:06:58Z","dateModified":"2019-09-20T06:27:58Z","headline":"term used to refer to Spanish-language speakers"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1238,"wgHostname":"mw1244"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":123,"wgHostname":"mw1333"});});</script>
 </body>
 </html>

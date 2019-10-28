@@ -2,35 +2,35 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Davies - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Davies","wgTitle":"Davies","wgCurRevisionId":920611860,"wgRevisionId":920611860,"wgArticleId":1002423,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","All set index articles","Surnames","Surnames of Welsh origin","Anglicised Welsh-language surnames","Anglo-Cornish surnames","Patronymic surnames"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Davies",
-"wgRelevantArticleId":1002423,"wgRequestId":"Xa7Y3QpAAD8AAHKu8@8AAABE","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1177810","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready",
-"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.cite.tracking","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init",
-"ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Nicholson (name) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Nicholson_(name)","wgTitle":"Nicholson (name)","wgCurRevisionId":920581441,"wgRevisionId":920581441,"wgArticleId":1311728,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","All set index articles","Surnames","German-language surnames","Patronymic surnames"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nicholson_(name)","wgRelevantArticleId":1311728,"wgRequestId":
+"XbYljgpAAEUAAHWKUrQAAADJ","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Nicholson_(surname)","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Nicholson_(name)","wgWikibaseItemId":"Q16878076","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":
+"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.2"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Davies"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Davies&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Davies&amp;action=edit"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Nicholson_(name)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Nicholson_(name)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Nicholson_(name)&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Davies"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Nicholson_(name)"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Davies rootpage-Davies skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Nicholson_name rootpage-Nicholson_name skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -39,357 +39,176 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Davies</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Nicholson (name)</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
-		<div id="contentSub"></div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Nicholson_(surname)&amp;redirect=no" class="mw-redirect" title="Nicholson (surname)">Nicholson (surname)</a>)</span></div>
 		
 		
 		
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For the crater, see <a href="/wiki/Davies_(crater)" title="Davies (crater)">Davies (crater)</a>.</div>
-<table class="infobox" style="width:22em"><caption>Davies</caption><tbody><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Origin</th></tr><tr><th scope="row">Region of origin</th><td><a href="/wiki/Wales" title="Wales">Wales</a></td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Other names</th></tr><tr><th scope="row">Variant form(s)</th><td><a href="/wiki/Davis_(surname)" title="Davis (surname)">Davis</a>, <a href="/wiki/Davey_(disambiguation)" class="mw-redirect mw-disambig" title="Davey (disambiguation)">Davey</a>, <a href="/w/index.php?title=Davieson&amp;action=edit&amp;redlink=1" class="new" title="Davieson (page does not exist)">Davieson</a>, <a href="/wiki/Day" title="Day">Day</a></td></tr><tr><td colspan="2" style="text-align:center;border-top: #a2a9b1 1px solid;">Frequency Comparison:<sup id="cite_ref-fb_1-0" class="reference"><a href="#cite_note-fb-1">&#91;1&#93;</a></sup></td></tr></tbody></table>
-<p><b>Davies</b> is a patronymic Welsh <a href="/wiki/Surname" title="Surname">surname</a>. It may be a corruption of Dyfed, itself a corruption of Dési, colonists from south-east Ireland who occupied the old tribal area of the <a href="/wiki/Demetae" title="Demetae">Demetae</a> in south-west Wales in the late third century AD, establishing a dynasty which lasted five centuries<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>.  Dyfed is recorded as a surname as late as the 12th century for e.g. Gwynfard Dyfed, born in 1175. 'Dafydd' appears as a given name in the 13th Century, e.g. Dafydd ap Gruffydd (1238–1283), Prince of Wales, and Dafydd ab Edmwnd (fl. c. 1450–97), Welsh poet. The given name 'Dafydd' is generally translated into English as 'David'. Alternatively it may derive from <i><a href="/wiki/David_(name)" title="David (name)">David</a></i> (a <a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a> name meaning "beloved"),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> the name of <a href="/wiki/Saint_David" title="Saint David">Wales's patron saint</a>. In Wales Davies is standardly pronounced <span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="&#39;d&#39; in &#39;dye&#39;">d</span><span title="/eɪ/: &#39;a&#39; in &#39;face&#39;">eɪ</span><span title="&#39;v&#39; in &#39;vie&#39;">v</span><span title="/ɪ/: &#39;i&#39; in &#39;kit&#39;">ɪ</span><span title="&#39;s&#39; in &#39;sigh&#39;">s</span></span>/</a></span></span> <a href="/wiki/Help:Pronunciation_respelling_key" title="Help:Pronunciation respelling key"><i title="English pronunciation respelling"><span style="font-size:90%">DAY</span>-vis</i></a>, that is, identically to <a href="/wiki/Davis_(surname)" title="Davis (surname)">Davis</a>. This pronunciation is also used by many outside the United Kingdom, where it competes with the <a href="/wiki/Spelling_pronunciation" title="Spelling pronunciation">spelling pronunciation</a> <span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="&#39;d&#39; in &#39;dye&#39;">d</span><span title="/eɪ/: &#39;a&#39; in &#39;face&#39;">eɪ</span><span title="&#39;v&#39; in &#39;vie&#39;">v</span><span title="/iː/: &#39;ee&#39; in &#39;fleece&#39;">iː</span><span title="&#39;z&#39; in &#39;zoom&#39;">z</span></span>/</a></span></span> <a href="/wiki/Help:Pronunciation_respelling_key" title="Help:Pronunciation respelling key"><i title="English pronunciation respelling"><span style="font-size:90%">DAY</span>-veez</i></a>, which is particularly common in the US.
-</p><p>Davies is the 2nd most common surname in Wales and 8th most common in England of Welsh descendants,<sup id="cite_ref-fb_1-1" class="reference"><a href="#cite_note-fb-1">&#91;1&#93;</a></sup> where it is particularly widespread in the southwest, especially <a href="/wiki/Cornwall" title="Cornwall">Cornwall</a>. It is not common in the United States where the spelling <i>Davis</i> is preferred.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
-</p><p>Notable people with the surname include:
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Nicolson" title="Nicolson">Nicolson</a></div>
+<table class="infobox" style="width:22em"><caption>Nicholson</caption><tbody><tr><th scope="row"><a href="/wiki/Language" title="Language">Language</a>(s)</th><td><a href="/wiki/English_language" title="English language">English</a></td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Origin</th></tr><tr><th scope="row">Meaning</th><td>derived from the Greek word “Nikolaos” meaning, “conqueror of people”.</td></tr><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Other names</th></tr><tr><th scope="row">Variant form(s)</th><td>DeNicola, DiNicola, <a href="/wiki/McNichol" title="McNichol">McNichol</a>, <a href="/wiki/McNicholl" title="McNicholl">McNicholl</a>, <a href="/wiki/McNicol" title="McNicol">McNicol</a>, Mikołajewicz, Mykolayenko, Mykolenko  Nicolăescu, <a href="/wiki/Nicolescu" title="Nicolescu">Nicolescu</a>, <a href="/wiki/Niculescu" title="Niculescu">Niculescu</a>, <a href="/wiki/Nielsen_(surname)" title="Nielsen (surname)">Nielsen</a>, Nigog(h)osian, Nigog(h)osyan, Nikog(h)osian, Nikog(h)osyan, <a href="/wiki/Nikoladze" title="Nikoladze">Nikoladze</a>, <a href="/wiki/Nikolajevi%C4%87" title="Nikolajević">Nikolajević</a>, Nikolaou, <a href="/wiki/Nikolayev_(surname)" title="Nikolayev (surname)">Nikolayev</a>, <a href="/wiki/Nikolayevsky_(disambiguation)" class="mw-redirect mw-disambig" title="Nikolayevsky (disambiguation)">Nikolayevsky</a>, Nikolaou, <a href="/wiki/Nikoli%C4%87" title="Nikolić">Nikolić</a>, <a href="/wiki/Nikolopoulos" title="Nikolopoulos">Nikolopoulos</a>, <a href="/wiki/Nikolov" title="Nikolov">Nikolov</a>, <a href="/wiki/Nikolovski" title="Nikolovski">Nikolovski</a>, <a href="/wiki/Nilsen" title="Nilsen">Nilsen</a>, <a href="/wiki/Nilsson" title="Nilsson">Nilsson</a>, <a href="/wiki/Papanikolaou" title="Papanikolaou">Papanikolaou</a></td></tr><tr><td colspan="2" style="text-align:center;border-top: #a2a9b1 1px solid;"><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr></tbody></table>
+<p><b>Nicholson</b> is a <a href="/wiki/Germanic_name" title="Germanic name">Germanic</a> surname. It is a <a href="/wiki/Patronymic" title="Patronymic">patronymic</a> form of the <a href="/wiki/Given_name" title="Given name">given name</a> <i><a href="/wiki/Nichol" title="Nichol">Nichol</a></i>, which was a common medieval form of <i><a href="/wiki/Nicholas" title="Nicholas">Nicholas</a></i>.<sup id="cite_ref-lastn_2-0" class="reference"><a href="#cite_note-lastn-2">&#91;2&#93;</a></sup>
 </p>
-<div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a> </li></ul>
-<p class="mw-empty-elt">       
-</p>
-</div></div>
-<h2><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Davies&amp;action=edit&amp;section=1" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Aaron_Michael_Davies" title="Aaron Michael Davies">Aaron Michael Davies</a> (born 1984), American actor</li>
-<li><a href="/wiki/Adam_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Adam Davies (disambiguation)">Adam Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/A._Donald_Davies" class="mw-redirect" title="A. Donald Davies">A. Donald Davies</a>, American Episcopal bishop</li>
-<li><a href="/wiki/Adrian_Davies_(barrister)" class="mw-redirect" title="Adrian Davies (barrister)">Adrian Davies (barrister)</a>, English barrister</li>
-<li><a href="/wiki/Adrian_Davies_(rugby_player)" class="mw-redirect" title="Adrian Davies (rugby player)">Adrian Davies (rugby player)</a>, Welsh rugby footballer</li>
-<li><a href="/wiki/Adrienne_Davies" title="Adrienne Davies">Adrienne Davies</a>, American musician</li>
-<li><a href="/wiki/Alan_Davies_(disambiguation)" class="mw-disambig" title="Alan Davies (disambiguation)">Alan Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Alec_Davies" title="Alec Davies">Alec Davies</a>, Scottish cricketer</li>
-<li><a href="/wiki/Alex_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Alex Davies (disambiguation)">Alex Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Alexandra_Davies" title="Alexandra Davies">Alexandra Davies</a> (born 1977), English-born Australian actress</li>
-<li><a href="/wiki/Alphonso_Davies" title="Alphonso Davies">Alphonso Davies</a> (born 2000), Ghanaian-born Canadian soccer player</li>
-<li><a href="/wiki/Alfred_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Alfred Davies (disambiguation)">Alfred Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Alun_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Alun Davies (disambiguation)">Alun Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Andrew_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Andrew Davies (disambiguation)">Andrew Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Anne_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Anne Davies (disambiguation)">Anne Davies (disambiguation)</a>, or Ann Davies, multiple people</li>
-<li><a href="/wiki/Anthony_Davies" title="Anthony Davies">Anthony Davies</a>, Welsh snooker player</li>
-<li><a href="/wiki/Antony_Davies" title="Antony Davies">Antony Davies</a>, American economist</li>
-<li><a href="/wiki/Arthur_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Arthur Davies (disambiguation)">Arthur Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Ashley_Slanina-Davies" title="Ashley Slanina-Davies">Ashley Slanina-Davies</a>, English actress</li></ul>
-<h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Davies&amp;action=edit&amp;section=2" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Barbara_Davies" title="Barbara Davies">Barbara Davies</a>, English teacher and activist</li>
-<li><a href="/wiki/Barry_Davies" title="Barry Davies">Barry Davies</a>, English sports commentator</li>
-<li><a href="/wiki/Benjamin_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Benjamin Davies (disambiguation)">Benjamin Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Bevan_Davies" title="Bevan Davies">Bevan Davies</a>, American drummer</li>
-<li><a href="/wiki/Billie_Davies" title="Billie Davies">Billie Davies</a>, American drummer</li>
-<li><a href="/wiki/Billy_Davies" title="Billy Davies">Billy Davies</a>, Scottish football manager</li>
-<li><a href="/wiki/Bob_Davies" title="Bob Davies">Bob Davies</a>, American basketball player</li>
-<li><a href="/wiki/Brandon_Davies" title="Brandon Davies">Brandon Davies</a>, American basketball player</li>
-<li><a href="/wiki/Brenda_Davies" title="Brenda Davies">Brenda Davies</a> (1917–2013), wife and literary executor of Robertson Davies</li>
-<li><a href="/wiki/Brian_Davies_(philosopher)" title="Brian Davies (philosopher)">Brian Davies</a>, philosopher</li>
-<li>Brian Davies, birth name of British illustrator and cartoonist <a href="/wiki/Michael_ffolkes" title="Michael ffolkes">Michael ffolkes</a></li>
-<li><a href="/wiki/Bryan_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Bryan Davies (disambiguation)">Bryan Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Bryn_Davies" title="Bryn Davies">Bryn Davies</a>, British trade unionist and politician</li></ul>
-<h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Davies&amp;action=edit&amp;section=3" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Caitlin_Davies" title="Caitlin Davies">Caitlin Davies</a>, English writer</li>
-<li><a href="/wiki/Carrie_Davies" class="mw-redirect" title="Carrie Davies">Carrie Davies</a>, British broadcaster</li>
-<li><a href="/wiki/Charles_Lynn_Davies" title="Charles Lynn Davies">Charles Lynn Davies</a>, Wales rugby player</li>
-<li><a href="/wiki/Charlie_Davies" title="Charlie Davies">Charlie Davies</a>, American footballer</li>
-<li><a href="/wiki/Chris_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Chris Davies (disambiguation)">Chris Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Christopher_Davies_(disambiguation)" class="mw-redirect" title="Christopher Davies (disambiguation)">Christopher Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Clara_Novello_Davies" title="Clara Novello Davies">Clara Novello Davies</a>, Welsh singer, mother of Ivor Novello</li>
-<li><a href="/wiki/Clement_Davies" title="Clement Davies">Clement Davies</a>, British politician</li>
-<li><a href="/wiki/Cliff_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Cliff Davies (disambiguation)">Cliff Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Cooke_Davies" class="mw-redirect" title="Cooke Davies">Cooke Davies</a>, Canadian politician</li>
-<li><a href="/wiki/Curtis_Davies" title="Curtis Davies">Curtis Davies</a>, English footballer</li>
-<li><a href="/wiki/Cyril_Davies" title="Cyril Davies">Cyril Davies</a>, English musician</li></ul>
-<h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Davies&amp;action=edit&amp;section=4" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Dai_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Dai Davies (disambiguation)">Dai Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Dangerous_Davies" title="Dangerous Davies">Dangerous Davies</a>, fictional character from <i>The Last Detective</i></li>
-<li><a href="/wiki/Dave_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Dave Davies (disambiguation)">Dave Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/David_Davies_(disambiguation)" class="mw-redirect" title="David Davies (disambiguation)">David Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Deddie_Davies" title="Deddie Davies">Deddie Davies</a> (1938–2016), Welsh character actress</li>
-<li><a href="/wiki/Denys_Johnson-Davies" title="Denys Johnson-Davies">Denys Johnson-Davies</a>, Canadian translator</li>
-<li><a href="/wiki/Denzil_Davies" title="Denzil Davies">Denzil Davies</a>, British politician</li>
-<li><a href="/wiki/Diana_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Diana Davies (disambiguation)">Diana Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Dick_Davies" title="Dick Davies">Dick Davies</a> (1936–2012), American Olympic basketball player</li>
-<li><a href="/wiki/Dickie_Davies" title="Dickie Davies">Dickie Davies</a>, English television presenter</li>
-<li><a href="/wiki/Domenick_Davies" title="Domenick Davies">Domenick Davies</a>, German rugby union international</li>
-<li><a href="/wiki/Donald_Davies_(disambiguation)" class="mw-disambig" title="Donald Davies (disambiguation)">Donald Davies (disambiguation)</a>, multiple people</li></ul>
-<h2><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Davies&amp;action=edit&amp;section=5" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Ednyfed_Hudson_Davies" title="Ednyfed Hudson Davies">Ednyfed Hudson Davies</a> (1929–2018), Welsh politician</li>
-<li><a href="/wiki/Edward_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Edward Davies (disambiguation)">Edward Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Edwin_Davies" title="Edwin Davies">Edwin Davies</a>, British businessman and philanthropist</li>
-<li><a href="/wiki/Emily_Davies" title="Emily Davies">Emily Davies</a>, English feminist</li>
-<li><a href="/wiki/Eric_Davies" title="Eric Davies">Eric Davies</a>, South African cricketer</li>
-<li><a href="/wiki/Eva_Davies" title="Eva Davies">Eva Davies</a> (1924–2013), British fencer</li></ul>
-<h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Davies&amp;action=edit&amp;section=6" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Frances_Davies" title="Frances Davies">Frances Davies</a> (born 1996), New Zealand field hockey player</li>
-<li><a href="/wiki/Freddie_Davies" title="Freddie Davies">Freddie Davies</a> (born 1937), English comedian</li></ul>
-<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Davies&amp;action=edit&amp;section=7" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Gareth_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Gareth Davies (disambiguation)">Gareth Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Garfield_Davies,_Baron_Davies_of_Coity" title="Garfield Davies, Baron Davies of Coity">Garfield Davies, Baron Davies of Coity</a> (1935–2019), British trade union leader</li>
-<li><a href="/wiki/Gary_Davies_(disambiguation)" class="mw-disambig" title="Gary Davies (disambiguation)">Gary Davies (disambiguation)</a>,  multiple people</li>
-<li><a href="/wiki/Gavyn_Davies" title="Gavyn Davies">Gavyn Davies</a>, British banker and past BBC chairman</li>
-<li><a href="/wiki/Geoffrey_Davies" title="Geoffrey Davies">Geoffrey Davies</a>, English actor</li>
-<li><a href="/wiki/George_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="George Davies (disambiguation)">George Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Geraint_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Geraint Davies (disambiguation)">Geraint Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Gerald_Davies" title="Gerald Davies">Gerald Davies</a> Welsh rugby player</li>
-<li><a href="/wiki/Grant_Davies" title="Grant Davies">Grant Davies</a>, Australian canoer</li>
-<li><a href="/wiki/Greg_Davies" title="Greg Davies">Greg Davies</a>, English comedian</li>
-<li><a href="/wiki/Godfrey_Davies" title="Godfrey Davies">Godfrey Davies</a>, English historian</li>
-<li><a href="/wiki/Gwen_Ffrangcon-Davies" title="Gwen Ffrangcon-Davies">Gwen Ffrangcon-Davies</a>, English actress</li></ul>
-<h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Davies&amp;action=edit&amp;section=8" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Henry_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Henry Davies (disambiguation)">Henry Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Hilary_Davies" title="Hilary Davies">Hilary Davies</a> (born 1954), English poet, critic and translator</li>
-<li><a href="/wiki/Hopkin_Davies" title="Hopkin Davies">Hopkin Davies</a>, Wales international rugby player</li>
-<li><a href="/wiki/Howard_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Howard Davies (disambiguation)">Howard Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Hugh_Sykes_Davies" title="Hugh Sykes Davies">Hugh Sykes Davies</a>, English poet and academic</li>
-<li><a href="/wiki/Hunter_Davies" title="Hunter Davies">Hunter Davies</a>, Scottish writer</li>
-<li><a href="/wiki/Huw_Irranca-Davies" title="Huw Irranca-Davies">Huw Irranca-Davies</a>, British politician</li></ul>
-<h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Davies&amp;action=edit&amp;section=9" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Ian_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Ian Davies (disambiguation)">Ian Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Idris_Davies" title="Idris Davies">Idris Davies</a>, Welsh poet</li></ul>
-<h2><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Davies&amp;action=edit&amp;section=10" title="Edit section: J">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Jack_Llewelyn_Davies" title="Jack Llewelyn Davies">Jack Llewelyn Davies</a>, see <a href="/wiki/Llewelyn_Davies" title="Llewelyn Davies">Llewelyn Davies</a></li>
-<li><a href="/wiki/Jackson_Davies" title="Jackson Davies">Jackson Davies</a>, Canadian actor</li>
-<li><a href="/wiki/James_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="James Davies (disambiguation)">James Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Jeremy_Davies_(exorcist)" title="Jeremy Davies (exorcist)">Jeremy Davies (exorcist)</a>, English Catholic priest</li>
-<li><a href="/wiki/Jeremy_Davies" title="Jeremy Davies">Jeremy Davies</a>, American actor</li>
-<li><a href="/wiki/Jim_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Jim Davies (disambiguation)">Jim Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Jimmy_Davies" title="Jimmy Davies">Jimmy Davies</a>, American racing driver</li>
-<li><a href="/wiki/Jocelyn_Davies" title="Jocelyn Davies">Jocelyn Davies</a>, Welsh politician</li>
-<li><a href="/wiki/Joe_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Joe Davies (disambiguation)">Joe Davies (disambiguation)</a></li>
-<li><a href="/wiki/John_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="John Davies (disambiguation)">John Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Jon_Davies" title="Jon Davies">Jon Davies</a>, American meteorologist and storm chaser</li>
-<li><a href="/wiki/Jonathan_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Jonathan Davies (disambiguation)">Jonathan Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Joseph_Davies_(disambiguation)" class="mw-redirect" title="Joseph Davies (disambiguation)">Joseph Davies (disambiguation)</a>, multiple people</li></ul>
-<h2><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Davies&amp;action=edit&amp;section=11" title="Edit section: K">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Karl_Davies" title="Karl Davies">Karl Davies</a>, English television actor</li>
-<li><a href="/wiki/Kay_Davies" title="Kay Davies">Kay Davies</a>, English geneticist</li>
-<li><a href="/wiki/Ken_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Ken Davies (disambiguation)">Ken Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Kevin_Davies" title="Kevin Davies">Kevin Davies</a>, English footballer</li>
-<li><a href="/wiki/Kevin_Davies_(director)" title="Kevin Davies (director)">Kevin Davies</a>, British television director</li>
-<li><a href="/wiki/Kieron_Davies" title="Kieron Davies">Kieron Davies</a>, German rugby union player</li>
-<li><a href="/wiki/Kimberley_Davies" title="Kimberley Davies">Kimberley Davies</a>, Australian actress</li>
-<li><a href="/wiki/Kyle_Davies_(baseball)" title="Kyle Davies (baseball)">Kyle Davies</a>, American baseball player</li>
-<li><a href="/wiki/Kyle_Davies_(soccer)" title="Kyle Davies (soccer)">Kyle Davies</a>, American soccer player</li></ul>
-<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Davies&amp;action=edit&amp;section=12" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/L._P._Davies" title="L. P. Davies">L. P. Davies</a>, British novelist</li>
-<li><a href="/wiki/Lane_Davies" title="Lane Davies">Lane Davies</a>, American actor</li>
-<li><a href="/wiki/Laura_Davies" title="Laura Davies">Laura Davies</a>, English golfer</li>
-<li><a href="/wiki/Libby_Davies" title="Libby Davies">Libby Davies</a>, Canadian politician</li>
-<li><a href="/wiki/Lilian_May_Davies" class="mw-redirect" title="Lilian May Davies">Lilian May Davies</a>, later <a href="/wiki/Princess_Lilian,_Duchess_of_Halland" title="Princess Lilian, Duchess of Halland">Princess Lilian, Duchess of Halland</a></li>
-<li><a href="/wiki/Lindy_Davies" title="Lindy Davies">Lindy Davies</a>, Australian actress</li>
-<li><a href="/wiki/Llewellyn_Alberic_Emilius_Price-Davies" class="mw-redirect" title="Llewellyn Alberic Emilius Price-Davies">Llewellyn Alberic Emilius Price-Davies</a>, British general</li>
-<li><a href="/wiki/Louis_Henry_Davies" title="Louis Henry Davies">Louis Henry Davies</a>, Canadian politician</li>
-<li><a href="/wiki/Luke_Davies" title="Luke Davies">Luke Davies</a>, Australian writer</li>
-<li><a href="/wiki/Lyndal_Davies" title="Lyndal Davies">Lyndal Davies</a>, Australian wildlife documentary maker</li>
-<li><a href="/wiki/Lynn_Davies" title="Lynn Davies">Lynn Davies</a>, British athlete</li></ul>
-<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Davies&amp;action=edit&amp;section=13" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/M._C._Davies" title="M. C. Davies">M. C. Davies</a>, Australian businessman</li>
-<li><a href="/wiki/Mandy_Rice-Davies" title="Mandy Rice-Davies">Mandy Rice-Davies</a>, Welsh model</li>
-<li><a href="/wiki/Marcus_Davies" title="Marcus Davies">Marcus Davies</a> (born 1991), Australian rules footballer</li>
-<li><a href="/wiki/Marianne_Davies" title="Marianne Davies">Marianne Davies</a>, English musician</li>
-<li><a href="/wiki/Marion_Davies" title="Marion Davies">Marion Davies</a>, American actress</li>
-<li><a href="/wiki/Mark_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Mark Davies (disambiguation)">Mark Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Marshall_Davies" title="Marshall Davies">Marshall Davies</a>, American musician; pianist, professor</li>
-<li><a href="/wiki/Martin_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Martin Davies (disambiguation)">Martin Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/w/index.php?title=Martyn_Davies&amp;action=edit&amp;redlink=1" class="new" title="Martyn Davies (page does not exist)">Martyn Davies</a>, British weather forecaster</li>
-<li><a href="/wiki/Matthew_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Matthew Davies (disambiguation)">Matthew Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Mervyn_Davies" title="Mervyn Davies">Mervyn Davies</a>, Welsh rugby player</li>
-<li><a href="/wiki/Michael_Davies_(disambiguation)" class="mw-redirect" title="Michael Davies (disambiguation)">Michael Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Mike_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Mike Davies (disambiguation)">Mike Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Mims_Davies" title="Mims Davies">Mims Davies</a>, British Conservative politician, MP for Eastleigh since 2015</li>
-<li><a href="/wiki/A._Morley_Davies" title="A. Morley Davies">A. Morley Davies</a>, British paleontologist</li></ul>
-<h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Davies&amp;action=edit&amp;section=14" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Nicholas_Barry_Davies" title="Nicholas Barry Davies">Nicholas Barry Davies</a>, British ethologist, ornithologist and professor at the <a href="/wiki/University_of_Cambridge" title="University of Cambridge">University of Cambridge</a></li>
-<li><a href="/wiki/Nicholas_Llewelyn_Davies" title="Nicholas Llewelyn Davies">Nicholas Llewelyn Davies</a>, see <a href="/wiki/Llewelyn_Davies" title="Llewelyn Davies">Llewelyn Davies</a></li>
-<li><a href="/wiki/Nick_Davies" title="Nick Davies">Nick Davies</a>, British journalist</li>
-<li><a href="/wiki/Nicola_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Nicola Davies (disambiguation)">Nicola Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Norman_Davies" title="Norman Davies">Norman Davies</a>, English historian</li></ul>
-<h2><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Davies&amp;action=edit&amp;section=15" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Oliver_Ford_Davies" title="Oliver Ford Davies">Oliver Ford Davies</a>, English actor</li>
-<li><a href="/wiki/Owen_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Owen Davies (disambiguation)">Owen Davies (disambiguation)</a>, multiple people</li></ul>
-<h2><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Davies&amp;action=edit&amp;section=16" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Patricia_Davies" title="Patricia Davies">Patricia Davies</a>, Zimbabwean field hockey player</li>
-<li><a href="/wiki/Paul_Davies_(disambiguation)" class="mw-disambig" title="Paul Davies (disambiguation)">Paul Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Peter_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Peter Davies (disambiguation)">Peter Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Peter_Ho_Davies" title="Peter Ho Davies">Peter Ho Davies</a>, English author</li>
-<li><a href="/wiki/Peter_Llewelyn_Davies" title="Peter Llewelyn Davies">Peter Llewelyn Davies</a>, see <a href="/wiki/Llewelyn_Davies" title="Llewelyn Davies">Llewelyn Davies</a></li>
-<li><a href="/wiki/Peter_Maxwell_Davies" title="Peter Maxwell Davies">Peter Maxwell Davies</a> (1934–2016), English composer</li>
-<li><a href="/wiki/Philip_Davies" title="Philip Davies">Philip Davies</a>, British politician</li>
-<li><a href="/wiki/Philip_R._Davies" title="Philip R. Davies">Philip R. Davies</a>, British scholar</li>
-<li><a href="/wiki/A._Powell_Davies" title="A. Powell Davies">A. Powell Davies</a>, American Unitarian Minister</li></ul>
-<h2><span class="mw-headline" id="Q">Q</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Davies&amp;action=edit&amp;section=17" title="Edit section: Q">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Quentin_Davies" title="Quentin Davies">Quentin Davies</a>, British politician</li></ul>
-<h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Davies&amp;action=edit&amp;section=18" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Ray_Davies" title="Ray Davies">Ray Davies</a>, English rock musician, vocalist, songwriter, and founding member of <a href="/wiki/The_Kinks" title="The Kinks">The Kinks</a></li>
-<li><a href="/wiki/R.E.G._Davies" class="mw-redirect" title="R.E.G. Davies">R.E.G. Davies</a>, English scholar and aviation writer</li>
-<li><a href="/wiki/Richard_Gareth_Davies" title="Richard Gareth Davies">R.G. Davies</a>, English entomologist</li>
-<li><a href="/wiki/Reine_Davies" title="Reine Davies">Reine Davies</a>, American actress</li>
-<li><a href="/wiki/Rees_Davies" title="Rees Davies">Rees Davies</a>, Welsh historian</li>
-<li><a href="/wiki/Rhett_Davies" title="Rhett Davies">Rhett Davies</a>, producer</li>
-<li><a href="/wiki/Rhys_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Rhys Davies (disambiguation)">Rhys Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Richard_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Richard Davies (disambiguation)">Richard Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Richard_Gareth_Davies" title="Richard Gareth Davies">Richard Gareth Davies</a>, English entomologist</li>
-<li><a href="/wiki/Rick_Davies" title="Rick Davies">Rick Davies</a>, English musician with <a href="/wiki/Supertramp" title="Supertramp">Supertramp</a></li>
-<li><a href="/wiki/Robert_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Robert Davies (disambiguation)">Robert Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Rob_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Rob Davies (disambiguation)">Rob Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Robertson_Davies" title="Robertson Davies">Robertson Davies</a>, Canadian author</li>
-<li><a href="/wiki/Robin_Davies" title="Robin Davies">Robin Davies</a> (1954–2010), Welsh actor</li>
-<li><a href="/wiki/Roger_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Roger Davies (disambiguation)">Roger Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Ron_Davies_(disambiguation)" class="mw-redirect" title="Ron Davies (disambiguation)">Ron Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Ronald_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Ronald Davies (disambiguation)">Ronald Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Roy_Davies_(disambiguation)" class="mw-disambig" title="Roy Davies (disambiguation)">Roy Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Rosemary_Davies" title="Rosemary Davies">Rosemary Davies</a>, American actress</li>
-<li><a href="/wiki/Rupert_Davies" title="Rupert Davies">Rupert Davies</a>, English actor</li>
-<li><a href="/wiki/Russell_Davies" title="Russell Davies">Russell Davies</a>, Welsh television personality</li>
-<li><a href="/wiki/Russell_T_Davies" title="Russell T Davies">Russell T Davies</a>, Welsh television writer</li>
-<li><a href="/wiki/Ryan_Davies" title="Ryan Davies">Ryan Davies</a>, Welsh entertainer</li></ul>
-<h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Davies&amp;action=edit&amp;section=19" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Sally_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Sally Davies (disambiguation)">Sally Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Sam_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Sam Davies (disambiguation)">Sam Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Samuel_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Samuel Davies (disambiguation)">Samuel Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Sarah_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Sarah Davies (disambiguation)">Sarah Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Scott_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Scott Davies (disambiguation)">Scott Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Sean_Davies" title="Sean Davies">Sean Davies</a> (born 1973), Zimbabwean cricketer</li>
-<li><a href="/wiki/Sean_Davies_(footballer)" title="Sean Davies (footballer)">Sean Davies (footballer)</a> (born 1985), English footballer</li>
-<li><a href="/wiki/Sharron_Davies" title="Sharron Davies">Sharron Davies</a> (born 1962), English swimmer</li>
-<li><a href="/wiki/Shona_Rapira_Davies" title="Shona Rapira Davies">Shona Rapira Davies</a>, New Zealand artist</li>
-<li><a href="/wiki/Siobhan_Davies" title="Siobhan Davies">Siobhan Davies</a>, English dancer</li>
-<li><a href="/wiki/Simon_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Simon Davies (disambiguation)">Simon Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/S._O._Davies" title="S. O. Davies">S. O. Davies</a>, British politician</li>
-<li><a href="/wiki/Sonja_Davies" title="Sonja Davies">Sonja Davies</a>, New Zealand trade unionist and politician</li>
-<li><a href="/wiki/Stan_Davies" title="Stan Davies">Stan Davies</a> (1898–1972), Welsh international footballer</li>
-<li><a href="/wiki/Stephen_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Stephen Davies (disambiguation)">Stephen Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/Steven_Davies" title="Steven Davies">Steven Davies</a>, English cricketer</li>
-<li><a href="/wiki/Stevie_Davies" title="Stevie Davies">Stevie Davies</a>, Welsh novelist</li>
-<li><a href="/wiki/Stewart_Davies" title="Stewart Davies">Stewart Davies</a>, English football chairman</li>
-<li><a href="/wiki/Stuart_Davies" title="Stuart Davies">Stuart Davies</a> (born 1965), Welsh rugby union player</li>
-<li><a href="/wiki/Sue_Jones-Davies" title="Sue Jones-Davies">Sue Jones-Davies</a>, Welsh actress and singer</li>
-<li><a href="/wiki/Sylvia_Llewelyn_Davies" title="Sylvia Llewelyn Davies">Sylvia Llewelyn Davies</a> (1866-1910) Mother of the boys who served as the inspiration for <a href="/wiki/Peter_Pan" title="Peter Pan">Peter Pan</a></li></ul>
-<h2><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Davies&amp;action=edit&amp;section=20" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/T._Glynne_Davies" title="T. Glynne Davies">T. Glynne Davies</a>, Welsh poet and broadcaster</li>
-<li><a href="/wiki/Terence_Davies" title="Terence Davies">Terence Davies</a>, English film director</li>
-<li><a href="/wiki/Theophilus_Harris_Davies" title="Theophilus Harris Davies">Theophilus Harris Davies</a>, British businessman</li>
-<li><a href="/wiki/Tim_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Tim Davies (disambiguation)">Tim Davies (disambiguation)</a></li>
-<li><a href="/wiki/Tod_Davies" title="Tod Davies">Tod Davies</a>, American screenwriter</li>
-<li><a href="/wiki/Tom_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="Tom Davies (disambiguation)">Tom Davies (disambiguation)</a></li>
-<li><a href="/wiki/Trefor_Davies" class="mw-redirect" title="Trefor Davies">Trefor Davies</a>, Welsh cricketer</li>
-<li>Tru Davies, fictional eponymous character in <a href="/wiki/Tru_Calling" title="Tru Calling">Tru Calling</a></li></ul>
-<h2><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Davies&amp;action=edit&amp;section=21" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Valentine_Davies" title="Valentine Davies">Valentine Davies</a>, American film director</li></ul>
-<h2><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Davies&amp;action=edit&amp;section=22" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/W._H._Davies" title="W. H. Davies">W. H. Davies</a>, Welsh poet and writer</li>
-<li><a href="/wiki/W._P._C._Davies" title="W. P. C. Davies">W. P. C. Davies</a>, English rugby player and headmaster</li>
-<li><a href="/wiki/W._R._Davies" title="W. R. Davies">W. R. Davies</a>, second president (1941–1959) of the University of Wisconsin-Eau Claire</li>
-<li><a href="/wiki/Walford_Davies" title="Walford Davies">Walford Davies</a>, English composer</li>
-<li><a href="/wiki/William_Davies_(disambiguation)" class="mw-redirect mw-disambig" title="William Davies (disambiguation)">William Davies (disambiguation)</a>, multiple people</li>
-<li><a href="/wiki/William_Rupert_Davies" class="mw-redirect" title="William Rupert Davies">William Rupert Davies</a>, former Canadian senator</li>
-<li><a href="/wiki/Windsor_Davies" title="Windsor Davies">Windsor Davies</a> (1930–2019), English actor</li></ul>
-<h2><span class="mw-headline" id="Z">Z</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Davies&amp;action=edit&amp;section=23" title="Edit section: Z">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Zach_Davies" title="Zach Davies">Zach Davies</a>, American baseball player</li></ul>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Davies&amp;action=edit&amp;section=24" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Davis_(disambiguation)" class="mw-redirect mw-disambig" title="Davis (disambiguation)">Davis (disambiguation)</a>, a placename and surname - among other uses</li>
-<li><a href="/wiki/Davies-Gilbert" title="Davies-Gilbert">Davies-Gilbert</a></li>
-<li><a href="/wiki/Baron_Davies" title="Baron Davies">Baron Davies</a></li>
-<li><a href="/wiki/Llewelyn_Davies" title="Llewelyn Davies">Llewelyn Davies</a>, the family closely connected with J. M. Barrie's <i>Peter Pan</i></li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Davies&amp;action=edit&amp;section=25" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="People_with_the_surname">People with the surname</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nicholson_(name)&amp;action=edit&amp;section=1" title="Edit section: People with the surname">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/A._Nicholson" title="A. Nicholson">A. Nicholson</a>, Australian rugby league footballer of the 1910s</li>
+<li><a href="/wiki/Aideen_Nicholson" title="Aideen Nicholson">Aideen Nicholson</a> (1927–2019), Irish-born Canadian politician</li>
+<li><a href="/wiki/A._J._Nicholson" title="A. J. Nicholson">A. J. Nicholson</a> (born 1983), American football linebacker</li>
+<li><a href="/wiki/Alexander_Malcolm_Nicholson" title="Alexander Malcolm Nicholson">Alexander Malcolm Nicholson</a> (1900–1991), Canadian clergyman, farmer, and politician</li>
+<li><a href="/wiki/Alfred_O._P._Nicholson" title="Alfred O. P. Nicholson">Alfred O. P. Nicholson</a> (1808–1876), United States Senator from Tennessee</li>
+<li><a href="/wiki/Alistair_Nicholson" title="Alistair Nicholson">Alistair Nicholson</a> (born 1978), Australian rules footballer</li>
+<li>Anne-Marie Nicholson (born 1991), English singer and songwriter known professionally as <a href="/wiki/Anne-Marie_(singer)" title="Anne-Marie (singer)">Anne-Marie</a></li>
+<li><a href="/wiki/Archibald_Keightley_Nicholson" title="Archibald Keightley Nicholson">Archibald Keightley Nicholson</a> (1871–1937), British ecclesiastical stained-glass maker</li>
+<li><a href="/wiki/Asenath_Nicholson" title="Asenath Nicholson">Asenath Nicholson</a> (1792–1855), American activist, writer and philanthropist</li>
+<li><a href="/wiki/Barry_Nicholson" title="Barry Nicholson">Barry Nicholson</a> (born 1978), Scottish footballer</li>
+<li><a href="/wiki/Ben_Nicholson" title="Ben Nicholson">Ben Nicholson</a> (1894–1982), English abstract painter (married to Winifred Nicholson)</li>
+<li><a href="/wiki/Bill_Nicholson_(disambiguation)" class="mw-redirect mw-disambig" title="Bill Nicholson (disambiguation)">Bill Nicholson (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Bob_Nicholson_(disambiguation)" class="mw-redirect mw-disambig" title="Bob Nicholson (disambiguation)">Bob Nicholson (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Bruce_Nicholson" title="Bruce Nicholson">Bruce Nicholson</a>, <a href="/wiki/Special_effect" title="Special effect">special effects</a> artist</li>
+<li>Sir <a href="/wiki/Charles_Nicholson" title="Charles Nicholson">Charles Nicholson</a> (1808–1903), British–Australian politician</li>
+<li><a href="/wiki/Sir_Charles_Nicholson,_2nd_Baronet" title="Sir Charles Nicholson, 2nd Baronet">Sir Charles Nicholson, 2nd Baronet</a> (1867–1949), British ecclesiastical architect</li>
+<li><a href="/wiki/Charles_Ernest_Nicholson" title="Charles Ernest Nicholson">Charles Ernest Nicholson</a>, (1868-1954) British yacht designer</li>
+<li><a href="/wiki/Christopher_Nicholson" title="Christopher Nicholson">Christopher Nicholson</a> (1904–1948), British architect and designer</li>
+<li><a href="/wiki/Claude_Nicholson_(rugby_league)" title="Claude Nicholson (rugby league)">Claude Nicholson</a> (1892-1951), Australian rugby league footballer of the 1910s</li>
+<li><a href="/wiki/Claude_Nicholson_(British_Army)" class="mw-redirect" title="Claude Nicholson (British Army)">Claude Nicholson</a>, (1898–1943) British Brigadier, in command of Calais during the <a href="/wiki/Siege_of_Calais_(1940)" title="Siege of Calais (1940)">Siege of Calais (1940)</a></li>
+<li><a href="/wiki/Danell_Nicholson" title="Danell Nicholson">Danell Nicholson</a> (born 1967), American boxer</li>
+<li><a href="/wiki/David_Nicholson_(disambiguation)" class="mw-redirect mw-disambig" title="David Nicholson (disambiguation)">David Nicholson (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Donald_Nicholson_(disambiguation)" class="mw-redirect mw-disambig" title="Donald Nicholson (disambiguation)">Donald Nicholson (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Donte_Nicholson" title="Donte Nicholson">Donte Nicholson</a> (born 1981), American NFL football player</li>
+<li><a href="/wiki/Edward_Max_Nicholson" title="Edward Max Nicholson">Edward Max Nicholson</a> (1904–2003), British environmentalist and ornithologist</li>
+<li><a href="/wiki/Eliza_Jane_Nicholson" class="mw-redirect" title="Eliza Jane Nicholson">Eliza Jane Nicholson</a> (1843–1896), American journalist</li>
+<li><a href="/wiki/Elliot_Nicholson" title="Elliot Nicholson">Elliot Nicholson</a> (1871–1953), English rugby union player</li>
+<li><a href="/wiki/Elwyn_Nicholson" title="Elwyn Nicholson">Elwyn Nicholson</a> (1923-2014), American businessman and politician</li>
+<li><a href="/wiki/Emma_Nicholson" class="mw-redirect" title="Emma Nicholson">Emma Nicholson</a>, Baroness Nicholson of Winterbourne (born 1941), British politician</li>
+<li>Rev <a href="/wiki/Ernest_Nicholson" title="Ernest Nicholson">Ernest Nicholson</a> (1938-2013), British biblical scholar</li>
+<li><a href="/wiki/Francis_Nicholson" title="Francis Nicholson">Francis Nicholson</a> (1655–1727/8), British military officer and colonial governor</li>
+<li><a href="/wiki/Francis_Nicholson_(painter)" title="Francis Nicholson (painter)">Francis Nicholson (painter)</a> (1753–1844), British artist</li>
+<li><a href="/wiki/Frank_Nicholson_(disambiguation)" class="mw-redirect mw-disambig" title="Frank Nicholson (disambiguation)">Frank Nicholson (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Geoff_Nicholson" title="Geoff Nicholson">Geoff Nicholson</a> (born 1953), British novelist and short story writer</li>
+<li><a href="/wiki/George_Nicholson_(printer)" title="George Nicholson (printer)">George Nicholson (printer)</a> (1760–1825), British printer</li>
+<li><a href="/wiki/George_Nicholson_(footballer)" title="George Nicholson (footballer)">George Nicholson (footballer)</a>, English footballer</li>
+<li>Sir <a href="/wiki/Godfrey_Nicholson" title="Godfrey Nicholson">Godfrey Nicholson</a> (1901–1991), British Conservative Party politician</li>
+<li><a href="/wiki/Grace_Nicholson" title="Grace Nicholson">Grace Nicholson</a> (1877-1948), American art collector and art dealer</li>
+<li><a href="/wiki/Harold_James_Nicholson" title="Harold James Nicholson">Harold James Nicholson</a> (born 1950), CIA officer convicted of spying for Russia</li>
+<li><a href="/wiki/Henry_Alleyne_Nicholson" title="Henry Alleyne Nicholson">Henry Alleyne Nicholson</a> (1816-1878),  British palaeontologist and zoologist</li>
+<li><a href="/wiki/Howard_Nicholson" title="Howard Nicholson">Howard Nicholson</a> (1912–2014), English physician</li>
+<li><a href="/wiki/J.C._Nicholson" title="J.C. Nicholson">J.C. Nicholson</a> (born 1942), American judge</li>
+<li><a href="/wiki/Jack_Nicholson" title="Jack Nicholson">Jack Nicholson</a> (born 1937), American actor</li>
+<li><a href="/wiki/James_W._Nicholson" title="James W. Nicholson">James W. Nicholson</a> (1821–1887), U.S. Navy officer during Mexican–American War and Civil War</li>
+<li><a href="/wiki/Jim_Nicholson_(U.S._politician)" class="mw-redirect" title="Jim Nicholson (U.S. politician)">Jim Nicholson (U.S. politician)</a> (born 1938), United States Secretary of Veterans Affairs</li>
+<li><a href="/wiki/Joe_Nicholson" title="Joe Nicholson">Joe Nicholson</a> (1898–1978), English footballer</li>
+<li><a href="/wiki/John_Nicholson_(disambiguation)" class="mw-redirect mw-disambig" title="John Nicholson (disambiguation)">John Nicholson (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Joseph_Hopper_Nicholson" title="Joseph Hopper Nicholson">Joseph Hopper Nicholson</a> (1770–1817), American lawyer, jurist, and politician from Maryland</li>
+<li><a href="/wiki/Joseph_Shield_Nicholson" title="Joseph Shield Nicholson">Joseph Shield Nicholson</a> (1850–1927), English economist</li>
+<li><a href="/wiki/Joyce_Nicholson" title="Joyce Nicholson">Joyce Nicholson</a> (born 1919), Australian author</li>
+<li><a href="/wiki/Julianne_Nicholson" title="Julianne Nicholson">Julianne Nicholson</a> (born 1971), American actress</li>
+<li>John <a href="/wiki/Kenyon_Nicholson" title="Kenyon Nicholson">Kenyon Nicholson</a>, American playwright</li>
+<li><a href="/wiki/Ken_Nicholson" title="Ken Nicholson">Ken Nicholson</a>, video game developer and Windows graphics pioneer</li>
+<li><a href="/wiki/Kevin_Nicholson_(disambiguation)" class="mw-redirect mw-disambig" title="Kevin Nicholson (disambiguation)">Kevin Nicholson (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Leonard_Nicholson" title="Leonard Nicholson">Leonard Nicholson</a> (1904–1983), tenth Commissioner of the Royal Canadian Mounted Police (1951–1959)</li>
+<li><a href="/wiki/Lorna_Schultz_Nicholson" title="Lorna Schultz Nicholson">Lorna Schultz Nicholson</a>, Canadian children's writer</li>
+<li><a href="/wiki/Lorraine_Nicholson" title="Lorraine Nicholson">Lorraine Nicholson</a>, American actress, daughter of Jack Nicholson</li>
+<li><a href="/wiki/Malcolm_Wheeler-Nicholson" title="Malcolm Wheeler-Nicholson">Malcolm Wheeler-Nicholson</a> (1890–1968), American pulp magazine writer and comic book pioneer</li>
+<li><a href="/wiki/Marjorie_Nicholson" title="Marjorie Nicholson">Marjorie Nicholson</a> (1914–1997), British activist</li>
+<li><a href="/wiki/Matthew_Nicholson" title="Matthew Nicholson">Matthew Nicholson</a> (born 1974), Australian cricketer</li>
+<li><a href="/wiki/Meredith_Nicholson" title="Meredith Nicholson">Meredith Nicholson</a> (1866–1947), American author and politician</li>
+<li><a href="/wiki/Meredith_Merle_Nicholson" title="Meredith Merle Nicholson">Meredith Merle Nicholson</a> (1913–2005), American cinematographer</li>
+<li><a href="/wiki/Michael_Nicholson" title="Michael Nicholson">Michael Nicholson</a> (1937–2016), English journalist</li>
+<li><a href="/wiki/Montae_Nicholson" title="Montae Nicholson">Montae Nicholson</a> (born 1995), American football player</li>
+<li><a href="/wiki/Nancy_Nicholson" title="Nancy Nicholson">Nancy Nicholson</a> (1899–1977), British painter and fabric designer</li>
+<li><a href="/wiki/Natalie_Nicholson" title="Natalie Nicholson">Natalie Nicholson</a> (born 1976), American curler</li>
+<li><a href="/wiki/Neil_Nicholson_(cricketer)" title="Neil Nicholson (cricketer)">Neil Nicholson (cricketer)</a>, (English cricketer)</li>
+<li><a href="/wiki/Norman_Nicholson" title="Norman Nicholson">Norman Nicholson</a> (1914–1987), English poet</li>
+<li><a href="/wiki/Ossie_Nicholson" title="Ossie Nicholson">Ossie Nicholson</a> (1906–1965), Australian cyclist</li>
+<li><a href="/wiki/Parson_Nicholson" title="Parson Nicholson">Parson Nicholson</a> (1863–1917), American Major League Baseball player</li>
+<li><a href="/wiki/Paul_Nicholson_(ice_hockey)" title="Paul Nicholson (ice hockey)">Paul Nicholson (ice hockey)</a> (born 1954), Canadian ice hockey forward</li>
+<li><a href="/wiki/Paul_Nicholson_(industrialist)" class="mw-redirect" title="Paul Nicholson (industrialist)">Paul Nicholson (industrialist)</a> (born 1938), British industrialist</li>
+<li><a href="/wiki/Paul_Nicholson_(darts_player)" title="Paul Nicholson (darts player)">Paul Nicholson (darts player)</a> (born 1979), English-born Australian darts player</li>
+<li><a href="/wiki/Peter_Nicholson_(architect)" title="Peter Nicholson (architect)">Peter Nicholson (architect)</a> (1765–1844), British architect, engineer and mathematician</li>
+<li><a href="/wiki/Peter_Nicholson_(cartoonist)" title="Peter Nicholson (cartoonist)">Peter Nicholson (cartoonist)</a> (born 1946), Australian political cartoonist</li>
+<li><a href="/wiki/Reginald_Nicholson" title="Reginald Nicholson">Reginald Nicholson</a> (1869-1946), English politician</li>
+<li><a href="/wiki/Reginald_F._Nicholson" title="Reginald F. Nicholson">Reginald F. Nicholson</a> (1852-1939), United States Navy admiral</li>
+<li><a href="/wiki/Reynold_A._Nicholson" title="Reynold A. Nicholson">Reynold A. Nicholson</a> (1868–1945), British orientalist</li>
+<li><a href="/wiki/Richard_Nicholson_(composer)" class="mw-redirect" title="Richard Nicholson (composer)">Richard Nicholson (composer)</a> (c1570–1639), English composer</li>
+<li><a href="/wiki/Richard_Nicholson_(Paralympian)" title="Richard Nicholson (Paralympian)">Richard Nicholson (Paralympian)</a> (dates unknown), Australian paralympics competitor</li>
+<li><a href="/wiki/Robert_Nicholson_(disambiguation)" class="mw-redirect mw-disambig" title="Robert Nicholson (disambiguation)">Robert Nicholson (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Roscoe_Nicholson" title="Roscoe Nicholson">Roscoe Nicholson</a> (1887–1959), American surveyor and conservationist</li>
+<li><a href="/wiki/Ross_Nicholson" title="Ross Nicholson">Ross Nicholson</a> (born 1975), New Zealand football goalkeeper</li>
+<li><a href="/wiki/Roxie_Nicholson" title="Roxie Nicholson">Roxie Nicholson</a> (born 1950), U.S. Department of Labor welfare policy analyst</li>
+<li><a href="/wiki/Russ_Nicholson" title="Russ Nicholson">Russ Nicholson</a>, British illustrator</li>
+<li><a href="/wiki/Samuel_Nicholson_(disambiguation)" class="mw-disambig" title="Samuel Nicholson (disambiguation)">Samuel Nicholson (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Seth_Barnes_Nicholson" title="Seth Barnes Nicholson">Seth Barnes Nicholson</a> (1891–1963), American astronomer</li>
+<li><a href="/wiki/Shane_Nicholson" title="Shane Nicholson">Shane Nicholson</a> (born 1970), English footballer</li>
+<li><a href="/wiki/Skonk_Nicholson" title="Skonk Nicholson">Skonk Nicholson</a> (1917–2011), South African rugby coach</li>
+<li><a href="/wiki/Stan_Nicholson" title="Stan Nicholson">Stan Nicholson</a>, rugby league footballer of the 1950s, 1960s and 1970s</li>
+<li><a href="/wiki/Stuart_Nicholson" title="Stuart Nicholson">Stuart Nicholson</a> (1987), English footballer</li>
+<li>Sir <a href="/wiki/Sydney_Nicholson" title="Sydney Nicholson">Sydney Nicholson</a> (1875–1947), English choir directory, organist, composer, founder of the Royal College of Music</li>
+<li><a href="/wiki/Thomas_Nicholson" title="Thomas Nicholson">Thomas Nicholson</a> American health educator</li>
+<li><a href="/wiki/Tony_Nicholson" title="Tony Nicholson">Tony Nicholson</a> (1938–1985), English cricketer</li>
+<li><a href="/wiki/Viv_Nicholson" title="Viv Nicholson">Viv Nicholson</a> (1936–2015), British gambling winner and tabloid target</li>
+<li><a href="/wiki/William_Nicholson_(disambiguation)" class="mw-redirect mw-disambig" title="William Nicholson (disambiguation)">William Nicholson (disambiguation)</a>, several people</li>
+<li><a href="/wiki/Winifred_Nicholson" title="Winifred Nicholson">Winifred Nicholson</a> (<i>née</i> Roberts) (1893–1981), English painter (married to Ben Nicholson)</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nicholson_(name)&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <div class="reflist" style="list-style-type: decimal;">
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-fb-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-fb_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fb_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://forebears.co.uk/surnames/davies">"Davies Surname Meaning and Distribution"</a>. forebears.co.uk.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Davies+Surname+Meaning+and+Distribution&amp;rft.pub=forebears.co.uk&amp;rft_id=http%3A%2F%2Fforebears.co.uk%2Fsurnames%2Fdavies&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADavies" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style> Retrieved 21 January 2014</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://forebears.co.uk/surnames/nicholson">"Nicholson Surname Meaning and Distribution"</a>. forebears.co.uk.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nicholson+Surname+Meaning+and+Distribution&amp;rft.pub=forebears.co.uk&amp;rft_id=http%3A%2F%2Fforebears.co.uk%2Fsurnames%2Fnicholson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANicholson+%28name%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style> Retrieved 21 January 2014</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">'The Celts', TGE Powell, Thames &amp; Hudson, 1958</span>
-</li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.surnamedb.com/Surname/Davies">"Surname Database: Davies Last Name Origin"</a>. surnamedb.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Surname+Database%3A+Davies+Last+Name+Origin&amp;rft.pub=surnamedb.com&amp;rft_id=http%3A%2F%2Fwww.surnamedb.com%2FSurname%2FDavies&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADavies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://forebears.co.uk/surnames/davis">"Davis Surname Meaning and Distribution"</a>. forebears.co.uk.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Davis+Surname+Meaning+and+Distribution&amp;rft.pub=forebears.co.uk&amp;rft_id=http%3A%2F%2Fforebears.co.uk%2Fsurnames%2Fdavis&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADavies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/> Retrieved 21 January 2014</span>
+<li id="cite_note-lastn-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-lastn_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><i>Dictionary of American Family Names</i>. <a href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-508137-4" title="Special:BookSources/0-19-508137-4"><bdi>0-19-508137-4</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Dictionary+of+American+Family+Names&amp;rft.pub=Oxford+University+Press&amp;rft.isbn=0-19-508137-4&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANicholson+%28name%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
 </ol></div></div>
 <style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
 <table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
 <tbody><tr>
 <td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
-<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Davies</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Davies&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Nicholson</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Nicholson_(name)&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
 </tr>
 </tbody></table>
 <!-- 
 NewPP limit report
-Parsed by mw1271
-Cached time: 20191010210103
+Parsed by mw1281
+Cached time: 20191010172610
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.272 seconds
-Real time usage: 0.361 seconds
-Preprocessor visited node count: 1248/1000000
+CPU time usage: 0.160 seconds
+Real time usage: 0.263 seconds
+Preprocessor visited node count: 661/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 11625/2097152 bytes
-Template argument size: 1116/2097152 bytes
-Highest expansion depth: 8/40
+Post‐expand include size: 8793/2097152 bytes
+Template argument size: 2120/2097152 bytes
+Highest expansion depth: 9/40
 Expensive parser function count: 1/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 8734/5000000 bytes
+Unstrip post‐expand size: 5713/5000000 bytes
 Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.115/10.000 seconds
-Lua memory usage: 2.93 MB/50 MB
+Lua time usage: 0.072/10.000 seconds
+Lua memory usage: 2.61 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  282.281      1 -total
- 35.33%   99.725      1 Template:Reflist
- 31.84%   89.890      3 Template:Cite_web
- 18.97%   53.547      1 Template:Infobox_surname
- 15.12%   42.668      1 Template:Surname
- 12.81%   36.171      1 Template:Infobox
- 12.54%   35.398      2 Template:IPAc-en
- 11.85%   33.445      1 Template:Dmbox
- 10.40%   29.345      1 Template:For
-  5.51%   15.557      1 Template:Short_description
+100.00%  223.223      1 -total
+ 36.40%   81.259      1 Template:Reflist
+ 31.65%   70.661      1 Template:Surname
+ 29.08%   64.914      1 Template:Cite_web
+ 28.19%   62.935      1 Template:Dmbox
+ 20.31%   45.327      1 Template:Infobox_surname
+ 14.79%   33.014      1 Template:Infobox
+ 13.26%   29.605      1 Template:Short_description
+ 12.07%   26.953      1 Template:Pagetype
+ 11.11%   24.798      1 Template:See_also
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:1002423-0!canonical and timestamp 20191010210103 and revision id 920611860
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1311728-0!canonical and timestamp 20191010172635 and revision id 920581441
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Davies&amp;oldid=920611860">https://en.wikipedia.org/w/index.php?title=Davies&amp;oldid=920611860</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Nicholson_(name)&amp;oldid=920581441">https://en.wikipedia.org/w/index.php?title=Nicholson_(name)&amp;oldid=920581441</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:Surnames_of_Welsh_origin" title="Category:Surnames of Welsh origin">Surnames of Welsh origin</a></li><li><a href="/wiki/Category:Anglicised_Welsh-language_surnames" title="Category:Anglicised Welsh-language surnames">Anglicised Welsh-language surnames</a></li><li><a href="/wiki/Category:Anglo-Cornish_surnames" title="Category:Anglo-Cornish surnames">Anglo-Cornish surnames</a></li><li><a href="/wiki/Category:Patronymic_surnames" title="Category:Patronymic surnames">Patronymic surnames</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:German-language_surnames" title="Category:German-language surnames">German-language surnames</a></li><li><a href="/wiki/Category:Patronymic_surnames" title="Category:Patronymic surnames">Patronymic surnames</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -405,13 +224,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Davies" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Davies" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Nicholson+%28name%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Nicholson+%28name%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Davies" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Davies" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Nicholson_(name)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Nicholson_(name)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -426,7 +245,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Davies">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Davies&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Davies&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Nicholson_(name)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Nicholson_(name)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Nicholson_(name)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -465,35 +284,35 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Davies" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Davies" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Davies&amp;oldid=920611860" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Davies&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1177810" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Davies&amp;id=920611860" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Nicholson_(name)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Nicholson_(name)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Nicholson_(name)&amp;oldid=920581441" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Nicholson_(name)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q16878076" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Nicholson_%28name%29&amp;id=920581441" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
 			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
 			<div class="body">
 								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Davies_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Nicholson_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Davies">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Davies&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Davies&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Nicholson+%28name%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Nicholson+%28name%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Nicholson_(name)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Davies" title="Davies – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Davies" title="Davies – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1177810#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Nicholson_(mi%C3%A2)" title="Nicholson (miâ) – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q16878076#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 10 October 2019, at 21:01<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 10 October 2019, at 17:26<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -504,7 +323,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Davies&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Nicholson_(name)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -516,8 +335,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.272","walltime":"0.361","ppvisitednodes":{"value":1248,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":11625,"limit":2097152},"templateargumentsize":{"value":1116,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":8734,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  282.281      1 -total"," 35.33%   99.725      1 Template:Reflist"," 31.84%   89.890      3 Template:Cite_web"," 18.97%   53.547      1 Template:Infobox_surname"," 15.12%   42.668      1 Template:Surname"," 12.81%   36.171      1 Template:Infobox"," 12.54%   35.398      2 Template:IPAc-en"," 11.85%   33.445      1 Template:Dmbox"," 10.40%   29.345      1 Template:For","  5.51%   15.557      1 Template:Short_description"]},"scribunto":{"limitreport-timeusage":{"value":"0.115","limit":"10.000"},"limitreport-memusage":{"value":3068436,"limit":52428800}},"cachereport":{"origin":"mw1271","timestamp":"20191010210103","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Davies","url":"https:\/\/en.wikipedia.org\/wiki\/Davies","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1177810","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1177810","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-09-20T19:09:02Z","dateModified":"2019-10-10T21:01:03Z","headline":"family name"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":109,"wgHostname":"mw1268"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.160","walltime":"0.263","ppvisitednodes":{"value":661,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":8793,"limit":2097152},"templateargumentsize":{"value":2120,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":5713,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  223.223      1 -total"," 36.40%   81.259      1 Template:Reflist"," 31.65%   70.661      1 Template:Surname"," 29.08%   64.914      1 Template:Cite_web"," 28.19%   62.935      1 Template:Dmbox"," 20.31%   45.327      1 Template:Infobox_surname"," 14.79%   33.014      1 Template:Infobox"," 13.26%   29.605      1 Template:Short_description"," 12.07%   26.953      1 Template:Pagetype"," 11.11%   24.798      1 Template:See_also"]},"scribunto":{"limitreport-timeusage":{"value":"0.072","limit":"10.000"},"limitreport-memusage":{"value":2734136,"limit":52428800}},"cachereport":{"origin":"mw1281","timestamp":"20191010172610","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Nicholson (name)","url":"https:\/\/en.wikipedia.org\/wiki\/Nicholson_(name)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q16878076","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q16878076","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-12-22T13:47:35Z","dateModified":"2019-10-10T17:26:35Z","headline":"family name"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":105,"wgHostname":"mw1274"});});</script>
 </body>
 </html>

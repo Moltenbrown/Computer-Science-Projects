@@ -2,34 +2,35 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Nurture kinship - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Nurture_kinship","wgTitle":"Nurture kinship","wgCurRevisionId":892780670,"wgRevisionId":892780670,"wgArticleId":34123755,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Kinship and descent"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nurture_kinship","wgRelevantArticleId":34123755,"wgRequestId":"XbF4tApAICwAAKlXIB4AAAAX","wgCSPNonce":!1,"wgIsProbablyEditable":!0,
-"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q4396070","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":
-"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Aptronym - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Aptronym","wgTitle":"Aptronym","wgCurRevisionId":922491965,"wgRevisionId":922491965,"wgArticleId":1668007,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from February 2016","Names","Semantics","Types of words","Word play"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Aptronym","wgRelevantArticleId":1668007,"wgRequestId":"XbMlbgpAICgAAKvBVW0AAAEQ","wgCSPNonce":!1,
+"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1756239","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready"
+,"mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.2"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Nurture_kinship"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Nurture_kinship&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Nurture_kinship&amp;action=edit"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Aptronym"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Aptronym&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Aptronym&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Nurture_kinship"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Aptronym"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Nurture_kinship rootpage-Nurture_kinship skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Aptronym rootpage-Aptronym skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -38,7 +39,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Nurture kinship</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Aptronym</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -49,433 +50,408 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Kinship_and_descent" title="Category:Kinship and descent">a series</a> on the</td></tr><tr><th class="navbox-title" style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;padding-top:0.2em; display:block;margin-bottom:0.3em;">Anthropology of <a href="/wiki/Kinship" title="Kinship">kinship</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
-<div class="NavFrame" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:lavender;text-align:center;">Basic concepts</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding:0.2em 0 0.6em;"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none"><tbody><tr><td class="hlist" style="padding:0 0.1em 0.4em;padding:0.2em 0 0.6em;;padding-top:0;">
-<ul><li><a href="/wiki/Affinity_(law)" title="Affinity (law)">Affinity</a></li>
-<li><a href="/wiki/Consanguinity" title="Consanguinity">Consanguinity</a></li>
-<li><a href="/wiki/Marriage" title="Marriage">Marriage</a></li>
-<li><a href="/wiki/Incest_taboo" title="Incest taboo">Incest taboo</a></li>
-<li><a href="/wiki/Endogamy" title="Endogamy">Endogamy</a></li>
-<li><a href="/wiki/Exogamy" title="Exogamy">Exogamy</a></li>
-<li><a href="/wiki/Moiety_(kinship)" title="Moiety (kinship)">Moiety</a></li>
-<li><a href="/wiki/Monogamy" title="Monogamy">Monogamy</a></li>
-<li><a href="/wiki/Polygyny" title="Polygyny">Polygyny</a></li>
-<li><a href="/wiki/Polygamy" title="Polygamy">Polygamy</a></li>
-<li><a href="/wiki/Concubinage" title="Concubinage">Concubinage</a></li>
-<li><a href="/wiki/Polyandry" title="Polyandry">Polyandry</a></li>
-<li><a href="/wiki/Bride_price" title="Bride price">Bride price</a></li>
-<li><a href="/wiki/Bride_service" title="Bride service">Bride service</a></li>
-<li><a href="/wiki/Dowry" title="Dowry">Dowry</a></li>
-<li><a href="/wiki/Parallel_and_cross_cousins" title="Parallel and cross cousins">Parallel&#160;/&#32;cross cousins</a></li>
-<li><a href="/wiki/Cousin_marriage" title="Cousin marriage">Cousin marriage</a></li>
-<li><a href="/wiki/Levirate_marriage" title="Levirate marriage">Levirate</a></li>
-<li><a href="/wiki/Sororate_marriage" title="Sororate marriage">Sororate</a></li>
-<li><a href="/wiki/Ghost_marriage_(Chinese)" class="mw-redirect" title="Ghost marriage (Chinese)"><span class="wrap">Ghost marriage</span></a></li>
-<li><a href="/wiki/Joking_relationship" title="Joking relationship">Joking relationship</a></li>
-<li><a href="/wiki/Family" title="Family">Family</a></li>
-<li><a href="/wiki/Lineage_(anthropology)" title="Lineage (anthropology)">Lineage</a></li>
-<li><a href="/wiki/Clan" title="Clan">Clan</a></li>
-<li><a href="/wiki/Cohabitation" title="Cohabitation">Cohabitation</a></li>
-<li><span class="nowrap"><a href="/wiki/Fictive_kinship" title="Fictive kinship">Fictive</a>&#160;/&#32;<a href="/wiki/Milk_kinship" title="Milk kinship">Milk</a>&#160;/&#32;<a class="mw-selflink selflink">Nurture kinship</a></span></li></ul></td>
-</tr><tr><th style="padding:0.1em;background:#e6e6ff;font-style:italic;font-weight:normal;">
-Descent</th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em;padding:0.2em 0 0.6em;">
-<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none"><tbody><tr><td style="padding:0 0.1em 0.4em">
-<ul><li><a href="/wiki/Cognatic_kinship" title="Cognatic kinship">Cognatic</a>&#160;/&#32;<a href="/wiki/Bilateral_descent" title="Bilateral descent">Bilateral</a></li>
-<li><a href="/wiki/Matrilateral" title="Matrilateral">Matrilateral</a></li>
-<li><a href="/wiki/House_society" title="House society">House society</a></li>
-<li><a href="/wiki/Avunculate" title="Avunculate">Avunculate</a></li></ul></td>
-</tr><tr><th style="padding:0.1em;font-style:italic;font-weight:normal;">
-Linealities</th></tr><tr><td style="padding:0 0.1em 0.4em">
-<ul><li><a href="/wiki/Ambilineality" title="Ambilineality">Ambilineality</a></li>
-<li><a href="/wiki/Unilineality" title="Unilineality">Unilineality</a></li>
-<li><a href="/wiki/Matrilineality" title="Matrilineality">Matrilineality</a></li>
-<li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineality</a></li></ul></td>
-</tr></tbody></table></td>
-</tr><tr><th style="padding:0.1em;background:#e6e6ff;font-style:italic;font-weight:normal;">
-Household forms and residence</th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em;padding:0.2em 0 0.6em;">
-<ul><li><a href="/wiki/Extended_family" title="Extended family">Extended</a></li>
-<li><a href="/wiki/Matrifocal_family" title="Matrifocal family">Matrifocal</a></li>
-<li><a href="/wiki/Matrilocal_residence" title="Matrilocal residence">Matrilocal</a></li>
-<li><br /><a href="/wiki/Nuclear_family" title="Nuclear family">Nuclear</a></li>
-<li><a href="/wiki/Patrilocal_residence" title="Patrilocal residence">Patrilocal</a></li></ul></td>
-</tr></tbody></table></div></div></td>
-</tr><tr><td style="padding:0 0.1em 0.4em">
-<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:lavender;text-align:center;">Terminology</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding:0.2em 0 0.6em;"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none"><tbody><tr><td style="padding:0 0.1em 0.4em;padding:0.2em 1.0em 0.6em;">
-<ul><li><a href="/wiki/Kinship_terminology" title="Kinship terminology">Kinship terminology</a></li>
-<li><a href="/wiki/Classificatory_kinship" title="Classificatory kinship">Classificatory terminologies</a></li></ul></td>
-</tr><tr><th style="padding:0.1em;background:#e6e6ff;font-style:italic;font-weight:normal;">
-By group</th></tr><tr><td style="padding:0 0.1em 0.4em;padding:0.2em 1.0em 0.6em;">
-<div class="hlist">
-<ul><li><a href="/wiki/Iroquois_kinship" title="Iroquois kinship">Iroquois</a></li>
-<li><a href="/wiki/Crow_kinship" title="Crow kinship">Crow</a></li>
-<li><a href="/wiki/Omaha_kinship" title="Omaha kinship">Omaha</a></li>
-<li><a href="/wiki/Eskimo_kinship" title="Eskimo kinship">Inuit</a></li>
-<li><a href="/wiki/Hawaiian_kinship" title="Hawaiian kinship">Hawaiian</a></li>
-<li><a href="/wiki/Sudanese_kinship" title="Sudanese kinship">Sudanese</a></li>
-<li><a href="/wiki/Kinship_terminology#Tamil_/Dravidian" title="Kinship terminology">Dravidian</a></li></ul>
-</div></td>
-</tr></tbody></table></div></div></td>
-</tr><tr><td style="padding:0 0.1em 0.4em">
-<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:lavender;text-align:center;">Case studies</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding:0.2em 0 0.6em;"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none"><tbody><tr><td style="padding:0 0.1em 0.4em;padding:0.2em 0.5em 0.6em;">
-<div class="hlist">
-<ul><li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal</a></li>
-<li><a href="/wiki/Burmese_kinship" title="Burmese kinship">Burmese</a></li>
-<li><a href="/wiki/Chinese_kinship" title="Chinese kinship">Chinese</a></li>
-<li><a href="/wiki/Philippine_kinship" title="Philippine kinship">Philippine</a></li>
-<li><a href="/wiki/Polyandry_in_Tibet" title="Polyandry in Tibet">Polyandry in Tibet</a>&#160;/&#32;<a href="/wiki/Polyandry_in_India" title="Polyandry in India">in India</a></li></ul>
-</div></td>
-</tr><tr><th style="padding:0.1em;background:#e6e6ff;font-style:italic;font-weight:normal;">
-Feminist</th></tr><tr><td style="padding:0 0.1em 0.4em;padding:0.2em 0.5em 0.6em;">
-<div class="hlist">
-<ul><li><a href="/wiki/Chambri_people#Marriage_within_the_Chambri" title="Chambri people">Chambri</a></li>
-<li><a href="/wiki/Mosuo_women" title="Mosuo women">Mosuo</a></li></ul>
-</div></td>
-</tr><tr><th style="padding:0.1em;background:#e6e6ff;font-style:italic;font-weight:normal;">
-Sexuality</th></tr><tr><td style="padding:0 0.1em 0.4em;padding:0.2em 0.5em 0.6em;">
-<ul><li><i><a href="/wiki/Coming_of_Age_in_Samoa" title="Coming of Age in Samoa">Coming of Age in Samoa</a></i></li></ul></td>
-</tr></tbody></table></div></div></td>
-</tr><tr><td style="padding:0 0.1em 0.4em">
-<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:lavender;text-align:center;">Major theorists</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding:0.2em 0 0.6em;"><div class="hlist">
-<ul><li><a href="/wiki/Diane_Bell" title="Diane Bell">Diane Bell</a></li>
-<li><a href="/wiki/Tom_Boellstorff" title="Tom Boellstorff">Tom Boellstorff</a></li>
-<li><a href="/wiki/Jack_Goody" title="Jack Goody">Jack Goody</a></li>
-<li><a href="/wiki/Gilbert_Herdt" title="Gilbert Herdt">Gilbert Herdt</a></li>
-<li><a href="/wiki/Don_Kulick" title="Don Kulick">Don Kulick</a></li>
-<li><a href="/wiki/Roger_Lancaster" title="Roger Lancaster">Roger Lancaster</a></li>
-<li><a href="/wiki/Louise_Lamphere" title="Louise Lamphere">Louise Lamphere</a></li>
-<li><a href="/wiki/Eleanor_Leacock" title="Eleanor Leacock">Eleanor Leacock</a></li>
-<li><a href="/wiki/Claude_L%C3%A9vi-Strauss" title="Claude Lévi-Strauss">Claude Lévi-Strauss</a></li>
-<li><a href="/wiki/Bronis%C5%82aw_Malinowski" title="Bronisław Malinowski">Bronisław Malinowski</a></li>
-<li><a href="/wiki/Margaret_Mead" title="Margaret Mead">Margaret Mead</a></li>
-<li><a href="/wiki/Henrietta_Moore" title="Henrietta Moore">Henrietta Moore</a></li>
-<li><a href="/wiki/Lewis_H._Morgan" title="Lewis H. Morgan">Lewis H. Morgan</a></li>
-<li><a href="/wiki/Stephen_O._Murray" title="Stephen O. Murray">Stephen O. Murray</a></li>
-<li><a href="/wiki/Michelle_Rosaldo" title="Michelle Rosaldo">Michelle Rosaldo</a></li>
-<li><a href="/wiki/David_M._Schneider" title="David M. Schneider">David M. Schneider</a></li>
-<li><a href="/wiki/Marilyn_Strathern" title="Marilyn Strathern">Marilyn Strathern</a></li></ul>
-</div></div></div></td>
-</tr><tr><td style="padding:0 0.1em 0.4em">
-<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:lavender;text-align:center;">Related articles</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding:0.2em 0 0.6em;">
-<ul><li><a href="/wiki/Alliance_theory" title="Alliance theory">Alliance theory</a></li>
-<li><a href="/wiki/List_of_matrilineal_or_matrilocal_societies" title="List of matrilineal or matrilocal societies">Matrilineal&#160;/&#32;matrilocal societies</a></li>
-<li><a href="/wiki/Feminist_anthropology" title="Feminist anthropology">Feminist anthropology</a></li>
-<li><div style="padding:0.1em 0;line-height:1.2em;"><i><a href="/wiki/Sex_and_Repression_in_Savage_Society" title="Sex and Repression in Savage Society">Sex and Repression in Savage Society</a></i></div></li>
-<li><div style="padding:0.1em 0;line-height:1.2em;"><i><a href="/wiki/Social_Bonding_and_Nurture_Kinship" title="Social Bonding and Nurture Kinship">Social Bonding and Nurture Kinship</a></i></div></li></ul></div></div></td>
-</tr><tr><td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;padding-top:0.15em;white-space:nowrap;">
-<a href="/wiki/Social_anthropology" title="Social anthropology">Social anthropology</a><br /><a href="/wiki/Cultural_anthropology" title="Cultural anthropology">Cultural anthropology</a></td></tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Anthropology_of_kinship" title="Template:Anthropology of kinship"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Anthropology_of_kinship" title="Template talk:Anthropology of kinship"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Anthropology_of_kinship&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
-<p>The concept of <b>nurture kinship</b> in the anthropological study of human social relationships (<a href="/wiki/Kinship" title="Kinship">kinship</a>) highlights the extent to which such relationships are brought into being through the performance of various acts of <a href="/wiki/Nurture" class="mw-redirect" title="Nurture">nurture</a> between individuals. Additionally the concept highlights ethnographic findings that, in a wide swath of human societies, people understand, conceptualize and symbolize their relationships predominantly in terms of giving, receiving and sharing nurture. The concept stands in contrast to the earlier anthropological concepts of human kinship relations being fundamentally based on "blood ties", some other form of shared substance, or a proxy for these (as in <a href="/wiki/Fictive_kinship" title="Fictive kinship">fictive kinship</a>), and the accompanying notion that people universally understand their social relationships predominantly in these terms.
-</p><p>The nurture kinship perspective on the ontology of social ties, and how people conceptualize them, has become stronger in the wake of <a href="/wiki/David_M._Schneider" title="David M. Schneider">David M. Schneider</a>'s influential <i>Critique of the Study of Kinship</i><sup id="cite_ref-S1984_1-0" class="reference"><a href="#cite_note-S1984-1">&#91;1&#93;</a></sup> and Holland's subsequent <i><a href="/wiki/Social_Bonding_and_Nurture_Kinship" title="Social Bonding and Nurture Kinship">Social Bonding and Nurture Kinship</a></i>, demonstrating that as well as the ethnographic record, <i>biological theory and evidence</i> also more strongly support the <i>nurture</i> perspective than the <i>blood</i> perspective (<i>see</i> <a href="/wiki/Human_inclusive_fitness" class="mw-redirect" title="Human inclusive fitness">Human inclusive fitness</a>). Both Schneider and Holland argue that the earlier <i>blood</i> theory of kinship derived from an unwarranted extension of symbols and values from anthropologists' own cultures (see <a href="/wiki/Ethnocentrism" title="Ethnocentrism">ethnocentrism</a>).
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>An <b>aptronym</b>,  <b>aptonym</b> or <b>euonym</b> is a <a href="/wiki/Personal_name" title="Personal name">personal name</a> aptly or peculiarly suited to its owner.
 </p>
 <div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Intellectual_background"><span class="tocnumber">1</span> <span class="toctext">Intellectual background</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Ethnographic_examples"><span class="tocnumber">2</span> <span class="toctext">Ethnographic examples</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#Link_with_attachment_theory"><span class="tocnumber">3</span> <span class="toctext">Link with attachment theory</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#Link_with_evolutionary_biology"><span class="tocnumber">4</span> <span class="toctext">Link with evolutionary biology</span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="#Alternative_perspectives_and_critiques"><span class="tocnumber">5</span> <span class="toctext">Alternative perspectives and critiques</span></a></li>
-<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
-<li class="toclevel-1 tocsection-7"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Notable_examples"><span class="tocnumber">2</span> <span class="toctext">Notable examples</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Inaptronyms"><span class="tocnumber">2.1</span> <span class="toctext">Inaptronyms</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
 </ul>
 </div>
 
-<h2><span class="mw-headline" id="Intellectual_background">Intellectual background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nurture_kinship&amp;action=edit&amp;section=1" title="Edit section: Intellectual background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Reports of kinship ties being based on various forms of shared nurture date back at least to <a href="/wiki/William_Robertson_Smith" title="William Robertson Smith">William Robertson Smith</a>'s (1889) compiled <i>Lectures on The Religion of the Semites</i>:
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aptronym&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <i><a href="/wiki/Encyclop%C3%A6dia_Britannica" title="Encyclopædia Britannica">Encyclopædia Britannica</a></i> attributes the term to <a href="/wiki/Franklin_P._Adams" title="Franklin P. Adams">Franklin P. Adams</a>, a writer who coined it as an anagram of <i>patronym</i>, to emphasize "apt".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>According to Frank Nuessel, in <i>The Study of Names</i> (1992), an <i>aptonym</i> is the term used for "people whose names and occupations or situations (e.g., workplace) have a close correspondence."
+</p><p>In the book <i>What's in a Name?</i> (1996), author <a href="/wiki/Paul_Dickson_(writer)" title="Paul Dickson (writer)">Paul Dickson</a> cites a long list of aptronyms originally compiled by Professor Lewis P. Lipsitt, of <a href="/wiki/Brown_University" title="Brown University">Brown University</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Psychologist <a href="/wiki/Carl_Jung" title="Carl Jung">Carl Jung</a> wrote in his book <i><a href="/wiki/Synchronicity_(book)" title="Synchronicity (book)">Synchronicity</a></i> that there was a "sometimes quite grotesque coincidence between a man's name and his peculiarities".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p><a href="/wiki/Nominative_determinism" title="Nominative determinism">Nominative determinism</a> is a hypothesis which suggests a causal relationship based on the idea that people tend to be attracted to areas of work that fit their name.
 </p>
-<style data-mw-deduplicate="TemplateStyles:r886047036">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><p>According to antique ideas, those who eat and drink together are by this very act tied to one another by a bond of friendship and mutual obligation... The idea that kinship is not purely an affair of birth, but may be acquired, has quite fallen out of our circle of ideas. (Robertson Smith 1889, 265, 273)<sup id="cite_ref-RS1889_2-0" class="reference"><a href="#cite_note-RS1889-2">&#91;2&#93;</a></sup>
-</p></blockquote>
-<p>At this stage, Robertson Smith interpreted the kinship ties emerging from the <a href="/wiki/Evolutionary_models_of_food_sharing" title="Evolutionary models of food sharing">sharing of food</a> as constituting an alternative form of the sharing of substance, aside from the sharing of blood or genetic substance which many anthropologists (e.g. <a href="/wiki/Lewis_H._Morgan" title="Lewis H. Morgan">Lewis H. Morgan</a>) assumed was the 'natural basis' of social ties. However, later observations focused on the <i>nurturing</i> qualities of food-sharing behavior, allowing a potential distinction between the earlier emphasis on kinship as shared <i>substance</i> (e.g. food or blood) and kinship as <i>performance</i> (of care-giving or nurturing behaviors):
+<h2><span class="mw-headline" id="Notable_examples">Notable examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aptronym&amp;action=edit&amp;section=2" title="Edit section: Notable examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Jules_Angst" title="Jules Angst">Jules Angst</a>, German professor of <a href="/wiki/Psychiatry" title="Psychiatry">psychiatry</a>, who has published works about <a href="/wiki/Anxiety" title="Anxiety">anxiety</a> (<a href="https://en.wiktionary.org/wiki/angst" class="extiw" title="wikt:angst">angst</a>)<sup id="cite_ref-guardian_4-0" class="reference"><a href="#cite_note-guardian-4">&#91;4&#93;</a></sup></li>
+<li><a href="/wiki/Michael_Ball_(footballer)" title="Michael Ball (footballer)">Michael Ball</a>, football player<sup id="cite_ref-macmillan_5-0" class="reference"><a href="#cite_note-macmillan-5">&#91;5&#93;</a></sup></li>
+<li><a href="/wiki/Colin_Bass" title="Colin Bass">Colin Bass</a>, British <a href="/wiki/Bass_guitar" title="Bass guitar">bassist</a> in the rock band <a href="/wiki/Camel_(band)" title="Camel (band)">Camel</a><sup id="cite_ref-guardian_4-1" class="reference"><a href="#cite_note-guardian-4">&#91;4&#93;</a></sup></li>
+<li><a href="/wiki/Lance_Bass" title="Lance Bass">Lance Bass</a>, <a href="/wiki/Bass_(voice_type)" title="Bass (voice type)">bass</a> singer for the American pop <a href="/wiki/Boy_band" title="Boy band">boy band</a> <a href="/wiki/NSYNC" title="NSYNC">NSYNC</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup></li>
+<li><a href="/wiki/Sara_Blizzard" title="Sara Blizzard">Sara Blizzard</a>, <a href="/wiki/Meteorology" title="Meteorology">meteorologist</a> (television weather presenter) for the <a href="/wiki/BBC" title="BBC">BBC</a><sup id="cite_ref-guardian_4-2" class="reference"><a href="#cite_note-guardian-4">&#91;4&#93;</a></sup></li>
+<li><a href="/wiki/Usain_Bolt" title="Usain Bolt">Usain Bolt</a>, Jamaican sprinter<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup></li>
+<li><a href="/wiki/Doug_Bowser" title="Doug Bowser">Doug Bowser</a>, president of <a href="/wiki/Nintendo_of_America" class="mw-redirect" title="Nintendo of America">Nintendo of America</a> (<a href="/wiki/Bowser_(character)" title="Bowser (character)">Bowser</a>)<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup></li>
+<li><a href="/wiki/Russell_Brain,_1st_Baron_Brain" title="Russell Brain, 1st Baron Brain">Russell Brain, 1st Baron Brain</a>, neurologist<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup></li>
+<li><a href="/wiki/Rosalind_Brewer" title="Rosalind Brewer">Rosalind Brewer</a>, executive at <a href="/wiki/Starbucks" title="Starbucks">Starbucks</a> and a former director at <a href="/wiki/Molson_Coors_Brewing_Company" title="Molson Coors Brewing Company">Molson Coors Brewing Company</a><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup></li>
+<li><a href="/wiki/Christopher_Coke" title="Christopher Coke">Christopher Coke</a>, drug lord and cocaine trafficker (<a href="/wiki/Cocaine" title="Cocaine">cocaine</a>)<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup></li>
+<li><a href="/wiki/Margaret_Court" title="Margaret Court">Margaret Court</a>, Australian <a href="/wiki/Tennis" title="Tennis">tennis</a> player<sup id="cite_ref-macmillan_5-1" class="reference"><a href="#cite_note-macmillan-5">&#91;5&#93;</a></sup></li>
+<li><a href="/wiki/Thomas_Crapper" title="Thomas Crapper">Thomas Crapper</a>, sanitary engineer<sup id="cite_ref-macmillan_5-2" class="reference"><a href="#cite_note-macmillan-5">&#91;5&#93;</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup></li>
+<li><a href="/wiki/Josh_Earnest" title="Josh Earnest">Josh Earnest</a>, the third <a href="/wiki/White_House_Press_Secretary" title="White House Press Secretary">press secretary</a> for the <a href="/wiki/Obama_Administration" class="mw-redirect" title="Obama Administration">Obama Administration</a> (<a href="/wiki/Stephen_Colbert" title="Stephen Colbert">Stephen Colbert</a> observed, "What a name for a press secretary. Josh Earnest. His name literally means, 'Just kidding, but seriously.'"<sup id="cite_ref-Politico_14-0" class="reference"><a href="#cite_note-Politico-14">&#91;14&#93;</a></sup>)</li>
+<li><a href="/wiki/Cecil_Fielder" title="Cecil Fielder">Cecil Fielder</a> and <a href="/wiki/Prince_Fielder" title="Prince Fielder">Prince Fielder</a>, baseball players (<a href="/wiki/Fielder#baseball" class="mw-disambig" title="Fielder">fielder</a>)<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup></li>
+<li><a href="/wiki/Amy_Freeze" title="Amy Freeze">Amy Freeze</a>, American meteorologist<sup id="cite_ref-slate_16-0" class="reference"><a href="#cite_note-slate-16">&#91;16&#93;</a></sup></li>
+<li><a href="/wiki/William_Headline" title="William Headline">William Headline</a>, Washington Bureau Chief for <a href="/wiki/CNN" title="CNN">CNN</a><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup></li>
+<li><a href="/wiki/Igor_Judge,_Baron_Judge" title="Igor Judge, Baron Judge">Igor Judge</a>, English judge and <a href="/wiki/Lord_Chief_Justice_of_England_and_Wales" title="Lord Chief Justice of England and Wales">Lord Chief Justice</a><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup></li>
+<li><a href="/wiki/Auguste_and_Louis_Lumi%C3%A8re" title="Auguste and Louis Lumière">Auguste and Louis Lumière</a>, pioneering 19th century filmmakers (<i>lumière</i> means "light"in French)<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup></li>
+<li><a href="/wiki/Chris_Moneymaker" title="Chris Moneymaker">Chris Moneymaker</a>, American poker player and <a href="/wiki/2003_World_Series_of_Poker" title="2003 World Series of Poker">2003 World Series of Poker</a> champion<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup></li>
+<li><a href="/wiki/Josh_Outman" title="Josh Outman">Josh Outman</a>, baseball pitcher<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup></li>
+<li><a href="/wiki/Francine_Prose" title="Francine Prose">Francine Prose</a>, American novelist<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup></li>
+<li><a href="/wiki/Bob_Rock" title="Bob Rock">Bob Rock</a>, Canadian music producer best known for his works with rock acts such as Metallica and Aerosmith<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup></li>
+<li><a href="/wiki/Marilyn_vos_Savant" title="Marilyn vos Savant">Marilyn vos Savant</a>, American columnist who has been cited for having the world's highest recorded <a href="/wiki/Intelligence_quotient" title="Intelligence quotient">IQ</a> (<a href="/wiki/Savant" class="mw-redirect" title="Savant">savant</a>)<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup></li>
+<li><a href="/wiki/Larry_Speakes" title="Larry Speakes">Larry Speakes</a>, acting <a href="/wiki/White_House_Press_Secretary" title="White House Press Secretary">White House Press Secretary</a> for the <a href="/wiki/White_House" title="White House">White House</a> under <a href="/wiki/President_of_the_United_States" title="President of the United States">President</a> <a href="/wiki/Ronald_Reagan" title="Ronald Reagan">Ronald Reagan</a><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup></li>
+<li><a href="/wiki/Anthony_Weiner" title="Anthony Weiner">Anthony Weiner</a>, American politician involved in <a href="/wiki/Sexting" title="Sexting">sexting</a> scandals (<a href="/wiki/Wiener#penis" class="mw-disambig" title="Wiener">wiener</a>)<sup id="cite_ref-slate_16-1" class="reference"><a href="#cite_note-slate-16">&#91;16&#93;</a></sup></li>
+<li><a href="/wiki/William_Wordsworth" title="William Wordsworth">William Wordsworth</a>, English poet and advocate for the extension of <a href="/wiki/British_copyright_law" class="mw-redirect" title="British copyright law">British copyright law</a><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup><sup id="cite_ref-macmillan_5-3" class="reference"><a href="#cite_note-macmillan-5">&#91;5&#93;</a></sup></li>
+<li><a href="/wiki/Early_Wynn" title="Early Wynn">Early Wynn</a>, baseball pitcher, member of the <a href="/wiki/300_win_club" title="300 win club">300 win club</a><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup></li></ul>
+<h3><span class="mw-headline" id="Inaptronyms">Inaptronyms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aptronym&amp;action=edit&amp;section=3" title="Edit section: Inaptronyms">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Some aptronyms are <a href="/wiki/Irony" title="Irony">ironic</a> rather than descriptive, being called <b>inaptronyms</b> by <a href="/wiki/Gene_Weingarten" title="Gene Weingarten">Gene Weingarten</a> of the <i><a href="/wiki/Washington_Post" class="mw-redirect" title="Washington Post">Washington Post</a></i>.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup> 
 </p>
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047036"/><blockquote class="templatequote"><p>I want to examine the human relationships of a primitive society as determined by nutritional needs, showing how hunger shapes the sentiments which bind together the members of each social group. By what means is this fundamental biological want fulfilled in a given  environment; and what forms of human activities and social groupings are so derived? (Richards 1932, 23)<sup id="cite_ref-R1932_3-0" class="reference"><a href="#cite_note-R1932-3">&#91;3&#93;</a></sup>
-</p></blockquote>
-<p>Sometimes the line between conceiving of kinship as <i>substance</i> or as <i>nurture</i> is blurred by using both concepts. For example, the substance of food or milk may be conceived as the medium or vehicle through which the nurturing behavior is performed (e.g. Strathern 1973). The notion that it is <i>the nurturing acts themselves</i> that create social ties between people has developed most noticeably since the 1970s:
-</p>
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047036"/><blockquote class="templatequote"><p>The Navajo never mention common substance in finding or invoking kinship ties or norms. Kinship is defined in terms of the acts of giving birth and sharing sustenance. The primary bond in the Navajo kinship system is the mother-child bond, and it is in this bond that the nature and meaning of kinship become clear. In Navajo culture, kinship means intense, diffuse, and enduring solidarity, and this  solidarity  is  realized  in  actions  and  behavior befitting the cultural definitions of kinship solidarity. Just as a mother is one who gives life to her children through birth and sustains their life by providing them with loving care, assistance,  protection,  and  sustenance,  kinsmen  are  those  who  sustain  each other's life by helping one another, protecting one another, and by the giving or sharing of food and other items of subsistence. Where this kind of solidarity exists, kinship exists; where it does not, there is no kinship. (Witherspoon 1975, 21-22) <sup id="cite_ref-W1975_4-0" class="reference"><a href="#cite_note-W1975-4">&#91;4&#93;</a></sup>
-</p></blockquote>
-<p>The term "nurture kinship" may have been first used in the present context by Watson (1983),<sup id="cite_ref-W1983_5-0" class="reference"><a href="#cite_note-W1983-5">&#91;5&#93;</a></sup> who contrasted it with "nature kinship" (kinship concepts built upon shared substance of some kind). Since the 1970s, an increasing number of <a href="/wiki/Ethnography" title="Ethnography">ethnographies</a> have documented the extent to which social ties in various cultures can be understood to be built upon nurturant acts.<sup id="cite_ref-SBNK_6-0" class="reference"><a href="#cite_note-SBNK-6">&#91;6&#93;</a></sup>
-</p>
-<h2><span class="mw-headline" id="Ethnographic_examples">Ethnographic examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nurture_kinship&amp;action=edit&amp;section=2" title="Edit section: Ethnographic examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Marshall on the <a href="/wiki/Chuukese_people" title="Chuukese people">Truk</a> (now known as the Chuuk) of <a href="/wiki/Micronesia" title="Micronesia">Micronesia</a>:
-</p>
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047036"/><blockquote class="templatequote"><p>All sibling relationships – natural or created – involve the height of sharing and "feelings of strong sentimental attachment." … In Trukese kinship, actions speak louder than words; ttong must be demonstrated by nurturant acts. Trukese kinship pivots on the fulcrum of nurturance, a fact partially understood by Ruth Goodenough (1970:331) who noted the "intense concentration on problems of nurture – taking care of and being cared for by others" in GTS. Nurture is the nature of Trukese kinship. (Marshall 1977, 656)<sup id="cite_ref-M1977_7-0" class="reference"><a href="#cite_note-M1977-7">&#91;7&#93;</a></sup>
-</p></blockquote>
-<p>Gow on the <a href="/wiki/Mashco-Piro_people" class="mw-redirect" title="Mashco-Piro people">Piro</a> of <a href="/wiki/Amazon_rainforest" title="Amazon rainforest">Amazonia</a>:
-</p>
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047036"/><blockquote class="templatequote"><p>As a child begins to eat real  food, and to walk and eventually to talk, its relationship to its parents changes from one in which the parents take care that their physical connection to the body of the child does not harm it, into one in which gifts of food, given out of love for the child, evoke the child's love for its parents and other kin. Older siblings are very important here. From birth, the baby is frequently picked up and held (marcar, "to hold in the arms") by its older brothers and sisters. As it learns to walk and talk, its closest physical ties are with such  siblings,  for  they  are  its  constant  companions  and  they  eat  and  sleep together. Such intimate ties with siblings replace the earlier one with parents as the child grows. (Gow, 1991, 157)<sup id="cite_ref-G1991_8-0" class="reference"><a href="#cite_note-G1991-8">&#91;8&#93;</a></sup>
-</p></blockquote>
-<p>Thomas on the Temanambondro of <a href="/wiki/Madagascar" title="Madagascar">Madagascar</a>:
-</p>
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047036"/><blockquote class="templatequote"><p>Yet just  as  fathers  are  not  simply  made  by  birth,  neither  are  mothers,  and although mothers  are  not  made  by  "custom" they,  like  fathers,  can make themselves  through  another  type  of  performatively  constituted  relation,  the giving of "nurture". Relations of ancestry are particularly important in contexts of ritual,  inheritance and  the  defining  of marriageability  and  incest;  they  are  in effect  the  "structuring  structures" (Bourdieu  1977)  of  social reproduction  and intergenerational continuity.  Father, mother and children are, however,  also performatively related through the giving and receiving of "nurture" (fitezana). Like ancestry, relations of "nurture" do not always coincide with relations by birth; but unlike ancestry, "nurture" is a largely ungendered relation, constituted in contexts of everyday practical existence, in the intimate, familial and familiar world of the household, and in ongoing relations of work and consumption, of feeding and farming. (Thomas 1999, 37)<sup id="cite_ref-T1999_9-0" class="reference"><a href="#cite_note-T1999-9">&#91;9&#93;</a></sup>
-</p></blockquote>
-<p><br />
-Storrie on the Hoti of <a href="/wiki/Guayana_Region" class="mw-redirect" title="Guayana Region">Venezuelan Guiana</a>:
-</p>
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047036"/><blockquote class="templatequote"><p>It was my Hoti friends who, through their rejection of my expectations that I would be able to "collect" genealogical information, brought me to the idea that dwelling together and particularly the notions of consumption and ingestion are, for them, fundamental to social identity. Whenever I attempted to discover if there were ideas of genealogical relatedness between kin, I was told that there is nothing that links a parent to their children, or siblings to each other, apart from the bonds of affection and sentiment that they feel for each other. In other words, there is  nothing more to "relatedness" than  those  things  that link "all people" together. (Storrie 2003, 420)<sup id="cite_ref-S2003_10-0" class="reference"><a href="#cite_note-S2003-10">&#91;10&#93;</a></sup>
-</p></blockquote>
-<p>Viegas on a Bahian Amerindian Community in <a href="/wiki/Brazil" title="Brazil">Brazil</a>:
-</p>
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047036"/><blockquote class="templatequote"><p>Adults  who  early  in  their  lives  had  been taken to become raised children [fostered] state clearly  that  the  situation  had  never  displeased  them. They maintain that they belong to the woman who cared for or raised them, and it is to her that they want their children to become attached. Although they recognise who their <i>pais legítimos</i> are, it is those who have cared for a person for a longer period of their childhood that are considered mother and father. It is in this sense that  kinship is constituted  as  memory of  being  related through  caring  and feeding, along the lines developed in large part by Peter Gow and within other South Amerindian contexts. (de Matos Viegas 2003, 32)<sup id="cite_ref-V2003_11-0" class="reference"><a href="#cite_note-V2003-11">&#91;11&#93;</a></sup>
-</p></blockquote>
-<p><br />
-</p>
-<h2><span class="mw-headline" id="Link_with_attachment_theory">Link with attachment theory</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nurture_kinship&amp;action=edit&amp;section=3" title="Edit section: Link with attachment theory">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Attachment_theory" title="Attachment theory">Attachment theory</a></div>
-<p>It can be seen from the ethnographies that several anthropologists have found that describing social ties in terms of emotional attachments is appropriate. This has prompted some to suggest that an inter-disciplinary collaboration might be useful:
-</p>
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047036"/><blockquote class="templatequote"><p><a href="/wiki/John_Bowlby" title="John Bowlby">Bowlby</a>  argued  that  <i>attachment behaviour in  humans  and  other  animals  is instinctive</i>, i.e. that evolutionary pressures have selected this psychological trait…. Now: might Bowlby's realist approach – which defines these behaviours as universal and instinctive, which examines their consequences through naturalistic observation, and which stresses their central role in intensifying human relatedness – be a useful starting  point  for  anthropologists?…  Extrapolating  from  the  work  of  Myers  [on emotions],  one  could  make  the  case  that  <i>all</i>  anthropological  discussions  of relatedness – e.g. the accounts by Malinowsky, Mauss, and a great many others of the ways in which gift exchange and reciprocity, or commensality and the sharing of "substance", help to constitute human relatedness – are also by definition, dealing with intractable problems of attachment and separation in social life. (Stafford 2000, 12,24; emphasis in original)<sup id="cite_ref-S2000_12-0" class="reference"><a href="#cite_note-S2000-12">&#91;12&#93;</a></sup>
-</p></blockquote>
-<p>Within the discipline of <a href="/wiki/Psychology" title="Psychology">psychology</a>, the formation of social and emotional ties are treated by attachment theory. Drawing on animal studies from the 1950s onwards, John Bowlby<sup id="cite_ref-B1982_13-0" class="reference"><a href="#cite_note-B1982-13">&#91;13&#93;</a></sup> and colleagues described how—for all primates, including humans—the reliable provision of nurture and care leads to strong bonds of attachment between the carer and cared-for.
-</p>
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047036"/><blockquote class="templatequote"><p>Attachment theorists now suggest that infants are biologically predisposed to emit signals such as tracking visually, crying, smiling, vocalising, clinging, etc., to elicit nurturance and proximity not only to their mother, but also to their father or  any  other  caregiver  (Ainsworth,  Bell  &amp;  Stayton,  1974;  Lamb,  1978b). Consistent and prompt responding to infants' signals leads to infants'  perception of adults as concerned, predictable, and reliable, and to the formation of secure attachment. Mothers, fathers and  other  caregivers,  by  their  different  styles  of responding,  create  a  different  set  of  expectations  and  an  array of  attachment relationships  of  various  qualities  and  flavours  (Bretherton,  1985;  Bridges, Connell &amp; Belsky, 1988; Stroufe, 1988). (Geiger 1996, 6)<sup id="cite_ref-G1996_14-0" class="reference"><a href="#cite_note-G1996-14">&#91;14&#93;</a></sup>
-</p></blockquote>
-<p>Following the nurture kinship approach thus allows a synthesis<sup id="cite_ref-SBNK_6-1" class="reference"><a href="#cite_note-SBNK-6">&#91;6&#93;</a></sup> between the extensive cross-cultural data of ethnographers and the long-standing findings of psychology on the nature of human bonding and emotional ties.
-</p>
-<h2><span class="mw-headline" id="Link_with_evolutionary_biology">Link with evolutionary biology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nurture_kinship&amp;action=edit&amp;section=4" title="Edit section: Link with evolutionary biology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Social_bonding_and_nurture_kinship" class="mw-redirect" title="Social bonding and nurture kinship">Social bonding and nurture kinship</a> and <a href="/wiki/Human_inclusive_fitness" class="mw-redirect" title="Human inclusive fitness">Human inclusive fitness</a></div>
-<p>David Schneider suspected that the traditional anthropological models of <i>blood kinship</i> were not mirrored by the "scientific facts of biology".
-</p>
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047036"/><blockquote class="templatequote"><p>The last few pages of my book, American Kinship, make the point that the biological elements have a symbolic significance. They constitute an integrated set of symbols in the sense that they are a model for how  life, in certain of its aspects, is constituted and should be lived. The symbols are 'biological' in the sense that the culturally given definition of the symbol system is that it is derived from the facts of biology as a process of nature itself. But it is fundamental to our understanding that we appreciate that these biological elements are symbols and that their symbolic referents are not biology as a natural process at all.
-</p><p>It is even a moot question as to whether the symbols derive from the facts of nature and  the facts of biology as these can be determined scientifically. What is indisputable is that the symbols are formed of elements which in native culture are defined as biological, particularly as aspects of the reproductive process. What is disputable is whether they in fact derive from, or mirror, or are models formed after the scientific facts of biology. I do not think that they are, but this subject is best left to another time. (Schneider 1972, 45, 62)<sup id="cite_ref-DS1972_15-0" class="reference"><a href="#cite_note-DS1972-15">&#91;15&#93;</a></sup>
-</p>
-</blockquote>
-<p>Holland subsequently showed<sup id="cite_ref-SBNK_6-2" class="reference"><a href="#cite_note-SBNK-6">&#91;6&#93;</a></sup> that Schneider's intuition in regard to the 'scientific facts' was correct. In <a href="/wiki/Evolutionary_biology" title="Evolutionary biology">evolutionary biology</a>, the theory treating the evolution of social cooperation emerged in a formal version in the 1960s and 1970s in the form of <a href="/wiki/Inclusive_fitness" title="Inclusive fitness">inclusive fitness</a> theory, and a related theory, <a href="/wiki/Kin_selection" title="Kin selection">kin selection</a>. The theory specifies that one criterion for the evolution of certain kinds of social traits is a statistical association of identical genes, as would exist when close genetic relatives associate with one another. Early applications of the theory applied to humans (<a href="/wiki/Darwinian_anthropology" title="Darwinian anthropology">darwinian anthropology</a>) took as their starting position the former anthropological perspective that human kinship is fundamentally "based on" blood-ties. However, these extensions emerged at precisely the time that anthropology was reflexively critiquing this "blood" assumption behind traditional kinship theorizing. This reversion to "blood" led some anthropologists to strongly attack the emerging biological perspectives as suffering the same ethnocentric assumptions (e.g., "blood is thicker than water") that the anthropologists themselves had recently eschewed.
-</p><p>This clash of perspectives led to something of a stand-off and a lack of communication between the disciplines, resulting in little cooperation and progress for three decades. The stand-off was resolved by Holland's <a href="/wiki/Social_Bonding_and_Nurture_Kinship" title="Social Bonding and Nurture Kinship">Social Bonding and Nurture Kinship</a><sup id="cite_ref-SBNK_6-3" class="reference"><a href="#cite_note-SBNK-6">&#91;6&#93;</a></sup> which re-visited biological inclusive fitness theory to draw a distinction between the statistical evolutionary mechanisms for the emergence of social traits and the non-deterministic proximate mechanisms through which they are expressed. In a strict interpretation of the theory, a statistical association of related genes (as would be present in the interactions of close genetic relatives) is understood as a necessary (though not sufficient) condition for the evolutionary emergence of certain traits relating to social cooperation (see <a href="/wiki/Kin_selection" title="Kin selection">kin selection</a>). However, this does not entail that the proximate mechanisms governing the <i>expression</i> of such social traits in primates and humans necessarily depends on (or are determined by) conditions of genetic relatedness <i>per se</i>. For the vast majority of social mammals—including primates and humans—the formation of social bonds (and the resulting social cooperation) are based on familiarity from an early developmental stage, and the same kinds of mechanisms that attachment theorists (see above) have outlined. In short, in humans and in other primates, genetic relatedness is not necessary for the attachment bonds to develop, and it is the performance of nurture that underlies such bonds and the enduring social cooperation that typically accompanies them (see <a href="/wiki/Social_Bonding_and_Nurture_Kinship" title="Social Bonding and Nurture Kinship">Social Bonding and Nurture Kinship</a>).
-Therefore, the nurture kinship perspective leads to the synthesis of evolutionary biology, psychology, and socio-cultural anthropology on the topic of social bonding and cooperation, without <a href="/wiki/Reductionism" title="Reductionism">reductionism</a> or positing a deterministic role to genes or genetic relatedness in the mechanisms through which <a href="/wiki/Social_behavior" title="Social behavior">social behaviors</a> are expressed.
-</p>
-<h2><span class="mw-headline" id="Alternative_perspectives_and_critiques">Alternative perspectives and critiques</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nurture_kinship&amp;action=edit&amp;section=5" title="Edit section: Alternative perspectives and critiques">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>In all of the above examples that are argued to support the 'nurture kinship' perspective, alternative interpretations may be equally persuasive or more insightful. In many such small communities, which may be isolated (such as the ones of the Chuuk of Micronesia), the relatedness between members of a group is to be assumed. This may also be the case for an amerindian tribe, (such as the Hoti of Guyana, and the Bahian Amerindians). So it can be argued that those bonds of affection are what naturally link parents to children exactly because of their existing relatedness.
-</p><p>In many of these cases, even if 'symbolic valuation' (and explicit recognition) of blood is not present, most of the time nurturing may anyway be concentrated between (blood) siblings (e.g. the Piro of Amazonia). In the case of the Temanambondro of Madagascar, as in the above case of the Navajo, nurturing is a complementary element of kin-familial and social life and not an antithesis of it. Likewise, in the Bahain Amerindian (Brazil) case of fostering, the recognition of their legitimate parents does not cease to be made, and it is not rejected. Such attachment is only seen, however, in the perspective of the offspring, rather than in the one of the progenitors.
-</p><p>These samples show common elements between them but also with cases in other, including Western civilizacional (where milk or breastfeeding siblings and exposed children were common for centuries), similar cases where children are not able to be nurtured by their own birth parents but are nurtured by someone else, but they do not say in themselves that parents in general are not attached, in normal conditions, to their offspring, or if that is a common situation.
-</p><p>It should also be noted that these ethnographic examples correspond to a small minority of the World's population. In many cultures, people often value and even pay respect to deceased ancestors they never met, as well as a beloved parent they don't know without being his or her fault. Also, feelings towards relatives should be seen as a more personal and individual issue and particular circumstances be hold into account instead of a common whole-group mentality. Situations where the bond between kindred is broken are also the exception rather than the rule.
-</p><p>Overall the 'nurture kinship' perspective does not necessarily mean that human non-blood relationships such as the relationships based on nurturing are more important than the ones based on blood-kinship, since their motivation is also related to one's survival and perpetuation, or that people are necessarily bond to the culture they are inserted in, nor can it be generalized to the point of claiming all individuals always undervalue blood-kinship in the absence of nurturing. <a href="/wiki/Herbert_Gintis" title="Herbert Gintis">Herbert Gintis</a>, in his review of the book <i><a href="/wiki/Sex_at_Dawn" title="Sex at Dawn">Sex at Dawn</a></i>, critiques the idea that human males were unconcerned with parentage, "which would make us unlike any other species I can think of".<sup id="cite_ref-gintis_16-0" class="reference"><a href="#cite_note-gintis-16">&#91;16&#93;</a></sup>
-</p><p>Therefore, the nurture kinship perspective enables common ground between evolutionary biology, psychology, and socio-cultural anthropology on the topic of social bonding and cooperation, without <a href="/wiki/Reductionism" title="Reductionism">reductionism</a> or positing a deterministic role to genes or genetic relatedness in the mechanisms through which <a href="/wiki/Social_behavior" title="Social behavior">social behaviors</a> are expressed.
-</p>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nurture_kinship&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Attachment_theory" title="Attachment theory">Attachment theory</a></li>
-<li><a href="/wiki/Fictive_kinship" title="Fictive kinship">Fictive kinship</a></li>
-<li><a href="/wiki/Human_inclusive_fitness" class="mw-redirect" title="Human inclusive fitness">Human inclusive fitness</a></li>
-<li><a href="/wiki/Inclusive_fitness" title="Inclusive fitness">Inclusive fitness</a></li>
-<li><a href="/wiki/Kin_recognition" title="Kin recognition">Kin recognition</a></li>
-<li><a href="/wiki/Kin_selection" title="Kin selection">Kin selection</a></li>
-<li><a href="/wiki/Kinship" title="Kinship">Kinship</a></li>
-<li><a href="/wiki/Milk_kinship" title="Milk kinship">Milk kinship</a></li>
-<li><a href="/wiki/Rada_(fiqh)" title="Rada (fiqh)">Rada (fiqh)</a></li>
-<li><a href="/wiki/Social_bonding_and_nurture_kinship" class="mw-redirect" title="Social bonding and nurture kinship">Social bonding and nurture kinship</a></li></ul>
-<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nurture_kinship&amp;action=edit&amp;section=7" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="reflist" style="list-style-type: decimal;">
-<div class="mw-references-wrap mw-references-columns"><ol class="references">
-<li id="cite_note-S1984-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-S1984_1-0">^</a></b></span> <span class="reference-text">Schneider, D. (1984) <i>A Critique of the Study of Kinship</i>. Ann Arbor: University of Michigan Press.</span>
+<ul><li><a href="/wiki/Grant_Balfour" title="Grant Balfour">Grant Balfour</a>, baseball pitcher<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup></li>
+<li><a href="/wiki/Frank_Beard_(musician)" title="Frank Beard (musician)">Frank Beard</a>, an American musician who, until recently, was the only member of rock band <a href="/wiki/ZZ_Top" title="ZZ Top">ZZ Top</a> without a beard<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup></li>
+<li><a href="/wiki/Don_Black_(white_supremacist)" title="Don Black (white supremacist)">Don Black</a>, <a href="/wiki/White_supremacy" title="White supremacy">white supremacist</a><sup id="cite_ref-guardian_4-3" class="reference"><a href="#cite_note-guardian-4">&#91;4&#93;</a></sup></li>
+<li><a href="/wiki/Peter_Bowler_(cricketer)" title="Peter Bowler (cricketer)">Peter Bowler</a>, <a href="/wiki/Cricket" title="Cricket">cricketer</a> (in fact, primarily a <a href="/wiki/Batsman" class="mw-redirect" title="Batsman">batsman</a>)<sup id="cite_ref-guardian_4-4" class="reference"><a href="#cite_note-guardian-4">&#91;4&#93;</a></sup></li>
+<li><a href="/wiki/Samuel_Foote" title="Samuel Foote">Samuel Foote</a>, a comic actor who lost a leg in a horseriding accident in 1766, and made jokes on stage about "Foote and leg, and leg and foot"<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup></li>
+<li>Robin Mahfood, President and CEO of <a href="/wiki/Food_for_the_Poor" title="Food for the Poor">Food for the Poor</a><sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup></li>
+<li><a href="/wiki/Larry_Playfair" title="Larry Playfair">Larry Playfair</a>, <a href="/wiki/NHL" class="mw-redirect" title="NHL">NHL</a> defenseman known for his <a href="/wiki/Fighting_in_ice_hockey" title="Fighting in ice hockey">fighting</a><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup></li>
+<li><a href="/wiki/Jaime_Sin" title="Jaime Sin">Jaime Sin</a> who in 1976 was made a <a href="/wiki/Cardinal_(Catholicism)" class="mw-redirect" title="Cardinal (Catholicism)">cardinal</a> by <a href="/wiki/Pope_Paul_VI" title="Pope Paul VI">Pope Paul VI</a>, thus becoming known as "<a href="/wiki/Seven_deadly_sins" title="Seven deadly sins">Cardinal Sin</a>"<sup id="cite_ref-guardian_4-5" class="reference"><a href="#cite_note-guardian-4">&#91;4&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aptronym&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/-onym" title="-onym">-onym</a></li>
+<li><a href="/wiki/Nominative_determinism" title="Nominative determinism">Nominative determinism</a>, the theory that a person's name can have a significant role in determining key aspects of their job, profession or even character</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aptronym&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia"><a rel="nofollow" class="external text" href="http://www.britannica.com/EBchecked/topic/30911/aptronym">"aptronym"</a>. <i>Encyclopædia Britannica</i> (Encyclopædia Britannica Online ed.). Encyclopædia Britannica, Inc. 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">19 July</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=aptronym&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.edition=Encyclop%C3%A6dia+Britannica+Online&amp;rft.pub=Encyclop%C3%A6dia+Britannica%2C+Inc.&amp;rft.date=2008&amp;rft_id=http%3A%2F%2Fwww.britannica.com%2FEBchecked%2Ftopic%2F30911%2Faptronym&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
 </li>
-<li id="cite_note-RS1889-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-RS1889_2-0">^</a></b></span> <span class="reference-text">Roberson Smith, William. (1889) <i>Lectures on the Religion of the Semites</i>. London: Black.</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Dickson, Paul (1996). <span class="cs1-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/whatsinnamerefle00dick"><i>What's in a Name? Reflections of an Irrepressible Name Collector</i></a></span>. Springfield, Mass.: Merriam-Webster. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-87779-613-0" title="Special:BookSources/0-87779-613-0"><bdi>0-87779-613-0</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=What%27s+in+a+Name%3F+Reflections+of+an+Irrepressible+Name+Collector&amp;rft.place=Springfield%2C+Mass.&amp;rft.pub=Merriam-Webster&amp;rft.date=1996&amp;rft.isbn=0-87779-613-0&amp;rft.aulast=Dickson&amp;rft.aufirst=Paul&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fwhatsinnamerefle00dick&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-R1932-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-R1932_3-0">^</a></b></span> <span class="reference-text">Richards, A.I (1932) <i>Hunger and Work in a Savage Tribe: A functional study of Nutrition among the Southern Bantu</i>. London: G. Routledge and sons.</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/today/hi/today/newsid_9664000/9664697.stm">"When the name fits the job"</a> BBC. Retrieved 26 July 2013.</span>
 </li>
-<li id="cite_note-W1975-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-W1975_4-0">^</a></b></span> <span class="reference-text">Witherspoon, Gary. (1975) <i>Navajo kinship and marriage</i>. Chicago: University of Chicago Press.</span>
+<li id="cite_note-guardian-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-guardian_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-guardian_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-guardian_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-guardian_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-guardian_4-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-guardian_4-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Nunn, Gary. <a rel="nofollow" class="external text" href="https://www.theguardian.com/media/mind-your-language/2014/oct/31/mind-your-language-nominative-determinism">"Reckless by name, reckless by nature? (But at least he's not called Rich White)"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Reckless+by+name%2C+reckless+by+nature%3F+%28But+at+least+he%27s+not+called+Rich+White%29&amp;rft.aulast=Nunn&amp;rft.aufirst=Gary&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2Fmind-your-language%2F2014%2Foct%2F31%2Fmind-your-language-nominative-determinism&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-W1983-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-W1983_5-0">^</a></b></span> <span class="reference-text">Watson, J. (1983) <i>Tairora culture: Contingency and pragmatism</i>.Seattle: University of Washington Press.</span>
+<li id="cite_note-macmillan-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-macmillan_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-macmillan_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-macmillan_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-macmillan_5-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Maxwell, Kerry (4 March 2008). <a rel="nofollow" class="external text" href="http://www.macmillandictionary.com/buzzword/entries/aptronym.html">"BuzzWord: Aptronym"</a>. <i>MacMillan Dictionary</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MacMillan+Dictionary&amp;rft.atitle=BuzzWord%3A+Aptronym&amp;rft.date=2008-03-04&amp;rft.aulast=Maxwell&amp;rft.aufirst=Kerry&amp;rft_id=http%3A%2F%2Fwww.macmillandictionary.com%2Fbuzzword%2Fentries%2Faptronym.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-SBNK-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-SBNK_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SBNK_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-SBNK_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-SBNK_6-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Holland, Maximilian. (2012) <a href="/wiki/Social_Bonding_and_Nurture_Kinship" title="Social Bonding and Nurture Kinship"><i>Social Bonding and Nurture Kinship: Compatibility between Cultural and Biological Approaches</i></a>. North Charleston: Createspace Press.</span>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news">Holley, Shawn. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=Hus7DwAAQBAJ&amp;pg=PP28&amp;dq=lance+bass+aptronym#v=onepage&amp;q=lance%20bass%20aptronym">"20 20 Smart Lists"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=20+20+Smart+Lists&amp;rft.aulast=Holley&amp;rft.aufirst=Shawn&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DHus7DwAAQBAJ%26pg%3DPP28%26dq%3Dlance%2Bbass%2Baptronym%23v%3Donepage%26q%3Dlance%2520bass%2520aptronym&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-M1977-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-M1977_7-0">^</a></b></span> <span class="reference-text">Marshall, Mac. (1977) <i>The Nature of Nurture</i>. American Ethnologist 4 (4):643-662.</span>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">Nordquist, Richard. <a rel="nofollow" class="external text" href="https://www.thoughtco.com/what-is-aptronym-names-1689129">"Aptronym - Definitions and Examples in English"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Aptronym+-+Definitions+and+Examples+in+English&amp;rft.aulast=Nordquist&amp;rft.aufirst=Richard&amp;rft_id=https%3A%2F%2Fwww.thoughtco.com%2Fwhat-is-aptronym-names-1689129&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-G1991-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-G1991_8-0">^</a></b></span> <span class="reference-text">Gow, Peter (1991)<i>Of mixed blood: kinship and history in Peruvian Amazonia</i>. Oxford: Clarendon Press.</span>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">Lyn Pesce, Nicole (22 February 2019). <a rel="nofollow" class="external text" href="https://www.marketwatch.com/story/doug-bowser-and-other-people-whose-names-perfectly-fit-their-jobs-2019-02-22">"Doug Bowser &amp; Other People Whose Names Perfectly Fit Their Jobs"</a>. <i>Marketwatch.com 17 October 2019</i>. <q>Some people seem born into their professions. <p>Take Doug Bowser, the incoming president of Nintendo of America, whose surname is the same as one of the videogame company’s most recognizable villains. Bowser, after all, is the evil turtle-dragon hybrid that plucky plumbers Mario and Luigi have to keep rescuing the princess from.<span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Marketwatch.com+17+October+2019&amp;rft.atitle=Doug+Bowser+%26+Other+People+Whose+Names+Perfectly+Fit+Their+Jobs&amp;rft.date=2019-02-22&amp;rft.aulast=Lyn+Pesce&amp;rft.aufirst=Nicole&amp;rft_id=https%3A%2F%2Fwww.marketwatch.com%2Fstory%2Fdoug-bowser-and-other-people-whose-names-perfectly-fit-their-jobs-2019-02-22&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+</p></q></cite></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation book">Christian, Brian (2011). <a rel="nofollow" class="external text" href="https://books.google.lu/books?id=tnxQCgAAQBAJ&amp;pg=PT37&amp;lpg=PT37&amp;dq=early+wynn+aptronym&amp;source=bl&amp;ots=MpeUoIfYZn&amp;sig=ACfU3U0RLq9YQZILH5faMxOZJwdwJDH-ag&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwih_9us86LgAhViRxUIHZ-ADQkQ6AEwDnoECAIQAQ#v=onepage&amp;q=early%20wynn%20aptronym&amp;f=false"><i>The Most Human Human: What Artificial Intelligence Teaches Us About Being Alive</i></a>. DoubledayC.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Most+Human+Human%3A+What+Artificial+Intelligence+Teaches+Us+About+Being+Alive&amp;rft.pub=DoubledayC&amp;rft.date=2011&amp;rft.au=Christian%2C+Brian&amp;rft_id=https%3A%2F%2Fbooks.google.lu%2Fbooks%3Fid%3DtnxQCgAAQBAJ%26pg%3DPT37%26lpg%3DPT37%26dq%3Dearly%2Bwynn%2Baptronym%26source%3Dbl%26ots%3DMpeUoIfYZn%26sig%3DACfU3U0RLq9YQZILH5faMxOZJwdwJDH-ag%26hl%3Den%26sa%3DX%26ved%3D2ahUKEwih_9us86LgAhViRxUIHZ-ADQkQ6AEwDnoECAIQAQ%23v%3Donepage%26q%3Dearly%2520wynn%2520aptronym%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-T1999-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-T1999_9-0">^</a></b></span> <span class="reference-text">Thomas, Philip. (1999) <i>No substance, no kinship? Procreation, Performativity and Temanambondro parent/child relations</i>. In <i>Conceiving persons: ethnographies of procreation, fertility, and growth</i> edited by P. Loizos and P. Heady. New Brunswick, NJ: Athlone Press.</span>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news">Berman, Laura (6 September 2017). <a rel="nofollow" class="external text" href="https://www.thestreet.com/story/14295568/1/starbucks-adds-fittingly-named-rosalind-brewer-sam-s-club-veteran-as-coo.html">"Starbucks Adds Fittingly Named Rosalind Brewer, Sam's Club Veteran, as COO"</a>. <i>The Street</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 September</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Street&amp;rft.atitle=Starbucks+Adds+Fittingly+Named+Rosalind+Brewer%2C+Sam%27s+Club+Veteran%2C+as+COO&amp;rft.date=2017-09-06&amp;rft.aulast=Berman&amp;rft.aufirst=Laura&amp;rft_id=https%3A%2F%2Fwww.thestreet.com%2Fstory%2F14295568%2F1%2Fstarbucks-adds-fittingly-named-rosalind-brewer-sam-s-club-veteran-as-coo.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-S2003-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-S2003_10-0">^</a></b></span> <span class="reference-text">Storrie, Robert. (2003) <i>Equivalence, personhood and relationality: Processes of relatedness among the Hoti of Venezuelan Guiana</i>. Journal of the Royal Anthropological Institute 9 (3):407-428.</span>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web">Noah, Timothy (17 May 2006). <a rel="nofollow" class="external text" href="http://www.slate.com/articles/news_and_politics/chatterbox/2006/05/wayne_schmuck_usedcar_distributor.html">"Wayne Schmuck, Used-Car Distributor"</a>. <i>Slate</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 September</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Slate&amp;rft.atitle=Wayne+Schmuck%2C+Used-Car+Distributor&amp;rft.date=2006-05-17&amp;rft.aulast=Noah&amp;rft.aufirst=Timothy&amp;rft_id=http%3A%2F%2Fwww.slate.com%2Farticles%2Fnews_and_politics%2Fchatterbox%2F2006%2F05%2Fwayne_schmuck_usedcar_distributor.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-V2003-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-V2003_11-0">^</a></b></span> <span class="reference-text">Viegas, S. D. (2003) <i>Eating with your favourite mother: Time and sociality in a Brazilian Amerindian community</i>. Journal of the Royal Anthropological Institute 9 (1):21-37.</span>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news">Haberman, Clyde (1 September 2011). <a rel="nofollow" class="external text" href="https://cityroom.blogs.nytimes.com/2011/09/01/when-a-persons-name-means-what-it-says/">"<span class="cs1-kern-left">"</span>When a Person's Name Means What It Says<span class="cs1-kern-right">"</span>"</a>. <i>New York Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 December</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=New+York+Times&amp;rft.atitle=%22When+a+Person%27s+Name+Means+What+It+Says%22&amp;rft.date=2011-09-01&amp;rft.aulast=Haberman&amp;rft.aufirst=Clyde&amp;rft_id=https%3A%2F%2Fcityroom.blogs.nytimes.com%2F2011%2F09%2F01%2Fwhen-a-persons-name-means-what-it-says%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-S2000-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-S2000_12-0">^</a></b></span> <span class="reference-text">Stafford, C. (2000) <i>Separation and reunion in modern China</i>. Cambridge: Cambridge University Press.</span>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation book">Wilton, David (2008). <a rel="nofollow" class="external text" href="https://books.google.ca/books?id=QQovEeLHVl0C&amp;pg=PA137"><i>Word Myths: Debunking Linguistic Urban Legends</i></a>. Oxford University Press. p.&#160;137.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Word+Myths%3A+Debunking+Linguistic+Urban+Legends&amp;rft.pages=137&amp;rft.pub=Oxford+University+Press&amp;rft.date=2008&amp;rft.au=Wilton%2C+David&amp;rft_id=https%3A%2F%2Fbooks.google.ca%2Fbooks%3Fid%3DQQovEeLHVl0C%26pg%3DPA137&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-B1982-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-B1982_13-0">^</a></b></span> <span class="reference-text">Bowlby, J. (1982) <i>Attachment</i>, 2nd edition. Vol. 1. London: Hogarth.</span>
+<li id="cite_note-Politico-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Politico_14-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Topaz, Jonathan (24 June 2014). <a rel="nofollow" class="external text" href="http://www.politico.com/story/2014/06/jay-carney-stephen-colbert-quitter-comedy-central-108107.html">"Stephen Colbert to 'quitter' Jay Carney: Man up!"</a>. <i><a href="/wiki/Politico" title="Politico">Politico</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">17 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Politico&amp;rft.atitle=Stephen+Colbert+to+%27quitter%27+Jay+Carney%3A+Man+up%21&amp;rft.date=2014-06-24&amp;rft.aulast=Topaz&amp;rft.aufirst=Jonathan&amp;rft_id=http%3A%2F%2Fwww.politico.com%2Fstory%2F2014%2F06%2Fjay-carney-stephen-colbert-quitter-comedy-central-108107.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-G1996-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-G1996_14-0">^</a></b></span> <span class="reference-text">Geiger, Brenda. (1996) <i>Fathers as Primary Caregivers</i>. London: Greenwood Press.</span>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web">Love, Jordan. <a rel="nofollow" class="external text" href="https://www.ranker.com/list/famous-people-with-literal-names/jordan-love">"Famous People with Literal Names"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Famous+People+with+Literal+Names&amp;rft.aulast=Love&amp;rft.aufirst=Jordan&amp;rft_id=https%3A%2F%2Fwww.ranker.com%2Flist%2Ffamous-people-with-literal-names%2Fjordan-love&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-DS1972-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-DS1972_15-0">^</a></b></span> <span class="reference-text">Schneider, David. 1972. <i>What is Kinship all About.</i> In  Kinship Studies in the Morgan Centennial Year, edited by P. Reining. Washington: Anthropological Society of Washington.</span>
+<li id="cite_note-slate-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-slate_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-slate_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Johnson, Theodore R. (14 March 2016). <a rel="nofollow" class="external text" href="http://www.slate.com/blogs/lexicon_valley/2016/03/14/how_trump_s_name_is_an_aptronym.html">"Do Our Names Shape Our Destinies? Trump's Might"</a>. <i>Slate</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Slate&amp;rft.atitle=Do+Our+Names+Shape+Our+Destinies%3F+Trump%27s+Might.&amp;rft.date=2016-03-14&amp;rft.aulast=Johnson&amp;rft.aufirst=Theodore+R.&amp;rft_id=http%3A%2F%2Fwww.slate.com%2Fblogs%2Flexicon_valley%2F2016%2F03%2F14%2Fhow_trump_s_name_is_an_aptronym.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-gintis-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-gintis_16-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Gintis, Herbert. <a rel="nofollow" class="external text" href="http://smile.amazon.com/review/RKVMPRH1FYL2T/ref=cm_cr_dp_cmt?ie=UTF8&amp;ASIN=0061707805&amp;nodeID=283155&amp;store=books#wasThisHelpful">"Much that is True, but Remember: Is does not Imply Ought,"</a>. <i>Amazon.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">6 August</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Amazon.com&amp;rft.atitle=Much+that+is+True%2C+but+Remember%3A+Is+does+not+Imply+Ought%2C&amp;rft.aulast=Gintis&amp;rft.aufirst=Herbert&amp;rft_id=http%3A%2F%2Fsmile.amazon.com%2Freview%2FRKVMPRH1FYL2T%2Fref%3Dcm_cr_dp_cmt%3Fie%3DUTF8%26ASIN%3D0061707805%26nodeID%3D283155%26store%3Dbooks%23wasThisHelpful&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANurture+kinship" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation news">Wiseman, Lauren (23 October 2008). <a rel="nofollow" class="external text" href="https://www.chicagotribune.com/news/ct-xpm-2008-10-23-0810220805-story.html">"WILLIAM HEADLINE: 1931 - 2008"</a>. <i>The Chicago Tribune</i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 September</span> 2019</span>. <q>CNN anchor Wolf Blitzer said Mr. Headline was 'a decent person who understood the problems that journalists have and dealt with them in a compassionate way. As we used to say it, the best name in news.'...  ...Mr. Headline, whose fitting name was Americanized by a Swedish ancestor, was born in Cleveland and raised in East Aurora, N.Y.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Chicago+Tribune&amp;rft.atitle=WILLIAM+HEADLINE%3A+1931+-+2008&amp;rft.date=2008-10-23&amp;rft.aulast=Wiseman&amp;rft.aufirst=Lauren&amp;rft_id=https%3A%2F%2Fwww.chicagotribune.com%2Fnews%2Fct-xpm-2008-10-23-0810220805-story.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-</ol></div></div>
-<div role="navigation" class="navbox" aria-labelledby="Close_plural_relationships" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Close_plural_relationships" title="Template:Close plural relationships"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Close_plural_relationships" title="Template talk:Close plural relationships"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Close_plural_relationships&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Close_plural_relationships" style="font-size:114%;margin:0 4em">Close plural relationships</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">By type</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Bigamy" title="Bigamy">Bigamy</a></li>
-<li><a href="/wiki/Group_marriage" title="Group marriage">Group marriage</a></li>
-<li><a href="/wiki/Open_marriage" title="Open marriage">Open marriage</a></li>
-<li><a href="/wiki/Open_relationship" title="Open relationship">Open relationship</a></li>
-<li><a href="/wiki/Polyamory" title="Polyamory">Polyamory</a></li>
-<li><a href="/wiki/Polyandry" title="Polyandry">Polyandry</a></li>
-<li><a href="/wiki/Polyfidelity" title="Polyfidelity">Polyfidelity</a></li>
-<li><a href="/wiki/Polygamy" title="Polygamy">Polygamy</a></li>
-<li><a href="/wiki/Polygynandry" title="Polygynandry">Polygynandry</a></li>
-<li><a href="/wiki/Polygyny" title="Polygyny">Polygyny</a></li>
-<li><a href="/wiki/Relationship_anarchy" title="Relationship anarchy">Relationship anarchy</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">History and Culture</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Combined_marriage" title="Combined marriage">Combined marriage</a></li>
-<li><a href="/wiki/Polygamy_in_Christianity" title="Polygamy in Christianity">Polygamy in Christianity</a></li>
-<li><a href="/wiki/Polygamy_in_North_America" title="Polygamy in North America">Polygamy in North America</a></li>
-<li><a href="/wiki/Polygyny_in_Islam" title="Polygyny in Islam">Polygyny in Islam</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Mormonism_and_polygamy" title="Mormonism and polygamy">LDS</a>/<a href="/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints" title="Fundamentalist Church of Jesus Christ of Latter-Day Saints">FLDS</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Origin_of_Latter_Day_Saint_polygamy" title="Origin of Latter Day Saint polygamy">Origin</a></li>
-<li><a href="/wiki/Current_state_of_polygamy_in_the_Latter_Day_Saint_movement" title="Current state of polygamy in the Latter Day Saint movement">Current state</a></li>
-<li><a href="/wiki/List_of_Latter_Day_Saint_practitioners_of_plural_marriage" title="List of Latter Day Saint practitioners of plural marriage">List of practitioners</a></li>
-<li><a href="/wiki/Celestial_marriage" title="Celestial marriage">Celestial marriage</a></li>
-<li><a href="/wiki/Sealing_(Mormonism)" title="Sealing (Mormonism)">Sealing</a></li>
-<li><a href="/wiki/Spiritual_wifery" title="Spiritual wifery">Spiritual wifery</a></li>
-<li><a href="/wiki/Placement_marriage" title="Placement marriage">Placement marriage</a></li>
-<li><a href="/wiki/Lost_boys_(Mormon_fundamentalism)" title="Lost boys (Mormon fundamentalism)">Lost boys</a></li>
-<li><a href="/wiki/Polygamy_czar" title="Polygamy czar">Polygamy czar</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Terms</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Polyamory#Compersion" title="Polyamory">Compersion</a></li>
-<li><a href="/wiki/New_relationship_energy" title="New relationship energy">New relationship energy</a></li>
-<li><a href="/wiki/Primary_and_secondary_(polyamory)" title="Primary and secondary (polyamory)">Primary and secondary</a></li>
-<li><a href="/wiki/Terminology_within_polyamory" title="Terminology within polyamory">Terminology within polyamory</a></li>
-<li><a href="/wiki/Values_within_polyamory" title="Values within polyamory">Values within polyamory</a></li></ul>
-</div></td></tr></tbody></table></div>
-<div role="navigation" class="navbox" aria-labelledby="Family" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Family" title="Template:Family"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Family" title="Template talk:Family"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Family&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Family" style="font-size:114%;margin:0 4em"><a href="/wiki/Family" title="Family">Family</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_History&amp;#10;*_Household&amp;#10;*_Nuclear_family&amp;#10;*_Extended_family&amp;#10;*_Conjugal_family&amp;#10;*_Immediate_family&amp;#10;*_Matrifocal_family&amp;#10;*_Stepfamily&amp;#10;*_Dysfunctional_family&amp;#10;*_Polyfidelitous_families">
-<ul><li><a href="/wiki/History_of_the_family" title="History of the family">History</a></li>
-<li><a href="/wiki/Household" title="Household">Household</a></li>
-<li><a href="/wiki/Nuclear_family" title="Nuclear family">Nuclear family</a></li>
-<li><a href="/wiki/Extended_family" title="Extended family">Extended family</a></li>
-<li><a href="/wiki/Conjugal_family" title="Conjugal family">Conjugal family</a></li>
-<li><a href="/wiki/Immediate_family" title="Immediate family">Immediate family</a></li>
-<li><a href="/wiki/Matrifocal_family" title="Matrifocal family">Matrifocal family</a></li>
-<li><a href="/wiki/Stepfamily" title="Stepfamily">Stepfamily</a></li>
-<li><a href="/wiki/Dysfunctional_family" title="Dysfunctional family">Dysfunctional family</a></li>
-<li><a href="/wiki/Polyfidelity" title="Polyfidelity">Polyfidelitous families</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/First-degree_relatives" title="First-degree relatives">First-degree relatives</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Parent" title="Parent">Parent</a>
-<ul><li><a href="/wiki/Father" title="Father">father</a></li>
-<li><a href="/wiki/Mother" title="Mother">mother</a></li></ul></li>
-<li><a href="/wiki/Child" title="Child">Child</a>
-<ul><li><a href="/wiki/Son" title="Son">son</a></li>
-<li><a href="/wiki/Daughter" title="Daughter">daughter</a></li></ul></li>
-<li><a href="/wiki/Sibling" title="Sibling">Sibling</a>
-<ul><li><a href="/wiki/Brother" title="Brother">brother</a></li>
-<li><a href="/wiki/Sister" title="Sister">sister</a></li></ul></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Second-degree_relative" title="Second-degree relative">Second-degree relatives</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Grandparent" title="Grandparent">Grandparent</a></li>
-<li><a href="/wiki/Grandchild" class="mw-redirect" title="Grandchild">Grandchild</a></li>
-<li><a href="/wiki/Aunt" title="Aunt">Aunt</a></li>
-<li><a href="/wiki/Uncle" title="Uncle">Uncle</a></li>
-<li><a href="/wiki/Niece_and_nephew" title="Niece and nephew">Niece and nephew</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Third-degree_relative" title="Third-degree relative">Third-degree relatives</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Great-grandparent" class="mw-redirect" title="Great-grandparent">Great-grandparent</a></li>
-<li><a href="/wiki/Great-grandchild" class="mw-redirect" title="Great-grandchild">Great-grandchild</a></li>
-<li><a href="/wiki/Niece_and_nephew" title="Niece and nephew">Grandnephew and grandniece</a></li>
-<li><a href="/wiki/Uncle" title="Uncle">Great-Uncle</a></li>
-<li><a href="/wiki/Aunt" title="Aunt">Great-Aunt</a></li>
-<li><a href="/wiki/Cousin" title="Cousin">Cousin</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Affinity_(law)" title="Affinity (law)">Family-in-law</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Spouse" title="Spouse">Spouse</a>
-<ul><li><a href="/wiki/Wife" title="Wife">wife</a></li>
-<li><a href="/wiki/Husband" title="Husband">husband</a></li></ul></li>
-<li><a href="/wiki/Parent-in-law" title="Parent-in-law">Parents-in-law</a></li>
-<li><a href="/wiki/Sibling-in-law" title="Sibling-in-law">Siblings-in-law</a></li>
-<li><a href="/wiki/Son-in-law" class="mw-redirect" title="Son-in-law">Son-in-law</a></li>
-<li><a href="/wiki/Daughter-in-law" class="mw-redirect" title="Daughter-in-law">Daughter-in-law</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Stepfamily" title="Stepfamily">Stepfamily</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Stepfather" title="Stepfather">Stepfather</a></li>
-<li><a href="/wiki/Stepmother" title="Stepmother">Stepmother</a></li>
-<li><a href="/wiki/Stepchild" title="Stepchild">Stepchild</a></li>
-<li><a href="/wiki/Stepsibling" title="Stepsibling">Stepsibling</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Kinship_terminology" title="Kinship terminology">Kinship terminology</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Kinship" title="Kinship">Kinship</a></li>
-<li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal kinship</a></li>
-<li><a href="/wiki/Adoption" title="Adoption">Adoption</a></li>
-<li><a href="/wiki/Affinity_(law)" title="Affinity (law)">Affinity</a></li>
-<li><a href="/wiki/Consanguinity" title="Consanguinity">Consanguinity</a></li>
-<li><a href="/wiki/Disownment" title="Disownment">Disownment</a></li>
-<li><a href="/wiki/Divorce" title="Divorce">Divorce</a></li>
-<li><a href="/wiki/Family_estrangement" title="Family estrangement">Estrangement</a></li>
-<li><a href="/wiki/Fictive_kinship" title="Fictive kinship">Fictive kinship</a></li>
-<li><a href="/wiki/Marriage" title="Marriage">Marriage</a></li>
-<li><a class="mw-selflink selflink">Nurture kinship</a></li>
-<li><a href="/wiki/Hawaiian_kinship" title="Hawaiian kinship">Hawaiian kinship</a></li>
-<li><a href="/wiki/Sudanese_kinship" title="Sudanese kinship">Sudanese kinship</a></li>
-<li><a href="/wiki/Eskimo_kinship" title="Eskimo kinship">Eskimo kinship</a></li>
-<li><a href="/wiki/Iroquois_kinship" title="Iroquois kinship">Iroquois kinship</a></li>
-<li><a href="/wiki/Crow_kinship" title="Crow kinship">Crow kinship</a></li>
-<li><a href="/wiki/Omaha_kinship" title="Omaha kinship">Omaha kinship</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ancestor" title="Ancestor">Lineage</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Bilateral_descent" title="Bilateral descent">Bilateral descent</a></li>
-<li><a href="/wiki/Most_recent_common_ancestor" title="Most recent common ancestor">Common ancestor</a></li>
-<li><a href="/wiki/Surname" title="Surname">Family name</a></li>
-<li><a href="/wiki/Family_tree" title="Family tree">Family tree</a></li>
-<li><a href="/wiki/Genealogy" title="Genealogy">Genealogy</a></li>
-<li><a href="/wiki/Heirloom" title="Heirloom">Heirloom</a></li>
-<li><a href="/wiki/Heredity" title="Heredity">Heredity</a></li>
-<li><a href="/wiki/Inheritance" title="Inheritance">Inheritance</a></li>
-<li><a href="/wiki/Lineal_descendant" title="Lineal descendant">Lineal descendant</a></li>
-<li><a href="/wiki/Matrilineality" title="Matrilineality">Matrilineality</a></li>
-<li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineality</a></li>
-<li><a href="/wiki/Pedigree_chart" title="Pedigree chart">Pedigree chart</a></li>
-<li><a href="/wiki/Progenitor" title="Progenitor">Progenitor</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Relationships</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Agape" title="Agape">Agape (parental love)</a></li>
-<li><a href="/wiki/Eros_(concept)" title="Eros (concept)">Eros (marital love)</a></li>
-<li><a href="/wiki/Filial_piety" title="Filial piety">Filial piety</a></li>
-<li><a href="/wiki/Storge" title="Storge">Storge (familial love)</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Holidays</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Mother%27s_Day" title="Mother&#39;s Day">Mother's Day</a>
-<ul><li><a href="/wiki/Mother%27s_Day_(United_States)" title="Mother&#39;s Day (United States)">U.S.</a></li></ul></li>
-<li><a href="/wiki/Father%27s_Day" title="Father&#39;s Day">Father's Day</a></li>
-<li><a href="/wiki/Father-Daughter_Day" class="mw-redirect" title="Father-Daughter Day">Father-Daughter Day</a></li>
-<li><a href="/wiki/Siblings_Day" title="Siblings Day">Siblings Day</a></li>
-<li><a href="/wiki/National_Grandparents_Day" title="National Grandparents Day">National Grandparents Day</a></li>
-<li><a href="/wiki/Parents%27_Day" title="Parents&#39; Day">Parents' Day</a></li>
-<li><a href="/wiki/Children%27s_Day" title="Children&#39;s Day">Children's Day</a></li>
-<li><a href="/wiki/Family_Day" title="Family Day">Family Day</a>
-<ul><li><a href="/wiki/Family_Day_(Canada)" title="Family Day (Canada)">Canada</a></li></ul></li>
-<li><a href="/wiki/American_Family_Day" title="American Family Day">American Family Day</a></li>
-<li><a href="/wiki/National_Family_Week" title="National Family Week">National Family Week</a>
-<ul><li><a href="/wiki/National_Family_Week_(UK)" title="National Family Week (UK)">UK</a></li></ul></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Wedding_anniversary" title="Wedding anniversary">Wedding anniversary</a></li>
-<li><a href="/wiki/Sociology_of_the_family" title="Sociology of the family">Sociology of the family</a></li>
-<li><a href="/wiki/Museum_of_Motherhood" title="Museum of Motherhood">Museum of Motherhood</a></li>
-<li><a href="/wiki/Incest" title="Incest">Incest</a></li></ul>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation news">Johnston, Philip (2 August 2013). <a rel="nofollow" class="external text" href="https://www.telegraph.co.uk/news/uknews/law-and-order/10218954/Farewell-to-a-doughty-champion-of-liberty-and-the-public-interest.html">"Farewell to a doughty champion of liberty and the public interest"</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0307-1235">0307-1235</a><span class="reference-accessdate">. Retrieved <span class="nowrap">6 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Farewell+to+a+doughty+champion+of+liberty+and+the+public+interest&amp;rft.date=2013-08-02&amp;rft.issn=0307-1235&amp;rft.aulast=Johnston&amp;rft.aufirst=Philip&amp;rft_id=https%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2Fuknews%2Flaw-and-order%2F10218954%2FFarewell-to-a-doughty-champion-of-liberty-and-the-public-interest.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.artandpopularculture.com/Aptronym">"Aptronym - The Art and Popular Culture Encyclopedia"</a>. <i>www.artandpopularculture.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">9 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.artandpopularculture.com&amp;rft.atitle=Aptronym+-+The+Art+and+Popular+Culture+Encyclopedia&amp;rft_id=http%3A%2F%2Fwww.artandpopularculture.com%2FAptronym&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation news">Wilgoren, Jodi (25 May 2003). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2003/05/25/us/a-player-called-money-wins-world-poker-title.html">"A Player Called 'Money' Wins World Poker Title"</a>. <i>The New York Times</i>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0362-4331">0362-4331</a><span class="reference-accessdate">. Retrieved <span class="nowrap">6 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=A+Player+Called+%27Money%27+Wins+World+Poker+Title&amp;rft.date=2003-05-25&amp;rft.issn=0362-4331&amp;rft.aulast=Wilgoren&amp;rft.aufirst=Jodi&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2003%2F05%2F25%2Fus%2Fa-player-called-money-wins-world-poker-title.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.reuters.com/article/us-usa-names/having-the-right-name-at-the-right-or-sometimes-wrong-time-idUSKCN1C425Q">Having the right name at the right, or sometimes wrong, time</a> Reuters</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation book">Sánchez Canales, Gustavo (2016). "<span class="cs1-kern-left">"</span>What's in a Name?": Aptronyms and Archetypes in Bernard Malamud's <i>The Assistant</i> and <i>The Fixer</i>".  In Aarons, Victoria; Sánchez Canales, Gustavo (eds.). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=3qohDgAAQBAJ&amp;pg=PT89&amp;dq=francine+prose+aptronym#v=onepage&amp;q=francine%20prose%20aptronym"><i>Bernard Malamud: A Centennial Tribute</i></a>. Detroit, Michigan: Wayne State University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780814341148" title="Special:BookSources/9780814341148"><bdi>9780814341148</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">27 June</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=%22What%27s+in+a+Name%3F%22%3A+Aptronyms+and+Archetypes+in+Bernard+Malamud%27s+The+Assistant+and+The+Fixer&amp;rft.btitle=Bernard+Malamud%3A+A+Centennial+Tribute&amp;rft.place=Detroit%2C+Michigan&amp;rft.pub=Wayne+State+University+Press&amp;rft.date=2016&amp;rft.isbn=9780814341148&amp;rft.aulast=S%C3%A1nchez+Canales&amp;rft.aufirst=Gustavo&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D3qohDgAAQBAJ%26pg%3DPT89%26dq%3Dfrancine%2Bprose%2Baptronym%23v%3Donepage%26q%3Dfrancine%2520prose%2520aptronym&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.cbc.ca/kidsnews/post/bowser-vs.-bowser-new-nintendo-boss-shares-name-with-villain">"Bowser vs. Bowser: New Nintendo boss shares name with villain"</a>. <i>Canadian Broadcasting Corporation</i>. 4 March 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">22 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Canadian+Broadcasting+Corporation&amp;rft.atitle=Bowser+vs.+Bowser%3A+New+Nintendo+boss+shares+name+with+villain&amp;rft.date=2019-03-04&amp;rft_id=https%3A%2F%2Fwww.cbc.ca%2Fkidsnews%2Fpost%2Fbowser-vs.-bowser-new-nintendo-boss-shares-name-with-villain&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation book">Elster, Charles Harrington (2005). <i>What in the Word?</i>. Orlando, FL: Harcourt. p.&#160;109.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=What+in+the+Word%3F&amp;rft.place=Orlando%2C+FL&amp;rft.pages=109&amp;rft.pub=Harcourt&amp;rft.date=2005&amp;rft.aulast=Elster&amp;rft.aufirst=Charles+Harrington&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation book">Sawyer, Robert J. (2012). <i>Triggers</i>. New York: Ace Books. p.&#160;186. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-937007-16-4" title="Special:BookSources/978-1-937007-16-4"><bdi>978-1-937007-16-4</bdi></a>. <q>Or Larry Speakes," said Eric... "He was the White House spokesman for Ronald Reagan." She smiled. "Exactly. There's a name for that. It's called ... nominative determinism.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Triggers&amp;rft.place=New+York&amp;rft.pages=186&amp;rft.pub=Ace+Books&amp;rft.date=2012&amp;rft.isbn=978-1-937007-16-4&amp;rft.aulast=Sawyer&amp;rft.aufirst=Robert+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation book">Wordsworth, William (1876).  Alexander B. Grosart (ed.). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=-ZcUAAAAQAAJ"><i>The Prose Works of William Wordsworth</i></a>. London: Edward Moxon, Son and Co. p.&#160;21.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Prose+Works+of+William+Wordsworth&amp;rft.place=London&amp;rft.pages=21&amp;rft.pub=Edward+Moxon%2C+Son+and+Co.&amp;rft.date=1876&amp;rft.au=Wordsworth%2C+William&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D-ZcUAAAAQAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation journal">Swartz, Richard G. (1992). "Wordsworth, Copyright, and the Commodities of Genius". <i><a href="/wiki/Modern_Philology" title="Modern Philology">Modern Philology</a></i>. <b>89</b> (4): 482–509. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/438162">438162</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Modern+Philology&amp;rft.atitle=Wordsworth%2C+Copyright%2C+and+the+Commodities+of+Genius&amp;rft.volume=89&amp;rft.issue=4&amp;rft.pages=482-509&amp;rft.date=1992&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F438162&amp;rft.au=Swartz%2C+Richard+G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation book">Lederer, Richard (2012). <a rel="nofollow" class="external text" href="https://books.google.lu/books?id=tnxQCgAAQBAJ&amp;pg=PT37&amp;lpg=PT37&amp;dq=early+wynn+aptronym&amp;source=bl&amp;ots=MpeUoIfYZn&amp;sig=ACfU3U0RLq9YQZILH5faMxOZJwdwJDH-ag&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwih_9us86LgAhViRxUIHZ-ADQkQ6AEwDnoECAIQAQ#v=onepage&amp;q=early%20wynn%20aptronym&amp;f=false"><i>Amazing Words: An Alphabetical Anthology of Alluring, Astonishing, Astounding, Bedazzling, Beguiling, Bewitching, Enchanting, Enthralling, Entrancing, Magical, Mesmerizing, Miraculous, Tantalizing, Tempting, and Transfixing Words</i></a>. Marion Street Press, LLC.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Amazing+Words%3A+An+Alphabetical+Anthology+of+Alluring%2C+Astonishing%2C+Astounding%2C+Bedazzling%2C+Beguiling%2C+Bewitching%2C+Enchanting%2C+Enthralling%2C+Entrancing%2C+Magical%2C+Mesmerizing%2C+Miraculous%2C+Tantalizing%2C+Tempting%2C+and+Transfixing+Words&amp;rft.pub=Marion+Street+Press%2C+LLC&amp;rft.date=2012&amp;rft.au=Lederer%2C+Richard&amp;rft_id=https%3A%2F%2Fbooks.google.lu%2Fbooks%3Fid%3DtnxQCgAAQBAJ%26pg%3DPT37%26lpg%3DPT37%26dq%3Dearly%2Bwynn%2Baptronym%26source%3Dbl%26ots%3DMpeUoIfYZn%26sig%3DACfU3U0RLq9YQZILH5faMxOZJwdwJDH-ag%26hl%3Den%26sa%3DX%26ved%3D2ahUKEwih_9us86LgAhViRxUIHZ-ADQkQ6AEwDnoECAIQAQ%23v%3Donepage%26q%3Dearly%2520wynn%2520aptronym%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web">Gene Weingarten (18 July 2006). <a rel="nofollow" class="external text" href="https://www.washingtonpost.com/wp-dyn/content/discussion/2006/07/11/DI2006071100616.html">"Chatological Humor* (UPDATED 7.21.06)"</a>. <i>Washington Post</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Washington+Post&amp;rft.atitle=Chatological+Humor%2A+%28UPDATED+7.21.06%29&amp;rft.date=2006-07-18&amp;rft.au=Gene+Weingarten&amp;rft_id=https%3A%2F%2Fwww.washingtonpost.com%2Fwp-dyn%2Fcontent%2Fdiscussion%2F2006%2F07%2F11%2FDI2006071100616.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://andrewjkahn.com/2012/07/13/josh-outman-homer-bailey-grant-balfour/">Josh Outman? Not Quite</a> Andrew Kahn</span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://kmhk.com/zz-top-drummer-frank-beard-finally-grows-one/">"ZZ Top Drummer Frank Beard Finally Grows One"</a>. <i>103.7 The Hawk</i><span class="reference-accessdate">. Retrieved <span class="nowrap">6 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=103.7+The+Hawk&amp;rft.atitle=ZZ+Top+Drummer+Frank+Beard+Finally+Grows+One&amp;rft_id=http%3A%2F%2Fkmhk.com%2Fzz-top-drummer-frank-beard-finally-grows-one%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation news">Clarke, Norma (28 December 2014). <a rel="nofollow" class="external text" href="http://www.the-tls.co.uk/tls/public/article1179826.ece">"Samuel Foote, the one-legged wonder"</a>. The Times Literary Supplement<span class="reference-accessdate">. Retrieved <span class="nowrap">14 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Samuel+Foote%2C+the+one-legged+wonder&amp;rft.date=2014-12-28&amp;rft.aulast=Clarke&amp;rft.aufirst=Norma&amp;rft_id=http%3A%2F%2Fwww.the-tls.co.uk%2Ftls%2Fpublic%2Farticle1179826.ece&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.huffingtonpost.com/2013/02/20/robin-mahfood-food-for-the-poor-president-has-most-ironic-name-ever_n_2728377.html">"Robin Mahfood, Food For The Poor President, Has Most Ironic Name Ever"</a>. <i>Huffington Post</i><span class="reference-accessdate">. Retrieved <span class="nowrap">6 December</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Huffington+Post&amp;rft.atitle=Robin+Mahfood%2C+Food+For+The+Poor+President%2C+Has+Most+Ironic+Name+Ever&amp;rft_id=https%3A%2F%2Fwww.huffingtonpost.com%2F2013%2F02%2F20%2Frobin-mahfood-food-for-the-poor-president-has-most-ironic-name-ever_n_2728377.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.rantsports.com/nhl/2014/01/19/6-biggest-goons-in-buffalo-sabres-history/#slide_6">"6 Biggest Goons In Buffalo Sabres' History"</a>. <i>Rant Sports</i>. 19 January 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">14 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Rant+Sports&amp;rft.atitle=6+Biggest+Goons+In+Buffalo+Sabres%27+History&amp;rft.date=2014-01-19&amp;rft_id=http%3A%2F%2Fwww.rantsports.com%2Fnhl%2F2014%2F01%2F19%2F6-biggest-goons-in-buffalo-sabres-history%2F%23slide_6&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAptronym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aptronym&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://aptonyms-wiki.wikispaces.com/">Aptonyms-wiki</a> (based on the extinct <i><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090911085713/http://homepage.mac.com/chapmandave/aptonyms/">Canadian Aptonym Centre</a></i>)</li>
+<li>"<a rel="nofollow" class="external text" href="http://www.slate.com/id/2132505/">Charol Shakeshaft, Topped!</a>", A Yellow Pages of aptronyms. reader-submitted aptronyms by <a href="/wiki/Slate_(magazine)" title="Slate (magazine)">Slate</a>'s <a href="/wiki/Timothy_Noah" title="Timothy Noah">Timothy Noah</a></li></ul>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" decoding="async" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512" /></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/aptronym" class="extiw" title="wiktionary:aptronym">aptronym</a></b></i>, <i><b><a href="https://en.wiktionary.org/wiki/aptonym" class="extiw" title="wiktionary:aptonym">aptonym</a></b></i>, or <i><b><a href="https://en.wiktionary.org/wiki/euonym" class="extiw" title="wiktionary:euonym">euonym</a></b></i> in Wiktionary, the free dictionary.</td></tr>
+</tbody></table>
+<p class="mw-empty-elt">
+</p>
+<div role="navigation" class="navbox" aria-labelledby="Personal_names_and_anthroponymy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Personal_names" title="Template:Personal names"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Personal_names" title="Template talk:Personal names"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Personal_names&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Personal_names_and_anthroponymy" style="font-size:114%;margin:0 4em"><a href="/wiki/Personal_name" title="Personal name">Personal names</a> and <a href="/wiki/Anthroponymy" title="Anthroponymy">anthroponymy</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*Personal_identity">
+<ul><li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Personal_name" title="Personal name">Personal name</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Given_name" title="Given name">Given name</a></li>
+<li><a href="/wiki/Surname" title="Surname">Surname</a>
+<ul><li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineal</a>/<a href="/wiki/Matriname" title="Matriname">Matrilineal</a></li>
+<li><a href="/wiki/List_of_family_name_affixes" title="List of family name affixes">Affixes</a>
+<ul><li><a href="/wiki/Nobiliary_particle" title="Nobiliary particle">Nobiliary particle</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By sequence</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Given_name" title="Given name">First name</a></li>
+<li><a href="/wiki/Middle_name" title="Middle name">Middle name</a></li>
+<li><a href="/wiki/Surname" title="Surname">Last name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By trait</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Diminutive" title="Diminutive">Diminutive</a></li>
+<li><a href="/wiki/Double-barrelled_name" title="Double-barrelled name">Double-barrelled</a></li>
+<li><a href="/wiki/Eponym" title="Eponym">Eponymic</a></li>
+<li><a href="/wiki/Matronymic" title="Matronymic">Matronymic</a></li>
+<li><a href="/wiki/Metonymy" title="Metonymy">Metonymic</a></li>
+<li><a href="/wiki/Mononymous_person" title="Mononymous person">Mononymic</a></li>
+<li><a href="/wiki/Occupational_name" class="mw-redirect" title="Occupational name">Occupational name</a></li>
+<li><a href="/wiki/Patronymic" title="Patronymic">Patronymic</a></li>
+<li><a href="/wiki/Sobriquet" title="Sobriquet">Sobriquet</a></li>
+<li><a href="/wiki/Teknonymy" title="Teknonymy">Teknonymic</a></li>
+<li><a href="/wiki/Toponymy" title="Toponymy">Toponymic</a></li>
+<li><a href="/wiki/Patrial_name" title="Patrial name">Patrial name</a></li>
+<li><a href="/wiki/Patronymic_surname" title="Patronymic surname">Patronymic</a></li>
+<li><a href="/wiki/Unisex_name" title="Unisex name">Unisex</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By life situation</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Aptronym</a></li>
+<li><a href="/wiki/Code_name" title="Code name">Code name</a></li>
+<li><a href="/wiki/Maiden_and_married_names" title="Maiden and married names">Maiden and married names</a></li>
+<li><a href="/wiki/Necronym" title="Necronym">Necronym</a>
+<ul><li><a href="/wiki/Posthumous_name" title="Posthumous name">Posthumous name</a></li>
+<li><a href="/wiki/Temple_name" title="Temple name">Temple name</a></li></ul></li>
+<li><a href="/wiki/Placeholder_name" title="Placeholder name">Placeholder name</a>
+<ul><li><a href="/wiki/Notname" title="Notname">Notname</a></li></ul></li>
+<li><a href="/wiki/Regnal_name" title="Regnal name">Regnal name</a></li>
+<li><a href="/wiki/Slave_name" title="Slave name">Slave name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pseudonym" title="Pseudonym">Pseudonyms</a> (<a href="/wiki/List_of_pseudonyms" title="List of pseudonyms">list</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nickname" title="Nickname">Nicknames</a>
+<ul><li><a href="/wiki/Lists_of_nicknames" title="Lists of nicknames">list</a></li>
+<li><a href="/wiki/Hypocorism" title="Hypocorism">Hypocorism</a></li></ul></li>
+<li><i><a href="/wiki/Nom_de_guerre" class="mw-redirect" title="Nom de guerre">Nom de guerre</a></i></li>
+<li><a href="/wiki/Stage_name" title="Stage name">Stage name</a>
+<ul><li><a href="/wiki/List_of_stage_names" title="List of stage names">List of stage names</a></li>
+<li><a href="/wiki/List_of_one-word_stage_names" title="List of one-word stage names">List of one-word stage names</a></li></ul></li>
+<li><a href="/wiki/Ring_name" title="Ring name">Ring name</a></li>
+<li><a href="/wiki/Pen_name" title="Pen name">Pen name</a>
+<ul><li><a href="/wiki/Heteronym_(literature)" title="Heteronym (literature)">Heteronym</a></li></ul></li>
+<li><a href="/wiki/Username" class="mw-redirect" title="Username">Username</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By culture<br /><small><a href="/wiki/Surnames_by_country" title="Surnames by country">Surnames by country</a><br /><a href="/wiki/Courtesy_name" title="Courtesy name">Courtesy names</a></small></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albanian_name" title="Albanian name">Albanian</a></li>
+<li><a href="/wiki/Naming_in_the_United_States" title="Naming in the United States">American</a>
+<ul><li><small><a href="/wiki/African-American_names" title="African-American names">African-American</a></small></li></ul></li>
+<li><a href="/wiki/Ancient_Greek_personal_names" title="Ancient Greek personal names">Ancient Greek</a></li>
+<li><a href="/wiki/Arabic_name" title="Arabic name">Arabic</a></li>
+<li><a href="/wiki/Armenian_name" title="Armenian name">Armenian</a></li>
+<li><a href="/wiki/Akan_names" title="Akan names">Ashanti</a></li>
+<li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal</a></li>
+<li><a href="/wiki/Azerbaijani_name" title="Azerbaijani name">Azerbaijani</a></li>
+<li><a href="/wiki/Bangladeshi_name" class="mw-redirect" title="Bangladeshi name">Bangladeshi</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Basque_names" title="Spanish naming customs">Basque</a></li>
+<li><a href="/wiki/Belarusian_name" title="Belarusian name">Belarusian</a></li>
+<li><a href="/wiki/Bulgarian_name" title="Bulgarian name">Bulgarian</a></li>
+<li><a href="/wiki/Burmese_names" title="Burmese names">Burmese</a></li>
+<li><a href="/wiki/Cambodian_name" title="Cambodian name">Cambodian</a></li>
+<li><a href="/wiki/Canadian_name" title="Canadian name">Canadian</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></li>
+<li><a href="/wiki/Chinese_name" title="Chinese name">Chinese</a>
+<ul><li><small><a href="/wiki/Hong_Kong_name" title="Hong Kong name">Hong Kong</a></small></li>
+<li><small><a href="/wiki/Manchu_name" title="Manchu name">Manchu</a></small></li>
+<li><small><a href="/wiki/Tibetan_name" title="Tibetan name">Tibetan</a></small></li></ul></li>
+<li><a href="/wiki/Cornish_surnames" title="Cornish surnames">Cornish</a></li>
+<li><a href="/wiki/Croatian_name" title="Croatian name">Croatian</a></li>
+<li><a href="/wiki/Czech_name" title="Czech name">Czech</a></li>
+<li><a href="/wiki/Dutch_name" title="Dutch name">Dutch</a></li>
+<li><a href="/wiki/English_name" title="English name">English</a></li>
+<li><a href="/wiki/Naming_conventions_in_Ethiopia_and_Eritrea" title="Naming conventions in Ethiopia and Eritrea">Ethiopian/Eritrean</a></li>
+<li><a href="/wiki/Ewe_language#Naming_system" title="Ewe language">Ewe</a></li>
+<li><a href="/wiki/Fijian_name" title="Fijian name">Fijian</a></li>
+<li><a href="/wiki/Filipino_name" title="Filipino name">Filipino</a></li>
+<li><a href="/wiki/Finnish_name" title="Finnish name">Finnish</a></li>
+<li><a href="/wiki/French_name" title="French name">French</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Galician_names" title="Spanish naming customs">Galician</a></li>
+<li><a href="/wiki/Georgian_name" title="Georgian name">Georgian</a></li>
+<li><a href="/wiki/German_name" title="German name">German</a></li>
+<li><a href="/wiki/Germanic_name" title="Germanic name">Germanic</a></li>
+<li><a href="/wiki/Ghanaian_name" title="Ghanaian name">Ghanaian</a></li>
+<li><a href="/wiki/Greek_name" title="Greek name">Greek</a>
+<ul><li><small><a href="/wiki/Greek_Cypriot_name" title="Greek Cypriot name">Cypriot</a></small></li></ul></li>
+<li><a href="/wiki/Hawaiian_name" title="Hawaiian name">Hawaiian</a></li>
+<li><a href="/wiki/Hebrew_name" title="Hebrew name">Hebrew</a></li>
+<li><a href="/wiki/Hungarian_names" title="Hungarian names">Hungarian</a></li>
+<li><a href="/wiki/Icelandic_name" title="Icelandic name">Icelandic</a></li>
+<li><a href="/wiki/Igbo_name" title="Igbo name">Igbo</a></li>
+<li><a href="/wiki/Indian_name" title="Indian name">Indian</a>
+<ul><li><small><a href="/wiki/Saint_Thomas_Christian_names" title="Saint Thomas Christian names">Saint Thomas Christian names</a></small></li></ul></li>
+<li><a href="/wiki/Indonesian_names" title="Indonesian names">Indonesian</a>
+<ul><li><small><a href="/wiki/Balinese_name" title="Balinese name">Balinese</a></small></li>
+<li><small><a href="/wiki/Chinese_Indonesian_surname" title="Chinese Indonesian surname">Chinese</a></small></li>
+<li><small><a href="/wiki/Javanese_name" title="Javanese name">Javanese</a></small></li></ul></li>
+<li><a href="/wiki/Irish_name" title="Irish name">Irish</a></li>
+<li><a href="/wiki/Italian_name" title="Italian name">Italian</a></li>
+<li><a href="/wiki/Japanese_name" title="Japanese name">Japanese</a>
+<ul><li><small><a href="/wiki/Amami_name" title="Amami name">Amami</a></small></li>
+<li><small><a href="/wiki/Okinawan_name" title="Okinawan name">Okinawan</a></small></li></ul></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish</a></li>
+<li><a href="/wiki/Kalmyk_names" title="Kalmyk names">Kalmyk</a></li>
+<li><a href="/wiki/Korean_name" title="Korean name">Korean</a></li>
+<li><a href="/wiki/Lao_name" title="Lao name">Lao</a></li>
+<li><a href="/wiki/Latvian_name" title="Latvian name">Latvian</a></li>
+<li><a href="/wiki/Lithuanian_name" title="Lithuanian name">Lithuanian</a></li>
+<li><a href="/wiki/Macedonian_onomastics" title="Macedonian onomastics">Macedonian</a></li>
+<li><a href="/wiki/Malaysian_names" title="Malaysian names">Malaysian</a></li>
+<li><a href="/wiki/M%C4%81ori_naming_customs" title="Māori naming customs">Māori</a></li>
+<li><a href="/wiki/Mongolian_name" title="Mongolian name">Mongol</a></li>
+<li><a href="/wiki/Scandinavian_family_name_etymology#Norway" title="Scandinavian family name etymology">Norwegian</a></li>
+<li><a href="/wiki/Pakistani_name" title="Pakistani name">Pakistani</a>
+<ul><li><small><a href="/wiki/Pashtun_name" title="Pashtun name">Pashtun</a></small></li>
+<li><small><a href="/wiki/Sindhi_names" title="Sindhi names">Sindhi</a></small></li></ul></li>
+<li><a href="/wiki/Persian_name" title="Persian name">Persian</a></li>
+<li><a href="/wiki/Polish_name" title="Polish name">Polish</a></li>
+<li><a href="/wiki/Portuguese_name" title="Portuguese name">Portuguese</a></li>
+<li><a href="/wiki/Roman_naming_conventions" title="Roman naming conventions">Roman</a>
+<ul><li><small><a href="/wiki/Praenomen" title="Praenomen">Praenomen</a></small></li>
+<li><small><a href="/wiki/Nomen_(Roman_name)" title="Nomen (Roman name)">Nomen</a></small></li>
+<li><small><a href="/wiki/Cognomen" title="Cognomen">Cognomen</a></small></li></ul></li>
+<li><a href="/wiki/Romanian_name" title="Romanian name">Romanian</a></li>
+<li><a href="/wiki/Eastern_Slavic_naming_customs" title="Eastern Slavic naming customs">Russian</a></li>
+<li><a href="/wiki/Yakut_names" title="Yakut names">Sakha</a></li>
+<li><a href="/wiki/Scottish_Gaelic_name" title="Scottish Gaelic name">Scottish Gaelic</a></li>
+<li><a href="/wiki/Serbian_names" title="Serbian names">Serbian</a></li>
+<li><a href="/wiki/Slavic_names" title="Slavic names">Slavic</a></li>
+<li><a href="/wiki/Slovak_name" title="Slovak name">Slovak</a></li>
+<li><a href="/wiki/Somali_name" title="Somali name">Somali</a></li>
+<li><a href="/wiki/Spanish_naming_customs" title="Spanish naming customs">Spanish</a>
+<ul><li><small><a href="/wiki/Naming_customs_of_Hispanic_America" title="Naming customs of Hispanic America">Hispanic America</a></small></li>
+<li><small><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></small></li></ul></li>
+<li><a href="/wiki/Swedish_name" title="Swedish name">Swedish</a></li>
+<li><a href="/wiki/Naming_customs_of_Taiwanese_aborigines" title="Naming customs of Taiwanese aborigines">Taiwanese aboriginal</a></li>
+<li><a href="/wiki/Indian_family_names#Tamil_names" class="mw-redirect" title="Indian family names">Tamil</a>
+<ul><li><small><a href="/wiki/Naming_conventions_of_ancient_Tamil_country" title="Naming conventions of ancient Tamil country">Ancient Tamil country</a></small></li></ul></li>
+<li><a href="/wiki/Tatar_name" title="Tatar name">Tatar</a></li>
+<li><a href="/wiki/Thai_name" title="Thai name">Thai</a></li>
+<li><a href="/wiki/Turkish_name" title="Turkish name">Turkish</a></li>
+<li><a href="/wiki/Ukrainian_name" title="Ukrainian name">Ukrainian</a></li>
+<li><a href="/wiki/Vietnamese_name" title="Vietnamese name">Vietnamese</a></li>
+<li><a href="/wiki/Welsh_surnames" title="Welsh surnames">Welsh</a></li>
+<li><a href="/wiki/Yakut_names" title="Yakut names">Yakut</a></li>
+<li><a href="/wiki/Yoruba_name" title="Yoruba name">Yoruba</a></li>
+<li><a href="/wiki/Zimbabwean_names" title="Zimbabwean names">Zimbabwean</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Religious_name" title="Religious name">Religious names</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Christian_name" title="Christian name">Christian name</a>
+<ul><li><a href="/wiki/List_of_biblical_names" title="List of biblical names">Biblical name</a></li>
+<li><a href="/wiki/Papal_name" title="Papal name">Papal name</a></li>
+<li><a href="/wiki/Saint%27s_name" title="Saint&#39;s name">Saint's name</a></li></ul></li>
+<li><a href="/wiki/Dharma_name" title="Dharma name">Dharma name</a></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish name</a></li>
+<li><a href="/wiki/Theophoric_name" title="Theophoric name">Theophoric name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Manners of address<br /><small><a href="/wiki/List_of_titles" title="List of titles">List</a></small><br /><small><a href="/wiki/Title_of_authority" title="Title of authority">of authority</a>/<a href="/wiki/Title_of_honor" title="Title of honor">of honour</a></small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Style_(manner_of_address)" title="Style (manner of address)">Styles</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Honorific" title="Honorific">Honorific</a>
+<ul><li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
+<li><a href="/wiki/Imperial,_royal,_and_noble_styles" title="Imperial, royal, and noble styles">Imperial, royal, and noble</a></li>
+<li><a href="/wiki/Judiciary_styles" class="mw-redirect" title="Judiciary styles">Judiciary</a></li>
+<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
+<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul></li>
+<li><a href="/wiki/Pre-nominal_letters" title="Pre-nominal letters">Pre-nominal letters</a></li>
+<li><a href="/wiki/Suffix_(name)" title="Suffix (name)">Suffix</a>
+<ul><li><a href="/wiki/Emeritus" title="Emeritus">Emeritus</a></li>
+<li><a href="/wiki/Post-nominal_letters" title="Post-nominal letters">Post-nominal letters</a>
+<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
+<li><a href="/wiki/Order_(distinction)" title="Order (distinction)">Orders</a>, <a href="/wiki/Award" title="Award">decorations</a>, and <a href="/wiki/Medal" title="Medal">medals</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Title" title="Title">Titles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
+<li><a href="/wiki/Imperial,_royal_and_noble_ranks" title="Imperial, royal and noble ranks">Imperial, royal and noble</a>
+<ul><li><a href="/wiki/Chivalry" title="Chivalry">Chivalric</a></li>
+<li><a href="/wiki/Court_title" class="mw-redirect" title="Court title">Court</a></li></ul></li>
+<li><a href="/wiki/Military_rank" title="Military rank">Military</a></li>
+<li><a href="/wiki/Professional_titles" class="mw-redirect" title="Professional titles">Professional</a>
+<ul><li><a href="/wiki/Academic_ranks" class="mw-redirect" title="Academic ranks">Academic</a>
+<ul><li><a href="/wiki/Honorary_title_(academic)" title="Honorary title (academic)">Honorary</a></li></ul></li>
+<li><a href="/wiki/Corporate_title" title="Corporate title">Business</a></li>
+<li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
+<li><a href="/wiki/Professional_degree" title="Professional degree">Educational</a></li>
+<li><a href="/wiki/Judicial_titles" class="mw-redirect" title="Judicial titles">Judicial</a></li></ul></li>
+<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
+<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related traditions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baptism" title="Baptism">Baptism</a></li>
+<li><a href="/wiki/Name_day" title="Name day">Name day</a>
+<ul><li><a href="/wiki/Calendar_of_saints" title="Calendar of saints">Calendar of saints</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acronym" title="Acronym">Acronym</a></li>
+<li><a href="/wiki/Anonymity" title="Anonymity">Anonymity</a></li>
+<li><a href="/wiki/Anthropomorphism" title="Anthropomorphism">Anthropomorphism</a>
+<ul><li><a href="/wiki/National_personification" title="National personification">National personification</a></li></ul></li>
+<li><a href="/wiki/Call_sign" title="Call sign">Call sign</a></li>
+<li><a href="/wiki/Family" title="Family">Family</a></li>
+<li><a href="/wiki/Galton%E2%80%93Watson_process" title="Galton–Watson process">Galton–Watson process</a></li>
+<li><a href="/wiki/Legal_name" title="Legal name">Legal name</a>
+<ul><li><a href="/wiki/Name_change" title="Name change">Name change</a></li></ul></li>
+<li><i><a href="/wiki/Nomen_nescio" title="Nomen nescio">Nomen nescio</a></i></li>
+<li><i><a href="/wiki/-onym" title="-onym">-onym</a></i></li>
+<li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a>
+<ul><li><a href="/wiki/Identifier" title="Identifier">Identifier</a></li></ul></li>
+<li><a href="/wiki/Proper_name" class="mw-redirect" title="Proper name">Proper name</a></li>
+<li><a href="/wiki/Signature" title="Signature">Signature</a>
+<ul><li><a href="/wiki/Monogram" title="Monogram">Monogram</a></li>
+<li><a href="/wiki/Signum_manus" title="Signum manus">Signum manus</a></li>
+<li><a href="/wiki/Tughra" title="Tughra">Tughra</a></li></ul></li>
+<li><a href="/wiki/Naming_taboo" title="Naming taboo">Naming taboo</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><a href="/wiki/Category:Lists_of_names" title="Category:Lists of names">Category:Lists of names</a></li></ul>
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1264
-Cached time: 20191007115052
+Parsed by mw1290
+Cached time: 20191022131343
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.260 seconds
-Real time usage: 0.335 seconds
-Preprocessor visited node count: 1302/1000000
+CPU time usage: 0.440 seconds
+Real time usage: 0.547 seconds
+Preprocessor visited node count: 1682/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 97469/2097152 bytes
-Template argument size: 19597/2097152 bytes
-Highest expansion depth: 10/40
-Expensive parser function count: 0/500
+Post‐expand include size: 89557/2097152 bytes
+Template argument size: 465/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 3/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 12654/5000000 bytes
-Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.084/10.000 seconds
-Lua memory usage: 2.35 MB/50 MB
+Unstrip post‐expand size: 95867/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.243/10.000 seconds
+Lua memory usage: 3.65 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  254.548      1 -total
- 33.86%   86.199      1 Template:Reflist
- 30.88%   78.600      1 Template:Anthropology_of_kinship
- 29.25%   74.454      1 Template:Sidebar_with_collapsible_lists
- 25.58%   65.101      1 Template:Cite_web
- 19.08%   48.576     11 Template:Quote
- 13.17%   33.517      4 Template:Sidebar
-  9.25%   23.541     11 Template:Trim_quotes
-  5.31%   13.507      2 Template:Navbox
-  5.16%   13.147      1 Template:Close_plural_relationships
+100.00%  428.987      1 -total
+ 85.78%  367.998      1 Template:Reflist
+ 24.84%  106.546      1 Template:Cite_encyclopedia
+ 18.76%   80.481      9 Template:Cite_news
+ 13.67%   58.631     12 Template:Cite_web
+  9.58%   41.109      8 Template:Cite_book
+  7.02%   30.134      1 Template:Cite_journal
+  5.77%   24.759      1 Template:Personal_names
+  5.31%   22.782      2 Template:Navbox
+  4.65%   19.966      1 Template:Use_dmy_dates
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:34123755-0!canonical and timestamp 20191007115051 and revision id 892780670
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1668007-0!canonical and timestamp 20191022131347 and revision id 922491965
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Nurture_kinship&amp;oldid=892780670">https://en.wikipedia.org/w/index.php?title=Nurture_kinship&amp;oldid=892780670</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Aptronym&amp;oldid=922491965">https://en.wikipedia.org/w/index.php?title=Aptronym&amp;oldid=922491965</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Kinship_and_descent" title="Category:Kinship and descent">Kinship and descent</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Names" title="Category:Names">Names</a></li><li><a href="/wiki/Category:Semantics" title="Category:Semantics">Semantics</a></li><li><a href="/wiki/Category:Types_of_words" title="Category:Types of words">Types of words</a></li><li><a href="/wiki/Category:Word_play" title="Category:Word play">Word play</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_February_2016" title="Category:Use dmy dates from February 2016">Use dmy dates from February 2016</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -491,13 +467,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Nurture+kinship" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Nurture+kinship" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Aptronym" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Aptronym" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Nurture_kinship" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Nurture_kinship" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Aptronym" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Aptronym" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -512,7 +488,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Nurture_kinship">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Nurture_kinship&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Nurture_kinship&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Aptronym">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Aptronym&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Aptronym&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -551,28 +527,35 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Nurture_kinship" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Nurture_kinship" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Nurture_kinship&amp;oldid=892780670" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Nurture_kinship&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4396070" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Nurture_kinship&amp;id=892780670" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Aptronym" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Aptronym" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Aptronym&amp;oldid=922491965" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Aptronym&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1756239" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Aptronym&amp;id=922491965" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Aptonym" hreflang="en">Wikimedia Commons</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Nurture+kinship">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Nurture+kinship&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Nurture_kinship&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Aptronym">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Aptronym&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Aptronym&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE_%D0%BF%D0%BE_%D0%BF%D0%B8%D1%89%D0%B5" title="Родство по пище – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4396070#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D8%B3%D9%85_%D8%B9%D9%84%D9%89_%D9%85%D8%B3%D9%85%D9%89" title="اسم على مسمى – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Sprechender_Name" title="Sprechender Name – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Apt%C3%B3nimo" title="Aptónimo – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Aptonyme" title="Aptonyme – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Aptronim" title="Aptronim – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Attronimo" title="Attronimo – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A9%D7%9D_%D7%94%D7%9E%D7%A2%D7%99%D7%93_%D7%A2%D7%9C_%D7%91%D7%A2%D7%9C%D7%99%D7%95" title="שם המעיד על בעליו – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Aptoniem" title="Aptoniem – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Aptoniem" title="Aptoniem – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Nazwisko_znacz%C4%85ce" title="Nazwisko znaczące – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Apt%C3%B4nimo" title="Aptônimo – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Aptonym" title="Aptonym – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1756239#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 16 April 2019, at 20:38<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 22 October 2019, at 13:13<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -583,7 +566,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Nurture_kinship&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Aptronym&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -595,8 +578,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.260","walltime":"0.335","ppvisitednodes":{"value":1302,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":97469,"limit":2097152},"templateargumentsize":{"value":19597,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":12654,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  254.548      1 -total"," 33.86%   86.199      1 Template:Reflist"," 30.88%   78.600      1 Template:Anthropology_of_kinship"," 29.25%   74.454      1 Template:Sidebar_with_collapsible_lists"," 25.58%   65.101      1 Template:Cite_web"," 19.08%   48.576     11 Template:Quote"," 13.17%   33.517      4 Template:Sidebar","  9.25%   23.541     11 Template:Trim_quotes","  5.31%   13.507      2 Template:Navbox","  5.16%   13.147      1 Template:Close_plural_relationships"]},"scribunto":{"limitreport-timeusage":{"value":"0.084","limit":"10.000"},"limitreport-memusage":{"value":2469303,"limit":52428800}},"cachereport":{"origin":"mw1264","timestamp":"20191007115052","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Nurture kinship","url":"https:\/\/en.wikipedia.org\/wiki\/Nurture_kinship","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4396070","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4396070","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-12-19T19:01:08Z","dateModified":"2019-04-16T20:38:10Z"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":83,"wgHostname":"mw1323"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.440","walltime":"0.547","ppvisitednodes":{"value":1682,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":89557,"limit":2097152},"templateargumentsize":{"value":465,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":95867,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  428.987      1 -total"," 85.78%  367.998      1 Template:Reflist"," 24.84%  106.546      1 Template:Cite_encyclopedia"," 18.76%   80.481      9 Template:Cite_news"," 13.67%   58.631     12 Template:Cite_web","  9.58%   41.109      8 Template:Cite_book","  7.02%   30.134      1 Template:Cite_journal","  5.77%   24.759      1 Template:Personal_names","  5.31%   22.782      2 Template:Navbox","  4.65%   19.966      1 Template:Use_dmy_dates"]},"scribunto":{"limitreport-timeusage":{"value":"0.243","limit":"10.000"},"limitreport-memusage":{"value":3825854,"limit":52428800}},"cachereport":{"origin":"mw1290","timestamp":"20191022131343","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Aptronym","url":"https:\/\/en.wikipedia.org\/wiki\/Aptronym","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1756239","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1756239","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-03-30T04:00:11Z","dateModified":"2019-10-22T13:13:47Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":96,"wgHostname":"mw1319"});});</script>
 </body>
 </html>

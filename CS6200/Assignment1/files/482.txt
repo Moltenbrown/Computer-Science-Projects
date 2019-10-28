@@ -2,35 +2,35 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Online Writing Lab - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Online_Writing_Lab","wgTitle":"Online Writing Lab","wgCurRevisionId":903282978,"wgRevisionId":903282978,"wgArticleId":3133616,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from January 2011","All articles needing additional references","Computer-related introductions in 1994","Academia"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Online_Writing_Lab",
-"wgRelevantArticleId":3133616,"wgRequestId":"Xa-OjApAIC4AAJobO-8AAABK","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Purdue_Online_Writing_Lab","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Online_Writing_Lab","wgWikibaseItemId":"Q7094053","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user"
-:"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","ext.cite.tracking","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents",
-"ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Fictive kinship - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Fictive_kinship","wgTitle":"Fictive kinship","wgCurRevisionId":870650381,"wgRevisionId":870650381,"wgArticleId":1441023,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: extra text: authors list","Anthropology","Kinship and descent"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Fictive_kinship","wgRelevantArticleId":1441023,"wgRequestId":"XbYqWgpAAD4AAF7iygkAAACI","wgCSPNonce":!1,
+"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q5446591","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready"
+,"mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.2"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Online_Writing_Lab"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Online_Writing_Lab&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Online_Writing_Lab&amp;action=edit"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Fictive_kinship"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Fictive_kinship&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Fictive_kinship&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Online_Writing_Lab"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Fictive_kinship"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Online_Writing_Lab rootpage-Online_Writing_Lab skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Fictive_kinship rootpage-Fictive_kinship skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -39,75 +39,405 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Online Writing Lab</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Fictive kinship</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
-		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Purdue_Online_Writing_Lab&amp;redirect=no" class="mw-redirect" title="Purdue Online Writing Lab">Purdue Online Writing Lab</a>)</span></div>
+		<div id="contentSub"></div>
 		
 		
 		
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Online_Writing_Lab&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Online+Writing+Lab%22">"Online Writing Lab"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Online+Writing+Lab%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Online+Writing+Lab%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Online+Writing+Lab%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Online+Writing+Lab%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Online+Writing+Lab%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">January 2011</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
-<p>An <b>Online Writing Lab</b> (<b>OWL</b>) is often an extension of a university <a href="/wiki/Writing_center" title="Writing center">writing center</a>. Online writing labs offer help to students and other writers by providing <a href="/wiki/Literacy" title="Literacy">literacy</a> materials, such as handouts and <a href="/wiki/Overhead_projector" title="Overhead projector">slide presentations</a>. Writers may also submit questions electronically for feedback. Many OWLs are open to people unaffiliated with the specific institution. Online writing labs play an important part in writing center assistance because they allow writers to use some of the center's resources remotely.
-</p><p><a href="/wiki/Purdue_University" title="Purdue University">Purdue University</a> in <a href="/wiki/West_Lafayette,_Indiana" title="West Lafayette, Indiana">West Lafayette, Indiana</a> launched the first OWL in 1994. Their OWL is available freely online to all, and includes handouts, information on subject areas, resources geared towards students in grades 7-12<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> and citation formatting help for MLA, APA and more.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Kinship_and_descent" title="Category:Kinship and descent">a series</a> on the</td></tr><tr><th class="navbox-title" style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;padding-top:0.2em; display:block;margin-bottom:0.3em;">Anthropology of <a href="/wiki/Kinship" title="Kinship">kinship</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:lavender;text-align:center;">Basic concepts</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding:0.2em 0 0.6em;"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none"><tbody><tr><td class="hlist" style="padding:0 0.1em 0.4em;padding:0.2em 0 0.6em;;padding-top:0;">
+<ul><li><a href="/wiki/Affinity_(law)" title="Affinity (law)">Affinity</a></li>
+<li><a href="/wiki/Consanguinity" title="Consanguinity">Consanguinity</a></li>
+<li><a href="/wiki/Marriage" title="Marriage">Marriage</a></li>
+<li><a href="/wiki/Incest_taboo" title="Incest taboo">Incest taboo</a></li>
+<li><a href="/wiki/Endogamy" title="Endogamy">Endogamy</a></li>
+<li><a href="/wiki/Exogamy" title="Exogamy">Exogamy</a></li>
+<li><a href="/wiki/Moiety_(kinship)" title="Moiety (kinship)">Moiety</a></li>
+<li><a href="/wiki/Monogamy" title="Monogamy">Monogamy</a></li>
+<li><a href="/wiki/Polygyny" title="Polygyny">Polygyny</a></li>
+<li><a href="/wiki/Polygamy" title="Polygamy">Polygamy</a></li>
+<li><a href="/wiki/Concubinage" title="Concubinage">Concubinage</a></li>
+<li><a href="/wiki/Polyandry" title="Polyandry">Polyandry</a></li>
+<li><a href="/wiki/Bride_price" title="Bride price">Bride price</a></li>
+<li><a href="/wiki/Bride_service" title="Bride service">Bride service</a></li>
+<li><a href="/wiki/Dowry" title="Dowry">Dowry</a></li>
+<li><a href="/wiki/Parallel_and_cross_cousins" title="Parallel and cross cousins">Parallel&#160;/&#32;cross cousins</a></li>
+<li><a href="/wiki/Cousin_marriage" title="Cousin marriage">Cousin marriage</a></li>
+<li><a href="/wiki/Levirate_marriage" title="Levirate marriage">Levirate</a></li>
+<li><a href="/wiki/Sororate_marriage" title="Sororate marriage">Sororate</a></li>
+<li><a href="/wiki/Ghost_marriage_(Chinese)" class="mw-redirect" title="Ghost marriage (Chinese)"><span class="wrap">Ghost marriage</span></a></li>
+<li><a href="/wiki/Joking_relationship" title="Joking relationship">Joking relationship</a></li>
+<li><a href="/wiki/Family" title="Family">Family</a></li>
+<li><a href="/wiki/Lineage_(anthropology)" title="Lineage (anthropology)">Lineage</a></li>
+<li><a href="/wiki/Clan" title="Clan">Clan</a></li>
+<li><a href="/wiki/Cohabitation" title="Cohabitation">Cohabitation</a></li>
+<li><span class="nowrap"><a class="mw-selflink selflink">Fictive</a>&#160;/&#32;<a href="/wiki/Milk_kinship" title="Milk kinship">Milk</a>&#160;/&#32;<a href="/wiki/Nurture_kinship" title="Nurture kinship">Nurture kinship</a></span></li></ul></td>
+</tr><tr><th style="padding:0.1em;background:#e6e6ff;font-style:italic;font-weight:normal;">
+Descent</th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em;padding:0.2em 0 0.6em;">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none"><tbody><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Cognatic_kinship" title="Cognatic kinship">Cognatic</a>&#160;/&#32;<a href="/wiki/Bilateral_descent" title="Bilateral descent">Bilateral</a></li>
+<li><a href="/wiki/Matrilateral" title="Matrilateral">Matrilateral</a></li>
+<li><a href="/wiki/House_society" title="House society">House society</a></li>
+<li><a href="/wiki/Avunculate" title="Avunculate">Avunculate</a></li></ul></td>
+</tr><tr><th style="padding:0.1em;font-style:italic;font-weight:normal;">
+Linealities</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Ambilineality" title="Ambilineality">Ambilineality</a></li>
+<li><a href="/wiki/Unilineality" title="Unilineality">Unilineality</a></li>
+<li><a href="/wiki/Matrilineality" title="Matrilineality">Matrilineality</a></li>
+<li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineality</a></li></ul></td>
+</tr></tbody></table></td>
+</tr><tr><th style="padding:0.1em;background:#e6e6ff;font-style:italic;font-weight:normal;">
+Household forms and residence</th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em;padding:0.2em 0 0.6em;">
+<ul><li><a href="/wiki/Extended_family" title="Extended family">Extended</a></li>
+<li><a href="/wiki/Matrifocal_family" title="Matrifocal family">Matrifocal</a></li>
+<li><a href="/wiki/Matrilocal_residence" title="Matrilocal residence">Matrilocal</a></li>
+<li><br /><a href="/wiki/Nuclear_family" title="Nuclear family">Nuclear</a></li>
+<li><a href="/wiki/Patrilocal_residence" title="Patrilocal residence">Patrilocal</a></li></ul></td>
+</tr></tbody></table></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:lavender;text-align:center;">Terminology</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding:0.2em 0 0.6em;"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none"><tbody><tr><td style="padding:0 0.1em 0.4em;padding:0.2em 1.0em 0.6em;">
+<ul><li><a href="/wiki/Kinship_terminology" title="Kinship terminology">Kinship terminology</a></li>
+<li><a href="/wiki/Classificatory_kinship" title="Classificatory kinship">Classificatory terminologies</a></li></ul></td>
+</tr><tr><th style="padding:0.1em;background:#e6e6ff;font-style:italic;font-weight:normal;">
+By group</th></tr><tr><td style="padding:0 0.1em 0.4em;padding:0.2em 1.0em 0.6em;">
+<div class="hlist">
+<ul><li><a href="/wiki/Iroquois_kinship" title="Iroquois kinship">Iroquois</a></li>
+<li><a href="/wiki/Crow_kinship" title="Crow kinship">Crow</a></li>
+<li><a href="/wiki/Omaha_kinship" title="Omaha kinship">Omaha</a></li>
+<li><a href="/wiki/Eskimo_kinship" title="Eskimo kinship">Inuit</a></li>
+<li><a href="/wiki/Hawaiian_kinship" title="Hawaiian kinship">Hawaiian</a></li>
+<li><a href="/wiki/Sudanese_kinship" title="Sudanese kinship">Sudanese</a></li>
+<li><a href="/wiki/Kinship_terminology#Tamil_/Dravidian" title="Kinship terminology">Dravidian</a></li></ul>
+</div></td>
+</tr></tbody></table></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:lavender;text-align:center;">Case studies</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding:0.2em 0 0.6em;"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none"><tbody><tr><td style="padding:0 0.1em 0.4em;padding:0.2em 0.5em 0.6em;">
+<div class="hlist">
+<ul><li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal</a></li>
+<li><a href="/wiki/Burmese_kinship" title="Burmese kinship">Burmese</a></li>
+<li><a href="/wiki/Chinese_kinship" title="Chinese kinship">Chinese</a></li>
+<li><a href="/wiki/Philippine_kinship" title="Philippine kinship">Philippine</a></li>
+<li><a href="/wiki/Polyandry_in_Tibet" title="Polyandry in Tibet">Polyandry in Tibet</a>&#160;/&#32;<a href="/wiki/Polyandry_in_India" title="Polyandry in India">in India</a></li></ul>
+</div></td>
+</tr><tr><th style="padding:0.1em;background:#e6e6ff;font-style:italic;font-weight:normal;">
+Feminist</th></tr><tr><td style="padding:0 0.1em 0.4em;padding:0.2em 0.5em 0.6em;">
+<div class="hlist">
+<ul><li><a href="/wiki/Chambri_people#Marriage_within_the_Chambri" title="Chambri people">Chambri</a></li>
+<li><a href="/wiki/Mosuo_women" title="Mosuo women">Mosuo</a></li></ul>
+</div></td>
+</tr><tr><th style="padding:0.1em;background:#e6e6ff;font-style:italic;font-weight:normal;">
+Sexuality</th></tr><tr><td style="padding:0 0.1em 0.4em;padding:0.2em 0.5em 0.6em;">
+<ul><li><i><a href="/wiki/Coming_of_Age_in_Samoa" title="Coming of Age in Samoa">Coming of Age in Samoa</a></i></li></ul></td>
+</tr></tbody></table></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:lavender;text-align:center;">Major theorists</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding:0.2em 0 0.6em;"><div class="hlist">
+<ul><li><a href="/wiki/Diane_Bell" title="Diane Bell">Diane Bell</a></li>
+<li><a href="/wiki/Tom_Boellstorff" title="Tom Boellstorff">Tom Boellstorff</a></li>
+<li><a href="/wiki/Jack_Goody" title="Jack Goody">Jack Goody</a></li>
+<li><a href="/wiki/Gilbert_Herdt" title="Gilbert Herdt">Gilbert Herdt</a></li>
+<li><a href="/wiki/Don_Kulick" title="Don Kulick">Don Kulick</a></li>
+<li><a href="/wiki/Roger_Lancaster" title="Roger Lancaster">Roger Lancaster</a></li>
+<li><a href="/wiki/Louise_Lamphere" title="Louise Lamphere">Louise Lamphere</a></li>
+<li><a href="/wiki/Eleanor_Leacock" title="Eleanor Leacock">Eleanor Leacock</a></li>
+<li><a href="/wiki/Claude_L%C3%A9vi-Strauss" title="Claude Lévi-Strauss">Claude Lévi-Strauss</a></li>
+<li><a href="/wiki/Bronis%C5%82aw_Malinowski" title="Bronisław Malinowski">Bronisław Malinowski</a></li>
+<li><a href="/wiki/Margaret_Mead" title="Margaret Mead">Margaret Mead</a></li>
+<li><a href="/wiki/Henrietta_Moore" title="Henrietta Moore">Henrietta Moore</a></li>
+<li><a href="/wiki/Lewis_H._Morgan" title="Lewis H. Morgan">Lewis H. Morgan</a></li>
+<li><a href="/wiki/Stephen_O._Murray" title="Stephen O. Murray">Stephen O. Murray</a></li>
+<li><a href="/wiki/Michelle_Rosaldo" title="Michelle Rosaldo">Michelle Rosaldo</a></li>
+<li><a href="/wiki/David_M._Schneider" title="David M. Schneider">David M. Schneider</a></li>
+<li><a href="/wiki/Marilyn_Strathern" title="Marilyn Strathern">Marilyn Strathern</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:lavender;text-align:center;">Related articles</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding:0.2em 0 0.6em;">
+<ul><li><a href="/wiki/Alliance_theory" title="Alliance theory">Alliance theory</a></li>
+<li><a href="/wiki/List_of_matrilineal_or_matrilocal_societies" title="List of matrilineal or matrilocal societies">Matrilineal&#160;/&#32;matrilocal societies</a></li>
+<li><a href="/wiki/Feminist_anthropology" title="Feminist anthropology">Feminist anthropology</a></li>
+<li><div style="padding:0.1em 0;line-height:1.2em;"><i><a href="/wiki/Sex_and_Repression_in_Savage_Society" title="Sex and Repression in Savage Society">Sex and Repression in Savage Society</a></i></div></li>
+<li><div style="padding:0.1em 0;line-height:1.2em;"><i><a href="/wiki/Social_Bonding_and_Nurture_Kinship" title="Social Bonding and Nurture Kinship">Social Bonding and Nurture Kinship</a></i></div></li></ul></div></div></td>
+</tr><tr><td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;padding-top:0.15em;white-space:nowrap;">
+<a href="/wiki/Social_anthropology" title="Social anthropology">Social anthropology</a><br /><a href="/wiki/Cultural_anthropology" title="Cultural anthropology">Cultural anthropology</a></td></tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Anthropology_of_kinship" title="Template:Anthropology of kinship"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Anthropology_of_kinship" title="Template talk:Anthropology of kinship"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Anthropology_of_kinship&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><b>Fictive kinship</b> is a term used by <a href="/wiki/Anthropology" title="Anthropology">anthropologists</a> and <a href="/wiki/Ethnography" title="Ethnography">ethnographers</a> to describe forms of <a href="/wiki/Kinship" title="Kinship">kinship</a> or social ties that are based on neither <a href="/wiki/Consanguinity" title="Consanguinity">consanguineal</a> (blood ties) nor <a href="/wiki/Affinity_(law)" title="Affinity (law)">affinal</a> ("by marriage") ties, in contrast to <i>true kinship</i> ties.
+</p><p>To the extent that consanguineal and affinal kinship ties might be considered <i>real</i> or <i>true</i> kinship, the term <i>fictive kinship</i> has in the past been used to refer to those kinship ties that are <i>fictive</i>, in the sense of <i>not-real</i>. Invoking the concept as a cross-culturally valid anthropological category therefore rests on the presumption that the inverse category of "(true) kinship" built around consanguinity and affinity is similarly cross-culturally valid. Use of the term was common until the mid-to-late twentieth century, when anthropology effectively deconstructed and revised many of the concepts and categories around the study of kinship and social ties. In particular, anthropologists established that a consanguinity basis for kinship ties is not universal across cultures, and that—on the contrary—it may be a culturally specific symbol of kinship only in particular cultures (see the articles on <a href="/wiki/Kinship" title="Kinship">kinship</a> and <a href="/wiki/David_M._Schneider" title="David M. Schneider">David M. Schneider</a> for more information on the history of kinship studies).
+</p><p>Stemming from anthropology's early connections to legal studies, the term <i>fictive kinship</i> may also be used in a legal sense, and this use continues in societies where these categories and definitions regarding kinship and social ties have legal currency; e.g. in matters of inheritance.
+</p><p>As part of the deconstruction of kinship mentioned above, anthropologists now recognize that—cross-culturally—the kinds of social ties and relationships formerly treated under the category of "kinship" are very often not necessarily predicated on blood ties or marriage ties, and may rather be based on shared residence, shared economic ties, <a href="/wiki/Nurture_kinship" title="Nurture kinship">nurture kinship</a>, or familiarity via other forms of interaction.
+</p><p>In <a href="/wiki/Sociology_of_the_family" title="Sociology of the family">sociology of the family</a>, this idea is referred to as <b>chosen kin</b>, <b>fictive kin</b> or <b>voluntary kin</b>. Sociologists define the concept as a form of extended family members who are not related by either blood or marriage. The bonds allowing for chosen kinship may include religious rituals, close friendship ties,<sup id="cite_ref-Ebaugh_1-0" class="reference"><a href="#cite_note-Ebaugh-1">&#91;1&#93;</a></sup> or other essential reciprocal social or economic relationships.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Examples of chosen kin include <a href="/wiki/Godparents" class="mw-redirect" title="Godparents">godparents</a>, informally adopted children, and close family friends.<sup id="cite_ref-Ciabattari_3-0" class="reference"><a href="#cite_note-Ciabattari-3">&#91;3&#93;</a></sup><sup class="reference" style="white-space:nowrap;">:<span>31–32</span></sup> The idea of fictive kin has been used to analyze aging,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> foreign fighters, <sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> immigrant communities,<sup id="cite_ref-Ebaugh_1-1" class="reference"><a href="#cite_note-Ebaugh-1">&#91;1&#93;</a></sup> and minorities<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> in modern societies. Some researchers state that peers have the potential to create fictive kin networks.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
 </p>
-<h2><span class="mw-headline" id="OWL_history">OWL history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Online_Writing_Lab&amp;action=edit&amp;section=1" title="Edit section: OWL history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>In 1976, the Department of English at Purdue University asked Muriel "Mickey" Harris to establish a writing lab, a <a href="/wiki/Campus" title="Campus">campus</a>-based service designed to assist learners in their rhetorical writing processes. Harris began the writing lab by collaborating with a team of graduate assistants, who worked one-to-one with student writers and often developed handouts to reinforce the lessons the students learned in the writing lab.  The writing tutors and Harris sent paper copies of their materials to individuals beyond Purdue University who contacted the writing lab requesting information on writing, citation, or research. Later, these resources became available electronically through <a href="/wiki/Email" title="Email">email</a> requests and through <a href="/wiki/GOPHER" class="mw-redirect" title="GOPHER">GOPHER</a> in 1993, a precursor to the <a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a>. Harris and the Purdue Writing Lab launched its OWL on the web in 1995, making it one of the first OWLs on the Internet. Having made its library of resources available electronically, the Purdue OWL<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> is now accessed by millions of users worldwide.
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Examples"><span class="tocnumber">1</span> <span class="toctext">Examples</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Critiques"><span class="tocnumber">2</span> <span class="toctext">Critiques</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Use_in_sociobiology"><span class="tocnumber">3</span> <span class="toctext">Use in sociobiology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Bibliography"><span class="tocnumber">6</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fictive_kinship&amp;action=edit&amp;section=1" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Types of relations often described by anthropologists as <i>fictive kinship</i> include <a href="/wiki/Compadrazgo" class="mw-redirect" title="Compadrazgo">compadrazgo</a> relations, <a href="/wiki/Foster_care" title="Foster care">foster care</a>, common membership in a unilineal descent group, and legal <a href="/wiki/Adoption" title="Adoption">adoption</a>. A noted <a href="/wiki/Gurung" class="mw-redirect" title="Gurung">Gurung</a> tradition is the institution of "Rodi", where teenagers form fictive kinship bonds and become Rodi members to socialize, perform communal tasks, and find marriage partners. In <a href="/wiki/Western_culture" title="Western culture">Western culture</a>, a person may refer to close friends of one's parents as "aunt" or "uncle" (and their children as "cousin"), or may refer to close friends as "brother" or "sister", although this is just a mere courtesy treatment and does not represent an actual valuation as such. In particular, college fraternities and sororities in some North American cultures usually use "brother" and "sister" to refer to members of the organization. Monastic, Masonic, and Lodge organisations also use the term "Brother" for members. "Nursing Sister" is used to denote a rank of nurse, and the term "Sisterhood" may be used for feminists. Fictive kinship was discussed by Jenny White in her work on female migrant workers in <a href="/wiki/Istanbul" title="Istanbul">Istanbul</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> In her work, she draws on ideas of production and the women she works with being drawn together through "webs of indebtedness" through which the women refer to each other as kin. These relationships are, however, less frequent than kin relationships, and serve purposes that are not comparable to, nor exclude, a natural <a href="/wiki/Family" title="Family">family</a> and, much less, natural and universal parents-having-children reproduction system.
 </p>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Online_Writing_Lab&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Compadrazgo is a form of fictive kinship that is rooted in Central Mexico history for many years. Literally meaning "co-parenthood", compadrazgo is a term to describe the set of relationships between a child, their parents, and their godparents. It has been hypothesized that these relationships evolved after the <a href="/wiki/Spanish_conquest_of_the_Aztec_Empire" title="Spanish conquest of the Aztec Empire">Spanish conquest in 1521</a> to help deal with stressful situations.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> These fictive kinships still exist in modern day Mexican societies, and are established by providing some form of aid throughout the child's life.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> Godparents seldom become more important than parents, though, much less in a non-economic fashion.</li>
+<li>Undocumented immigrants have also demonstrated fictive kin relationships. Undocumented restaurant workers are known to form pseudo-families in which they cooperate within living and working situations.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> These relationships benefit the workers by creating a support system that would otherwise be unavailable to those living far from home. These ties are, however, fictive in a strict sense and mean nothing to the people in such pretenses.</li>
+<li>Some fictive kin relationships have been discovered in <a href="/wiki/Israel" title="Israel">Israel</a> in relation to <a href="/wiki/Organ_transplantation" title="Organ transplantation">organ transplants</a>. Hospital committees are formed to assess whether the organ donation is from a true family member or from a friend.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> In order to obtain organ transplants, some individuals are forced to find strangers and pay them compensation for the procedure. However, the relationship between the donor and recipient must be invented as a familial relationship in order to pass through the hospital committee. In this case, fictive kinship is created knowingly to both parties in order to achieve their goals, and is mutualistic in nature.</li>
+<li>Adoption and foster care have always been grouped into the fictive kinship category (in cases where the child shares no genetic relatedness to the caregivers). The children are normally treated as the adopters' biological kin, receiving a lot of parental investment despite not having family ties. This view has been chastised by some who claim that notions of kinship are not always based on biological determinants.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> But these links do not mean that the adopters would not love more their biological offspring, given the extra natural motivation of survival.</li>
+<li>The <a href="/wiki/United_States_Armed_Forces" title="United States Armed Forces">United States military</a> has also been an avenue to propagate fictive kinship, such as the sense of brotherhood felt by the soldiers. Fictive kinship has been demonstrated among the spouses of military men and women as well.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> These relationships may facilitate close bonds that are beneficial during times of hardship.</li>
+<li>Other times, relationships can appear from the outside to be fictive kinship relationships, but the reality is that this appearance is just the result of kinship terminology. Members of the Shanti Nagar village in <a href="/wiki/North_India" title="North India">North India</a> refer to everyone—even strangers—in familial terms.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> A man would address another man of a similar in age as "brother", and would address an older man as "uncle". Although these terms used in addressing one another appear to be indicative of fictive kinship, they do not actually suggest the existence of ritual kin relationships.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Critiques">Critiques</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fictive_kinship&amp;action=edit&amp;section=2" title="Edit section: Critiques">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Recently, many anthropologists have abandoned a distinction between "real" and "fictive" kin, because many cultures do not base their notion of kinship on genealogical relations. This was argued most forcefully by <a href="/wiki/David_M._Schneider" title="David M. Schneider">David M. Schneider</a>, in his 1984 book <i>A critique of the study of kinship</i>.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> In response to this insight, <a href="/wiki/Janet_Carsten" title="Janet Carsten">Janet Carsten</a> developed the idea of "<a href="/wiki/Relatedness" class="mw-redirect" title="Relatedness">relatedness</a>". She developed her initial ideas from studies with the <a href="/wiki/Ethnic_Malays" class="mw-redirect" title="Ethnic Malays">Malays</a> in looking at what was socialized and biological. Here she uses the idea of relatedness to move away from a pre-constructed analytics opposition which exists in anthropological thought between the biological and the social.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> Carsten argued that relatedness should be described in terms of indigenous statements and practices, some of which fall outside what anthropologists have conventionally understood as kinship.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</p><p>This does not imply, however, that human non-kin relationships, such as in <a href="/wiki/Tit-for-tat" class="mw-redirect" title="Tit-for-tat">tit-for-tat</a> situations, even within a friendship relation, are more important than kin relationships, since their motivation is also related to one's survival and perpetuation, or that people are necessarily bound to the culture they are inserted in, nor can it be generalized to the point of claiming all individuals always undervalue kinship in the absence of nurturing. <a href="/wiki/Herbert_Gintis" title="Herbert Gintis">Herbert Gintis</a>, in his review of the book <i><a href="/wiki/Sex_at_Dawn" title="Sex at Dawn">Sex at Dawn</a></i>, critiques the idea that human males were unconcerned with parentage, "which would make us unlike any other species I can think of".<sup id="cite_ref-gintis_21-0" class="reference"><a href="#cite_note-gintis-21">&#91;21&#93;</a></sup> Such individuals can be considered out of the natural tendency of living beings for survival through offspring.
+</p><p>In response to a similar model advanced by <a href="/wiki/E._O._Wilson" title="E. O. Wilson">E. O. Wilson</a>, <a href="/wiki/Rice_University" title="Rice University">Rice University</a>’s <a href="/w/index.php?title=David_Queller&amp;action=edit&amp;redlink=1" class="new" title="David Queller (page does not exist)">David Queller</a> said that such new model "involves, and I suspect requires, close kinship".<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup> The theory also overlooks phenomena of survivalist non-kin or not close kin such as the one that can be seen on <a href="/wiki/Tribalism" title="Tribalism">tribalism</a> or <a href="/wiki/Ethnic_nationalism" title="Ethnic nationalism">ethnic nationalism</a>.
+</p>
+<h2><span class="mw-headline" id="Use_in_sociobiology">Use in sociobiology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fictive_kinship&amp;action=edit&amp;section=3" title="Edit section: Use in sociobiology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Social_bonding_and_nurture_kinship" class="mw-redirect" title="Social bonding and nurture kinship">Social bonding and nurture kinship</a></div>
+<p>In the biological and animal behavioural sciences, the term "kinship" has a different meaning from the current anthropological usage of the term, and more in common with the former anthropological usage that assumed that blood ties are ontologically prior to social ties. In these sciences, "kinship" is commonly used as a shorthand for "the regression coefficient of (genetic) relatedness", which is a metric denoting the proportion of shared genetic material between any two individuals relative to average degrees of genetic variance in the population under study. This coefficient of relationship is an important component of the theory of <a href="/wiki/Inclusive_fitness" title="Inclusive fitness">inclusive fitness</a>, a treatment of the evolutionary selective pressures on the emergence of certain forms of social behavior. Confusingly, inclusive fitness theory is more popularly known through its narrower form, <a href="/wiki/Kin_selection" title="Kin selection">kin selection</a> theory, whose name clearly resonates with former conceptions of "kinship" in anthropology.
+</p><p>Whilst inclusive fitness theory thus describes one of the necessary conditions for the evolutionary emergence of social behaviors, the details of the proximate conditions mediating the expression of social bonding and cooperation have been less investigated in sociobiology. In particular, the question of whether genetic relatedness (or "blood ties") must necessarily be present for social bonding and cooperation to be expressed has been the source of much confusion, partly due to thought experiments in <a href="/wiki/W._D._Hamilton" title="W. D. Hamilton">W. D. Hamilton</a>'s early theoretical treatments. In addition to setting out the details of the evolutionary selection pressure, Hamilton roughly outlined two possible mechanisms by which the expression of social behaviors might be mediated:
+</p>
+<style data-mw-deduplicate="TemplateStyles:r886047036">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><p>The  selective  advantage  which  makes  behaviour  conditional  in  the  right  sense  on the  discrimination  of  factors  which  correlate  with  the  relationship  of  the  individual concerned  is  therefore  obvious.  It  may  be,  for  instance,  that  in  respect  of  a  certain social  action  performed  towards  neighbours  indiscriminately,  an  individual  is  only just breaking even in terms of inclusive fitness. If he could learn to recognise those of his neighbours  who  really  were  close  relatives  and  could  devote  his  beneficial actions to them alone an advantage to inclusive fitness would at once appear. Thus a mutation causing such discriminatory behaviour itself benefits inclusive  fitness and would be selected. In fact, the individual may not need to perform any discrimination so sophisticated as we suggest here; a difference in the generosity of his behaviour according to whether the situations evoking it were encountered near to, or far from, his own home might occasion an advantage of a similar kind.<sup id="cite_ref-H1964_23-0" class="reference"><a href="#cite_note-H1964-23">&#91;23&#93;</a></sup>
+</p></blockquote>
+<p>Traditional sociobiology did not consider the divergent consequences between these basic possibilities for the expression of social behavior, and instead assumed that the expression operates in the "recognition" manner, whereby individuals are behaviorally primed to discriminate which others are their true genetic relatives, and engage in cooperative behavior with them. But when expression has evolved to be primarily location-based or context-based—depending on a society's particular demographics and history—social ties and cooperation may or may not coincide with blood ties. Reviews<sup id="cite_ref-SBNK_24-0" class="reference"><a href="#cite_note-SBNK-24">&#91;24&#93;</a></sup> of the mammal, primate, and human evidence demonstrate that expression of social behaviors in these species are primarily location-based and context-based (see <a href="/wiki/Nurture_kinship" title="Nurture kinship">nurture kinship</a>), and examples of what used to be labeled as "fictive kinship" are readily understood in this perspective. Social cooperation, however, does not mean people see each other as family or family-like, nor that people will value those known not to be related with them more than the ones who are or simply neglect relatedness.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fictive_kinship&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 18em; -webkit-column-width: 18em; column-width: 18em;">
+<ul><li><a href="/wiki/Adelphopoiesis" title="Adelphopoiesis">Adelphopoiesis</a></li>
+<li><a href="/wiki/Blood_brother" title="Blood brother">Blood brother</a></li>
+<li><a href="/wiki/Body_of_Christ" title="Body of Christ">Body of Christ</a></li>
+<li><a href="https://en.wiktionary.org/wiki/brother-in-arms" class="extiw" title="wiktionary:brother-in-arms">Brother-in-arms</a></li>
+<li><a href="https://en.wiktionary.org/wiki/charge_nurse" class="extiw" title="wiktionary:charge nurse">Charge nurse</a></li>
+<li><a href="/wiki/Compadre" title="Compadre">Compadre</a></li>
+<li><a href="/wiki/Filiation" title="Filiation">Filiation</a></li>
+<li><a href="/wiki/Fraternity" title="Fraternity">Fraternity</a></li>
+<li><a href="/wiki/Godparent" title="Godparent">Godparent</a></li>
+<li><a href="/wiki/Inclusive_fitness" title="Inclusive fitness">Inclusive fitness</a></li>
+<li><a href="/wiki/Kin_recognition" title="Kin recognition">Kin recognition</a></li>
+<li><a href="/wiki/Kin_selection" title="Kin selection">Kin selection</a></li>
+<li><a href="/wiki/Kinship_terminology" title="Kinship terminology">Kinship terminology</a></li>
+<li><a href="/wiki/Law_of_adoption_(Mormonism)" title="Law of adoption (Mormonism)">Law of adoption (Mormonism)</a></li>
+<li><a href="/wiki/Milk_kinship" title="Milk kinship">Milk kinship</a></li>
+<li><a href="/wiki/Nurture_kinship" title="Nurture kinship">Nurture kinship</a></li>
+<li><i><a href="/wiki/Social_Bonding_and_Nurture_Kinship" title="Social Bonding and Nurture Kinship">Social Bonding and Nurture Kinship</a></i></li></ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fictive_kinship&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
 <ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://owl.english.purdue.edu/owl/resource/677/01/">https://owl.english.purdue.edu/owl/resource/677/01/</a></span>
+<li id="cite_note-Ebaugh-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ebaugh_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ebaugh_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Ebaugh, Helen Rose, and Mary Curry. "Fictive kin as social capital in new immigrant communities." <i>Sociological Perspectives 43</i>, no. 2 (2000): 189-209.</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://owl.english.purdue.edu">https://owl.english.purdue.edu</a></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Fordham, Signithia. "Racelessness as a factor in Black students' school success: Pragmatic strategy or pyrrhic victory?." <i>Harvard educational review 58</i>, no. 1 (1988): 54-85.</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://owl.english.purdue.edu">The Purdue OWL</a>.</span>
+<li id="cite_note-Ciabattari-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ciabattari_3-0">^</a></b></span> <span class="reference-text">Ciabattari, Teresa. <i>Sociology of Families: Change, Continuity, and Diversity</i>. SAGE Publications. 2016.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Mac Rae, Hazel. "Fictive kin as a component of the social networks of older people." <i>Research on Aging 14</i>, no. 2 (1992): 226-247.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Cerwyn Moore (2015) Foreign Bodies: Transnational Activism, the Insurgency in the North Caucasus and “Beyond”, Terrorism and Political Violence, vol.27, no.3, 395-415</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Liebow, Elliot. <i>Tally's corner: A study of Negro streetcorner men</i>. Rowman &amp; Littlefield, 2003.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Stack, Carol B. All our kin. Basic Books, 1975.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Tierney, William G., and Kristan M. Venegas. "Fictive kin and social capital the role of peer groups in applying and paying for college." <i>American Behavioral Scientist 49</i>, no. 12 (2006): 1687-1702.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">White, <i>Money Makes Us Relatives</i>.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Horstman, Compadrazgo and Adaptation in Sixteenth Century Central Mexico</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Carlos, Fictive Kinship and Modernization in Mexico: A Comparative Analysis.</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Kim, "Mama's Family": Fictive Kinship and undocumented immigrant restaurant workers.</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Jacob, Unknotting fictive kinship and legal process.</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Howell, Adoption of the Unrelated Child: Some Challenges to the Anthropological Study of Kinship</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Frese, Anthropology and the United States military: Coming of Age in the Twenty First Century.</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Freed, Fictive Kinship in a North Indian Village</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Vatuk, Reference, Address, and Fictive Kinship in Urban North India.</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Schneider, <i>A Critique of The Study of Kinship</i></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Carsten, <i>The substance of kinship and the heat of the hearth; feeding, personhood and relatedness among the Malays in Pulau Langkawi</i>.</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Carsten, <i>Cultures of Relatedness</i>.</span>
+</li>
+<li id="cite_note-gintis-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-gintis_21-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Gintis, Herbert. <a rel="nofollow" class="external text" href="http://smile.amazon.com/review/RKVMPRH1FYL2T/ref=cm_cr_dp_cmt?ie=UTF8&amp;ASIN=0061707805&amp;nodeID=283155&amp;store=books#wasThisHelpful">"Much that is True, but Remember: Is does not Imply Ought,"</a>. <i>Amazon.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">6 August</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Amazon.com&amp;rft.atitle=Much+that+is+True%2C+but+Remember%3A+Is+does+not+Imply+Ought%2C&amp;rft.aulast=Gintis&amp;rft.aufirst=Herbert&amp;rft_id=http%3A%2F%2Fsmile.amazon.com%2Freview%2FRKVMPRH1FYL2T%2Fref%3Dcm_cr_dp_cmt%3Fie%3DUTF8%26ASIN%3D0061707805%26nodeID%3D283155%26store%3Dbooks%23wasThisHelpful&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFictive+kinship" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web">Brandon Keim (2010-08-26). <a rel="nofollow" class="external text" href="https://www.wired.com/wiredscience/2010/08/kin-selection-challenged/2/">"E.O. Wilson proposes new theory of social evolution"</a>. <i>Wired.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Wired.com&amp;rft.atitle=E.O.+Wilson+proposes+new+theory+of+social+evolution&amp;rft.date=2010-08-26&amp;rft.au=Brandon+Keim&amp;rft_id=https%3A%2F%2Fwww.wired.com%2Fwiredscience%2F2010%2F08%2Fkin-selection-challenged%2F2%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFictive+kinship" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-H1964-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-H1964_23-0">^</a></b></span> <span class="reference-text">Hamilton,  William  D. (1964) <i><a href="/wiki/The_Genetical_Evolution_of_Social_Behaviour" title="The Genetical Evolution of Social Behaviour">The Genetical Evolution of Social Behaviour</a></i>. Journal of Theoretical Biology 7:1-52. Reprinted in. 1996. <i>Narrow Roads of Gene Land. Vol. 1.</i> Oxford: W. H. Freeman.</span>
+</li>
+<li id="cite_note-SBNK-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-SBNK_24-0">^</a></b></span> <span class="reference-text">Holland, Maximilian. (2012) <a href="/wiki/Social_Bonding_and_Nurture_Kinship" title="Social Bonding and Nurture Kinship"><i>Social Bonding and Nurture Kinship: Compatibility between Cultural and Biological Approaches</i></a>. North Charleston: Createspace Press.</span>
 </li>
 </ol></div>
-<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Online_Writing_Lab&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a rel="nofollow" class="external text" href="http://writingcenters.org/owcdb/index.php">The International Writing Center Association's list of OWLs</a></li></ul>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fictive_kinship&amp;action=edit&amp;section=6" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r886047268">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin" style="">
+<ul><li><cite class="citation book">Carsten, Janet, ed. (2000). <i>Cultures of Relatedness: New Approaches to the Study of Kinship</i>. Cambridge: Cambridge University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-521-65627-3" title="Special:BookSources/0-521-65627-3"><bdi>0-521-65627-3</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Cultures+of+Relatedness%3A+New+Approaches+to+the+Study+of+Kinship&amp;rft.place=Cambridge&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2000&amp;rft.isbn=0-521-65627-3&amp;rft.aulast=Carsten&amp;rft.aufirst=Janet%2C+ed.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFictive+kinship" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: extra text: authors list (<a href="/wiki/Category:CS1_maint:_extra_text:_authors_list" title="Category:CS1 maint: extra text: authors list">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation journal">Carsten, Janet (May 1995). "The Substance of Kinship and the Heat of the Hearth: Feeding, Personhood, and Relatedness among Malays in Pulau Langkawi". <i>American Ethnologist</i>. <b>22</b> (2): 223–241. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1525%2Fae.1995.22.2.02a00010">10.1525/ae.1995.22.2.02a00010</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/646700">646700</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=American+Ethnologist&amp;rft.atitle=The+Substance+of+Kinship+and+the+Heat+of+the+Hearth%3A+Feeding%2C+Personhood%2C+and+Relatedness+among+Malays+in+Pulau+Langkawi&amp;rft.volume=22&amp;rft.issue=2&amp;rft.pages=223-241&amp;rft.date=1995-05&amp;rft_id=info%3Adoi%2F10.1525%2Fae.1995.22.2.02a00010&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F646700&amp;rft.aulast=Carsten&amp;rft.aufirst=Janet&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFictive+kinship" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book">Schneider, David M. (1984). <i>A Critique of the Study of Kinship</i>. Ann Arbor, Michigan: University of Michigan Press. <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/10605668">10605668</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Critique+of+the+Study+of+Kinship&amp;rft.place=Ann+Arbor%2C+Michigan&amp;rft.pub=University+of+Michigan+Press&amp;rft.date=1984&amp;rft_id=info%3Aoclcnum%2F10605668&amp;rft.aulast=Schneider&amp;rft.aufirst=David+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFictive+kinship" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book">White, Jenny B. (2004). <i>Money Makes Us Relatives: Women's Labor in Urban Turkey</i> (2nd ed.). New York: Routledge. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-203-24042-1" title="Special:BookSources/0-203-24042-1"><bdi>0-203-24042-1</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Money+Makes+Us+Relatives%3A+Women%27s+Labor+in+Urban+Turkey&amp;rft.place=New+York&amp;rft.edition=2nd&amp;rft.pub=Routledge&amp;rft.date=2004&amp;rft.isbn=0-203-24042-1&amp;rft.aulast=White&amp;rft.aufirst=Jenny+B.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFictive+kinship" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fictive_kinship&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" decoding="async" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512" /></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/fictive_kin" class="extiw" title="wiktionary:fictive kin">fictive kin</a></b></i> in Wiktionary, the free dictionary.</td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://eclectic.ss.uci.edu/~drwhite/tlaxcala/">Social Structure and Kinship in Rural Mexico - The <i>Tlaxcala</i> Project</a></li>
+<li><a rel="nofollow" class="external text" href="http://static1.1.sqspcdn.com/static/f/384896/15481602/1323212200077/Gibson_FictiveKinship-Making-Maladaptation-Palatable.pdf?token=eX3H3pqQsaF451kHtE743fsUQaw%3D">Fictive Kinship: Making Maladaptation Palatable</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Family" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Family" title="Template:Family"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Family" title="Template talk:Family"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Family&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Family" style="font-size:114%;margin:0 4em"><a href="/wiki/Family" title="Family">Family</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_History&amp;#10;*_Household&amp;#10;*_Nuclear_family&amp;#10;*_Extended_family&amp;#10;*_Conjugal_family&amp;#10;*_Immediate_family&amp;#10;*_Matrifocal_family&amp;#10;*_Stepfamily&amp;#10;*_Dysfunctional_family&amp;#10;*_Polyfidelitous_families">
+<ul><li><a href="/wiki/History_of_the_family" title="History of the family">History</a></li>
+<li><a href="/wiki/Household" title="Household">Household</a></li>
+<li><a href="/wiki/Nuclear_family" title="Nuclear family">Nuclear family</a></li>
+<li><a href="/wiki/Extended_family" title="Extended family">Extended family</a></li>
+<li><a href="/wiki/Conjugal_family" title="Conjugal family">Conjugal family</a></li>
+<li><a href="/wiki/Immediate_family" title="Immediate family">Immediate family</a></li>
+<li><a href="/wiki/Matrifocal_family" title="Matrifocal family">Matrifocal family</a></li>
+<li><a href="/wiki/Stepfamily" title="Stepfamily">Stepfamily</a></li>
+<li><a href="/wiki/Dysfunctional_family" title="Dysfunctional family">Dysfunctional family</a></li>
+<li><a href="/wiki/Polyfidelity" title="Polyfidelity">Polyfidelitous families</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/First-degree_relatives" title="First-degree relatives">First-degree relatives</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Parent" title="Parent">Parent</a>
+<ul><li><a href="/wiki/Father" title="Father">father</a></li>
+<li><a href="/wiki/Mother" title="Mother">mother</a></li></ul></li>
+<li><a href="/wiki/Child" title="Child">Child</a>
+<ul><li><a href="/wiki/Son" title="Son">son</a></li>
+<li><a href="/wiki/Daughter" title="Daughter">daughter</a></li></ul></li>
+<li><a href="/wiki/Sibling" title="Sibling">Sibling</a>
+<ul><li><a href="/wiki/Brother" title="Brother">brother</a></li>
+<li><a href="/wiki/Sister" title="Sister">sister</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Second-degree_relative" title="Second-degree relative">Second-degree relatives</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Grandparent" title="Grandparent">Grandparent</a></li>
+<li><a href="/wiki/Grandchild" class="mw-redirect" title="Grandchild">Grandchild</a></li>
+<li><a href="/wiki/Aunt" title="Aunt">Aunt</a></li>
+<li><a href="/wiki/Uncle" title="Uncle">Uncle</a></li>
+<li><a href="/wiki/Niece_and_nephew" title="Niece and nephew">Niece and nephew</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Third-degree_relative" title="Third-degree relative">Third-degree relatives</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Great-grandparent" class="mw-redirect" title="Great-grandparent">Great-grandparent</a></li>
+<li><a href="/wiki/Great-grandchild" class="mw-redirect" title="Great-grandchild">Great-grandchild</a></li>
+<li><a href="/wiki/Niece_and_nephew" title="Niece and nephew">Grandnephew and grandniece</a></li>
+<li><a href="/wiki/Uncle" title="Uncle">Great-Uncle</a></li>
+<li><a href="/wiki/Aunt" title="Aunt">Great-Aunt</a></li>
+<li><a href="/wiki/Cousin" title="Cousin">Cousin</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Affinity_(law)" title="Affinity (law)">Family-in-law</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Spouse" title="Spouse">Spouse</a>
+<ul><li><a href="/wiki/Wife" title="Wife">wife</a></li>
+<li><a href="/wiki/Husband" title="Husband">husband</a></li></ul></li>
+<li><a href="/wiki/Parent-in-law" title="Parent-in-law">Parents-in-law</a></li>
+<li><a href="/wiki/Sibling-in-law" title="Sibling-in-law">Siblings-in-law</a></li>
+<li><a href="/wiki/Son-in-law" class="mw-redirect" title="Son-in-law">Son-in-law</a></li>
+<li><a href="/wiki/Daughter-in-law" class="mw-redirect" title="Daughter-in-law">Daughter-in-law</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Stepfamily" title="Stepfamily">Stepfamily</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Stepfather" title="Stepfather">Stepfather</a></li>
+<li><a href="/wiki/Stepmother" title="Stepmother">Stepmother</a></li>
+<li><a href="/wiki/Stepchild" title="Stepchild">Stepchild</a></li>
+<li><a href="/wiki/Stepsibling" title="Stepsibling">Stepsibling</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Kinship_terminology" title="Kinship terminology">Kinship terminology</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kinship" title="Kinship">Kinship</a></li>
+<li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal kinship</a></li>
+<li><a href="/wiki/Adoption" title="Adoption">Adoption</a></li>
+<li><a href="/wiki/Affinity_(law)" title="Affinity (law)">Affinity</a></li>
+<li><a href="/wiki/Consanguinity" title="Consanguinity">Consanguinity</a></li>
+<li><a href="/wiki/Disownment" title="Disownment">Disownment</a></li>
+<li><a href="/wiki/Divorce" title="Divorce">Divorce</a></li>
+<li><a href="/wiki/Family_estrangement" title="Family estrangement">Estrangement</a></li>
+<li><a class="mw-selflink selflink">Fictive kinship</a></li>
+<li><a href="/wiki/Marriage" title="Marriage">Marriage</a></li>
+<li><a href="/wiki/Nurture_kinship" title="Nurture kinship">Nurture kinship</a></li>
+<li><a href="/wiki/Hawaiian_kinship" title="Hawaiian kinship">Hawaiian kinship</a></li>
+<li><a href="/wiki/Sudanese_kinship" title="Sudanese kinship">Sudanese kinship</a></li>
+<li><a href="/wiki/Eskimo_kinship" title="Eskimo kinship">Eskimo kinship</a></li>
+<li><a href="/wiki/Iroquois_kinship" title="Iroquois kinship">Iroquois kinship</a></li>
+<li><a href="/wiki/Crow_kinship" title="Crow kinship">Crow kinship</a></li>
+<li><a href="/wiki/Omaha_kinship" title="Omaha kinship">Omaha kinship</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ancestor" title="Ancestor">Lineage</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bilateral_descent" title="Bilateral descent">Bilateral descent</a></li>
+<li><a href="/wiki/Most_recent_common_ancestor" title="Most recent common ancestor">Common ancestor</a></li>
+<li><a href="/wiki/Surname" title="Surname">Family name</a></li>
+<li><a href="/wiki/Family_tree" title="Family tree">Family tree</a></li>
+<li><a href="/wiki/Genealogy" title="Genealogy">Genealogy</a></li>
+<li><a href="/wiki/Heirloom" title="Heirloom">Heirloom</a></li>
+<li><a href="/wiki/Heredity" title="Heredity">Heredity</a></li>
+<li><a href="/wiki/Inheritance" title="Inheritance">Inheritance</a></li>
+<li><a href="/wiki/Lineal_descendant" title="Lineal descendant">Lineal descendant</a></li>
+<li><a href="/wiki/Matrilineality" title="Matrilineality">Matrilineality</a></li>
+<li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineality</a></li>
+<li><a href="/wiki/Pedigree_chart" title="Pedigree chart">Pedigree chart</a></li>
+<li><a href="/wiki/Progenitor" title="Progenitor">Progenitor</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Relationships</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Agape" title="Agape">Agape (parental love)</a></li>
+<li><a href="/wiki/Eros_(concept)" title="Eros (concept)">Eros (marital love)</a></li>
+<li><a href="/wiki/Filial_piety" title="Filial piety">Filial piety</a></li>
+<li><a href="/wiki/Storge" title="Storge">Storge (familial love)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Holidays</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mother%27s_Day" title="Mother&#39;s Day">Mother's Day</a>
+<ul><li><a href="/wiki/Mother%27s_Day_(United_States)" title="Mother&#39;s Day (United States)">U.S.</a></li></ul></li>
+<li><a href="/wiki/Father%27s_Day" title="Father&#39;s Day">Father's Day</a></li>
+<li><a href="/wiki/Father-Daughter_Day" class="mw-redirect" title="Father-Daughter Day">Father-Daughter Day</a></li>
+<li><a href="/wiki/Siblings_Day" title="Siblings Day">Siblings Day</a></li>
+<li><a href="/wiki/National_Grandparents_Day" title="National Grandparents Day">National Grandparents Day</a></li>
+<li><a href="/wiki/Parents%27_Day" title="Parents&#39; Day">Parents' Day</a></li>
+<li><a href="/wiki/Children%27s_Day" title="Children&#39;s Day">Children's Day</a></li>
+<li><a href="/wiki/Family_Day" title="Family Day">Family Day</a>
+<ul><li><a href="/wiki/Family_Day_(Canada)" title="Family Day (Canada)">Canada</a></li></ul></li>
+<li><a href="/wiki/American_Family_Day" title="American Family Day">American Family Day</a></li>
+<li><a href="/wiki/National_Family_Week" title="National Family Week">National Family Week</a>
+<ul><li><a href="/wiki/National_Family_Week_(UK)" title="National Family Week (UK)">UK</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wedding_anniversary" title="Wedding anniversary">Wedding anniversary</a></li>
+<li><a href="/wiki/Sociology_of_the_family" title="Sociology of the family">Sociology of the family</a></li>
+<li><a href="/wiki/Museum_of_Motherhood" title="Museum of Motherhood">Museum of Motherhood</a></li>
+<li><a href="/wiki/Incest" title="Incest">Incest</a></li></ul>
+</div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1325
-Cached time: 20191023035244
+Parsed by mw1326
+Cached time: 20191007053722
 Cache expiry: 2592000
 Dynamic content: false
-Complications: []
-CPU time usage: 0.088 seconds
-Real time usage: 0.136 seconds
-Preprocessor visited node count: 197/1000000
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.380 seconds
+Real time usage: 0.527 seconds
+Preprocessor visited node count: 1243/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 8818/2097152 bytes
-Template argument size: 111/2097152 bytes
-Highest expansion depth: 8/40
-Expensive parser function count: 1/500
-Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 1051/5000000 bytes
-Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.043/10.000 seconds
-Lua memory usage: 1.43 MB/50 MB
+Post‐expand include size: 74349/2097152 bytes
+Template argument size: 4602/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 21650/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.163/10.000 seconds
+Lua memory usage: 3.98 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  117.918      1 -total
- 81.30%   95.865      1 Template:More_citations_needed
- 68.49%   80.763      1 Template:Ambox
- 31.45%   37.084      1 Template:Find_sources_mainspace
- 16.31%   19.234      1 Template:Reflist
-  2.37%    2.789      1 Template:Main_other
-  2.10%    2.471      1 Template:Column-width
+100.00%  430.792      1 -total
+ 23.82%  102.615      1 Template:Reflist
+ 18.60%   80.131      2 Template:Cite_web
+ 17.69%   76.192      3 Template:Cite_book
+ 16.22%   69.879      1 Template:Anthropology_of_kinship
+ 15.34%   66.072      1 Template:Sidebar_with_collapsible_lists
+ 13.75%   59.240      1 Template:Cite_journal
+  6.77%   29.170      4 Template:Sidebar
+  5.59%   24.076      1 Template:Quote
+  5.25%   22.626      1 Template:Refbegin
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:3133616-0!canonical and timestamp 20191023035244 and revision id 903282978
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1441023-0!canonical and timestamp 20191007053722 and revision id 870650381
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Online_Writing_Lab&amp;oldid=903282978">https://en.wikipedia.org/w/index.php?title=Online_Writing_Lab&amp;oldid=903282978</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Fictive_kinship&amp;oldid=870650381">https://en.wikipedia.org/w/index.php?title=Fictive_kinship&amp;oldid=870650381</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Computer-related_introductions_in_1994" title="Category:Computer-related introductions in 1994">Computer-related introductions in 1994</a></li><li><a href="/wiki/Category:Academia" title="Category:Academia">Academia</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_January_2011" title="Category:Articles needing additional references from January 2011">Articles needing additional references from January 2011</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Anthropology" title="Category:Anthropology">Anthropology</a></li><li><a href="/wiki/Category:Kinship_and_descent" title="Category:Kinship and descent">Kinship and descent</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_extra_text:_authors_list" title="Category:CS1 maint: extra text: authors list">CS1 maint: extra text: authors list</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -123,13 +453,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Online+Writing+Lab" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Online+Writing+Lab" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Fictive+kinship" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Fictive+kinship" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Online_Writing_Lab" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Online_Writing_Lab" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Fictive_kinship" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Fictive_kinship" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -144,7 +474,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Online_Writing_Lab">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Online_Writing_Lab&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Online_Writing_Lab&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Fictive_kinship">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Fictive_kinship&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Fictive_kinship&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -183,28 +513,28 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Online_Writing_Lab" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Online_Writing_Lab" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Online_Writing_Lab&amp;oldid=903282978" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Online_Writing_Lab&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7094053" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Online_Writing_Lab&amp;id=903282978" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Fictive_kinship" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Fictive_kinship" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Fictive_kinship&amp;oldid=870650381" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Fictive_kinship&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5446591" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Fictive_kinship&amp;id=870650381" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Online+Writing+Lab">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Online+Writing+Lab&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Online_Writing_Lab&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Fictive+kinship">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Fictive+kinship&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Fictive_kinship&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-									</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7094053#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%93%AC%E8%A6%AA%E5%B1%AC%E9%97%9C%E4%BF%82" title="擬親屬關係 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5446591#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 24 June 2019, at 19:20<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 26 November 2018, at 04:56<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -215,7 +545,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Online_Writing_Lab&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Fictive_kinship&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -227,8 +557,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.088","walltime":"0.136","ppvisitednodes":{"value":197,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":8818,"limit":2097152},"templateargumentsize":{"value":111,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1051,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  117.918      1 -total"," 81.30%   95.865      1 Template:More_citations_needed"," 68.49%   80.763      1 Template:Ambox"," 31.45%   37.084      1 Template:Find_sources_mainspace"," 16.31%   19.234      1 Template:Reflist","  2.37%    2.789      1 Template:Main_other","  2.10%    2.471      1 Template:Column-width"]},"scribunto":{"limitreport-timeusage":{"value":"0.043","limit":"10.000"},"limitreport-memusage":{"value":1495293,"limit":52428800}},"cachereport":{"origin":"mw1325","timestamp":"20191023035244","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Online Writing Lab","url":"https:\/\/en.wikipedia.org\/wiki\/Online_Writing_Lab","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7094053","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7094053","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-11-11T11:48:59Z","dateModified":"2019-06-24T19:20:01Z"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":246,"wgHostname":"mw1325"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.380","walltime":"0.527","ppvisitednodes":{"value":1243,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":74349,"limit":2097152},"templateargumentsize":{"value":4602,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":21650,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  430.792      1 -total"," 23.82%  102.615      1 Template:Reflist"," 18.60%   80.131      2 Template:Cite_web"," 17.69%   76.192      3 Template:Cite_book"," 16.22%   69.879      1 Template:Anthropology_of_kinship"," 15.34%   66.072      1 Template:Sidebar_with_collapsible_lists"," 13.75%   59.240      1 Template:Cite_journal","  6.77%   29.170      4 Template:Sidebar","  5.59%   24.076      1 Template:Quote","  5.25%   22.626      1 Template:Refbegin"]},"scribunto":{"limitreport-timeusage":{"value":"0.163","limit":"10.000"},"limitreport-memusage":{"value":4168106,"limit":52428800}},"cachereport":{"origin":"mw1326","timestamp":"20191007053722","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Fictive kinship","url":"https:\/\/en.wikipedia.org\/wiki\/Fictive_kinship","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5446591","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5446591","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-01-28T12:41:58Z","dateModified":"2018-11-26T04:56:49Z","headline":"form of kinship that is based on neither consanguineal nor affinal ties"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":102,"wgHostname":"mw1267"});});</script>
 </body>
 </html>

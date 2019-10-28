@@ -2,35 +2,35 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Cooke - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Cooke","wgTitle":"Cooke","wgCurRevisionId":918066175,"wgRevisionId":918066175,"wgArticleId":1870906,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","All set index articles","Surnames","English-language surnames"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Cooke","wgRelevantArticleId":1870906,"wgRequestId":"Xa-LtwpAICoAAE2-u6EAAABY","wgCSPNonce":!1,
-"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Cooke_(surname)","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Cooke","wgWikibaseItemId":"Q658676","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":
-"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
-"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Hunt (surname) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Hunt_(surname)","wgTitle":"Hunt (surname)","wgCurRevisionId":904097386,"wgRevisionId":904097386,"wgArticleId":15383025,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from February 2019","Articles with short description","All set index articles","Surnames","Surnames of English origin","English-language surnames"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep",
+"Oct","Nov","Dec"],"wgRelevantPageName":"Hunt_(surname)","wgRelevantArticleId":15383025,"wgRequestId":"XbT-ZQpAMEoAAD@KRz4AAAAH","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q254906","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":
+"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns",
+"ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.2"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Cooke"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Cooke&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Cooke&amp;action=edit"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Hunt_(surname)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Hunt_(surname)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Hunt_(surname)&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Cooke"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Hunt_(surname)"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Cooke rootpage-Cooke skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Hunt_surname rootpage-Hunt_surname skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -39,167 +39,193 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Cooke</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Hunt (surname)</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
-		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Cooke_(surname)&amp;redirect=no" class="mw-redirect" title="Cooke (surname)">Cooke (surname)</a>)</span></div>
+		<div id="contentSub"></div>
 		
 		
 		
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Cooke_(disambiguation)" class="mw-disambig" title="Cooke (disambiguation)">Cooke (disambiguation)</a>.</div>
-<p><b>Cooke</b> is a surname.<sup id="cite_ref-Browne_Reaney_Wilson_Scull_1991_1-0" class="reference"><a href="#cite_note-Browne_Reaney_Wilson_Scull_1991-1">&#91;1&#93;</a></sup> Notable people with the surname include:
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Hunt</b> is an occupational surname related with <a href="/wiki/Hunting" title="Hunting">hunting</a>, originating in <a href="/wiki/England" title="England">England</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> and <a href="/wiki/Ireland" title="Ireland">Ireland</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> In <a href="/wiki/Estonia" title="Estonia">Estonia</a>, the surname Hunt is also very common, it means <a href="/wiki/Gray_wolf" class="mw-redirect" title="Gray wolf">wolf</a> in <a href="/wiki/Estonian_language" title="Estonian language">Estonian language</a>. 
+</p><p>The Irish family surname is derived from Ó Fiachna and the significance is <i>fiach</i> means "the chase"; the clan itself was part of the <a href="/wiki/Connachta" title="Connachta">Connachta</a>'s <a href="/wiki/S%C3%ADol_Muireadaigh" title="Síol Muireadaigh">Síol Muireadaigh</a> (kindred to the <a href="/wiki/%C3%93_Conchubhair" class="mw-redirect" title="Ó Conchubhair">Ó Conchubhair</a> and <a href="/wiki/Mac_Diarmada" title="Mac Diarmada">Mac Diarmada</a>), located in <a href="/wiki/County_Roscommon" title="County Roscommon">County Roscommon</a> and <a href="/wiki/County_Sligo" title="County Sligo">County Sligo</a>.
 </p>
-<ul><li><a href="/wiki/Alan_Cooke" title="Alan Cooke">Alan Cooke</a>, British actor</li>
-<li><a href="/wiki/Alexander_Cooke" title="Alexander Cooke">Alexander Cooke</a> (died 1614), English actor</li>
-<li><a href="/wiki/Alfred_Tyrone_Cooke" title="Alfred Tyrone Cooke">Alfred Tyrone Cooke</a>, of the Indo-Pakistani wars</li>
-<li><a href="/wiki/Alistair_Cooke" title="Alistair Cooke">Alistair Cooke</a> KBE (1908–2004), journalist and broadcaster</li>
-<li><a href="/wiki/Amos_Starr_Cooke" title="Amos Starr Cooke">Amos Starr Cooke</a> (1810–1871), found of Royal School and Castle &amp; Cooke in Hawaii</li>
-<li><a href="/wiki/Anna_Rice_Cooke" title="Anna Rice Cooke">Anna Rice Cooke</a> (1853–1934), patron of the arts and founder of the Honolulu Academy of Arts</li>
-<li><a href="/wiki/Anthony_Cooke" title="Anthony Cooke">Anthony Cooke</a> (1505–1576), British scholar</li>
-<li><a href="/wiki/Baden_Cooke" title="Baden Cooke">Baden Cooke</a> (born 1978), Australian cyclist</li>
-<li><a href="/wiki/Barrie_Cooke" title="Barrie Cooke">Barrie Cooke</a> (born 1931), Irish painter</li>
-<li><a href="/wiki/Bates_Cooke" title="Bates Cooke">Bates Cooke</a>, US Representative 1831–1833, and NY State Comptroller 1839–1841</li>
-<li><a href="/wiki/Benjamin_Cooke" title="Benjamin Cooke">Benjamin Cooke</a> (1734–1793), British musician</li>
-<li><a href="/wiki/Beryl_Cooke" title="Beryl Cooke">Beryl Cooke</a> (1906–2001), British actress</li>
-<li><a href="/wiki/C._R._Cooke" title="C. R. Cooke">C. R. Cooke</a> (Conrad Reginald Cooke, 1901–1996), English early Himalayan mountaineer</li>
-<li><a href="/wiki/Charles_Cooke_(disambiguation)" class="mw-redirect mw-disambig" title="Charles Cooke (disambiguation)">Charles Cooke (disambiguation)</a>, several people</li>
-<li><a href="/wiki/Chauncey_H._Cooke" title="Chauncey H. Cooke">Chauncey H. Cooke</a> (1846–1919), American soldier in the U.S. Civil War</li>
-<li><a href="/wiki/Christian_Cooke" title="Christian Cooke">Christian Cooke</a> (born 1986), English actor</li>
-<li><a href="/wiki/Clarence_Hyde_Cooke" title="Clarence Hyde Cooke">Clarence Hyde Cooke</a> (1876–1944), businessman in Hawaii</li>
-<li><a href="/wiki/Dave_Cooke" title="Dave Cooke">Dave Cooke</a>, Canadian politician</li>
-<li><a href="/wiki/Deryck_Cooke" title="Deryck Cooke">Deryck Cooke</a> (1919–1975), British musicologist</li>
-<li><a href="/wiki/Doc_Cook" title="Doc Cook">Doc Cook</a> (Charles L. Cooke, 1891–1958), jazz bandleader</li>
-<li><a href="/wiki/Edmund_F._Cooke" title="Edmund F. Cooke">Edmund F. Cooke</a> (1885–1967), US congressman from New York</li>
-<li><a href="/wiki/Edward_William_Cooke" title="Edward William Cooke">Edward William Cooke</a> (1811–1880), English maritime artist</li>
-<li><a href="/wiki/Eric_Edgar_Cooke" title="Eric Edgar Cooke">Eric Edgar Cooke</a>, murderer</li>
-<li><a href="/wiki/Francis_Cooke" title="Francis Cooke">Francis Cooke</a> Passenger on the Mayflower</li>
-<li><a href="/wiki/Francis_Judd_Cooke" title="Francis Judd Cooke">Francis Judd Cooke</a> (1910–1995), American composer</li>
-<li><a href="/wiki/Geoff_Cooke_(disambiguation)" class="mw-redirect mw-disambig" title="Geoff Cooke (disambiguation)">Geoff Cooke (disambiguation)</a>, several people</li>
-<li><a href="/wiki/George_Cooke_(disambiguation)" class="mw-redirect mw-disambig" title="George Cooke (disambiguation)">George Cooke (disambiguation)</a>, several people</li>
-<li><a href="/wiki/H._Basil_S._Cooke" title="H. Basil S. Cooke">H. Basil S. Cooke</a> (born 1915), Canadian paleontologist</li>
-<li><a href="/wiki/Hope_Cooke" title="Hope Cooke">Hope Cooke</a>, Queen of Sikkim</li>
-<li><a href="/wiki/Jack_Kent_Cooke" title="Jack Kent Cooke">Jack Kent Cooke</a> (1912–1997), Canadian entrepreneur</li>
-<li>Sir <a href="/wiki/James_Douglas_Cooke" class="mw-redirect" title="James Douglas Cooke">James Douglas Cooke</a> (1879–1949), MP for Hammersmith South</li>
-<li><a href="/wiki/James_J._Cooke" title="James J. Cooke">James J. Cooke</a>, American historian, author, academic and soldier</li>
-<li><a href="/wiki/James_W._Cooke" title="James W. Cooke">James W. Cooke</a>, American naval officer</li>
-<li><a href="/wiki/Janet_Cooke" title="Janet Cooke">Janet Cooke</a> (born 1954), American journalist, won a Pulitzer Prize for a fabricated story</li>
-<li><a href="/wiki/Jay_Cooke" title="Jay Cooke">Jay Cooke</a> (1821–1905), American financier, notable for financing Union effort in Civil War and Northern Pacific Railway</li>
-<li><a href="/wiki/Jennifer_Cooke" title="Jennifer Cooke">Jennifer Cooke</a>, actress</li>
-<li><a href="/wiki/John_Cooke_(disambiguation)" class="mw-redirect mw-disambig" title="John Cooke (disambiguation)">John Cooke (disambiguation)</a>, several people</li>
-<li><a href="/wiki/Joseph_Platt_Cooke" title="Joseph Platt Cooke">Joseph Platt Cooke</a> (1730–1816), in American Revolutionary War</li>
-<li><a href="/wiki/Keith_Cooke" title="Keith Cooke">Keith Cooke</a>, actor</li>
-<li><a href="/wiki/L._J._Cooke" title="L. J. Cooke">L. J. Cooke</a> (Louis Joseph Cooke, 1868–1943), first men's basketball coach at the University of Minnesota</li>
-<li><a href="/wiki/Lawrence_H._Cooke" title="Lawrence H. Cooke">Lawrence H. Cooke</a> (1914–2000), Chief Judge of New York Court of Appeals 1979–1984</li>
-<li><a href="/wiki/Logan_Cooke" title="Logan Cooke">Logan Cooke</a> (born 1995), American football player</li>
-<li><a href="/wiki/Martin_Cooke_(disambiguation)" class="mw-redirect mw-disambig" title="Martin Cooke (disambiguation)">Martin Cooke (disambiguation)</a>, several people</li>
-<li><a href="/wiki/Matt_Cooke" title="Matt Cooke">Matt Cooke</a>, hockey player</li>
-<li><a href="/wiki/Mel_Cooke" title="Mel Cooke">Mel Cooke</a> (1934–2013), New Zealand rugby league footballer</li>
-<li><a href="/wiki/Mordecai_Cubitt_Cooke" title="Mordecai Cubitt Cooke">Mordecai Cubitt Cooke</a> (1825–1914), British botanist</li>
-<li><a href="/wiki/Nathaniel_Cooke" title="Nathaniel Cooke">Nathaniel Cooke</a> (19th century), designer of the standard set of chess figures</li>
-<li><a href="/wiki/Nicole_Cooke" title="Nicole Cooke">Nicole Cooke</a> (born 1983), British cyclist</li>
-<li><a href="/wiki/Peter_Cooke_(Scouting)" title="Peter Cooke (Scouting)">Peter Cooke (Scouting)</a></li>
-<li><a href="/wiki/Philip_St._George_Cooke" title="Philip St. George Cooke">Philip St. George Cooke</a> (1809–1895), 19th century US cavalry officer</li>
-<li><a href="/wiki/Pinny_Cooke" title="Pinny Cooke">Pinny Cooke</a> (1923–2004), New York politician, assemblywoman from Rochester</li>
-<li><a href="/wiki/Robin_Cooke,_Baron_Cooke_of_Thorndon" title="Robin Cooke, Baron Cooke of Thorndon">Robin Cooke, Baron Cooke of Thorndon</a>, New Zealand judge</li>
-<li><a href="/wiki/Rose_Terry_Cooke" title="Rose Terry Cooke">Rose Terry Cooke</a> (1827–1892), American author, poet</li>
-<li><a href="/wiki/Sam_Cooke" title="Sam Cooke">Sam Cooke</a> (1931–1964), American singer/songwriter</li>
-<li>Sir <a href="/wiki/Samuel_Cooke_(judge)" title="Samuel Cooke (judge)">Samuel Cooke</a> (1912–1978), British judge</li>
-<li><a href="/wiki/Samuel_Nathaniel_Cooke" class="mw-redirect" title="Samuel Nathaniel Cooke">Samuel Nathaniel Cooke</a> (S. N. Cooke) (born 1883), English architect</li>
-<li><a href="/wiki/Sasha_Cooke" title="Sasha Cooke">Sasha Cooke</a>, American mezzo-soprano</li>
-<li><a href="/wiki/Sidney_Cooke" title="Sidney Cooke">Sidney Cooke</a> (born 1927), paedophile and child killer</li>
-<li><a href="/wiki/Steve_Cooke" title="Steve Cooke">Steve Cooke</a> (born 1970), baseball player</li>
-<li><a href="/wiki/Terence_Cooke" title="Terence Cooke">Terence Cooke</a> (1921–1983), Cardinal, and Archbishop of New York</li>
-<li><a href="/wiki/Thomas_Cooke_(disambiguation)" class="mw-redirect mw-disambig" title="Thomas Cooke (disambiguation)">Thomas Cooke (disambiguation)</a>, several people</li>
-<li><a href="/wiki/Walter_E._Cooke" title="Walter E. Cooke">Walter E. Cooke</a> (1910–1982), New York politician</li>
-<li><a href="/wiki/Walter_H._Cooke" title="Walter H. Cooke">Walter H. Cooke</a> (1838–1909), American recipient of the Medal of Honor</li>
-<li><a href="/wiki/Weldon_B._Cooke" title="Weldon B. Cooke">Weldon B. Cooke</a> (1884–1914), American pioneer aviator killed in crash</li>
-<li><a href="/wiki/Wells_Cooke" title="Wells Cooke">Wells Cooke</a> (1858–1916), American ornithologist</li>
-<li><a href="/wiki/William_Cooke_(disambiguation)" class="mw-redirect mw-disambig" title="William Cooke (disambiguation)">William Cooke (disambiguation)</a>, several people</li></ul>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cooke&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Cook_(disambiguation)" class="mw-redirect mw-disambig" title="Cook (disambiguation)">Cook (disambiguation)</a></li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cooke&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="People">People</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hunt_(surname)&amp;action=edit&amp;section=1" title="Edit section: People">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Aaron_Hunt" title="Aaron Hunt">Aaron Hunt</a> (born 1986), German footballer</li>
+<li><a href="/wiki/Abijah_Hunt" title="Abijah Hunt">Abijah Hunt</a> (1762–1811), American merchant, planter and banker</li>
+<li><a href="/wiki/Akeem_Hunt" title="Akeem Hunt">Akeem Hunt</a> (born 1993), American football player</li>
+<li><a href="/wiki/Albert_Hunt" title="Albert Hunt">Albert Hunt</a> (<abbr title="floruit (&quot;flourished&quot; –&#160;known to have been active at a particular time or during a particular period)">fl.</abbr><span style="white-space:nowrap;">&#8201;1909</span>), American inventor and engineer</li>
+<li><a href="/wiki/Alfred_Hunt_(steel_magnate)" title="Alfred Hunt (steel magnate)">Alfred Hunt (steel magnate)</a> (1817–1888), American industrialist</li>
+<li><a href="/wiki/Alfred_E._Hunt" title="Alfred E. Hunt">Alfred E. Hunt</a> (1855–1899), American metallurgist and industrialist</li>
+<li><a href="/wiki/Arthur_Surridge_Hunt" title="Arthur Surridge Hunt">Arthur Surridge Hunt</a> (1871–1934), English papyrologist</li>
+<li><a href="/wiki/Aubrey_Thomas_de_Vere" title="Aubrey Thomas de Vere">Aubrey Thomas de Vere</a> (1814–1902), Irish poet and critic (de Vere Hunt)</li>
+<li><a href="/wiki/Ben_Hunt_(baseball)" title="Ben Hunt (baseball)">Ben Hunt (baseball)</a> (1888–1927), American baseball player</li>
+<li><a href="/wiki/Ben_Hunt_(rugby_league)" title="Ben Hunt (rugby league)">Ben Hunt (rugby league)</a> (born 1990), Australian rugby league player</li>
+<li><a href="/wiki/Bonnie_Hunt" title="Bonnie Hunt">Bonnie Hunt</a> (born 1961), American actress and writer</li>
+<li><a href="/wiki/Cameron_Hunt" title="Cameron Hunt">Cameron Hunt</a> (born 1994), American football player</li>
+<li><a href="/wiki/Caroline_Rose_Hunt" title="Caroline Rose Hunt">Caroline Rose Hunt</a> (1923–2018), American heiress and philanthropist</li>
+<li><a href="/wiki/Charles_Cooke_Hunt" title="Charles Cooke Hunt">Charles Cooke Hunt</a> (1833–1868), Australian explorer</li>
+<li><a href="/wiki/Chris_Hunt" title="Chris Hunt">Chris Hunt</a>, British journalist and author</li>
+<li><a href="/wiki/Chris_Hunt_(badminton)" title="Chris Hunt (badminton)">Chris Hunt (badminton)</a> (born 1968), English badminton player</li>
+<li><a href="/wiki/Christopher_Hunt" title="Christopher Hunt">Christopher Hunt</a> (1584–1607), English bookseller and stationer</li>
+<li><a href="/wiki/Clark_Hunt" title="Clark Hunt">Clark Hunt</a> (born 1965), American businessman and sports executive</li>
+<li><a href="/wiki/Cletidus_Hunt" title="Cletidus Hunt">Cletidus Hunt</a> (born 1976), American football player</li>
+<li><a href="/wiki/Cole_Hunt" title="Cole Hunt">Cole Hunt</a> (born 1994), American football player</li>
+<li><a href="/wiki/David_Hunt_(disambiguation)" class="mw-redirect mw-disambig" title="David Hunt (disambiguation)">David Hunt (disambiguation)</a></li>
+<li><a href="/wiki/Duane_Garrison_Hunt" title="Duane Garrison Hunt">Duane Garrison Hunt</a> (1884-1960), American; Roman Catholic Bishop of Salt Lake City</li>
+<li><a href="/wiki/E._Howard_Hunt" title="E. Howard Hunt">E. Howard Hunt</a> (1918–2007), American intelligence officer and writer</li>
+<li><a href="/wiki/Earl_B._Hunt" title="Earl B. Hunt">Earl B. Hunt</a> (1933–2016), American psychologist</li>
+<li><a href="/wiki/Earl_Gladstone_Hunt_Jr." title="Earl Gladstone Hunt Jr.">Earl Gladstone Hunt Jr.</a> (1918–2005), American Methodist pastor</li>
+<li><a href="/wiki/Ernie_Hunt" title="Ernie Hunt">Ernie Hunt</a> (born 1943), English footballer</li>
+<li><a href="/wiki/Esther_Hunt" title="Esther Hunt">Esther Hunt</a> (1751–1820), American Quaker pioneer</li>
+<li><a href="/wiki/Fern_Hunt" title="Fern Hunt">Fern Hunt</a> (born 1948), American mathematician</li>
+<li><a href="/wiki/Frank_W._Hunt" title="Frank W. Hunt">Frank W. Hunt</a> (1871–1906), American politician</li>
+<li><a href="/wiki/Fred_Hunt_(disambiguation)" class="mw-redirect mw-disambig" title="Fred Hunt (disambiguation)">Fred Hunt (disambiguation)</a></li>
+<li><a href="/wiki/Frederick_Vinton_Hunt" title="Frederick Vinton Hunt">Frederick Vinton Hunt</a> ("Ted", 1905–1972), American acoustic engineer</li>
+<li><a href="/wiki/Gareth_Hunt" title="Gareth Hunt">Gareth Hunt</a> (1942–2007), British actor</li>
+<li><a href="/wiki/George_Hunt_(disambiguation)" class="mw-redirect mw-disambig" title="George Hunt (disambiguation)">George Hunt (disambiguation)</a></li>
+<li><a href="/wiki/Georgina_Hunt" title="Georgina Hunt">Georgina Hunt</a> (1922–2012), English abstract artist</li>
+<li><a href="/wiki/Gertrude_Breslau_Hunt" title="Gertrude Breslau Hunt">Gertrude Breslau Hunt</a> (1869–1952), American author and lecturer</li>
+<li><a href="/wiki/Greg_Hunt" title="Greg Hunt">Greg Hunt</a> (born 1965), Australian politician</li>
+<li><a href="/wiki/Harriet_Hunt" title="Harriet Hunt">Harriet Hunt</a> (born 1978), British chess player</li>
+<li><a href="/wiki/Henry_George_Bonavia_Hunt" title="Henry George Bonavia Hunt">Henry George Bonavia Hunt</a> (1847–1917), English music educator</li>
+<li><a href="/wiki/H._Guy_Hunt" title="H. Guy Hunt">H. Guy Hunt</a> (1933–2009), American politician</li>
+<li><a href="/wiki/H._L._Hunt" title="H. L. Hunt">H. L. Hunt</a> (1889–1974), American oil tycoon and political activist</li>
+<li><a href="/wiki/Helen_Hunt" title="Helen Hunt">Helen Hunt</a> (born 1963), American actress</li>
+<li><a href="/wiki/Henry_Hunt_(disambiguation)" class="mw-redirect mw-disambig" title="Henry Hunt (disambiguation)">Henry Hunt (disambiguation)</a></li>
+<li><a href="/wiki/Jack_Hunt_(RAF_officer)" title="Jack Hunt (RAF officer)">Jack Hunt (RAF officer)</a> (1899–1954), British aviator</li>
+<li><a href="/wiki/Jack_Hunt_(American_football)" title="Jack Hunt (American football)">Jack Hunt (American football)</a> (born 1981), American football player</li>
+<li><a href="/wiki/Jack_Hunt_(footballer)" title="Jack Hunt (footballer)">Jack Hunt (footballer)</a> (born 1990), English footballer</li>
+<li><a href="/wiki/Jackie_Hunt" title="Jackie Hunt">Jackie Hunt</a> (1920–1991), American football player</li>
+<li><a href="/wiki/James_Hunt" title="James Hunt">James Hunt</a> (1947–1993), British racing driver</li>
+<li><a href="/wiki/Jeremy_Hunt" title="Jeremy Hunt">Jeremy Hunt</a> (born 1966), British politician</li>
+<li><a href="/wiki/Jeremy_Hunt_(cyclist)" title="Jeremy Hunt (cyclist)">Jeremy Hunt (cyclist)</a> (born 1974), British cyclist</li>
+<li><a href="/wiki/Jerry_Hunt" title="Jerry Hunt">Jerry Hunt</a> (1943–1993), American composer</li>
+<li><a href="/wiki/Jim_Hunt" title="Jim Hunt">Jim Hunt</a> (born 1937), American politician</li>
+<li><a href="/wiki/John_Hunt_(disambiguation)" class="mw-redirect mw-disambig" title="John Hunt (disambiguation)">John Hunt (disambiguation)</a></li>
+<li><a href="/wiki/Johnny_Hunt" title="Johnny Hunt">Johnny Hunt</a> (born 1952), American pastor and author</li>
+<li><a href="/wiki/Jon_Hunt" title="Jon Hunt">Jon Hunt</a>, British entrepreneur</li>
+<li><a href="/wiki/Jonathan_Hunt_(disambiguation)" class="mw-redirect mw-disambig" title="Jonathan Hunt (disambiguation)">Jonathan Hunt (disambiguation)</a></li>
+<li><a href="/wiki/J._McVicker_Hunt" title="J. McVicker Hunt">J. McVicker Hunt</a> (1906–1991), American educational psychologist</li>
+<li><a href="/wiki/Justin_Hunt_(filmmaker)" title="Justin Hunt (filmmaker)">Justin Hunt (filmmaker)</a> (born 1976), American filmmaker</li>
+<li><a href="/wiki/Justin_Hunt_(rugby_league)" title="Justin Hunt (rugby league)">Justin Hunt (rugby league)</a>, (born 1988) Australian rugby league player</li>
+<li><a href="/wiki/Kareem_Hunt" title="Kareem Hunt">Kareem Hunt</a> (born 1995), American football player</li>
+<li><a href="/wiki/Karmichael_Hunt" title="Karmichael Hunt">Karmichael Hunt</a> (born 1986), Australian football player</li>
+<li><a href="/wiki/Kathryn_Hunt" title="Kathryn Hunt">Kathryn Hunt</a>, British actress</li>
+<li><a href="/wiki/Ken_Hunt_(disambiguation)" class="mw-redirect mw-disambig" title="Ken Hunt (disambiguation)">Ken Hunt (disambiguation)</a>, including those named Kenneth</li>
+<li><a href="/wiki/Kimberly_Hunt" title="Kimberly Hunt">Kimberly Hunt</a>, American television journalist</li>
+<li><a href="/wiki/Lamar_Hunt" title="Lamar Hunt">Lamar Hunt</a> (1932–2006), American sports promoter</li>
+<li><a href="/wiki/Leigh_Hunt" title="Leigh Hunt">Leigh Hunt</a> (1784–1859), English author and critic</li>
+<li><a href="/wiki/Lester_C._Hunt" title="Lester C. Hunt">Lester C. Hunt</a> (1892–1954), American politician</li>
+<li><a href="/wiki/Linda_Hunt" title="Linda Hunt">Linda Hunt</a>, (born 1945), American actress</li>
+<li><a href="/wiki/Lucas_Hunt" title="Lucas Hunt">Lucas Hunt</a>, (born 1976) American poet</li>
+<li><a href="/wiki/Margus_Hunt" title="Margus Hunt">Margus Hunt</a>, (born 1987), Estonian discus thrower and American football player</li>
+<li><a href="/wiki/Mark_Hunt" title="Mark Hunt">Mark Hunt</a>, (born 1974), New Zealand mixed martial artist and kickboxer</li>
+<li><a href="/wiki/Mark_Hunt_(footballer)" title="Mark Hunt (footballer)">Mark Hunt (footballer)</a> (born 1969), English footballer</li>
+<li><a href="/wiki/Marsha_Hunt_(actress,_born_1917)" title="Marsha Hunt (actress, born 1917)">Marsha Hunt (actress, born 1917)</a>, American actress</li>
+<li><a href="/wiki/Marsha_Hunt_(actress,_born_1946)" title="Marsha Hunt (actress, born 1946)">Marsha Hunt (actress, born 1946)</a>, American actress, singer and novelist</li>
+<li><a href="/wiki/Mary_Hunt_Affleck" title="Mary Hunt Affleck">Mary Hunt Affleck</a> (1847–1932), American poet</li>
+<li><a href="/wiki/Megan_Hunt_(footballer)" title="Megan Hunt (footballer)">Megan Hunt</a> (born 1995), Australian rules footballer</li>
+<li><a href="/wiki/Megan_Hunt_(politician)" title="Megan Hunt (politician)">Megan Hunt (politician)</a>, Nebraska State Senator</li>
+<li><a href="/wiki/Michael_De_Vere" title="Michael De Vere">Michael De Vere</a> (1976–), Australian Rugby Player (de <a href="/wiki/Vere_Hunt" title="Vere Hunt">Vere Hunt</a><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2019)">citation needed</span></a></i>&#93;</sup>)</li>
+<li><a href="/wiki/Michael_John_Hunt" title="Michael John Hunt">Michael John Hunt</a> (born 1941), English painter</li>
+<li><a href="/wiki/Mike_Hunt_(American_football)" title="Mike Hunt (American football)">Mike Hunt</a> (born 1956), American football linebacker</li>
+<li><a href="/wiki/Mike_Hunt_(baseball)" title="Mike Hunt (baseball)">Mike Hunt</a> (1907–1996), American baseball player</li>
+<li><a href="/wiki/Neil_Hunt" title="Neil Hunt">Neil Hunt</a>, Australian rugby league player</li>
+<li><a href="/wiki/Nelson_Bunker_Hunt" title="Nelson Bunker Hunt">Nelson Bunker Hunt</a> (1926–2014), American businessman</li>
+<li><a href="/wiki/Noel_Hunt" title="Noel Hunt">Noel Hunt</a> (born 1982), Irish footballer</li>
+<li><a href="/wiki/Paul_Hunt_(disambiguation)" class="mw-redirect mw-disambig" title="Paul Hunt (disambiguation)">Paul Hunt (disambiguation)</a></li>
+<li><a href="/wiki/Peter_Hunt_(disambiguation)" class="mw-redirect mw-disambig" title="Peter Hunt (disambiguation)">Peter Hunt (disambiguation)</a></li>
+<li><a href="/wiki/Ralph_Hunt_(disambiguation)" class="mw-redirect mw-disambig" title="Ralph Hunt (disambiguation)">Ralph Hunt (disambiguation)</a></li>
+<li><a href="/wiki/Ray_C._Hunt" title="Ray C. Hunt">Ray C. Hunt</a> (1919–?), American military officer</li>
+<li><a href="/wiki/Rex_Hunt" title="Rex Hunt">Rex Hunt</a> (born 1949), Australian television and radio journalist</li>
+<li><a href="/wiki/Rex_Hunt_(governor)" title="Rex Hunt (governor)">Rex Hunt (governor)</a> (1926–2012), British diplomat</li>
+<li><a href="/wiki/Richard_Hunt_(disambiguation)" class="mw-redirect mw-disambig" title="Richard Hunt (disambiguation)">Richard Hunt (disambiguation)</a></li>
+<li><a href="/wiki/Rimo_Hunt" title="Rimo Hunt">Rimo Hunt</a> (born 1985), Estonian footballer</li>
+<li><a href="/wiki/Robert_Hunt_(disambiguation)" class="mw-redirect mw-disambig" title="Robert Hunt (disambiguation)">Robert Hunt (disambiguation)</a></li>
+<li><a href="/wiki/Roger_Hunt_(disambiguation)" class="mw-disambig" title="Roger Hunt (disambiguation)">Roger Hunt (disambiguation)</a></li>
+<li><a href="/wiki/Ron_Hunt" title="Ron Hunt">Ron Hunt</a> (born 1941), American baseball player</li>
+<li><a href="/wiki/Ron_Hunt_(footballer,_born_1933)" title="Ron Hunt (footballer, born 1933)">Ron Hunt (born 1933)</a>, English footballer</li>
+<li><a href="/wiki/Ron_Hunt_(footballer,_born_1945)" title="Ron Hunt (footballer, born 1945)">Ron Hunt (born 1945)</a>, English footballer</li>
+<li><a href="/wiki/Sally_Ward_Lawrence_Hunt_Armstrong_Downs" class="mw-redirect" title="Sally Ward Lawrence Hunt Armstrong Downs">Sally Ward Lawrence Hunt Armstrong Downs</a> (1827–1896), American socialite also known as Sallie Ward</li>
+<li><a href="/wiki/Samuel_Hunt_(disambiguation)" class="mw-redirect mw-disambig" title="Samuel Hunt (disambiguation)">Samuel Hunt (disambiguation)</a></li>
+<li><a href="/wiki/Stephen_de_Vere" title="Stephen de Vere">Stephen de Vere</a> (1812–1904), MP, poet and philanthropist (de Vere Hunt)</li>
+<li><a href="/wiki/Stephen_Hunt_(disambiguation)" class="mw-redirect mw-disambig" title="Stephen Hunt (disambiguation)">Stephen Hunt (disambiguation)</a></li>
+<li><a href="/wiki/Stuart_Hunt" title="Stuart Hunt">Stuart Hunt</a> (1927–2014), American politician</li>
+<li><a href="/wiki/Swanee_Hunt" title="Swanee Hunt">Swanee Hunt</a> (born 1950), American diplomat</li>
+<li><a href="/wiki/Thomas_Hunt_(disambiguation)" class="mw-redirect mw-disambig" title="Thomas Hunt (disambiguation)">Thomas Hunt (disambiguation)</a></li>
+<li><a href="/wiki/Tim_Hunt" title="Tim Hunt">Tim Hunt</a> (born 1943), British biochemist</li>
+<li><a href="/wiki/Tristram_Hunt" title="Tristram Hunt">Tristram Hunt</a> (born 1974), British historian and politician, Labour MP for Stoke</li>
+<li><a href="/wiki/Una_Hunt" title="Una Hunt">Una Hunt</a> (born 1876), American author</li>
+<li><a href="/wiki/Walter_Hunt_(disambiguation)" class="mw-redirect mw-disambig" title="Walter Hunt (disambiguation)">Walter Hunt (disambiguation)</a></li>
+<li><a href="/wiki/Washington_Hunt" title="Washington Hunt">Washington Hunt</a> (1811–1867), former Governor of New York</li>
+<li><a href="/wiki/William_Hunt_(disambiguation)" class="mw-redirect mw-disambig" title="William Hunt (disambiguation)">William Hunt (disambiguation)</a></li></ul>
+<h2><span class="mw-headline" id="Fictional_characters">Fictional characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hunt_(surname)&amp;action=edit&amp;section=2" title="Edit section: Fictional characters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Blanche_Hunt" title="Blanche Hunt">Blanche Hunt</a>, in the British soap opera <i><a href="/wiki/Coronation_Street" title="Coronation Street">Coronation Street</a></i></li>
+<li><a href="/wiki/Dylan_Hunt" title="Dylan Hunt">Dylan Hunt</a>, two television characters</li>
+<li><a href="/wiki/Deirdre_Hunt" class="mw-redirect" title="Deirdre Hunt">Deirdre Hunt (later Langton, Barlow and Rachid)</a> in <i><a href="/wiki/Coronation_Street#Long_established_characters" title="Coronation Street">Coronation Street</a></i>, daughter of Blanche</li>
+<li><a href="/wiki/Ethan_Hunt" title="Ethan Hunt">Ethan Hunt</a>, main character in <i><a href="/wiki/Mission:_Impossible_(film_series)" title="Mission: Impossible (film series)">Mission: Impossible</a></i> films</li>
+<li><a href="/wiki/Gene_Hunt" title="Gene Hunt">Gene Hunt</a>, main character in the TV series <a href="/wiki/Life_on_Mars_(UK_TV_series)" class="mw-redirect" title="Life on Mars (UK TV series)"><i>Life on Mars</i></a> and <a href="/wiki/Ashes_to_Ashes_(TV_series)" title="Ashes to Ashes (TV series)"><i>Ashes to Ashes</i></a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hunt_(surname)&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <div class="reflist" style="list-style-type: decimal;">
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-Browne_Reaney_Wilson_Scull_1991-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Browne_Reaney_Wilson_Scull_1991_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Browne, W.A.F.; Reaney, P.H.; Wilson, R.M.; Scull, A. (1991). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=5sVq7VQlNwcC&amp;pg=PA732"><i>A Dictionary of English Surnames</i></a>. Tavistock classics in the history of psychiatry. Routledge. p.&#160;732. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-415-05737-0" title="Special:BookSources/978-0-415-05737-0"><bdi>978-0-415-05737-0</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">26 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Dictionary+of+English+Surnames&amp;rft.series=Tavistock+classics+in+the+history+of+psychiatry&amp;rft.pages=732&amp;rft.pub=Routledge&amp;rft.date=1991&amp;rft.isbn=978-0-415-05737-0&amp;rft.aulast=Browne&amp;rft.aufirst=W.A.F.&amp;rft.au=Reaney%2C+P.H.&amp;rft.au=Wilson%2C+R.M.&amp;rft.au=Scull%2C+A.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D5sVq7VQlNwcC%26pg%3DPA732&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACooke" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ancestry.co.uk/name-origin?surname=hunt">"Hunt Surname Meaning and Distribution"</a>. ancestry.co.uk.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hunt+Surname+Meaning+and+Distribution&amp;rft.pub=ancestry.co.uk&amp;rft_id=http%3A%2F%2Fwww.ancestry.co.uk%2Fname-origin%3Fsurname%3Dhunt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHunt+%28surname%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style> Retrieved 21 January 2014</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.goireland.com/genealogy/family.htm?FamilyId=1212">Irish surname (O)Feighrey, Feehery, Hunt, (O)Fey, (O)Feeney</a>, GoIreland.com (Ireland’s national tourism information database, originally developed by <a href="/wiki/Bord_F%C3%A1ilte" class="mw-redirect" title="Bord Fáilte">Bord Fáilte</a> and <a href="/wiki/Northern_Ireland_Tourist_Board" title="Northern Ireland Tourist Board">Northern Ireland Tourist Board</a>, now owned by <a href="/wiki/FEXCO" title="FEXCO">FEXCO</a>)</span>
 </li>
 </ol></div></div>
-<div role="navigation" class="navbox" aria-labelledby="Surnames_derived_from_the_occupation_of_cook" style="padding:3px"><table class="nowraplinks mw-collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Cook-surname" title="Template:Cook-surname"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Cook-surname" title="Template talk:Cook-surname"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Cook-surname&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Surnames_derived_from_the_occupation_of_cook" style="font-size:114%;margin:0 4em">Surnames derived from the occupation of <a href="/wiki/Cooking" title="Cooking">cook</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Germanic</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Cook_(surname)" title="Cook (surname)">Cook</a>, <a href="/wiki/Cooke_(surname)" class="mw-redirect" title="Cooke (surname)">Cooke</a></li>
-<li><a href="/wiki/Cock_(surname)" title="Cock (surname)">Cock</a>, <a href="/wiki/De_Cock" title="De Cock">De Cock</a>, <a href="/wiki/De_Kock" title="De Kock">De Kock</a></li>
-<li><a href="/wiki/Kok_(surname)" title="Kok (surname)">Kok</a>, <a href="/wiki/De_Kok" title="De Kok">de Kok</a></li>
-<li><a href="/wiki/Koch_(surname)" title="Koch (surname)">Koch</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Romance</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Buc%C4%83taru" title="Bucătaru">Bucătaru</a></li>
-<li><a href="/wiki/Cuoco" title="Cuoco">Cuoco</a></li>
-<li>Quéguiner</li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Slavic</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Kucharz" class="mw-redirect" title="Kucharz">Kucharz</a>, <a href="/wiki/Kucha%C5%99" title="Kuchař">Kuchař</a>, <a href="/wiki/Kuchar_(surname)" title="Kuchar (surname)">Kuchar</a></li>
-<li><a href="/wiki/Kucharik" class="mw-redirect" title="Kucharik">Kucharik</a>, <a href="/wiki/Kucharczyk" title="Kucharczyk">Kucharczyk</a></li>
-<li><a href="/wiki/Kucharski" title="Kucharski">Kucharski</a>, <a href="/wiki/Kucharsky" class="mw-redirect" title="Kucharsky">Kucharsky</a></li>
-<li><a href="/wiki/Kukhar" title="Kukhar">Kukhar</a></li>
-<li><a href="/wiki/Kukharchuk" title="Kukharchuk">Kukharchuk</a></li>
-<li><a href="/wiki/Kukharenko" title="Kukharenko">Kukharenko</a></li>
-<li><a href="/wiki/Kuhar" title="Kuhar">Kuhar</a></li>
-<li><a href="/wiki/Kuhari%C4%87" title="Kuharić">Kuharić</a>/<a href="/wiki/Kuharich" class="mw-redirect" title="Kuharich">Kuharich</a></li>
-<li>Kuharović</li>
-<li><a href="/wiki/Povarov" title="Povarov">Povarov</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Kokk_(surname)" title="Kokk (surname)">Kokk</a></li>
-<li><a href="/wiki/Szak%C3%A1cs" title="Szakács">Szakács</a></li></ul>
-</div></td></tr></tbody></table></div>
 <style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
 <table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
 <tbody><tr>
 <td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
-<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Cooke</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Cooke&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Hunt</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Hunt_(surname)&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
 </tr>
 </tbody></table>
 <!-- 
 NewPP limit report
-Parsed by mw1312
-Cached time: 20190926211927
+Parsed by mw1330
+Cached time: 20191007195658
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.156 seconds
-Real time usage: 0.237 seconds
-Preprocessor visited node count: 376/1000000
+CPU time usage: 0.188 seconds
+Real time usage: 0.281 seconds
+Preprocessor visited node count: 541/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 13280/2097152 bytes
-Template argument size: 782/2097152 bytes
-Highest expansion depth: 8/40
-Expensive parser function count: 1/500
+Post‐expand include size: 6183/2097152 bytes
+Template argument size: 1407/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 3732/5000000 bytes
+Unstrip post‐expand size: 3679/5000000 bytes
 Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.075/10.000 seconds
-Lua memory usage: 2.37 MB/50 MB
+Lua time usage: 0.090/10.000 seconds
+Lua memory usage: 2.23 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  198.761      1 -total
- 41.21%   81.914      1 Template:Reflist
- 34.45%   68.467      1 Template:Cite_book
- 31.28%   62.177      1 Template:Surname
- 26.10%   51.870      1 Template:Dmbox
- 16.69%   33.175      1 Template:Otheruses
- 13.44%   26.714      1 Template:Short_description
- 12.10%   24.045      1 Template:Pagetype
-  9.83%   19.539      1 Template:Cook-surname
-  8.91%   17.710      1 Template:Category_handler
+100.00%  228.017      1 -total
+ 44.04%  100.415      1 Template:Reflist
+ 38.80%   88.481      1 Template:Cite_web
+ 25.47%   58.077      1 Template:Citation_needed
+ 22.74%   51.861      1 Template:Fix
+ 18.52%   42.221      1 Template:Surname
+ 16.77%   38.231      3 Template:Category_handler
+ 12.37%   28.216      1 Template:Dmbox
+ 11.83%   26.972      1 Template:Fl.
+  9.04%   20.608      1 Template:Abbr
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:1870906-0!canonical and timestamp 20190926211928 and revision id 918066175
+<!-- Saved in parser cache with key enwiki:pcache:idhash:15383025-0!canonical and timestamp 20191007195658 and revision id 904097386
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Cooke&amp;oldid=918066175">https://en.wikipedia.org/w/index.php?title=Cooke&amp;oldid=918066175</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Hunt_(surname)&amp;oldid=904097386">https://en.wikipedia.org/w/index.php?title=Hunt_(surname)&amp;oldid=904097386</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:English-language_surnames" title="Category:English-language surnames">English-language surnames</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:Surnames_of_English_origin" title="Category:Surnames of English origin">Surnames of English origin</a></li><li><a href="/wiki/Category:English-language_surnames" title="Category:English-language surnames">English-language surnames</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2019" title="Category:Articles with unsourced statements from February 2019">Articles with unsourced statements from February 2019</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -215,13 +241,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Cooke" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Cooke" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Hunt+%28surname%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hunt+%28surname%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Cooke" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Cooke" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Hunt_(surname)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Hunt_(surname)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -236,7 +262,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Cooke">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Cooke&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Cooke&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Hunt_(surname)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Hunt_(surname)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Hunt_(surname)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -275,35 +301,35 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Cooke" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Cooke" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Cooke&amp;oldid=918066175" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Cooke&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q658676" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Cooke&amp;id=918066175" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Hunt_(surname)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Hunt_(surname)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Hunt_(surname)&amp;oldid=904097386" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Hunt_(surname)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q254906" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Hunt_%28surname%29&amp;id=904097386" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
 			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
 			<div class="body">
 								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Cooke_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Hunt_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Cooke">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Cooke&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Cooke&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Hunt+%28surname%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Hunt+%28surname%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Hunt_(surname)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Cooke" title="Cooke – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D1%83%D0%BA" title="Кук – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Cooke" title="Cooke – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Cooke" title="Cooke – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Cooke" title="Cooke – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Cooke" title="Cooke – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Cooke" title="Cooke – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Cooke" title="Cooke – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Cooke" title="Cooke – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Cooke" title="Cooke – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BA" title="Кук – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Cooke" title="Cooke – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Cooke" title="Cooke – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D1%83%D0%BA" title="Кук – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q658676#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Hunt_(p%C5%99%C3%ADjmen%C3%AD)" title="Hunt (příjmení) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Hunt_(Familienname)" title="Hunt (Familienname) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Hunt_(Familiennaam)" title="Hunt (Familiennaam) – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Hunt_(priimek)" title="Hunt (priimek) – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q254906#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 26 September 2019, at 21:19<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 29 June 2019, at 23:58<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -314,7 +340,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Cooke&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Hunt_(surname)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -326,8 +352,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.156","walltime":"0.237","ppvisitednodes":{"value":376,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":13280,"limit":2097152},"templateargumentsize":{"value":782,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3732,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  198.761      1 -total"," 41.21%   81.914      1 Template:Reflist"," 34.45%   68.467      1 Template:Cite_book"," 31.28%   62.177      1 Template:Surname"," 26.10%   51.870      1 Template:Dmbox"," 16.69%   33.175      1 Template:Otheruses"," 13.44%   26.714      1 Template:Short_description"," 12.10%   24.045      1 Template:Pagetype","  9.83%   19.539      1 Template:Cook-surname","  8.91%   17.710      1 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.075","limit":"10.000"},"limitreport-memusage":{"value":2481865,"limit":52428800}},"cachereport":{"origin":"mw1312","timestamp":"20190926211927","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Cooke","url":"https:\/\/en.wikipedia.org\/wiki\/Cooke","sameAs":"http:\/\/www.wikidata.org\/entity\/Q658676","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q658676","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-05-11T10:55:32Z","dateModified":"2019-09-26T21:19:28Z","headline":"family name"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":93,"wgHostname":"mw1321"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.188","walltime":"0.281","ppvisitednodes":{"value":541,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":6183,"limit":2097152},"templateargumentsize":{"value":1407,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3679,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  228.017      1 -total"," 44.04%  100.415      1 Template:Reflist"," 38.80%   88.481      1 Template:Cite_web"," 25.47%   58.077      1 Template:Citation_needed"," 22.74%   51.861      1 Template:Fix"," 18.52%   42.221      1 Template:Surname"," 16.77%   38.231      3 Template:Category_handler"," 12.37%   28.216      1 Template:Dmbox"," 11.83%   26.972      1 Template:Fl.","  9.04%   20.608      1 Template:Abbr"]},"scribunto":{"limitreport-timeusage":{"value":"0.090","limit":"10.000"},"limitreport-memusage":{"value":2335088,"limit":52428800}},"cachereport":{"origin":"mw1330","timestamp":"20191007195658","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Hunt (surname)","url":"https:\/\/en.wikipedia.org\/wiki\/Hunt_(surname)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q254906","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q254906","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-01-23T17:58:22Z","dateModified":"2019-06-29T23:58:07Z","headline":"family name"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":107,"wgHostname":"mw1239"});});</script>
 </body>
 </html>

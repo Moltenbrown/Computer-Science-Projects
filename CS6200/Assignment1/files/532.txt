@@ -2,11 +2,11 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Disownment - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Disownment","wgTitle":"Disownment","wgCurRevisionId":919234868,"wgRevisionId":919234868,"wgArticleId":24306493,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All stub articles","Family","Family law","Fatherhood","Kinship and descent","Inheritance","Motherhood","Shunning","Legal terminology stubs"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Disownment","wgRelevantArticleId":24306493,
-"wgRequestId":"XbA6uQpAADkAAEjCmx8AAAAH","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q621474","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready",
-"mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns",
-"ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Teknonymy - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Teknonymy","wgTitle":"Teknonymy","wgCurRevisionId":907712227,"wgRevisionId":907712227,"wgArticleId":11009695,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Ancient Greek-language text","All stub articles","Family","Onomastics","Linguistics stubs"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Teknonymy","wgRelevantArticleId":11009695,"wgRequestId":"XbE1vgpAME8AACY21SgAAAAI",
+"wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q7695469","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready",
+"jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.cite.tracking","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
@@ -17,20 +17,20 @@
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Disownment"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Disownment&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Disownment&amp;action=edit"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Teknonymy"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Teknonymy&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Teknonymy&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Disownment"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Teknonymy"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Disownment rootpage-Disownment skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Teknonymy rootpage-Teknonymy skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -39,7 +39,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Disownment</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Teknonymy</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -50,282 +50,314 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">"Disown" redirects here. For the band, see <a href="/wiki/Disown_(band)" title="Disown (band)">Disown (band)</a>. For the Unix command, see <a href="/wiki/Disown_(Unix)" title="Disown (Unix)">disown (Unix)</a>.</div>
-<p><b>Disownment</b> occurs when a parent renounces or no longer accepts a <a href="/wiki/Offspring" title="Offspring">child</a> as a family member. It differs from giving a child up for <a href="/wiki/Adoption" title="Adoption">adoption</a>. It is a <a href="/wiki/Social" title="Social">social</a> and <a href="/wiki/Interpersonal" class="mw-redirect" title="Interpersonal">interpersonal</a> act and usually takes place later in the child's life. Among other things, it implies no responsibility for future care, making it similar to <a href="/wiki/Divorce" title="Divorce">divorce</a> or <a href="/wiki/Repudiation_(marriage)" title="Repudiation (marriage)">repudiation</a> (of a spouse). Disownment may entail <a href="/wiki/Disinherit" class="mw-redirect" title="Disinherit">disinheritance</a>, familial <a href="/wiki/Exile" title="Exile">exile</a>, or <a href="/wiki/Shunning" title="Shunning">shunning</a>, and often all three. 
-</p><p>Disownment is often <a href="/wiki/Taboo" title="Taboo">taboo</a>. In many countries it is a form of <a href="/wiki/Child_abandonment" title="Child abandonment">child abandonment</a> and is illegal when the child is a minor. 
-</p><p>In rare cases, a society and its institutions will accept an act of disownment.  For example, the British politician <a href="/wiki/Leo_Amery#Personal_life" title="Leo Amery">Leo Amery</a> had two adult sons, both young adults at the time of World War II; one fought in the British forces, while the other, <a href="/wiki/John_Amery" title="John Amery">John Amery</a>, cast his lot with <a href="/wiki/Nazi_Germany" title="Nazi Germany">Nazi Germany</a> and beamed propaganda radio broadcasts to his homeland.  After the end of the war in 1945, young Amery was tried and executed for <a href="/wiki/Treason" title="Treason">treason</a>, whereupon the bereaved father asked, and received, permission from the editors of <i><a href="/wiki/Who%27s_Who_(UK)" title="Who&#39;s Who (UK)">Who's Who</a></i> to change the terms of his authorized biography from two sons to "one son".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Teknonymy</b> (from <a href="/wiki/Greek_language" title="Greek language">Greek</a>: <span lang="grc" title="Ancient Greek language text">τέκνον</span>, "child" and <a href="/wiki/Greek_language" title="Greek language">Greek</a>: <span lang="grc" title="Ancient Greek language text">ὄνομα</span>, "name"),<sup id="cite_ref-Reflections_on_Japanese_Language_and_Culture_1987_p._65_1-0" class="reference"><a href="#cite_note-Reflections_on_Japanese_Language_and_Culture_1987_p._65-1">&#91;1&#93;</a></sup> more often known as a <b>paedonymic</b>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> is the practice of referring to <a href="/wiki/Parent" title="Parent">parents</a> by the <a href="/wiki/Name" title="Name">names</a> of their <a href="/wiki/Children" class="mw-redirect" title="Children">children</a>. This practice can be found in many different cultures around the world. The term was coined by anthropologist <a href="/wiki/Edward_Burnett_Tylor" title="Edward Burnett Tylor">Edward Burnett Tylor</a> in an 1889 paper.<sup id="cite_ref-Lee1973_3-0" class="reference"><a href="#cite_note-Lee1973-3">&#91;3&#93;</a></sup>
+</p><p>Teknonymy can be found in:
 </p>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Disownment&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Family_estrangement" title="Family estrangement">Family estrangement</a></li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Disownment&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Various <a href="/wiki/Austronesian_peoples" title="Austronesian peoples">Austronesian peoples</a>:
+<ul><li>The <a href="/wiki/Cocos_Malays" title="Cocos Malays">Cocos Malays</a> of <a href="/wiki/Cocos_(Keeling)_Islands" title="Cocos (Keeling) Islands">Cocos (Keeling) Islands</a>, where parents are known by the name of their first-born child.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> For instance, a man named Hashim and his wife, Anisa, have a daughter named Sheila. Hashim is now known as "Pak Sheila" (literally, "Sheila's Father") and Anisa is now known as "Mak Sheila" (literally, "Sheila's Mother").</li>
+<li><a href="/wiki/Balinese_people" title="Balinese people">Balinese people</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></li>
+<li>The <a href="/wiki/Betsileo_people" title="Betsileo people">Betsileo people</a> of Madagascar, in particular the <a href="/wiki/Zafimaniry" title="Zafimaniry">Zafimaniry</a> subgroup<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup></li>
+<li>the language of the <a href="/wiki/Madurese_people" title="Madurese people">Madurese people</a> of Indonesia</li>
+<li>the <a href="/wiki/Mentawai_people" title="Mentawai people">Mentawai people</a> of Indonesia<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup></li>
+<li><a href="/wiki/Tao_people" class="mw-redirect" title="Tao people">Tao people</a> of Taiwan<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup></li></ul></li>
+<li>the <a href="/wiki/Korean_language" title="Korean language">Korean language</a>; for example, if a Korean woman has a son named <a href="/wiki/Soo-min" title="Soo-min">Su-min</a>, she might be called <i>Su-min Eomma</i> (meaning "mother of Su-min")<sup id="cite_ref-Lee1973_3-1" class="reference"><a href="#cite_note-Lee1973-3">&#91;3&#93;</a></sup></li>
+<li>the <a href="/wiki/Arab_world" title="Arab world">Arab world</a>; for example, if a Saudi man named Hasan has a child named Zayn, Hasan will now be known as <i>Abu Zayn</i> (literally, "Father of Zayn"). Similarly, <i>Umm Malik</i> is "Mother of Malik". This is known as a <i><a href="/wiki/Kunya_(Arabic)" title="Kunya (Arabic)">kunya</a></i> in Arabic and is used as a sign of respect for others.</li>
+<li>Amazonia<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup></li>
+<li>the <a href="/wiki/Zuni_language" title="Zuni language">Zuni language</a></li>
+<li><a href="/wiki/Swahili_language" title="Swahili language">Swahili</a>, as spoken in Tanzania and Kenya<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>; for example, if a woman has a son named Musa, the woman would be known as <i>Mama Musa</i>. Musa's father would be known as <i>Baba Musa</i>.</li>
+<li>to some extent, <a href="/wiki/Habesha_people" class="mw-redirect" title="Habesha people">Habesha people</a> in the Horn of Africa</li>
+<li>The <a href="/wiki/Yoruba_language" title="Yoruba language">Yoruba</a> language of Western Africa; for example, if a woman has a son named <a href="/wiki/Femi" title="Femi">Femi</a>, will now be known as <i>iya Femi</i> (meaning mother of Femi) and her husband <i>baba Femi</i> (meaning father of Femi).</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Teknonymy&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Michitsuna_no_Haha" class="mw-redirect" title="Michitsuna no Haha">Michitsuna no Haha</a></li>
+<li><a href="/wiki/Stacy%27s_Mom" title="Stacy&#39;s Mom">Stacy's Mom</a></li>
+<li><a href="/wiki/Korean_name" title="Korean name">Korean name</a></li>
+<li><a href="/wiki/Patronymy" class="mw-redirect" title="Patronymy">Patronymy</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Teknonymy&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <div class="reflist" style="list-style-type: decimal;">
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://anatheimp.blogspot.com/2010/05/tragedy-of-john-amery.html">http://anatheimp.blogspot.com/2010/05/tragedy-of-john-amery.html</a> (accessed 02 October 2019)</span>
+<li id="cite_note-Reflections_on_Japanese_Language_and_Culture_1987_p._65-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Reflections_on_Japanese_Language_and_Culture_1987_p._65_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=bvALAQAAIAAJ"><i>Reflections on Japanese Language and Culture</i></a>. Studies in the humanities and social relations. Institute of Cultural and Linguistic Studies, Keio University. 1987. p.&#160;65<span class="reference-accessdate">. Retrieved <span class="nowrap">16 June</span> 2019</span>. <q>On the Notion of Teknonymy In the field of anthropology, the custom of calling the parent after the child is known as teknonymy, a term coined from the Greek word teknon "child" and the anglicized form of onoma as onymy "name".</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Reflections+on+Japanese+Language+and+Culture&amp;rft.series=Studies+in+the+humanities+and+social+relations&amp;rft.pages=65&amp;rft.pub=Institute+of+Cultural+and+Linguistic+Studies%2C+Keio+University&amp;rft.date=1987&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DbvALAQAAIAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATeknonymy" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><i>Oxford English Dictionary</i> (2005), "paedonymic, <i>n.</i>"</span>
+</li>
+<li id="cite_note-Lee1973-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Lee1973_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Lee1973_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Lee, Kwang-Kyu; Kim Harvey, Youngsook (1973). "Teknonymy and Geononymy in Korean Kinship Terminology". <i>Ethnology</i>. <b>12</b> (1): 31–46. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/3773095">3773095</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Ethnology&amp;rft.atitle=Teknonymy+and+Geononymy+in+Korean+Kinship+Terminology&amp;rft.volume=12&amp;rft.issue=1&amp;rft.pages=31-46&amp;rft.date=1973&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F3773095&amp;rft.aulast=Lee&amp;rft.aufirst=Kwang-Kyu&amp;rft.au=Kim+Harvey%2C+Youngsook&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATeknonymy" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Winarnita, Monika; Herriman, Nicholas (2012). "Marriage Migration to the Malay Muslim community of Home Island (Cocos Keeling Islands)". <i>Indonesia and the Malay World</i>. <b>40</b> (118): 372–387. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1080%2F13639811.2012.709020">10.1080/13639811.2012.709020</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Indonesia+and+the+Malay+World&amp;rft.atitle=Marriage+Migration+to+the+Malay+Muslim+community+of+Home+Island+%28Cocos+Keeling+Islands%29&amp;rft.volume=40&amp;rft.issue=118&amp;rft.pages=372-387&amp;rft.date=2012&amp;rft_id=info%3Adoi%2F10.1080%2F13639811.2012.709020&amp;rft.aulast=Winarnita&amp;rft.aufirst=Monika&amp;rft.au=Herriman%2C+Nicholas&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATeknonymy" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Geertz, Hildred; <a href="/wiki/Clifford_Geertz" title="Clifford Geertz">Geertz, Clifford</a> (1964). "Teknonymy in Bali: Parenthood, Age-Grading and Genealogical Amnesia". <i>The Journal of the Royal Anthropological Institute of Great Britain and Ireland</i>. <b>94</b> (2): 94–108. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/2844376">2844376</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Journal+of+the+Royal+Anthropological+Institute+of+Great+Britain+and+Ireland&amp;rft.atitle=Teknonymy+in+Bali%3A+Parenthood%2C+Age-Grading+and+Genealogical+Amnesia&amp;rft.volume=94&amp;rft.issue=2&amp;rft.pages=94-108&amp;rft.date=1964&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F2844376&amp;rft.aulast=Geertz&amp;rft.aufirst=Hildred&amp;rft.au=Geertz%2C+Clifford&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATeknonymy" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book">Bloch, Maurice (2006). <a rel="nofollow" class="external text" href="http://eprints.lse.ac.uk/8761/">"Teknonymy and the evocation of the 'social' among the Zafimaniry of Madagascar"</a>.  In vom Bruck, Gabriele; Bodenhorn, Barbara (eds.). <i>An Anthropology of Names and Naming</i>. Cambridge University Press. pp.&#160;97–114. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-521-84863-3" title="Special:BookSources/978-0-521-84863-3"><bdi>978-0-521-84863-3</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Teknonymy+and+the+evocation+of+the+%27social%27+among+the+Zafimaniry+of+Madagascar&amp;rft.btitle=An+Anthropology+of+Names+and+Naming&amp;rft.pages=97-114&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2006&amp;rft.isbn=978-0-521-84863-3&amp;rft.aulast=Bloch&amp;rft.aufirst=Maurice&amp;rft_id=http%3A%2F%2Feprints.lse.ac.uk%2F8761%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATeknonymy" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book">Hammons, Christian (2010). <a rel="nofollow" class="external text" href="http://digitallibrary.usc.edu/cdm/ref/collection/p15799coll127/id/424001"><i>Sakaliou: Reciprocity, mimesis, and the cultural economy of tradition in Siberut, Mentawai Islands, Indonesia</i></a>. University of Southern California.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Sakaliou%3A+Reciprocity%2C+mimesis%2C+and+the+cultural+economy+of+tradition+in+Siberut%2C+Mentawai+Islands%2C+Indonesia&amp;rft.pub=University+of+Southern+California&amp;rft.date=2010&amp;rft.aulast=Hammons&amp;rft.aufirst=Christian&amp;rft_id=http%3A%2F%2Fdigitallibrary.usc.edu%2Fcdm%2Fref%2Fcollection%2Fp15799coll127%2Fid%2F424001&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATeknonymy" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation book">Kao, Hsin-chieh (2012). <a rel="nofollow" class="external text" href="http://research-repository.st-andrews.ac.uk/handle/10023/3206"><i>Labour, life, and language: Personhood and relations among the Yami of Lanyu</i></a>. Doctoral dissertation. University of St. Andrews, Department of Social Anthropology. p.&#160;56.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Labour%2C+life%2C+and+language%3A+Personhood+and+relations+among+the+Yami+of+Lanyu&amp;rft.series=Doctoral+dissertation&amp;rft.pages=56&amp;rft.pub=University+of+St.+Andrews%2C+Department+of+Social+Anthropology&amp;rft.date=2012&amp;rft.aulast=Kao&amp;rft.aufirst=Hsin-chieh&amp;rft_id=http%3A%2F%2Fresearch-repository.st-andrews.ac.uk%2Fhandle%2F10023%2F3206&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATeknonymy" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Vilaça, Aparecida (2002). "Making Kin out of Others in Amazonia". <i>The Journal of the Royal Anthropological Institute</i>. <b>8</b> (2): 347–365. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1111%2F1467-9655.00007">10.1111/1467-9655.00007</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/3134479">3134479</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Journal+of+the+Royal+Anthropological+Institute&amp;rft.atitle=Making+Kin+out+of+Others+in+Amazonia&amp;rft.volume=8&amp;rft.issue=2&amp;rft.pages=347-365&amp;rft.date=2002&amp;rft_id=info%3Adoi%2F10.1111%2F1467-9655.00007&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F3134479&amp;rft.aulast=Vila%C3%A7a&amp;rft.aufirst=Aparecida&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATeknonymy" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation book">Russell, Joan (2012). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=mWNcAgAAQBAJ"><i>Complete Swahili, Teach Yourself</i></a>. Hachette.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Complete+Swahili%2C+Teach+Yourself&amp;rft.pub=Hachette&amp;rft.date=2012&amp;rft.aulast=Russell&amp;rft.aufirst=Joan&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DmWNcAgAAQBAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATeknonymy" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
 </ol></div></div>
-<div role="navigation" class="navbox" aria-labelledby="Family" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Family" title="Template:Family"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Family" title="Template talk:Family"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Family&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Family" style="font-size:114%;margin:0 4em"><a href="/wiki/Family" title="Family">Family</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_History&amp;#10;*_Household&amp;#10;*_Nuclear_family&amp;#10;*_Extended_family&amp;#10;*_Conjugal_family&amp;#10;*_Immediate_family&amp;#10;*_Matrifocal_family&amp;#10;*_Stepfamily&amp;#10;*_Dysfunctional_family&amp;#10;*_Polyfidelitous_families">
-<ul><li><a href="/wiki/History_of_the_family" title="History of the family">History</a></li>
-<li><a href="/wiki/Household" title="Household">Household</a></li>
-<li><a href="/wiki/Nuclear_family" title="Nuclear family">Nuclear family</a></li>
-<li><a href="/wiki/Extended_family" title="Extended family">Extended family</a></li>
-<li><a href="/wiki/Conjugal_family" title="Conjugal family">Conjugal family</a></li>
-<li><a href="/wiki/Immediate_family" title="Immediate family">Immediate family</a></li>
-<li><a href="/wiki/Matrifocal_family" title="Matrifocal family">Matrifocal family</a></li>
-<li><a href="/wiki/Stepfamily" title="Stepfamily">Stepfamily</a></li>
-<li><a href="/wiki/Dysfunctional_family" title="Dysfunctional family">Dysfunctional family</a></li>
-<li><a href="/wiki/Polyfidelity" title="Polyfidelity">Polyfidelitous families</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/First-degree_relatives" title="First-degree relatives">First-degree relatives</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Parent" title="Parent">Parent</a>
-<ul><li><a href="/wiki/Father" title="Father">father</a></li>
-<li><a href="/wiki/Mother" title="Mother">mother</a></li></ul></li>
-<li><a href="/wiki/Child" title="Child">Child</a>
-<ul><li><a href="/wiki/Son" title="Son">son</a></li>
-<li><a href="/wiki/Daughter" title="Daughter">daughter</a></li></ul></li>
-<li><a href="/wiki/Sibling" title="Sibling">Sibling</a>
-<ul><li><a href="/wiki/Brother" title="Brother">brother</a></li>
-<li><a href="/wiki/Sister" title="Sister">sister</a></li></ul></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Second-degree_relative" title="Second-degree relative">Second-degree relatives</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Grandparent" title="Grandparent">Grandparent</a></li>
-<li><a href="/wiki/Grandchild" class="mw-redirect" title="Grandchild">Grandchild</a></li>
-<li><a href="/wiki/Aunt" title="Aunt">Aunt</a></li>
-<li><a href="/wiki/Uncle" title="Uncle">Uncle</a></li>
-<li><a href="/wiki/Niece_and_nephew" title="Niece and nephew">Niece and nephew</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Third-degree_relative" title="Third-degree relative">Third-degree relatives</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Great-grandparent" class="mw-redirect" title="Great-grandparent">Great-grandparent</a></li>
-<li><a href="/wiki/Great-grandchild" class="mw-redirect" title="Great-grandchild">Great-grandchild</a></li>
-<li><a href="/wiki/Niece_and_nephew" title="Niece and nephew">Grandnephew and grandniece</a></li>
-<li><a href="/wiki/Uncle" title="Uncle">Great-Uncle</a></li>
-<li><a href="/wiki/Aunt" title="Aunt">Great-Aunt</a></li>
-<li><a href="/wiki/Cousin" title="Cousin">Cousin</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Affinity_(law)" title="Affinity (law)">Family-in-law</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Spouse" title="Spouse">Spouse</a>
-<ul><li><a href="/wiki/Wife" title="Wife">wife</a></li>
-<li><a href="/wiki/Husband" title="Husband">husband</a></li></ul></li>
-<li><a href="/wiki/Parent-in-law" title="Parent-in-law">Parents-in-law</a></li>
-<li><a href="/wiki/Sibling-in-law" title="Sibling-in-law">Siblings-in-law</a></li>
-<li><a href="/wiki/Son-in-law" class="mw-redirect" title="Son-in-law">Son-in-law</a></li>
-<li><a href="/wiki/Daughter-in-law" class="mw-redirect" title="Daughter-in-law">Daughter-in-law</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Stepfamily" title="Stepfamily">Stepfamily</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Stepfather" title="Stepfather">Stepfather</a></li>
-<li><a href="/wiki/Stepmother" title="Stepmother">Stepmother</a></li>
-<li><a href="/wiki/Stepchild" title="Stepchild">Stepchild</a></li>
-<li><a href="/wiki/Stepsibling" title="Stepsibling">Stepsibling</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Kinship_terminology" title="Kinship terminology">Kinship terminology</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Kinship" title="Kinship">Kinship</a></li>
-<li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal kinship</a></li>
-<li><a href="/wiki/Adoption" title="Adoption">Adoption</a></li>
-<li><a href="/wiki/Affinity_(law)" title="Affinity (law)">Affinity</a></li>
-<li><a href="/wiki/Consanguinity" title="Consanguinity">Consanguinity</a></li>
-<li><a class="mw-selflink selflink">Disownment</a></li>
-<li><a href="/wiki/Divorce" title="Divorce">Divorce</a></li>
-<li><a href="/wiki/Family_estrangement" title="Family estrangement">Estrangement</a></li>
-<li><a href="/wiki/Fictive_kinship" title="Fictive kinship">Fictive kinship</a></li>
-<li><a href="/wiki/Marriage" title="Marriage">Marriage</a></li>
-<li><a href="/wiki/Nurture_kinship" title="Nurture kinship">Nurture kinship</a></li>
-<li><a href="/wiki/Hawaiian_kinship" title="Hawaiian kinship">Hawaiian kinship</a></li>
-<li><a href="/wiki/Sudanese_kinship" title="Sudanese kinship">Sudanese kinship</a></li>
-<li><a href="/wiki/Eskimo_kinship" title="Eskimo kinship">Eskimo kinship</a></li>
-<li><a href="/wiki/Iroquois_kinship" title="Iroquois kinship">Iroquois kinship</a></li>
-<li><a href="/wiki/Crow_kinship" title="Crow kinship">Crow kinship</a></li>
-<li><a href="/wiki/Omaha_kinship" title="Omaha kinship">Omaha kinship</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ancestor" title="Ancestor">Lineage</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Bilateral_descent" title="Bilateral descent">Bilateral descent</a></li>
-<li><a href="/wiki/Most_recent_common_ancestor" title="Most recent common ancestor">Common ancestor</a></li>
-<li><a href="/wiki/Surname" title="Surname">Family name</a></li>
-<li><a href="/wiki/Family_tree" title="Family tree">Family tree</a></li>
-<li><a href="/wiki/Genealogy" title="Genealogy">Genealogy</a></li>
-<li><a href="/wiki/Heirloom" title="Heirloom">Heirloom</a></li>
-<li><a href="/wiki/Heredity" title="Heredity">Heredity</a></li>
-<li><a href="/wiki/Inheritance" title="Inheritance">Inheritance</a></li>
-<li><a href="/wiki/Lineal_descendant" title="Lineal descendant">Lineal descendant</a></li>
-<li><a href="/wiki/Matrilineality" title="Matrilineality">Matrilineality</a></li>
-<li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineality</a></li>
-<li><a href="/wiki/Pedigree_chart" title="Pedigree chart">Pedigree chart</a></li>
-<li><a href="/wiki/Progenitor" title="Progenitor">Progenitor</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Relationships</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Agape" title="Agape">Agape (parental love)</a></li>
-<li><a href="/wiki/Eros_(concept)" title="Eros (concept)">Eros (marital love)</a></li>
-<li><a href="/wiki/Filial_piety" title="Filial piety">Filial piety</a></li>
-<li><a href="/wiki/Storge" title="Storge">Storge (familial love)</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Holidays</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Mother%27s_Day" title="Mother&#39;s Day">Mother's Day</a>
-<ul><li><a href="/wiki/Mother%27s_Day_(United_States)" title="Mother&#39;s Day (United States)">U.S.</a></li></ul></li>
-<li><a href="/wiki/Father%27s_Day" title="Father&#39;s Day">Father's Day</a></li>
-<li><a href="/wiki/Father-Daughter_Day" class="mw-redirect" title="Father-Daughter Day">Father-Daughter Day</a></li>
-<li><a href="/wiki/Siblings_Day" title="Siblings Day">Siblings Day</a></li>
-<li><a href="/wiki/National_Grandparents_Day" title="National Grandparents Day">National Grandparents Day</a></li>
-<li><a href="/wiki/Parents%27_Day" title="Parents&#39; Day">Parents' Day</a></li>
-<li><a href="/wiki/Children%27s_Day" title="Children&#39;s Day">Children's Day</a></li>
-<li><a href="/wiki/Family_Day" title="Family Day">Family Day</a>
-<ul><li><a href="/wiki/Family_Day_(Canada)" title="Family Day (Canada)">Canada</a></li></ul></li>
-<li><a href="/wiki/American_Family_Day" title="American Family Day">American Family Day</a></li>
-<li><a href="/wiki/National_Family_Week" title="National Family Week">National Family Week</a>
-<ul><li><a href="/wiki/National_Family_Week_(UK)" title="National Family Week (UK)">UK</a></li></ul></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Wedding_anniversary" title="Wedding anniversary">Wedding anniversary</a></li>
-<li><a href="/wiki/Sociology_of_the_family" title="Sociology of the family">Sociology of the family</a></li>
-<li><a href="/wiki/Museum_of_Motherhood" title="Museum of Motherhood">Museum of Motherhood</a></li>
-<li><a href="/wiki/Incest" title="Incest">Incest</a></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Teknonymy&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/File:Wiktionary-logo-en-v2.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/16px-Wiktionary-logo-en-v2.svg.png" decoding="async" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/24px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/32px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512" /></a> The dictionary definition of <a href="https://en.wiktionary.org/wiki/teknonym" class="extiw" title="wiktionary:teknonym"><i>teknonym</i></a> at Wiktionary</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Personal_names_and_anthroponymy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Personal_names" title="Template:Personal names"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Personal_names" title="Template talk:Personal names"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Personal_names&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Personal_names_and_anthroponymy" style="font-size:114%;margin:0 4em"><a href="/wiki/Personal_name" title="Personal name">Personal names</a> and <a href="/wiki/Anthroponymy" title="Anthroponymy">anthroponymy</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*Personal_identity">
+<ul><li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Personal_name" title="Personal name">Personal name</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Given_name" title="Given name">Given name</a></li>
+<li><a href="/wiki/Surname" title="Surname">Surname</a>
+<ul><li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineal</a>/<a href="/wiki/Matriname" title="Matriname">Matrilineal</a></li>
+<li><a href="/wiki/List_of_family_name_affixes" title="List of family name affixes">Affixes</a>
+<ul><li><a href="/wiki/Nobiliary_particle" title="Nobiliary particle">Nobiliary particle</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By sequence</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Given_name" title="Given name">First name</a></li>
+<li><a href="/wiki/Middle_name" title="Middle name">Middle name</a></li>
+<li><a href="/wiki/Surname" title="Surname">Last name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By trait</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Diminutive" title="Diminutive">Diminutive</a></li>
+<li><a href="/wiki/Double-barrelled_name" title="Double-barrelled name">Double-barrelled</a></li>
+<li><a href="/wiki/Eponym" title="Eponym">Eponymic</a></li>
+<li><a href="/wiki/Matronymic" title="Matronymic">Matronymic</a></li>
+<li><a href="/wiki/Metonymy" title="Metonymy">Metonymic</a></li>
+<li><a href="/wiki/Mononymous_person" title="Mononymous person">Mononymic</a></li>
+<li><a href="/wiki/Occupational_name" class="mw-redirect" title="Occupational name">Occupational name</a></li>
+<li><a href="/wiki/Patronymic" title="Patronymic">Patronymic</a></li>
+<li><a href="/wiki/Sobriquet" title="Sobriquet">Sobriquet</a></li>
+<li><a class="mw-selflink selflink">Teknonymic</a></li>
+<li><a href="/wiki/Toponymy" title="Toponymy">Toponymic</a></li>
+<li><a href="/wiki/Patrial_name" title="Patrial name">Patrial name</a></li>
+<li><a href="/wiki/Patronymic_surname" title="Patronymic surname">Patronymic</a></li>
+<li><a href="/wiki/Unisex_name" title="Unisex name">Unisex</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By life situation</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aptronym" title="Aptronym">Aptronym</a></li>
+<li><a href="/wiki/Code_name" title="Code name">Code name</a></li>
+<li><a href="/wiki/Maiden_and_married_names" title="Maiden and married names">Maiden and married names</a></li>
+<li><a href="/wiki/Necronym" title="Necronym">Necronym</a>
+<ul><li><a href="/wiki/Posthumous_name" title="Posthumous name">Posthumous name</a></li>
+<li><a href="/wiki/Temple_name" title="Temple name">Temple name</a></li></ul></li>
+<li><a href="/wiki/Placeholder_name" title="Placeholder name">Placeholder name</a>
+<ul><li><a href="/wiki/Notname" title="Notname">Notname</a></li></ul></li>
+<li><a href="/wiki/Regnal_name" title="Regnal name">Regnal name</a></li>
+<li><a href="/wiki/Slave_name" title="Slave name">Slave name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pseudonym" title="Pseudonym">Pseudonyms</a> (<a href="/wiki/List_of_pseudonyms" title="List of pseudonyms">list</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nickname" title="Nickname">Nicknames</a>
+<ul><li><a href="/wiki/Lists_of_nicknames" title="Lists of nicknames">list</a></li>
+<li><a href="/wiki/Hypocorism" title="Hypocorism">Hypocorism</a></li></ul></li>
+<li><i><a href="/wiki/Nom_de_guerre" class="mw-redirect" title="Nom de guerre">Nom de guerre</a></i></li>
+<li><a href="/wiki/Stage_name" title="Stage name">Stage name</a>
+<ul><li><a href="/wiki/List_of_stage_names" title="List of stage names">List of stage names</a></li>
+<li><a href="/wiki/List_of_one-word_stage_names" title="List of one-word stage names">List of one-word stage names</a></li></ul></li>
+<li><a href="/wiki/Ring_name" title="Ring name">Ring name</a></li>
+<li><a href="/wiki/Pen_name" title="Pen name">Pen name</a>
+<ul><li><a href="/wiki/Heteronym_(literature)" title="Heteronym (literature)">Heteronym</a></li></ul></li>
+<li><a href="/wiki/Username" class="mw-redirect" title="Username">Username</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By culture<br /><small><a href="/wiki/Surnames_by_country" title="Surnames by country">Surnames by country</a><br /><a href="/wiki/Courtesy_name" title="Courtesy name">Courtesy names</a></small></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albanian_name" title="Albanian name">Albanian</a></li>
+<li><a href="/wiki/Naming_in_the_United_States" title="Naming in the United States">American</a>
+<ul><li><small><a href="/wiki/African-American_names" title="African-American names">African-American</a></small></li></ul></li>
+<li><a href="/wiki/Ancient_Greek_personal_names" title="Ancient Greek personal names">Ancient Greek</a></li>
+<li><a href="/wiki/Arabic_name" title="Arabic name">Arabic</a></li>
+<li><a href="/wiki/Armenian_name" title="Armenian name">Armenian</a></li>
+<li><a href="/wiki/Akan_names" title="Akan names">Ashanti</a></li>
+<li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal</a></li>
+<li><a href="/wiki/Azerbaijani_name" title="Azerbaijani name">Azerbaijani</a></li>
+<li><a href="/wiki/Bangladeshi_name" class="mw-redirect" title="Bangladeshi name">Bangladeshi</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Basque_names" title="Spanish naming customs">Basque</a></li>
+<li><a href="/wiki/Belarusian_name" title="Belarusian name">Belarusian</a></li>
+<li><a href="/wiki/Bulgarian_name" title="Bulgarian name">Bulgarian</a></li>
+<li><a href="/wiki/Burmese_names" title="Burmese names">Burmese</a></li>
+<li><a href="/wiki/Cambodian_name" title="Cambodian name">Cambodian</a></li>
+<li><a href="/wiki/Canadian_name" title="Canadian name">Canadian</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></li>
+<li><a href="/wiki/Chinese_name" title="Chinese name">Chinese</a>
+<ul><li><small><a href="/wiki/Hong_Kong_name" title="Hong Kong name">Hong Kong</a></small></li>
+<li><small><a href="/wiki/Manchu_name" title="Manchu name">Manchu</a></small></li>
+<li><small><a href="/wiki/Tibetan_name" title="Tibetan name">Tibetan</a></small></li></ul></li>
+<li><a href="/wiki/Cornish_surnames" title="Cornish surnames">Cornish</a></li>
+<li><a href="/wiki/Croatian_name" title="Croatian name">Croatian</a></li>
+<li><a href="/wiki/Czech_name" title="Czech name">Czech</a></li>
+<li><a href="/wiki/Dutch_name" title="Dutch name">Dutch</a></li>
+<li><a href="/wiki/English_name" title="English name">English</a></li>
+<li><a href="/wiki/Naming_conventions_in_Ethiopia_and_Eritrea" title="Naming conventions in Ethiopia and Eritrea">Ethiopian/Eritrean</a></li>
+<li><a href="/wiki/Ewe_language#Naming_system" title="Ewe language">Ewe</a></li>
+<li><a href="/wiki/Fijian_name" title="Fijian name">Fijian</a></li>
+<li><a href="/wiki/Filipino_name" title="Filipino name">Filipino</a></li>
+<li><a href="/wiki/Finnish_name" title="Finnish name">Finnish</a></li>
+<li><a href="/wiki/French_name" title="French name">French</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Galician_names" title="Spanish naming customs">Galician</a></li>
+<li><a href="/wiki/Georgian_name" title="Georgian name">Georgian</a></li>
+<li><a href="/wiki/German_name" title="German name">German</a></li>
+<li><a href="/wiki/Germanic_name" title="Germanic name">Germanic</a></li>
+<li><a href="/wiki/Ghanaian_name" title="Ghanaian name">Ghanaian</a></li>
+<li><a href="/wiki/Greek_name" title="Greek name">Greek</a>
+<ul><li><small><a href="/wiki/Greek_Cypriot_name" title="Greek Cypriot name">Cypriot</a></small></li></ul></li>
+<li><a href="/wiki/Hawaiian_name" title="Hawaiian name">Hawaiian</a></li>
+<li><a href="/wiki/Hebrew_name" title="Hebrew name">Hebrew</a></li>
+<li><a href="/wiki/Hungarian_names" title="Hungarian names">Hungarian</a></li>
+<li><a href="/wiki/Icelandic_name" title="Icelandic name">Icelandic</a></li>
+<li><a href="/wiki/Igbo_name" title="Igbo name">Igbo</a></li>
+<li><a href="/wiki/Indian_name" title="Indian name">Indian</a>
+<ul><li><small><a href="/wiki/Saint_Thomas_Christian_names" title="Saint Thomas Christian names">Saint Thomas Christian names</a></small></li></ul></li>
+<li><a href="/wiki/Indonesian_names" title="Indonesian names">Indonesian</a>
+<ul><li><small><a href="/wiki/Balinese_name" title="Balinese name">Balinese</a></small></li>
+<li><small><a href="/wiki/Chinese_Indonesian_surname" title="Chinese Indonesian surname">Chinese</a></small></li>
+<li><small><a href="/wiki/Javanese_name" title="Javanese name">Javanese</a></small></li></ul></li>
+<li><a href="/wiki/Irish_name" title="Irish name">Irish</a></li>
+<li><a href="/wiki/Italian_name" title="Italian name">Italian</a></li>
+<li><a href="/wiki/Japanese_name" title="Japanese name">Japanese</a>
+<ul><li><small><a href="/wiki/Amami_name" title="Amami name">Amami</a></small></li>
+<li><small><a href="/wiki/Okinawan_name" title="Okinawan name">Okinawan</a></small></li></ul></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish</a></li>
+<li><a href="/wiki/Kalmyk_names" title="Kalmyk names">Kalmyk</a></li>
+<li><a href="/wiki/Korean_name" title="Korean name">Korean</a></li>
+<li><a href="/wiki/Lao_name" title="Lao name">Lao</a></li>
+<li><a href="/wiki/Latvian_name" title="Latvian name">Latvian</a></li>
+<li><a href="/wiki/Lithuanian_name" title="Lithuanian name">Lithuanian</a></li>
+<li><a href="/wiki/Macedonian_onomastics" title="Macedonian onomastics">Macedonian</a></li>
+<li><a href="/wiki/Malaysian_names" title="Malaysian names">Malaysian</a></li>
+<li><a href="/wiki/M%C4%81ori_naming_customs" title="Māori naming customs">Māori</a></li>
+<li><a href="/wiki/Mongolian_name" title="Mongolian name">Mongol</a></li>
+<li><a href="/wiki/Scandinavian_family_name_etymology#Norway" title="Scandinavian family name etymology">Norwegian</a></li>
+<li><a href="/wiki/Pakistani_name" title="Pakistani name">Pakistani</a>
+<ul><li><small><a href="/wiki/Pashtun_name" title="Pashtun name">Pashtun</a></small></li>
+<li><small><a href="/wiki/Sindhi_names" title="Sindhi names">Sindhi</a></small></li></ul></li>
+<li><a href="/wiki/Persian_name" title="Persian name">Persian</a></li>
+<li><a href="/wiki/Polish_name" title="Polish name">Polish</a></li>
+<li><a href="/wiki/Portuguese_name" title="Portuguese name">Portuguese</a></li>
+<li><a href="/wiki/Roman_naming_conventions" title="Roman naming conventions">Roman</a>
+<ul><li><small><a href="/wiki/Praenomen" title="Praenomen">Praenomen</a></small></li>
+<li><small><a href="/wiki/Nomen_(Roman_name)" title="Nomen (Roman name)">Nomen</a></small></li>
+<li><small><a href="/wiki/Cognomen" title="Cognomen">Cognomen</a></small></li></ul></li>
+<li><a href="/wiki/Romanian_name" title="Romanian name">Romanian</a></li>
+<li><a href="/wiki/Eastern_Slavic_naming_customs" title="Eastern Slavic naming customs">Russian</a></li>
+<li><a href="/wiki/Yakut_names" title="Yakut names">Sakha</a></li>
+<li><a href="/wiki/Scottish_Gaelic_name" title="Scottish Gaelic name">Scottish Gaelic</a></li>
+<li><a href="/wiki/Serbian_names" title="Serbian names">Serbian</a></li>
+<li><a href="/wiki/Slavic_names" title="Slavic names">Slavic</a></li>
+<li><a href="/wiki/Slovak_name" title="Slovak name">Slovak</a></li>
+<li><a href="/wiki/Somali_name" title="Somali name">Somali</a></li>
+<li><a href="/wiki/Spanish_naming_customs" title="Spanish naming customs">Spanish</a>
+<ul><li><small><a href="/wiki/Naming_customs_of_Hispanic_America" title="Naming customs of Hispanic America">Hispanic America</a></small></li>
+<li><small><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></small></li></ul></li>
+<li><a href="/wiki/Swedish_name" title="Swedish name">Swedish</a></li>
+<li><a href="/wiki/Naming_customs_of_Taiwanese_aborigines" title="Naming customs of Taiwanese aborigines">Taiwanese aboriginal</a></li>
+<li><a href="/wiki/Indian_family_names#Tamil_names" class="mw-redirect" title="Indian family names">Tamil</a>
+<ul><li><small><a href="/wiki/Naming_conventions_of_ancient_Tamil_country" title="Naming conventions of ancient Tamil country">Ancient Tamil country</a></small></li></ul></li>
+<li><a href="/wiki/Tatar_name" title="Tatar name">Tatar</a></li>
+<li><a href="/wiki/Thai_name" title="Thai name">Thai</a></li>
+<li><a href="/wiki/Turkish_name" title="Turkish name">Turkish</a></li>
+<li><a href="/wiki/Ukrainian_name" title="Ukrainian name">Ukrainian</a></li>
+<li><a href="/wiki/Vietnamese_name" title="Vietnamese name">Vietnamese</a></li>
+<li><a href="/wiki/Welsh_surnames" title="Welsh surnames">Welsh</a></li>
+<li><a href="/wiki/Yakut_names" title="Yakut names">Yakut</a></li>
+<li><a href="/wiki/Yoruba_name" title="Yoruba name">Yoruba</a></li>
+<li><a href="/wiki/Zimbabwean_names" title="Zimbabwean names">Zimbabwean</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Religious_name" title="Religious name">Religious names</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Christian_name" title="Christian name">Christian name</a>
+<ul><li><a href="/wiki/List_of_biblical_names" title="List of biblical names">Biblical name</a></li>
+<li><a href="/wiki/Papal_name" title="Papal name">Papal name</a></li>
+<li><a href="/wiki/Saint%27s_name" title="Saint&#39;s name">Saint's name</a></li></ul></li>
+<li><a href="/wiki/Dharma_name" title="Dharma name">Dharma name</a></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish name</a></li>
+<li><a href="/wiki/Theophoric_name" title="Theophoric name">Theophoric name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Manners of address<br /><small><a href="/wiki/List_of_titles" title="List of titles">List</a></small><br /><small><a href="/wiki/Title_of_authority" title="Title of authority">of authority</a>/<a href="/wiki/Title_of_honor" title="Title of honor">of honour</a></small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Style_(manner_of_address)" title="Style (manner of address)">Styles</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Honorific" title="Honorific">Honorific</a>
+<ul><li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
+<li><a href="/wiki/Imperial,_royal,_and_noble_styles" title="Imperial, royal, and noble styles">Imperial, royal, and noble</a></li>
+<li><a href="/wiki/Judiciary_styles" class="mw-redirect" title="Judiciary styles">Judiciary</a></li>
+<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
+<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul></li>
+<li><a href="/wiki/Pre-nominal_letters" title="Pre-nominal letters">Pre-nominal letters</a></li>
+<li><a href="/wiki/Suffix_(name)" title="Suffix (name)">Suffix</a>
+<ul><li><a href="/wiki/Emeritus" title="Emeritus">Emeritus</a></li>
+<li><a href="/wiki/Post-nominal_letters" title="Post-nominal letters">Post-nominal letters</a>
+<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
+<li><a href="/wiki/Order_(distinction)" title="Order (distinction)">Orders</a>, <a href="/wiki/Award" title="Award">decorations</a>, and <a href="/wiki/Medal" title="Medal">medals</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Title" title="Title">Titles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
+<li><a href="/wiki/Imperial,_royal_and_noble_ranks" title="Imperial, royal and noble ranks">Imperial, royal and noble</a>
+<ul><li><a href="/wiki/Chivalry" title="Chivalry">Chivalric</a></li>
+<li><a href="/wiki/Court_title" class="mw-redirect" title="Court title">Court</a></li></ul></li>
+<li><a href="/wiki/Military_rank" title="Military rank">Military</a></li>
+<li><a href="/wiki/Professional_titles" class="mw-redirect" title="Professional titles">Professional</a>
+<ul><li><a href="/wiki/Academic_ranks" class="mw-redirect" title="Academic ranks">Academic</a>
+<ul><li><a href="/wiki/Honorary_title_(academic)" title="Honorary title (academic)">Honorary</a></li></ul></li>
+<li><a href="/wiki/Corporate_title" title="Corporate title">Business</a></li>
+<li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
+<li><a href="/wiki/Professional_degree" title="Professional degree">Educational</a></li>
+<li><a href="/wiki/Judicial_titles" class="mw-redirect" title="Judicial titles">Judicial</a></li></ul></li>
+<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
+<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related traditions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baptism" title="Baptism">Baptism</a></li>
+<li><a href="/wiki/Name_day" title="Name day">Name day</a>
+<ul><li><a href="/wiki/Calendar_of_saints" title="Calendar of saints">Calendar of saints</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acronym" title="Acronym">Acronym</a></li>
+<li><a href="/wiki/Anonymity" title="Anonymity">Anonymity</a></li>
+<li><a href="/wiki/Anthropomorphism" title="Anthropomorphism">Anthropomorphism</a>
+<ul><li><a href="/wiki/National_personification" title="National personification">National personification</a></li></ul></li>
+<li><a href="/wiki/Call_sign" title="Call sign">Call sign</a></li>
+<li><a href="/wiki/Family" title="Family">Family</a></li>
+<li><a href="/wiki/Galton%E2%80%93Watson_process" title="Galton–Watson process">Galton–Watson process</a></li>
+<li><a href="/wiki/Legal_name" title="Legal name">Legal name</a>
+<ul><li><a href="/wiki/Name_change" title="Name change">Name change</a></li></ul></li>
+<li><i><a href="/wiki/Nomen_nescio" title="Nomen nescio">Nomen nescio</a></i></li>
+<li><i><a href="/wiki/-onym" title="-onym">-onym</a></i></li>
+<li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a>
+<ul><li><a href="/wiki/Identifier" title="Identifier">Identifier</a></li></ul></li>
+<li><a href="/wiki/Proper_name" class="mw-redirect" title="Proper name">Proper name</a></li>
+<li><a href="/wiki/Signature" title="Signature">Signature</a>
+<ul><li><a href="/wiki/Monogram" title="Monogram">Monogram</a></li>
+<li><a href="/wiki/Signum_manus" title="Signum manus">Signum manus</a></li>
+<li><a href="/wiki/Tughra" title="Tughra">Tughra</a></li></ul></li>
+<li><a href="/wiki/Naming_taboo" title="Naming taboo">Naming taboo</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><a href="/wiki/Category:Lists_of_names" title="Category:Lists of names">Category:Lists of names</a></li></ul>
 </div></td></tr></tbody></table></div>
-<div role="navigation" class="navbox" aria-labelledby="Parenting" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Parenting" title="Template:Parenting"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Parenting" title="Template talk:Parenting"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Parenting&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Parenting" style="font-size:114%;margin:0 4em"><a href="/wiki/Parenting" title="Parenting">Parenting</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Kinship_terminology" title="Kinship terminology">Kinship terminology</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Adoption" title="Adoption">Adoptive</a></li>
-<li><a href="/wiki/Alloparenting" title="Alloparenting">Alloparenting</a></li>
-<li><a href="/wiki/Coparenting" title="Coparenting">Coparenting</a></li>
-<li><a href="/wiki/Extended_family" title="Extended family">Extended family</a></li>
-<li><a href="/wiki/Foster_care" title="Foster care">Foster care</a></li>
-<li><a href="/wiki/Kommune_1" title="Kommune 1">Kommune 1</a></li>
-<li><a href="/wiki/Noncustodial_parent" title="Noncustodial parent">Noncustodial</a></li>
-<li><a href="/wiki/Nuclear_family" title="Nuclear family">Nuclear family</a></li>
-<li><a href="/wiki/Orphan" title="Orphan">Orphaned</a></li>
-<li><a href="/wiki/Shared_parenting" title="Shared parenting">Shared parenting</a></li>
-<li><a href="/wiki/Single_parent" title="Single parent">Single parent</a></li>
-<li><a href="/wiki/Stepfamily" title="Stepfamily">Blended family</a></li>
-<li><a href="/wiki/Surrogacy" title="Surrogacy">Surrogacy</a></li>
-<li><i><a href="/wiki/In_loco_parentis" title="In loco parentis">In loco parentis</a></i></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Theories&#160;<b>·</b> Areas</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Attachment_theory" title="Attachment theory">Attachment theory</a></li>
-<li><a href="/wiki/Applied_behavior_analysis" title="Applied behavior analysis">Applied behavior analysis</a></li>
-<li><a href="/wiki/Behaviorism" title="Behaviorism">Behaviorism</a></li>
-<li><a href="/wiki/Child_development" title="Child development">Child development</a></li>
-<li><a href="/wiki/Cognitive_development" title="Cognitive development">Cognitive development</a></li>
-<li><a href="/wiki/Developmental_psychology" title="Developmental psychology">Developmental psychology</a></li>
-<li><a href="/wiki/Development_of_the_human_body" title="Development of the human body">Human development</a></li>
-<li><a href="/wiki/Love" title="Love">Love</a></li>
-<li><a href="/wiki/Maternal_bond" title="Maternal bond">Maternal bond</a></li>
-<li><a href="/wiki/Nature_versus_nurture" title="Nature versus nurture">Nature versus nurture</a></li>
-<li><a href="/wiki/Parental_investment" title="Parental investment">Parental investment</a></li>
-<li><a href="/wiki/Paternal_bond" title="Paternal bond">Paternal bond</a></li>
-<li><a href="/wiki/Pediatrics" title="Pediatrics">Pediatrics</a></li>
-<li><a href="/wiki/Social_psychology" title="Social psychology">Social psychology</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Parenting_styles" title="Parenting styles">Styles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Attachment_parenting" title="Attachment parenting">Attachment parenting</a></li>
-<li><a href="/wiki/Baby_talk" title="Baby talk">Baby talk</a></li>
-<li><a href="/wiki/Concerted_cultivation" title="Concerted cultivation">Concerted cultivation</a></li>
-<li><a href="/wiki/Gatekeeper_parent" title="Gatekeeper parent">Gatekeeper parent</a></li>
-<li><a href="/wiki/Helicopter_parent" title="Helicopter parent">Helicopter parent</a></li>
-<li><a href="/wiki/Nurturant_parent_model" title="Nurturant parent model">Nurturant parenting</a></li>
-<li><a href="/wiki/Slow_parenting" title="Slow parenting">Slow parenting</a></li>
-<li><a href="/wiki/Soccer_mom" title="Soccer mom">Soccer mom</a></li>
-<li><a href="/wiki/Strict_father_model" title="Strict father model">Strict father model</a></li>
-<li><a href="/wiki/Taking_children_seriously" class="mw-redirect" title="Taking children seriously">Taking children seriously</a></li>
-<li><a href="/wiki/Tiger_parenting" title="Tiger parenting">Tiger parenting</a></li>
-<li><a href="/wiki/Work_at_home_parent" title="Work at home parent">Work at home parent</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Techniques</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/After-school_activity" title="After-school activity">After-school activity</a></li>
-<li><a href="/wiki/Allowance_(money)#Allowances_for_children" title="Allowance (money)">Allowance</a></li>
-<li><a href="/wiki/Bedtime" title="Bedtime">Bedtime</a></li>
-<li><a href="/wiki/Child_care" title="Child care">Child care</a></li>
-<li><a href="/wiki/Co-sleeping" title="Co-sleeping">Co-sleeping</a></li>
-<li><a href="/wiki/Homeschooling" title="Homeschooling">Homeschooling</a></li>
-<li><a href="/wiki/Latchkey_kid" title="Latchkey kid">Latchkey kid</a></li>
-<li><a href="/wiki/Parent_management_training" title="Parent management training">Parent management training</a></li>
-<li><a href="/wiki/Play_(activity)" title="Play (activity)">Play</a>&#160;(<a href="/wiki/Play_date" title="Play date">date</a>)</li>
-<li><a href="/wiki/Role_model" title="Role model">Role model</a></li>
-<li><a href="/wiki/Spoiled_child" title="Spoiled child">Spoiled child</a></li>
-<li><a href="/wiki/Social_aspects_of_television" title="Social aspects of television">Television</a></li>
-<li><a href="/wiki/Toy" title="Toy">Toy</a>&#160;(<a href="/wiki/Educational_toy" title="Educational toy">educational</a>)</li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Child_discipline" title="Child discipline">Child discipline</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Blanket_training" title="Blanket training">Blanket training</a></li>
-<li><a href="/wiki/Corporal_punishment_in_the_home" title="Corporal punishment in the home">Corporal punishment in the home</a></li>
-<li><a href="/wiki/Curfew" title="Curfew">Curfew</a></li>
-<li><a href="/wiki/Grounding_(discipline_technique)" title="Grounding (discipline technique)">Grounding</a></li>
-<li><a href="/wiki/Silent_treatment" title="Silent treatment">Tactical ignoring</a></li>
-<li><a href="/wiki/Time-out_(parenting)" title="Time-out (parenting)">Time-out</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Abuse</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Child_abandonment" title="Child abandonment">Child abandonment</a></li>
-<li><a href="/wiki/Child_abuse" title="Child abuse">Child abuse</a></li>
-<li><a href="/wiki/Child_labour" title="Child labour">Child labour</a></li>
-<li><a href="/wiki/Child_neglect" title="Child neglect">Child neglect</a></li>
-<li><a href="/wiki/Cinderella_effect" title="Cinderella effect">Cinderella effect</a></li>
-<li><a href="/wiki/Incest" title="Incest">Incest</a></li>
-<li><a href="/wiki/Narcissistic_parent" title="Narcissistic parent">Narcissistic parent</a></li>
-<li><a href="/wiki/Parental_abuse_by_children" title="Parental abuse by children">Parental abuse by children</a></li>
-<li><a href="/wiki/Parental_alienation" title="Parental alienation">Parental alienation</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Legal and social<br />aspects</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Child_custody" title="Child custody">Child custody</a></li>
-<li><a href="/wiki/Child_support" title="Child support">Child support</a></li>
-<li><a href="/wiki/Cost_of_raising_a_child" title="Cost of raising a child">Cost of raising a child</a></li>
-<li><a href="/wiki/Deadbeat_parent" title="Deadbeat parent">Deadbeat parent</a></li>
-<li><a class="mw-selflink selflink">Disownment</a></li>
-<li><a href="/wiki/Marriage" title="Marriage">Marriage</a></li>
-<li><a href="/wiki/Parental_responsibility_(access_and_custody)" title="Parental responsibility (access and custody)">Parental responsibility</a></li>
-<li><a href="/wiki/Paternity_law" title="Paternity law">Paternity</a></li>
-<li><a href="/wiki/Shared_parenting" title="Shared parenting">Shared parenting</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Experts</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/T._Berry_Brazelton" title="T. Berry Brazelton">T. Berry Brazelton</a></li>
-<li><a href="/wiki/Tanya_Byron" title="Tanya Byron">Tanya Byron</a></li>
-<li><a href="/wiki/Bryan_Caplan" title="Bryan Caplan">Bryan Caplan</a></li>
-<li><a href="/wiki/Rudolf_Dreikurs" title="Rudolf Dreikurs">Rudolf Dreikurs</a></li>
-<li><a href="/wiki/David_Elkind" title="David Elkind">David Elkind</a></li>
-<li><a href="/wiki/Jo_Frost" title="Jo Frost">Jo Frost</a></li>
-<li><a href="/wiki/Haim_Ginott" title="Haim Ginott">Haim Ginott</a></li>
-<li><a href="/wiki/Thomas_Gordon_(psychologist)" title="Thomas Gordon (psychologist)">Thomas Gordon</a></li>
-<li><a href="/wiki/Alan_E._Kazdin" title="Alan E. Kazdin">Alan E. Kazdin</a></li>
-<li><a href="/wiki/Truby_King" title="Truby King">Truby King</a></li>
-<li><a href="/wiki/Edward_Kruk" title="Edward Kruk">Edward Kruk</a></li>
-<li><a href="/wiki/Annette_Lareau" title="Annette Lareau">Annette Lareau</a></li>
-<li><a href="/wiki/Penelope_Leach" title="Penelope Leach">Penelope Leach</a></li>
-<li><a href="/wiki/Madeline_Levine" title="Madeline Levine">Madeline Levine</a></li>
-<li><a href="/wiki/Linda_Nielsen" title="Linda Nielsen">Linda Nielsen</a></li>
-<li><a href="/wiki/William_Sears_(physician)" title="William Sears (physician)">William Sears</a></li>
-<li><a href="/wiki/B._F._Skinner" title="B. F. Skinner">B. F. Skinner</a></li>
-<li><a href="/wiki/Benjamin_Spock" title="Benjamin Spock">Benjamin Spock</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Books</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><i><a href="/wiki/The_Common_Sense_Book_of_Baby_and_Child_Care" title="The Common Sense Book of Baby and Child Care">Baby and Child Care</a></i></li>
-<li><i><a href="/wiki/Parenting_for_Everyone" title="Parenting for Everyone">Parenting for Everyone</a></i></li>
-<li><i><a href="/wiki/Real_Boys" title="Real Boys">Real Boys</a></i></li>
-<li><i><a href="/wiki/Strong_Fathers,_Strong_Daughters" title="Strong Fathers, Strong Daughters">Strong Fathers, Strong Daughters</a></i></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Organizations</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Families_Need_Fathers" title="Families Need Fathers">Families Need Fathers</a></li>
-<li><a href="/wiki/Mothers_Apart_from_Their_Children" title="Mothers Apart from Their Children">Mothers Apart from Their Children</a></li>
-<li><a href="/wiki/Mothers%27_Union" title="Mothers&#39; Union">Mothers' Union</a></li>
-<li><a href="/wiki/National_Childbirth_Trust" title="National Childbirth Trust">National Childbirth Trust</a></li>
-<li><a href="/wiki/National_Parents_Organization" title="National Parents Organization">National Parents Organization</a></li>
-<li><a href="/wiki/Parent%E2%80%93teacher_association" title="Parent–teacher association">Parent–teacher association</a></li>
-<li><a href="/wiki/Parents_Against_Child_Sexual_Exploitation" title="Parents Against Child Sexual Exploitation">Parents Against Child Sexual Exploitation</a></li></ul>
-</div></td></tr></tbody></table></div>
-<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Scale_of_justice_2.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Scale_of_justice_2.svg/22px-Scale_of_justice_2.svg.png" decoding="async" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Scale_of_justice_2.svg/33px-Scale_of_justice_2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Scale_of_justice_2.svg/44px-Scale_of_justice_2.svg.png 2x" data-file-width="204" data-file-height="208" /></a></td><td><i>This <a href="/wiki/Law" title="Law">legal term</a> article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Disownment&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Law-term-stub" title="Template:Law-term-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Law-term-stub" title="Template talk:Law-term-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Law-term-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><br />
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Onoma.jpg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Onoma.jpg/80px-Onoma.jpg" decoding="async" width="80" height="37" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Onoma.jpg/120px-Onoma.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Onoma.jpg/160px-Onoma.jpg 2x" data-file-width="717" data-file-height="330" /></a></td><td><i>This <a href="/wiki/Onomastics" title="Onomastics">onomastics</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Teknonymy&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Onomastics-stub" title="Template:Onomastics-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Onomastics-stub" title="Template talk:Onomastics-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Onomastics-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+
 <!-- 
 NewPP limit report
-Parsed by mw1286
-Cached time: 20191002153357
+Parsed by mw1255
+Cached time: 20191020130114
 Cache expiry: 2592000
 Dynamic content: false
-Complications: []
-CPU time usage: 0.112 seconds
-Real time usage: 0.165 seconds
-Preprocessor visited node count: 336/1000000
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.528 seconds
+Real time usage: 0.701 seconds
+Preprocessor visited node count: 763/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 41087/2097152 bytes
-Template argument size: 74/2097152 bytes
+Post‐expand include size: 55611/2097152 bytes
+Template argument size: 168/2097152 bytes
 Highest expansion depth: 8/40
-Expensive parser function count: 1/500
-Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 494/5000000 bytes
-Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.026/10.000 seconds
-Lua memory usage: 1.3 MB/50 MB
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 28166/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.362/10.000 seconds
+Lua memory usage: 11.76 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%   93.738      1 -total
- 38.21%   35.818      1 Template:Redirect
- 19.59%   18.359      2 Template:Navbox
- 19.34%   18.127      1 Template:Family
- 18.39%   17.241      1 Template:Law-term-stub
- 15.70%   14.717      1 Template:Asbox
- 12.54%   11.753      1 Template:Reflist
-  8.44%    7.912      1 Template:Parenting
-  3.38%    3.173      1 Template:Main_other
+100.00%  603.034      1 -total
+ 47.94%  289.103      1 Template:Reflist
+ 38.10%  229.774      2 Template:Lang-grc-gre
+ 37.51%  226.213      2 Template:Lang
+ 23.89%  144.077      5 Template:Cite_book
+ 19.27%  116.231      4 Template:Cite_journal
+  5.80%   34.980      1 Template:Onomastics-stub
+  3.85%   23.238      1 Template:Personal_names
+  3.31%   19.983      2 Template:Navbox
+  2.23%   13.442      1 Template:Wiktionary_inline
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:24306493-0!canonical and timestamp 20191002153412 and revision id 919234868
+<!-- Saved in parser cache with key enwiki:pcache:idhash:11009695-0!canonical and timestamp 20191020130113 and revision id 907712227
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Disownment&amp;oldid=919234868">https://en.wikipedia.org/w/index.php?title=Disownment&amp;oldid=919234868</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Teknonymy&amp;oldid=907712227">https://en.wikipedia.org/w/index.php?title=Teknonymy&amp;oldid=907712227</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Family" title="Category:Family">Family</a></li><li><a href="/wiki/Category:Family_law" title="Category:Family law">Family law</a></li><li><a href="/wiki/Category:Fatherhood" title="Category:Fatherhood">Fatherhood</a></li><li><a href="/wiki/Category:Kinship_and_descent" title="Category:Kinship and descent">Kinship and descent</a></li><li><a href="/wiki/Category:Inheritance" title="Category:Inheritance">Inheritance</a></li><li><a href="/wiki/Category:Motherhood" title="Category:Motherhood">Motherhood</a></li><li><a href="/wiki/Category:Shunning" title="Category:Shunning">Shunning</a></li><li><a href="/wiki/Category:Legal_terminology_stubs" title="Category:Legal terminology stubs">Legal terminology stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Family" title="Category:Family">Family</a></li><li><a href="/wiki/Category:Onomastics" title="Category:Onomastics">Onomastics</a></li><li><a href="/wiki/Category:Linguistics_stubs" title="Category:Linguistics stubs">Linguistics stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_Ancient_Greek-language_text" title="Category:Articles containing Ancient Greek-language text">Articles containing Ancient Greek-language text</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -341,13 +373,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Disownment" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Disownment" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Teknonymy" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Teknonymy" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Disownment" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Disownment" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Teknonymy" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Teknonymy" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -362,7 +394,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Disownment">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Disownment&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Disownment&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Teknonymy">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Teknonymy&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Teknonymy&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -401,28 +433,28 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Disownment" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Disownment" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Disownment&amp;oldid=919234868" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Disownment&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q621474" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Disownment&amp;id=919234868" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Teknonymy" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Teknonymy" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Teknonymy&amp;oldid=907712227" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Teknonymy&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7695469" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Teknonymy&amp;id=907712227" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Disownment">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Disownment&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Disownment&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Teknonymy">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Teknonymy&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Teknonymy&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A5%D9%86%D9%83%D8%A7%D8%B1_%D8%A7%D9%84%D9%86%D8%B3%D8%A8" title="إنكار النسب – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E5%8B%98%E5%BD%93" title="勘当 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q621474#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BA%D0%BD%D0%BE%D0%BD%D0%B8%D0%BC" title="Текноним – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AF%87%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AE%B4%E0%AE%BF_%E0%AE%85%E0%AE%B4%E0%AF%88%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%B2%E0%AF%8D" title="சேய்வழி அழைத்தல் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7695469#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 2 October 2019, at 15:34<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 24 July 2019, at 19:25<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -433,7 +465,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Disownment&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Teknonymy&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -445,8 +477,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.112","walltime":"0.165","ppvisitednodes":{"value":336,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":41087,"limit":2097152},"templateargumentsize":{"value":74,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":494,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   93.738      1 -total"," 38.21%   35.818      1 Template:Redirect"," 19.59%   18.359      2 Template:Navbox"," 19.34%   18.127      1 Template:Family"," 18.39%   17.241      1 Template:Law-term-stub"," 15.70%   14.717      1 Template:Asbox"," 12.54%   11.753      1 Template:Reflist","  8.44%    7.912      1 Template:Parenting","  3.38%    3.173      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.026","limit":"10.000"},"limitreport-memusage":{"value":1365600,"limit":52428800}},"cachereport":{"origin":"mw1286","timestamp":"20191002153357","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Disownment","url":"https:\/\/en.wikipedia.org\/wiki\/Disownment","sameAs":"http:\/\/www.wikidata.org\/entity\/Q621474","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q621474","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-09-11T07:02:25Z","dateModified":"2019-10-02T15:34:12Z","headline":"legal term"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw1262"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.528","walltime":"0.701","ppvisitednodes":{"value":763,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":55611,"limit":2097152},"templateargumentsize":{"value":168,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":28166,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  603.034      1 -total"," 47.94%  289.103      1 Template:Reflist"," 38.10%  229.774      2 Template:Lang-grc-gre"," 37.51%  226.213      2 Template:Lang"," 23.89%  144.077      5 Template:Cite_book"," 19.27%  116.231      4 Template:Cite_journal","  5.80%   34.980      1 Template:Onomastics-stub","  3.85%   23.238      1 Template:Personal_names","  3.31%   19.983      2 Template:Navbox","  2.23%   13.442      1 Template:Wiktionary_inline"]},"scribunto":{"limitreport-timeusage":{"value":"0.362","limit":"10.000"},"limitreport-memusage":{"value":12334739,"limit":52428800}},"cachereport":{"origin":"mw1255","timestamp":"20191020130114","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Teknonymy","url":"https:\/\/en.wikipedia.org\/wiki\/Teknonymy","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7695469","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7695469","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-05-01T22:16:04Z","dateModified":"2019-07-24T19:25:59Z","headline":"the practice of referring to parents by the names of their children."}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":106,"wgHostname":"mw1244"});});</script>
 </body>
 </html>

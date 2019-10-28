@@ -2,35 +2,36 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Crawford (name) - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Crawford_(name)","wgTitle":"Crawford (name)","wgCurRevisionId":913880729,"wgRevisionId":913880729,"wgArticleId":23843987,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from November 2017","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from December 2018","Articles with short description","All set index articles","Given names","Surnames","English-language surnames","Scottish surnames","Toponymic surnames","Surnames of Ulster-Scottish origin"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February",
-"March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Crawford_(name)","wgRelevantArticleId":23843987,"wgRequestId":"Xa@STQpAADoAADvryUIAAAAB","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q738859","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={
-"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.cite.tracking","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head",
-"mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Metalsmith - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Metalsmith","wgTitle":"Metalsmith","wgCurRevisionId":921091636,"wgRevisionId":921091636,"wgArticleId":2327076,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing page number citations from February 2011","Use dmy dates from January 2015","All articles with unsourced statements","Articles with unsourced statements from March 2018","Commons category link is on Wikidata","Metalsmiths","Arts occupations"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar",
+"Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Metalsmith","wgRelevantArticleId":2327076,"wgRequestId":"XbWe4ApAME8AAL8OVAYAAACW","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q838566","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready",
+"user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader",
+"ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.2"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Crawford_(name)"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Crawford_(name)&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Crawford_(name)&amp;action=edit"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Damascus_bladesmith.jpg/1200px-Damascus_bladesmith.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Metalsmith"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Metalsmith&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Metalsmith&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Crawford_(name)"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Metalsmith"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Crawford_name rootpage-Crawford_name skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Metalsmith rootpage-Metalsmith skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -39,7 +40,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Crawford (name)</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Metalsmith</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -50,394 +51,184 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Crawford_(name)&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Crawford%22+name">"Crawford"&#160;name</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Crawford%22+name+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Crawford%22+name+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Crawford%22+name+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Crawford%22+name">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Crawford%22+name&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">November 2017</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
-<p><b>Crawford</b> is a <a href="/wiki/Surname" title="Surname">surname</a> and a <a href="/wiki/Given_name" title="Given name">given name</a>.
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Damascus_bladesmith.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Damascus_bladesmith.jpg/220px-Damascus_bladesmith.jpg" decoding="async" width="220" height="248" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Damascus_bladesmith.jpg/330px-Damascus_bladesmith.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Damascus_bladesmith.jpg/440px-Damascus_bladesmith.jpg 2x" data-file-width="3605" data-file-height="4067" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Damascus_bladesmith.jpg" class="internal" title="Enlarge"></a></div>A bladesmith from Damascus, ca. 1900</div></div></div>
+<p>A <b>metalsmith</b> or simply <b>smith</b> is a <a href="/wiki/Craft" title="Craft">craftsman</a> fashioning useful items (for example, tools, <a href="/wiki/Kitchenware" title="Kitchenware">kitchenware</a>, <a href="/wiki/Tableware" title="Tableware">tableware</a>, <a href="/wiki/Jewellery" title="Jewellery">jewellery</a>, and <a href="/wiki/Weapons" class="mw-redirect" title="Weapons">weapons</a>) out of various <a href="/wiki/Metal" title="Metal">metals</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> <b>Smithing</b> is one of the oldest <a href="/wiki/List_of_metalworking_occupations" title="List of metalworking occupations">metalworking occupations</a>. Shaping metal with a <a href="/wiki/Hammer" title="Hammer">hammer</a> (<a href="/wiki/Forging" title="Forging">forging</a>) is the archetypical component of smithing. Often the hammering is done while the metal is hot, having been <a href="/wiki/Heat" title="Heat">heated</a> in a <a href="/wiki/Forge" title="Forge">forge</a>. Smithing can also involve the other aspects of metalworking, such as refining metals from their ores (traditionally done by <a href="/wiki/Smelting" title="Smelting">smelting</a>), <a href="/wiki/Casting" title="Casting">casting</a> it into shapes (<a href="/wiki/Foundry" title="Foundry">founding</a>), and <a href="/wiki/File_(tool)" title="File (tool)">filing</a> to shape and size. 
+</p><p>The prevalence of metalworking in the culture of recent centuries has led <i><a href="/wiki/Smith_(surname)" title="Smith (surname)">Smith</a></i> and its equivalents in various languages to be a common <a href="/wiki/Surname#Occupational_name" title="Surname">occupational surname</a> (German <a href="/wiki/Schmidt_(surname)" title="Schmidt (surname)">Schmidt</a>, Portuguese <a href="/wiki/Ferreiro" title="Ferreiro">Ferreiro</a>, <a href="/wiki/Ferreira_(surname)" title="Ferreira (surname)">Ferreira</a>, French <a href="/wiki/Lef%C3%A8vre" title="Lefèvre">Lefèvre</a>, Spanish <a href="/wiki/Herrero" title="Herrero">Herrero</a>, Italian <a href="/wiki/Fabbri_(disambiguation)" class="mw-redirect mw-disambig" title="Fabbri (disambiguation)">Fabbri</a>, <a href="/wiki/Ferrari_(disambiguation)" class="mw-disambig" title="Ferrari (disambiguation)">Ferrari</a>, <a href="/wiki/Ferrero" title="Ferrero">Ferrero</a>, Ukrainian <a href="/wiki/Koval_(surname)" title="Koval (surname)">Koval</a> etc.). As a <a href="/wiki/Suffix" title="Suffix">suffix</a>, <i>-smith</i> <a href="/wiki/Connotation" title="Connotation">connotes</a> a meaning of a specialized craftsman—for example, <i>wordsmith</i> and <i>tunesmith</i> are nouns synonymous with writer or songwriter, respectively.
 </p>
 <div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Origin"><span class="tocnumber">1</span> <span class="toctext">Origin</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Distribution"><span class="tocnumber">2</span> <span class="toctext">Distribution</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#Surname"><span class="tocnumber">3</span> <span class="toctext">Surname</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#Given_name"><span class="tocnumber">4</span> <span class="toctext">Given name</span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="#Fictional_characters"><span class="tocnumber">5</span> <span class="toctext">Fictional characters</span></a></li>
-<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
-<li class="toclevel-1 tocsection-7"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
-<li class="toclevel-1 tocsection-8"><a href="#Citations"><span class="tocnumber">8</span> <span class="toctext">Citations</span></a></li>
-<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Types_of_smiths"><span class="tocnumber">2</span> <span class="toctext">Types of smiths</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Artisans_and_craftpeople"><span class="tocnumber">3</span> <span class="toctext">Artisans and craftpeople</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Machinists"><span class="tocnumber">4</span> <span class="toctext">Machinists</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
 </ul>
 </div>
 
-<h2><span class="mw-headline" id="Origin">Origin</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crawford_(name)&amp;action=edit&amp;section=1" title="Edit section: Origin">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>The surname <i>Crawford</i> originates from a locative name,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> possibly derived from a <a href="/wiki/Place_name" class="mw-redirect" title="Place name">place name</a> composed of the <a href="/wiki/Old_English" title="Old English">Old English</a> elements <i>crāwe</i> ("<a href="/wiki/Crow" title="Crow">crow</a>") and <i>ford</i> ("<a href="/wiki/Ford_(crossing)" title="Ford (crossing)">ford</a>").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Examples of such place names include: <a href="/wiki/Crawford,_South_Lanarkshire" title="Crawford, South Lanarkshire">Crawford, South Lanarkshire</a>, Scotland,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> <a href="/wiki/Crawford,_Dorset" class="mw-redirect" title="Crawford, Dorset">Crawford, Dorset</a>, England,<sup id="cite_ref-combine1_4-0" class="reference"><a href="#cite_note-combine1-4">&#91;4&#93;</a></sup> and <a href="/wiki/Crawford,_Lancashire" class="mw-redirect" title="Crawford, Lancashire">Crawford, Lancashire</a>, England.<sup id="cite_ref-combine1_4-1" class="reference"><a href="#cite_note-combine1-4">&#91;4&#93;</a></sup> The surname is most probably derived from the Scottish place name.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;note 1&#93;</a></sup> In some cases, the surname may be a variant of <i>Crowfoot</i>, a surname derived from a <a href="/wiki/Nickname" title="Nickname">nickname</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;7&#93;</a></sup> 
-</p><p>The surname <i>Crawford</i> corresponds to the <a href="/wiki/Scottish_Gaelic" title="Scottish Gaelic">Scottish Gaelic</a> <i>MacCreamhain</i>,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;8&#93;</a></sup> and the <a href="/wiki/Irish_language" title="Irish language">Irish</a> <i>de Cráfort</i>, <i>Mac Crábhagáin</i>, and <i>Mac Raith</i>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;9&#93;</a></sup>
-</p><p>Early examples of forms of the surname include: John de Crauford, in 1147–1160 (Scotland),<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;10&#93;</a></sup> Galfridus de Crauford, in 1188–1202 (Scotland), and Nicolaus de Crauford, in 1205 (England).<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;11&#93;</a></sup>
-</p><p>The <a href="/wiki/Given_name" title="Given name">given name</a> <i>Crawford</i>, generally a masculine name, is derived from the surname.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;12&#93;</a></sup>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Metalsmith&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/Pre-Industrial_Era" class="mw-redirect" title="Pre-Industrial Era">pre-industrialized</a> times, smiths held high or special social standing since they supplied the metal tools needed for farming (especially the <a href="/wiki/Plough" title="Plough">plough</a>) and <a href="/wiki/Warfare" class="mw-redirect" title="Warfare">warfare</a>.
 </p>
-<h2><span class="mw-headline" id="Distribution">Distribution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crawford_(name)&amp;action=edit&amp;section=2" title="Edit section: Distribution">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>As a surname, Crawford is the 289th most common name in Great Britain, with 30,292 bearers. It is most common in <a href="/wiki/South_Lanarkshire" title="South Lanarkshire">South Lanarkshire</a> where it is the 5th most common surname with 3,384 bearers and in <a href="/wiki/Highland_(council_area)" title="Highland (council area)">Highland</a> where it is the 8th most common surname with 3,394 bearers. Other concentrations include <a href="/wiki/Belfast" title="Belfast">Belfast</a> (25th, 3,328), <a href="/wiki/Greater_Manchester" title="Greater Manchester">Greater Manchester</a> (58th, 3,378), <a href="/wiki/Lancashire" title="Lancashire">Lancashire</a> (327th, 1,852), <a href="/wiki/West_Midlands_(county)" title="West Midlands (county)">West Midlands</a> (341st, 1,796) and <a href="/wiki/Essex" title="Essex">Essex</a> (374th, 1,722), and <a href="/wiki/Yorkshire" title="Yorkshire">Yorkshire</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2018)">citation needed</span></a></i>&#93;</sup> The countries with the highest percentages of Crawford families are <a href="/wiki/Canada" title="Canada">Canada</a>, <a href="/wiki/Jamaica" title="Jamaica">Jamaica</a>, <a href="/wiki/Northern_Ireland" title="Northern Ireland">Northern Ireland</a>, and <a href="/wiki/Scotland" title="Scotland">Scotland</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2018)">citation needed</span></a></i>&#93;</sup>
+<h2><span class="mw-headline" id="Types_of_smiths">Types of smiths</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Metalsmith&amp;action=edit&amp;section=2" title="Edit section: Types of smiths">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A metalsmith is one who works with or has the knowledge and the capacity of working with "all" metals.
 </p>
-<table class="wikitable">
-
-<tbody><tr>
-<th colspan="5">1881 distribution<sup id="cite_ref-combine2_14-0" class="reference"><a href="#cite_note-combine2-14">&#91;13&#93;</a></sup>
-</th></tr>
-<tr>
-<th>Country</th>
-<th>Number</th>
-<th>Crawford rank</th>
-<th>Ratio/freq
-</th></tr>
-<tr>
-<td><span class="flagicon"><a href="/wiki/Scotland" title="Scotland"><img alt="Scotland" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/23px-Flag_of_Scotland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/35px-Flag_of_Scotland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/46px-Flag_of_Scotland.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Scotland" title="Scotland">Scotland</a></td>
-<td>8,842</td>
-<td>68</td>
-<td>1: 423
-</td></tr>
-<tr>
-<td><span class="flagicon"><a href="/wiki/England" title="England"><img alt="England" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" /></a></span> <a href="/wiki/England" title="England">England</a></td>
-<td>5,794</td>
-<td>623</td>
-<td>1: 4,207
-</td></tr>
-<tr>
-<td><span class="flagicon"><a href="/wiki/Wales" title="Wales"><img alt="Wales" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Wales_%281959%E2%80%93present%29.svg/23px-Flag_of_Wales_%281959%E2%80%93present%29.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Wales_%281959%E2%80%93present%29.svg/35px-Flag_of_Wales_%281959%E2%80%93present%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Wales_%281959%E2%80%93present%29.svg/46px-Flag_of_Wales_%281959%E2%80%93present%29.svg.png 2x" data-file-width="830" data-file-height="498" /></a></span> <a href="/wiki/Wales" title="Wales">Wales</a></td>
-<td>94</td>
-<td>993</td>
-<td>1: 16,685
-</td></tr>
-<tr>
-<td><span class="flagicon"><a href="/wiki/Jersey" title="Jersey"><img alt="Jersey" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Jersey.svg/23px-Flag_of_Jersey.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Jersey.svg/35px-Flag_of_Jersey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Jersey.svg/46px-Flag_of_Jersey.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Jersey" title="Jersey">Jersey</a></td>
-<td>12</td>
-<td>761</td>
-<td>1: 4,324
-</td></tr>
-<tr>
-<td><span class="flagicon"><a href="/wiki/Isle_of_Man" title="Isle of Man"><img alt="Isle of Man" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_the_Isle_of_Man.svg/23px-Flag_of_the_Isle_of_Man.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_the_Isle_of_Man.svg/35px-Flag_of_the_Isle_of_Man.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_the_Isle_of_Man.svg/46px-Flag_of_the_Isle_of_Man.svg.png 2x" data-file-width="600" data-file-height="300" /></a></span> <a href="/wiki/Isle_of_Man" title="Isle of Man">Isle of Man</a></td>
-<td>5</td>
-<td>1,028</td>
-<td>1: 10,854
-</td></tr>
-<tr>
-<td><span class="flagicon"><a href="/wiki/Guernsey" title="Guernsey"><img alt="Guernsey" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Guernsey.svg/23px-Flag_of_Guernsey.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Guernsey.svg/35px-Flag_of_Guernsey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Guernsey.svg/45px-Flag_of_Guernsey.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Guernsey" title="Guernsey">Guernsey</a></td>
-<td>2</td>
-<td>1,834</td>
-<td>1: 16,328
-</td></tr></tbody></table>
-<table class="wikitable">
-
-<tbody><tr>
-<th colspan="5">2014 distribution<sup id="cite_ref-combine2_14-1" class="reference"><a href="#cite_note-combine2-14">&#91;13&#93;</a></sup>
-</th></tr>
-<tr>
-<th>Country</th>
-<th>Number</th>
-<th>Crawford rank</th>
-<th>Ratio/freq
-</th></tr>
-<tr>
-<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/United_States" title="United States">United States</a></td>
-<td>181,790</td>
-<td>139</td>
-<td>1: 1,762
-</td></tr>
-<tr>
-<td><span class="flagicon"><a href="/wiki/England" title="England"><img alt="England" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" /></a></span> <a href="/wiki/England" title="England">England</a></td>
-<td>19,633</td>
-<td>309</td>
-<td>1: 2,750
-</td></tr>
-<tr>
-<td><span class="flagicon"><a href="/wiki/Canada" title="Canada"><img alt="Canada" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/46px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Canada" title="Canada">Canada</a></td>
-<td>15,512</td>
-<td>239</td>
-<td>1: 2,284
-</td></tr>
-<tr>
-<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Australia" title="Australia">Australia</a></td>
-<td>12,918</td>
-<td>191</td>
-<td>1: 1,824
-</td></tr>
-<tr>
-<td><span class="flagicon"><a href="/wiki/Scotland" title="Scotland"><img alt="Scotland" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/23px-Flag_of_Scotland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/35px-Flag_of_Scotland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/46px-Flag_of_Scotland.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Scotland" title="Scotland">Scotland</a></td>
-<td>6,773</td>
-<td>77</td>
-<td>1: 783
-</td></tr>
-<tr>
-<td><span class="flagicon"><a href="/wiki/South_Africa" title="South Africa"><img alt="South Africa" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/35px-Flag_of_South_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/45px-Flag_of_South_Africa.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/South_Africa" title="South Africa">South Africa</a></td>
-<td>6,721</td>
-<td>977</td>
-<td>1: 8,035
-</td></tr>
-<tr>
-<td><span class="flagicon"><a href="/wiki/New_Zealand" title="New Zealand"><img alt="New Zealand" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a></td>
-<td>3,839</td>
-<td>105</td>
-<td>1: 1,184
-</td></tr>
-<tr>
-<td><span class="flagicon"><a href="/wiki/Northern_Ireland" title="Northern Ireland"><img alt="Northern Ireland" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Ulster_Banner.svg/23px-Ulster_Banner.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Ulster_Banner.svg/35px-Ulster_Banner.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Ulster_Banner.svg/46px-Ulster_Banner.svg.png 2x" data-file-width="600" data-file-height="300" /></a></span> <a href="/wiki/Northern_Ireland" title="Northern Ireland">Northern Ireland</a></td>
-<td>3,422</td>
-<td>58</td>
-<td>1: 526
-</td></tr>
-<tr>
-<td><span class="flagicon"><a href="/wiki/Jamaica" title="Jamaica"><img alt="Jamaica" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/23px-Flag_of_Jamaica.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/35px-Flag_of_Jamaica.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/46px-Flag_of_Jamaica.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Jamaica" title="Jamaica">Jamaica</a></td>
-<td>2,284</td>
-<td>193</td>
-<td>1: 1,190
-</td></tr>
-<tr>
-<td><span class="flagicon"><a href="/wiki/Republic_of_Ireland" title="Republic of Ireland"><img alt="Republic of Ireland" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/35px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/46px-Flag_of_Ireland.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Ireland" title="Ireland">Ireland</a></td>
-<td>983</td>
-<td>719</td>
-<td>1: 4,673
-</td></tr></tbody></table>
-<h2><span class="mw-headline" id="Surname">Surname</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crawford_(name)&amp;action=edit&amp;section=3" title="Edit section: Surname">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li>Aaron Crawford, drummer with the band <a href="/wiki/Flee_the_Seen" title="Flee the Seen">Flee the Seen</a></li>
-<li><a href="/wiki/Aaron_Crawford_(Canadian_football)" class="mw-redirect" title="Aaron Crawford (Canadian football)">Aaron Crawford (Canadian football)</a> (born 1986), Canadian football player</li>
-<li><a href="/wiki/Alan_Crawford_(disambiguation)" class="mw-redirect mw-disambig" title="Alan Crawford (disambiguation)">Alan Crawford (disambiguation)</a>, several people</li>
-<li><a href="/wiki/Alexander_Crawford" title="Alexander Crawford">Alexander Crawford</a> (1842–1886), American Civil War sailor and Medal of Honor recipient</li>
-<li><a href="/wiki/Anne_Crawford" title="Anne Crawford">Anne Crawford</a> (1920–1956), British actress</li>
-<li><a href="/wiki/Billy_Crawford" title="Billy Crawford">Billy Crawford</a> (born 1982), American-Filipino singer</li>
-<li><a href="/wiki/Bob_Crawford" title="Bob Crawford">Bob Crawford</a> (born 1959), retired Canadian ice hockey player</li>
-<li><a href="/wiki/Bobby_Crawford" title="Bobby Crawford">Bobby Crawford</a> (born 1960), retired American ice hockey player</li>
-<li><a href="/wiki/Bobby_Crawford_(footballer)" title="Bobby Crawford (footballer)">Bobby Crawford (footballer)</a> (1901–1965), Scottish footballer</li>
-<li><a href="/wiki/Brandon_Crawford" title="Brandon Crawford">Brandon Crawford</a>, baseball player</li>
-<li><a href="/wiki/Broderick_Crawford" title="Broderick Crawford">Broderick Crawford</a> (1911–1986), American actor</li>
-<li><a href="/wiki/Candice_Crawford" class="mw-redirect" title="Candice Crawford">Candice Crawford</a> (born 1986), American beauty queen crowned Miss Missouri in 2008</li>
-<li><a href="/wiki/Carol_A._Gotway_Crawford" title="Carol A. Gotway Crawford">Carol A. Gotway Crawford</a>, American statistician</li>
-<li><a href="/wiki/Carl_Crawford" title="Carl Crawford">Carl Crawford</a> (born 1981), baseball player</li>
-<li><a href="/wiki/Carol_Crawford" title="Carol Crawford">Carol Crawford</a> (died 1982), Backgammon and bridge player</li>
-<li><a href="/wiki/Carolin_Crawford" title="Carolin Crawford">Carolin Crawford</a>, British Astronomer and communicator of science</li>
-<li><a href="/wiki/Caroline_Crawford" title="Caroline Crawford">Caroline Crawford</a>, American Motown singer</li>
-<li><a href="/wiki/Carolyn_Crawford" title="Carolyn Crawford">Carolyn Crawford</a>, American politician</li>
-<li><a href="/wiki/Casey_Crawford" title="Casey Crawford">Casey Crawford</a> (born 1987), American basketball player</li>
-<li><a href="/wiki/Casey_Crawford_(American_football)" title="Casey Crawford (American football)">Casey Crawford (American football)</a> (born 1977), American football player</li>
-<li><a href="/wiki/Chace_Crawford" title="Chace Crawford">Chace Crawford</a> (born 1985), American actor starring in <i>Gossip Girl</i></li>
-<li><a href="/wiki/Charles_Crawford_(disambiguation)" class="mw-redirect mw-disambig" title="Charles Crawford (disambiguation)">Charles Crawford (disambiguation)</a>, several people</li>
-<li><a href="/wiki/Chris_Crawford_(disambiguation)" class="mw-redirect mw-disambig" title="Chris Crawford (disambiguation)">Chris Crawford (disambiguation)</a>, several people</li>
-<li><a href="/wiki/Christina_Crawford" title="Christina Crawford">Christina Crawford</a> (born 1939), American writer and actress</li>
-<li><a href="/wiki/Christina_Crawford_(wrestler)" title="Christina Crawford (wrestler)">Christina Crawford (wrestler)</a> (born 1988), American professional wrestler</li>
-<li><a href="/wiki/Cindy_Crawford" title="Cindy Crawford">Cindy Crawford</a> (born 1966), American model</li>
-<li><a href="/wiki/Corey_Crawford" title="Corey Crawford">Corey Crawford</a> (born 1984), Canadian ice hockey goaltender</li>
-<li><a href="/wiki/Craig_Crawford" title="Craig Crawford">Craig Crawford</a> (born 1956), American journalist</li>
-<li><a href="/wiki/Curtis_J._Crawford" class="mw-redirect" title="Curtis J. Crawford">Curtis J. Crawford</a> American Business Executive and Author</li>
-<li><a href="/wiki/Dan_Crawford" title="Dan Crawford">Dan Crawford</a> (1870–1925), Scottish missionary in Africa</li>
-<li><a href="/wiki/Danny_Crawford" title="Danny Crawford">Danny Crawford</a> (born 1953), American basketball referee</li>
-<li><a href="/wiki/David_Crawford_(disambiguation)" class="mw-redirect mw-disambig" title="David Crawford (disambiguation)">David Crawford (disambiguation)</a>, several people</li>
-<li><a href="/wiki/Doug_Crawford" title="Doug Crawford">Doug Crawford</a>, Canadian Neuroscientist</li>
-<li><a href="/wiki/Edward_Crawford_(disambiguation)" class="mw-redirect mw-disambig" title="Edward Crawford (disambiguation)">Edward Crawford (disambiguation)</a>, several people</li>
-<li><a href="/wiki/Elbert_Crawford" title="Elbert Crawford">Elbert Crawford</a> (born 1966), American football player</li>
-<li><a href="/wiki/F._M._Crawford" title="F. M. Crawford">F. M. Crawford</a> (Frederic Mull Crawford, 1883–1953), American college basketball coach</li>
-<li><a href="/wiki/F._S._Crawford" title="F. S. Crawford">F. S. Crawford</a> (Frazer Smith Crawford, 1829–1890), photo-lithographer in South Australia, authority on plant pests</li>
-<li><a href="/wiki/Francis_Marion_Crawford" title="Francis Marion Crawford">Francis Marion Crawford</a> (1854–1909), American author</li>
-<li><a href="/wiki/Fred_L._Crawford" title="Fred L. Crawford">Fred L. Crawford</a> (1888–1957), politician from the U.S. state of Michigan</li>
-<li><a href="/wiki/Gavin_Crawford" title="Gavin Crawford">Gavin Crawford</a>, Canadian comedian and actor</li>
-<li><a href="/wiki/George_Crawford_(disambiguation)" class="mw-redirect mw-disambig" title="George Crawford (disambiguation)">George Crawford (disambiguation)</a>, several people</li>
-<li><a href="/wiki/Graeme_Crawford" title="Graeme Crawford">Graeme Crawford</a> (born 1947), Scottish footballer</li>
-<li><a href="/wiki/Hank_Crawford" title="Hank Crawford">Hank Crawford</a> (1934 -2009)  American alto saxophonist, arranger and songwriter</li>
-<li><a href="/wiki/Harry_Crawford_(disambiguation)" class="mw-redirect mw-disambig" title="Harry Crawford (disambiguation)">Harry Crawford (disambiguation)</a>, several people</li>
-<li><a href="/wiki/Hasely_Crawford" title="Hasely Crawford">Hasely Crawford</a> (born 1950), track-and-field athlete</li>
-<li><a href="/wiki/Hector_Crawford" title="Hector Crawford">Hector Crawford</a> (1913–1991), an Australian radio and television producer</li>
-<li><a href="/wiki/Henry_Crawford_(disambiguation)" class="mw-disambig" title="Henry Crawford (disambiguation)">Henry Crawford (disambiguation)</a>, several people</li>
-<li><a href="/wiki/H._R._Crawford" title="H. R. Crawford">H. R. Crawford</a>, member of the Council of the District of Columbia</li>
-<li><a href="/wiki/Hugh_Crawford_(disambiguation)" class="mw-redirect mw-disambig" title="Hugh Crawford (disambiguation)">Hugh Crawford (disambiguation)</a>, several people</li>
-<li><a href="/wiki/Ilse_Crawford" title="Ilse Crawford">Ilse Crawford</a> (born 1962), British designer</li>
-<li><a href="/wiki/Isabella_Valancy_Crawford" title="Isabella Valancy Crawford">Isabella Valancy Crawford</a> (1850–1887), Canadian Confederation poet</li>
-<li><a href="/wiki/Inez_Mabel_Crawford" title="Inez Mabel Crawford">Inez Mabel Crawford</a> (1869–1938), registrar for the Daughters of the American Revolution</li>
-<li><a href="/wiki/Jack_Crawford_(disambiguation)" class="mw-redirect mw-disambig" title="Jack Crawford (disambiguation)">Jack Crawford (disambiguation)</a>, several people</li>
-<li><a href="/wiki/Jackie_Crawford" title="Jackie Crawford">Jackie Crawford</a>, an English football player during the 1920s and 1930s</li>
-<li><a href="/wiki/Jackson_Crawford" title="Jackson Crawford">Jackson Crawford</a>, American scholar of Old Norse</li>
-<li><a href="/wiki/Jamal_Crawford" title="Jamal Crawford">Jamal Crawford</a> (born 1980), a NBA professional basketball player</li>
-<li><a href="/wiki/James_Crawford_(disambiguation)" class="mw-redirect mw-disambig" title="James Crawford (disambiguation)">James Crawford (disambiguation)</a>, several people</li>
-<li><a href="/wiki/Jerry_Crawford" title="Jerry Crawford">Jerry Crawford</a> (born 1947), a Major League Baseball umpire</li>
-<li><a href="/wiki/Joan_Crawford" title="Joan Crawford">Joan Crawford</a> (1905–1977), an American actress</li>
-<li><a href="/wiki/Joe_Crawford_(basketball,_born_1951)" class="mw-redirect" title="Joe Crawford (basketball, born 1951)">Joe Crawford (basketball, born 1951)</a>, an NBA referee</li>
-<li><a href="/wiki/Joe_Crawford_(basketball,_born_1986)" class="mw-redirect" title="Joe Crawford (basketball, born 1986)">Joe Crawford (basketball, born 1986)</a>, a University of Kentucky basketball player</li>
-<li><a href="/wiki/John_Crawford_(disambiguation)" class="mw-redirect mw-disambig" title="John Crawford (disambiguation)">John Crawford (disambiguation)</a>, several people</li>
-<li><a href="/wiki/Johnny_Crawford" title="Johnny Crawford">Johnny Crawford</a> (born 1946), an actor, singer and musician</li>
-<li><a href="/wiki/Joseph_Crawford_(disambiguation)" class="mw-redirect mw-disambig" title="Joseph Crawford (disambiguation)">Joseph Crawford (disambiguation)</a>, several people</li>
-<li><a href="/wiki/Kirsty_Crawford" title="Kirsty Crawford">Kirsty Crawford</a> (born 1983), a Scottish singer/songwriter</li>
-<li><a href="/wiki/Lavell_Crawford" title="Lavell Crawford">Lavell Crawford</a> (born 1968), an American comedian</li>
-<li><a href="/wiki/Lester_Crawford" title="Lester Crawford">Lester Crawford</a> (born 1939), Commissioner of the United States Food and Drug Administration (FDA)</li>
-<li><a href="/wiki/Marc_Crawford" title="Marc Crawford">Marc Crawford</a> (born 1961), Canadian ice hockey player and coach</li>
-<li><a href="/wiki/Marion_Crawford" title="Marion Crawford">Marion Crawford</a> (1909–1988), Royal nanny</li>
-<li><a href="/wiki/Martha_Foster_Crawford" title="Martha Foster Crawford">Martha Foster Crawford</a> (1830–1909), American writer, missionary</li>
-<li><a href="/wiki/Mary_Crawford" title="Mary Crawford">Mary Crawford</a> (born 1947), Australian politician</li>
-<li><a href="/wiki/Matilda_Maranda_Crawford" title="Matilda Maranda Crawford">Matilda Maranda Crawford</a> (1844–1920), American-Canadian newspaper correspondent, poet</li>
-<li><a href="/wiki/Matthew_Crawford" title="Matthew Crawford">Matthew Crawford</a>, an American writer</li>
-<li><a href="/wiki/Michael_Crawford_(disambiguation)" class="mw-disambig" title="Michael Crawford (disambiguation)">Michael Crawford (disambiguation)</a>, several people
-<ul><li><a href="/wiki/Michael_Crawford" title="Michael Crawford">Michael Crawford</a> (born 1942), English actor and singer</li></ul></li>
-<li><a href="/wiki/Mike_Crawford" title="Mike Crawford">Mike Crawford</a> (born 1974), American football player</li>
-<li><a href="/wiki/Morris_B._Crawford" title="Morris B. Crawford">Morris B. Crawford</a> (1852–1940), American professor of physics</li>
-<li><a href="/wiki/Mush_Crawford" title="Mush Crawford">Mush Crawford</a> (Walter Charles Crawford, born 1898), American football player</li>
-<li><a href="/wiki/Osbert_Guy_Stanhope_Crawford" class="mw-redirect" title="Osbert Guy Stanhope Crawford">Osbert Guy Stanhope Crawford</a> (1886–1957), English archaeologist</li>
-<li><a href="/wiki/Peter_Crawford_(basketball)" title="Peter Crawford (basketball)">Peter Crawford (basketball)</a> (born 1979), Australian basketball player</li>
-<li><a href="/wiki/Peter_Crawford_(land_surveyor)" title="Peter Crawford (land surveyor)">Peter Crawford (land surveyor)</a> (1818-1889), Scottish-born surveyor and pioneer</li>
-<li><a href="/wiki/Ralston_Crawford" title="Ralston Crawford">Ralston Crawford</a> (1906–1978) an American artist</li>
-<li><a href="/wiki/Randy_Crawford" title="Randy Crawford">Randy Crawford</a> (born 1952), singer</li>
-<li>Sir <a href="/wiki/Reginald_Crawford_(died_1307)" title="Reginald Crawford (died 1307)">Reginald Crawford (died 1307)</a>, a Scottish knight who took part in the Wars of Scottish Independence</li>
-<li><a href="/wiki/Robert_Crawford_(disambiguation)" class="mw-redirect mw-disambig" title="Robert Crawford (disambiguation)">Robert Crawford (disambiguation)</a>, several people
-<ul><li><a href="/wiki/Robert_Crawford_(historian)" title="Robert Crawford (historian)">Robert Crawford (historian)</a> (born 1945), English historian</li>
-<li><a href="/wiki/Robert_Crawford_(Scottish_poet)" title="Robert Crawford (Scottish poet)">Robert Crawford (Scottish poet)</a> (born 1959), Scottish poet</li></ul></li>
-<li><a href="/wiki/Ron_Crawford" title="Ron Crawford">Ron Crawford</a> (born 1945), American actor</li>
-<li><a href="/wiki/Ronald_Crawford_(disambiguation)" class="mw-redirect mw-disambig" title="Ronald Crawford (disambiguation)">Ronald Crawford (disambiguation)</a>, several people</li>
-<li><a href="/wiki/Rusty_Crawford" title="Rusty Crawford">Rusty Crawford</a> (1885–1971), Canadian ice-hockey player</li>
-<li><a href="/wiki/Sam_Crawford" title="Sam Crawford">Sam Crawford</a> (1880–1968), MLB baseball player</li>
-<li><a href="/wiki/Sam_Crawford_(pitcher)" title="Sam Crawford (pitcher)">Sam Crawford (pitcher)</a> (born 1892), American baseball pitcher</li>
-<li><a href="/wiki/Samuel_Crawford_(disambiguation)" class="mw-redirect mw-disambig" title="Samuel Crawford (disambiguation)">Samuel Crawford (disambiguation)</a>, several people</li>
-<li><a href="/wiki/Seymour_Crawford" title="Seymour Crawford">Seymour Crawford</a> (1944–2018), Irish politician</li>
-<li><a href="/wiki/Shag_Crawford" title="Shag Crawford">Shag Crawford</a> (1916–2007), MLB National League umpire</li>
-<li><a href="/wiki/Shane_Crawford" title="Shane Crawford">Shane Crawford</a>, Australian rules footballer</li>
-<li><a href="/wiki/Shawn_Crawford" title="Shawn Crawford">Shawn Crawford</a> (born 1978), sprinter, 200 meter Olympic champion in 2004</li>
-<li><a href="/wiki/Sidney_Crawford" title="Sidney Crawford">Sidney Crawford</a> (1885–1968), South Australian businessman</li>
-<li><a href="/wiki/Sidney_Crawford_(footballer)" title="Sidney Crawford (footballer)">Sidney Crawford (footballer)</a> (1887–1979), Scottish footballer</li>
-<li><a href="/wiki/Stanton_Crawford" title="Stanton Crawford">Stanton Crawford</a> (1897–1966), Chancellor of the University of Pittsburgh</li>
-<li><a href="/wiki/Steve_Crawford_(baseball)" title="Steve Crawford (baseball)">Steve Crawford (baseball)</a> (born 1958), American baseball pitcher</li>
-<li><a href="/wiki/Steven_Crawford_(disambiguation)" class="mw-redirect mw-disambig" title="Steven Crawford (disambiguation)">Steven Crawford (disambiguation)</a>, several people</li>
-<li><a href="/wiki/Stevie_Crawford" title="Stevie Crawford">Stevie Crawford</a> (born 1974), Scottish footballer</li>
-<li><a href="/wiki/Therese_Crawford" title="Therese Crawford">Therese Crawford</a> (born 1976), American volleyball player</li>
-<li><a href="/wiki/Thomas_Crawford_(disambiguation)" class="mw-redirect mw-disambig" title="Thomas Crawford (disambiguation)">Thomas Crawford (disambiguation)</a>, several people</li>
-<li><a href="/wiki/Victoria_Crawford" class="mw-redirect" title="Victoria Crawford">Victoria Crawford</a> (born 1986), American model and professional wrestler</li>
-<li><a href="/wiki/Victor_Crawford" title="Victor Crawford">Victor Crawford</a> (1932–1996), American politician and lawyer</li>
-<li><a href="/wiki/William_Crawford_(disambiguation)" class="mw-redirect mw-disambig" title="William Crawford (disambiguation)">William Crawford (disambiguation)</a>, several people</li>
-<li><a href="/wiki/Willie_Crawford" title="Willie Crawford">Willie Crawford</a> (1946–2004), Major League Baseball outfielder in the 1960s and 1970s</li>
-<li><a href="/wiki/Xavier_Crawford" title="Xavier Crawford">Xavier Crawford</a> (born 1995), American football player</li></ul>
-<h2><span class="mw-headline" id="Given_name">Given name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crawford_(name)&amp;action=edit&amp;section=4" title="Edit section: Given name">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Crawford_Allan" title="Crawford Allan">Crawford Allan</a> (born 1967), Scottish football referee</li>
-<li><a href="/wiki/Crawford_Baptie" title="Crawford Baptie">Crawford Baptie</a> (born 1959), Scottish footballer</li>
-<li><a href="/wiki/Crawford_Barton" title="Crawford Barton">Crawford Barton</a> (1943–1994), American photographer</li>
-<li><a href="/wiki/Crawford_Blagden" title="Crawford Blagden">Crawford Blagden</a> (1881–1937), American football player</li>
-<li><a href="/wiki/Crawford_Beveridge" title="Crawford Beveridge">Crawford Beveridge</a>, Scottish businessman</li>
-<li><a href="/wiki/Crawford_Boyd" title="Crawford Boyd">Crawford Boyd</a> (born 1952), Scottish footballer</li>
-<li><a href="/wiki/Crawford_Chamberlain" title="Crawford Chamberlain">Crawford Chamberlain</a> (1821–1902), British Indian Army officer</li>
-<li><a href="/wiki/Crawford_Goldsby" title="Crawford Goldsby">Crawford Goldsby</a> (1876–1896), American outlaw</li>
-<li><a href="/wiki/Crawford_Gordon_Jr." title="Crawford Gordon Jr.">Crawford Gordon, Jr.</a> (1914–1967), Canadian industrialist</li>
-<li><a href="/wiki/Crawford_Greene" title="Crawford Greene">Crawford Greene</a> (1884–1959), English politician</li>
-<li><a href="/wiki/Crawford_Greenewalt" title="Crawford Greenewalt">Crawford Greenewalt</a> (1902–1993), American chemical engineer</li>
-<li><a href="/wiki/Crawford_Grimsley" title="Crawford Grimsley">Crawford Grimsley</a> (born 1967), American boxer</li>
-<li><a href="/wiki/Crawford_Gates" title="Crawford Gates">Crawford Gates</a> (born 1921), American composer</li>
-<li><a href="/wiki/Crawford_Henry" title="Crawford Henry">Crawford Henry</a> (born 1937), American tennis player</li>
-<li><a href="/wiki/C._H._%22Sammy%22_Downs" title="C. H. &quot;Sammy&quot; Downs">Crawford Hugh "Sammy" Downs</a> (1911–1985), American politician</li>
-<li><a href="/wiki/Crawford_Ker" title="Crawford Ker">Crawford Ker</a> (born 1962), American football player</li>
-<li><a href="/wiki/Crawford_Kilian" title="Crawford Kilian">Crawford Kilian</a> (born 1941), Canadian novelist</li>
-<li><a href="/wiki/Crawford_Logan" title="Crawford Logan">Crawford Logan</a>, British actor</li>
-<li><a href="/wiki/Crawford_Long" title="Crawford Long">Crawford Long</a> (1815–1878), American surgeon</li>
-<li><a href="/wiki/Crawford_Nalder" title="Crawford Nalder">Crawford Nalder</a> (1910–1994), Australian politician</li>
-<li><a href="/wiki/Crawford_Martin" title="Crawford Martin">Crawford Martin</a> (1916–1972), American politician</li>
-<li><a href="/wiki/Crawford_McCullagh" title="Crawford McCullagh">Crawford McCullagh</a> (1868–1948), Irish politician</li>
-<li><a href="/wiki/Crawford_Merkel" title="Crawford Merkel">Crawford Merkel</a>, American bobsledder</li>
-<li><a href="/wiki/Crawford_Palmer" title="Crawford Palmer">Crawford Palmer</a> (born 1970), American basketballer</li>
-<li><a href="/wiki/Crawford_Vaughan" title="Crawford Vaughan">Crawford Vaughan</a> (1874–1947), Australian politician</li>
-<li><a href="/wiki/Crawford_Wethington" title="Crawford Wethington">Crawford Wethington</a> (1904–1994), American musician</li>
-<li><a href="/wiki/Crawford_Wilson" title="Crawford Wilson">Crawford Wilson</a> (born 1989), American actor</li>
-<li><a href="/wiki/Crawford_Young" title="Crawford Young">Crawford Young</a>, American musician</li></ul>
-<h2><span class="mw-headline" id="Fictional_characters">Fictional characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crawford_(name)&amp;action=edit&amp;section=5" title="Edit section: Fictional characters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li>Alan Crawford, a character from <i><a href="/wiki/Grand_Theft_Auto:_San_Andreas" title="Grand Theft Auto: San Andreas">Grand Theft Auto: San Andreas</a></i></li>
-<li>Jack Crawford, inspector in <i><a href="/wiki/The_Silence_of_the_Lambs_(novel)" title="The Silence of the Lambs (novel)">The Silence of the Lambs</a></i></li></ul>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crawford_(name)&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Earl_of_Crawford" title="Earl of Crawford">Earl of Crawford</a>, title of Scottish nobility created in 1398</li>
-<li><a href="/wiki/Clan_Crawford" title="Clan Crawford">Clan Crawford</a>, Scottish clan</li>
-<li><a href="/wiki/Crawford_(disambiguation)" class="mw-redirect mw-disambig" title="Crawford (disambiguation)">Crawford (disambiguation)</a>, other things named <i>Crawford</i></li></ul>
-<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crawford_(name)&amp;action=edit&amp;section=7" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="reflist" style="list-style-type: decimal;">
-<div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">The place name is first recorded as <i>Crauford</i>, in about 1150.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup></span>
-</li>
-</ol></div></div>
-<h2><span class="mw-headline" id="Citations">Citations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crawford_(name)&amp;action=edit&amp;section=8" title="Edit section: Citations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Wessel_smedbager02.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Wessel_smedbager02.jpg/220px-Wessel_smedbager02.jpg" decoding="async" width="220" height="232" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/3/3b/Wessel_smedbager02.jpg 1.5x" data-file-width="232" data-file-height="245" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Wessel_smedbager02.jpg" class="internal" title="Enlarge"></a></div>Illustration by <a href="/wiki/Theodor_Kittelsen" title="Theodor Kittelsen">Theodor Kittelsen</a> for <a href="/wiki/Johan_Herman_Wessel" title="Johan Herman Wessel">Johan Herman Wessel</a>'s <i>The Smith and the Baker</i></div></div></div>
+<p>Types of smiths include:<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<ul><li>A <a href="/wiki/Blacksmith" title="Blacksmith">blacksmith</a> works with iron and steel (this is what is usually meant when referring just to "smith")<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></li>
+<li>A <a href="/wiki/Bladesmith" title="Bladesmith">bladesmith</a> forges <a href="/wiki/Knives" class="mw-redirect" title="Knives">knives</a>, swords, and other <a href="/wiki/Blade" title="Blade">blades</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></li>
+<li>A <a href="/wiki/Brownsmith" class="mw-redirect" title="Brownsmith">brownsmith</a> works with <a href="/wiki/Brass" title="Brass">brass</a> and <a href="/wiki/Copper" title="Copper">copper</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="Not in common use anywhere I can find. Find a more citeable source (March 2018)">citation needed</span></a></i>&#93;</sup></li>
+<li>A <a href="/wiki/Coinsmith" class="mw-redirect" title="Coinsmith">coinsmith</a> works strictly with <a href="/wiki/Coins" class="mw-redirect" title="Coins">coins</a> and currency</li>
+<li>A <a href="/wiki/Coppersmith" title="Coppersmith">coppersmith</a> works with copper<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup></li>
+<li>A <a href="/wiki/Goldsmith" title="Goldsmith">goldsmith</a> works with gold<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup></li>
+<li>A <a href="/wiki/Gunsmith" title="Gunsmith">gunsmith</a> builds and repairs <a href="/wiki/Firearm" title="Firearm">firearms</a><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup></li>
+<li>A <a href="/wiki/Locksmithing" title="Locksmithing">locksmith</a> works with <a href="/wiki/Lock_(security_device)" class="mw-redirect" title="Lock (security device)">locks</a><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup></li>
+<li>A <a href="/wiki/Silversmith" title="Silversmith">silversmith</a>, or brightsmith, works with silver<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup></li>
+<li>A <a href="/wiki/Bladesmith" title="Bladesmith">swordsmith</a> is a bladesmith who forges only <a href="/wiki/Sword" title="Sword">swords</a>.</li>
+<li>A <a href="/wiki/Tinsmith" title="Tinsmith">tinsmith</a>, tinner, or tinker works with light metal (such as tinware) and can refer to someone who deals in tinware<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup></li>
+<li>A weapon-smith forges weapons like <a href="/wiki/Axe" title="Axe">axes</a>, <a href="/wiki/Spear" title="Spear">spears</a>, <a href="/wiki/Flail_(weapon)" title="Flail (weapon)">flails</a>, and other weapons<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup></li>
+<li>A <a href="/wiki/Whitesmith" title="Whitesmith">whitesmith</a> works with white metal (<a href="/wiki/Tin" title="Tin">tin</a> and <a href="/wiki/Pewter" title="Pewter">pewter</a>) and can refer to someone who polishes or finishes the metal rather than forging it<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Artisans_and_craftpeople">Artisans and craftpeople</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Metalsmith&amp;action=edit&amp;section=3" title="Edit section: Artisans and craftpeople">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:PunzoWorkshop76.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/PunzoWorkshop76.JPG/220px-PunzoWorkshop76.JPG" decoding="async" width="220" height="193" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/PunzoWorkshop76.JPG/330px-PunzoWorkshop76.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/PunzoWorkshop76.JPG/440px-PunzoWorkshop76.JPG 2x" data-file-width="2954" data-file-height="2592" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:PunzoWorkshop76.JPG" class="internal" title="Enlarge"></a></div>Coppersmith Abdón Punzo in his workshop in <a href="/wiki/Santa_Clara_del_Cobre" title="Santa Clara del Cobre">Santa Clara del Cobre</a>, <a href="/wiki/Mexico" title="Mexico">Mexico</a></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Lafter3.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Lafter3.jpg/220px-Lafter3.jpg" decoding="async" width="220" height="324" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Lafter3.jpg/330px-Lafter3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Lafter3.jpg/440px-Lafter3.jpg 2x" data-file-width="480" data-file-height="706" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Lafter3.jpg" class="internal" title="Enlarge"></a></div>"Aeolus's Weathervane." Detail of a <a href="/wiki/Weather_vane" title="Weather vane">weather vane</a> created by using a variety of metalsmithing techniques</div></div></div>
+<p>The ancient traditional tool of the smith is a <a href="/wiki/Forge" title="Forge">forge</a> or <i>smithy</i>, which is a <a href="/wiki/Furnace" title="Furnace">furnace</a> designed to allow compressed air (through a <a href="/wiki/Bellows" title="Bellows">bellows</a>) to superheat the inside, allowing for efficient melting, <a href="/wiki/Soldering" title="Soldering">soldering</a> and <a href="/wiki/Annealing_(metallurgy)" title="Annealing (metallurgy)">annealing</a> of metals. Today, this tool is still widely used by blacksmiths as it was traditionally.
+</p><p>The term, <i>metalsmith</i>, often refers to artisans and craftpersons who practice their craft in many different metals, including gold, copper and silver. <a href="/wiki/Jeweler" class="mw-redirect" title="Jeweler">Jewelers</a> often refer to their craft as <i>metalsmithing</i>, and many universities offer degree programs in metalsmithing, jewelry, enameling and blacksmithing under the auspices of their fine arts programs.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Machinists">Machinists</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Metalsmith&amp;action=edit&amp;section=4" title="Edit section: Machinists">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Machinist" title="Machinist">Machinists</a> are metalsmiths who produce high-precision parts and tools.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> The most advanced of these tools, <a href="/wiki/CNC" class="mw-redirect" title="CNC">CNC</a> machines, are computer controlled and largely automated.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Metalsmith&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 35em; -webkit-column-width: 35em; column-width: 35em; list-style-type: decimal;">
 <ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a href="#H1">Hanks; Coates; McClure (2016)</a> pp. 608–609; <a href="#C1">Cottle (1969)</a> p. 79.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.merriam-webster.com/dictionary/metalsmith">"Definition of METALSMITH"</a>. <i>www.merriam-webster.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.merriam-webster.com&amp;rft.atitle=Definition+of+METALSMITH&amp;rft_id=http%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2Fmetalsmith&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetalsmith" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a href="#H2">Hanks; Hardcastle; Hodges (2006)</a> p. 65; <a href="#H3">Hanks; Hodges (1991)</a> p. 129.</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">John Fuller, Sr., <i>Art of Coppersmithing</i>, Astragal Press, 1993 (reprint of original edition, 1894) <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1879335379" title="Special:BookSources/1879335379">1879335379</a><sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources"><span title="This citation requires a reference to the specific page or range of pages in which the material appears. (February 2011)">page&#160;needed</span></a></i>&#93;</sup></span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a href="#H1">Hanks; Coates; McClure (2016)</a> pp. 608–609; <a href="#H2">Hanks; Hardcastle; Hodges (2006)</a> p. 65; <a href="#H1">Reaney; Wilson (1995)</a> p. 115; <a href="#H3">Hanks; Hodges (1991)</a> p. 129; <a href="#B1">Black (1971)</a> p. 182; <a href="#C1">Cottle (1969)</a> p. 79.</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.merriam-webster.com/dictionary/blacksmith">"Definition of BLACKSMITH"</a>. <i>www.merriam-webster.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.merriam-webster.com&amp;rft.atitle=Definition+of+BLACKSMITH&amp;rft_id=http%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2Fblacksmith&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetalsmith" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-combine1-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-combine1_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-combine1_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#H2">Hanks; Hardcastle; Hodges (2006)</a> p. 65; <a href="#H3">Hanks; Hodges (1991)</a> p. 129; <a href="#C1">Cottle (1969)</a> p. 79.</span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.merriam-webster.com/dictionary/bladesmith">"Definition of BLADESMITH"</a>. <i>www.merriam-webster.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.merriam-webster.com&amp;rft.atitle=Definition+of+BLADESMITH&amp;rft_id=http%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2Fbladesmith&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetalsmith" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a href="#H1">Hanks; Coates; McClure (2016)</a> pp. 608–609.</span>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://medievalscotland.org/kmo/EnglishBynames/Brownsmith.shtml">"A Survey of English Bynames: Brownsmith"</a>. <i>medievalscotland.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=medievalscotland.org&amp;rft.atitle=A+Survey+of+English+Bynames%3A+Brownsmith&amp;rft_id=http%3A%2F%2Fmedievalscotland.org%2Fkmo%2FEnglishBynames%2FBrownsmith.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetalsmith" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"> <a href="#M1">Mills (2003)</a> § Crawford.</span>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.merriam-webster.com/dictionary/coppersmith">"Definition of COPPERSMITH"</a>. <i>www.merriam-webster.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.merriam-webster.com&amp;rft.atitle=Definition+of+COPPERSMITH&amp;rft_id=http%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2Fcoppersmith&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetalsmith" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a href="#H3">Hanks; Hodges (1991)</a> pp. 129, 132.</span>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.merriam-webster.com/dictionary/goldsmith">"Definition of GOLDSMITH"</a>. <i>www.merriam-webster.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.merriam-webster.com&amp;rft.atitle=Definition+of+GOLDSMITH&amp;rft_id=http%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2Fgoldsmith&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetalsmith" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a href="#M2">Mark (2003)</a> p. 720.</span>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.merriam-webster.com/dictionary/gunsmith">"Definition of GUNSMITH"</a>. <i>www.merriam-webster.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.merriam-webster.com&amp;rft.atitle=Definition+of+GUNSMITH&amp;rft_id=http%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2Fgunsmith&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetalsmith" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a href="#D1">de Bhulbh (1997)</a> p. 166.</span>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.merriam-webster.com/dictionary/locksmith">"Definition of LOCKSMITH"</a>. <i>www.merriam-webster.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.merriam-webster.com&amp;rft.atitle=Definition+of+LOCKSMITH&amp;rft_id=http%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2Flocksmith&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetalsmith" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a href="#H1">Hanks; Coates; McClure (2016)</a> pp. 608–609; <a href="#H1">Reaney; Wilson (1995)</a> p. 115; <a href="#B1">Black (1971)</a> p. 182.</span>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Rupert Finegold and William Seitz, <i>Silversmithing</i>, Krause Publications, 1983, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8019-7232-9" title="Special:BookSources/0-8019-7232-9">0-8019-7232-9</a></span>
 </li>
-<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a href="#H1">Reaney; Wilson (1995)</a> p. 115.</span>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.merriam-webster.com/dictionary/tinsmith">"Definition of TINSMITH"</a>. <i>www.merriam-webster.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.merriam-webster.com&amp;rft.atitle=Definition+of+TINSMITH&amp;rft_id=http%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2Ftinsmith&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetalsmith" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a href="#H2">Hanks; Hardcastle; Hodges (2006)</a> p. 65.</span>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.merriam-webster.com/dictionary/weapon-smith">"Definition of WEAPONSMITH"</a>. <i>www.merriam-webster.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.merriam-webster.com&amp;rft.atitle=Definition+of+WEAPONSMITH&amp;rft_id=http%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2Fweapon-smith&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetalsmith" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-combine2-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-combine2_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-combine2_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://forebears.io/surnames/crawford">Crawford Surname Meaning &amp; Statistics</a> Crawford</span>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.merriam-webster.com/dictionary/whitesmith">"Definition of WHITESMITH"</a>. <i>www.merriam-webster.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.merriam-webster.com&amp;rft.atitle=Definition+of+WHITESMITH&amp;rft_id=http%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2Fwhitesmith&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetalsmith" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Tim McCreight, <i>Jewelry: Fundamentals of Metalsmithing</i>, Hand Books Press, 1997, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-880140-29-2" title="Special:BookSources/1-880140-29-2">1-880140-29-2</a></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.merriam-webster.com/dictionary/machinists">"Definition of MACHINISTS"</a>. <i>www.merriam-webster.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.merriam-webster.com&amp;rft.atitle=Definition+of+MACHINISTS&amp;rft_id=http%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2Fmachinists&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetalsmith" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
 </ol></div>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Crawford_(name)&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<style data-mw-deduplicate="TemplateStyles:r886047268">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
-<ul><li><cite id="B1" class="citation book">Black, GF (1971) [1946]. <span class="cs1-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/surnamesofscotla00geor"><i>The Surnames of Scotland: Their Origin, Meaning, and History</i></a></span>. New York: <a href="/wiki/The_New_York_Public_Library" class="mw-redirect" title="The New York Public Library">The New York Public Library</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-87104-172-3" title="Special:BookSources/0-87104-172-3"><bdi>0-87104-172-3</bdi></a>. <a href="/wiki/Open_Library" title="Open Library">OL</a>&#160;<a rel="nofollow" class="external text" href="//openlibrary.org/books/OL8346130M">8346130M</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Surnames+of+Scotland%3A+Their+Origin%2C+Meaning%2C+and+History&amp;rft.place=New+York&amp;rft.pub=The+New+York+Public+Library&amp;rft.date=1971&amp;rft.isbn=0-87104-172-3&amp;rft.aulast=Black&amp;rft.aufirst=GF&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fsurnamesofscotla00geor&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACrawford+%28name%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></li>
-<li><cite id="C1" class="citation book"><a href="/wiki/Basil_Cottle" title="Basil Cottle">Cottle, B</a> (1969) [1967]. <span class="cs1-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/penguindictionar00cott"><i>The Penguin Dictionary of Surnames</i></a></span>. Penguin Reference Books. Harmondsworth: <a href="/wiki/Penguin_Books" title="Penguin Books">Penguin Books</a>. <a href="/wiki/Open_Library" title="Open Library">OL</a>&#160;<a rel="nofollow" class="external text" href="//openlibrary.org/books/OL22912501M">22912501M</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Penguin+Dictionary+of+Surnames&amp;rft.place=Harmondsworth&amp;rft.series=Penguin+Reference+Books&amp;rft.pub=Penguin+Books&amp;rft.date=1969&amp;rft.aulast=Cottle&amp;rft.aufirst=B&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fpenguindictionar00cott&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACrawford+%28name%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><cite id="D1" class="citation book">de Bhulbh, S (1997). <span class="cs1-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/sloinntenaheirea00debh"><i>Sloinnte na h-Éireann: Irish Surnames</i></a></span>. Limerick: Comhar-Chumann Íde Naofa Teo. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-9530560-0-7" title="Special:BookSources/0-9530560-0-7"><bdi>0-9530560-0-7</bdi></a>. <a href="/wiki/Open_Library" title="Open Library">OL</a>&#160;<a rel="nofollow" class="external text" href="//openlibrary.org/books/OL316008M">316008M</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Sloinnte+na+h-%C3%89ireann%3A+Irish+Surnames&amp;rft.place=Limerick&amp;rft.pub=Comhar-Chumann+%C3%8Dde+Naofa+Teo&amp;rft.date=1997&amp;rft.isbn=0-9530560-0-7&amp;rft.aulast=de+Bhulbh&amp;rft.aufirst=S&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fsloinntenaheirea00debh&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACrawford+%28name%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><cite id="H1" class="citation book"><a href="/wiki/Patrick_Hanks" title="Patrick Hanks">Hanks, P</a>; Coates, R; McClure, P, eds. (2016). <i>The Oxford Dictionary of Family Names in Britain and Ireland</i>. <b>1</b>. Oxford: <a href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-19-879881-1" title="Special:BookSources/978-0-19-879881-1"><bdi>978-0-19-879881-1</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Oxford+Dictionary+of+Family+Names+in+Britain+and+Ireland&amp;rft.place=Oxford&amp;rft.pub=Oxford+University+Press&amp;rft.date=2016&amp;rft.isbn=978-0-19-879881-1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACrawford+%28name%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><cite id="H2" class="citation book">Hanks, P; Hardcastle, K; Hodges, F (2006) [1990]. <i>A Dictionary of First Names</i>. Oxford Paperback Reference (2nd ed.). Oxford: Oxford University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-19-861060-1" title="Special:BookSources/978-0-19-861060-1"><bdi>978-0-19-861060-1</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Dictionary+of+First+Names&amp;rft.place=Oxford&amp;rft.series=Oxford+Paperback+Reference&amp;rft.edition=2nd&amp;rft.pub=Oxford+University+Press&amp;rft.date=2006&amp;rft.isbn=978-0-19-861060-1&amp;rft.aulast=Hanks&amp;rft.aufirst=P&amp;rft.au=Hardcastle%2C+K&amp;rft.au=Hodges%2C+F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACrawford+%28name%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><cite id="H3" class="citation book">Hanks, P; Hodges, F (1991) [1988]. <span class="cs1-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofsurn00patr"><i>A Dictionary of Surnames</i></a></span>. Oxford: Oxford University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-10-211502-8" title="Special:BookSources/0-10-211502-8"><bdi>0-10-211502-8</bdi></a>. <a href="/wiki/Open_Library" title="Open Library">OL</a>&#160;<a rel="nofollow" class="external text" href="//openlibrary.org/books/OL2044914M">2044914M</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Dictionary+of+Surnames&amp;rft.place=Oxford&amp;rft.pub=Oxford+University+Press&amp;rft.date=1991&amp;rft.isbn=0-10-211502-8&amp;rft.aulast=Hanks&amp;rft.aufirst=P&amp;rft.au=Hodges%2C+F&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fdictionaryofsurn00patr&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACrawford+%28name%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><cite id="M2" class="citation book">Mark, C (2003). <i>The Gaelic-English Dictionary</i>. New York: <a href="/wiki/Routledge" title="Routledge">Routledge</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-203-27706-6" title="Special:BookSources/0-203-27706-6"><bdi>0-203-27706-6</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Gaelic-English+Dictionary&amp;rft.place=New+York&amp;rft.pub=Routledge&amp;rft.date=2003&amp;rft.isbn=0-203-27706-6&amp;rft.aulast=Mark&amp;rft.aufirst=C&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACrawford+%28name%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><cite id="M1" class="citation book">Mills, AD (2003) [1991]. <i>A Dictionary of British Place-Names</i> (EPUB). Oxford: Oxford University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-852758-6" title="Special:BookSources/0-19-852758-6"><bdi>0-19-852758-6</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Dictionary+of+British+Place-Names&amp;rft.place=Oxford&amp;rft.pub=Oxford+University+Press&amp;rft.date=2003&amp;rft.isbn=0-19-852758-6&amp;rft.aulast=Mills&amp;rft.aufirst=AD&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACrawford+%28name%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
-<li><cite id="R1" class="citation book">Reaney, PH (1995).  Wilson, RM (ed.). <i>A Dictionary of English Surnames</i> (3rd ed.). Oxford: Oxford University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-8631464" title="Special:BookSources/0-19-8631464"><bdi>0-19-8631464</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Dictionary+of+English+Surnames&amp;rft.place=Oxford&amp;rft.edition=3rd&amp;rft.pub=Oxford+University+Press&amp;rft.date=1995&amp;rft.isbn=0-19-8631464&amp;rft.aulast=Reaney&amp;rft.aufirst=PH&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACrawford+%28name%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
-</div>
-<style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
-<table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Metalsmith&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
 <tbody><tr>
-<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
-<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Name list</div>This page or section lists people that share the same <a href="/wiki/Given_name" title="Given name">given name</a> or the same <a href="/wiki/Family_name" class="mw-redirect" title="Family name">family name</a>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Crawford_(name)&amp;namespace=0">internal link</a> led you here, you may wish to change that link to point directly to the intended article. </td>
-</tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" decoding="async" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512" /></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/smith" class="extiw" title="wiktionary:smith">smith</a></b></i> in Wiktionary, the free dictionary.</td></tr>
 </tbody></table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" decoding="async" width="38" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> has the text of a <a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">1911 <i>Encyclopædia Britannica</i></a> article about <i><b><a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Smith" class="extiw" title="wikisource:1911 Encyclopædia Britannica/Smith">Metalsmith</a></b></i>.</td></tr>
+</tbody></table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Smiths" class="extiw" title="commons:Category:Smiths"><span style="">Smiths</span></a></b></i>.</td></tr>
+</tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="Metalworking" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Metalworking_navbox" title="Template:Metalworking navbox"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Metalworking_navbox" title="Template talk:Metalworking navbox"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Metalworking_navbox&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Metalworking" style="font-size:114%;margin:0 4em"><a href="/wiki/Metalworking" title="Metalworking">Metalworking</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible uncollapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Metalworking_navbox/smith" title="Template:Metalworking navbox/smith"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/w/index.php?title=Template_talk:Metalworking_navbox/smith&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Metalworking navbox/smith (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Metalworking_navbox/smith&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Smithing" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Smithing</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Smiths</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Blacksmith" title="Blacksmith">Blacksmith</a></li>
+<li><a href="/wiki/Bladesmith" title="Bladesmith">Bladesmith</a></li>
+<li><a href="/wiki/Coppersmith" title="Coppersmith">Coppersmith</a></li>
+<li><a href="/wiki/Goldsmith" title="Goldsmith">Goldsmith</a></li>
+<li><a href="/wiki/Gunsmith" title="Gunsmith">Gunsmith</a></li>
+<li><a href="/wiki/Locksmithing" title="Locksmithing">Locksmith</a></li>
+<li><a href="/wiki/Pewter" title="Pewter">Pewtersmith</a></li>
+<li><a href="/wiki/Silversmith" title="Silversmith">Silversmith</a></li>
+<li><a href="/wiki/Tinsmith" title="Tinsmith">Tinsmith</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Processes</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Forging" title="Forging">Forging</a></li>
+<li><a href="/wiki/Pattern_welding" title="Pattern welding">Pattern welding</a></li>
+<li><a href="/wiki/Planishing" title="Planishing">Planishing</a></li>
+<li><a href="/wiki/Raising_(metalworking)" title="Raising (metalworking)">Raising</a></li>
+<li><a href="/wiki/Sinking_(metalworking)" title="Sinking (metalworking)">Sinking</a></li>
+<li><a href="/wiki/Swaging" title="Swaging">Swaging</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Tools</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anvil" title="Anvil">Anvil</a></li>
+<li><a href="/wiki/Forge" title="Forge">Forge</a></li>
+<li><a href="/wiki/Fuller_(metalworking)" title="Fuller (metalworking)">Fuller</a></li>
+<li><a href="/wiki/Hammer" title="Hammer">Hammer</a></li>
+<li><a href="/wiki/Hardy_tool" title="Hardy tool">Hardy tools</a></li>
+<li><a href="/wiki/Pritchel" title="Pritchel">Pritchel</a></li>
+<li><a href="/wiki/Steam_hammer" title="Steam hammer">Steam hammer</a></li>
+<li><a href="/wiki/Swage_block" title="Swage block">Swage block</a></li>
+<li><a href="/wiki/Trip_hammer" title="Trip hammer">Trip hammer</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Casting" title="Casting">Casting</a></li>
+<li><a href="/wiki/Metal_fabrication" title="Metal fabrication">Fabrication</a></li>
+<li><a href="/wiki/Forming_processes" title="Forming processes">Forming</a></li>
+<li><a href="/wiki/Jewellery" title="Jewellery">Jewellery</a></li>
+<li><a href="/wiki/Machining" title="Machining">Machining</a></li>
+<li><a href="/wiki/Metallurgy" title="Metallurgy">Metallurgy</a></li>
+<li><a class="mw-selflink selflink">Smithing</a></li>
+<li><a href="/wiki/Outline_of_metalworking" title="Outline of metalworking">Tools and terminology</a></li>
+<li><a href="/wiki/Welding" title="Welding">Welding</a></li></ul>
+</div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1263
-Cached time: 20191022233541
+Parsed by mw1266
+Cached time: 20191015172209
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.356 seconds
-Real time usage: 0.537 seconds
-Preprocessor visited node count: 2925/1000000
+CPU time usage: 0.440 seconds
+Real time usage: 0.610 seconds
+Preprocessor visited node count: 1974/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 37780/2097152 bytes
-Template argument size: 3477/2097152 bytes
-Highest expansion depth: 12/40
-Expensive parser function count: 4/500
+Post‐expand include size: 49809/2097152 bytes
+Template argument size: 3146/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 3/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 22586/5000000 bytes
+Unstrip post‐expand size: 40433/5000000 bytes
 Number of Wikibase entities loaded: 1/400
-Lua time usage: 0.142/10.000 seconds
-Lua memory usage: 5.29 MB/50 MB
+Lua time usage: 0.207/10.000 seconds
+Lua memory usage: 4.89 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  422.734      1 -total
- 31.00%  131.030      9 Template:Cite_book
- 22.48%   95.045      1 Template:Refimprove
- 16.89%   71.412      1 Template:Ambox
- 16.79%   70.996     16 Template:Flagicon
-  8.77%   37.073      2 Template:Cn
-  8.51%   35.980      1 Template:Given_name
-  6.98%   29.497      2 Template:Fix
-  6.81%   28.808      1 Template:Find_sources_mainspace
-  5.64%   23.841      1 Template:Dmbox
+100.00%  534.388      1 -total
+ 56.18%  300.238      1 Template:Reflist
+ 31.06%  165.973     12 Template:Cite_web
+ 14.72%   78.642      2 Template:Fix
+ 14.06%   75.136      3 Template:ISBN
+ 13.41%   71.670      1 Template:Cn
+  9.61%   51.372      1 Template:Commons_category
+  8.64%   46.161      4 Template:Category_handler
+  6.89%   36.834      1 Template:Use_dmy_dates
+  5.97%   31.890      1 Template:Metalworking_navbox
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:23843987-0!canonical and timestamp 20191022233541 and revision id 913880729
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2327076-0!canonical and timestamp 20191015172208 and revision id 921091636
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Crawford_(name)&amp;oldid=913880729">https://en.wikipedia.org/w/index.php?title=Crawford_(name)&amp;oldid=913880729</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Metalsmith&amp;oldid=921091636">https://en.wikipedia.org/w/index.php?title=Metalsmith&amp;oldid=921091636</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Given_names" title="Category:Given names">Given names</a></li><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:English-language_surnames" title="Category:English-language surnames">English-language surnames</a></li><li><a href="/wiki/Category:Scottish_surnames" title="Category:Scottish surnames">Scottish surnames</a></li><li><a href="/wiki/Category:Toponymic_surnames" title="Category:Toponymic surnames">Toponymic surnames</a></li><li><a href="/wiki/Category:Surnames_of_Ulster-Scottish_origin" title="Category:Surnames of Ulster-Scottish origin">Surnames of Ulster-Scottish origin</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_November_2017" title="Category:Articles needing additional references from November 2017">Articles needing additional references from November 2017</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2018" title="Category:Articles with unsourced statements from December 2018">Articles with unsourced statements from December 2018</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Metalsmiths" title="Category:Metalsmiths">Metalsmiths</a></li><li><a href="/wiki/Category:Arts_occupations" title="Category:Arts occupations">Arts occupations</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_needing_page_number_citations_from_February_2011" title="Category:Wikipedia articles needing page number citations from February 2011">Wikipedia articles needing page number citations from February 2011</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_January_2015" title="Category:Use dmy dates from January 2015">Use dmy dates from January 2015</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2018" title="Category:Articles with unsourced statements from March 2018">Articles with unsourced statements from March 2018</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -453,13 +244,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Crawford+%28name%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Crawford+%28name%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Metalsmith" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Metalsmith" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Crawford_(name)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Crawford_(name)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Metalsmith" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Metalsmith" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -474,7 +265,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Crawford_(name)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Crawford_(name)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Crawford_(name)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Metalsmith">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Metalsmith&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Metalsmith&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -513,28 +304,35 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Crawford_(name)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Crawford_(name)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Crawford_(name)&amp;oldid=913880729" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Crawford_(name)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q738859" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Crawford_%28name%29&amp;id=913880729" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Metalsmith" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Metalsmith" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Metalsmith&amp;oldid=921091636" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Metalsmith&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q838566" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Metalsmith&amp;id=921091636" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Smiths" hreflang="en">Wikimedia Commons</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Crawford+%28name%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Crawford+%28name%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Crawford_(name)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Metalsmith">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Metalsmith&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Metalsmith&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Crawford_(mi%C3%A2)" title="Crawford (miâ) – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Crawford_(namn)" title="Crawford (namn) – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q738859#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/D%C9%99mir%C3%A7ilik" title="Dəmirçilik – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%D8%AA%D8%A7%D9%84_%D8%A7%D8%B3%D9%85%DB%8C%D8%AA" title="متال اسمیت – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E9%8D%9B%E5%86%B6" title="鍛冶 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%AF%DA%BE%D8%A7%D8%AA%DA%86%DB%8C" title="دھاتچی – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Smith_(metalwork)" title="Smith (metalwork) – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Demircilik" title="Demircilik – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q838566#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 3 September 2019, at 20:06<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 13 October 2019, at 20:28<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -545,7 +343,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Crawford_(name)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Metalsmith&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -557,8 +355,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.356","walltime":"0.537","ppvisitednodes":{"value":2925,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":37780,"limit":2097152},"templateargumentsize":{"value":3477,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":22586,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  422.734      1 -total"," 31.00%  131.030      9 Template:Cite_book"," 22.48%   95.045      1 Template:Refimprove"," 16.89%   71.412      1 Template:Ambox"," 16.79%   70.996     16 Template:Flagicon","  8.77%   37.073      2 Template:Cn","  8.51%   35.980      1 Template:Given_name","  6.98%   29.497      2 Template:Fix","  6.81%   28.808      1 Template:Find_sources_mainspace","  5.64%   23.841      1 Template:Dmbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.142","limit":"10.000"},"limitreport-memusage":{"value":5549058,"limit":52428800}},"cachereport":{"origin":"mw1263","timestamp":"20191022233541","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Crawford (name)","url":"https:\/\/en.wikipedia.org\/wiki\/Crawford_(name)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q738859","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q738859","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-08-03T05:31:21Z","dateModified":"2019-09-03T20:06:14Z","headline":"name: given name and surname"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":650,"wgHostname":"mw1263"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.440","walltime":"0.610","ppvisitednodes":{"value":1974,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":49809,"limit":2097152},"templateargumentsize":{"value":3146,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":40433,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  534.388      1 -total"," 56.18%  300.238      1 Template:Reflist"," 31.06%  165.973     12 Template:Cite_web"," 14.72%   78.642      2 Template:Fix"," 14.06%   75.136      3 Template:ISBN"," 13.41%   71.670      1 Template:Cn","  9.61%   51.372      1 Template:Commons_category","  8.64%   46.161      4 Template:Category_handler","  6.89%   36.834      1 Template:Use_dmy_dates","  5.97%   31.890      1 Template:Metalworking_navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.207","limit":"10.000"},"limitreport-memusage":{"value":5128552,"limit":52428800}},"cachereport":{"origin":"mw1266","timestamp":"20191015172209","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Metalsmith","url":"https:\/\/en.wikipedia.org\/wiki\/Metalsmith","sameAs":"http:\/\/www.wikidata.org\/entity\/Q838566","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q838566","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-07-28T14:19:36Z","dateModified":"2019-10-13T20:28:48Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b9\/Damascus_bladesmith.jpg","headline":"craftsman fashioning tools or works of art out of various metals"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":103,"wgHostname":"mw1244"});});</script>
 </body>
 </html>

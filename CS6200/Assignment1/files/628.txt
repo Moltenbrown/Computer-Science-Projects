@@ -2,35 +2,35 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Belarusian name - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Belarusian_name","wgTitle":"Belarusian name","wgCurRevisionId":907587778,"wgRevisionId":907587778,"wgArticleId":7761281,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from February 2018","All articles lacking in-text citations","Names by culture","Belarusian-language surnames","Belarusian names"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Belarusian_name",
-"wgRelevantArticleId":7761281,"wgRequestId":"Xa64wQpAAD8AAH2OugUAAADK","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q35002801","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready",
-"mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
-"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Somali name - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Somali_name","wgTitle":"Somali name","wgCurRevisionId":923035996,"wgRevisionId":923035996,"wgArticleId":40838113,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with failed verification","Articles with failed verification from December 2018","Articles needing additional references from December 2018","All articles needing additional references","All stub articles","Somali culture","Names by culture","Name stubs","Somalia stubs"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["",
+"Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Somali_name","wgRelevantArticleId":40838113,"wgRequestId":"XbN42QpAMEsAAHPrMWMAAABU","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q16917860","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready",
+"user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init",
+"ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.2"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Belarusian_name"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Belarusian_name&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Belarusian_name&amp;action=edit"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Somali_name"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Somali_name&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Somali_name&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Belarusian_name"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Somali_name"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Belarusian_name rootpage-Belarusian_name skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Somali_name rootpage-Somali_name skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -39,7 +39,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Belarusian name</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Somali name</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -50,156 +50,256 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-No_footnotes plainlinks metadata ambox ambox-style ambox-No_footnotes" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, related reading or <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a>, <b>but its sources remain unclear because it lacks <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>.<span class="hide-when-compact"> Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" class="mw-redirect" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span>  <small class="date-container"><i>(<span class="date">February 2018</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
-<p>A modern <b>Belarusian name</b> of a person consists of three parts: <a href="/wiki/Given_name" title="Given name">given name</a>, <a href="/wiki/Patronymic" title="Patronymic">patronymic</a>, and <a href="/wiki/Surname" title="Surname">family name</a> (surname), according to the <a href="/wiki/Eastern_Slavic_naming_customs" title="Eastern Slavic naming customs">Eastern Slavic naming customs</a>, similar to <a href="/wiki/Russian_name" class="mw-redirect" title="Russian name">Russian names</a> and <a href="/wiki/Ukrainian_name" title="Ukrainian name">Ukrainian names</a>.
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Somali_name&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Somali+name%22">"Somali name"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Somali+name%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Somali+name%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Somali+name%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Somali+name%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Somali+name%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">December 2018</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>In <a href="/wiki/Somali_people" class="mw-redirect" title="Somali people">Somali</a> society, each individual has a <a href="/wiki/Given_name" title="Given name">given name</a>. Sometimes it is presented along with the father's given name, and sometimes the paternal grandfather's given name is attached as well. Somalis do not have surnames or family names.<sup id="cite_ref-9780873386586-pp79_1-0" class="reference"><a href="#cite_note-9780873386586-pp79-1">&#91;1&#93;</a></sup> Most names are of Islamic roots (e.g. Muhammed, Hassan, Ali, Ibrahim) whilst others are cultural (e.g. Guleed, Ashkir).<sup id="cite_ref-9783447036115-pp282_2-0" class="reference"><a href="#cite_note-9783447036115-pp282-2">&#91;2&#93;</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The material near this tag failed verification of its source citation(s). (December 2018)">failed verification</span></a></i>&#93;</sup>
 </p>
 <div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Belarusian_given_names"><span class="tocnumber">1</span> <span class="toctext">Belarusian given names</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Belarusian_family_names_(surnames)"><span class="tocnumber">2</span> <span class="toctext">Belarusian family names (surnames)</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#Format"><span class="tocnumber">1</span> <span class="toctext">Format</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#List"><span class="tocnumber">2</span> <span class="toctext">List</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Masculine"><span class="tocnumber">2.1</span> <span class="toctext">Masculine</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Feminine"><span class="tocnumber">2.2</span> <span class="toctext">Feminine</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
 </ul>
 </div>
 
-<h2><span class="mw-headline" id="Belarusian_given_names">Belarusian given names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Belarusian_name&amp;action=edit&amp;section=1" title="Edit section: Belarusian given names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>As with most cultures, a person has a given name chosen by the parents. First names in East-<a href="/wiki/Slavic_languages" title="Slavic languages">Slavic languages</a> mostly originate from three sources: <a href="/wiki/Eastern_Orthodox_Church" title="Eastern Orthodox Church">Orthodox</a> church tradition (which is itself of <a href="/wiki/Greek_language" title="Greek language">Greek</a> origin), <a href="/wiki/Catholic" class="mw-redirect" title="Catholic">Catholic</a> church tradition (which is itself of <a href="/wiki/Latin_language" class="mw-redirect" title="Latin language">Latin</a> origin) and <a href="/wiki/Slavic_names" title="Slavic names">native pre-Christian Slavic origin lexicons</a>. Most names have several diminutive forms.
+<h2><span class="mw-headline" id="Format">Format</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Somali_name&amp;action=edit&amp;section=1" title="Edit section: Format">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dd><i>Givenname Patronym Avonym</i></dd>
+<dd><i>Givenname Patronym</i></dd>
+<dd><i>Givenname</i></dd></dl>
+<p>For example Axmed Yusuf Qaasim would be a person whose given name is "Axmed", whose father's proper name was "Yusuf" and whose grandfather's name was "Qaasim".<sup id="cite_ref-9780873386586-pp79_1-1" class="reference"><a href="#cite_note-9780873386586-pp79-1">&#91;1&#93;</a></sup> 
 </p>
-<div>
-
-&#32;
-<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;"><tbody><tr>
-<td style="width: 50%;text-align: left; vertical-align: top;">
-<dl><dt>Some popular Belarusian names</dt>
-<dd></dd></dl>
+<h2><span class="mw-headline" id="List">List</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Somali_name&amp;action=edit&amp;section=2" title="Edit section: List">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Masculine">Masculine</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Somali_name&amp;action=edit&amp;section=3" title="Edit section: Masculine">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="div-col columns column-width" style="-moz-column-width: 20em; -webkit-column-width: 20em; column-width: 20em; -moz-column-gap: 3em; -webkit-column-gap: 3em; column-gap: 3em;">
+<ul><li>Aar</li>
+<li>Abroone</li>
+<li>Abtidoon</li>
+<li>Ayaanle</li>
+<li>Baashe</li>
+<li>Bahdoon</li>
+<li>Barre</li>
+<li>Beyle</li>
+<li>Biixi</li>
+<li>Bile</li>
+<li>Bisinle</li>
+<li>Bootaan</li>
+<li>Bullaale</li>
+<li>Bulxan</li>
+<li>Buraale</li>
+<li>Buux</li>
+<li>Cabsiiye</li>
+<li>Calas</li>
+<li>Calosoow</li>
+<li>Careys</li>
+<li>Carre</li>
+<li>Cartan</li>
+<li>Carraale</li>
+<li>Catoosh</li>
+<li>Cawaale</li>
+<li>Cawad</li>
+<li>Cawil</li>
+<li>Cawl</li>
+<li>Caydiid</li>
+<li>Caynaanshe</li>
+<li>Cige</li>
+<li>Cigaal</li>
+<li>Cigalle</li>
+<li>Ciiltire</li>
+<li>Coldiid</li>
+<li>Coldoon</li>
+<li>Colow</li>
+<li>Cosoble</li>
+<li>Damaal</li>
+<li>Deeq</li>
+<li>Dhiblaawe</li>
+<li>Dhuule</li>
+<li>Dhuux</li>
+<li>Digaale</li>
+<li>Diiriye</li>
+<li>Dirir</li>
+<li>Ducaale</li>
+<li>Erasto</li>
+<li>Faahiye</li>
+<li>Gabeyre</li>
+<li>Gaboose</li>
+<li>Gacayte</li>
+<li>Gadiid</li>
+<li>Gafle</li>
+<li>Galaal</li>
+<li>Galayax</li>
+<li>Galbeyte</li>
+<li>Gamadiid</li>
+<li>Geeddi</li>
+<li>Geele</li>
+<li>Geeljire</li>
+<li>Geesi</li>
+<li>Good</li>
+<li>Guhaad</li>
+<li>Gurey</li>
+<li>Guuleed</li>
+<li>Guutaale</li>
+<li>Guure</li>
+<li>Habbane</li>
+<li>Hanad</li>
+<li>Haybe</li>
+<li>Hiirane</li>
+<li>Hirad</li>
+<li>Hidan</li>
+<li>Hufane</li>
+<li>Hurre</li>
+<li>Huruuse</li>
+<li>Jaajuumow</li>
+<li>Jabane</li>
+<li>Kaahin</li>
+<li>Kaahiye</li>
+<li>Kaarshe</li>
+<li>Kadiye</li>
+<li>Karbaashe</li>
+<li>Kayd</li>
+<li>Keenadiid</li>
+<li>Keynaan</li>
+<li>Kooshin</li>
+<li>Koosafaare</li>
+<li>Kunciil</li>
+<li>Liban</li>
+<li>Liibaan</li>
+<li>Looyaan</li>
+<li>Maax</li>
+<li>Madoobe</li>
+<li>Magan</li>
+<li>Mahad</li>
+<li>Malow</li>
+<li>Mataan</li>
+<li>Maygaag</li>
+<li>Miigane</li>
+<li>Mire</li>
+<li>Mooge</li>
+<li>Naaleeye</li>
+<li>Nageeye</li>
+<li>Obsiiye</li>
+<li>Odawaa</li>
+<li>Olol</li>
+<li>Qamaan</li>
+<li>Qabille</li>
+<li>Qalinle</li>
+<li>Qarshe</li>
+<li>Qaybdiid</li>
+<li>Qorane</li>
+<li>Raage</li>
+<li>Rayaale</li>
+<li>Rooble</li>
+<li>Samaale</li>
+<li>Samakaab</li>
+<li>Samatar</li>
+<li>Saxardiid</li>
+<li>Sharmaarke</li>
+<li>Shidane</li>
+<li>Shirdoon</li>
+<li>Shire</li>
+<li>Shirwac</li>
+<li>Sooyaan</li>
+<li>Sugule</li>
+<li>Suudi</li>
+<li>Tubeec</li>
+<li>Waaheen</li>
+<li>Waasuge</li>
+<li>Wacays</li>
+<li>Waraabe</li>
+<li>Wardheere</li>
+<li>Warfaa</li>
+<li>Warsame</li>
+<li>Weheliye</li>
+<li>Xalane</li>
+<li>Xildiid</li>
+<li>Xirsi</li>
+<li>Xoosh</li>
+<li>Xandule</li>
+<li>Yalaxoow</li></ul>
 <p><br />
 </p>
-<ul><li><b>Арцём</b> (<a href="/wiki/Artyom_(name)" class="mw-redirect" title="Artyom (name)">Arciom</a>)</li>
-<li><b>Аксана</b> (Aksana; most common <a href="/wiki/Ukrainians" title="Ukrainians">Ukrainian</a> female name; of Greek origin from <i>Xenia</i>)</li>
-<li><b>Алена</b> (Aliena, equivalent to Helen, of Greek origin)</li>
-<li><b>Аляксей</b> (Aliaksiej, of Greek origin)</li>
-<li><b>Аляксандр</b> (Aliaksandr, equivalent to Alexander, of Greek origin)</li>
-<li><b>Аляксандра</b> (Aliaksandra, equivalent to Alexandra, of Greek origin)</li>
-<li><b>Андрэй</b> (Andrej, equivalent to Andrew, of Greek origin)</li>
-<li><b>Вадзім</b> (<a href="/wiki/Vadzim" title="Vadzim">Vadzim</a>, equivalent to persian <a href="/wiki/Bademus" title="Bademus">Bademus</a>)</li>
-<li><b>Васіль</b>, <b>Базыль</b> (Vasiĺ (orthodox) or Bazyĺ (catholic) of Greek origin)</li>
-<li><b>Вольга</b> (Voĺha, a pre-Christian name derived from <a href="/wiki/Varangian" class="mw-redirect" title="Varangian">Varangian</a> <i>Helga</i>)</li>
-<li><b>Ганна</b> (Hanna, equivalent to Ann, of Hebrew origin)</li>
-<li><b>Дар'я</b> (Darja)</li>
-<li><b>Дзмітры</b>, <b>Зміцер</b> (Dzmitry or Zmicier of Greek origin)</li>
-<li><b>Ігар</b> (Ihar, a pre-Christian name derived from <a href="/wiki/Varangian" class="mw-redirect" title="Varangian">Varangian</a> <i>Ingvarr or Inglar</i>)</li>
-<li><b>Сяргей</b> (<a href="/wiki/Serge_(first_name)" class="mw-redirect" title="Serge (first name)">Siarhiej</a>, of Latin origin)</li>
-<li><b>Станіслаў</b> (<a href="/wiki/Stanislav_(given_name)" title="Stanislav (given name)">Stanislaŭ</a>, of <a href="/wiki/Slavic_names" title="Slavic names">Slavic origin</a>)</li></ul>
-<p>&#32;
-</p>
-</td>
-<td style="width: 50%;text-align: left; vertical-align: top;">
-<ul><li><b>Тацяна</b> (Taciana, Tatius of Latin origin)</li>
-<li><b>Кацярына</b> (Kaciaryna, equivalent to Catherine, of Greek origin)</li>
-<li><b>Кірыла</b> (Kiryla, of Greek origin)</li>
-<li><b>Леанід</b>, <b>Лявон</b> (Lieanid or Liavon from Leonidas, of Greek origin)</li>
-<li><b>Марыя</b> (Maryja, equivalent to Mary, of Hebrew origin)</li>
-<li><b>Міхал</b>, <b>Міхась</b> (Michal or Michaś, equivalent to Michael, of Hebrew origin)</li>
-<li><b>Мікалай</b> (Mikalaj, equivalent to Nicholas, of Greek origin)</li>
-<li><b>Наталля</b> (Natallia, equivalent to Natalie, of Latin origin)</li>
-<li><b>Настасся</b> (Nastassia, equivalent to Anastasia, of Greek origin)</li>
-<li><b>Паўло</b>, <b>Павел</b> (Paŭlo or Paviel, equivalent to Paul, of Latin origin)</li>
-<li><b>Пятро</b>, <b>Пятрусь</b> (Piatro or Piatruś, equivalent to Peter, of Greek origin)</li>
-<li><b>Уладзіслаў</b> (<a href="/wiki/Vladislav" title="Vladislav">Uladzislaŭ</a>, equivalent to Vladislav)</li>
-<li><b>Уладзімір</b> (<a href="/wiki/Vladimir,_Russia" title="Vladimir, Russia">Uladzimir</a>, a <a href="/wiki/Slavic_names" title="Slavic names">pre-Christian name of Slavic origin</a>)</li>
-<li><b>Францішак</b> (Francišak, of Latin origins)</li>
-<li><b>Юры</b> (Jury, equivalent to George, of Greek origin)</li>
-<li><b>Юлія</b> (<a href="/wiki/Yulia" title="Yulia">Julija</a>, equivalent to Julia or Julie, of Latin origin)</li>
-<li><b>Яраслаў</b> (<a href="/wiki/Jaroslav_(disambiguation)" class="mw-redirect" title="Jaroslav (disambiguation)">Jaraslaŭ</a>, a pre-Christian name of <a href="/wiki/Slavic_names" title="Slavic names">Slavic origin</a>)</li>
-<li><b>Ян</b>, <b>Іван</b> (<a href="/wiki/Jan_(disambiguation)" class="mw-redirect mw-disambig" title="Jan (disambiguation)">Jan</a> or <a href="/wiki/Ivan_(name)" title="Ivan (name)">Ivan</a>, equivalent to John, of Hebrew origin)</li></ul>
-<p>&#32;
-</p>
-</td></tr></tbody></table></div>
-<h2><span id="Belarusian_family_names_.28surnames.29"></span><span class="mw-headline" id="Belarusian_family_names_(surnames)">Belarusian family names (surnames)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Belarusian_name&amp;action=edit&amp;section=2" title="Edit section: Belarusian family names (surnames)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>In <a href="/wiki/Belarus" title="Belarus">Belarus</a> and most of the former <a href="/wiki/Polish%E2%80%93Lithuanian_Commonwealth" title="Polish–Lithuanian Commonwealth">Polish–Lithuanian Commonwealth</a>, surnames first appeared during the late Middle Ages. They initially denoted the differences between various people living in the same town or village and bearing the same name. The conventions were similar to those of <a href="/wiki/English_surnames" class="mw-redirect" title="English surnames">English surnames</a>, using occupations, patronymic descent, geographic origins, or personal characteristics.
-</p><p>Belarusian surnames, like those in most of Europe, are hereditary and generally patrilineal, i.e., passed from the father on to his children.
-</p><p>Depending on the region, Belarusian surnames could have a different form and different ending.
-</p><p>One very large group of surnames end with the common Slavonic suffixes -vič (wicz) and -ič (icz) (Daškievič, Šuškievič, Vajciuškievič, Mackievič, Mickievič, Misilievič) or -cki and -ski (feminine form -ckaja and -skaja: Navicki, Kalinoŭski, Piliecki, Rusiecki, Sadoŭski, Caŭloŭski, Bialiaŭski).
-</p><p>One common suffix in surnames is <i>-čuk</i> (Ramančuk, Kačuk, Kavaĺčuk) or its simplified versions <i>-iuk</i> and <i>-juk</i> (Maliuk, Masiuk).
-</p><p>Other group includes surnames with the suffix <i>-ka</i>, corresponding to the suffix <i>-ko</i> <a href="/wiki/Ukrainian_names" class="mw-redirect" title="Ukrainian names">Ukrainian names</a> (Lukašenka, Jakavienka, Haponienka), <i>-onak, -jonak (-ionak)</i> (Malašonak, Manionak).
-</p><p>Another suffix is <i>-jenia (-ienia)</i> (Majsienia, Astapienia, Jurčenia, Hierasimienia).
-</p>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Belarusian_name&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Slavic_names" title="Slavic names">Slavic names</a></li>
-<li><a href="/wiki/Slavic_surnames" class="mw-redirect" title="Slavic surnames">Slavic surnames</a></li></ul>
-<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Belarusian_name&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a rel="nofollow" class="external free" href="https://web.archive.org/web/20110721203006/http://old.knihi.com/jurevic_u/prozviscy.html">https://web.archive.org/web/20110721203006/http://old.knihi.com/jurevic_u/prozviscy.html</a></li>
-<li><a rel="nofollow" class="external free" href="http://dzietki.org/article/cms_view_article.php?aid=4">http://dzietki.org/article/cms_view_article.php?aid=4</a></li>
-<li><a rel="nofollow" class="external free" href="https://web.archive.org/web/20110411132101/http://kryuja.org/artykuly/bielaruskaja_atliantyda/jak_i_czamu_bielarusy_vybirali_imjony.html">https://web.archive.org/web/20110411132101/http://kryuja.org/artykuly/bielaruskaja_atliantyda/jak_i_czamu_bielarusy_vybirali_imjony.html</a></li>
-<li><a rel="nofollow" class="external free" href="http://knihi.com/Symon_Barys/Bielaruskija_imiony.html">http://knihi.com/Symon_Barys/Bielaruskija_imiony.html</a></li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Belarusian_name&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="reflist" style="list-style-type: decimal;">
 </div>
-<div role="navigation" class="navbox" aria-labelledby="Belarus_articles" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Belarus_topics" title="Template:Belarus topics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Belarus_topics" title="Template talk:Belarus topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Belarus_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Belarus_articles" style="font-size:114%;margin:0 4em"><a href="/wiki/Belarus" title="Belarus">Belarus</a>&#160;<a href="/wiki/Index_of_Belarus-related_articles" class="mw-redirect" title="Index of Belarus-related articles">articles</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_Belarus" title="History of Belarus">History</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Kievan_Rus%27" title="Kievan Rus&#39;">Kievan Rus'</a></li>
-<li><a href="/wiki/Principality_of_Polotsk" title="Principality of Polotsk">Principality of Polotsk</a></li>
-<li><a href="/wiki/Principality_of_Turov" title="Principality of Turov">Principality of Turov</a></li>
-<li><a href="/wiki/Grand_Duchy_of_Lithuania" title="Grand Duchy of Lithuania">Grand Duchy of Lithuania</a></li>
-<li><a href="/wiki/Polish%E2%80%93Lithuanian_Commonwealth" title="Polish–Lithuanian Commonwealth">Polish–Lithuanian Commonwealth</a></li>
-<li><a href="/wiki/Russian_Empire" title="Russian Empire">Russian Empire</a></li>
-<li><a href="/wiki/Belarusian_People%27s_Republic" title="Belarusian People&#39;s Republic">Belarus National Republic</a></li>
-<li><a href="/wiki/Byelorussian_Soviet_Socialist_Republic" title="Byelorussian Soviet Socialist Republic">Byelorussian Soviet Socialist Republic</a></li>
-<li><a href="/wiki/West_Belarus" class="mw-redirect" title="West Belarus">West Belarus</a></li>
-<li><a href="/wiki/History_of_Belarus#Republic_of_Belarus" title="History of Belarus">Republic of Belarus</a></li></ul>
-</div></td><td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/Belarus" title="Belarus"><img alt="Coat of arms of Belarus (official).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Coat_of_arms_of_Belarus_%28official%29.svg/120px-Coat_of_arms_of_Belarus_%28official%29.svg.png" decoding="async" width="120" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Coat_of_arms_of_Belarus_%28official%29.svg/180px-Coat_of_arms_of_Belarus_%28official%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Coat_of_arms_of_Belarus_%28official%29.svg/240px-Coat_of_arms_of_Belarus_%28official%29.svg.png 2x" data-file-width="756" data-file-height="756" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_Belarus" title="Geography of Belarus">Geography</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/List_of_cities_and_towns_in_Belarus" class="mw-redirect" title="List of cities and towns in Belarus">Cities</a></li>
-<li><a href="/wiki/Protected_areas_of_Belarus" title="Protected areas of Belarus">Protected areas</a>
-<ul><li><a href="/wiki/World_Network_of_Biosphere_Reserves_in_Europe_and_North_America#Belarus" title="World Network of Biosphere Reserves in Europe and North America">Biosphere Reserves</a></li>
-<li><a href="/wiki/List_of_national_parks_of_Belarus" title="List of national parks of Belarus">National parks</a></li></ul></li>
-<li><a href="/wiki/List_of_rivers_of_Belarus" title="List of rivers of Belarus">Rivers</a></li>
-<li><a href="/wiki/List_of_extreme_points_of_Belarus" title="List of extreme points of Belarus">Extreme points</a></li></ul>
-</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_Belarus" title="Politics of Belarus">Politics</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Administrative_divisions_of_Belarus" class="mw-redirect" title="Administrative divisions of Belarus">Administrative divisions</a></li>
-<li><a href="/wiki/Constitution_of_Belarus" title="Constitution of Belarus">Constitution</a></li>
-<li><a href="/wiki/Elections_in_Belarus" title="Elections in Belarus">Elections</a></li>
-<li><a href="/wiki/Foreign_relations_of_Belarus" title="Foreign relations of Belarus">Foreign relations</a></li>
-<li><a href="/wiki/Government_of_Belarus" title="Government of Belarus">Government</a></li>
-<li><a href="/wiki/Human_rights_in_Belarus" title="Human rights in Belarus">Human rights</a></li>
-<li><a href="/wiki/Law_enforcement_in_Belarus" title="Law enforcement in Belarus">Law enforcement</a></li>
-<li><a href="/wiki/Armed_Forces_of_Belarus" title="Armed Forces of Belarus">Military</a></li>
-<li><a href="/wiki/National_Assembly_of_Belarus" title="National Assembly of Belarus">Parliament</a></li>
-<li><a href="/wiki/List_of_political_parties_in_Belarus" title="List of political parties in Belarus">Political parties</a></li>
-<li><a href="/wiki/President_of_Belarus" title="President of Belarus">President</a></li>
-<li><a href="/wiki/List_of_Prime_Ministers_of_Belarus" class="mw-redirect" title="List of Prime Ministers of Belarus">Prime Minister</a></li>
-<li><a href="/wiki/Union_State" title="Union State">Union of Russia and Belarus</a></li></ul>
-</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_Belarus" title="Economy of Belarus">Economy</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Agriculture_in_Belarus" title="Agriculture in Belarus">Agriculture</a></li>
-<li><a href="/wiki/Banking_in_Belarus" class="mw-redirect" title="Banking in Belarus">Banking</a>
-<ul><li><a href="/wiki/National_Bank_of_the_Republic_of_Belarus" title="National Bank of the Republic of Belarus">Central bank</a></li></ul></li>
-<li><a href="/wiki/Belarusian_ruble" title="Belarusian ruble">Currency</a></li>
-<li><a href="/wiki/Telecommunications_in_Belarus" title="Telecommunications in Belarus">Telecommunications</a></li>
-<li><a href="/wiki/Energy_in_Belarus" title="Energy in Belarus">Energy</a></li>
-<li><a href="/wiki/Belarusian_Currency_and_Stock_Exchange" title="Belarusian Currency and Stock Exchange">Stock exchange</a></li>
-<li><a href="/wiki/Transport_in_Belarus" title="Transport in Belarus">Transport</a></li></ul>
-</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Belarusian_society" title="Category:Belarusian society">Society</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Demographics_of_Belarus" title="Demographics of Belarus">Demographics</a></li>
-<li><a href="/wiki/Belarusians" title="Belarusians">Belarusians</a></li>
-<li><a href="/wiki/Education_in_Belarus" title="Education in Belarus">Education</a></li>
-<li><a href="/wiki/Healthcare_in_Belarus" title="Healthcare in Belarus">Healthcare</a></li>
-<li><a href="/wiki/Belarusian_language" title="Belarusian language">Language</a></li>
-<li><a href="/wiki/Religion_in_Belarus" title="Religion in Belarus">Religion</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Culture_of_Belarus" title="Culture of Belarus">Culture</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Orders,_decorations,_and_medals_of_Belarus" title="Orders, decorations, and medals of Belarus">Awards and decorations</a></li>
-<li><a class="mw-selflink selflink">Belarusian names</a></li>
-<li><a href="/wiki/Belarusian_cuisine" title="Belarusian cuisine">Cuisine</a></li>
-<li><a href="/wiki/Languages_of_Belarus" title="Languages of Belarus">Languages</a></li>
-<li><a href="/wiki/Belarusian_literature" title="Belarusian literature">Literature</a></li>
-<li><a href="/wiki/Music_of_Belarus" title="Music of Belarus">Music</a></li>
-<li><a href="/wiki/Cinema_of_Belarus" title="Cinema of Belarus">Cinema</a></li>
-<li><a href="/wiki/Media_of_Belarus" title="Media of Belarus">Media</a></li>
-<li><a href="/wiki/National_symbols_of_Belarus" title="National symbols of Belarus">National symbols</a></li>
-<li><a href="/wiki/Public_holidays_in_Belarus" title="Public holidays in Belarus">Public holidays</a></li>
-<li><a href="/wiki/List_of_World_Heritage_Sites_in_Belarus" title="List of World Heritage Sites in Belarus">World Heritage Sites</a></li></ul>
-</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="3" style="font-weight:bold;"><div><div style="margin-bottom:-0.4em;"><ul><li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_Belarus" title="Outline of Belarus">Outline</a></span></li><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"/><span class="nobold"><a href="/wiki/Index_of_Belarus-related_articles" class="mw-redirect" title="Index of Belarus-related articles">Index</a></span></li></ul></div>
-<ul><li><a href="/wiki/Book:Belarus" title="Book:Belarus">Book</a></li>
-<li><a href="/wiki/Category:Belarus" title="Category:Belarus">Category</a></li>
-<li><a href="/wiki/Portal:Belarus" title="Portal:Belarus">Portal</a></li></ul></div></td></tr></tbody></table></div>
+<h3><span class="mw-headline" id="Feminine">Feminine</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Somali_name&amp;action=edit&amp;section=4" title="Edit section: Feminine">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="div-col columns column-width" style="-moz-column-width: 20em; -webkit-column-width: 20em; column-width: 20em; -moz-column-gap: 3em; -webkit-column-gap: 3em; column-gap: 3em;">
+<ul><li>Aragsan</li>
+<li>Ayaan</li>
+<li>Astur</li>
+<li>Amburo</li>
+<li>Barni</li>
+<li>Batuulo</li>
+<li>Baxsan</li>
+<li>Beydan</li>
+<li>Bilan</li>
+<li>Bishaaro</li>
+<li>Calaso</li>
+<li>Canbaro</li>
+<li>Cawrala</li>
+<li>Cawo</li>
+<li>Ceebla</li>
+<li>Cudbi</li>
+<li>Cutiya</li>
+<li>Dahaabo</li>
+<li>Dalays</li>
+<li>Deeqa</li>
+<li>Degmo</li>
+<li>Dhudhi</li>
+<li>Falis</li>
+<li>Filsan</li>
+<li>Gargaaro</li>
+<li>Habboon</li>
+<li>Halgan</li>
+<li>Haweya</li>
+<li>Hibaaq</li>
+<li>Hodan</li>
+<li>Hodman</li>
+<li>Hoodo</li>
+<li>Idil</li>
+<li>Idman</li>
+<li>Iftin</li>
+<li>Ilwaad</li>
+<li>Jamaad</li>
+<li>Kaaha</li>
+<li>Kiin</li>
+<li>Koos</li>
+<li>Ladan</li>
+<li>Maandeeq</li>
+<li>Magool</li>
+<li>Melaaneey</li>
+<li>Milgo</li>
+<li>Mulaaxo</li>
+<li>Quman</li>
+<li>Ruun</li>
+<li>Sada</li>
+<li>Saado</li>
+<li>Sabaad</li>
+<li>Sagal</li>
+<li>Saluugla</li>
+<li>Shuun</li>
+<li>Shankaroon</li>
+<li>Siman</li>
+<li>Suubban</li>
+<li>Tusmo</li>
+<li>Ubax</li>
+<li>Ugaaso</li>
+<li>Ugbaad</li>
+<li>Waris</li>
+<li>Warsan</li>
+<li>Wiilo</li>
+<li>Xaadsan</li>
+<li>Xaali</li>
+<li>Xidig</li></ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Somali_name&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-9780873386586-pp79-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-9780873386586-pp79_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-9780873386586-pp79_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"> <cite class="citation book">Bridges, Peter (2000). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=vaDkDZmrZmYC&amp;pg=PA79"><i>Safirka: An American Envoy</i></a>. Kent, Ohio, USA: Kent State Univ. Press. p.&#160;79. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780873386586" title="Special:BookSources/9780873386586"><bdi>9780873386586</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Safirka%3A+An+American+Envoy&amp;rft.place=Kent%2C+Ohio%2C+USA&amp;rft.pages=79&amp;rft.pub=Kent+State+Univ.+Press&amp;rft.date=2000&amp;rft.isbn=9780873386586&amp;rft.aulast=Bridges&amp;rft.aufirst=Peter&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DvaDkDZmrZmYC%26pg%3DPA79&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASomali+name" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style> </span>
+</li>
+<li id="cite_note-9783447036115-pp282-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-9783447036115-pp282_2-0">^</a></b></span> <span class="reference-text"> <cite class="citation book">Lockot, Hans (1998). <a rel="nofollow" class="external text" href="https://books.google.com.et/books?id=0JQ01YegIqkC&amp;pg=PA282&amp;focus=viewport"><i>Bibliographia Aethiopica 2</i></a>. <i>Volume 41 of Äthiopistische Forschungen</i>. Otto Harrassowitz Verlag. p.&#160;282. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1017%2FS1356186300013043">10.1017/S1356186300013043</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9783447036115" title="Special:BookSources/9783447036115"><bdi>9783447036115</bdi></a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0170-3196">0170-3196</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Bibliographia+Aethiopica+2&amp;rft.pages=282&amp;rft.pub=Otto+Harrassowitz+Verlag&amp;rft.date=1998&amp;rft.issn=0170-3196&amp;rft_id=info%3Adoi%2F10.1017%2FS1356186300013043&amp;rft.isbn=9783447036115&amp;rft.aulast=Lockot&amp;rft.aufirst=Hans&amp;rft_id=https%3A%2F%2Fbooks.google.com.et%2Fbooks%3Fid%3D0JQ01YegIqkC%26pg%3DPA282%26focus%3Dviewport&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASomali+name" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The material near this tag failed verification of its source citation(s). (December 2018)">failed verification</span></a></i>&#93;</sup></span>
+</li>
+</ol></div></div>
 <div role="navigation" class="navbox" aria-labelledby="Personal_names_and_anthroponymy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Personal_names" title="Template:Personal names"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Personal_names" title="Template talk:Personal names"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Personal_names&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Personal_names_and_anthroponymy" style="font-size:114%;margin:0 4em"><a href="/wiki/Personal_name" title="Personal name">Personal names</a> and <a href="/wiki/Anthroponymy" title="Anthroponymy">anthroponymy</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*Personal_identity">
 <ul><li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a></li></ul>
 </div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Personal_name" title="Personal name">Personal name</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
@@ -262,7 +362,7 @@
 <li><a href="/wiki/Azerbaijani_name" title="Azerbaijani name">Azerbaijani</a></li>
 <li><a href="/wiki/Bangladeshi_name" class="mw-redirect" title="Bangladeshi name">Bangladeshi</a></li>
 <li><a href="/wiki/Spanish_naming_customs#Basque_names" title="Spanish naming customs">Basque</a></li>
-<li><a class="mw-selflink selflink">Belarusian</a></li>
+<li><a href="/wiki/Belarusian_name" title="Belarusian name">Belarusian</a></li>
 <li><a href="/wiki/Bulgarian_name" title="Bulgarian name">Bulgarian</a></li>
 <li><a href="/wiki/Burmese_names" title="Burmese names">Burmese</a></li>
 <li><a href="/wiki/Cambodian_name" title="Cambodian name">Cambodian</a></li>
@@ -334,7 +434,7 @@
 <li><a href="/wiki/Serbian_names" title="Serbian names">Serbian</a></li>
 <li><a href="/wiki/Slavic_names" title="Slavic names">Slavic</a></li>
 <li><a href="/wiki/Slovak_name" title="Slovak name">Slovak</a></li>
-<li><a href="/wiki/Somali_name" title="Somali name">Somali</a></li>
+<li><a class="mw-selflink selflink">Somali</a></li>
 <li><a href="/wiki/Spanish_naming_customs" title="Spanish naming customs">Spanish</a>
 <ul><li><small><a href="/wiki/Naming_customs_of_Hispanic_America" title="Naming customs of Hispanic America">Hispanic America</a></small></li>
 <li><small><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></small></li></ul></li>
@@ -414,48 +514,52 @@
 </div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
 <ul><li><a href="/wiki/Category:Lists_of_names" title="Category:Lists of names">Category:Lists of names</a></li></ul>
 </div></td></tr></tbody></table></div>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:2.1_name_icon.png" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2.1_name_icon.png/55px-2.1_name_icon.png" decoding="async" width="55" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2.1_name_icon.png/83px-2.1_name_icon.png 1.5x, //upload.wikimedia.org/wikipedia/commons/c/c6/2.1_name_icon.png 2x" data-file-width="104" data-file-height="18" /></a></td><td><i>This name-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Somali_name&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Name-stub" title="Template:Name-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Name-stub" title="Template talk:Name-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Name-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Flag-map_of_Somalia.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag-map_of_Somalia.svg/30px-Flag-map_of_Somalia.svg.png" decoding="async" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag-map_of_Somalia.svg/45px-Flag-map_of_Somalia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag-map_of_Somalia.svg/60px-Flag-map_of_Somalia.svg.png 2x" data-file-width="761" data-file-height="1002" /></a></td><td><i>This <a href="/wiki/Somalia" title="Somalia">Somalia</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Somali_name&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Somalia-stub" title="Template:Somalia-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Somalia-stub" title="Template talk:Somalia-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Somalia-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p>Degan
+</p>
 <!-- 
 NewPP limit report
-Parsed by mw1320
-Cached time: 20191008102702
+Parsed by mw1295
+Cached time: 20191025223547
 Cache expiry: 2592000
 Dynamic content: false
-Complications: []
-CPU time usage: 0.196 seconds
-Real time usage: 0.306 seconds
-Preprocessor visited node count: 1044/1000000
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.296 seconds
+Real time usage: 0.430 seconds
+Preprocessor visited node count: 822/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 81201/2097152 bytes
-Template argument size: 5837/2097152 bytes
-Highest expansion depth: 15/40
-Expensive parser function count: 22/500
-Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 300/5000000 bytes
-Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.050/10.000 seconds
-Lua memory usage: 1.75 MB/50 MB
+Post‐expand include size: 58009/2097152 bytes
+Template argument size: 1352/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 6962/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.138/10.000 seconds
+Lua memory usage: 3.57 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  221.297      1 -total
- 55.28%  122.323      7 Template:Navbox
- 46.85%  103.676      1 Template:Belarus_topics
- 44.83%   99.217      1 Template:Country_topics
- 37.96%   84.007      1 Template:Nofootnotes
- 23.78%   52.621      1 Template:Ambox
- 11.39%   25.210      1 Template:Bulleted_list
-  7.36%   16.277      1 Template:Names_in_world_cultures
-  4.60%   10.190      2 Template:Nobold
-  4.01%    8.873      1 Template:If_empty
+100.00%  354.350      1 -total
+ 40.85%  144.750      1 Template:Reflist
+ 33.39%  118.331      2 Template:Cite_book
+ 29.42%  104.247      1 Template:Refimprove
+ 20.40%   72.270      1 Template:Ambox
+ 13.15%   46.588      2 Template:Not_in_source
+ 10.77%   38.173      2 Template:Fix
+  9.08%   32.168      1 Template:Find_sources_mainspace
+  5.95%   21.081      1 Template:Names_in_world_cultures
+  5.85%   20.731      2 Template:Div_col
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:7761281-0!canonical and timestamp 20191008102702 and revision id 907587778
+<!-- Saved in parser cache with key enwiki:pcache:idhash:40838113-0!canonical and timestamp 20191025223547 and revision id 923035996
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Belarusian_name&amp;oldid=907587778">https://en.wikipedia.org/w/index.php?title=Belarusian_name&amp;oldid=907587778</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Somali_name&amp;oldid=923035996">https://en.wikipedia.org/w/index.php?title=Somali_name&amp;oldid=923035996</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Names_by_culture" title="Category:Names by culture">Names by culture</a></li><li><a href="/wiki/Category:Belarusian-language_surnames" title="Category:Belarusian-language surnames">Belarusian-language surnames</a></li><li><a href="/wiki/Category:Belarusian_names" title="Category:Belarusian names">Belarusian names</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_February_2018" title="Category:Articles lacking in-text citations from February 2018">Articles lacking in-text citations from February 2018</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Somali_culture" title="Category:Somali culture">Somali culture</a></li><li><a href="/wiki/Category:Names_by_culture" title="Category:Names by culture">Names by culture</a></li><li><a href="/wiki/Category:Name_stubs" title="Category:Name stubs">Name stubs</a></li><li><a href="/wiki/Category:Somalia_stubs" title="Category:Somalia stubs">Somalia stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_failed_verification" title="Category:All articles with failed verification">All articles with failed verification</a></li><li><a href="/wiki/Category:Articles_with_failed_verification_from_December_2018" title="Category:Articles with failed verification from December 2018">Articles with failed verification from December 2018</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_December_2018" title="Category:Articles needing additional references from December 2018">Articles needing additional references from December 2018</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -471,13 +575,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Belarusian+name" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Belarusian+name" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Somali+name" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Somali+name" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Belarusian_name" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Belarusian_name" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Somali_name" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Somali_name" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -492,7 +596,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Belarusian_name">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Belarusian_name&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Belarusian_name&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Somali_name">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Somali_name&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Somali_name&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -531,28 +635,28 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Belarusian_name" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Belarusian_name" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Belarusian_name&amp;oldid=907587778" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Belarusian_name&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q35002801" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Belarusian_name&amp;id=907587778" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Somali_name" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Somali_name" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Somali_name&amp;oldid=923035996" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Somali_name&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q16917860" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Somali_name&amp;id=923035996" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Belarusian+name">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Belarusian+name&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Belarusian_name&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Somali+name">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Somali+name&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Somali_name&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%BA%D1%96%D1%8F_%D1%96%D0%BC%D1%91%D0%BD%D1%8B" title="Беларускія імёны – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q35002801#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q16917860#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 23 July 2019, at 22:29<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 25 October 2019, at 22:35<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -563,7 +667,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Belarusian_name&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Somali_name&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -575,8 +679,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.196","walltime":"0.306","ppvisitednodes":{"value":1044,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":81201,"limit":2097152},"templateargumentsize":{"value":5837,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":22,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":300,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  221.297      1 -total"," 55.28%  122.323      7 Template:Navbox"," 46.85%  103.676      1 Template:Belarus_topics"," 44.83%   99.217      1 Template:Country_topics"," 37.96%   84.007      1 Template:Nofootnotes"," 23.78%   52.621      1 Template:Ambox"," 11.39%   25.210      1 Template:Bulleted_list","  7.36%   16.277      1 Template:Names_in_world_cultures","  4.60%   10.190      2 Template:Nobold","  4.01%    8.873      1 Template:If_empty"]},"scribunto":{"limitreport-timeusage":{"value":"0.050","limit":"10.000"},"limitreport-memusage":{"value":1834008,"limit":52428800}},"cachereport":{"origin":"mw1320","timestamp":"20191008102702","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Belarusian name","url":"https:\/\/en.wikipedia.org\/wiki\/Belarusian_name","sameAs":"http:\/\/www.wikidata.org\/entity\/Q35002801","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q35002801","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-11-03T18:54:32Z","dateModified":"2019-07-23T22:29:51Z"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":117,"wgHostname":"mw1268"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.296","walltime":"0.430","ppvisitednodes":{"value":822,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":58009,"limit":2097152},"templateargumentsize":{"value":1352,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":6962,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  354.350      1 -total"," 40.85%  144.750      1 Template:Reflist"," 33.39%  118.331      2 Template:Cite_book"," 29.42%  104.247      1 Template:Refimprove"," 20.40%   72.270      1 Template:Ambox"," 13.15%   46.588      2 Template:Not_in_source"," 10.77%   38.173      2 Template:Fix","  9.08%   32.168      1 Template:Find_sources_mainspace","  5.95%   21.081      1 Template:Names_in_world_cultures","  5.85%   20.731      2 Template:Div_col"]},"scribunto":{"limitreport-timeusage":{"value":"0.138","limit":"10.000"},"limitreport-memusage":{"value":3745275,"limit":52428800}},"cachereport":{"origin":"mw1295","timestamp":"20191025223547","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Somali name","url":"https:\/\/en.wikipedia.org\/wiki\/Somali_name","sameAs":"http:\/\/www.wikidata.org\/entity\/Q16917860","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q16917860","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2013-10-19T18:28:59Z","dateModified":"2019-10-25T22:35:45Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":99,"wgHostname":"mw1240"});});</script>
 </body>
 </html>

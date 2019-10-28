@@ -2,35 +2,34 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Cooper (surname) - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Cooper_(surname)","wgTitle":"Cooper (surname)","wgCurRevisionId":922236145,"wgRevisionId":922236145,"wgArticleId":4400883,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","All set index articles","Surnames","English-language surnames","Occupational surnames","Surnames of English origin"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Cooper_(surname)",
-"wgRelevantArticleId":4400883,"wgRequestId":"Xa3hAApAMFYAAGRvTWQAAAAL","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1794217","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready",
-"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.cite.tracking","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents",
-"ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Hayward (profession) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Hayward_(profession)","wgTitle":"Hayward (profession)","wgCurRevisionId":906518707,"wgRevisionId":906518707,"wgArticleId":858196,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Animal husbandry occupations","Agricultural occupations (plant)","Historical management occupations","Medieval occupations"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hayward_(profession)","wgRelevantArticleId":858196,
+"wgRequestId":"XbYmggpAICAAAA9fDSoAAABU","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q876571","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready",
+"mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.2"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Cooper_(surname)"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Cooper_(surname)&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Cooper_(surname)&amp;action=edit"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Hayward_(profession)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Hayward_(profession)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Hayward_(profession)&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Cooper_(surname)"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Hayward_(profession)"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Cooper_surname rootpage-Cooper_surname skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Hayward_profession rootpage-Hayward_profession skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -39,7 +38,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Cooper (surname)</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Hayward (profession)</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -50,483 +49,55 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
-<tbody><tr>
-<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" decoding="async" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512" /></td>
-<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/Cooper" class="extiw" title="wiktionary:Cooper">Cooper</a></b></i>&#160;or <i><b><a href="https://en.wiktionary.org/wiki/cooper" class="extiw" title="wiktionary:cooper">cooper</a></b></i> in Wiktionary, the free dictionary.</td></tr>
-</tbody></table>
-<p><b>Cooper</b> is an English <a href="/wiki/Surname" title="Surname">surname</a> originating in <a href="/wiki/England" title="England">England</a>;<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>  see <a href="/wiki/Cooper_(profession)" title="Cooper (profession)">Cooper (profession)</a>. Cooper is the 4th most common surname in <a href="/wiki/Liberia" title="Liberia">Liberia</a> and 35th most common in <a href="/wiki/England" title="England">England</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses of "Hayward", see <a href="/wiki/Hayward_(disambiguation)" class="mw-redirect mw-disambig" title="Hayward (disambiguation)">Hayward</a>.</div>
+<p><b>Hayward</b>, or "<a href="/wiki/Hedge_(gardening)" class="mw-redirect" title="Hedge (gardening)">hedge</a> warden", was an officer of an English parish dating from the <a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a> in charge of <a href="/wiki/Fence" title="Fence">fences</a> and enclosures; also, a herdsman in charge of cattle and other animals grazing on common land. Their main job was to protect the crops of the village from livestock.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>In <a href="/wiki/Sussex" title="Sussex">Sussex</a> and <a href="/wiki/Surrey" title="Surrey">Surrey</a> the form <b>Haybittle</b> occurs (from <a href="/wiki/Old_French" title="Old French">Old French</a>, <i>haia</i>, enclosure and <a href="/wiki/Old_English" title="Old English">Anglo-Saxon</a> <i>bydel</i>, <a href="/wiki/Bailiff" title="Bailiff">bailiff</a>). This has survived as a locally common surname, especially in and around <a href="/wiki/Reigate" title="Reigate">Reigate</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
 </p>
-<div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a> </li></ul>
-<p class="mw-empty-elt">       
-</p>
-</div></div>
-<style data-mw-deduplicate="TemplateStyles:r886049878">.mw-parser-output .tocright{float:right;clear:right;width:auto;background:none;padding:.5em 0 .8em 1.4em;margin-bottom:.5em}.mw-parser-output .tocright-clear-left{clear:left}.mw-parser-output .tocright-clear-both{clear:both}.mw-parser-output .tocright-clear-none{clear:none}</style><div class="tocright" style=""><div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
-<ul>
-<li class="toclevel-1 tocsection-1"><a href="#A"><span class="tocnumber">1</span> <span class="toctext">A</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#B"><span class="tocnumber">2</span> <span class="toctext">B</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#C"><span class="tocnumber">3</span> <span class="toctext">C</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#D"><span class="tocnumber">4</span> <span class="toctext">D</span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="#E"><span class="tocnumber">5</span> <span class="toctext">E</span></a></li>
-<li class="toclevel-1 tocsection-6"><a href="#F"><span class="tocnumber">6</span> <span class="toctext">F</span></a></li>
-<li class="toclevel-1 tocsection-7"><a href="#G"><span class="tocnumber">7</span> <span class="toctext">G</span></a></li>
-<li class="toclevel-1 tocsection-8"><a href="#H"><span class="tocnumber">8</span> <span class="toctext">H</span></a></li>
-<li class="toclevel-1 tocsection-9"><a href="#I"><span class="tocnumber">9</span> <span class="toctext">I</span></a></li>
-<li class="toclevel-1 tocsection-10"><a href="#J"><span class="tocnumber">10</span> <span class="toctext">J</span></a></li>
-<li class="toclevel-1 tocsection-11"><a href="#K"><span class="tocnumber">11</span> <span class="toctext">K</span></a></li>
-<li class="toclevel-1 tocsection-12"><a href="#L"><span class="tocnumber">12</span> <span class="toctext">L</span></a></li>
-<li class="toclevel-1 tocsection-13"><a href="#M"><span class="tocnumber">13</span> <span class="toctext">M</span></a></li>
-<li class="toclevel-1 tocsection-14"><a href="#N"><span class="tocnumber">14</span> <span class="toctext">N</span></a></li>
-<li class="toclevel-1 tocsection-15"><a href="#P"><span class="tocnumber">15</span> <span class="toctext">P</span></a></li>
-<li class="toclevel-1 tocsection-16"><a href="#Q"><span class="tocnumber">16</span> <span class="toctext">Q</span></a></li>
-<li class="toclevel-1 tocsection-17"><a href="#R"><span class="tocnumber">17</span> <span class="toctext">R</span></a></li>
-<li class="toclevel-1 tocsection-18"><a href="#S"><span class="tocnumber">18</span> <span class="toctext">S</span></a></li>
-<li class="toclevel-1 tocsection-19"><a href="#T"><span class="tocnumber">19</span> <span class="toctext">T</span></a></li>
-<li class="toclevel-1 tocsection-20"><a href="#W"><span class="tocnumber">20</span> <span class="toctext">W</span></a></li>
-<li class="toclevel-1 tocsection-21"><a href="#Y"><span class="tocnumber">21</span> <span class="toctext">Y</span></a></li>
-<li class="toclevel-1 tocsection-22"><a href="#Fictional_characters"><span class="tocnumber">22</span> <span class="toctext">Fictional characters</span></a></li>
-<li class="toclevel-1 tocsection-23"><a href="#See_also"><span class="tocnumber">23</span> <span class="toctext">See also</span></a></li>
-<li class="toclevel-1 tocsection-24"><a href="#Notes"><span class="tocnumber">24</span> <span class="toctext">Notes</span></a></li>
-</ul>
-</div>
-</div>
-<h2><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cooper_(surname)&amp;action=edit&amp;section=1" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Adam_Cooper_(dancer)" title="Adam Cooper (dancer)">Adam Cooper (dancer)</a> (born 1971), actor, choreographer, dancer and theater director</li>
-<li><a href="/wiki/Adrian_Cooper" title="Adrian Cooper">Adrian Cooper</a> (born 1968), American football tight end</li>
-<li><a href="/wiki/Adrienne_Cooper" title="Adrienne Cooper">Adrienne Cooper</a> (1946–2011), American Yiddish singer, musician and activist</li>
-<li><a href="/wiki/Afua_Cooper" title="Afua Cooper">Afua Cooper</a> (born 1957), Jamaican-Canadian poet and academic</li>
-<li><a href="/wiki/Alan_Cooper_(bishop)" title="Alan Cooper (bishop)">Alan Cooper (bishop)</a> (1909–1999), British Anglican bishop</li>
-<li><a href="/wiki/Alan_Cooper" title="Alan Cooper">Alan Cooper</a> (born 1952), American creator of Visual Basic</li>
-<li><a href="/wiki/Alan_Cooper_(biblical_scholar)" title="Alan Cooper (biblical scholar)">Alan Cooper (biblical scholar)</a>, American</li>
-<li><a href="/wiki/Albert_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Albert Cooper (disambiguation)">Albert Cooper (disambiguation)</a>, several people
-<ul><li><a href="/wiki/Albert_Cooper_(cricketer)" title="Albert Cooper (cricketer)">Albert Cooper (cricketer)</a> (1893–1977), English cricketer</li>
-<li><a href="/wiki/Albert_Cooper_(soccer)" title="Albert Cooper (soccer)">Albert Cooper (soccer)</a> (1904–1993), U.S. soccer player</li>
-<li><a href="/wiki/Albert_Cooper_(British_politician)" title="Albert Cooper (British politician)">Albert Cooper (British politician)</a> (1910–1986), British politician</li>
-<li><a href="/wiki/Albert_Cooper_(Canadian_politician)" title="Albert Cooper (Canadian politician)">Albert Cooper (Canadian politician)</a> (born 1952), Canadian politician</li>
-<li><a href="/wiki/Albert_Cooper_(flute_maker)" title="Albert Cooper (flute maker)">Albert Cooper (flute maker)</a>, British flute maker</li></ul></li>
-<li><a href="/wiki/Alex_Cooper" title="Alex Cooper">Alex Cooper</a> (born 1936), American architect</li>
-<li><a href="/wiki/Alex_Cooper_(sailor)" title="Alex Cooper (sailor)">Alex Cooper (sailor)</a> (born 1942), Bermudian Olympic sailor</li>
-<li><a href="/wiki/Alex_Cooper_(footballer)" title="Alex Cooper (footballer)">Alex Cooper (footballer)</a> (born 1991), Scottish footballer</li>
-<li><a href="/wiki/Alexander_Cooper" title="Alexander Cooper">Alexander Cooper</a> (1609–1660), English painter</li>
-<li><a href="/wiki/Alfred_Cooper_(disambiguation)" class="mw-disambig" title="Alfred Cooper (disambiguation)">Alfred Cooper (disambiguation)</a></li></ul>
-<dl><dd></dd></dl>
-<ul><li><a href="/wiki/Alf_Cooper" title="Alf Cooper">Alf Cooper</a> (born 1932), Irish cricketer and doctor, later emigrated to the United States</li>
-<li><a href="/wiki/Alfred_Cooper_(cricketer)" title="Alfred Cooper (cricketer)">Alfred Cooper (cricketer)</a> (1893–1963), South African Test cricketer</li>
-<li><a href="/wiki/Alfred_Edward_Cooper" title="Alfred Edward Cooper">Alfred Edward Cooper</a> (1869–1960), South African cricketer</li>
-<li><a href="/wiki/Alfred_Heaton_Cooper" title="Alfred Heaton Cooper">Alfred Heaton Cooper</a> (1864–1929), Victorian artist</li>
-<li><a href="/wiki/Alfred_Cooper_(priest)" title="Alfred Cooper (priest)">Alfred Cooper (priest)</a> (died 1920), archdeacon of Calgary</li></ul>
-<ul><li><a href="/wiki/Alice_Cooper" title="Alice Cooper">Alice Cooper</a> (born 1948), born Vincent Damon Furnier, American Singer and musician</li>
-<li><a href="/wiki/Alison_Cooper" title="Alison Cooper">Alison Cooper</a> (born 1966), British businesswoman</li>
-<li><a href="/wiki/Allen_Foster_Cooper" title="Allen Foster Cooper">Allen Foster Cooper</a> (1838–1918), American politician</li>
-<li><a href="/wiki/Amari_Cooper" title="Amari Cooper">Amari Cooper</a> (born 1994), American football wide receiver</li>
-<li><a href="/wiki/Anderson_Cooper" title="Anderson Cooper">Anderson Cooper</a> (born 1967), American journalist</li>
-<li><a href="/wiki/Andre_Cooper" title="Andre Cooper">Andre Cooper</a> (born 1975), American footballer wide receiver</li>
-<li><a href="/wiki/Andrew_Cooper_(disambiguation)" class="mw-disambig" title="Andrew Cooper (disambiguation)">Andrew and Andy Cooper (disambiguation)</a>, several people
-<ul><li><a href="/wiki/Andrew_W._Cooper" title="Andrew W. Cooper">Andrew W. Cooper</a> (1927–2002), civil rights activist and journalist</li>
-<li><a href="/wiki/Andrew_F._Cooper" title="Andrew F. Cooper">Andrew F. Cooper</a> (born 1950), Canadian academic</li>
-<li><a href="/wiki/Andrew_Cooper_III" class="mw-redirect" title="Andrew Cooper III">Andrew Cooper III</a>, modelling pseudonym of actor Sam J. Jones (born 1954)</li>
-<li><a href="/wiki/Andrew_Cooper,_Baron_Cooper_of_Windrush" title="Andrew Cooper, Baron Cooper of Windrush">Andrew Cooper, Baron Cooper of Windrush</a>, British Conservative politician</li>
-<li><a href="/wiki/Andrew_Ian_Cooper" title="Andrew Ian Cooper">Andrew Ian Cooper</a>, British chemist
-<ul><li><a href="/wiki/Andy_Cooper" title="Andy Cooper">Andy Cooper</a> (1898–1941), American baseball player</li></ul></li></ul></li>
-<li><a href="/wiki/Angus_Cooper" title="Angus Cooper">Angus Cooper</a> (born 1964), New Zealand hammer thrower</li>
-<li><a href="/wiki/Ann_Cooper_Whitall" title="Ann Cooper Whitall">Ann Cooper Whitall</a> (1716–1797), American Quaker</li>
-<li><a href="/wiki/Ann_Nixon_Cooper" title="Ann Nixon Cooper">Ann Nixon Cooper</a> (1902–2009), African-American representative</li>
-<li><a href="/wiki/Anna_J._Cooper" title="Anna J. Cooper">Anna J. Cooper</a> (1859–1964), African-American educator</li>
-<li><a href="/wiki/Anthony_Ashley-Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Anthony Ashley-Cooper (disambiguation)">Anthony Ashley-Cooper (disambiguation)</a>, 10 of the 12 Earls of Shaftesbury</li>
-<li><a href="/wiki/Anton_Cooper" title="Anton Cooper">Anton Cooper</a> (born 1994), New Zealand cross-country mountain biker</li>
-<li><a href="/wiki/Armando_Cooper" title="Armando Cooper">Armando Cooper</a> (born 1987), Panamanian footballer</li>
-<li><a href="/wiki/Artemis_Cooper" title="Artemis Cooper">Artemis Cooper</a> (born 1953), British writer</li>
-<li><a href="/wiki/Ashley_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Ashley Cooper (disambiguation)">Ashley Cooper (disambiguation)</a>, several people
-<ul><li><a href="/wiki/Ashley_Cooper_(politician)" title="Ashley Cooper (politician)">Ashley Cooper (politician)</a> (1905–1981), member of the Legislative Assembly of Alberta, 1959–1975</li>
-<li><a href="/wiki/Ashley_Cooper_(tennis)" title="Ashley Cooper (tennis)">Ashley Cooper (tennis)</a> (born 1936), Australian former World No. 1 amateur tennis player</li>
-<li><a href="/wiki/Ashley_Cooper_(racing_driver)" title="Ashley Cooper (racing driver)">Ashley Cooper (racing driver)</a> (1980–2008), Australian V8 Supercar driver</li>
-<li><a href="/wiki/Ashley_Cooper_(singer)" title="Ashley Cooper (singer)">Ashley Cooper (singer)</a> (born 1988), contestant on <i>New Zealand Idol</i></li>
-<li><a href="/wiki/Ashley_Cooper_(photographer)" title="Ashley Cooper (photographer)">Ashley Cooper (photographer)</a>, English photographer</li></ul></li>
-<li><a href="/wiki/Astley_Cooper" title="Astley Cooper">Astley Cooper</a> (1768–1841), English surgeon</li>
-<li><a href="/wiki/Audrey_Cooper" title="Audrey Cooper">Audrey Cooper</a> (born 1977), American journalist</li></ul>
-<h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cooper_(surname)&amp;action=edit&amp;section=2" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/B._Cooper" title="B. Cooper">B. Cooper</a> (born 1984), American Christian hip-hop musician</li>
-<li><a href="/wiki/Barbara_Cooper_(politician)" title="Barbara Cooper (politician)">Barbara Cooper (politician)</a> (born 1929), American politician</li>
-<li><a href="/wiki/Barbara_Cooper_(RAF_officer)" title="Barbara Cooper (RAF officer)">Barbara Cooper (RAF officer)</a> (born 1959), British Royal Air Force officer</li>
-<li><a href="/wiki/Barry_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Barry Cooper (disambiguation)">Barry Cooper (disambiguation)</a>
-<ul><li><a href="/wiki/Barry_F._Cooper" class="mw-redirect" title="Barry F. Cooper">Barry F. Cooper</a> (born 1943), Canadian political scientist</li>
-<li><a href="/wiki/Barry_Cooper_(musicologist)" title="Barry Cooper (musicologist)">Barry Cooper (musicologist)</a> (born 1949), English musicologist and composer</li>
-<li><a href="/wiki/Barry_Cooper_(cricketer)" title="Barry Cooper (cricketer)">Barry Cooper (cricketer)</a> (born 1958), New Zealand cricketer</li>
-<li><a href="/wiki/Barry_Cooper_(lecturer)" title="Barry Cooper (lecturer)">Barry Cooper (lecturer)</a> (born 1969), former US narcotics officer turned anti-drug-war lecturer</li>
-<li><a href="/wiki/Barry_Cooper_(author)" title="Barry Cooper (author)">Barry Cooper (author)</a>, British co-author of <i>Christianity Explored</i></li>
-<li><a href="/wiki/Barry_Michael_Cooper" title="Barry Michael Cooper">Barry Michael Cooper</a>, American writer, producer and director</li></ul></li>
-<li><a href="/wiki/Ben_Cooper_(disambiguation)" class="mw-disambig" title="Ben Cooper (disambiguation)">Ben and Benjamin Cooper (disambiguation)</a>, several people
-<ul><li><a href="/wiki/Ben_Cooper" title="Ben Cooper">Ben Cooper</a> (born 1933), American film and television actor</li>
-<li><a href="/wiki/Ben_Cooper_(media_executive)" title="Ben Cooper (media executive)">Ben Cooper (media executive)</a>, British radio journalist, presenter and Controller of BBC Radio 1</li>
-<li><a href="/wiki/Ben_Cooper_(musician)" title="Ben Cooper (musician)">Ben Cooper (musician)</a> (born 1982), singer/songwriter from Jacksonville, Florida</li>
-<li><a href="/wiki/Ben_Cooper_(rugby_league)" title="Ben Cooper (rugby league)">Ben Cooper (rugby league)</a>, rugby league footballer of the 1990s, and 2000s</li>
-<li><a href="/wiki/Ben_Cooper_(cricketer)" title="Ben Cooper (cricketer)">Ben Cooper (cricketer)</a> (born 1992), Dutch cricketer
-<ul><li><a href="/wiki/Benjamin_Cooper" title="Benjamin Cooper">Benjamin Cooper</a>, Member of Parliament for Great Yarmouth 1621–24</li></ul></li></ul></li>
-<li><a href="/wiki/Bernard_Cooper" title="Bernard Cooper">Bernard Cooper</a> (born 1951), American novelist</li>
-<li><a href="/wiki/Bert_Cooper_(American_football)" title="Bert Cooper (American football)">Bert Cooper (American football)</a> (born 1952), American football player</li>
-<li><a href="/wiki/Bert_Cooper" title="Bert Cooper">Bert Cooper</a> (1966&#8211;2019), American boxer</li>
-<li><a href="/wiki/Bertie_Cooper" title="Bertie Cooper">Bertie Cooper</a> (c.1892–1916), Australian rules footballer</li>
-<li><a href="/wiki/Besse_Cooper" title="Besse Cooper">Besse Cooper</a> (1896–2012), American supercentenarian and world's oldest person during 2011–2012</li>
-<li><a href="/wiki/Bette_Cooper" title="Bette Cooper">Bette Cooper</a> (1924&#8211;2017), Miss America 1937</li>
-<li><a href="/wiki/William_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="William Cooper (disambiguation)">Bill and Billy Cooper (disambiguation)</a>, several people
-<ul><li><a href="/wiki/Bill_Cooper_(American_football)" title="Bill Cooper (American football)">Bill Cooper (American football)</a> (born 1939), professional football player for the San Francisco 49ers</li>
-<li><a href="/wiki/Bill_Cooper_(fighter)" title="Bill Cooper (fighter)">Bill Cooper (fighter)</a> (born 1987), American Brazilian jiu-jitsu practitioner</li>
-<li><a href="/wiki/Bill_Cooper_(hurler)" title="Bill Cooper (hurler)">Bill Cooper (hurler)</a> (born 1987), Irish hurler
-<ul><li><a href="/wiki/Billy_Cooper_(footballer)" title="Billy Cooper (footballer)">Billy Cooper (footballer)</a> (born 1917), English footballer</li>
-<li><a href="/wiki/Billy_Cooper_(Canadian_football)" title="Billy Cooper (Canadian football)">Billy Cooper (Canadian football)</a> (born 1945), Canadian football player</li>
-<li><a href="/wiki/Billy_Cooper_(trumpeter)" title="Billy Cooper (trumpeter)">Billy Cooper (trumpeter)</a>, cricket supporter and trumpet player for the Barmy Army</li></ul></li></ul></li>
-<li><a href="/wiki/Blake_Cooper" title="Blake Cooper">Blake Cooper</a> (born 2001), American actor</li>
-<li><a href="/wiki/Bob_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Bob Cooper (disambiguation)">Bob Cooper (disambiguation)</a>, several people
-<ul><li><a href="/wiki/Bob_Cooper_(musician)" title="Bob Cooper (musician)">Bob Cooper (musician)</a> (1925–1993), American jazz musician</li>
-<li><a href="/wiki/Bob_Cooper_(racing_driver)" title="Bob Cooper (racing driver)">Bob Cooper (racing driver)</a> (born 1935), American NASCAR Cup Series driver</li>
-<li><a href="/wiki/Bob_Cooper_(politician)" title="Bob Cooper (politician)">Bob Cooper (politician)</a> (1936–2004), politician and activist in Northern Ireland</li>
-<li><a href="/wiki/Bob_Cooper_(speedway_rider)" title="Bob Cooper (speedway rider)">Bob Cooper (speedway rider)</a> (born 1950), English speedway rider</li>
-<li><a href="/wiki/Bob_Cooper_(journalist)" title="Bob Cooper (journalist)">Bob Cooper (journalist)</a> (born 1954), freelance writer and <i>Runner's World</i> columnist, ultramarathoner</li>
-<li><a href="/wiki/Bob_Cooper_(rugby_league)" title="Bob Cooper (rugby league)">Bob Cooper (rugby league)</a>, Australian former professional <a href="/wiki/Rugby_league" title="Rugby league">rugby league</a> footballer</li></ul></li>
-<li><a href="/wiki/Bonnie_Cooper" title="Bonnie Cooper">Bonnie Cooper</a> (1935-2018), All-American Girls Professional Baseball League player.</li>
-<li><a href="/wiki/BP_Cooper" title="BP Cooper">BP Cooper</a>, American screenwriter, film and commercial producer</li>
-<li><a href="/wiki/Brad_Cooper" title="Brad Cooper">Brad Cooper</a> (born 1954), Australian Olympic swimmer</li>
-<li><a href="/wiki/Bradley_Cooper_(athlete)" title="Bradley Cooper (athlete)">Bradley Cooper (athlete)</a> (born 1957), Bahamian discus thrower and shot putter</li>
-<li><a href="/wiki/Bradley_Cooper" title="Bradley Cooper">Bradley Cooper</a> (born 1975), American actor</li>
-<li><a href="/wiki/Bransby_Cooper" title="Bransby Cooper">Bransby Cooper</a> (1844–1914), Australian cricketer</li>
-<li><a href="/wiki/Brenda_Cooper" title="Brenda Cooper">Brenda Cooper</a>, American author</li>
-<li><a href="/wiki/Brent_Cooper_(judoka)" title="Brent Cooper (judoka)">Brent Cooper (judoka)</a> (born 1960), New Zealand Olympic judoka and judo administrator</li>
-<li><a href="/wiki/Brent_Cooper_(boxer)" title="Brent Cooper (boxer)">Brent Cooper (boxer)</a> (born 1973), American boxer</li>
-<li><a href="/wiki/Bret_Cooper" title="Bret Cooper">Bret Cooper</a> (born 1970), American football player</li>
-<li><a href="/wiki/Brett_Cooper_(footballer)" title="Brett Cooper (footballer)">Brett Cooper (footballer)</a> (born 1959), Australian rules footballer</li>
-<li><a href="/wiki/Brett_Cooper_(fighter)" title="Brett Cooper (fighter)">Brett Cooper (fighter)</a> (born 1987), American mixed martial artist</li>
-<li><a href="/wiki/Brian_Cooper" title="Brian Cooper">Brian Cooper</a> (born 1974), American baseball pitcher</li>
-<li><a href="/wiki/Britney_Cooper" title="Britney Cooper">Britney Cooper</a> (born 1989), West Indian cricketer from Trinidad</li>
-<li><a href="/wiki/Brittnee_Cooper" title="Brittnee Cooper">Brittnee Cooper</a> (born 1988), American volleyball player</li>
-<li><a href="/wiki/Bryan_Cooper_(politician)" title="Bryan Cooper (politician)">Bryan Cooper (politician)</a> (1884–1930), Irish independent/Cumann na nGaedhael politician</li>
-<li>Bryan Cooper (born 1976), aka <a href="/wiki/COOPER_(artist)" title="COOPER (artist)">COOPER</a>, American artist</li>
-<li><a href="/wiki/Bryan_Cooper_(jockey)" title="Bryan Cooper (jockey)">Bryan Cooper (jockey)</a> (born 1992), Irish National Hunt jockey</li>
-<li><a href="/wiki/Buster_Cooper" title="Buster Cooper">Buster Cooper</a> (1929–2016), American jazz trombonist</li></ul>
-<h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cooper_(surname)&amp;action=edit&amp;section=3" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Caitlin_Cooper" title="Caitlin Cooper">Caitlin Cooper</a> (born 1988), Australian soccer player</li>
-<li><a href="/wiki/Camille_Cooper" title="Camille Cooper">Camille Cooper</a> (born 1979), American basketball player</li>
-<li><a href="/wiki/Carl_Cooper" title="Carl Cooper">Carl Cooper</a> (born 1960), British Anglican bishop</li>
-<li><a href="/wiki/Carolyn_Cooper" title="Carolyn Cooper">Carolyn Cooper</a> (born 1950), Jamaican author</li>
-<li><a href="/wiki/Cary_Cooper" title="Cary Cooper">Cary Cooper</a> (born 1940), American-born British psychologist</li>
-<li><a href="/wiki/Cathy_Cooper" title="Cathy Cooper">Cathy Cooper</a> (born 1960), American artist</li>
-<li><a href="/wiki/Cec_Cooper" title="Cec Cooper">Cec Cooper</a> (born 1926), Australian rugby league footballer</li>
-<li><a href="/wiki/Cecil_Cooper_(bishop)" title="Cecil Cooper (bishop)">Cecil Cooper (bishop)</a> (1882–1964), British Bishop of Korea</li>
-<li><a href="/wiki/Cecil_Cooper" title="Cecil Cooper">Cecil Cooper</a> (born 1949), American baseball player</li>
-<li><a href="/wiki/Charles_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Charles Cooper (disambiguation)">Charles Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Charlotte_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Charlotte Cooper (disambiguation)">Charlotte Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Chris_Cooper_(disambiguation)" class="mw-disambig" title="Chris Cooper (disambiguation)">Chris Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Christin_Cooper" title="Christin Cooper">Christin Cooper</a> (born 1959), American skier</li>
-<li><a href="/wiki/Clarence_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Clarence Cooper (disambiguation)">Clarence Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Colin_Cooper_(disambiguation)" class="mw-disambig" title="Colin Cooper (disambiguation)">Colin Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Colm_Cooper" title="Colm Cooper">Colm Cooper</a> (born 1983), Irish Gaelic footballer with Kerry GAA</li>
-<li><a href="/wiki/Courtney_Ryley_Cooper" title="Courtney Ryley Cooper">Courtney Ryley Cooper</a> (1886–1940), American circus clown, journalist and author</li>
-<li><a href="/wiki/Craig_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Craig Cooper (disambiguation)">Craig Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Curtis_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Curtis Cooper (disambiguation)">Curtis Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Cynthia_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Cynthia Cooper (disambiguation)">Cynthia Cooper (disambiguation)</a></li></ul>
-<h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cooper_(surname)&amp;action=edit&amp;section=4" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Daniel_C._Cooper" title="Daniel C. Cooper">Daniel C. Cooper</a> (1773–1818), early American surveyor and politician</li>
-<li><a href="/wiki/D._B._Cooper" title="D. B. Cooper">D. B. Cooper</a>, epithet for an unknown airline hijacker from 1971</li>
-<li><a href="/wiki/D._C._Cooper" title="D. C. Cooper">D. C. Cooper</a> (born 1965), American heavy metal singer</li>
-<li><a href="/wiki/David_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="David Cooper (disambiguation)">David Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Darren_Cooper" class="mw-redirect" title="Darren Cooper">Darren Cooper</a> (d. 2016), British Labour Party politician</li>
-<li><a href="/wiki/Dennis_Cooper" title="Dennis Cooper">Dennis Cooper</a> (born 1953), American poet and writer</li>
-<li><a href="/wiki/Dewey_Cooper" title="Dewey Cooper">Dewey Cooper</a> (born 1974), American kickboxer and boxer</li>
-<li><a href="/wiki/Lady_Diana_Cooper" title="Lady Diana Cooper">Lady Diana Cooper</a> (1892–1986), British society beauty and actress, wife of Duff Cooper</li>
-<li><a href="/wiki/Dolores_G._Cooper" title="Dolores G. Cooper">Dolores G. Cooper</a> (1922–1999), American politician</li>
-<li><a href="/wiki/Dominic_Cooper" title="Dominic Cooper">Dominic Cooper</a>  (born 1978), British actor</li>
-<li><a href="/wiki/Don_Cooper" title="Don Cooper">Don Cooper</a> (born 1957), American baseball player</li>
-<li><a href="/wiki/Douglas_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Douglas Cooper (disambiguation)">Douglas Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Duff_Cooper" title="Duff Cooper">Duff Cooper</a> (1890–1954), British politician and writer</li></ul>
-<h2><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cooper_(surname)&amp;action=edit&amp;section=5" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Earl_Cooper" title="Earl Cooper">Earl Cooper</a> (1886–1965), American race car driver, 1900–1925</li>
-<li><a href="/wiki/Eddie_Cooper_(actor)" title="Eddie Cooper (actor)">Eddie Cooper (actor)</a> (born 1987), British actor</li>
-<li><a href="/wiki/Eddie_Cooper_(cricketer)" title="Eddie Cooper (cricketer)">Eddie Cooper (cricketer)</a> (1915–1968), English cricketer</li>
-<li><a href="/wiki/Edmund_Cooper" title="Edmund Cooper">Edmund Cooper</a> (1926–1982), English writer</li>
-<li><a href="/wiki/Edward_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Edward Cooper (disambiguation)">Edward Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Edwin_Cooper_(artist)" title="Edwin Cooper (artist)">Edwin Cooper</a> (1785–1833), English artist</li>
-<li><a href="/wiki/Ethan_Cooper" title="Ethan Cooper">Ethan Cooper</a>, college football player</li>
-<li><a href="/wiki/Elizabeth_Cooper" title="Elizabeth Cooper">Elizabeth Cooper</a> (died 1960), Filipina-American actress</li>
-<li><a href="/wiki/Emma_Lampert_Cooper" title="Emma Lampert Cooper">Emma Lampert Cooper</a> (1855–1920), American painter</li>
-<li><a href="/wiki/Eric_Cooper" title="Eric Cooper">Eric Cooper</a> (1966-2019), American professional baseball umpire</li>
-<li><a href="/wiki/Eric_Thirkell_Cooper" title="Eric Thirkell Cooper">Eric Thirkell Cooper</a> (before 1915&#160;&#8211;&#32;after 1947), British soldier and war poet during World War 1</li></ul>
-<h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cooper_(surname)&amp;action=edit&amp;section=6" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Frank_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Frank Cooper (disambiguation)">Frank Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Frederic_Taber_Cooper" title="Frederic Taber Cooper">Frederic Taber Cooper</a> (1864–1937), American writer, editor and academic</li>
-<li><a href="/wiki/Frederick_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Frederick Cooper (disambiguation)">Frederick Cooper (disambiguation)</a></li></ul>
-<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cooper_(surname)&amp;action=edit&amp;section=7" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/G._Cooper" class="mw-redirect" title="G. Cooper">G. Cooper</a>, English amateur cricketer</li>
-<li><a href="/wiki/Grant_Cooper" title="Grant Cooper">Grant Cooper</a> (born 1982), Spanish millionaire</li>
-<li><a href="/wiki/Gary_Cooper_(disambiguation)" class="mw-disambig" title="Gary Cooper (disambiguation)">Gary Cooper (disambiguation)</a></li>
-<li><a href="/wiki/George_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="George Cooper (disambiguation)">George Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Gladys_Cooper" title="Gladys Cooper">Gladys Cooper</a> (1888–1971), English actress</li>
-<li><a href="/wiki/Gordon_Cooper" title="Gordon Cooper">Gordon Cooper</a> (1927–2004), American astronaut</li>
-<li><a href="/wiki/Grey_Cooper" title="Grey Cooper">Grey Cooper</a> (c. 1720&#160;– 1801), English politician</li></ul>
-<h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cooper_(surname)&amp;action=edit&amp;section=8" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Harry_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Harry Cooper (disambiguation)">Harry Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Helen_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Helen Cooper (disambiguation)">Helen Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Helene_Cooper" title="Helene Cooper">Helene Cooper</a> (born 1966), Liberian-American author and journalist</li>
-<li><a href="/wiki/Henry_Cooper_(disambiguation)" class="mw-disambig" title="Henry Cooper (disambiguation)">Henry Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Hugh_Cooper" class="mw-redirect" title="Hugh Cooper">Hugh Cooper</a> (1865–1937), American engineer</li>
-<li><a href="/wiki/Humility_Cooper" title="Humility Cooper">Humility Cooper</a> English passenger on the Mayflower</li></ul>
-<h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cooper_(surname)&amp;action=edit&amp;section=9" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Ian_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Ian Cooper (disambiguation)">Ian Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Ivan_Cooper" title="Ivan Cooper">Ivan Cooper</a> (1944–2019), Northern Ireland politician</li></ul>
-<h2><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cooper_(surname)&amp;action=edit&amp;section=10" title="Edit section: J">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Jack_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Jack Cooper (disambiguation)">Jack Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Jackie_Cooper" title="Jackie Cooper">Jackie Cooper</a> (1922–2011), American actor</li>
-<li><a href="/wiki/Jacqui_Cooper" title="Jacqui Cooper">Jacqui Cooper</a> (born 1973), Australian skier</li>
-<li><a href="/wiki/Jade_Holland_Cooper" title="Jade Holland Cooper">Jade Holland Cooper</a> (born 1986/87), British fashion designer</li>
-<li><a href="/wiki/James_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="James Cooper (disambiguation)">James Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Jeanne_Cooper" title="Jeanne Cooper">Jeanne Cooper</a> (1928–2013), American actress</li>
-<li><a href="/wiki/Jeff_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Jeff Cooper (disambiguation)">Jeff Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Jennifer_Cooper" title="Jennifer Cooper">Jennifer Cooper</a>, corporate lawyer and Queen's Counsel from New Zealand</li>
-<li><a href="/wiki/Jere_Cooper" title="Jere Cooper">Jere Cooper</a> (1893–1957), American politician</li>
-<li><a href="/wiki/Jerry_W._Cooper" title="Jerry W. Cooper">Jerry W. Cooper</a> (born 1948), American politician</li>
-<li><a href="/wiki/Jessica_Cooper" title="Jessica Cooper">Jessica Cooper</a> (born 1967), British artist</li>
-<li><a href="/wiki/Jessie_Cooper" title="Jessie Cooper">Jessie Cooper</a> (1914–1993), Australian politician</li>
-<li><a href="/wiki/Jilly_Cooper" title="Jilly Cooper">Jilly Cooper</a> (born 1937), English novelist</li>
-<li><a href="/wiki/Jim_Cooper_(disambiguation)" class="mw-disambig" title="Jim Cooper (disambiguation)">Jim Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Jimmy_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Jimmy Cooper (disambiguation)">Jimmy Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Joe_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Joe Cooper (disambiguation)">Joe Cooper (disambiguation)</a></li>
-<li><a href="/wiki/John_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="John Cooper (disambiguation)">John Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Johnny_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Johnny Cooper (disambiguation)">Johnny Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Joseph_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Joseph Cooper (disambiguation)">Joseph Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Joshua_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Joshua Cooper (disambiguation)">Joshua Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Julie_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Julie Cooper (disambiguation)">Julie Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Justin_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Justin Cooper (disambiguation)">Justin Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Justine_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Justine Cooper (disambiguation)">Justine Cooper (disambiguation)</a></li></ul>
-<h2><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cooper_(surname)&amp;action=edit&amp;section=11" title="Edit section: K">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Kenneth_H._Cooper" title="Kenneth H. Cooper">Kenneth H. Cooper</a> (born 1931), American Air-Force Colonel, doctor and aerobics pioneer</li>
-<li><a href="/wiki/Kenny_Cooper" title="Kenny Cooper">Kenny Cooper</a> (born 1984), American footballer (soccer)</li>
-<li><a href="/wiki/Kenny_Cooper,_Sr." class="mw-redirect" title="Kenny Cooper, Sr.">Kenny Cooper, Sr.</a> (born 1946), former English soccer goalkeeper and coach</li>
-<li><a href="/wiki/Kevin_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Kevin Cooper (disambiguation)">Kevin Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Kevon_Cooper" title="Kevon Cooper">Kevon Cooper</a> (born 1989), Trinidadian cricketer</li>
-<li><a href="/wiki/Kitty_Cooper" title="Kitty Cooper">Kitty Cooper</a>, American bridge player</li>
-<li><a href="/wiki/Korey_Cooper" class="mw-redirect" title="Korey Cooper">Korey Cooper</a> (born 1972), American musician, member of Skillet</li>
-<li><a href="/wiki/Kyle_Cooper" title="Kyle Cooper">Kyle Cooper</a> (born 1962), American designer of motion picture title sequences</li>
-<li><a href="/wiki/Kyle_Cooper_(rugby_player)" title="Kyle Cooper (rugby player)">Kyle Cooper</a> (born 1989), South African rugby union player</li></ul>
-<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cooper_(surname)&amp;action=edit&amp;section=12" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Lamart_Cooper" title="Lamart Cooper">Lamart Cooper</a> (born 1973), US American football player</li>
-<li><a href="/wiki/Leigh_Cooper" title="Leigh Cooper">Leigh Cooper</a> (born 1961), English footballer</li>
-<li><a href="/wiki/Leon_Cooper" title="Leon Cooper">Leon Cooper</a> (born 1930), American Nobel Laureate in physics&#160;– theory of superconductivity</li>
-<li><a href="/wiki/Les_Cooper" title="Les Cooper">Les Cooper</a> (1921–2013), American musician</li>
-<li><a href="/wiki/Lettice_Cooper" title="Lettice Cooper">Lettice Cooper</a> (1897–1994), English writer</li>
-<li><a href="/wiki/Levi_Cooper" title="Levi Cooper">Levi Cooper</a> - The Maggid of Melbourne, Australian Orthodox Jewish teacher</li>
-<li><a href="/wiki/Tucker_Knight" title="Tucker Knight">Levi Rolla Cooper</a> (born 1990), American professional wrestler</li>
-<li><a href="/wiki/Lindsay_Cooper" title="Lindsay Cooper">Lindsay Cooper</a> (1951–2013), English musician (bassoon and oboe), composer and activist</li>
-<li><a href="/wiki/Lindsay_L._Cooper" title="Lindsay L. Cooper">Lindsay L. Cooper</a> (1940–2001), Scottish musician (double-bass and cello)</li>
-<li><a href="/wiki/Lionel_Cooper_(rugby_league)" title="Lionel Cooper (rugby league)">Lionel Cooper</a>, Australian rugby league player</li>
-<li><a href="/wiki/Lionel_Cooper_(mathematician)" title="Lionel Cooper (mathematician)">Lionel Cooper</a> (1915–1979), South African mathematician</li>
-<li><a href="/wiki/Louise_Cooper" title="Louise Cooper">Louise Cooper</a> (1952–2009), British writer</li></ul>
-<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cooper_(surname)&amp;action=edit&amp;section=13" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/MacDella_Cooper" title="MacDella Cooper">MacDella Cooper</a> (born 1977), Liberian philanthropist</li>
-<li><a href="/wiki/Marc_Cooper" title="Marc Cooper">Marc Cooper</a>, American journalist and blogger</li>
-<li><a href="/wiki/Marianne_Leone_Cooper" title="Marianne Leone Cooper">Marianne Leone Cooper</a> (born 1952), American actress</li>
-<li><a href="/wiki/Mark_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Mark Cooper (disambiguation)">Mark Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Marquis_Cooper" title="Marquis Cooper">Marquis Cooper</a> (1982–2009), American NFL football player</li>
-<li><a href="/wiki/Martha_Cooper" title="Martha Cooper">Martha Cooper</a> (born c. 1940), American photojournalist</li>
-<li><a href="/wiki/Martin_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Martin Cooper (disambiguation)">Martin Cooper (disambiguation)</a></li>
-<li>Marvin Cooper (born c. 1943), better known as <a href="/wiki/Dancing_Harry" title="Dancing Harry">Dancing Harry</a>, dancer at professional basketball games</li>
-<li><a href="/wiki/Matt_Cooper_(disambiguation)" class="mw-redirect" title="Matt Cooper (disambiguation)">Matt Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Matthew_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Matthew Cooper (disambiguation)">Matthew Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Merian_C._Cooper" title="Merian C. Cooper">Merian C. Cooper</a> (1893–1973), American movie actor, director, screenwriter and producer</li>
-<li><a href="/wiki/Michael_Cooper_(disambiguation)" class="mw-disambig" title="Michael Cooper (disambiguation)">Michael Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Mike_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Mike Cooper (disambiguation)">Mike Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Milton_William_Cooper" title="Milton William Cooper">Milton William Cooper</a> (1943–2001), American writer</li>
-<li><a href="/wiki/Miranda_Cooper" title="Miranda Cooper">Miranda Cooper</a> (born 1975), British songwriter</li>
-<li><a href="/wiki/Mort_Cooper" title="Mort Cooper">Mort Cooper</a> (1913–1958), American baseball player</li>
-<li><a href="/wiki/Muriel_Cooper" title="Muriel Cooper">Muriel Cooper</a> (1925–1994), American artist and designer</li>
-<li><a href="/wiki/Myers_Y._Cooper" title="Myers Y. Cooper">Myers Y. Cooper</a> (1873–1958), American politician</li></ul>
-<h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cooper_(surname)&amp;action=edit&amp;section=14" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Nathan_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Nathan Cooper (disambiguation)">Nathan Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Neale_Cooper" title="Neale Cooper">Neale Cooper</a> (born 1963), Scottish football manager</li>
-<li><a href="/wiki/Nicholas_Ashley-Cooper,_12th_Earl_of_Shaftesbury" title="Nicholas Ashley-Cooper, 12th Earl of Shaftesbury">Nicholas Ashley-Cooper, 12th Earl of Shaftesbury</a> (born 1979), Earl of Shaftesbury</li></ul>
-<h2><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cooper_(surname)&amp;action=edit&amp;section=15" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Pat_Cooper" title="Pat Cooper">Pat Cooper</a> (born 1929), American comedian</li>
-<li><a href="/wiki/Paul_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Paul Cooper (disambiguation)">Paul Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Paulette_Cooper" title="Paulette Cooper">Paulette Cooper</a> (born 1944), American journalist</li>
-<li><a href="/wiki/Peter_Cooper_(disambiguation)" class="mw-disambig" title="Peter Cooper (disambiguation)">Peter Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Philip_Cooper" title="Philip Cooper">Philip Cooper</a> (1885–1950), English cricketer</li>
-<li><a href="/wiki/Philip_H._Cooper" title="Philip H. Cooper">Philip H. Cooper</a> (1844–1912), American admiral</li>
-<li><a href="/wiki/Priscilla_Cooper_Tyler" title="Priscilla Cooper Tyler">Priscilla Cooper Tyler</a> (1816–1889), <i>de facto</i> First Lady of USA 1842–44</li></ul>
-<h2><span class="mw-headline" id="Q">Q</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cooper_(surname)&amp;action=edit&amp;section=16" title="Edit section: Q">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Quade_Cooper" title="Quade Cooper">Quade Cooper</a> (born 1988), Australian rugby union player</li></ul>
-<h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cooper_(surname)&amp;action=edit&amp;section=17" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Ray_Cooper" title="Ray Cooper">Ray Cooper</a> (born 1942), English musician</li>
-<li><a href="/wiki/Revel_Cooper" title="Revel Cooper">Revel Cooper</a> (died 1983), Australian artist</li>
-<li><a href="/wiki/Richard_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Richard Cooper (disambiguation)">Richard Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Riley_Cooper" title="Riley Cooper">Riley Cooper</a> (born 1987), US American Football player</li>
-<li><a href="/wiki/Riste%C3%A1rd_Cooper" title="Risteárd Cooper">Risteárd Cooper</a>, Irish comedian</li>
-<li><a href="/wiki/Robert_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Robert Cooper (disambiguation)">Robert Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Rosie_Cooper" title="Rosie Cooper">Rosie Cooper</a> (born 1950), British politician</li>
-<li><a href="/wiki/Roxanne_Cooper" class="mw-redirect" title="Roxanne Cooper">Roxanne Cooper</a>, British singer</li>
-<li><a href="/wiki/Roy_Cooper_(disambiguation)" class="mw-disambig" title="Roy Cooper (disambiguation)">Roy Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Russell_Cooper_(disambiguation)" class="mw-disambig" title="Russell Cooper (disambiguation)">Russell Cooper (disambiguation)</a></li></ul>
-<h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cooper_(surname)&amp;action=edit&amp;section=18" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Samuel_Cooper_(disambiguation)" class="mw-disambig" title="Samuel Cooper (disambiguation)">Samuel Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Sarah_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Sarah Cooper (disambiguation)">Sarah Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Selina_Cooper" title="Selina Cooper">Selina Cooper</a> (1864–1946), English suffragist and politician</li>
-<li><a href="/wiki/Shane_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Shane Cooper (disambiguation)">Shane Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Shaun_Cooper" title="Shaun Cooper">Shaun Cooper</a> (born 1983), English footballer</li>
-<li><a href="/wiki/Sherry_Cooper" title="Sherry Cooper">Sherry Cooper</a>, Canadian-American, Chief Economist of BMO Capital Markets</li>
-<li><a href="/wiki/Thomas_Sidney_Cooper" title="Thomas Sidney Cooper"> (Thomas) Sidney Cooper</a> (1803–1902), English painter</li>
-<li><a href="/wiki/Simon_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Simon Cooper (disambiguation)">Simon Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Stoney_Cooper" title="Stoney Cooper">Stoney Cooper</a> (1918–1977), American country musician</li>
-<li><a href="/wiki/Susan_Cooper_(disambiguation)" class="mw-disambig" title="Susan Cooper (disambiguation)">Susan Cooper (disambiguation)</a></li></ul>
-<h2><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cooper_(surname)&amp;action=edit&amp;section=19" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Tarzan_Cooper" title="Tarzan Cooper">Tarzan Cooper</a> (1907–1980), American basketball player</li>
-<li><a href="/wiki/Terence_Cooper" title="Terence Cooper">Terence Cooper</a> (1933–1997), Northern Irish actor</li>
-<li><a href="/wiki/Terry_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Terry Cooper (disambiguation)">Terry Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Theodore_Cooper" title="Theodore Cooper">Theodore Cooper</a> (1839–1919), American engineer</li>
-<li><a href="/wiki/Thomas_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Thomas Cooper (disambiguation)">Thomas Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Tim_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Tim Cooper (disambiguation)">Tim Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Tina_Cooper" title="Tina Cooper">Tina Cooper</a> (1918–1986), English paediatrician</li>
-<li><a href="/wiki/Tommy_Cooper" title="Tommy Cooper">Tommy Cooper</a> (1921–1984), British comedian</li>
-<li><a href="/w/index.php?title=Trisha_Cooper&amp;action=edit&amp;redlink=1" class="new" title="Trisha Cooper (page does not exist)">Trisha Cooper</a>, British broadcaster</li></ul>
-<h2><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cooper_(surname)&amp;action=edit&amp;section=20" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Walker_Cooper" title="Walker Cooper">Walker Cooper</a> (1915–1991), American baseball player</li>
-<li><a href="/wiki/Warren_Cooper" title="Warren Cooper">Warren Cooper</a> (born 1933), New Zealand politician</li>
-<li><a href="/wiki/Whina_Cooper" title="Whina Cooper">Whina Cooper</a> (1895–1994), New Zealand Māori leader</li>
-<li><a href="/wiki/Wilbur_Cooper" title="Wilbur Cooper">Wilbur Cooper</a> (1892–1973), American baseball player</li>
-<li><a href="/wiki/W._E._Shewell-Cooper" title="W. E. Shewell-Cooper">W. E. Shewell-Cooper</a> (1900–1982), British organic gardener</li>
-<li><a href="/wiki/Wilhelmina_Cooper" title="Wilhelmina Cooper">Wilhelmina Cooper</a> (1939–1980), American model</li>
-<li><a href="/wiki/William_Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="William Cooper (disambiguation)">William Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Wilson_Marion_Cooper" title="Wilson Marion Cooper">Wilson Marion Cooper</a> (died 1916), American Sacred Harp teacher</li>
-<li><a href="/wiki/Wyatt_Emory_Cooper" title="Wyatt Emory Cooper">Wyatt Emory Cooper</a> (1927–1978), American screenwriter</li>
-<li><a href="/wiki/Wyllis_Cooper" title="Wyllis Cooper">Wyllis Cooper</a> (1899–1955), American radio writer</li></ul>
-<h2><span class="mw-headline" id="Y">Y</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cooper_(surname)&amp;action=edit&amp;section=21" title="Edit section: Y">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Yvette_Cooper" title="Yvette Cooper">Yvette Cooper</a> (born 1969), British Labour Party politician and 2015 Labour leadership contender</li></ul>
-<h2><span class="mw-headline" id="Fictional_characters">Fictional characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cooper_(surname)&amp;action=edit&amp;section=22" title="Edit section: Fictional characters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Betty_Cooper" title="Betty Cooper">Betty Cooper</a>, character from <i>Archie Comics</i></li>
-<li><a href="/wiki/Buzz_Cooper" class="mw-redirect" title="Buzz Cooper">Buzz Cooper</a>, character from the soap opera <i>Guiding Light</i></li>
-<li><a href="/wiki/Dale_Cooper" title="Dale Cooper">Dale Cooper</a>, character from the TV show <i>Twin Peaks</i></li>
-<li><a href="/wiki/Gwen_Cooper" title="Gwen Cooper">Gwen Cooper</a>, character from the <i>Doctor Who</i> spinoff series <i>Torchwood</i></li>
-<li><a href="/wiki/Kaitlin_Cooper" class="mw-redirect" title="Kaitlin Cooper">Kaitlin Cooper</a>, character from the TV series <i>The O.C.</i></li>
-<li><a href="/wiki/Lauren_Cooper" title="Lauren Cooper">Lauren Cooper</a>, character in <i>The Catherine Tate Show</i></li>
-<li><a href="/wiki/Marina_Cooper" title="Marina Cooper">Marina Cooper</a>, character from the soap opera <i>Guiding Light</i></li>
-<li><a href="/wiki/Marissa_Cooper" title="Marissa Cooper">Marissa Cooper</a>, character from the TV series <i>The O.C.</i></li>
-<li><a href="/wiki/Sheldon_Cooper" title="Sheldon Cooper">Sheldon Cooper</a>, character from the American TV sitcom <i>The Big Bang Theory</i></li>
-<li><a href="/wiki/Sly_Cooper_(character)" title="Sly Cooper (character)">Sly Cooper</a>, character from the <i>Sly Cooper</i> video games</li>
-<li><a href="/wiki/Valerie_Cooper" title="Valerie Cooper">Valerie "Val" Cooper</a>, character from the <i>Marvel Universe</i></li></ul>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cooper_(surname)&amp;action=edit&amp;section=23" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Cooper_(given_name)" title="Cooper (given name)">Cooper (given name)</a></li>
-<li><a href="/wiki/Cooper_(disambiguation)" class="mw-redirect mw-disambig" title="Cooper (disambiguation)">Cooper (disambiguation)</a></li>
-<li><a href="/wiki/Kupper" title="Kupper">Kupper</a>, a related surname of Germanic origin</li>
-<li><a href="/wiki/Hooper_(surname)" title="Hooper (surname)">Hooper (surname)</a></li></ul>
-<div role="navigation" class="navbox" aria-labelledby="Surnames_derived_from_occupation_Cooper_and_its_specializations" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Cooper-surname" title="Template:Cooper-surname"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Cooper-surname" title="Template talk:Cooper-surname"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Cooper-surname&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Surnames_derived_from_occupation_Cooper_and_its_specializations" style="font-size:114%;margin:0 4em">Surnames derived from occupation <a href="/wiki/Cooper_(profession)" title="Cooper (profession)">Cooper</a> and its specializations</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">English</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a class="mw-selflink selflink">Cooper</a>, <a href="/wiki/Cowper_(surname)" title="Cowper (surname)">Cowper</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">German/Yiddish</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Kubler" title="Kubler">Kübler</a>, <a href="/wiki/Kiefer" title="Kiefer">Kiefer</a>, <a href="/wiki/Kieffer" title="Kieffer">Kieffer</a>, <a href="/w/index.php?title=K%C3%BCfner&amp;action=edit&amp;redlink=1" class="new" title="Küfner (page does not exist)">Küfner</a>, <a href="/w/index.php?title=Kuffner_(surname)&amp;action=edit&amp;redlink=1" class="new" title="Kuffner (surname) (page does not exist)">Küffner</a></li>
-<li><a href="/wiki/Fassbender" title="Fassbender">Fassbender</a>, <a href="/w/index.php?title=Fassbinder_(surname)&amp;action=edit&amp;redlink=1" class="new" title="Fassbinder (surname) (page does not exist)">Fassbinder</a>, <a href="/wiki/Fassler" title="Fassler">Fässler</a>, <a href="/wiki/Bender_(surname)" title="Bender (surname)">Bender</a>, <a href="/wiki/Binder_(surname)" title="Binder (surname)">Binder</a></li>
-<li><a href="/wiki/Boettcher" title="Boettcher">Böttcher/Boettcher</a>, <a href="/wiki/B%C3%B6ttger" title="Böttger">Böttger</a>, <a href="/wiki/B%C3%BCttner" title="Büttner">Büttner</a>, <a href="/wiki/Bittner" title="Bittner">Bittner</a>, <a href="/wiki/Bodner" title="Bodner">Bodner</a></li>
-<li><a href="/w/index.php?title=Sch%C3%A4ffler_(surname)&amp;action=edit&amp;redlink=1" class="new" title="Schäffler (surname) (page does not exist)">Schäffler</a>, <a href="/wiki/Scheffler" title="Scheffler">Scheffler</a>, <a href="/w/index.php?title=Schedler&amp;action=edit&amp;redlink=1" class="new" title="Schedler (page does not exist)">Schedler</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other Germanic</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Kuperus" title="Kuperus">Kuperus</a>, <a href="/wiki/Kuiper" title="Kuiper">Kuiper/Kuijper/Kuyper</a>, <a href="/wiki/Kuipers" title="Kuipers">Kuipers</a>/<a href="/wiki/Kuijpers" title="Kuijpers">Kuijpers</a>/<a href="/wiki/Kuypers" class="mw-redirect" title="Kuypers">Kuypers</a>, <a href="/wiki/Cuypers" title="Cuypers">Cuypers</a></li>
-<li><a href="/wiki/De_Cuyper" title="De Cuyper">De Cuyper</a></li>
-<li><a href="/wiki/B%C3%B8dker" class="mw-redirect" title="Bødker">Bødker</a> (<a href="/wiki/Bodker" title="Bodker">Bodker</a>)</li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Romance</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Le_Tonnelier" title="Le Tonnelier">Tonnelier</a></li>
-<li><a href="/wiki/Cubero" title="Cubero">Cubero</a>, <a href="/w/index.php?title=Boter&amp;action=edit&amp;redlink=1" class="new" title="Boter (page does not exist)">Boter</a>, <a href="/wiki/Botero" title="Botero">Botero</a></li>
-<li><a href="/wiki/Bottero" title="Bottero">Bottero</a>, <a href="/w/index.php?title=Botteri&amp;action=edit&amp;redlink=1" class="new" title="Botteri (page does not exist)">Botteri</a>,  <a href="/wiki/Bottaro" title="Bottaro">Bottaro</a>, <a href="/w/index.php?title=Bottai_(surname)&amp;action=edit&amp;redlink=1" class="new" title="Bottai (surname) (page does not exist)">Bottai</a></li>
-<li><a href="/wiki/Butnaru" title="Butnaru">Butnaru</a>, <a href="/wiki/Dogaru" title="Dogaru">Dogaru</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Slavic</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Bednarz" title="Bednarz">Bednarz</a>, <a href="/wiki/Bednarski" title="Bednarski">Bednarski</a>, <a href="/wiki/Bednarek" title="Bednarek">Bednarek</a>, <a href="/wiki/Bednarczyk" class="mw-redirect" title="Bednarczyk">Bednarczyk</a></li>
-<li><a href="/wiki/Bedn%C3%A1%C5%99" title="Bednář">Bednář</a>, <a href="/wiki/Bednarik" title="Bednarik">Bednařík</a></li>
-<li><a href="/wiki/Bodnar" title="Bodnar">Bodnar</a></li>
-<li><a href="/wiki/Bondar" title="Bondar">Bondar</a>, <a href="/wiki/Bondarenko" title="Bondarenko">Bondarenko</a>, <a href="/wiki/Bondarchuk" title="Bondarchuk">Bondarchuk</a>, <a href="/wiki/Bondarev" title="Bondarev">Bondarev</a></li>
-<li><a href="/wiki/Bocharov" title="Bocharov">Bocharov</a>, <a href="/wiki/Bochkaryov" class="mw-redirect" title="Bochkaryov">Bochkaryov</a> (<a href="/wiki/Bochkarev" title="Bochkarev">Bochkarev</a>)</li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Baltic</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Kubilius" title="Kubilius">Kubilius</a>, <a href="/wiki/Mucenieks" title="Mucenieks">Mucenieks</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/K%C3%A1d%C3%A1r" title="Kádár">Kádár</a>, <a href="/wiki/Bodn%C3%A1r" class="mw-redirect" title="Bodnár">Bodnár</a> (Hungarian from Slavic), <a href="/wiki/P%C3%BCtsep" title="Pütsep">Pütsep</a>, <a href="/w/index.php?title=Varelas&amp;action=edit&amp;redlink=1" class="new" title="Varelas (page does not exist)">Varelas</a> (Βαρελάς, "barrel", "cooper")</li></ul>
-</div></td></tr></tbody></table></div>
-<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cooper_(surname)&amp;action=edit&amp;section=24" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hayward_(profession)&amp;action=edit&amp;section=1" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <div class="reflist" style="list-style-type: decimal;">
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ancestry.co.uk/name-origin?surname=cooper">"Cooper Surname Meaning and Distribution"</a>. ancestry.co.uk.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Cooper+Surname+Meaning+and+Distribution&amp;rft.pub=ancestry.co.uk&amp;rft_id=http%3A%2F%2Fwww.ancestry.co.uk%2Fname-origin%3Fsurname%3Dcooper&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACooper+%28surname%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style> Retrieved 23 January 2014</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Susa Young Gates (1918). <i>Surname book and racial history</i>. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=k8hrAAAAMAAJ&amp;pg=PA435">Pg. 435</a>. "Hay, or hedged enclosure-keeper; <a href="/wiki/Old_English" title="Old English">O. E.</a>, <i>haeg</i>, <i>haga</i>, hedged enclosure and <i>w(e)ard</i>, keeper. The duties of the hayward were of a varied nature. His chief task seems to have been to guard the cattle at pasture&#160;; also to protect the crops, trim the hedges, etc."</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://forebears.co.uk/surnames/cooper">"Cooper Surname Meaning and Distribution"</a>. forebears.co.uk.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Cooper+Surname+Meaning+and+Distribution&amp;rft.pub=forebears.co.uk&amp;rft_id=http%3A%2F%2Fforebears.co.uk%2Fsurnames%2Fcooper&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACooper+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/> Retrieved 23 January 2014</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://forebears.co.uk/surnames/haybittle#meaning">"Haybittle Surname Meaning &amp; Statistics"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Haybittle+Surname+Meaning+%26+Statistics&amp;rft_id=http%3A%2F%2Fforebears.co.uk%2Fsurnames%2Fhaybittle%23meaning&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHayward+%28profession%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
 </li>
 </ol></div></div>
-<style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
-<table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
-<tbody><tr>
-<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
-<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Cooper</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Cooper_(surname)&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
-</tr>
-</tbody></table>
 <!-- 
 NewPP limit report
-Parsed by mw1348
-Cached time: 20191020211512
+Parsed by mw1275
+Cached time: 20191007135006
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.268 seconds
-Real time usage: 0.370 seconds
-Preprocessor visited node count: 1113/1000000
+CPU time usage: 0.088 seconds
+Real time usage: 0.117 seconds
+Preprocessor visited node count: 121/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 21515/2097152 bytes
-Template argument size: 990/2097152 bytes
-Highest expansion depth: 9/40
-Expensive parser function count: 1/500
+Post‐expand include size: 1567/2097152 bytes
+Template argument size: 84/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 6079/5000000 bytes
+Unstrip post‐expand size: 3399/5000000 bytes
 Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.086/10.000 seconds
-Lua memory usage: 2.46 MB/50 MB
+Lua time usage: 0.053/10.000 seconds
+Lua memory usage: 1.41 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  262.317      1 -total
- 35.12%   92.119      1 Template:Reflist
- 29.91%   78.454      2 Template:Cite_web
- 25.12%   65.897      1 Template:Surname
- 21.43%   56.205      1 Template:Dmbox
- 15.94%   41.812      1 Template:Wiktionary
- 14.51%   38.073      1 Template:Sister_project
- 12.64%   33.162      1 Template:Side_box
-  9.57%   25.113      1 Template:Short_description
-  8.08%   21.192      1 Template:Pagetype
+100.00%  108.264      1 -total
+ 77.06%   83.433      1 Template:Reflist
+ 64.70%   70.043      1 Template:Cite_web
+ 20.56%   22.262      1 Template:Other_uses_of
+  2.48%    2.687      1 Template:Main_other
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:4400883-0!canonical and timestamp 20191020211512 and revision id 922236145
+<!-- Saved in parser cache with key enwiki:pcache:idhash:858196-0!canonical and timestamp 20191007135006 and revision id 906518707
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Cooper_(surname)&amp;oldid=922236145">https://en.wikipedia.org/w/index.php?title=Cooper_(surname)&amp;oldid=922236145</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Hayward_(profession)&amp;oldid=906518707">https://en.wikipedia.org/w/index.php?title=Hayward_(profession)&amp;oldid=906518707</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:English-language_surnames" title="Category:English-language surnames">English-language surnames</a></li><li><a href="/wiki/Category:Occupational_surnames" title="Category:Occupational surnames">Occupational surnames</a></li><li><a href="/wiki/Category:Surnames_of_English_origin" title="Category:Surnames of English origin">Surnames of English origin</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Animal_husbandry_occupations" title="Category:Animal husbandry occupations">Animal husbandry occupations</a></li><li><a href="/wiki/Category:Agricultural_occupations_(plant)" title="Category:Agricultural occupations (plant)">Agricultural occupations (plant)</a></li><li><a href="/wiki/Category:Historical_management_occupations" title="Category:Historical management occupations">Historical management occupations</a></li><li><a href="/wiki/Category:Medieval_occupations" title="Category:Medieval occupations">Medieval occupations</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -542,13 +113,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Cooper+%28surname%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Cooper+%28surname%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Hayward+%28profession%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hayward+%28profession%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Cooper_(surname)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Cooper_(surname)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Hayward_(profession)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Hayward_(profession)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -563,7 +134,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Cooper_(surname)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Cooper_(surname)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Cooper_(surname)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Hayward_(profession)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Hayward_(profession)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Hayward_(profession)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -602,35 +173,28 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Cooper_(surname)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Cooper_(surname)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Cooper_(surname)&amp;oldid=922236145" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Cooper_(surname)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1794217" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Cooper_%28surname%29&amp;id=922236145" title="Information on how to cite this page">Cite this page</a></li>				</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
-			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
-			<div class="body">
-								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Cooper_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Hayward_(profession)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Hayward_(profession)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Hayward_(profession)&amp;oldid=906518707" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Hayward_(profession)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q876571" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Hayward_%28profession%29&amp;id=906518707" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Cooper+%28surname%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Cooper+%28surname%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Cooper_(surname)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Hayward+%28profession%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Hayward+%28profession%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Hayward_(profession)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Cooper_(s%C3%A8%E2%81%BF)" title="Cooper (sèⁿ) – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Cooper_(p%C5%99%C3%ADjmen%C3%AD)" title="Cooper (příjmení) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Cooper_(Familienname)" title="Cooper (Familienname) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Cooper_(cognome)" title="Cooper (cognome) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Cooper" title="Cooper – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Cooper" title="Cooper – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1794217#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Cs%C5%91sz_(foglalkoz%C3%A1s)" title="Csősz (foglalkozás) – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q876571#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 20 October 2019, at 21:15<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 16 July 2019, at 11:19<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -641,7 +205,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Cooper_(surname)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Hayward_(profession)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -653,8 +217,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.268","walltime":"0.370","ppvisitednodes":{"value":1113,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":21515,"limit":2097152},"templateargumentsize":{"value":990,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":6079,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  262.317      1 -total"," 35.12%   92.119      1 Template:Reflist"," 29.91%   78.454      2 Template:Cite_web"," 25.12%   65.897      1 Template:Surname"," 21.43%   56.205      1 Template:Dmbox"," 15.94%   41.812      1 Template:Wiktionary"," 14.51%   38.073      1 Template:Sister_project"," 12.64%   33.162      1 Template:Side_box","  9.57%   25.113      1 Template:Short_description","  8.08%   21.192      1 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.086","limit":"10.000"},"limitreport-memusage":{"value":2580352,"limit":52428800}},"cachereport":{"origin":"mw1348","timestamp":"20191020211512","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Cooper (surname)","url":"https:\/\/en.wikipedia.org\/wiki\/Cooper_(surname)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1794217","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1794217","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-03-15T15:20:11Z","dateModified":"2019-10-20T21:15:06Z","headline":"family name"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":108,"wgHostname":"mw1251"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.088","walltime":"0.117","ppvisitednodes":{"value":121,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":1567,"limit":2097152},"templateargumentsize":{"value":84,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3399,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  108.264      1 -total"," 77.06%   83.433      1 Template:Reflist"," 64.70%   70.043      1 Template:Cite_web"," 20.56%   22.262      1 Template:Other_uses_of","  2.48%    2.687      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.053","limit":"10.000"},"limitreport-memusage":{"value":1473313,"limit":52428800}},"cachereport":{"origin":"mw1275","timestamp":"20191007135006","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Hayward (profession)","url":"https:\/\/en.wikipedia.org\/wiki\/Hayward_(profession)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q876571","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q876571","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-07-26T07:23:08Z","dateModified":"2019-07-16T11:19:44Z","headline":"officer of an English parish dating from the Middle Ages in charge of fences and enclosures"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw1330"});});</script>
 </body>
 </html>

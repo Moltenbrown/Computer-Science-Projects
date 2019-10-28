@@ -2,36 +2,35 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Heteronym (literature) - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Heteronym_(literature)","wgTitle":"Heteronym (literature)","wgCurRevisionId":921277393,"wgRevisionId":921277393,"wgArticleId":3332266,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Narrative techniques","Literary techniques"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Heteronym_(literature)","wgRelevantArticleId":3332266,"wgRequestId":"Xax88ApAMFcAABo4y3UAAABL","wgCSPNonce":!1,
-"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1136342","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready"
-,"mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.cite.tracking","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init",
-"ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Sindhi names - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Sindhi_names","wgTitle":"Sindhi names","wgCurRevisionId":922226931,"wgRevisionId":922226931,"wgArticleId":21088806,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Sindhi-language text","Pakistan-related lists","Sindhi names","Sindhi-language surnames","Sindhi tribes","Sindhi culture","Sindhi people","Names by culture","Pakistani names"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+"wgRelevantPageName":"Sindhi_names","wgRelevantArticleId":21088806,"wgRequestId":"XbL2EApAMFMAAErpc-QAAABS","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q7522216","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading",
+"ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.1"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Pessoacopo.jpg/1200px-Pessoacopo.jpg"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Heteronym_(literature)"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Heteronym_(literature)&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Heteronym_(literature)&amp;action=edit"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Sindhi_names"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Sindhi_names&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Sindhi_names&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Heteronym_(literature)"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Sindhi_names"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Heteronym_literature rootpage-Heteronym_literature skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Sindhi_names rootpage-Sindhi_names skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -40,7 +39,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Heteronym (literature)</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Sindhi names</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -51,595 +50,125 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Heteronym_(disambiguation)" class="mw-redirect mw-disambig" title="Heteronym (disambiguation)">Heteronym (disambiguation)</a>.</div>
-<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Pessoacopo.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Pessoacopo.jpg/200px-Pessoacopo.jpg" decoding="async" width="200" height="284" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Pessoacopo.jpg/300px-Pessoacopo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Pessoacopo.jpg/400px-Pessoacopo.jpg 2x" data-file-width="1298" data-file-height="1844" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Pessoacopo.jpg" class="internal" title="Enlarge"></a></div>Pessoa at Abel Pereira da Fonseca wine house, Fanqueiros Street, Lisbon, 1928.  <br /> Photo by Manuel Martins da Hora.</div></div></div>
-<p>The <a href="/wiki/Literature" title="Literature">literary</a> concept of the <b>heteronym</b> refers to one or more imaginary character(s) created by a writer to write in different styles. Heteronyms differ from <a href="/wiki/Pen_names" class="mw-redirect" title="Pen names">pen names</a> (or <a href="/wiki/Pseudonym" title="Pseudonym">pseudonyms</a>, from the Greek words for "false" and "name") in that the latter are just false names, while the former are characters that have their own supposed physiques, biographies, and writing styles.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
-</p><p>Heteronyms were named and developed by the <a href="/wiki/Portugal" title="Portugal">Portuguese</a> writer and poet <a href="/wiki/Fernando_Pessoa" title="Fernando Pessoa">Fernando Pessoa</a> in the early 20th Century, but they were thoroughly explored by the Danish philosopher <a href="/wiki/S%C3%B8ren_Kierkegaard" title="Søren Kierkegaard">Kierkegaard</a> in the 19th century and have also been used by other writers.
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Sindhi names</b>(<a href="/wiki/Sindhi_language" title="Sindhi language">Sindhi</a>: <span lang="sd" dir="rtl">سنڌي خانداني نالا</span>&#8206;) are given names and surnames used among <a href="/wiki/Sindhis" title="Sindhis">Sindhis</a> in <a href="/wiki/Pakistan" title="Pakistan">Pakistan</a>, <a href="/wiki/India" title="India">India</a>, and the <a href="/wiki/Sindhi_diaspora" title="Sindhi diaspora">Sindhi diaspora</a>.
 </p>
 <div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Pessoa&#39;s_heteronyms"><span class="tocnumber">1</span> <span class="toctext">Pessoa's heteronyms</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Álvaro_de_Campos"><span class="tocnumber">2</span> <span class="toctext">Álvaro de Campos</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#Alberto_Caeiro"><span class="tocnumber">3</span> <span class="toctext">Alberto Caeiro</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#Ricardo_Reis"><span class="tocnumber">4</span> <span class="toctext">Ricardo Reis</span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="#List_of_Pessoa&#39;s_heteronyms"><span class="tocnumber">5</span> <span class="toctext">List of Pessoa's heteronyms</span></a></li>
-<li class="toclevel-1 tocsection-6"><a href="#Other_writers_and_their_heteronyms"><span class="tocnumber">6</span> <span class="toctext">Other writers and their heteronyms</span></a></li>
-<li class="toclevel-1 tocsection-7"><a href="#Heteronyms_in_music"><span class="tocnumber">7</span> <span class="toctext">Heteronyms in music</span></a></li>
-<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
-<li class="toclevel-1 tocsection-9"><a href="#Notes"><span class="tocnumber">9</span> <span class="toctext">Notes</span></a></li>
-<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#Naming_convention"><span class="tocnumber">1</span> <span class="toctext">Naming convention</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Surnames"><span class="tocnumber">2</span> <span class="toctext">Surnames</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#History_of_Jokhio_tribe"><span class="tocnumber">3</span> <span class="toctext">History of Jokhio tribe</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Sources"><span class="tocnumber">6</span> <span class="toctext">Sources</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a></li>
 </ul>
 </div>
 
-<h2><span id="Pessoa.27s_heteronyms"></span><span class="mw-headline" id="Pessoa's_heteronyms">Pessoa's heteronyms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heteronym_(literature)&amp;action=edit&amp;section=1" title="Edit section: Pessoa&#039;s heteronyms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Heteronyms_Almada_1958.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/e/ec/Heteronyms_Almada_1958.jpg" decoding="async" width="250" height="242" class="thumbimage" data-file-width="250" data-file-height="242" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Heteronyms_Almada_1958.jpg" class="internal" title="Enlarge"></a></div><i><a href="/wiki/Alberto_Caeiro" class="mw-redirect" title="Alberto Caeiro">Alberto Caeiro</a></i>, <i><a href="/wiki/%C3%81lvaro_de_Campos" title="Álvaro de Campos">Álvaro de Campos</a></i>, <i><a href="/wiki/Ricardo_Reis" title="Ricardo Reis">Ricardo Reis</a></i>.<br /> <a href="/wiki/Fernando_Pessoa" title="Fernando Pessoa">Pessoa's</a> Heteronyms by <a href="/wiki/Almada_Negreiros" class="mw-redirect" title="Almada Negreiros">Almada Negreiros</a>, 1958.</div></div></div>
-<p>In Pessoa's case, there are at least 70 heteronyms (according to the latest count by Pessoa's editor Teresa Rita Lopes). Some of them are relatives or know each other; they criticise and translate each other's works. Pessoa's three chief heteronyms are Alberto Caeiro, Ricardo Reis and <a href="/wiki/%C3%81lvaro_de_Campos" title="Álvaro de Campos">Álvaro de Campos</a>; the latter two consider the former their master. There are also two whom Pessoa called <i>semi-heteronyms</i>, <a href="/wiki/Bernardo_Soares" class="mw-redirect" title="Bernardo Soares">Bernardo Soares</a> and the Baron of Teive, who are semi-autobiographical characters who write in prose, "a mere mutilation" of the Pessoa personality. There is, lastly, an <i>orthonym</i>, <a href="/wiki/Fernando_Pessoa" title="Fernando Pessoa">Fernando Pessoa</a>, the namesake of the author, who also considers Caeiro his master.
-</p><p>The heteronyms dialogue with each other and even with Pessoa in what he calls "the theatre of being" or "drama in people". They sometimes intervened in Pessoa's social life: during Pessoa's only attested romance, a jealous Campos wrote letters to the girl, who enjoyed the game and wrote back.
-</p><p>Pessoa, also an amateur astrologer, created in 1915 the heteronym Raphael Baldaya, a long bearded astrologer. He elaborated horoscopes of his main heteronyms in order to determine their personalities.
-</p><p><b>Fernando Pessoa on the heteronyms</b>
+<h2><span class="mw-headline" id="Naming_convention">Naming convention</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sindhi_names&amp;action=edit&amp;section=1" title="Edit section: Naming convention">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Most Sindhi family names are a modified form of a <a href="/wiki/Patronymic" title="Patronymic">patronymic</a> and typically end with the suffix -ani, which is used to denote descent from a common male ancestor. One explanation states that the -ani suffix is a <a href="/wiki/Sindhi_language" title="Sindhi language">Sindhi</a> variant of 'anshi', derived from the <a href="/wiki/Sanskrit" title="Sanskrit">Sanskrit</a> word 'ansh', which means 'descended from'. The first part of a Sindhi surname is usually derived from the name or location of an ancestor. In northern Sindh, surnames ending in 'ja' (meaning 'of') are also common. A person's surname would consist of the name of his or her native village, followed by 'ja'. Sindhis generally add the suffix ‘ani’ to the name of a great grandfather and adopt the name as a family name.there many tribe belong to sindh like jokhio. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
 </p>
-<blockquote><p>How do I write in the name of these three? Caeiro, through sheer and unexpected inspiration, without knowing or even suspecting that I’m going to write in his name. Ricardo Reis, after an abstract meditation, which suddenly takes concrete shape in an ode. Campos, when I feel a sudden impulse to write and don’t know what. (My semi-heteronym Bernardo Soares, who in many ways resembles Álvaro de Campos, always appears when I'm sleepy or drowsy, so that my qualities of inhibition and rational thought are suspended; his prose is an endless reverie. He’s a semi-heteronym because his personality, although not my own, doesn’t differ from my own but is a mere mutilation of it. He’s me without my rationalism and emotions. His prose is the same as mine, except for certain formal restraint that reason imposes on my own writing, and his Portuguese is exactly the same – whereas Caeiro writes bad Portuguese, Campos writes it reasonably well but with mistakes such as "me myself" instead of "I myself", etc.., and Reis writes better than I, but with a purism I find excessive...)</p></blockquote>
-<dl><dd><dl><dd><dl><dd><dl><dd>Fernando Pessoa, Letter to Adolfo Casais Monteiro, 13.01.1935, in <i>The Book of Disquiet</i>, tr. Richard Zenith, Penguin Classics, 2002, p. 474.</dd></dl></dd></dl></dd></dl></dd></dl>
-<p><b>George Steiner on the heteronyms</b>
+<h2><span class="mw-headline" id="Surnames">Surnames</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sindhi_names&amp;action=edit&amp;section=2" title="Edit section: Surnames">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sindhi surnames are commonly associated with tribes.
 </p>
-<blockquote><p>Pseudonymous writing is not rare in literature or philosophy (Kierkegaard provides a celebrated instance). 'Heteronyms', as Pessoa called and defined them, are something different and exceedingly strange. For each of his 'voices', Pessoa conceived a highly distinctive poetic idiom and technique, a complex biography, a context of literary influence and polemics and, most arrestingly of all, subtle interrelations and reciprocities of awareness. Octavio Paz defines Caeiro as 'everything that Pessoa is not and more'.
-He is a man magnificently at home in nature, a virtuoso of pre-Christian innocence, almost a Portuguese teacher of Zen. Reis is a stoic Horatian, a pagan believer in fate, a player with classical myths less original than Caeiro, but more representative of modern symbolism. De Campos emerges as a Whitmanesque futurist, a dreamer in drunkenness, the Dionysian singer of what is oceanic and windswept in Lisbon. None of this triad resembles the metaphysical solitude, the sense of being an occultist medium which characterise Pessoa's 'own' intimate verse.</p></blockquote>
-<dl><dd><dl><dd><dl><dd><dl><dd>George Steiner, "A man of many parts", in <i>The Observer</i>, Sunday, 3 June 2001.</dd></dl></dd></dl></dd></dl></dd></dl>
-<p><b>Richard Zenith on the heteronyms</b>
+<div class="div-col columns column-width" style="-moz-column-width: 15em; -webkit-column-width: 15em; column-width: 15em;">
+<ul><li><a href="/wiki/Abro" title="Abro">Abro</a></li>
+<li><a href="/wiki/Bapar" title="Bapar">Bapar</a></li>
+<li><a href="/wiki/Bhangar" title="Bhangar">Bhangar</a></li>
+<li><a href="/wiki/Bhatt" class="mw-redirect" title="Bhatt">Bhatt</a></li>
+<li><a href="/wiki/Bhatti" class="mw-redirect" title="Bhatti">Bhatti</a></li>
+<li><a href="/wiki/Bhatia_(caste)" class="mw-redirect" title="Bhatia (caste)">Bhatia</a></li>
+<li><a href="/w/index.php?title=Baharwani&amp;action=edit&amp;redlink=1" class="new" title="Baharwani (page does not exist)">Baharwani</a></li>
+<li><a href="/wiki/Bellani" title="Bellani">Bellani</a></li>
+<li><a href="/wiki/Bhel_(tribe)" title="Bhel (tribe)">Bhel</a></li>
+<li><a href="/wiki/Bhil" class="mw-redirect" title="Bhil">Bhil</a></li>
+<li><a href="/w/index.php?title=Bharchoond&amp;action=edit&amp;redlink=1" class="new" title="Bharchoond (page does not exist)">Bharchoond</a></li>
+<li><a href="/wiki/Bhutto" title="Bhutto">Bhutto</a></li>
+<li><a href="/wiki/Bijarani" class="mw-redirect" title="Bijarani">Bijarani</a></li>
+<li><a href="/w/index.php?title=Binyani&amp;action=edit&amp;redlink=1" class="new" title="Binyani (page does not exist)">Binyani</a></li>
+<li><a href="/wiki/Brahma_Kshatri" class="mw-redirect" title="Brahma Kshatri">Brahmkhatri</a></li>
+<li><a href="/w/index.php?title=Buller_(Sindhi_name)&amp;action=edit&amp;redlink=1" class="new" title="Buller (Sindhi name) (page does not exist)">Buller</a></li>
+<li><a href="/wiki/Chachar" title="Chachar">Chachar</a></li>
+<li><a href="/wiki/Channa" title="Channa">Channa</a></li>
+<li><a href="/w/index.php?title=Dall_(tribe)&amp;action=edit&amp;redlink=1" class="new" title="Dall (tribe) (page does not exist)">Dall</a></li>
+<li><a href="/wiki/Damanis" class="mw-redirect" title="Damanis">Damanis</a></li>
+<li><a href="/wiki/Dayo" class="mw-redirect" title="Dayo">Dayo</a></li>
+<li><a href="/w/index.php?title=Dahar_clan&amp;action=edit&amp;redlink=1" class="new" title="Dahar clan (page does not exist)">Dahar</a></li>
+<li><a href="/wiki/Depar" class="mw-redirect" title="Depar">Depar</a></li>
+<li><a href="/wiki/Deshwali" title="Deshwali">Deswali</a></li>
+<li><a href="/w/index.php?title=Dolani&amp;action=edit&amp;redlink=1" class="new" title="Dolani (page does not exist)">Dolani</a></li>
+<li><a href="/w/index.php?title=Gaad_(%D9%BB%D8%B1%D9%88%DA%86)&amp;action=edit&amp;redlink=1" class="new" title="Gaad (ٻروچ) (page does not exist)">Gaad (ٻروچ)</a></li>
+<li><a href="/w/index.php?title=Gaincho&amp;action=edit&amp;redlink=1" class="new" title="Gaincho (page does not exist)">Gaincho</a></li>
+<li><a href="/wiki/Hashmi" class="mw-redirect" title="Hashmi">Hashmi</a></li>
+<li><a href="/w/index.php?title=Hashmani&amp;action=edit&amp;redlink=1" class="new" title="Hashmani (page does not exist)">Hashmani</a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ∗ <a href="/w/index.php?title=Iboupota(Ibupota)&amp;action=edit&amp;redlink=1" class="new" title="Iboupota(Ibupota) (page does not exist)">Iboupota(Ibupota)</a></li>
+<li><a href="/wiki/Jatoi_(tribe)" title="Jatoi (tribe)">Jatoi</a></li>
+<li><a href="/wiki/Jokhio" class="mw-redirect" title="Jokhio">Jokhio</a></li>
+<li><a href="/wiki/Joyo_(tribe)" class="mw-redirect" title="Joyo (tribe)">Joyo</a></li>
+<li><a href="/wiki/Jogi" title="Jogi">Jogi</a></li>
+<li><a href="/wiki/Jarwar" title="Jarwar">Jarwar</a></li>
+<li><a href="/wiki/Junejo" title="Junejo">Junejo</a></li>
+<li><a href="/wiki/Kharal" title="Kharal">Kharal</a></li>
+<li><a href="/wiki/Kalhoro" class="mw-redirect" title="Kalhoro">Kalhoro</a></li>
+<li><a href="/wiki/Kalwar_(caste)" title="Kalwar (caste)">Kalwar</a></li>
+<li><a href="/wiki/Katiyar" title="Katiyar">Katiyar</a></li>
+<li><a href="/wiki/Kutchi_people" title="Kutchi people">Kutchi</a></li>
+<li><a href="/wiki/Kambarzahi" class="mw-redirect" title="Kambarzahi">Kambarzahi</a></li>
+<li><a href="/wiki/Khoja" title="Khoja">Khoja</a></li>
+<li><a href="/wiki/Kolhi" title="Kolhi">Kolhi</a></li>
+<li><a href="/wiki/Lakhani_tribe" class="mw-redirect" title="Lakhani tribe">Lakhani</a></li>
+<li><a href="/wiki/Lanjwani" title="Lanjwani">Lanjwani</a></li>
+<li><a href="/wiki/Lakho" class="mw-redirect" title="Lakho">Lakho</a></li>
+<li><a href="/wiki/Larik" title="Larik">Larik</a></li>
+<li><a href="/w/index.php?title=Laungani&amp;action=edit&amp;redlink=1" class="new" title="Laungani (page does not exist)">Laungani</a></li>
+<li><a href="/wiki/Lohana" title="Lohana">Lohana</a></li>
+<li><a href="/wiki/Mangnejo" title="Mangnejo">Mangnejo</a></li>
+<li><a href="/w/index.php?title=Mangwano&amp;action=edit&amp;redlink=1" class="new" title="Mangwano (page does not exist)">Mangwano</a></li>
+<li><a href="/wiki/Mallaah" title="Mallaah">Mallaah</a></li>
+<li><a href="/wiki/Manjhi_(tribe)" title="Manjhi (tribe)">Manjhi</a></li>
+<li><a href="/wiki/Meghwar" class="mw-redirect" title="Meghwar">Meghwar</a></li>
+<li><a href="/wiki/Sindhi_Memons" class="mw-redirect" title="Sindhi Memons">Memon</a></li>
+<li><a href="/w/index.php?title=Malani_(tribe)&amp;action=edit&amp;redlink=1" class="new" title="Malani (tribe) (page does not exist)">Malani</a></li>
+<li><a href="/w/index.php?title=Nagdev&amp;action=edit&amp;redlink=1" class="new" title="Nagdev (page does not exist)">Nagdev</a></li>
+<li><a href="/wiki/Narejo" class="mw-redirect" title="Narejo">Narejo</a></li>
+<li><a href="/wiki/Nihalani" class="mw-disambig" title="Nihalani">Nihalani</a></li>
+<li><a href="/wiki/Palh" title="Palh">Palh</a></li>
+<li><a href="/wiki/Palijo" title="Palijo">Palijo</a></li>
+<li><a href="/w/index.php?title=PHULL&amp;action=edit&amp;redlink=1" class="new" title="PHULL (page does not exist)">PHULL</a></li>
+<li><a href="/w/index.php?title=Panhwar&amp;action=edit&amp;redlink=1" class="new" title="Panhwar (page does not exist)">Panhwar</a></li>
+<li><a href="/wiki/Qazi" class="mw-redirect" title="Qazi">Qazi</a></li>
+<li><a href="/w/index.php?title=Rajper&amp;action=edit&amp;redlink=1" class="new" title="Rajper (page does not exist)">Rajper</a></li>
+<li><a href="/w/index.php?title=Rustamani&amp;action=edit&amp;redlink=1" class="new" title="Rustamani (page does not exist)">Rustamani</a></li>
+<li><a href="/w/index.php?title=Saand&amp;action=edit&amp;redlink=1" class="new" title="Saand (page does not exist)">Saand</a></li>
+<li><a href="/w/index.php?title=Sandeela&amp;action=edit&amp;redlink=1" class="new" title="Sandeela (page does not exist)">Sandeela</a></li>
+<li><a href="/wiki/Samejo" title="Samejo">Samejo</a></li>
+<li><a href="/wiki/Shaikh" class="mw-redirect" title="Shaikh">Shaikh</a></li>
+<li><a href="/wiki/Soomro" title="Soomro">Soomro</a></li>
+<li><a href="/wiki/Samma_(tribe)" title="Samma (tribe)">Samoo</a></li>
+<li><a href="/w/index.php?title=Suhriyani&amp;action=edit&amp;redlink=1" class="new" title="Suhriyani (page does not exist)">Suhriyani</a></li>
+<li><a href="/wiki/Wassan" title="Wassan">Wassan</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="History_of_Jokhio_tribe">History of Jokhio tribe</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sindhi_names&amp;action=edit&amp;section=3" title="Edit section: History of Jokhio tribe">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The existence of <a href="/wiki/Jokhio" class="mw-redirect" title="Jokhio">Jokhio</a> tribe witnessed in early 12th <a href="/wiki/Century" title="Century">century</a>, but history revealed their powerful existence in 13th century when they become the major part of ruling struggle between then rulers <a href="/wiki/King" title="King">King</a> Dari vs. <a href="/wiki/Kalhora" title="Kalhora">Kalhora</a>, later throughout the era of rule of Mirs (1800). The <a href="/wiki/Jokhio" class="mw-redirect" title="Jokhio">Jokhio</a> tribe is one of original tribe of Sindh and exists through centuries. <a href="/wiki/Jokhio" class="mw-redirect" title="Jokhio">Jokhio</a> tribe supposed to migrate from Hangore (Blochistan) to Sindh particularly in the vicinity of Shah Norani Toms towards north side). 800 years old historical “Chukhandi” <a href="/wiki/Graveyard" class="mw-redirect" title="Graveyard">graveyard</a> of <a href="/wiki/Jokhio" class="mw-redirect" title="Jokhio">Jokhio</a> tribe on national highway proved that this tribe is one oldest one in the <a href="/wiki/Province" title="Province">province</a> of Sindh after “Mirbahes”. Among the many converts to <a href="/wiki/Mahomedanism" class="mw-redirect" title="Mahomedanism">Mahomedanism</a> is <a href="/wiki/Sindh" title="Sindh">Sindh</a> were the Semma, or Soomera family or tribe of <a href="/wiki/Rajpoots" class="mw-redirect" title="Rajpoots">Rajpoots</a>, whose princes are mentioned in the Introductory Sketch of the History of <a href="/wiki/Sindh" title="Sindh">Sindh</a>. They were Jams of Tattah, and reigned until deposed by the Mahomedans, having, during their incumbency, embraced Mahomedanism. This branch of the family remained in <a href="/wiki/Sindh" title="Sindh">Sindh</a>, while the Hindoo branch is represented at present by the chiefs of Cutch, who bear the title of Jam. Of the Sindh Jams the head is (or was) Mihr Ali, an unquiet old man of seventy, who possess large estates in land, of which he has relinquished some portions paid from the treasury .The estate is badly managed and yields comparatively little revenue. The Jokhyas represented belong to the police, and are armed in the usual manner. It will be seen at a glance how widely their features differ from those of real Mahmedan tribes, how they utterly lack the comeliness and dignity of the Belochees. It is very probable that they intermarry in their own tribe exclusively, and thus the ancient Hindoo physiognomy, in this case a remarkably ugly type, has been preserved. <a href="/wiki/Jokhio" class="mw-redirect" title="Jokhio">Jokhio</a> tribe always has played tremendous role in political, social and economical uplift of the area in the larger interest of local community. This effort kept up their separate identity of Jokhio tribe either at local, provincial or national level. This tribe always maintained their status of independent, loyalty and patriotism. This brave and enough <a href="/wiki/Populated" class="mw-redirect" title="Populated">populated</a> <a href="/wiki/Tribe" title="Tribe">tribe</a> set some peaceful and positive examples. Since the independence of <a href="/wiki/Pakistan" title="Pakistan">Pakistan</a> many Governments sworn in but <a href="/wiki/Jokhio" class="mw-redirect" title="Jokhio">Jokhio</a> <a href="/wiki/Tribe" title="Tribe">tribe</a> have uphold their standing of neutrality .these <b>government</b> either political or non-political due to their community strength always considered <a href="/wiki/Jokhio" class="mw-redirect" title="Jokhio">Jokhio</a> <a href="/wiki/Tribe" title="Tribe">tribe</a> by them and listed in the tribes, who supported and worked for progress, prosperity, peace and security of Pakistan . COMMUNITY INFORMATION: Leading to 0.500 million Jokhio tribesman living throughout Sindh province. Out of them 0.25 million living in rural part of Karachi viz Malir and Karachi west. Also recognized and followed by other communities like Memon, Khaskhali, Sarhandi, Jamote and Mirbehar of Thatta, Malir, Gadap town Karachi .About0125 million peoples belongs to these communities reside in Malir district. There are about 370 plus villages of Jokhio tribesmen existing in the province. Out of them about 325 exist in district Thatta, Malir and Karachi west where 0.4 million population live. The remaining situated in the interior Sindh where about 0.1 million populations reside. About 50% of the population of rural Karachi is Jokhio tribesmen. Social Background: Besides being a chief of Jokhio Supreme Council <b>Jam Bijar Khan</b> supporting to Tanzeem-e-Itehad Jokhia Sindh and other NGO’s of <a href="/wiki/Jokhio" class="mw-redirect" title="Jokhio">Jokhio</a> Community working in <a href="/wiki/Thatta" title="Thatta">Thatta</a>, <a href="/wiki/Malir" class="mw-redirect" title="Malir">Malir</a> and <a href="/wiki/Karachi" title="Karachi">Karachi</a> west district. Supporting to NGO’s of other then <a href="/wiki/Jokhio" class="mw-redirect" title="Jokhio">Jokhio</a> community engaged of 4r uplift of their community. Political Background Became elected MPA of Sindh in 1985 in non party elections from district <a href="/wiki/Thatta" title="Thatta">Thatta</a>. Supported to then MNA Haji Usman Jalbani who was elected MNA in 1985 from <a href="/wiki/District" title="District">district</a> <a href="/wiki/Thatta" title="Thatta">Thatta</a>. Social and political support was continued in all forthcoming elections held after 1985 for provincial, national and local bodies to the dignities, tribesmen etc. This support leaded the Jokhio tribesmen in the election of local bodies held in the past and succeeds to hold the office of <a href="/wiki/District" title="District">district</a> council Karachi by six members, one member in ZMC East, one member in district council <a href="/wiki/Thatta" title="Thatta">Thatta</a>. Whereas chairmanship of three union councils of district <a href="/wiki/Thatta" title="Thatta">Thatta</a>, two union councils of district <a href="/wiki/Malir" class="mw-redirect" title="Malir">Malir</a> and one union council of <a href="/wiki/District" title="District">district</a> west remained with <a href="/wiki/Jokhio" class="mw-redirect" title="Jokhio">Jokhio</a> tribesmen. There were also many councilors in the councils of <a href="/wiki/Thatta" title="Thatta">Thatta</a> and <a href="/wiki/Karachi" title="Karachi">Karachi</a> <a href="/wiki/Rural" class="mw-redirect" title="Rural">rural</a>. Current Elected Representative of <a href="/wiki/Jokhio" class="mw-redirect" title="Jokhio">Jokhio</a> tribe’s new local Govt sestem2001. Nazim and Naib-Nazim three union councils are Bin Qasim Town viz Rehri and Gaghar about 60 councilors of various categories. Nazim and Naib-Nazim of four union councils are Gadap Town viz Murad <a href="/w/index.php?title=Mamen&amp;action=edit&amp;redlink=1" class="new" title="Mamen (page does not exist)">Mamen</a> uc Darsano chhano uc, Songal uc, <a href="/wiki/Gadap" title="Gadap">Gadap</a> uc and Gajro uc about 120 councilors of various categories <a href="/wiki/Jokhio" class="mw-redirect" title="Jokhio">Jokhio</a>, <a href="/w/index.php?title=Jokhia&amp;action=edit&amp;redlink=1" class="new" title="Jokhia (page does not exist)">Jokhia</a> or Jokhiya (Urdu:جوکھيو) is the Samma tribe settled in <a href="/wiki/Sindh" title="Sindh">Sindh</a> and Balochistan, Pakistan. Chaukhandi tombs (چوکنڈی) are attributed to <a href="/wiki/Jokhio" class="mw-redirect" title="Jokhio">Jokhio</a> tribes and were build between 15th and 18th centuries, situated 29 km east of Karachi on N-5 National Highway near <a href="/wiki/Landhi" title="Landhi">Landhi</a> Town. <a href="/w/index.php?title=Chaukhandi&amp;action=edit&amp;redlink=1" class="new" title="Chaukhandi (page does not exist)">Chaukhandi</a> cemetery, consisting of names or <a href="/wiki/Quranic" class="mw-redirect" title="Quranic">Quranic</a> Verse. Some of the Jams who were named were said to belong to the <a href="/wiki/Jokhio" class="mw-redirect" title="Jokhio">Jokhio</a> tribe still resident in the area.and the 1st raitar Mr, Ali Muhammad Jokhio of Jokhio History
 </p>
-<blockquote><p>Álvaro de Campos, the poet-persona who grew old with Pessoa and held a privileged place in his inventor’s hearts. Soares, the assistant bookkeeper and Campos, the naval engineer never met in the pen-and-paper drama of Pessoa’s heteronyms, who were frequently pitted against one other, but the two writer-characters were spiritual brothers, even if their worldly occupations were at odds. Campos wrote prose, as well as poetry, and much of it reads at it came, so to speak, from the hand of Soares. Pessoa was often unsure who was writing when he wrote, and it’s curious that the very first item among the more than 25,000 pieces that make up his archives in the National Library of Lisbon bears the heading  <i>A. de C. (?) or B. de D.  (or something else).</i></p></blockquote>
-<dl><dd><dl><dd><dl><dd><dl><dd>Richard Zenith, introduction to <i>The Book of Disquiet</i>, Penguin Classics, 2002, p. XI.</dd></dl></dd></dl></dd></dl></dd></dl>
-<h2><span id=".C3.81lvaro_de_Campos"></span><span class="mw-headline" id="Álvaro_de_Campos">Álvaro de Campos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heteronym_(literature)&amp;action=edit&amp;section=2" title="Edit section: Álvaro de Campos">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>This heteronym was created by <a href="/wiki/Fernando_Pessoa" title="Fernando Pessoa">Fernando Pessoa</a> as an <i><a href="/wiki/Alter_ego" title="Alter ego">alter ego</a></i> who inherited his role from <b>Alexander Search</b> and this one from <b>Charles Robert Anon</b>. The latter was created when Pessoa lived in <a href="/wiki/Durban" title="Durban">Durban</a>, while Search was created in 1906, when Pessoa was a student at Lisbon's University, in search of his Portuguese cultural identity, after his return from <a href="/wiki/Durban" title="Durban">Durban</a>. 
-</p><p>Anon was supposedly English, while Search, although English, was born in Lisbon. After the Portuguese republican revolution, in 1910, and consequent patriotic atmosphere, Pessoa dropped his English heteronyms and <b>Álvaro de Campos</b> was created as a Portuguese <i><a href="/wiki/Alter_ego" title="Alter ego">alter ego</a></i>. Álvaro de Campos, born in 1890, was supposedly a Portuguese naval engineer graduated in <a href="/wiki/Glasgow" title="Glasgow">Glasgow</a>. 
-</p><p>Campos sailed to the Orient, living experiences that he describes in his poem "Opiarium". He worked in London (1915), Barrow on Furness and Newcastle (1922), but became unemployed, and returned to Lisbon in 1926, the year of the military putsch that installed dictatorship. He also wrote "Lisbon Revisited (1923)" and "Lisbon Revisited (1926)".
-</p><p>Campos was a <a href="/wiki/Decadentism" title="Decadentism">decadent</a> poet, but he embraced <a href="/wiki/Futurism" title="Futurism">Futurism</a>; his poetry was strongly influenced by <a href="/wiki/Walt_Whitman" title="Walt Whitman">Walt Whitman</a> and <a href="/wiki/Marinetti" class="mw-redirect" title="Marinetti">Marinetti</a>. He wrote the "Ode Triumphal" and "Ode Maritime", published in the literary journal <i><a href="/wiki/Gera%C3%A7%C3%A3o_de_Orpheu" title="Geração de Orpheu">Orpheu</a></i>, in 1915, and other unfinished. 
-</p><p>while unemployed in Lisbon, he became depressed, returning to <a href="/wiki/Decadentism" title="Decadentism">Decadentism</a> and <a href="/wiki/Pessimism" title="Pessimism">Pessimism</a>. 
-Then he wrote his master work, "Tobacco Shop", published in 1933, in the literary journal <i><a href="/wiki/Presen%C3%A7a" title="Presença">Presença</a></i>.
-</p>
-<h2><span class="mw-headline" id="Alberto_Caeiro">Alberto Caeiro</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heteronym_(literature)&amp;action=edit&amp;section=3" title="Edit section: Alberto Caeiro">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Pessoa created this heteronym as "Master" of the other heteronyms and even Pessoa himself. 
-This fictional character was born in 1889 and died in 1915, at 26, the same age of Pessoa's best friend <a href="/wiki/M%C3%A1rio_de_S%C3%A1-Carneiro" title="Mário de Sá-Carneiro">Mário de Sá-Carneiro</a>, who killed himself in Paris, in 1916. Thus, Sá-Carneiro seems to have inspired, at least partially, Alberto Caeiro.
-</p><p>Caeiro was a humble man of poor education, but a great poet "naif", he was born in Lisbon, but lives almost his life in the countryside, Ribatejo, near Lisbon, where he died. However, his poetry is full of philosophy. He wrote "Poemas Inconjuntos" (Disconnected Poems) and "O Guardador de Rebanhos" (The Keeper of Sheep), published by <a href="/wiki/Fernando_Pessoa" title="Fernando Pessoa">Fernando Pessoa</a> in his "Art Journal" <i>Athena</i> in 1924-25.
-</p><p>In a famous letter to the literary critic Adolfo Casais Monteiro, dated January 13, 1935, Pessoa describes his "triumphal day", March 8, 1914, when Caeiro "appeared", making him write down all the poetry of "The Keeper of Sheep" at once. Caeiro influenced the Neopaganism of Pessoa, and of the heteronyms António Mora and Ricardo Reis. Poetically, he influenced mainly the Neoclassicism of Reis, which is connected to Paganism.
-</p>
-<h2><span class="mw-headline" id="Ricardo_Reis">Ricardo Reis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heteronym_(literature)&amp;action=edit&amp;section=4" title="Edit section: Ricardo Reis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:Carta_astral_ricardo_reis.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Carta_astral_ricardo_reis.jpg/300px-Carta_astral_ricardo_reis.jpg" decoding="async" width="300" height="226" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/f/f1/Carta_astral_ricardo_reis.jpg 1.5x" data-file-width="437" data-file-height="329" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Carta_astral_ricardo_reis.jpg" class="internal" title="Enlarge"></a></div>Astrological chart of the heteronym <i>Ricardo Reis</i> by Fernando Pessoa.</div></div></div>
-<p>This heteronym was created by <a href="/wiki/Fernando_Pessoa" title="Fernando Pessoa">Pessoa</a> as a Portuguese doctor born in <a href="/wiki/Oporto" class="mw-redirect" title="Oporto">Oporto</a>, in September 19, 1887. Reis supposedly studied at a boarding school run by <a href="/wiki/Jesuit" class="mw-redirect" title="Jesuit">Jesuits</a> in which he received a classical education. He was an amateur <a href="/wiki/Latinist" class="mw-redirect" title="Latinist">latinist</a> and poet; politically a monarchist, he went into exile to Brazil after the defeat of a monarchical rebellion against the <a href="/wiki/Portuguese_Republic" class="mw-redirect" title="Portuguese Republic">Portuguese Republic</a> in 1919. Ricardo Reis reveals his <a href="/wiki/Epicureanism" title="Epicureanism">Epicureanism</a> and <a href="/wiki/Stoicism" title="Stoicism">Stoicism</a> in the "Odes by Ricardo Reis", published by <a href="/wiki/Fernando_Pessoa" title="Fernando Pessoa">Pessoa</a> in 1924, in his literary journal <i>Athena</i>.
-</p><p>Since <a href="/wiki/Fernando_Pessoa" title="Fernando Pessoa">Pessoa</a> didn't determine the death of Reis, one can assume that he survived his author who died in 1935. In <i><a href="/wiki/The_Year_of_the_Death_of_Ricardo_Reis" title="The Year of the Death of Ricardo Reis">The Year of the Death of Ricardo Reis</a></i> (1984), Portuguese <a href="/wiki/Nobel_prize" class="mw-redirect" title="Nobel prize">nobel prize</a> <a href="/wiki/Jos%C3%A9_Saramago" title="José Saramago">José Saramago</a> rebuilds, in his own personal outlook, the literary world of this heteronym after 1935, creating a dialog between Ricardo Reis and the ghost of his author.
-</p>
-<h2><span id="List_of_Pessoa.27s_heteronyms"></span><span class="mw-headline" id="List_of_Pessoa's_heteronyms">List of Pessoa's heteronyms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heteronym_(literature)&amp;action=edit&amp;section=5" title="Edit section: List of Pessoa&#039;s heteronyms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<table class="wikitable" border="1" width="100%">
-
-<tbody><tr>
-<th>No.</th>
-<th>Name</th>
-<th>Type</th>
-<th>*Notes
-</th></tr>
-<tr>
-<td>1</td>
-<td>Fernando António Nogueira Pessoa</td>
-<td>himself</td>
-<td>Commercial correspondent in Lisbon
-</td></tr>
-<tr>
-<td>2</td>
-<td>Fernando Pessoa</td>
-<td>orthonym</td>
-<td>Poet and prose writer
-</td></tr>
-<tr>
-<td>3</td>
-<td>Fernando Pessoa</td>
-<td>autonym</td>
-<td>Poet and prose writer
-</td></tr>
-<tr>
-<td>4</td>
-<td>Fernando Pessoa</td>
-<td>heteronym</td>
-<td>Poet, a pupil of Alberto Caeiro
-</td></tr>
-<tr>
-<td>5</td>
-<td>Alberto Caeiro</td>
-<td>heteronym</td>
-<td>Poet, author of 'O guardador de Rebanhos','O Pastor Amoroso' and 'Poemas inconjuntos', master of Fernando Pessoa heteronyms, Álvaro de Campos, Ricardo Reis, António Mora and Coelho Pacheco
-</td></tr>
-<tr>
-<td>6</td>
-<td>Ricardo Reis</td>
-<td>heteronym</td>
-<td>Poet and prose writer, author of 'Odes' and texts on the work of Alberto Caeiro. <i>Biographical note</i>: (Oporto, 1887–1936). He graduated in medicine  and is an unconditional admirer of the Greek civilisation above all others, and considers himself to be an expatriate from Greece. Being a royalist he chooses to emigrate to Brazil in 1919 (Portuguese monarchy had been overthrown in 1910). In his neoclassical odes he ponders on the briefness of life, the inevitability of death and the helplessness of  the human condition. This “sad epicure” tries to find some contentment through the acceptance of fate and self-discipline lives by Horatio’s a motto: carpe diem (seize the day).
-</td></tr>
-<tr>
-<td>7</td>
-<td>Frederico  Reis</td>
-<td>heteronym/para-heteronym</td>
-<td>Essayist, brother of Ricardo Reis, upon whom he writes
-</td></tr>
-<tr>
-<td>8</td>
-<td>Álvaro de Campos</td>
-<td>heteronym</td>
-<td>Poet and prose writer, a pupil of Alberto Caeiro. <i>Biographical note</i>: Álvaro de Campos. (Tavira, Algarve, 1890 -&#160;?). He studies naval engineering in Scotland. He feels a foreigner wherever he is. Suffocated by a tedious and monotonous existence, failing to see the meaning of life, he looks for new sensations and travels to the Far East. When he comes back he is a renewed man. He embraces the futuristic movement and worships industrialisation and scientific and technological progress, with its hectic relentless rhythm and continuous change. There is an ecstasy of the senses, his relationship with machines and charcoal and steel is almost erotic. But in the background of this modern world lurk the shadows of the assembly line, the pollution, the emptiness of material things. The darkness of what is to come —eventually Campos tires. In his third phase, profoundly disenchanted with the present, he evokes the long-gone days of his perfectly happy childhood.
-</td></tr>
-<tr>
-<td>9</td>
-<td>António Mora</td>
-<td>heteronym</td>
-<td>Philosopher and sociologist, theorist of Neopaganism, a pupil of Alberto Caeiro
-</td></tr>
-<tr>
-<td>10</td>
-<td>Claude Pasteur</td>
-<td>heteronym/semi-heteronym</td>
-<td>French, translator of "CADERNOS DE RECONSTRUÇÃO PAGÃ" conducted by Antonio Mora
-</td></tr>
-<tr>
-<td>11</td>
-<td>Bernardo Soares</td>
-<td>heteronym/semi-heteronym</td>
-<td>Poet and prose writer, author of the 'Book of Disquiet'
-</td></tr>
-<tr>
-<td>12</td>
-<td>Vicente Guedes</td>
-<td>heteronym/semi-heteronym</td>
-<td>Translator, poet, and director of Ibis Press, author of a paper
-</td></tr>
-<tr>
-<td>13</td>
-<td>Gervásio Guedes</td>
-<td>heteronym/para-heteronym</td>
-<td>Author of the text 'A Coroação de Jorge Quinto'
-</td></tr>
-<tr>
-<td>14</td>
-<td>Alexander Search</td>
-<td>heteronym</td>
-<td>Poet and short story writer
-</td></tr>
-<tr>
-<td>15</td>
-<td>Charles James Search</td>
-<td>heteronym/para-heteronym</td>
-<td>Translator and essayist, brother of Alexander Search
-</td></tr>
-<tr>
-<td>16</td>
-<td>Jean-Méluret of Seoul</td>
-<td>heteronym/proto-heteronym</td>
-<td>French Poet and Essayist
-</td></tr>
-<tr>
-<td>17</td>
-<td>Rafael Baldaya</td>
-<td>heteronym</td>
-<td>Astrologer and author of 'Tratado da Negação' and 'Princípios de Metaphysica Esotérica'
-</td></tr>
-<tr>
-<td>18</td>
-<td>Barão de Teivo</td>
-<td>heteronym</td>
-<td>Prose writer, author of "Educação do Stoica" and "Daphnis e Chloe"
-</td></tr>
-<tr>
-<td>19</td>
-<td>Charles Robert Anon</td>
-<td>heteronym/semi-heteronym</td>
-<td>Poet, philosopher and story writer
-</td></tr>
-<tr>
-<td>20</td>
-<td>A. A. Crosse</td>
-<td>pseudonym/proto-heteronym</td>
-<td>Author and Puzzle-solver
-</td></tr>
-<tr>
-<td>21</td>
-<td>Thomas Crosse</td>
-<td>heteronym/proto-heteronym</td>
-<td>English epic character/occultist, popularised in Portuguese culture
-</td></tr>
-<tr>
-<td>22</td>
-<td>I. I. Crosse</td>
-<td>heteronym/para-heteronym</td>
-<td>----
-</td></tr>
-<tr>
-<td>23</td>
-<td>David Merrick</td>
-<td>heteronym/semi-heteronym</td>
-<td>Poet, storyteller and Playwright
-</td></tr>
-<tr>
-<td>24</td>
-<td>Lucas Merrick</td>
-<td>heteronym/para-heteronym</td>
-<td>Short story writer, perhaps brother David Merrick
-</td></tr>
-<tr>
-<td>25</td>
-<td>Pêro Botelho</td>
-<td>heteronym/pseudonym</td>
-<td>Short story writer and author of Letters
-</td></tr>
-<tr>
-<td>26</td>
-<td>Abílio Quaresma</td>
-<td>heteronym/character/meta-heteronym</td>
-<td>A character inspired by Botelho Pêro and author of short detective stories
-</td></tr>
-<tr>
-<td>27</td>
-<td>Inspector Guedes</td>
-<td>character/meta-heteronym?</td>
-<td>A character inspired by Botelho Pêro and author of short detective stories
-</td></tr>
-<tr>
-<td>28</td>
-<td>Uncle Pork</td>
-<td>pseudonym/character</td>
-<td>A character inspired by Botelho Pêro and author of short detective stories
-</td></tr>
-<tr>
-<td>29</td>
-<td>Frederick Wyatt</td>
-<td>alias/heteronym</td>
-<td>Poet and prose writer (in the English language)
-</td></tr>
-<tr>
-<td>30</td>
-<td>Rev. Walter Wyatt</td>
-<td>character</td>
-<td>Possibly brother of Frederick Wyatt
-</td></tr>
-<tr>
-<td>31</td>
-<td>Alfred Wyatt</td>
-<td>character</td>
-<td>Another brother of Frederick Wyatt/a resident of Paris
-</td></tr>
-<tr>
-<td>32</td>
-<td>Maria José</td>
-<td>heteronym/proto-heteronym</td>
-<td>Wrote and signed "A Carta da Corcunda para o Serralheiro"
-</td></tr>
-<tr>
-<td>33</td>
-<td>Chevalier de Pas</td>
-<td>pseudonym/proto-heteronym</td>
-<td>Author of poems and letters
-</td></tr>
-<tr>
-<td>34</td>
-<td>Efbeedee Pasha</td>
-<td>heteronym/proto-heteronym</td>
-<td>Author of humoristic "Stories"
-</td></tr>
-<tr>
-<td>35</td>
-<td>Faustino Antunes/A. Moreira</td>
-<td>heteronym/pseudonym</td>
-<td>Psychologist, author of "Ensaio sobre a Intuição"
-</td></tr>
-<tr>
-<td>36</td>
-<td>Carlos Otto</td>
-<td>heteronym/proto-heteronym</td>
-<td>Poet and author of "Tratado de Lucta Livre"
-</td></tr>
-<tr>
-<td>37</td>
-<td>Michael Otto</td>
-<td>pseudonym/para-heteronym</td>
-<td>Probably brother of Carlos Otto who was entrusted with the translation into English of "Tratado de Lucta Livre"
-</td></tr>
-<tr>
-<td>38</td>
-<td>Sebastian Knight??</td>
-<td>proto-heteronym/alias</td>
-<td>
-</td></tr>
-<tr>
-<td>39</td>
-<td>Horace James Faber</td>
-<td>heteronym/semi-heteronym</td>
-<td>short story writer and essayist (in English)
-</td></tr>
-<tr>
-<td>40</td>
-<td>Navas</td>
-<td>heteronym/para-heteronym</td>
-<td>Translated Horace James Faber in Portuguese
-</td></tr>
-<tr>
-<td>41</td>
-<td>Pantaleão</td>
-<td>heteronym/proto-heteronym</td>
-<td>Poet and prose
-</td></tr>
-<tr>
-<td>42</td>
-<td>Torquato Fonseca Mendes da Cunha Rey</td>
-<td>heteronym/meta-heteronym</td>
-<td>Deceased author of a text, Pantaleão decided to publish
-</td></tr>
-<tr>
-<td>43</td>
-<td>Joaquim Moura Costa</td>
-<td>proto-heteronym/semi-heteronym</td>
-<td>satirical poet, Republican activist, member of "O PHOSPHORO"
-</td></tr>
-<tr>
-<td>44</td>
-<td>Sher Henay</td>
-<td>proto-heteronym/pseudonym</td>
-<td>Compiler and author of the preface of a sensationalist anthology in English
-</td></tr>
-<tr>
-<td>45</td>
-<td>Anthony Gomes</td>
-<td>semi-heteronym/character</td>
-<td>Philosopher, author of "Historia Cómica do Affonso Çapateiro"
-</td></tr>
-<tr>
-<td>46</td>
-<td>Professor Trochee</td>
-<td>proto-heteronym/pseudonym</td>
-<td>Author of an essay with humorous advice for young poets
-</td></tr>
-<tr>
-<td>47</td>
-<td>Willyam Links Esk</td>
-<td>character</td>
-<td>Signed a letter written in English on 13/4/1905
-</td></tr>
-<tr>
-<td>48</td>
-<td>António de Seabra</td>
-<td>pseudonym/proto-heteronym</td>
-<td>Literary critic
-</td></tr>
-<tr>
-<td>49</td>
-<td>João Craveiro</td>
-<td>pseudonym/proto-heteronym</td>
-<td>Journalist, follower of Sidónio Pereira
-</td></tr>
-<tr>
-<td>50</td>
-<td>Tagus</td>
-<td>pseudonym</td>
-<td>Collaborator in "NATAL MERCURY"  (Durban, South Africa)
-</td></tr>
-<tr>
-<td>51</td>
-<td>Pipa Gomes</td>
-<td>draft heteronym</td>
-<td>Collaborator in "O PHOSPHORO"
-</td></tr>
-<tr>
-<td>52</td>
-<td>Ibis</td>
-<td>character/a pseudonym</td>
-<td>A character from Pessoa's childhood, accompanying him until the end of his life/also signed poems
-</td></tr>
-<tr>
-<td>53</td>
-<td>Dr. Gaudencio Turnips</td>
-<td>proto-heteronym/pseudonym</td>
-<td>Director of "O PALRADOR", English-Portuguese journalist and humorist
-</td></tr>
-<tr>
-<td>54</td>
-<td>Pip</td>
-<td>proto-heteronym/pseudonym</td>
-<td>Poet, humorous anecdotes. Predecessor of Dr. Pancrazio
-</td></tr>
-<tr>
-<td>55</td>
-<td>Dr. Pancrazio</td>
-<td>proto-heteronym/pseudonym</td>
-<td>Storyteller, poet and creator of charades
-</td></tr>
-<tr>
-<td>56</td>
-<td>Luís António Congo</td>
-<td>proto-heteronym/pseudonym</td>
-<td>Collaborator in "O PALRADOR", columnist and presenter of Lanca Eduardo
-</td></tr>
-<tr>
-<td>57</td>
-<td>Eduardo Lance</td>
-<td>proto-heteronym/pseudonym</td>
-<td>Luso-Brazilian poet
-</td></tr>
-<tr>
-<td>58</td>
-<td>A. Francisco de Paula Angard</td>
-<td>proto-heteronym/pseudonym</td>
-<td>Collaborator in "O PALRADOR", author of "textos scientificos"
-</td></tr>
-<tr>
-<td>59</td>
-<td>Pedro da Silva Salles/Zé Pad</td>
-<td>proto-heteronym/alias</td>
-<td>Author and director of the section of anecdotes at "O PALRADOR"
-</td></tr>
-<tr>
-<td>60</td>
-<td>José Rodrigues do Valle/Scicio</td>
-<td>proto-heteronym/alias</td>
-<td>"O PALRADOR", author of charades and 'literary manager'
-</td></tr>
-<tr>
-<td>61</td>
-<td>Dr. Caloiro</td>
-<td>proto-heteronym/pseudonym</td>
-<td>"O PALRADOR", reporter and author of "A pesca das pérolas"
-</td></tr>
-<tr>
-<td>62</td>
-<td>Adolph Moscow</td>
-<td>proto-heteronym/pseudonym</td>
-<td>"O PALRADOR", novelist, author of "Os Rapazes de Barrowby"
-</td></tr>
-<tr>
-<td>63</td>
-<td>Marvell Kisch</td>
-<td>proto-heteronym/pseudonym</td>
-<td>Author of a novel announced in "O PALRADOR", called  "A Riqueza de um Doido"
-</td></tr>
-<tr>
-<td>64</td>
-<td>Gabriel Keene</td>
-<td>proto-heteronym/pseudonym</td>
-<td>Author of a novel announced in "O PALRADOR", called  "Em Dias de Perigo"
-</td></tr>
-<tr>
-<td>65</td>
-<td>Sableton-Kay</td>
-<td>proto-heteronym/pseudonym</td>
-<td>Author of a novel announced in "O PALRADOR", called  "A Lucta Aérea"
-</td></tr>
-<tr>
-<td>66</td>
-<td>Morris &amp; Theodor</td>
-<td>pseudonym</td>
-<td>"O PALRADOR", author of charades
-</td></tr>
-<tr>
-<td>67</td>
-<td>Diabo Azul</td>
-<td>pseudonym</td>
-<td>"O PALRADOR", author of charades
-</td></tr>
-<tr>
-<td>68</td>
-<td>Parry</td>
-<td>pseudonym</td>
-<td>"O PALRADOR", author of charades
-</td></tr>
-<tr>
-<td>69</td>
-<td>Gallião Pequeno</td>
-<td>pseudonym</td>
-<td>"O PALRADOR", author of charades
-</td></tr>
-<tr>
-<td>70</td>
-<td>Urban Accursio</td>
-<td>alias</td>
-<td>"O PALRADOR", author of charades
-</td></tr>
-<tr>
-<td>71</td>
-<td>Cecília</td>
-<td>pseudonym</td>
-<td>"O PALRADOR", author of charades
-</td></tr>
-<tr>
-<td>72</td>
-<td>José rasteiro</td>
-<td>proto-heteronym/pseudonym</td>
-<td>"O PALRADOR", author of proverbs and riddles
-</td></tr>
-<tr>
-<td>73</td>
-<td>Nympha Negra</td>
-<td>pseudonym</td>
-<td>"O PALRADOR", author of charades
-</td></tr>
-<tr>
-<td>74</td>
-<td>Diniz da Silva</td>
-<td>pseudonym/proto-heteronym</td>
-<td>Author of the poem "Loucura" and collaborator in "EUROPE"
-</td></tr>
-<tr>
-<td>75</td>
-<td>Herr Prosit</td>
-<td>pseudonym</td>
-<td>Translator of 'O Estudante de Salamanca' by Espronceda
-</td></tr>
-<tr>
-<td>76</td>
-<td>Henry More</td>
-<td>proto-heteronym</td>
-<td>Author and prose writer
-</td></tr>
-<tr>
-<td>77</td>
-<td>Wardour</td>
-<td>character?</td>
-<td>Poet
-</td></tr>
-<tr>
-<td>78</td>
-<td>J. M. Hyslop</td>
-<td>character?</td>
-<td>Poet
-</td></tr>
-<tr>
-<td>79</td>
-<td>Vadooisf&#160;?</td>
-<td>Character?</td>
-<td>Poet
-</td></tr>
-</tbody></table>
-<h2><span class="mw-headline" id="Other_writers_and_their_heteronyms">Other writers and their heteronyms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heteronym_(literature)&amp;action=edit&amp;section=6" title="Edit section: Other writers and their heteronyms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/S%C3%B8ren_Kierkegaard" title="Søren Kierkegaard">Søren Kierkegaard</a> - Had more than a dozen heteronyms with distinct biographies and personalities.</li>
-<li><a href="/w/index.php?title=Bitty_Navarro&amp;action=edit&amp;redlink=1" class="new" title="Bitty Navarro (page does not exist)">Bitty Navarro</a> - Mexican-Spanish poet, asexual activist, and <a href="/wiki/Buzzfeed" class="mw-redirect" title="Buzzfeed">Buzzfeed</a> contributor, has explored heteronyms in poetry and microblogging.</li>
-<li><a href="/wiki/David_Solway" title="David Solway">David Solway</a>, Canadian writer, writing as <a href="/wiki/Andreas_Karavis" title="Andreas Karavis">Andreas Karavis</a>.</li>
-<li><a href="/wiki/Kent_Johnson" title="Kent Johnson">Kent Johnson</a>, American scholar and poet writing as <a href="/wiki/Araki_Yasusada" title="Araki Yasusada">Araki Yasusada</a>.</li>
-<li><a href="/wiki/Robin_Skelton" title="Robin Skelton">Robin Skelton</a>, Canadian poet and occultist, writing as French <a href="/wiki/Surrealist" class="mw-redirect" title="Surrealist">surrealist</a> Georges Zuk.</li>
-<li><a href="/wiki/Geoffrey_Hill" title="Geoffrey Hill">Geoffrey Hill</a>. English poet, translated <a href="/w/index.php?title=The_Songbook_Of_Sebastian_Arrurruz&amp;action=edit&amp;redlink=1" class="new" title="The Songbook Of Sebastian Arrurruz (page does not exist)">The Songbook Of Sebastian Arrurruz</a></li>
-<li><a href="/wiki/B.H._Fairchild" class="mw-redirect" title="B.H. Fairchild">B.H. Fairchild</a>, American poet, writing as Roy Eldridge Garcia.</li>
-<li><a href="/wiki/Daniel_Handler" title="Daniel Handler">Daniel Handler</a>, American writer, writing as <a href="/wiki/Lemony_Snicket" title="Lemony Snicket">Lemony Snicket</a>.</li>
-<li><a href="/wiki/Romain_Gary" title="Romain Gary">Romain Gary</a>, French writer, writing as Émile Ajar, Fosco Sinibaldi, Shatan Bogat.</li>
-<li><a href="/wiki/Antoine_Volodine" title="Antoine Volodine">Antoine Volodine</a>, French writer, writing as Elli Kronauer, Manuela Draeger, Lutz Bassman.</li>
-<li><a href="/wiki/Brian_O%27Nolan" title="Brian O&#39;Nolan">Brian O'Nolan</a> writing as Flann O'Brien and Myles na gCopaleen.</li>
-<li><a href="/wiki/Arnon_Grunberg" title="Arnon Grunberg">Arnon Grunberg</a> writing as Marek van der Jagt.</li>
-<li><a href="https://hy.wikipedia.org/wiki/%D4%B5%D5%B2%D5%AB%D5%A1_%D5%8F%D5%A5%D5%B4%D5%AB%D6%80%D5%B3%D5%AB%D5%BA%D5%A1%D5%B7%D5%B5%D5%A1%D5%B6" class="extiw" title="hy:Եղիա Տեմիրճիպաշյան">Eghia Temirchipashyan</a>, Armenian writer, writing as Graser Atom, Devanio, Melania, Nurania, Graser's Cat ...</li>
-<li><a href="/wiki/Raymond_A._Palmer" title="Raymond A. Palmer">Raymond A. Palmer</a> (1910-1977), American editor and writer; published stories under his own name and multiple pseudonyms, several of which were attributed different personalities and biographies (e.g., "A.E. Steber" was a Russian military officer who engaged in espionage against Nazi Germany before relocating to the US). <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></li>
-<li>Internet personality MsScribe - Had a similar number and variety of heteronyms to Kierkegaard, used to manipulate the <a href="/wiki/Harry_Potter_fandom" title="Harry Potter fandom">Harry Potter fandom</a>.</li>
-<li><a href="/wiki/Laura_Albert" title="Laura Albert">Laura Albert</a> (born 1955) wrote under the name <a href="/wiki/JT_LeRoy" title="JT LeRoy">JT LeRoy</a>, an adolescent male persona she described as an "avatar" that allowed her to write things that she was unable to write as herself.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></li>
-<li><a href="/wiki/Jane_Holland" title="Jane Holland">Jane Holland</a>, poet and novellist, also writes as Victoria Lamb, Elizabeth Moss, Beth Good and Hannah Coates.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></li></ul>
-<h2><span class="mw-headline" id="Heteronyms_in_music">Heteronyms in music</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heteronym_(literature)&amp;action=edit&amp;section=7" title="Edit section: Heteronyms in music">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Nicki_Minaj" title="Nicki Minaj">Nicki Minaj</a>, American singer and rapper also raps as Roman Zolanski and Harajuku Barbie.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></li></ul>
-<ul><li><a href="/wiki/MF_Doom" title="MF Doom">MF Doom</a> has several heteronyms such as Madvillain and Viktor Vaughn.</li></ul>
-<ul><li><a href="/wiki/Eminem" title="Eminem">Eminem</a> also raps as Marshall Mathers, Slim Shady, and Stan.</li></ul>
-<ul><li><a href="/wiki/Lawrence_Rothman" title="Lawrence Rothman">Lawrence Rothman</a> has nine heteronyms such as Elizabeth and Alesiter.</li></ul>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heteronym_(literature)&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Sock_puppet_(Internet)" class="mw-redirect" title="Sock puppet (Internet)">Sock puppet (Internet)</a></li></ul>
-<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heteronym_(literature)&amp;action=edit&amp;section=9" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sindhi_names&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Buriro" title="Buriro">Sindhi</a></li>
+<li><a href="/wiki/List_of_Pakistani_family_names" title="List of Pakistani family names">List of Pakistani family names</a></li>
+<li><a href="/wiki/Pakistani_name" title="Pakistani name">Pakistani name</a></li>
+<li><a href="/wiki/Depar" class="mw-redirect" title="Depar">Sindhi</a></li>
+<li><a href="/wiki/List_of_Pakistani_family_names" title="List of Pakistani family names">List of Pakistani family names</a></li>
+<li><a href="/wiki/Pakistani_name" title="Pakistani name">Pakistani name</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sindhi_names&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">ZENITH, Richard (2002), <i>The Book of Disquiet</i>, Penguin Classics, 2002.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.sindhishaan.com/article/history/hist_01_02c.html">http://www.sindhishaan.com/article/history/hist_01_02c.html</a></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Fred Nadis (2013) The Man From Mars: Ray Palmer's Amazing Pulp Journey, NY: Jeremy P. Tarcher/Penguin, p. 74</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation news">Sakhrani, Tarun (4 January 2016). <a rel="nofollow" class="external text" href="http://www.huffingtonpost.com/tarun-sakhrani/the-sindhis-of-sindh_b_8894284.html">"The Sindhis of Sindh And Beyond"</a>. <i>Huffington Post</i><span class="reference-accessdate">. Retrieved <span class="nowrap">9 August</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Huffington+Post&amp;rft.atitle=The+Sindhis+of+Sindh+And+Beyond&amp;rft.date=2016-01-04&amp;rft.aulast=Sakhrani&amp;rft.aufirst=Tarun&amp;rft_id=http%3A%2F%2Fwww.huffingtonpost.com%2Ftarun-sakhrani%2Fthe-sindhis-of-sindh_b_8894284.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASindhi+names" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Albert, Laura. <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=oxAHHXE0HOw">"Laura Albert at The Moth "My Avatar &amp; Me<span class="cs1-kern-right">"</span>"</a>. YouTube<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-01-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Laura+Albert+at+The+Moth+%22My+Avatar+%26+Me%22&amp;rft.pub=YouTube&amp;rft.aulast=Albert&amp;rft.aufirst=Laura&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoxAHHXE0HOw&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeteronym+%28literature%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
-</li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://thecra.co.uk/find-an-author/holland-jane/">"Jane Holland"</a>. <i>The Crime Readers' Association</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Crime+Readers%27+Association&amp;rft.atitle=Jane+Holland&amp;rft_id=https%3A%2F%2Fthecra.co.uk%2Ffind-an-author%2Fholland-jane%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeteronym+%28literature%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.papermag.com/2012/04/a_guide_to_the_many_personalities_of_nicki_minaj.php">"A Guide to the Many Personalities of Nicki Minaj"</a>. <i>www.papermag.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-08-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.papermag.com&amp;rft.atitle=A+Guide+to+the+Many+Personalities+of+Nicki+Minaj&amp;rft_id=http%3A%2F%2Fwww.papermag.com%2F2012%2F04%2Fa_guide_to_the_many_personalities_of_nicki_minaj.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeteronym+%28literature%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-</ol></div>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heteronym_(literature)&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>See the introductory parts in:  
-</p>
-<ul><li><i>Fernando Pessoa &amp; Co: Selected Poems</i>, edited and translated by Richard Zenith, Grove Press, 1999</li>
-<li><i>The Selected Prose of Fernando Pessoa</i>, edited and translated by Richard Zenith, Grove Press, 2002</li>
-<li><i>The Book of Disquiet</i>, edited and translated by Richard Zenith, Penguin classics, 2003</li></ul>
-<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heteronym_(literature)&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a rel="nofollow" class="external text" href="https://www.theguardian.com/books/2001/jun/03/poetry.features1">George Steiner, "A man of many parts".</a></li>
-<li><a rel="nofollow" class="external text" href="http://www.vidaslusofonas.pt/fernando_pessoa2.htm">Fernando Pessoa at Vidas Lusófonas</a></li></ul>
+</ol></div></div><p> perhiar
+</p><h2><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sindhi_names&amp;action=edit&amp;section=6" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Bherumal Mahirchand Advani, <b>"Amilan-jo-Ahwal" - published in Sindhi, 1919</b></li>
+<li><b>Amilan-jo-Ahwal (1919) - translated into English in 2016 ("A History of the Amils")</b> at <a rel="nofollow" class="external text" href="http://www.saibaba-fund.org/sindhis.html">sindhis</a></li></ul>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sindhi_names&amp;action=edit&amp;section=7" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation book">Vaswani, J. P. (2008). <i>I Am a Sindhi: The Glorious Sindhi Heritage / The Culture and Folklore of Sind</i>. Sterling Publishers. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9788120738072" title="Special:BookSources/9788120738072"><bdi>9788120738072</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=I+Am+a+Sindhi%3A+The+Glorious+Sindhi+Heritage+%2F+The+Culture+and+Folklore+of+Sind&amp;rft.pub=Sterling+Publishers&amp;rft.date=2008&amp;rft.isbn=9788120738072&amp;rft.aulast=Vaswani&amp;rft.aufirst=J.+P.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASindhi+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
 <div role="navigation" class="navbox" aria-labelledby="Personal_names_and_anthroponymy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Personal_names" title="Template:Personal names"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Personal_names" title="Template talk:Personal names"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Personal_names&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Personal_names_and_anthroponymy" style="font-size:114%;margin:0 4em"><a href="/wiki/Personal_name" title="Personal name">Personal names</a> and <a href="/wiki/Anthroponymy" title="Anthroponymy">anthroponymy</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*Personal_identity">
 <ul><li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a></li></ul>
 </div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Personal_name" title="Personal name">Personal name</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
@@ -688,7 +217,7 @@ This fictional character was born in 1889 and died in 1915, at 26, the same age 
 <li><a href="/wiki/List_of_one-word_stage_names" title="List of one-word stage names">List of one-word stage names</a></li></ul></li>
 <li><a href="/wiki/Ring_name" title="Ring name">Ring name</a></li>
 <li><a href="/wiki/Pen_name" title="Pen name">Pen name</a>
-<ul><li><a class="mw-selflink selflink">Heteronym</a></li></ul></li>
+<ul><li><a href="/wiki/Heteronym_(literature)" title="Heteronym (literature)">Heteronym</a></li></ul></li>
 <li><a href="/wiki/Username" class="mw-redirect" title="Username">Username</a></li></ul>
 </div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By culture<br /><small><a href="/wiki/Surnames_by_country" title="Surnames by country">Surnames by country</a><br /><a href="/wiki/Courtesy_name" title="Courtesy name">Courtesy names</a></small></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
 <ul><li><a href="/wiki/Albanian_name" title="Albanian name">Albanian</a></li>
@@ -759,7 +288,7 @@ This fictional character was born in 1889 and died in 1915, at 26, the same age 
 <li><a href="/wiki/Scandinavian_family_name_etymology#Norway" title="Scandinavian family name etymology">Norwegian</a></li>
 <li><a href="/wiki/Pakistani_name" title="Pakistani name">Pakistani</a>
 <ul><li><small><a href="/wiki/Pashtun_name" title="Pashtun name">Pashtun</a></small></li>
-<li><small><a href="/wiki/Sindhi_names" title="Sindhi names">Sindhi</a></small></li></ul></li>
+<li><small><a class="mw-selflink selflink">Sindhi</a></small></li></ul></li>
 <li><a href="/wiki/Persian_name" title="Persian name">Persian</a></li>
 <li><a href="/wiki/Polish_name" title="Polish name">Polish</a></li>
 <li><a href="/wiki/Portuguese_name" title="Portuguese name">Portuguese</a></li>
@@ -856,41 +385,46 @@ This fictional character was born in 1889 and died in 1915, at 26, the same age 
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1310
-Cached time: 20191014220917
+Parsed by mw1301
+Cached time: 20191020200548
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.216 seconds
-Real time usage: 0.266 seconds
-Preprocessor visited node count: 355/1000000
+CPU time usage: 0.324 seconds
+Real time usage: 0.412 seconds
+Preprocessor visited node count: 496/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 40096/2097152 bytes
-Template argument size: 0/2097152 bytes
-Highest expansion depth: 6/40
+Post‐expand include size: 39928/2097152 bytes
+Template argument size: 168/2097152 bytes
+Highest expansion depth: 8/40
 Expensive parser function count: 0/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 9095/5000000 bytes
+Unstrip post‐expand size: 5255/5000000 bytes
 Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.077/10.000 seconds
-Lua memory usage: 2.51 MB/50 MB
+Lua time usage: 0.206/10.000 seconds
+Lua memory usage: 10.02 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  157.746      1 -total
- 56.78%   89.574      3 Template:Cite_web
- 23.83%   37.588      1 Template:Other_uses
- 12.88%   20.319      1 Template:Personal_names
- 11.95%   18.846      2 Template:Navbox
+100.00%  339.348      1 -total
+ 58.24%  197.639      1 Template:Lang-sd
+ 25.93%   87.997      1 Template:Reflist
+ 23.25%   78.896      1 Template:Cite_news
+  7.05%   23.925      1 Template:Names_in_world_cultures
+  5.49%   18.621      2 Template:Navbox
+  4.85%   16.448      1 Template:Div_col
+  2.28%    7.743      1 Template:Cite_book
+  1.24%    4.208      2 Template:Main_other
+  0.90%    3.042      1 Template:Column-width
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:3332266-0!canonical and timestamp 20191014220917 and revision id 921277393
+<!-- Saved in parser cache with key enwiki:pcache:idhash:21088806-0!canonical and timestamp 20191020200548 and revision id 922226931
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Heteronym_(literature)&amp;oldid=921277393">https://en.wikipedia.org/w/index.php?title=Heteronym_(literature)&amp;oldid=921277393</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sindhi_names&amp;oldid=922226931">https://en.wikipedia.org/w/index.php?title=Sindhi_names&amp;oldid=922226931</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Narrative_techniques" title="Category:Narrative techniques">Narrative techniques</a></li><li><a href="/wiki/Category:Literary_techniques" title="Category:Literary techniques">Literary techniques</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Pakistan-related_lists" title="Category:Pakistan-related lists">Pakistan-related lists</a></li><li><a href="/wiki/Category:Sindhi_names" title="Category:Sindhi names">Sindhi names</a></li><li><a href="/wiki/Category:Sindhi-language_surnames" title="Category:Sindhi-language surnames">Sindhi-language surnames</a></li><li><a href="/wiki/Category:Sindhi_tribes" title="Category:Sindhi tribes">Sindhi tribes</a></li><li><a href="/wiki/Category:Sindhi_culture" title="Category:Sindhi culture">Sindhi culture</a></li><li><a href="/wiki/Category:Sindhi_people" title="Category:Sindhi people">Sindhi people</a></li><li><a href="/wiki/Category:Names_by_culture" title="Category:Names by culture">Names by culture</a></li><li><a href="/wiki/Category:Pakistani_names" title="Category:Pakistani names">Pakistani names</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_Sindhi-language_text" title="Category:Articles containing Sindhi-language text">Articles containing Sindhi-language text</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -906,13 +440,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Heteronym+%28literature%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Heteronym+%28literature%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sindhi+names" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Sindhi+names" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Heteronym_(literature)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Heteronym_(literature)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Sindhi_names" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Sindhi_names" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -927,7 +461,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Heteronym_(literature)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Heteronym_(literature)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Heteronym_(literature)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Sindhi_names">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Sindhi_names&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Sindhi_names&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -966,28 +500,28 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Heteronym_(literature)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Heteronym_(literature)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Heteronym_(literature)&amp;oldid=921277393" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Heteronym_(literature)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1136342" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Heteronym_%28literature%29&amp;id=921277393" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Sindhi_names" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Sindhi_names" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Sindhi_names&amp;oldid=922226931" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Sindhi_names&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7522216" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sindhi_names&amp;id=922226931" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Heteronym+%28literature%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Heteronym+%28literature%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Heteronym_(literature)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Sindhi+names">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Sindhi+names&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Sindhi_names&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Heter%C3%B2nim" title="Heterònim – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Heteronym" title="Heteronym – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Heteronym" title="Heteronym – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Heter%C3%B3nimo" title="Heterónimo – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/H%C3%A9t%C3%A9ronyme" title="Hétéronyme – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Heter%C3%B3nimo" title="Heterónimo – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Eteronimia" title="Eteronimia – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%94%D7%98%D7%A8%D7%95%D7%A0%D7%99%D7%9D" title="הטרונים – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%93%D0%B5%D1%82%D0%B5%D1%80%D0%BE%D0%BD%D0%B8%D0%BC%D0%B4%D0%B5%D1%80" title="Гетеронимдер – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Heteroniem" title="Heteroniem – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E8%A6%86%E9%9D%A2%E4%BD%9C%E5%AE%B6" title="覆面作家 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Heteronym_(litteratur)" title="Heteronym (litteratur) – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Heteronim" title="Heteronim – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Heteron%C3%ADmia" title="Heteronímia – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%82%D0%B5%D1%80%D0%BE%D0%BD%D0%B8%D0%BC" title="Гетероним – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Heteronym" title="Heteronym – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Heteronyymi_(kirjallisuus)" title="Heteronyymi (kirjallisuus) – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Heteronym_(litteratur)" title="Heteronym (litteratur) – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%93%D0%B5%D1%82%D0%B5%D1%80%D0%BE%D0%BD%D1%96%D0%BC" title="Гетеронім – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%95%B0%E5%90%8D_(%E6%96%87%E5%AD%B8%E6%8A%80%E5%B7%A7)" title="異名 (文學技巧) – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1136342#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%D8%B3%D9%86%DA%8C%D9%8A_%D9%86%D8%A7%D9%84%D8%A7" title="سنڌي نالا – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%AC%D9%88%DA%A9%DA%BE%DB%8C%D9%88" title="جوکھیو – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7522216#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 14 October 2019, at 22:09<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 20 October 2019, at 20:05<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -998,7 +532,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Heteronym_(literature)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Sindhi_names&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -1010,8 +544,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.216","walltime":"0.266","ppvisitednodes":{"value":355,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":40096,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":9095,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  157.746      1 -total"," 56.78%   89.574      3 Template:Cite_web"," 23.83%   37.588      1 Template:Other_uses"," 12.88%   20.319      1 Template:Personal_names"," 11.95%   18.846      2 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.077","limit":"10.000"},"limitreport-memusage":{"value":2627854,"limit":52428800}},"cachereport":{"origin":"mw1310","timestamp":"20191014220917","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Heteronym (literature)","url":"https:\/\/en.wikipedia.org\/wiki\/Heteronym_(literature)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1136342","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1136342","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-12-05T21:43:19Z","dateModified":"2019-10-14T22:09:15Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/05\/Pessoacopo.jpg","headline":"imaginary character created by a writer to write in different styles"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":117,"wgHostname":"mw1252"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.324","walltime":"0.412","ppvisitednodes":{"value":496,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":39928,"limit":2097152},"templateargumentsize":{"value":168,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":5255,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  339.348      1 -total"," 58.24%  197.639      1 Template:Lang-sd"," 25.93%   87.997      1 Template:Reflist"," 23.25%   78.896      1 Template:Cite_news","  7.05%   23.925      1 Template:Names_in_world_cultures","  5.49%   18.621      2 Template:Navbox","  4.85%   16.448      1 Template:Div_col","  2.28%    7.743      1 Template:Cite_book","  1.24%    4.208      2 Template:Main_other","  0.90%    3.042      1 Template:Column-width"]},"scribunto":{"limitreport-timeusage":{"value":"0.206","limit":"10.000"},"limitreport-memusage":{"value":10504871,"limit":52428800}},"cachereport":{"origin":"mw1301","timestamp":"20191020200548","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Sindhi names","url":"https:\/\/en.wikipedia.org\/wiki\/Sindhi_names","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7522216","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7522216","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-01-14T08:24:40Z","dateModified":"2019-10-20T20:05:46Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":101,"wgHostname":"mw1248"});});</script>
 </body>
 </html>

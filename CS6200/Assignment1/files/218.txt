@@ -2,35 +2,35 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Armstrong (surname) - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Armstrong_(surname)","wgTitle":"Armstrong (surname)","wgCurRevisionId":916607997,"wgRevisionId":916607997,"wgArticleId":13192029,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","All set index articles","Surnames","English-language surnames","Scottish-language surnames","Surnames of Lowland Scottish origin","Surnames of Ulster-Scottish origin"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov",
-"Dec"],"wgRelevantPageName":"Armstrong_(surname)","wgRelevantArticleId":13192029,"wgRequestId":"XbFBPwpAMEoAABxiFxAAAACP","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q13627772","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":
-"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.cite.tracking","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
-"ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Farmer (surname) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Farmer_(surname)","wgTitle":"Farmer (surname)","wgCurRevisionId":909415737,"wgRevisionId":909415737,"wgArticleId":27434276,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","All set index articles","Surnames","Occupational surnames","English-language surnames"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Farmer_(surname)","wgRelevantArticleId":27434276,
+"wgRequestId":"XbScowpAICgAALAZ5DEAAABT","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q5435709","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready",
+"mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.2"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Armstrong_(surname)"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Armstrong_(surname)&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Armstrong_(surname)&amp;action=edit"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Farmer_(surname)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Farmer_(surname)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Farmer_(surname)&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Armstrong_(surname)"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Farmer_(surname)"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Armstrong_surname rootpage-Armstrong_surname skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Farmer_surname rootpage-Farmer_surname skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -39,7 +39,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Armstrong (surname)</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Farmer (surname)</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -50,225 +50,155 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em"><caption>Armstrong</caption><tbody><tr><th colspan="2" style="text-align:center;background:#ADD8E6">Origin</th></tr><tr><th scope="row">Meaning</th><td>Son of a strong man</td></tr><tr><th scope="row">Region of origin</th><td>North East England, Scotland,Ireland</td></tr></tbody></table>
-<p><b>Armstrong</b> is a surname of <a href="/wiki/Scottish_borders" class="mw-redirect" title="Scottish borders">Scottish borders</a> origin. It derives from a <a href="/wiki/Middle_English" title="Middle English">Middle English</a> nickname which meant someone with strong arms.  In Ireland the name was adopted as an <a href="/wiki/Anglicisation" title="Anglicisation">Anglicization</a> of two <a href="/wiki/Gaels" title="Gaels">Gaelic</a> names from <a href="/wiki/Ulster" title="Ulster">Ulster</a>: <i>Mac Thréinfhir</i> (meaning "son of the strong man") and <i>Ó Labhraidh Tréan</i> (meaning "strong O'Lavery").<sup id="cite_ref-dictamfam_1-0" class="reference"><a href="#cite_note-dictamfam-1">&#91;1&#93;</a></sup>  <a href="/wiki/Clan_Armstrong" title="Clan Armstrong">Clan Armstrong</a> is a <a href="/wiki/Clan" title="Clan">clan</a> from the border area between England and Scotland.<sup id="cite_ref-dobson2003_2-0" class="reference"><a href="#cite_note-dobson2003-2">&#91;2&#93;</a></sup>  The Scottish Armstrong is reputed to have been originally bestowed by "an antient (sic) king of Scotland" upon "Fairbairn, his armour-bearer" following an act of strength in battle.<sup id="cite_ref-Lower1844_3-0" class="reference"><a href="#cite_note-Lower1844-3">&#91;3&#93;</a></sup> In the UK this surname is well represented in <a href="/wiki/North_East_England" title="North East England">North East England</a>, <a href="/wiki/Cumbria" title="Cumbria">Cumbria</a>, <a href="/wiki/Lancashire" title="Lancashire">Lancashire</a>, <a href="/wiki/Yorkshire" title="Yorkshire">Yorkshire</a>, <a href="/wiki/Scottish_Borders" title="Scottish Borders">Scottish Borders</a>, <a href="/wiki/Lanarkshire" title="Lanarkshire">Lanarkshire</a>, <a href="/wiki/Ayrshire" title="Ayrshire">Ayrshire</a>, <a href="/wiki/Dumfries_%26_Galloway" class="mw-redirect" title="Dumfries &amp; Galloway">Dumfries &amp; Galloway</a>, and <a href="/wiki/Northern_Ireland" title="Northern Ireland">Northern Ireland</a>, and in the US it is well represented in the <a href="/wiki/Deep_south" class="mw-redirect" title="Deep south">Deep south</a>, and other <a href="/wiki/Southern_United_States" title="Southern United States">southern states</a>.
-</p><p>From the name <i>Ó Labhraidh Tréan</i> (meaning "strong O'Lavery" and sometimes written in AngloIrish as "Tréanlámagh") the following surnames survive: "Trainor", Traynor", O'Lavery", "McLavery", and "MacLavery". Although the name "Armstrong" is quite common in the Aghagallon and Glenavy area of County Antrim in Northern Ireland, the other names are to be found within the 9 Ulster Counties and Scotland, especially along the west coast.
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Farmer</b> is an English surname. Although an occupationally derived surname, it was not given to tillers of the soil, but to collectors of taxes and tithes specializing in the collection of funds from farming leases.<sup id="cite_ref-surnamedb_1-0" class="reference"><a href="#cite_note-surnamedb-1">&#91;1&#93;</a></sup>  In 2000, there were 68,309 people with the last name Farmer in the United States, making it the 431st most common last name in the nation.<sup id="cite_ref-census_2-0" class="reference"><a href="#cite_note-census-2">&#91;2&#93;</a></sup>
 </p>
 <div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Real_people"><span class="tocnumber">1</span> <span class="toctext">Real people</span></a>
-<ul>
-<li class="toclevel-2 tocsection-2"><a href="#Disambiguation_of_common_names_with_this_surname"><span class="tocnumber">1.1</span> <span class="toctext">Disambiguation of common names with this surname</span></a></li>
-<li class="toclevel-2 tocsection-3"><a href="#Arts_and_letters"><span class="tocnumber">1.2</span> <span class="toctext">Arts and letters</span></a></li>
-<li class="toclevel-2 tocsection-4"><a href="#Politics_and_government"><span class="tocnumber">1.3</span> <span class="toctext">Politics and government</span></a></li>
-<li class="toclevel-2 tocsection-5"><a href="#Religion"><span class="tocnumber">1.4</span> <span class="toctext">Religion</span></a></li>
-<li class="toclevel-2 tocsection-6"><a href="#Science_and_technology"><span class="tocnumber">1.5</span> <span class="toctext">Science and technology</span></a></li>
-<li class="toclevel-2 tocsection-7"><a href="#Sports"><span class="tocnumber">1.6</span> <span class="toctext">Sports</span></a></li>
-<li class="toclevel-2 tocsection-8"><a href="#Other"><span class="tocnumber">1.7</span> <span class="toctext">Other</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-9"><a href="#Fictional_people"><span class="tocnumber">2</span> <span class="toctext">Fictional people</span></a></li>
-<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#Notable_people_bearing_the_surname_Farmer"><span class="tocnumber">1</span> <span class="toctext">Notable people bearing the surname Farmer</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
 </ul>
 </div>
 
-<h2><span class="mw-headline" id="Real_people">Real people</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Armstrong_(surname)&amp;action=edit&amp;section=1" title="Edit section: Real people">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Disambiguation_of_common_names_with_this_surname">Disambiguation of common names with this surname</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Armstrong_(surname)&amp;action=edit&amp;section=2" title="Edit section: Disambiguation of common names with this surname">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Brad_Armstrong_(disambiguation)" class="mw-redirect mw-disambig" title="Brad Armstrong (disambiguation)">Brad Armstrong (disambiguation)</a> several people</li>
-<li><a href="/wiki/Charles_Armstrong_(disambiguation)" class="mw-redirect mw-disambig" title="Charles Armstrong (disambiguation)">Charles Armstrong (disambiguation)</a> several people</li>
-<li><a href="/wiki/Chris_Armstrong_(disambiguation)" class="mw-redirect mw-disambig" title="Chris Armstrong (disambiguation)">Chris Armstrong (disambiguation)</a> several people</li>
-<li><a href="/wiki/Craig_Armstrong_(disambiguation)" class="mw-redirect mw-disambig" title="Craig Armstrong (disambiguation)">Craig Armstrong (disambiguation)</a> several people:</li>
-<li><a href="/wiki/David_Armstrong_(disambiguation)" class="mw-redirect mw-disambig" title="David Armstrong (disambiguation)">David Armstrong (disambiguation)</a> several people</li>
-<li><a href="/wiki/Edward_Armstrong_(disambiguation)" class="mw-redirect mw-disambig" title="Edward Armstrong (disambiguation)">Edward Armstrong (disambiguation)</a> several people</li>
-<li><a href="/wiki/Gary_Armstrong_(disambiguation)" class="mw-redirect mw-disambig" title="Gary Armstrong (disambiguation)">Gary Armstrong (disambiguation)</a> several people</li>
-<li><a href="/wiki/George_Armstrong_(disambiguation)" class="mw-redirect mw-disambig" title="George Armstrong (disambiguation)">George Armstrong (disambiguation)</a> several people</li>
-<li><a href="/wiki/Harry_Armstrong_(disambiguation)" class="mw-redirect mw-disambig" title="Harry Armstrong (disambiguation)">Harry Armstrong (disambiguation)</a> or Henry Armstrong, several people</li>
-<li><a href="/wiki/Ian_Armstrong_(disambiguation)" class="mw-redirect mw-disambig" title="Ian Armstrong (disambiguation)">Ian Armstrong (disambiguation)</a> several people</li>
-<li><a href="/wiki/James_Armstrong_(disambiguation)" class="mw-redirect mw-disambig" title="James Armstrong (disambiguation)">James Armstrong (disambiguation)</a> several people</li>
-<li><a href="/wiki/Joe_Armstrong_(disambiguation)" class="mw-redirect mw-disambig" title="Joe Armstrong (disambiguation)">Joe Armstrong (disambiguation)</a> several people</li>
-<li><a href="/wiki/John_Armstrong_(disambiguation)" class="mw-redirect mw-disambig" title="John Armstrong (disambiguation)">John Armstrong (disambiguation)</a> several people</li>
-<li><a href="/wiki/Joseph_Armstrong_(disambiguation)" class="mw-redirect mw-disambig" title="Joseph Armstrong (disambiguation)">Joseph Armstrong (disambiguation)</a> several people</li>
-<li><a href="/wiki/Martin_Armstrong_(disambiguation)" class="mw-redirect mw-disambig" title="Martin Armstrong (disambiguation)">Martin Armstrong (disambiguation)</a> several people</li>
-<li><a href="/wiki/Michael_Armstrong_(disambiguation)" class="mw-redirect mw-disambig" title="Michael Armstrong (disambiguation)">Michael Armstrong (disambiguation)</a> or Mike Armstrong, several people</li>
-<li><a href="/wiki/Richard_Armstrong_(disambiguation)" class="mw-redirect mw-disambig" title="Richard Armstrong (disambiguation)">Richard Armstrong (disambiguation)</a> several people</li>
-<li><a href="/wiki/Robert_Armstrong_(disambiguation)" class="mw-redirect mw-disambig" title="Robert Armstrong (disambiguation)">Robert Armstrong (disambiguation)</a> several people</li>
-<li><a href="/wiki/Samuel_Armstrong_(disambiguation)" class="mw-redirect mw-disambig" title="Samuel Armstrong (disambiguation)">Samuel Armstrong (disambiguation)</a> several people</li>
-<li><a href="/wiki/Thomas_Armstrong_(disambiguation)" class="mw-redirect mw-disambig" title="Thomas Armstrong (disambiguation)">Thomas Armstrong (disambiguation)</a>, several people</li>
-<li><a href="/wiki/Tim_Armstrong_(disambiguation)" class="mw-disambig" title="Tim Armstrong (disambiguation)">Tim Armstrong (disambiguation)</a> several people</li>
-<li><a href="/wiki/William_Armstrong_(disambiguation)" class="mw-redirect mw-disambig" title="William Armstrong (disambiguation)">William Armstrong (disambiguation)</a> several people:</li></ul>
-<h3><span class="mw-headline" id="Arts_and_letters">Arts and letters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Armstrong_(surname)&amp;action=edit&amp;section=3" title="Edit section: Arts and letters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Alun_Armstrong_(actor)" class="mw-redirect" title="Alun Armstrong (actor)">Alun Armstrong (actor)</a>, English actor</li>
-<li><a href="/wiki/Anton_Armstrong" title="Anton Armstrong">Anton Armstrong</a>, American choral conductor and professor</li>
-<li><a href="/wiki/Benita_Armstrong" title="Benita Armstrong">Benita Armstrong</a>, British sculptor</li>
-<li><a href="/wiki/Beth_Diane_Armstrong" title="Beth Diane Armstrong">Beth Diane Armstrong</a>, South African sculptor</li>
-<li><a href="/wiki/Billie_Joe_Armstrong" title="Billie Joe Armstrong">Billie Joe Armstrong</a>, American vocalist of Green Day</li>
-<li><a href="/wiki/Campbell_Armstrong" title="Campbell Armstrong">Campbell Armstrong</a>, a Scottish writer</li>
-<li><a href="/wiki/Curtis_Armstrong" title="Curtis Armstrong">Curtis Armstrong</a>, American actor</li>
-<li><a href="/wiki/Eve_Armstrong" title="Eve Armstrong">Eve Armstrong</a>, New Zealand artist</li>
-<li>Florian Cloud de Bounevialle Armstrong, better known as <a href="/wiki/Dido_(singer)" title="Dido (singer)">Dido</a>, British pop singer</li>
-<li><a href="/wiki/Frankie_Armstrong" title="Frankie Armstrong">Frankie Armstrong</a>, English vocalist</li>
-<li><a href="/wiki/Franny_Armstrong" title="Franny Armstrong">Franny Armstrong</a> - film director</li>
-<li><a href="/wiki/Gillian_Armstrong" title="Gillian Armstrong">Gillian Armstrong</a>, Australian film director</li>
-<li><a href="/wiki/Heather_Armstrong" title="Heather Armstrong">Heather Armstrong</a>, aka Dooce, American writer</li>
-<li><a href="/wiki/Helen_Maitland_Armstrong" title="Helen Maitland Armstrong">Helen Maitland Armstrong</a>, American stained glass artist</li>
-<li><a href="/wiki/Jeannette_Armstrong" title="Jeannette Armstrong">Jeannette Armstrong</a>, Canadian writer</li>
-<li><a href="/wiki/Jerome_Armstrong" title="Jerome Armstrong">Jerome Armstrong</a>, American journalist</li>
-<li><a href="/wiki/Karen_Armstrong" title="Karen Armstrong">Karen Armstrong</a>, English author</li>
-<li><a href="/wiki/Kelley_Armstrong" title="Kelley Armstrong">Kelley Armstrong</a>, Canadian author</li>
-<li><a href="/wiki/Kerry_Armstrong" title="Kerry Armstrong">Kerry Armstrong</a>, Australian actor</li>
-<li><a href="/wiki/Louis_Armstrong" title="Louis Armstrong">Louis Armstrong</a> (1901–1971), American jazz musician</li>
-<li><a href="/wiki/Maitland_Armstrong" title="Maitland Armstrong">Maitland Armstrong</a> (1836–1918), American artist and diplomat</li>
-<li><a href="/wiki/Margaret_Neilson_Armstrong" title="Margaret Neilson Armstrong">Margaret Neilson Armstrong</a>, book designer, illustrator, and writer</li>
-<li><a href="/wiki/Mick_Armstrong" title="Mick Armstrong">Mick Armstrong</a>, Australian socialist and author</li>
-<li><a href="/wiki/Paige_Armstrong" class="mw-redirect" title="Paige Armstrong">Paige Armstrong</a>, American Christian singer-songwriter</li>
-<li><a href="/wiki/Peter_Armstrong_(poet)" title="Peter Armstrong (poet)">Peter Armstrong</a>, English poet</li>
-<li><a href="/wiki/Randy_Armstrong" class="mw-redirect" title="Randy Armstrong">Randy Armstrong</a>, Musical Artist</li>
-<li><a href="/wiki/Ruth_Alice_Armstrong" title="Ruth Alice Armstrong">Ruth Alice Armstrong</a> (1850–?), American social activist, writer, lecturer</li>
-<li><a href="/wiki/Samaire_Armstrong" title="Samaire Armstrong">Samaire Armstrong</a>, American actor</li>
-<li><a href="/wiki/The_Armstrong_Twins" title="The Armstrong Twins">The Armstrong Twins</a>, bluegrass and country music act in the 1940s and '50s</li>
-<li><a href="/wiki/Vaughn_Armstrong" title="Vaughn Armstrong">Vaughn Armstrong</a>, American actor</li></ul>
-<h3><span class="mw-headline" id="Politics_and_government">Politics and government</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Armstrong_(surname)&amp;action=edit&amp;section=4" title="Edit section: Politics and government">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Cornelius_W._Armstrong" title="Cornelius W. Armstrong">Cornelius W. Armstrong</a> (1827–after 1872), New York politician</li>
-<li><a href="/wiki/Ernest_Armstrong" title="Ernest Armstrong">Ernest Armstrong</a> (1915–1996), a British Labour Party politician.</li>
-<li><a href="/wiki/Hilary_Armstrong" title="Hilary Armstrong">Hilary Armstrong</a>, British politician</li>
-<li><a href="/wiki/John_Franklin_Armstrong" title="John Franklin Armstrong">John Franklin Armstrong</a> - Texas state representative</li></ul>
-<ul><li><a href="/wiki/Kelly_Armstrong" title="Kelly Armstrong">Kelly Armstrong</a>, American politician from North Dakota</li>
-<li><a href="/wiki/Ward_Armstrong" title="Ward Armstrong">Ward Armstrong</a>, American politician from Virginia</li></ul>
-<h3><span class="mw-headline" id="Religion">Religion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Armstrong_(surname)&amp;action=edit&amp;section=5" title="Edit section: Religion">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Annie_Armstrong" title="Annie Armstrong">Annie Armstrong</a> (1850–1938) American missionary leader</li>
-<li><a href="/wiki/Garner_Ted_Armstrong" title="Garner Ted Armstrong">Garner Ted Armstrong</a> (1930–2003), American evangelist, son of Herbert W. Armstrong</li>
-<li><a href="/wiki/Herbert_W._Armstrong" title="Herbert W. Armstrong">Herbert W. Armstrong</a> (1892–1986), American evangelist, father of Garner Ted Armstrong</li></ul>
-<h3><span class="mw-headline" id="Science_and_technology">Science and technology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Armstrong_(surname)&amp;action=edit&amp;section=6" title="Edit section: Science and technology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Edwin_Howard_Armstrong" title="Edwin Howard Armstrong">Edwin Armstrong</a>, full name Edwin Howard Armstrong, (1890–1954), American electrical engineer and inventor of FM radio</li>
-<li><a href="/wiki/Lilias_Armstrong" title="Lilias Armstrong">Lilias Armstrong</a> (1882–1937), English phonetician</li>
-<li><a href="/wiki/Mark_Armstrong_(astronomer)" title="Mark Armstrong (astronomer)">Mark Armstrong (astronomer)</a>, British amateur astronomer</li>
-<li><a href="/wiki/Neil_Armstrong" title="Neil Armstrong">Neil Armstrong</a> (1930–2012), American astronaut, first man on Moon</li>
-<li><a href="/wiki/William_Ward_Armstrong" title="William Ward Armstrong">William Ward Armstrong</a>, Canadian computer scientist</li></ul>
-<h3><span class="mw-headline" id="Sports">Sports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Armstrong_(surname)&amp;action=edit&amp;section=7" title="Edit section: Sports">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li>The Armstrong <a href="/wiki/Professional_wrestling" title="Professional wrestling">wrestling</a> family (real last name James), an American family including:
-<ul><li><a href="/wiki/Bob_Armstrong" title="Bob Armstrong">Bob Armstrong</a> (born Joseph Melton James, 1939), and his sons:
-<ul><li><a href="/wiki/Scott_Armstrong_(wrestler)" title="Scott Armstrong (wrestler)">Scott Armstrong</a> (born Joseph Scott James, 1959)</li>
-<li><a href="/wiki/Brad_Armstrong_(wrestler)" title="Brad Armstrong (wrestler)">Brad Armstrong (wrestler)</a> (born Bradley James, 1961–2012)</li>
-<li><a href="/wiki/Steve_Armstrong" title="Steve Armstrong">Steve Armstrong</a> (born Steve James, 1965)</li>
-<li>Brian Armstrong, best known as <a href="/wiki/Road_Dogg" title="Road Dogg">Road Dogg</a> (born Brian Girard James, 1969)</li></ul></li></ul></li>
-<li><a href="/wiki/Alun_Armstrong_(footballer)" title="Alun Armstrong (footballer)">Alun Armstrong (footballer)</a>, English player</li>
-<li><a href="/wiki/B._J._Armstrong" title="B. J. Armstrong">B. J. Armstrong</a>, former basketball player, most notably with the Chicago Bulls</li>
-<li><a href="/wiki/Brian_Armstrong_(footballer)" title="Brian Armstrong (footballer)">Brian Armstrong (footballer)</a>, New Zealand international football (soccer) player</li>
-<li><a href="/wiki/Bruce_Armstrong" title="Bruce Armstrong">Bruce Armstrong</a>, American football player</li>
-<li><a href="/wiki/Colby_Armstrong" title="Colby Armstrong">Colby Armstrong</a>, Canadian hockey player</li>
-<li><a href="/wiki/Cornell_Armstrong" title="Cornell Armstrong">Cornell Armstrong</a>, American football player</li>
-<li><a href="/wiki/Dale_Armstrong" title="Dale Armstrong">Dale Armstrong</a> (1941–2014), Canadian drag racer</li>
-<li><a href="/wiki/Darrell_Armstrong" title="Darrell Armstrong">Darrell Armstrong</a>, American professional basketball player</li>
-<li><a href="/wiki/Davey_Armstrong" title="Davey Armstrong">Davey Armstrong</a>, American boxer</li>
-<li><a href="/wiki/Debbie_Armstrong" title="Debbie Armstrong">Debbie Armstrong</a>, Olympic gold medalist in Alpine skiing</li>
-<li><a href="/wiki/Dorance_Armstrong_Jr." title="Dorance Armstrong Jr.">Dorance Armstrong Jr.</a>, American football player</li>
-<li><a href="/wiki/Duncan_Armstrong" title="Duncan Armstrong">Duncan Armstrong</a>, Australian Olympic gold medalist in swimming</li>
-<li><a href="/wiki/Elizabeth_Armstrong" title="Elizabeth Armstrong">Elizabeth Armstrong</a>, an American water polo goalkeeper</li>
-<li><a href="/wiki/Evan_Armstrong" title="Evan Armstrong">Evan Armstrong</a>, Scottish boxer of the 1960s and '70s</li>
-<li><a href="/wiki/Gary_Armstrong_(rugby)" title="Gary Armstrong (rugby)">Gary Armstrong (rugby)</a>, Scottish rugby player</li>
-<li><a href="/wiki/Gary_Armstrong_(footballer)" title="Gary Armstrong (footballer)">Gary Armstrong (footballer)</a></li>
-<li><a href="/wiki/Genevieve_Armstrong" title="Genevieve Armstrong">Genevieve Armstrong</a> (born 1988), New Zealand rower</li>
-<li><a href="/wiki/Graham_Armstrong" title="Graham Armstrong">Graham Armstrong</a> (1918–1960), American football player</li>
-<li><a href="/wiki/Hilton_Armstrong" title="Hilton Armstrong">Hilton Armstrong</a>, American basketball player</li>
-<li><a href="/wiki/Ken_Armstrong_(footballer_born_1924)" class="mw-redirect" title="Ken Armstrong (footballer born 1924)">Ken Armstrong (footballer born 1924)</a>, an England and New Zealand dual-international footballer</li>
-<li><a href="/wiki/Ken_Armstrong_(footballer_born_1959)" class="mw-redirect" title="Ken Armstrong (footballer born 1959)">Ken Armstrong (footballer born 1959)</a>, an English-born footballer</li>
-<li><a href="/wiki/Kevin_Armstrong" title="Kevin Armstrong">Kevin Armstrong</a>, Irish football player</li>
-<li><a href="/wiki/Kristin_Armstrong" title="Kristin Armstrong">Kristin Armstrong</a>, professional road bicycle racer and Olympic gold medalist</li>
-<li><a href="/wiki/Lance_Armstrong" title="Lance Armstrong">Lance Armstrong</a>, American cyclist</li>
-<li><a href="/wiki/Mark_Armstrong_(equestrian)" title="Mark Armstrong (equestrian)">Mark Armstrong (equestrian)</a>, British international representative show-jumper</li>
-<li><a href="/wiki/Mark_Armstrong_(footballer)" title="Mark Armstrong (footballer)">Mark Armstrong (footballer)</a>, New Zealand international football (soccer) player</li>
-<li><a href="/wiki/Neil_Armstrong_(ice_hockey)" title="Neil Armstrong (ice hockey)">Neil Armstrong (ice hockey)</a></li>
-<li><a href="/wiki/Neill_Armstrong" title="Neill Armstrong">Neill Armstrong</a>, American football player</li>
-<li><a href="/wiki/Norman_Armstrong" title="Norman Armstrong">Norman Armstrong</a> (1892–1990), English cricketer</li>
-<li><a href="/wiki/Otis_Armstrong" title="Otis Armstrong">Otis Armstrong</a>, American football player</li>
-<li><a href="/wiki/Paul_Armstrong" title="Paul Armstrong">Paul Armstrong</a>, Irish international football (soccer) player</li>
-<li><a href="/wiki/Paul_Armstrong_(footballer)" title="Paul Armstrong (footballer)">Paul Armstrong (footballer)</a> (born 1965), Scottish footballer</li>
-<li><a href="/wiki/Ron_Armstrong" title="Ron Armstrong">Ron Armstrong</a>, a New Zealand international footballer</li>
-<li><a href="/wiki/Tommy_Armstrong_Jr." title="Tommy Armstrong Jr.">Tommy Armstrong Jr.</a>, American football player</li>
-<li><a href="/wiki/Trace_Armstrong" title="Trace Armstrong">Trace Armstrong</a>, American football player</li>
-<li><a href="/wiki/Warwick_Armstrong" title="Warwick Armstrong">Warwick Armstrong</a>, Australian Test cricketer</li></ul>
-<h3><span class="mw-headline" id="Other">Other</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Armstrong_(surname)&amp;action=edit&amp;section=8" title="Edit section: Other">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/Archibald_Armstrong" title="Archibald Armstrong">Archibald Armstrong</a>, (d. March, 1672) court jester to <a href="/wiki/James_I_of_England" class="mw-redirect" title="James I of England">James I</a> and <a href="/wiki/Charles_I_of_England" title="Charles I of England">Charles I</a></li>
-<li><a href="/wiki/Dwight_Armstrong" title="Dwight Armstrong">Dwight Armstrong</a>, American domestic terrorist</li>
-<li><a href="/wiki/Elizabeth_Armstrong_(settler)" title="Elizabeth Armstrong (settler)">Elizabeth Armstrong (settler)</a>, an American settler who took part in the Black Hawk War</li>
-<li><a href="/wiki/Eugene_Armstrong" class="mw-redirect" title="Eugene Armstrong">Eugene Armstrong</a>, American construction contractor who was beheaded in Iraq</li>
-<li><a href="/wiki/Frank_A._Armstrong" title="Frank A. Armstrong">Frank A. Armstrong</a>, United States Air Force General</li>
-<li><a href="/wiki/Herbert_Rowse_Armstrong" title="Herbert Rowse Armstrong">Herbert Rowse Armstrong</a> (1870–1922), British murderer - the "Hay poisoner",</li>
-<li><a href="/wiki/J._Scott_Armstrong" title="J. Scott Armstrong">J. Scott Armstrong</a>, Wharton Business School professor</li>
-<li><a href="/wiki/Rebekka_Armstrong" title="Rebekka Armstrong">Rebekka Armstrong</a>, bodybuilder, former Playboy model and AIDS activist</li>
-<li><a href="/wiki/Ruth_Alice_Armstrong" title="Ruth Alice Armstrong">Ruth Alice Armstrong</a> (1850–?), American activist</li>
-<li><a href="/wiki/Sally_Ward_Lawrence_Hunt_Armstrong_Downs" class="mw-redirect" title="Sally Ward Lawrence Hunt Armstrong Downs">Sally Ward Lawrence Hunt Armstrong Downs</a>, also known as Sallie Ward, (1827-1896), American socialite.</li></ul>
-<h2><span class="mw-headline" id="Fictional_people">Fictional people</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Armstrong_(surname)&amp;action=edit&amp;section=9" title="Edit section: Fictional people">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li>The Armstrong family, victims of a crime in <a href="/wiki/Murder_on_the_Orient_Express" title="Murder on the Orient Express">Murder on the Orient Express</a></li>
-<li><a href="/wiki/Alex_Louis_Armstrong" class="mw-redirect" title="Alex Louis Armstrong">Alex Louis Armstrong</a>, the state alchemist from <a href="/wiki/Fullmetal_Alchemist" title="Fullmetal Alchemist">Fullmetal Alchemist</a></li>
-<li><a href="/wiki/List_of_Fullmetal_Alchemist_characters#Olivier_Mira_Armstrong" title="List of Fullmetal Alchemist characters">Olivier Mira Armstrong</a>, the Briggs general from <a href="/wiki/Fullmetal_Alchemist" title="Fullmetal Alchemist">Fullmetal Alchemist</a></li>
-<li>Catherine Elle Armstrong, the youngest daughter of Armstrong Family from <a href="/wiki/Fullmetal_Alchemist" title="Fullmetal Alchemist">Fullmetal Alchemist</a></li>
-<li><a href="/wiki/Coach_Armstrong" class="mw-redirect" title="Coach Armstrong">Coach Armstrong</a>, character in Degrassi: The Next Generation.</li>
-<li><a href="/wiki/Jack_Armstrong,_the_All-American_Boy" title="Jack Armstrong, the All-American Boy">Jack Armstrong, the All-American Boy</a>, radio series character on the show of the same name (1933–1951)</li>
-<li><a href="/wiki/Seth_Armstrong" title="Seth Armstrong">Seth Armstrong</a> - a local character in a local soap opera just trying to make it to Cockermouth.</li>
-<li>Steven Armstrong, final boss in <a href="/wiki/Metal_Gear_Rising:_Revengeance" title="Metal Gear Rising: Revengeance">Metal Gear Rising: Revengeance</a></li>
-<li><a href="/wiki/Stretch_Armstrong" title="Stretch Armstrong">Stretch Armstrong</a>, action figure first introduced in the 1970s</li>
-<li><a href="/wiki/Sue_Ellen_Armstrong" class="mw-redirect" title="Sue Ellen Armstrong">Sue Ellen Armstrong</a> - a character from the fictional show <i>Arthur</i></li>
-<li><a href="/wiki/Tina_Armstrong_(DOA)" class="mw-redirect" title="Tina Armstrong (DOA)">Tina Armstrong</a> and her father, <a href="/wiki/Bass_Armstrong" class="mw-redirect" title="Bass Armstrong">Bass</a>, people from the <i>Dead or Alive</i> video game series</li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Armstrong_(surname)&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="reflist" style="list-style-type: decimal;">
+<h2><span class="mw-headline" id="Notable_people_bearing_the_surname_Farmer">Notable people bearing the surname Farmer</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farmer_(surname)&amp;action=edit&amp;section=1" title="Edit section: Notable people bearing the surname Farmer">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Art_Farmer" title="Art Farmer">Art Farmer</a> (1928–1999), American jazz trumpeter and flugelhorn player</li>
+<li><a href="/wiki/Beverley_Farmer" title="Beverley Farmer">Beverley Farmer</a> (born 1941), Australian writer</li>
+<li><a href="/wiki/Bill_Farmer" title="Bill Farmer">Bill Farmer</a> (born 1952), American voice actor and comedian</li>
+<li><a href="/wiki/Bill_Farmer_(public_servant)" title="Bill Farmer (public servant)">Bill Farmer (public servant)</a>, former senior Australian public servant</li>
+<li><a href="/wiki/Red_Farmer" title="Red Farmer">Charles "Red" Farmer</a> (born before 1938), American NASCAR race driver</li>
+<li><a href="/wiki/Dan_Farmer" title="Dan Farmer">Dan Farmer</a> (born 1962), American computer security researcher</li>
+<li><a href="/wiki/Darci_Lynne_Farmer" class="mw-redirect" title="Darci Lynne Farmer">Darci Lynne Farmer</a> (born 2004), American ventriloquist</li>
+<li><a href="/wiki/David_Farmer" title="David Farmer">David Farmer</a> (born 1955), British playwright</li>
+<li><a href="/wiki/Declan_Farmer" title="Declan Farmer">Declan Farmer</a> (born 1997), American sledge hockey player</li>
+<li><a href="/wiki/Desmon_Farmer" title="Desmon Farmer">Desmon Farmer</a> (born 1981), American professional basketball player</li>
+<li><a href="/wiki/Donald_Dickson_Farmer" class="mw-redirect" title="Donald Dickson Farmer">Donald Dickson Farmer</a> (1877–1956), Scottish recipient of the Victoria Cross</li>
+<li><a href="/wiki/Ed_Farmer" title="Ed Farmer">Ed Farmer</a> (born 1949), American professional baseball player</li>
+<li><a href="/wiki/Emily_Farmer" title="Emily Farmer">Emily Farmer</a> (1826–1905), English water-colourist and Victorian painter</li>
+<li><a href="/wiki/Evan_Farmer" title="Evan Farmer">Evan Farmer</a> (born 1972), American actor, musician, and television personality</li>
+<li><a href="/wiki/Fannie_Farmer" title="Fannie Farmer">Fannie Farmer</a> (1857–1915), American culinary expert and cookbook author</li>
+<li><a href="/wiki/Frances_Farmer" title="Frances Farmer">Frances Farmer</a> (1913–1970), American film actress</li>
+<li><a href="/wiki/Frank_Farmer_(disambiguation)" class="mw-redirect mw-disambig" title="Frank Farmer (disambiguation)">Frank Farmer (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Gary_Farmer" title="Gary Farmer">Gary Farmer</a> (born 1953), Canadian First Nations actor</li>
+<li><a href="/wiki/George_Farmer_(disambiguation)" class="mw-redirect mw-disambig" title="George Farmer (disambiguation)">George Farmer (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Graham_Farmer" class="mw-redirect" title="Graham Farmer">Graham Farmer</a> (born 1935), Australian rules football player and coach</li>
+<li><a href="/wiki/Henry_George_Farmer" title="Henry George Farmer">Henry George Farmer</a> (1882–1965), British musicologist</li>
+<li><a href="/wiki/J._Doyne_Farmer" title="J. Doyne Farmer">J. Doyne Farmer</a> (born 1952), American physicist</li>
+<li><a href="/wiki/James_Farmer_(disambiguation)" class="mw-disambig" title="James Farmer (disambiguation)">James Farmer (disambiguation)</a>, multiple people named James or Jim(my) Farmer</li>
+<li><a href="/wiki/Jean_Farmer-Butterfield" title="Jean Farmer-Butterfield">Jean Farmer-Butterfield</a> (contemporary), American politician from North Carolina</li>
+<li><a href="/wiki/Jeff_Farmer_(footballer)" title="Jeff Farmer (footballer)">Jeff Farmer (footballer)</a> (born 1977), Aboriginal Australian rules footballer</li>
+<li><a href="/wiki/Jeff_Farmer_(wrestler)" title="Jeff Farmer (wrestler)">Jeff Farmer (wrestler)</a> (born 1962), professional wrestler known as <i>The Black Scorpion</i></li>
+<li><a href="/wiki/John_Farmer_(disambiguation)" class="mw-redirect mw-disambig" title="John Farmer (disambiguation)">John Farmer (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Joseph_John_Farmer" title="Joseph John Farmer">Joseph John Farmer</a> (1854–1930), English recipient of the <a href="/wiki/Victoria_Cross" title="Victoria Cross">Victoria Cross</a></li>
+<li><a href="/wiki/Karl_Farmer" title="Karl Farmer">Karl Farmer</a> (born 1954), American football player</li>
+<li><a href="/wiki/Ken_Farmer" title="Ken Farmer">Ken Farmer</a> (1910–1982), Australian rules football player</li>
+<li><a href="/wiki/Kenneth_Farmer" title="Kenneth Farmer">Kenneth Farmer</a> (1912–2005), Canadian hockey player and businessman</li>
+<li><a href="/wiki/Larry_Farmer_(law_professor)" title="Larry Farmer (law professor)">Larry Farmer</a> (born 1942), American professor of law at Brigham Young University</li>
+<li><a href="/wiki/Larry_Farmer_(basketball)" title="Larry Farmer (basketball)">Larry Farmer</a> (born 1951), American college basketball coach</li>
+<li><a href="/wiki/Lydia_Hoyt_Farmer" title="Lydia Hoyt Farmer">Lydia Hoyt Farmer</a> (1842–1903), American author, women's rights activist</li>
+<li><a href="/wiki/Mark_Farmer" title="Mark Farmer">Mark Farmer</a> (contemporary), British comic book artist</li>
+<li><a href="/wiki/Mike_Farmer" title="Mike Farmer">Mike Farmer</a> (born 1936), American professional basketball player</li>
+<li><a href="/wiki/Mike_Farmer_(baseball_player)" class="mw-redirect" title="Mike Farmer (baseball player)">Mike Farmer</a> (born 1968), American professional baseball player</li>
+<li><a href="/wiki/Mimsy_Farmer" title="Mimsy Farmer">Mimsy Farmer</a> (born 1945), American actress and sculptor living in France</li>
+<li><a href="/wiki/Moses_G._Farmer" title="Moses G. Farmer">Moses G. Farmer</a> (1820–1893), American electrical engineer and inventor, pioneer in telegraphy</li>
+<li><a href="/wiki/Myl%C3%A8ne_Farmer" title="Mylène Farmer">Mylène Farmer</a> (born 1961), Canadian-born French singer and songwriter</li>
+<li><a href="/wiki/Nancy_Farmer_(politician)" title="Nancy Farmer (politician)">Nancy Farmer (politician)</a> (born 1956), American politician from Missouri</li>
+<li><a href="/wiki/Nancy_Farmer_(author)" class="mw-redirect" title="Nancy Farmer (author)">Nancy Farmer (author)</a> (born 1941), American author of children’s books</li>
+<li><a href="/wiki/Pat_Farmer" title="Pat Farmer">Pat Farmer</a> (born 1962), Australian politician, member of the Australian House of Representatives from New South Wales</li>
+<li><a href="/wiki/Pat_Farmer_(soccer)" title="Pat Farmer (soccer)">Pat Farmer (soccer)</a> (born 1949), American soccer coach</li>
+<li><a href="/wiki/Paul_Farmer" title="Paul Farmer">Paul Farmer</a> (born 1959), American physician and professor at Harvard University</li>
+<li><a href="/wiki/Paul_S._Farmer" title="Paul S. Farmer">Paul S. Farmer</a>, pioneer in the use of pop music in UK school music education in the 1970s</li>
+<li><a href="/wiki/Penelope_Farmer" title="Penelope Farmer">Penelope Farmer</a> (born 1939), British writer of books for children and adults</li>
+<li><a href="/wiki/Peter_Farmer_(disambiguation)" class="mw-redirect mw-disambig" title="Peter Farmer (disambiguation)">Peter Farmer (disambiguation)</a>, multiple people</li>
+<li><a href="/wiki/Philip_Jos%C3%A9_Farmer" title="Philip José Farmer">Philip José Farmer</a> (1918–2009), American science fiction and fantasy author</li>
+<li><a href="/wiki/Randy_Farmer" title="Randy Farmer">Randy Farmer</a> (contemporary), American pioneer in creating online communities</li>
+<li><a href="/wiki/Richard_Farmer" title="Richard Farmer">Richard Farmer</a> (1735–1797), English Shakespearean scholar</li>
+<li><a href="/wiki/Richard_T._Farmer" title="Richard T. Farmer">Richard T. Farmer</a> (contemporary), American businessman</li>
+<li><a href="/wiki/Richie_Farmer" title="Richie Farmer">Richie Farmer</a> (born 1969), American politician and former college basketball player</li>
+<li><a href="/wiki/Seymour_Farmer" title="Seymour Farmer">Seymour Farmer</a> (1875–1951), Welsh-Canadian politician, mayor of Winnipeg</li>
+<li><a href="/wiki/Susan_Farmer" title="Susan Farmer">Susan Farmer</a> (1942–2013), American politician, media executive and television personality</li>
+<li><a href="/wiki/Suzan_Farmer" title="Suzan Farmer">Suzan Farmer</a> (1942–2017), English actress</li>
+<li><a href="/wiki/Terry_Farmer" title="Terry Farmer">Terry Farmer</a> (1931–2014), English professional footballer</li>
+<li><a href="/wiki/Tom_Farmer" title="Tom Farmer">Tom Farmer</a> (born 1940), Scottish entrepreneur and millionaire</li>
+<li><a href="/wiki/Wilfred_Farmer" title="Wilfred Farmer">Wilfred Farmer</a> (1921–1975), Barbadian cricketer and police officer</li>
+<li><a href="/wiki/William_M._Farmer" title="William M. Farmer">William M. Farmer</a> (1853-1931), American jurist and politician</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farmer_(surname)&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Jordan_Farmar" title="Jordan Farmar">Jordan Farmar</a> (born 1986), American basketball player</li>
+<li><a href="/wiki/Leo_Farmar" title="Leo Farmar">Leo Farmar</a> (1878–1907), British botanist</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farmer_(surname)&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-dictamfam-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-dictamfam_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ancestry.com/facts/armstrong-name-meaning.ashx">"Dictionary of American Family Names"</a>. <a href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-06-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dictionary+of+American+Family+Names&amp;rft.pub=Oxford+University+Press&amp;rft_id=http%3A%2F%2Fwww.ancestry.com%2Ffacts%2Farmstrong-name-meaning.ashx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArmstrong+%28surname%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+<li id="cite_note-surnamedb-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-surnamedb_1-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.surnamedb.com/surname.aspx?name=Farmer">"Surname: Farmer"</a> (undated).  <a rel="nofollow" class="external text" href="http://www.surnamedb.com">Internet Surname Database</a>. Retrieved May 22, 2010).</span>
 </li>
-<li id="cite_note-dobson2003-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-dobson2003_2-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFDobson2003" class="citation">Dobson, David (2003), <a rel="nofollow" class="external text" href="https://books.google.com/books?id=wlYTbQ_wFz8C&amp;lpg=PA5&amp;dq=armstrong%20surname&amp;pg=PA5#v=onepage&amp;q=armstrong%20surname&amp;f=false"><i>The Scottish Surnames of Colonial America</i></a> (Google Book), Baltimore: Genealogical Publishing Company, pp.&#160;4–5, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8063-5209-4" title="Special:BookSources/0-8063-5209-4"><bdi>0-8063-5209-4</bdi></a>, <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/52732092">52732092</a><span class="reference-accessdate">, retrieved <span class="nowrap">1 Jan</span> 2012</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Scottish+Surnames+of+Colonial+America&amp;rft.place=Baltimore&amp;rft.pages=4-5&amp;rft.pub=Genealogical+Publishing+Company&amp;rft.date=2003&amp;rft_id=info%3Aoclcnum%2F52732092&amp;rft.isbn=0-8063-5209-4&amp;rft.aulast=Dobson&amp;rft.aufirst=David&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DwlYTbQ_wFz8C%26lpg%3DPA5%26dq%3Darmstrong%2520surname%26pg%3DPA5%23v%3Donepage%26q%3Darmstrong%2520surname%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArmstrong+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><br />Additional OCLC records exist for same book.</span>
+<li id="cite_note-census-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-census_2-0">^</a></b></span> <span class="reference-text"><a href="/wiki/United_States_Census_Bureau" title="United States Census Bureau">United States Census Bureau</a> (undated). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20091221003828/http://www.census.gov/genealogy/www/data/2000surnames/index.html">"Genealogy Data: Frequently Occurring Surnames from Census 2000 (Top 1000 Names)</a>. Retrieved May 22, 2010.</span>
 </li>
-<li id="cite_note-Lower1844-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lower1844_3-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFLower1844" class="citation">Lower, Mark Antony (1844), "Historical Surnames", <a rel="nofollow" class="external text" href="https://books.google.com/books?id=2d88AQAAIAAJ&amp;dq=armstrong%20surname&amp;pg=PA212#v=onepage&amp;q=armstrong&amp;f=false"><i>Essays on family nomenclature, historical, etymological and humorous: with chapters of rebuses and canting arms, the roll of Battel abbey, a list of latinized surnames, &amp;c., &amp;c.</i></a> (Google Book), Essays on English Surnames (2nd ed.), London: <a href="/wiki/John_Russell_Smith" title="John Russell Smith">John Russell Smith</a>, p.&#160;212, <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/674415725">674415725</a><span class="reference-accessdate">, retrieved <span class="nowrap">1 Jan</span> 2012</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Historical+Surnames&amp;rft.btitle=Essays+on+family+nomenclature%2C+historical%2C+etymological+and+humorous%3A+with+chapters+of+rebuses+and+canting+arms%2C+the+roll+of+Battel+abbey%2C+a+list+of+latinized+surnames%2C+%26c.%2C+%26c.&amp;rft.place=London&amp;rft.series=Essays+on+English+Surnames&amp;rft.pages=212&amp;rft.edition=2nd&amp;rft.pub=John+Russell+Smith&amp;rft.date=1844&amp;rft_id=info%3Aoclcnum%2F674415725&amp;rft.aulast=Lower&amp;rft.aufirst=Mark+Antony&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D2d88AQAAIAAJ%26dq%3Darmstrong%2520surname%26pg%3DPA212%23v%3Donepage%26q%3Darmstrong%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArmstrong+%28surname%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-</ol></div></div>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farmer_(surname)&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110716052740/http://www.hamrick.com/cgi-bin/names.cgi?surname=Farmer&amp;year=xxxx&amp;type=html">Hamrick Software</a>  (Map showing the frequency of the surname Farmer in the United States 1850–1990)</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Surnames_associated_with_the_occupations_of_farmer/ploughman/peasant_etc." style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Farmer-surname" title="Template:Farmer-surname"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Farmer-surname" title="Template talk:Farmer-surname"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Farmer-surname&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Surnames_associated_with_the_occupations_of_farmer/ploughman/peasant_etc." style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Surnames associated with</a> the occupations of farmer/ploughman/peasant etc.</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Germanic</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Farmer</a>, <a href="/wiki/Plowman_(surname)" title="Plowman (surname)">Plowman</a>, <a href="/wiki/Cotter_(surname)" title="Cotter (surname)">Cotter</a>, <a href="/wiki/Cotterill" title="Cotterill">Cotterill</a>, <a href="/wiki/Bond_(surname)" title="Bond (surname)">Bond</a></li>
+<li><a href="/wiki/Bauer_(surname)" title="Bauer (surname)">Bauer</a>, <a href="/wiki/Ackerman_(surname)" title="Ackerman (surname)">Ackerman</a>, <a href="/wiki/Pachter" title="Pachter">Pachter</a>, <a href="/wiki/H%C3%BCfner" class="mw-redirect" title="Hüfner">Hüfner</a>, <a href="/wiki/Hoffman" title="Hoffman">Hoffman</a></li>
+<li><a href="/wiki/Boer_(surname)" title="Boer (surname)">Boer</a> (<a href="/wiki/De_Boer" title="De Boer">De Boer</a>)</li>
+<li><a href="/wiki/Bonde" title="Bonde">Bonde</a>, <a href="/wiki/Farman_(surname)" title="Farman (surname)">Farman</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Romance</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=Laboureur&amp;action=edit&amp;redlink=1" class="new" title="Laboureur (page does not exist)">Laboureur</a>, <a href="/w/index.php?title=Labourier&amp;action=edit&amp;redlink=1" class="new" title="Labourier (page does not exist)">Labourier</a>, <a href="/w/index.php?title=Fermier&amp;action=edit&amp;redlink=1" class="new" title="Fermier (page does not exist)">Fermier</a>, <a href="/w/index.php?title=Contadino&amp;action=edit&amp;redlink=1" class="new" title="Contadino (page does not exist)">Contadino</a>, <a href="/wiki/Campagnaro" title="Campagnaro">Campagnaro</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Slavic</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=Zemedelski&amp;action=edit&amp;redlink=1" class="new" title="Zemedelski (page does not exist)">Zemedelski</a>, <a href="/wiki/Sedlak" class="mw-redirect" title="Sedlak">Sedlak</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Semitic</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Fellah" title="Fellah">Fellah</a></li>
+<li><a href="/wiki/Bartholomew_(name)" title="Bartholomew (name)">Bartholomew</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ar%C4%81js" title="Arājs">Arājs</a> (Latvian)</li>
+<li><a href="/wiki/Georgios" title="Georgios">Georgios</a> (Greek)</li>
+<li><a href="/w/index.php?title=Gonidec&amp;action=edit&amp;redlink=1" class="new" title="Gonidec (page does not exist)">Gonidec</a>, <a href="/w/index.php?title=Merour&amp;action=edit&amp;redlink=1" class="new" title="Merour (page does not exist)">Merour</a></li></ul>
+</div></td></tr></tbody></table></div>
 <style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
 <table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
 <tbody><tr>
 <td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
-<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Armstrong</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Armstrong_(surname)&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Farmer</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Farmer_(surname)&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
 </tr>
 </tbody></table>
 <!-- 
 NewPP limit report
-Parsed by mw1288
-Cached time: 20191019213902
+Parsed by mw1253
+Cached time: 20191015152841
 Cache expiry: 2592000
 Dynamic content: false
-Complications: [vary‐revision‐sha1]
-CPU time usage: 0.244 seconds
-Real time usage: 0.372 seconds
-Preprocessor visited node count: 793/1000000
+Complications: []
+CPU time usage: 0.132 seconds
+Real time usage: 0.182 seconds
+Preprocessor visited node count: 285/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 10720/2097152 bytes
-Template argument size: 1128/2097152 bytes
+Post‐expand include size: 11916/2097152 bytes
+Template argument size: 726/2097152 bytes
 Highest expansion depth: 8/40
-Expensive parser function count: 2/500
-Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 10538/5000000 bytes
-Number of Wikibase entities loaded: 1/400
-Lua time usage: 0.118/10.000 seconds
-Lua memory usage: 2.87 MB/50 MB
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1381/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.029/10.000 seconds
+Lua memory usage: 1.04 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  315.137      1 -total
- 55.01%  173.342      1 Template:Reflist
- 28.21%   88.910      2 Template:Citation
- 24.09%   75.931      1 Template:Infobox_surname
- 20.82%   65.611      1 Template:Cite_web
- 19.63%   61.853      1 Template:Surname
- 19.03%   59.976      1 Template:Infobox
- 16.62%   52.364      1 Template:Dmbox
-  8.09%   25.480      1 Template:Short_description
-  7.17%   22.587      1 Template:Pagetype
+100.00%  120.345      1 -total
+ 65.75%   79.127      1 Template:Surname
+ 54.73%   65.864      1 Template:Dmbox
+ 34.12%   41.066      1 Template:Farmer-surname
+ 30.43%   36.620      1 Template:Navbox
+ 26.66%   32.087      1 Template:Short_description
+ 23.95%   28.822      1 Template:Pagetype
+ 15.18%   18.266      1 Template:Category_handler
+  2.55%    3.066      1 Template:Main_other
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:13192029-0!canonical and timestamp 20191019213901 and revision id 916607997
+<!-- Saved in parser cache with key enwiki:pcache:idhash:27434276-0!canonical and timestamp 20191015152841 and revision id 909415737
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Armstrong_(surname)&amp;oldid=916607997">https://en.wikipedia.org/w/index.php?title=Armstrong_(surname)&amp;oldid=916607997</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Farmer_(surname)&amp;oldid=909415737">https://en.wikipedia.org/w/index.php?title=Farmer_(surname)&amp;oldid=909415737</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:English-language_surnames" title="Category:English-language surnames">English-language surnames</a></li><li><a href="/wiki/Category:Scottish-language_surnames" title="Category:Scottish-language surnames">Scottish-language surnames</a></li><li><a href="/wiki/Category:Surnames_of_Lowland_Scottish_origin" title="Category:Surnames of Lowland Scottish origin">Surnames of Lowland Scottish origin</a></li><li><a href="/wiki/Category:Surnames_of_Ulster-Scottish_origin" title="Category:Surnames of Ulster-Scottish origin">Surnames of Ulster-Scottish origin</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:Occupational_surnames" title="Category:Occupational surnames">Occupational surnames</a></li><li><a href="/wiki/Category:English-language_surnames" title="Category:English-language surnames">English-language surnames</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -284,13 +214,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Armstrong+%28surname%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Armstrong+%28surname%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Farmer+%28surname%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Farmer+%28surname%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Armstrong_(surname)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Armstrong_(surname)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Farmer_(surname)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Farmer_(surname)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -305,7 +235,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Armstrong_(surname)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Armstrong_(surname)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Armstrong_(surname)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Farmer_(surname)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Farmer_(surname)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Farmer_(surname)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -344,35 +274,35 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Armstrong_(surname)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Armstrong_(surname)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Armstrong_(surname)&amp;oldid=916607997" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Armstrong_(surname)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q13627772" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Armstrong_%28surname%29&amp;id=916607997" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Farmer_(surname)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Farmer_(surname)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Farmer_(surname)&amp;oldid=909415737" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Farmer_(surname)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5435709" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Farmer_%28surname%29&amp;id=909415737" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
 			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
 			<div class="body">
 								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Armstrong_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Farmer_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Armstrong+%28surname%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Armstrong+%28surname%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Armstrong_(surname)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Farmer+%28surname%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Farmer+%28surname%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Farmer_(surname)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Armstrong_(s%C3%A8%E2%81%BF)" title="Armstrong (sèⁿ) – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Armstrong_(p%C5%99%C3%ADjmen%C3%AD)" title="Armstrong (příjmení) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Armstrong_(Familienname)" title="Armstrong (Familienname) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%BC%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%B3_(%D1%84%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F)" title="Армстронг (фамилия) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Armstrong_(surname)" title="Armstrong (surname) – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Armstrong_(priimek)" title="Armstrong (priimek) – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Armstrong" title="Armstrong – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Armstrong#Armstrong_(soyadı)" title="Armstrong – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q13627772#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Farmer" title="Farmer – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5435709#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 19 September 2019, at 18:47<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 5 August 2019, at 08:47<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -383,7 +313,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Armstrong_(surname)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Farmer_(surname)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -395,8 +325,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.244","walltime":"0.372","ppvisitednodes":{"value":793,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":10720,"limit":2097152},"templateargumentsize":{"value":1128,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":10538,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  315.137      1 -total"," 55.01%  173.342      1 Template:Reflist"," 28.21%   88.910      2 Template:Citation"," 24.09%   75.931      1 Template:Infobox_surname"," 20.82%   65.611      1 Template:Cite_web"," 19.63%   61.853      1 Template:Surname"," 19.03%   59.976      1 Template:Infobox"," 16.62%   52.364      1 Template:Dmbox","  8.09%   25.480      1 Template:Short_description","  7.17%   22.587      1 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.118","limit":"10.000"},"limitreport-memusage":{"value":3007695,"limit":52428800}},"cachereport":{"origin":"mw1288","timestamp":"20191019213902","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Armstrong (surname)","url":"https:\/\/en.wikipedia.org\/wiki\/Armstrong_(surname)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q13627772","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q13627772","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-09-10T02:11:01Z","dateModified":"2019-09-19T18:47:01Z","headline":"family name"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw1239"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.132","walltime":"0.182","ppvisitednodes":{"value":285,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":11916,"limit":2097152},"templateargumentsize":{"value":726,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1381,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  120.345      1 -total"," 65.75%   79.127      1 Template:Surname"," 54.73%   65.864      1 Template:Dmbox"," 34.12%   41.066      1 Template:Farmer-surname"," 30.43%   36.620      1 Template:Navbox"," 26.66%   32.087      1 Template:Short_description"," 23.95%   28.822      1 Template:Pagetype"," 15.18%   18.266      1 Template:Category_handler","  2.55%    3.066      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.029","limit":"10.000"},"limitreport-memusage":{"value":1090421,"limit":52428800}},"cachereport":{"origin":"mw1253","timestamp":"20191015152841","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Farmer (surname)","url":"https:\/\/en.wikipedia.org\/wiki\/Farmer_(surname)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5435709","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5435709","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-05-22T05:00:45Z","dateModified":"2019-08-05T08:47:34Z","headline":"family name"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":105,"wgHostname":"mw1319"});});</script>
 </body>
 </html>

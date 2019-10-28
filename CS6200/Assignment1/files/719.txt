@@ -2,35 +2,36 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Title of honor - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Title_of_honor","wgTitle":"Title of honor","wgCurRevisionId":916058185,"wgRevisionId":916058185,"wgArticleId":3280942,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking sources from July 2007","All articles lacking sources","All stub articles","Award stubs","Honorary titles"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Title_of_honor","wgRelevantArticleId":3280942,"wgRequestId":
-"Xa16ngpAICAAAIHcUyEAAACT","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q3320743","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready",
-"jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp",
-"skins.vector.js"];</script>
+<title>Kouros - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Kouros","wgTitle":"Kouros","wgCurRevisionId":911673977,"wgRevisionId":911673977,"wgArticleId":545416,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Ancient Greek-language text","Commons category link is on Wikidata","Ancient Greek sculptures","Kouroi"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Kouros","wgRelevantArticleId":545416,"wgRequestId":"XbOx@gpAICEAADEHvfwAAABO",
+"wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q937330","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready",
+"mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.1"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Title_of_honor"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Title_of_honor&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Title_of_honor&amp;action=edit"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/e/ea/Kouros_anavissos.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Kouros"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Kouros&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Kouros&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Title_of_honor"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Kouros"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Title_of_honor rootpage-Title_of_honor skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Kouros rootpage-Kouros skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -39,7 +40,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Title of honor</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Kouros</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -50,295 +51,410 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-Unreferenced plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Title_of_honor&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span>  <small class="date-container"><i>(<span class="date">July 2007</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
-<div role="note" class="hatnote navigation-not-searchable">For the music band, see <a href="/wiki/The_Honorary_Title" title="The Honorary Title">The Honorary Title</a>.</div>
-<p>A <b>title of honor</b> or <b>honorary title</b> is a title bestowed upon individuals or organizations as an <a href="/wiki/Award" title="Award">award</a> in recognition of their merits. 
-</p><p>Sometimes the title bears the same or nearly the same name as a <a href="/wiki/Title_of_authority" title="Title of authority">title of authority</a>, but the person bestowed does not have to carry out any duties, possibly except for ceremonial ones. In some cases, the title is bestowed posthumously.
-</p><p>Some examples of honorary titles from various areas are: 
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses of "Kouros", see <a href="/wiki/Kouros_(disambiguation)" class="mw-disambig" title="Kouros (disambiguation)">Kouros (disambiguation)</a>.</div>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Kouros_anavissos.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Kouros_anavissos.jpg/200px-Kouros_anavissos.jpg" decoding="async" width="200" height="497" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Kouros_anavissos.jpg/300px-Kouros_anavissos.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Kouros_anavissos.jpg/400px-Kouros_anavissos.jpg 2x" data-file-width="612" data-file-height="1522" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Kouros_anavissos.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Kroisos_Kouros" title="Kroisos Kouros">Kroisos Kouros</a>, c. 530 BC</div></div></div>
+<p>A <b>kouros</b> (<a href="/wiki/Ancient_Greek_language" class="mw-redirect" title="Ancient Greek language">Ancient Greek</a>: <span lang="grc">κοῦρος</span>, <small>pronounced&#160;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Greek" title="Help:IPA/Greek">[kûːros]</a></span>, plural <b>kouroi</b>) is the modern term<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> given to free-standing ancient Greek sculptures that first appear in the <a href="/wiki/Archaic_period_in_Greece" class="mw-redirect" title="Archaic period in Greece">Archaic period in Greece</a> and represent nude male youths. In Ancient Greek <i>kouros</i> means "youth, boy, especially of noble rank". Although Kouroi have been found in many ancient Greek territories, they were especially prominent in Attica and Boiotia.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> The term <i>kouros</i> was first proposed for what were previously thought to be depictions of Apollo by V. I. Leonardos in 1895 in relation to the youth from <a href="/wiki/Keratea" title="Keratea">Keratea</a>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> and adopted by Henri Lechat as a generic term for the standing male figure in 1904.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> Such statues are found across the Greek-speaking world; the preponderance of these were found in sanctuaries of Apollo with more than one hundred from the sanctuary of Apollo Ptoion, Boeotia, alone.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> These free-standing sculptures were typically <a href="/wiki/Marble" title="Marble">marble</a>, but the form is also rendered in limestone, wood, bronze, ivory and terracotta. They are typically life-sized, though early colossal examples are up to 3 meters tall. 
+</p><p>The female sculptural counterpart of the <i>kouros</i> is the <i><a href="/wiki/Kore_(sculpture)" title="Kore (sculpture)">kore</a></i>.
 </p>
-<ul><li><a href="/wiki/Academician" title="Academician">Academician</a> – <a href="/wiki/Honorary_title_(academic)" title="Honorary title (academic)">Honorary title (academic)</a></li>
-<li><a href="/wiki/Colonel_(title)" title="Colonel (title)">Colonel (title)</a></li>
-<li><a href="/wiki/Fellow" title="Fellow">Fellow</a> of an academic, artistic, or professional society</li>
-<li><a href="/wiki/Freeman_of_the_City_of_London" class="mw-redirect" title="Freeman of the City of London">Freeman of the City of London</a></li>
-<li><a href="/wiki/Hero_of_the_Russian_Federation" title="Hero of the Russian Federation">Hero of the Russian Federation</a></li>
-<li><a href="/wiki/Honorary_degree" title="Honorary degree">Honorary degree</a> or position, such as honorary Professor</li>
-<li><a href="/wiki/Knight" title="Knight">Knight</a>, <a href="/wiki/Dame_(title)" class="mw-redirect" title="Dame (title)">Dame</a>, or <a href="/wiki/Lady%27s_companion" title="Lady&#39;s companion">Companion</a> of an honorific order</li>
-<li><a href="/wiki/New_Knowledge_Worker_of_Korea" title="New Knowledge Worker of Korea">New Knowledge Worker of Korea</a></li>
-<li><a href="/wiki/People%27s_Artist" title="People&#39;s Artist">People's Artist</a></li>
-<li>Honorary counselors (<i>neuvos</i>) in Finland, such as <a href="/wiki/Counselor_of_State_(Finland)" title="Counselor of State (Finland)">valtioneuvos</a> (Counselor of State) and <a href="/wiki/Vuorineuvos" title="Vuorineuvos">vuorineuvos</a> (Counselor of Mining)</li></ul>
-<p>Some historical honorary titles may be bought, just like certain <a href="/wiki/Nobility" title="Nobility">nobility</a> titles. This has long been a matter of fraud, both outright and indirect.
-</p><p>Some honorary titles serve as positions of <a href="/wiki/Sinecure" title="Sinecure">sinecure</a> and honorary <a href="/wiki/Retirement" title="Retirement">retirement</a>.
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology"><span class="tocnumber">1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Purpose"><span class="tocnumber">2</span> <span class="toctext">Purpose</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Origin_and_evolution"><span class="tocnumber">3</span> <span class="toctext">Origin and evolution</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Attributes_and_meaning"><span class="tocnumber">4</span> <span class="toctext">Attributes and meaning</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Development"><span class="tocnumber">5</span> <span class="toctext">Development</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Sounion_group"><span class="tocnumber">5.1</span> <span class="toctext">Sounion group</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Orchomenos–Thera_group"><span class="tocnumber">5.2</span> <span class="toctext">Orchomenos–Thera group</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Tenea–Volomandra_group"><span class="tocnumber">5.3</span> <span class="toctext">Tenea–Volomandra group</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Melos_group"><span class="tocnumber">5.4</span> <span class="toctext">Melos group</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Anavysos–Ptoon_12_group"><span class="tocnumber">5.5</span> <span class="toctext">Anavysos–Ptoon 12 group</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Ptoon_20_group"><span class="tocnumber">5.6</span> <span class="toctext">Ptoon 20 group</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Bibliography"><span class="tocnumber">8</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kouros&amp;action=edit&amp;section=1" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In Ancient Greek <i>kouros</i> means "youth, boy, especially of noble rank."<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> When a pubescent was received into the body of grown men, as a grown <i>Kouros</i>, he could enter the initiation fest of the brotherhood (<span lang="grc" title="Ancient Greek language text">φρατρία</span>). <i>Apellaios</i> was the month of these rites, and <a href="/wiki/Apollo" title="Apollo">Apollo</a> (<i>Apellon</i>) was the "megistos  kouros" (the greatest Kouros).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
 </p>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Title_of_honor&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Agnomen" title="Agnomen">Agnomen</a>, part of the Roman naming convention</li>
-<li><a href="/wiki/Courtesy_title" title="Courtesy title">Courtesy title</a>, a form of address in systems of nobility used by children, former wives and other close relatives of a peer</li>
-<li><a href="/wiki/False_titles_of_nobility" title="False titles of nobility">False titles of nobility</a></li>
-<li><a href="/wiki/Hereditary_titles" class="mw-redirect" title="Hereditary titles">Hereditary titles</a></li>
-<li><a href="/wiki/Honorary_title_(academic)" title="Honorary title (academic)">Honorary title (academic)</a></li>
-<li><a href="/wiki/Honorary_titles_in_Russia" class="mw-redirect" title="Honorary titles in Russia">Honorary titles in Russia</a></li>
-<li><a href="/wiki/Honorific" title="Honorific">Honorific</a></li>
-<li><a href="/wiki/Laqab" class="mw-redirect" title="Laqab">Laqab</a>, part of a traditional Arabic name</li>
-<li><a href="/wiki/List_of_titles" title="List of titles">List of titles</a></li>
-<li><a href="/wiki/Royal_and_noble_styles" class="mw-redirect" title="Royal and noble styles">Royal and noble styles</a></li>
-<li><a href="/wiki/Style_(manner_of_address)" title="Style (manner of address)">Style (manner of address)</a></li>
-<li><a href="/wiki/Victory_title" title="Victory title">Victory title</a>, honorific title adopted by a successful military commander to commemorate a victory</li></ul>
-<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Title_of_honor&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a rel="nofollow" class="external text" href="http://www.faketitles.com">Fake titles</a></li></ul>
-<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Black_barnstar.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Black_barnstar.svg/25px-Black_barnstar.svg.png" decoding="async" width="25" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Black_barnstar.svg/38px-Black_barnstar.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Black_barnstar.svg/50px-Black_barnstar.svg.png 2x" data-file-width="100" data-file-height="95" /></a></td><td><i>This <a href="/wiki/Award" title="Award">award</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Title_of_honor&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Award-stub" title="Template:Award-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Award-stub" title="Template talk:Award-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Award-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
-<div role="navigation" class="navbox" aria-labelledby="Personal_names_and_anthroponymy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Personal_names" title="Template:Personal names"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Personal_names" title="Template talk:Personal names"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Personal_names&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Personal_names_and_anthroponymy" style="font-size:114%;margin:0 4em"><a href="/wiki/Personal_name" title="Personal name">Personal names</a> and <a href="/wiki/Anthroponymy" title="Anthroponymy">anthroponymy</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*Personal_identity">
-<ul><li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Personal_name" title="Personal name">Personal name</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Given_name" title="Given name">Given name</a></li>
-<li><a href="/wiki/Surname" title="Surname">Surname</a>
-<ul><li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineal</a>/<a href="/wiki/Matriname" title="Matriname">Matrilineal</a></li>
-<li><a href="/wiki/List_of_family_name_affixes" title="List of family name affixes">Affixes</a>
-<ul><li><a href="/wiki/Nobiliary_particle" title="Nobiliary particle">Nobiliary particle</a></li></ul></li></ul></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By sequence</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Given_name" title="Given name">First name</a></li>
-<li><a href="/wiki/Middle_name" title="Middle name">Middle name</a></li>
-<li><a href="/wiki/Surname" title="Surname">Last name</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By trait</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Diminutive" title="Diminutive">Diminutive</a></li>
-<li><a href="/wiki/Double-barrelled_name" title="Double-barrelled name">Double-barrelled</a></li>
-<li><a href="/wiki/Eponym" title="Eponym">Eponymic</a></li>
-<li><a href="/wiki/Matronymic" title="Matronymic">Matronymic</a></li>
-<li><a href="/wiki/Metonymy" title="Metonymy">Metonymic</a></li>
-<li><a href="/wiki/Mononymous_person" title="Mononymous person">Mononymic</a></li>
-<li><a href="/wiki/Occupational_name" class="mw-redirect" title="Occupational name">Occupational name</a></li>
-<li><a href="/wiki/Patronymic" title="Patronymic">Patronymic</a></li>
-<li><a href="/wiki/Sobriquet" title="Sobriquet">Sobriquet</a></li>
-<li><a href="/wiki/Teknonymy" title="Teknonymy">Teknonymic</a></li>
-<li><a href="/wiki/Toponymy" title="Toponymy">Toponymic</a></li>
-<li><a href="/wiki/Patrial_name" title="Patrial name">Patrial name</a></li>
-<li><a href="/wiki/Patronymic_surname" title="Patronymic surname">Patronymic</a></li>
-<li><a href="/wiki/Unisex_name" title="Unisex name">Unisex</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By life situation</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Aptronym" title="Aptronym">Aptronym</a></li>
-<li><a href="/wiki/Code_name" title="Code name">Code name</a></li>
-<li><a href="/wiki/Maiden_and_married_names" title="Maiden and married names">Maiden and married names</a></li>
-<li><a href="/wiki/Necronym" title="Necronym">Necronym</a>
-<ul><li><a href="/wiki/Posthumous_name" title="Posthumous name">Posthumous name</a></li>
-<li><a href="/wiki/Temple_name" title="Temple name">Temple name</a></li></ul></li>
-<li><a href="/wiki/Placeholder_name" title="Placeholder name">Placeholder name</a>
-<ul><li><a href="/wiki/Notname" title="Notname">Notname</a></li></ul></li>
-<li><a href="/wiki/Regnal_name" title="Regnal name">Regnal name</a></li>
-<li><a href="/wiki/Slave_name" title="Slave name">Slave name</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pseudonym" title="Pseudonym">Pseudonyms</a> (<a href="/wiki/List_of_pseudonyms" title="List of pseudonyms">list</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Nickname" title="Nickname">Nicknames</a>
-<ul><li><a href="/wiki/Lists_of_nicknames" title="Lists of nicknames">list</a></li>
-<li><a href="/wiki/Hypocorism" title="Hypocorism">Hypocorism</a></li></ul></li>
-<li><i><a href="/wiki/Nom_de_guerre" class="mw-redirect" title="Nom de guerre">Nom de guerre</a></i></li>
-<li><a href="/wiki/Stage_name" title="Stage name">Stage name</a>
-<ul><li><a href="/wiki/List_of_stage_names" title="List of stage names">List of stage names</a></li>
-<li><a href="/wiki/List_of_one-word_stage_names" title="List of one-word stage names">List of one-word stage names</a></li></ul></li>
-<li><a href="/wiki/Ring_name" title="Ring name">Ring name</a></li>
-<li><a href="/wiki/Pen_name" title="Pen name">Pen name</a>
-<ul><li><a href="/wiki/Heteronym_(literature)" title="Heteronym (literature)">Heteronym</a></li></ul></li>
-<li><a href="/wiki/Username" class="mw-redirect" title="Username">Username</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By culture<br /><small><a href="/wiki/Surnames_by_country" title="Surnames by country">Surnames by country</a><br /><a href="/wiki/Courtesy_name" title="Courtesy name">Courtesy names</a></small></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Albanian_name" title="Albanian name">Albanian</a></li>
-<li><a href="/wiki/Naming_in_the_United_States" title="Naming in the United States">American</a>
-<ul><li><small><a href="/wiki/African-American_names" title="African-American names">African-American</a></small></li></ul></li>
-<li><a href="/wiki/Ancient_Greek_personal_names" title="Ancient Greek personal names">Ancient Greek</a></li>
-<li><a href="/wiki/Arabic_name" title="Arabic name">Arabic</a></li>
-<li><a href="/wiki/Armenian_name" title="Armenian name">Armenian</a></li>
-<li><a href="/wiki/Akan_names" title="Akan names">Ashanti</a></li>
-<li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal</a></li>
-<li><a href="/wiki/Azerbaijani_name" title="Azerbaijani name">Azerbaijani</a></li>
-<li><a href="/wiki/Bangladeshi_name" class="mw-redirect" title="Bangladeshi name">Bangladeshi</a></li>
-<li><a href="/wiki/Spanish_naming_customs#Basque_names" title="Spanish naming customs">Basque</a></li>
-<li><a href="/wiki/Belarusian_name" title="Belarusian name">Belarusian</a></li>
-<li><a href="/wiki/Bulgarian_name" title="Bulgarian name">Bulgarian</a></li>
-<li><a href="/wiki/Burmese_names" title="Burmese names">Burmese</a></li>
-<li><a href="/wiki/Cambodian_name" title="Cambodian name">Cambodian</a></li>
-<li><a href="/wiki/Canadian_name" title="Canadian name">Canadian</a></li>
-<li><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></li>
-<li><a href="/wiki/Chinese_name" title="Chinese name">Chinese</a>
-<ul><li><small><a href="/wiki/Hong_Kong_name" title="Hong Kong name">Hong Kong</a></small></li>
-<li><small><a href="/wiki/Manchu_name" title="Manchu name">Manchu</a></small></li>
-<li><small><a href="/wiki/Tibetan_name" title="Tibetan name">Tibetan</a></small></li></ul></li>
-<li><a href="/wiki/Cornish_surnames" title="Cornish surnames">Cornish</a></li>
-<li><a href="/wiki/Croatian_name" title="Croatian name">Croatian</a></li>
-<li><a href="/wiki/Czech_name" title="Czech name">Czech</a></li>
-<li><a href="/wiki/Dutch_name" title="Dutch name">Dutch</a></li>
-<li><a href="/wiki/English_name" title="English name">English</a></li>
-<li><a href="/wiki/Naming_conventions_in_Ethiopia_and_Eritrea" title="Naming conventions in Ethiopia and Eritrea">Ethiopian/Eritrean</a></li>
-<li><a href="/wiki/Ewe_language#Naming_system" title="Ewe language">Ewe</a></li>
-<li><a href="/wiki/Fijian_name" title="Fijian name">Fijian</a></li>
-<li><a href="/wiki/Filipino_name" title="Filipino name">Filipino</a></li>
-<li><a href="/wiki/Finnish_name" title="Finnish name">Finnish</a></li>
-<li><a href="/wiki/French_name" title="French name">French</a></li>
-<li><a href="/wiki/Spanish_naming_customs#Galician_names" title="Spanish naming customs">Galician</a></li>
-<li><a href="/wiki/Georgian_name" title="Georgian name">Georgian</a></li>
-<li><a href="/wiki/German_name" title="German name">German</a></li>
-<li><a href="/wiki/Germanic_name" title="Germanic name">Germanic</a></li>
-<li><a href="/wiki/Ghanaian_name" title="Ghanaian name">Ghanaian</a></li>
-<li><a href="/wiki/Greek_name" title="Greek name">Greek</a>
-<ul><li><small><a href="/wiki/Greek_Cypriot_name" title="Greek Cypriot name">Cypriot</a></small></li></ul></li>
-<li><a href="/wiki/Hawaiian_name" title="Hawaiian name">Hawaiian</a></li>
-<li><a href="/wiki/Hebrew_name" title="Hebrew name">Hebrew</a></li>
-<li><a href="/wiki/Hungarian_names" title="Hungarian names">Hungarian</a></li>
-<li><a href="/wiki/Icelandic_name" title="Icelandic name">Icelandic</a></li>
-<li><a href="/wiki/Igbo_name" title="Igbo name">Igbo</a></li>
-<li><a href="/wiki/Indian_name" title="Indian name">Indian</a>
-<ul><li><small><a href="/wiki/Saint_Thomas_Christian_names" title="Saint Thomas Christian names">Saint Thomas Christian names</a></small></li></ul></li>
-<li><a href="/wiki/Indonesian_names" title="Indonesian names">Indonesian</a>
-<ul><li><small><a href="/wiki/Balinese_name" title="Balinese name">Balinese</a></small></li>
-<li><small><a href="/wiki/Chinese_Indonesian_surname" title="Chinese Indonesian surname">Chinese</a></small></li>
-<li><small><a href="/wiki/Javanese_name" title="Javanese name">Javanese</a></small></li></ul></li>
-<li><a href="/wiki/Irish_name" title="Irish name">Irish</a></li>
-<li><a href="/wiki/Italian_name" title="Italian name">Italian</a></li>
-<li><a href="/wiki/Japanese_name" title="Japanese name">Japanese</a>
-<ul><li><small><a href="/wiki/Amami_name" title="Amami name">Amami</a></small></li>
-<li><small><a href="/wiki/Okinawan_name" title="Okinawan name">Okinawan</a></small></li></ul></li>
-<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish</a></li>
-<li><a href="/wiki/Kalmyk_names" title="Kalmyk names">Kalmyk</a></li>
-<li><a href="/wiki/Korean_name" title="Korean name">Korean</a></li>
-<li><a href="/wiki/Lao_name" title="Lao name">Lao</a></li>
-<li><a href="/wiki/Latvian_name" title="Latvian name">Latvian</a></li>
-<li><a href="/wiki/Lithuanian_name" title="Lithuanian name">Lithuanian</a></li>
-<li><a href="/wiki/Macedonian_onomastics" title="Macedonian onomastics">Macedonian</a></li>
-<li><a href="/wiki/Malaysian_names" title="Malaysian names">Malaysian</a></li>
-<li><a href="/wiki/M%C4%81ori_naming_customs" title="Māori naming customs">Māori</a></li>
-<li><a href="/wiki/Mongolian_name" title="Mongolian name">Mongol</a></li>
-<li><a href="/wiki/Scandinavian_family_name_etymology#Norway" title="Scandinavian family name etymology">Norwegian</a></li>
-<li><a href="/wiki/Pakistani_name" title="Pakistani name">Pakistani</a>
-<ul><li><small><a href="/wiki/Pashtun_name" title="Pashtun name">Pashtun</a></small></li>
-<li><small><a href="/wiki/Sindhi_names" title="Sindhi names">Sindhi</a></small></li></ul></li>
-<li><a href="/wiki/Persian_name" title="Persian name">Persian</a></li>
-<li><a href="/wiki/Polish_name" title="Polish name">Polish</a></li>
-<li><a href="/wiki/Portuguese_name" title="Portuguese name">Portuguese</a></li>
-<li><a href="/wiki/Roman_naming_conventions" title="Roman naming conventions">Roman</a>
-<ul><li><small><a href="/wiki/Praenomen" title="Praenomen">Praenomen</a></small></li>
-<li><small><a href="/wiki/Nomen_(Roman_name)" title="Nomen (Roman name)">Nomen</a></small></li>
-<li><small><a href="/wiki/Cognomen" title="Cognomen">Cognomen</a></small></li></ul></li>
-<li><a href="/wiki/Romanian_name" title="Romanian name">Romanian</a></li>
-<li><a href="/wiki/Eastern_Slavic_naming_customs" title="Eastern Slavic naming customs">Russian</a></li>
-<li><a href="/wiki/Yakut_names" title="Yakut names">Sakha</a></li>
-<li><a href="/wiki/Scottish_Gaelic_name" title="Scottish Gaelic name">Scottish Gaelic</a></li>
-<li><a href="/wiki/Serbian_names" title="Serbian names">Serbian</a></li>
-<li><a href="/wiki/Slavic_names" title="Slavic names">Slavic</a></li>
-<li><a href="/wiki/Slovak_name" title="Slovak name">Slovak</a></li>
-<li><a href="/wiki/Somali_name" title="Somali name">Somali</a></li>
-<li><a href="/wiki/Spanish_naming_customs" title="Spanish naming customs">Spanish</a>
-<ul><li><small><a href="/wiki/Naming_customs_of_Hispanic_America" title="Naming customs of Hispanic America">Hispanic America</a></small></li>
-<li><small><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></small></li></ul></li>
-<li><a href="/wiki/Swedish_name" title="Swedish name">Swedish</a></li>
-<li><a href="/wiki/Naming_customs_of_Taiwanese_aborigines" title="Naming customs of Taiwanese aborigines">Taiwanese aboriginal</a></li>
-<li><a href="/wiki/Indian_family_names#Tamil_names" class="mw-redirect" title="Indian family names">Tamil</a>
-<ul><li><small><a href="/wiki/Naming_conventions_of_ancient_Tamil_country" title="Naming conventions of ancient Tamil country">Ancient Tamil country</a></small></li></ul></li>
-<li><a href="/wiki/Tatar_name" title="Tatar name">Tatar</a></li>
-<li><a href="/wiki/Thai_name" title="Thai name">Thai</a></li>
-<li><a href="/wiki/Turkish_name" title="Turkish name">Turkish</a></li>
-<li><a href="/wiki/Ukrainian_name" title="Ukrainian name">Ukrainian</a></li>
-<li><a href="/wiki/Vietnamese_name" title="Vietnamese name">Vietnamese</a></li>
-<li><a href="/wiki/Welsh_surnames" title="Welsh surnames">Welsh</a></li>
-<li><a href="/wiki/Yakut_names" title="Yakut names">Yakut</a></li>
-<li><a href="/wiki/Yoruba_name" title="Yoruba name">Yoruba</a></li>
-<li><a href="/wiki/Zimbabwean_names" title="Zimbabwean names">Zimbabwean</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Religious_name" title="Religious name">Religious names</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Christian_name" title="Christian name">Christian name</a>
-<ul><li><a href="/wiki/List_of_biblical_names" title="List of biblical names">Biblical name</a></li>
-<li><a href="/wiki/Papal_name" title="Papal name">Papal name</a></li>
-<li><a href="/wiki/Saint%27s_name" title="Saint&#39;s name">Saint's name</a></li></ul></li>
-<li><a href="/wiki/Dharma_name" title="Dharma name">Dharma name</a></li>
-<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish name</a></li>
-<li><a href="/wiki/Theophoric_name" title="Theophoric name">Theophoric name</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Manners of address<br /><small><a href="/wiki/List_of_titles" title="List of titles">List</a></small><br /><small><a href="/wiki/Title_of_authority" title="Title of authority">of authority</a>/<a class="mw-selflink selflink">of honour</a></small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Style_(manner_of_address)" title="Style (manner of address)">Styles</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Honorific" title="Honorific">Honorific</a>
-<ul><li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
-<li><a href="/wiki/Imperial,_royal,_and_noble_styles" title="Imperial, royal, and noble styles">Imperial, royal, and noble</a></li>
-<li><a href="/wiki/Judiciary_styles" class="mw-redirect" title="Judiciary styles">Judiciary</a></li>
-<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
-<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul></li>
-<li><a href="/wiki/Pre-nominal_letters" title="Pre-nominal letters">Pre-nominal letters</a></li>
-<li><a href="/wiki/Suffix_(name)" title="Suffix (name)">Suffix</a>
-<ul><li><a href="/wiki/Emeritus" title="Emeritus">Emeritus</a></li>
-<li><a href="/wiki/Post-nominal_letters" title="Post-nominal letters">Post-nominal letters</a>
-<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
-<li><a href="/wiki/Order_(distinction)" title="Order (distinction)">Orders</a>, <a href="/wiki/Award" title="Award">decorations</a>, and <a href="/wiki/Medal" title="Medal">medals</a></li></ul></li></ul></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Title" title="Title">Titles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
-<li><a href="/wiki/Imperial,_royal_and_noble_ranks" title="Imperial, royal and noble ranks">Imperial, royal and noble</a>
-<ul><li><a href="/wiki/Chivalry" title="Chivalry">Chivalric</a></li>
-<li><a href="/wiki/Court_title" class="mw-redirect" title="Court title">Court</a></li></ul></li>
-<li><a href="/wiki/Military_rank" title="Military rank">Military</a></li>
-<li><a href="/wiki/Professional_titles" class="mw-redirect" title="Professional titles">Professional</a>
-<ul><li><a href="/wiki/Academic_ranks" class="mw-redirect" title="Academic ranks">Academic</a>
-<ul><li><a href="/wiki/Honorary_title_(academic)" title="Honorary title (academic)">Honorary</a></li></ul></li>
-<li><a href="/wiki/Corporate_title" title="Corporate title">Business</a></li>
-<li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
-<li><a href="/wiki/Professional_degree" title="Professional degree">Educational</a></li>
-<li><a href="/wiki/Judicial_titles" class="mw-redirect" title="Judicial titles">Judicial</a></li></ul></li>
-<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
-<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul>
-</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related traditions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Baptism" title="Baptism">Baptism</a></li>
-<li><a href="/wiki/Name_day" title="Name day">Name day</a>
-<ul><li><a href="/wiki/Calendar_of_saints" title="Calendar of saints">Calendar of saints</a></li></ul></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Acronym" title="Acronym">Acronym</a></li>
-<li><a href="/wiki/Anonymity" title="Anonymity">Anonymity</a></li>
-<li><a href="/wiki/Anthropomorphism" title="Anthropomorphism">Anthropomorphism</a>
-<ul><li><a href="/wiki/National_personification" title="National personification">National personification</a></li></ul></li>
-<li><a href="/wiki/Call_sign" title="Call sign">Call sign</a></li>
-<li><a href="/wiki/Family" title="Family">Family</a></li>
-<li><a href="/wiki/Galton%E2%80%93Watson_process" title="Galton–Watson process">Galton–Watson process</a></li>
-<li><a href="/wiki/Legal_name" title="Legal name">Legal name</a>
-<ul><li><a href="/wiki/Name_change" title="Name change">Name change</a></li></ul></li>
-<li><i><a href="/wiki/Nomen_nescio" title="Nomen nescio">Nomen nescio</a></i></li>
-<li><i><a href="/wiki/-onym" title="-onym">-onym</a></i></li>
-<li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a>
-<ul><li><a href="/wiki/Identifier" title="Identifier">Identifier</a></li></ul></li>
-<li><a href="/wiki/Proper_name" class="mw-redirect" title="Proper name">Proper name</a></li>
-<li><a href="/wiki/Signature" title="Signature">Signature</a>
-<ul><li><a href="/wiki/Monogram" title="Monogram">Monogram</a></li>
-<li><a href="/wiki/Signum_manus" title="Signum manus">Signum manus</a></li>
-<li><a href="/wiki/Tughra" title="Tughra">Tughra</a></li></ul></li>
-<li><a href="/wiki/Naming_taboo" title="Naming taboo">Naming taboo</a></li></ul>
-</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
-<ul><li><a href="/wiki/Category:Lists_of_names" title="Category:Lists of names">Category:Lists of names</a></li></ul>
-</div></td></tr></tbody></table></div>
+<h2><span class="mw-headline" id="Purpose">Purpose</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kouros&amp;action=edit&amp;section=2" title="Edit section: Purpose">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Ac.kleobisandbiton.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ac.kleobisandbiton.jpg/200px-Ac.kleobisandbiton.jpg" decoding="async" width="200" height="272" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ac.kleobisandbiton.jpg/300px-Ac.kleobisandbiton.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ac.kleobisandbiton.jpg/400px-Ac.kleobisandbiton.jpg 2x" data-file-width="965" data-file-height="1310" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Ac.kleobisandbiton.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Kleobis" class="mw-redirect" title="Kleobis">Kleobis</a> and <a href="/wiki/Kleobis_and_Biton" title="Kleobis and Biton">Biton</a> (<a href="/wiki/Delphi" title="Delphi">Delphi</a>: <a href="/wiki/Delphi_Archaeological_Museum" title="Delphi Archaeological Museum">Archaeological Museum</a>)</div></div></div>
+<p>The kouros type appears to have served several functions. It was previously thought that it was used only to represent the god <a href="/wiki/Apollo" title="Apollo">Apollo</a>, as attested by its depiction on a vase painting in the presence of supplicants.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> This association with Apollo was supported by the description of the statue of the Pythian Apollo at Samos by Diodoros<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> as "Egyptian in style, with his arms hanging by his sides and his legs parted". However, not all kouroi are images of a deity; many have been discovered in cemeteries where they most likely served as commemorative tombstones of the deceased, also the type was used as a memorial for victors in the games (like trophies), kouroi were used as offerings to the gods, (Pausanias describes the statue of <a href="/wiki/Arrhichion" title="Arrhichion">Arrhichion</a>, an Olympic pankratiast, as in the kouros scheme),<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> and some kouroi have been found in sanctuaries other than that of Apollo. Indeed, some kouroi placed in sanctuaries were not inscribed with the name of the god but with a mortal, for example the 'Delphi Twins' Kleobis and Biton were honoured for their piety with matching kouroi.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p><p>A direct influence between Egyptian sculptures (in particular the figure of <a href="/wiki/Horus" title="Horus">Horus</a>) and the kouros type has long been conjectured, not least because of trade and cultural relations that are known to have existed since the mid-seventh century <a href="/wiki/BCE" class="mw-redirect" title="BCE">BCE</a>. A 1978 study by Eleanor Guralnick applied <a href="/wiki/Photogrammetry" title="Photogrammetry">stereophotogrammetric</a> measurement and <a href="/wiki/Cluster_analysis" title="Cluster analysis">cluster analysis</a> to a number of Greek and Egyptian statues and found the correlation between the Second Canon of the 26th Dynasty and Greek kouroi to be widely distributed but not universal.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Origin_and_evolution">Origin and evolution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kouros&amp;action=edit&amp;section=3" title="Edit section: Origin and evolution">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Louvre_E5345.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Louvre_E5345.jpg/200px-Louvre_E5345.jpg" decoding="async" width="200" height="267" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Louvre_E5345.jpg/300px-Louvre_E5345.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Louvre_E5345.jpg/400px-Louvre_E5345.jpg 2x" data-file-width="1200" data-file-height="1600" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Louvre_E5345.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Saite" class="mw-redirect" title="Saite">Saite</a> sculpture from the 26th dynasty similar in proportion and form to the early kouros type, <a href="/wiki/Louvre" title="Louvre">Louvre</a> E5345.</div></div></div>
+<p>The problem of the evolution of the kouros type is inevitably linked to that of the overall development of monumental Archaic Greek sculpture. There are fundamentally two schools of thought on how those Daedalic forms, some of which we know of only from the literature (kolossos, bretas, andrias and xoanon), became the free-standing sculpture in the round of the 6th century; namely, that it was a response to the internal development of Greek types and religious needs<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> or a product of foreign influence. For an external cause for change possible sources of influence have been cited as Egypt, Anatolia and Syria, with the strongest case made for Egypt. It is known that the Greeks had longstanding trade relations with Egypt prior to the founding of the Greek entrepôt of <a href="/wiki/Naukratis" class="mw-redirect" title="Naukratis">Naukratis</a> in the mid-7th century<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> from where the Greeks could have learned Egyptian sculpting methods.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p><p>The work of Guralnick along with the previous studies by Erik Iversen and Kim Levin<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> have added considerably to the argument for an imitation by Greek sculptors of Egyptian sculpture. The system of proportion in the second Egyptian canon of the <a href="/wiki/Saite" class="mw-redirect" title="Saite">Saite</a> period consisted of a grid of twenty-one and one fourth parts, with twenty-one squares from the soles of the feet to a line drawn through the centres of the eyes. The grid was applied to the surface of the block being carved, allowing the major anatomical features to be located at fixed grid points. Iversen has shown that the New York kouros conforms to this ratio of proportion. It was Guralnick, however, who developed this discovery by comparing other kouroi by means of <a href="/wiki/Cluster_analysis" title="Cluster analysis">cluster</a> and <a href="/wiki/Standard_score" title="Standard score">Z-score</a> profile analysis to the Egyptian Canon II and a control group composed of statistically average Mediterranean men. As a result, she has identified two strains within methods of proportioning in sixth century kouroi, where the majority follow the general line of evolution  from the foreign model towards an idealized human norm.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Attributes_and_meaning">Attributes and meaning</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kouros&amp;action=edit&amp;section=4" title="Edit section: Attributes and meaning">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Drawing_of_a_bronze_statue_from_the_Temple_of_Apollo_Patroos._AGMA.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Drawing_of_a_bronze_statue_from_the_Temple_of_Apollo_Patroos._AGMA.jpg/220px-Drawing_of_a_bronze_statue_from_the_Temple_of_Apollo_Patroos._AGMA.jpg" decoding="async" width="220" height="112" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Drawing_of_a_bronze_statue_from_the_Temple_of_Apollo_Patroos._AGMA.jpg/330px-Drawing_of_a_bronze_statue_from_the_Temple_of_Apollo_Patroos._AGMA.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Drawing_of_a_bronze_statue_from_the_Temple_of_Apollo_Patroos._AGMA.jpg/440px-Drawing_of_a_bronze_statue_from_the_Temple_of_Apollo_Patroos._AGMA.jpg 2x" data-file-width="4000" data-file-height="2042" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Drawing_of_a_bronze_statue_from_the_Temple_of_Apollo_Patroos._AGMA.jpg" class="internal" title="Enlarge"></a></div>Left: Drawing of a bronze statue from the <a href="/wiki/Temple_of_Apollo_Patroos" title="Temple of Apollo Patroos">Temple of Apollo Patroos</a> (6th century BC), showing the parts preserved in the <a href="/wiki/Clay" title="Clay">clay</a> <a href="/wiki/Lost-wax_casting" title="Lost-wax casting">molds</a>. Right: Bronze-casting pit and <a href="/wiki/Furnace_(disambiguation)" class="mw-disambig" title="Furnace (disambiguation)">furnace</a>. Museum of the Ancient Agora of Athens.</div></div></div>
+<p>Kouroi are beardless, take a formulaic advancing posture, and are most often nude.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> Taking from the style of Egyptian figures, Greek kouroi often have their left leg extended forward as though walking; however, the figurine looks as though it could be either standing still or taking a long stride.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> A small number of early kouroi are belted around their waists, a practice that died out at the turn of the sixth century. Such belts have traditionally been assumed to be an abbreviated symbol of a more complex costume,<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> however fully clothed contemporary figures also exist, suggesting that it was not just a sculptor's shorthand for clothing but a signifier in itself. Art historian <a href="/wiki/Brunilde_Sismondo_Ridgway" title="Brunilde Sismondo Ridgway">Brunilde Ridgway</a><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> suggests in her 1977 <i>The Archaic Style in Greek Sculpture</i> that this may have been an attribute of Apollo, athleticism or magical powers, though its iconography remains obscure. Further, there is the question of the nudity of the kouros and if this is also an attribute. Again this may have represented athletic or heroic nudity – immortalising the youth as he appeared in the <a href="/wiki/Palaestra" title="Palaestra">palaestra</a>, but no examples have been found at Olympia nor do they bear any allusion to athletic equipment.
+</p><p>As well as being found in the sanctuaries of Apollo at Delphi, Delos and Mt. Ptoion, kouroi have been found dedicated at the sanctuaries of Hera at Samos, and of Athena and Poseidon at Sounion,<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup> so the contention that they depict Apollo is at the very least problematic. However, the majority are from Apollonian sites and dedicated to that god, which has led Ridgway to suggest that the early, belted form of the kouros-type statue was introduced in the late seventh century as a replacement for the colossal representation of Apollo.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> Over time, the votive and funerary functions of the sculpture became divorced whilst its attributes were shed and its form became more generic until, in the late sixth century, it could serve a number of uses depending on context and location. This 'polyvalent' argument, initially put forth by historian Jean Ducat,<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup> was elaborated by art historian Andrew Stewart, who contends the distribution of kouroi coincides with city-states where the aristocracy were in ascendancy and that this alternation between the divine and the memorial was an identification of aristocratic <i><a href="/wiki/Arete_(moral_virtue)" class="mw-redirect" title="Arete (moral virtue)">arete</a></i> with the immortal.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Development">Development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kouros&amp;action=edit&amp;section=5" title="Edit section: Development">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r923042769/mw-parser-output/.tmulti">.mw-parser-output .tmulti .thumbinner{display:flex;flex-direction:column}.mw-parser-output .tmulti .trow{display:flex;flex-direction:row;clear:left;flex-wrap:wrap;width:100%;box-sizing:border-box}.mw-parser-output .tmulti .tsingle{margin:1px;float:left}.mw-parser-output .tmulti .theader{clear:both;font-weight:bold;text-align:center;align-self:center;background-color:transparent;width:100%}.mw-parser-output .tmulti .thumbcaption{text-align:left;background-color:transparent}.mw-parser-output .tmulti .thumbcaption-center{text-align:center;background-color:transparent}.mw-parser-output .tmulti .text-align-left{text-align:left}.mw-parser-output .tmulti .text-align-right{text-align:right}.mw-parser-output .tmulti .text-align-center{text-align:center}@media all and (max-width:720px){.mw-parser-output .tmulti .thumbinner{width:100%!important;box-sizing:border-box;max-width:none!important;align-items:center}.mw-parser-output .tmulti .trow{justify-content:center}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:100%!important;box-sizing:border-box;text-align:center}.mw-parser-output .tmulti .thumbcaption{text-align:center}}</style><div class="thumb tmulti tright" style="background-color:white"><div class="thumbinner" style="width:213px;max-width:213px;background-color:white"><div class="trow"><div class="tsingle" style="background-color:white;width:107px;max-width:107px"><div class="thumbimage"><a href="/wiki/File:Muscles_anterior_labeled.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Muscles_anterior_labeled.png/105px-Muscles_anterior_labeled.png" decoding="async" width="105" height="122" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Muscles_anterior_labeled.png/158px-Muscles_anterior_labeled.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Muscles_anterior_labeled.png/210px-Muscles_anterior_labeled.png 2x" data-file-width="1156" data-file-height="1342" /></a></div></div><div class="tsingle" style="background-color:white;width:102px;max-width:102px"><div class="thumbimage"><a href="/wiki/File:Muscle_posterior_labeled.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Muscle_posterior_labeled.png/100px-Muscle_posterior_labeled.png" decoding="async" width="100" height="122" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Muscle_posterior_labeled.png/150px-Muscle_posterior_labeled.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Muscle_posterior_labeled.png/200px-Muscle_posterior_labeled.png 2x" data-file-width="1063" data-file-height="1297" /></a></div></div></div><div class="trow"><div class="thumbcaption" style="background-color:transparent">Human écorchés</div></div></div></div>
+<p>The earliest extant examples may be the two life-sized marble figures from the Ionic sanctuary on the island of Delos<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup> dating from the second or third quarter of the seventh century. The canonical form of the kouros persists until the beginning of the classical period, by which time artists had achieved a high degree of anatomical verisimilitude, if not naturalism,<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup> as can be observed on such transitional works as the <a href="/wiki/Kritios_Boy" title="Kritios Boy">Kritios Boy</a>, c. 480 BC.
+</p><p>The absolute chronology of the kouros form is uncertain; none of the sculptures have secure dates. Further there is a strong homogeneity across the various regional schools: where anatomical innovations were adopted they seem to have spread quickly amongst the different workshops so that "regional distinctions become merged in a common progression".<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup> Consequently, the development of the kouros type as we now understand it is based on the relative chronology delineated by Gisela Richter. She distinguishes six groups by their common anatomical features, with particular reference to the major muscle groups as illustrated in the <a href="/wiki/%C3%89corch%C3%A9" title="Écorché">écorchés</a> to the right.
+</p>
+<h3><span class="mw-headline" id="Sounion_group">Sounion group</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kouros&amp;action=edit&amp;section=6" title="Edit section: Sounion group">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>C. 615–590 BC: the dates of this period are tentative, roughly late seventh-early sixth century, which Richter<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup> infers from the duration of development necessary for the previous generations from the more securely dated Tenea-Volomandra group. Additionally she notes a similarity of sculpture from this time to <a href="/wiki/Black-figure_pottery" title="Black-figure pottery">early Athenian pottery</a>, particularly the <a href="/wiki/Nessos_Painter" title="Nessos Painter">Nessos amphora</a><sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup> and the human figures on the Horse amphorae.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup> She also detects<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup> a resemblance between the New York-Sounion kouroi and an early Corinthian pyxis<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup> of the last quarter of the seventh century. Notable works of the time include the <a href="/wiki/New_York_kouros" class="mw-redirect" title="New York kouros">New York kouros</a> (Met 32.11.1), Dermys and Kittylos (<a href="/wiki/National_Archaeological_Museum_of_Athens" class="mw-redirect" title="National Archaeological Museum of Athens">NAMA</a> 56), <a href="/wiki/Delphi" title="Delphi">Delphi</a> Twins (Delphi Mus. 467 and 1524), the <a href="/wiki/Sounion_kouros" class="mw-redirect" title="Sounion kouros">Sounion kouros</a>, and the Delos colossus.
+</p><p>The conception of form in this period is abstract and geometrical, emphasis is on architectural shape and the interrelation of parts which favoured expressive pattern over realism. Figures display the four faces of the block from which they are carved, their form is cubic with details incised, and their anatomy is only partially understood. Harmony and expressive pattern are the goal, and as such the proportions are abnormal. The torso is four-sided and flat, the back is higher than chest with the vertebral column expressed as a  straight line. The skull is undeveloped; flat at the back and often on top. The ear is carved in one plane, and highly stylized. <a href="/wiki/Tragus_(ear)" title="Tragus (ear)">Tragus</a> is knob like, either on cheek or lobe. <a href="/wiki/Antitragus" title="Antitragus">Antitragus</a> is not indicated. The eyes are large and flat, <a href="/wiki/Canthus_(anatomy)" class="mw-redirect" title="Canthus (anatomy)">canthus</a> is not marked, <a href="/wiki/Ciaccio%27s_glands" title="Ciaccio&#39;s glands">lachrymal caruncle</a> is not indicated. The mouth is horizontal, with lips on same plane, and corners of mouth forming triangular depressions. Hair is arranged in parallel beaded tresses, which rarely radiates from the <a href="/wiki/Vertex_(anatomy)" title="Vertex (anatomy)">vertex</a>. The <a href="/wiki/Sternocleidomastoid_muscle" title="Sternocleidomastoid muscle">Sterno-mastoids</a>, when marked, are indicated by grooves running to the <a href="/wiki/Suprasternal_notch" title="Suprasternal notch">sternal notch</a>. There is no indication of swelling of <a href="/wiki/Trapezius" title="Trapezius">trapezius</a> on the outline of shoulders. The <a href="/wiki/Clavicles" class="mw-redirect" title="Clavicles">clavicles</a> are flat ridges along whole course of shoulders. <a href="/wiki/Median_line" class="mw-redirect" title="Median line">Median line</a> is sometimes marked by a groove from sternal notch to navel. The lower boundary of the <a href="/wiki/Thorax" title="Thorax">thorax</a> has the shape of a pointed arch. <a href="/wiki/Rectus_abdominis" class="mw-redirect" title="Rectus abdominis">Rectus abdominis</a> is formed by three or more transverse divisions above navel. The navel is generally a knob in a circular groove. <a href="/wiki/Serratus_anterior_muscle" title="Serratus anterior muscle">Serratus magnus</a> is not indicated. The shoulder blades are outlined by grooves on the surface of back. The <a href="/wiki/Erector_spinae" class="mw-redirect" title="Erector spinae">erector spinae</a> attachment to posterior part of the <a href="/wiki/Iliac_crest" title="Iliac crest">iliac crest</a> is sometimes indicated by grooves in the <a href="/wiki/Lumbar" title="Lumbar">lumbar</a> regions. Forearm is <a href="/wiki/Supination" class="mw-redirect" title="Supination">supinated</a>, with palm towards the body. Arms often separated from body between armpit and hand. Thumbs are large. <a href="/wiki/Vastus_medialis" title="Vastus medialis">Vastus internus</a> descends to about the same level as <a href="/wiki/Vastus_lateralis_muscle" title="Vastus lateralis muscle">vastus externus</a>, the shin is vertical, and the <a href="/wiki/Malleoli" class="mw-redirect" title="Malleoli">malleoli</a> are level. Weight is evenly distributed on both legs and the flanks are level.
+</p>
+<center>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 235px"><div style="width: 235px">
+			<div class="thumb" style="width: 230px;"><div style="margin:15px auto;"><a href="/wiki/File:Athenskouros.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Athenskouros.jpg/113px-Athenskouros.jpg" decoding="async" width="113" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Athenskouros.jpg/169px-Athenskouros.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Athenskouros.jpg/226px-Athenskouros.jpg 2x" data-file-width="668" data-file-height="1181" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Sounion_kouros" class="mw-redirect" title="Sounion kouros">Sounion kouros</a>, <a href="/wiki/National_Archaeological_Museum_of_Athens" class="mw-redirect" title="National Archaeological Museum of Athens">NAMA</a> 2720
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 235px"><div style="width: 235px">
+			<div class="thumb" style="width: 230px;"><div style="margin:15px auto;"><a href="/wiki/File:Marble_statue_of_a_kouros_(youth)_MET_DT263.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Marble_statue_of_a_kouros_%28youth%29_MET_DT263.jpg/127px-Marble_statue_of_a_kouros_%28youth%29_MET_DT263.jpg" decoding="async" width="127" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Marble_statue_of_a_kouros_%28youth%29_MET_DT263.jpg/190px-Marble_statue_of_a_kouros_%28youth%29_MET_DT263.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Marble_statue_of_a_kouros_%28youth%29_MET_DT263.jpg/254px-Marble_statue_of_a_kouros_%28youth%29_MET_DT263.jpg 2x" data-file-width="2363" data-file-height="3722" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/New_York_Kouros" title="New York Kouros">New York Kouros</a>, <a href="/wiki/Metropolitan_Museum_of_Art" title="Metropolitan Museum of Art">Metropolitan Museum of Art</a> 32.11.1
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 235px"><div style="width: 235px">
+			<div class="thumb" style="width: 230px;"><div style="margin:15px auto;"><a href="/wiki/File:KAMA_Kouros_Porte_Sacr%C3%A9e.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/KAMA_Kouros_Porte_Sacr%C3%A9e.jpg/111px-KAMA_Kouros_Porte_Sacr%C3%A9e.jpg" decoding="async" width="111" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/KAMA_Kouros_Porte_Sacr%C3%A9e.jpg/167px-KAMA_Kouros_Porte_Sacr%C3%A9e.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/KAMA_Kouros_Porte_Sacr%C3%A9e.jpg/223px-KAMA_Kouros_Porte_Sacr%C3%A9e.jpg 2x" data-file-width="800" data-file-height="1433" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/w/index.php?title=Kerameikos_Archaeological_Museum_(Athens)&amp;action=edit&amp;redlink=1" class="new" title="Kerameikos Archaeological Museum (Athens) (page does not exist)">KAMA</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 235px"><div style="width: 235px">
+			<div class="thumb" style="width: 230px;"><div style="margin:15px auto;"><a href="/wiki/File:NAMA_Statue_of_a_kouros.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/NAMA_Statue_of_a_kouros.JPG/150px-NAMA_Statue_of_a_kouros.JPG" decoding="async" width="150" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/NAMA_Statue_of_a_kouros.JPG/225px-NAMA_Statue_of_a_kouros.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/NAMA_Statue_of_a_kouros.JPG/300px-NAMA_Statue_of_a_kouros.JPG 2x" data-file-width="3000" data-file-height="4000" /></a></div></div>
+			<div class="gallerytext">
+<p>Athens, NAMA, 2720
+</p>
+			</div>
+		</div></li>
+</ul>
+</center>
+<h3><span id="Orchomenos.E2.80.93Thera_group"></span><span class="mw-headline" id="Orchomenos–Thera_group">Orchomenos–Thera group</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kouros&amp;action=edit&amp;section=7" title="Edit section: Orchomenos–Thera group">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>C. 590–570 BC: this period witnesses a lull in Attica with perhaps only two identifiable works from the beginning of the era until the second quarter of century (NAMA 3858 and 4181), this might be due to the Solonic reforms and their restriction on the extravagance of private funerals. Activity is more vigorous in Boeotia, especially those from the Ptoan sanctuary and the Orchomenos kouros (NAMA 9), early work there is probably native.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup> Also Corinth, Actium produces one of the best examples of the period (Louvre MNB 767), detailing still of in the form of grooves and ridges but there is the beginning of modeling in the full roundness of natural form. One of the more accomplished products of the time is the Thera kouros (NAMA 8), softer and less muscular in modeling it is more Ionian than Dorian though Thera was a Dorian colony. We may deduce the chronology of this period only if the dates for the Sounion and Volodmera groups are correct since there is no external evidence for the dates of this style; however, we can usefully compare the heads<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup> on vase painting of middle Corinthian 600-575<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup> which share the same stolid expression, flat skull, large eyes and horizontal mouth.
+</p><p>The characteristics of this style are as follows. The ear is still carved in one plane, but less stylised. Eyes are not so large as before and more rounded. Mouth is horizontal but no longer always in one plane. The slight protrusions of flanks are sometimes prolonged into a girdle-like ridge, the sculptor occasionally marks the anterior spine of the crest. Shoulder blades are now separate raised planes. The erector spinae sometimes indicated as raised planes. Arms are generally joined to body. The depression over <a href="/wiki/Greater_trochanter" title="Greater trochanter">great trochanter</a> is generally omitted. Shin sometimes curves inwards. Left flank is occasionally placed slightly forward.
+</p>
+<center>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 235px"><div style="width: 235px">
+			<div class="thumb" style="width: 230px;"><div style="margin:15px auto;"><a href="/wiki/File:BM_B474_kouros.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BM_B474_kouros.jpg/150px-BM_B474_kouros.jpg" decoding="async" width="150" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BM_B474_kouros.jpg/225px-BM_B474_kouros.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BM_B474_kouros.jpg/300px-BM_B474_kouros.jpg 2x" data-file-width="768" data-file-height="1024" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/British_Museum" title="British Museum">British Museum</a>, BM474, London.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 235px"><div style="width: 235px">
+			<div class="thumb" style="width: 230px;"><div style="margin:15px auto;"><a href="/wiki/File:Actium3.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Actium3.jpg/137px-Actium3.jpg" decoding="async" width="137" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Actium3.jpg/205px-Actium3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Actium3.jpg/274px-Actium3.jpg 2x" data-file-width="876" data-file-height="1280" /></a></div></div>
+			<div class="gallerytext">
+<p>Louvre, MNB 767.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 235px"><div style="width: 235px">
+			<div class="thumb" style="width: 230px;"><div style="margin:15px auto;"><a href="/wiki/File:0006MAN-Kouros1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/0006MAN-Kouros1.jpg/150px-0006MAN-Kouros1.jpg" decoding="async" width="150" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/0006MAN-Kouros1.jpg/225px-0006MAN-Kouros1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/0006MAN-Kouros1.jpg/300px-0006MAN-Kouros1.jpg 2x" data-file-width="750" data-file-height="1000" /></a></div></div>
+			<div class="gallerytext">
+<p>NAMA 8, from Thera.
+</p>
+			</div>
+		</div></li>
+</ul>
+</center>
+<h3><span id="Tenea.E2.80.93Volomandra_group"></span><span class="mw-headline" id="Tenea–Volomandra_group">Tenea–Volomandra group</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kouros&amp;action=edit&amp;section=8" title="Edit section: Tenea–Volomandra group">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>C. 575–550 BC: named after an Attic kouros found at Volomandra (NAMA 1906) and a Corinthian specimen from Tenea (Munich 168) this period marks the flowering of the Middle Archaic, and these kouroi are contemporary with such works as the Berlin Standing Kore, the <a href="/wiki/Moschophoros" title="Moschophoros">Moschophoros</a> and the Bluebeard Pediment. There is a tension observable in this group between the solid, architectonic quality of early styles and the expressive possibilities of a vigorous, fluid naturalism . The anatomical novelties of this time are as follows. The ear is carved in more than one plane. A roundness of the eye is indicated henceforth. Lips curve upwards and meet more or less at corners, the upper lip protrudes over lower. Construction of neck is generalized, sterno-mastoids when indicated are marked by slightly modelled shapes. On the median line a groove along sternum is generally replaced by modelled shapes and only the linea alba is marked by only a groove. The lower boundary of thorax assumes the shape of a somewhat rounded arch. There is a slight indication of the <a href="/wiki/External_oblique" class="mw-redirect" title="External oblique">external oblique</a> bulging over the <a href="/wiki/Iliac_crest" title="Iliac crest">iliac crest</a>. Shoulder blades are indicated as modelled shapes. The erector spinae is sometimes modelled. Size of thumb is normal. The <a href="/wiki/Vastus_medialis" title="Vastus medialis">vastus internus</a> descends lower than <a href="/wiki/Vastus_lateralis_muscle" title="Vastus lateralis muscle">vastus externus</a>. Shins curve inwards. The external malleolus is lower and further back than the internal one. The little toes slant inwards. The <a href="/wiki/Metatarsal" class="mw-redirect" title="Metatarsal">metatarsal</a> bones are lightly indicated.
+</p><p>The absolute chronology of this period is provided by the dedication of Rhombos on the Moschophoros, which may belong to the same time as a decree referring to the Panathenaia of 566. The Moschophoros is stylistically similar to early in this group giving us an approximate upper limit of 570.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup>  Additionally the terracotta kneeling boy<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup> found in a well in the Agora and dated by its black-figure pottery sherd stratum to circa 550 shares the flat almond eyes, absence of the trapezium and pointed arch of the lower thorax that characterizes the late Tenea-Volomandra, furnishing us with a tentative lower boundary for the style.
+</p>
+<center>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 235px"><div style="width: 235px">
+			<div class="thumb" style="width: 230px;"><div style="margin:15px auto;"><a href="/wiki/File:Museo_archeologico_di_Firenze,_Kouros_di_Milani_530_a.c._2.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Museo_archeologico_di_Firenze%2C_Kouros_di_Milani_530_a.c._2.JPG/150px-Museo_archeologico_di_Firenze%2C_Kouros_di_Milani_530_a.c._2.JPG" decoding="async" width="150" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Museo_archeologico_di_Firenze%2C_Kouros_di_Milani_530_a.c._2.JPG/225px-Museo_archeologico_di_Firenze%2C_Kouros_di_Milani_530_a.c._2.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Museo_archeologico_di_Firenze%2C_Kouros_di_Milani_530_a.c._2.JPG/300px-Museo_archeologico_di_Firenze%2C_Kouros_di_Milani_530_a.c._2.JPG 2x" data-file-width="1200" data-file-height="1600" /></a></div></div>
+			<div class="gallerytext">
+<p>Milani kouros, <a href="/wiki/National_Archaeological_Museum_(Florence)" class="mw-redirect" title="National Archaeological Museum (Florence)">Florence Museo Archeologico</a>, <a href="/wiki/Gisela_Richter" title="Gisela Richter">Richter</a> 70.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 235px"><div style="width: 235px">
+			<div class="thumb" style="width: 230px;"><div style="margin:15px auto;"><a href="/wiki/File:Apollo_of_Tenea_Glyptothek_Munich_168.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Apollo_of_Tenea_Glyptothek_Munich_168.jpg/69px-Apollo_of_Tenea_Glyptothek_Munich_168.jpg" decoding="async" width="69" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Apollo_of_Tenea_Glyptothek_Munich_168.jpg/104px-Apollo_of_Tenea_Glyptothek_Munich_168.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/Apollo_of_Tenea_Glyptothek_Munich_168.jpg/139px-Apollo_of_Tenea_Glyptothek_Munich_168.jpg 2x" data-file-width="269" data-file-height="774" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Kouros_of_Tenea" title="Kouros of Tenea">Tenea kouros</a>, Munich 168.
+</p>
+			</div>
+		</div></li>
+</ul>
+</center>
+<h3><span class="mw-headline" id="Melos_group">Melos group</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kouros&amp;action=edit&amp;section=9" title="Edit section: Melos group">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>C. 555–540 BC: figures of this period are simpler than before; their muscles are no longer separately accentuated. There is a tendency to flowing contour and a generalization of form. The tragus now sometimes assumes its natural form. The anterior part of the <a href="/wiki/Helix_(ear)" title="Helix (ear)">helix</a>, which is directed backwards (<a href="/w/index.php?title=Crus_helicis&amp;action=edit&amp;redlink=1" class="new" title="Crus helicis (page does not exist)">crus helicis</a>), is often prominent, and joined with the upper end of tragus. The antitragus is sometimes tentatively indicated, though wrongly placed. The anterior triangle of the neck is now better understood. Navel generally modelled as a depression. Indication of external oblique bulging over iliac crest. The <a href="/wiki/Human_abdomen" class="mw-redirect" title="Human abdomen">lower boundary of abdomen</a> occasionally forms a deep curve. Forearm and arm sometimes correctly semi-<a href="/wiki/Pronated" class="mw-redirect" title="Pronated">pronated</a>; both directed towards body. Arms sometimes arched towards body below the armpit. Big toe projects a little further or same as second toe. Four smaller toes and toe nails curve gently downwards.
+</p><p>"Astonishingly uniform"<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup> the products of this period are found across the Greek world in large quantities. This group is named after the best preserved example of the era (NAMA 1558). The date of this group is conjectured on the basis that one generation would be required for the development of the Melos group style prior to the more securely dated Anavysos-Ptoon style. However Richter argues there may be some relationship to other contemporary Greek art works, namely: the figures on Late Corinthian pottery circa 550 BC. exhibit the same degree of naturalism,<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup> and the archaic column sculptures from the Temple of Artemis Ephesos, thought to have been supplied by Croesus of Lydia, share some anatomical features.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup>  Of the important works that come done to us there is the colossal kouros from Megera (NAMA 13), a transitional early piece from Boeotia (Thebes 3) and an early Parian example (Louvre MND 888).
+</p>
+<center>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 235px"><div style="width: 235px">
+			<div class="thumb" style="width: 230px;"><div style="margin:15px auto;"><a href="/wiki/File:Kouros_from_thebes.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kouros_from_thebes.jpg/158px-Kouros_from_thebes.jpg" decoding="async" width="158" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kouros_from_thebes.jpg/238px-Kouros_from_thebes.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kouros_from_thebes.jpg/317px-Kouros_from_thebes.jpg 2x" data-file-width="1130" data-file-height="1426" /></a></div></div>
+			<div class="gallerytext">
+<p>Thebes 3.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 235px"><div style="width: 235px">
+			<div class="thumb" style="width: 230px;"><div style="margin:15px auto;"><a href="/wiki/File:Kouros_Asclepeion_Paros_Louvre.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kouros_Asclepeion_Paros_Louvre.jpg/70px-Kouros_Asclepeion_Paros_Louvre.jpg" decoding="async" width="70" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kouros_Asclepeion_Paros_Louvre.jpg/106px-Kouros_Asclepeion_Paros_Louvre.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kouros_Asclepeion_Paros_Louvre.jpg/141px-Kouros_Asclepeion_Paros_Louvre.jpg 2x" data-file-width="1000" data-file-height="2834" /></a></div></div>
+			<div class="gallerytext">
+<p>Ascleeion kouros, Louvre
+</p>
+			</div>
+		</div></li>
+</ul>
+</center>
+<h3><span id="Anavysos.E2.80.93Ptoon_12_group"></span><span class="mw-headline" id="Anavysos–Ptoon_12_group">Anavysos–Ptoon 12 group</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kouros&amp;action=edit&amp;section=10" title="Edit section: Anavysos–Ptoon 12 group">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>C. 540–520 BC: this is the era of the Peisistratos dynasty and marks the assumption of Athens as the centre of artistic activity in Greece. In this period of great development the anatomical proportions become normal, the forms modelled and the spine clearly S-shaped. The head is now spherical and well-developed. The tragus takes on its natural form, the antitragus is also indicated. Hair occasionally descends as far as nape of neck. The sterno-mastoids when marked are indicated by modelled shapes. Their attachment to <a href="/wiki/Human_sternum" class="mw-redirect" title="Human sternum">sternum</a> and clavicles is often not indicated, this results in a continuous hollow groove or run above the clavicle. There is an attempt to indicate the backward curve of clavicle. Groove along <a href="/wiki/Linea_alba_(abdomen)" title="Linea alba (abdomen)">linea alba</a> is sometimes continued below the navel. The lower boundary of <a href="/w/index.php?title=Thorax_arch&amp;action=edit&amp;redlink=1" class="new" title="Thorax arch (page does not exist)">thorax arch</a> is indicated. In the flanks the swelling of the external part is well developed. Lower boundary of abdomen assumes shape of small semicircle or deep curve. The erector spinae always indicated as modelled shape. Generally hand and forearm is semi-pronated. Hands are no longer attached to body but joined by short supports. The <a href="/wiki/Metacarpal" class="mw-redirect" title="Metacarpal">metacarpal</a> bones are sometimes indicated. The bulge of the vastus internus increases. Toes are no longer parallel but do not recede along a continuous curve. Toes and nails point upwards. The articulation of joints is well rendered. Sometimes the flank of the advanced leg is placed forward and higher than receding leg.
+</p><p>The characteristics of this group can be observed on the <a href="/wiki/Siphnian_Treasury" title="Siphnian Treasury">Siphnian Treasury</a> which is dated on external evidence before 525 BC,<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;42&#93;</a></sup> therefore allowing time for the maturation of the style we can date the beginning of this group to, roughly, a generation prior.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">&#91;43&#93;</a></sup> The earliest is perhaps the Munich kouros (Glyptothek 169) judging by the rendering of some of the muscles. Other significant Attic kouroi in this style are the Anavyssos (Base reads: "Stand and mourn Kroisos, first in line of battle and whom Ares [God of War] killed")(NAMA 3851), the akropolis torso (Akropolis 665, 596), and the Rayet head (Carlsberg Glyptothek 418). The island of Keos supplies us with one of the best examples of the time (NAMA 3686), notable for its advanced rendering of the back where the greatest protrusion of the back is level with that of the chest. Keos was likely under the cultural influence of Athens at this time and this kouros is comparable to and chronologically close to the Anavyssos kouros and akropolis head. From the Ptoan sanctuary in Boeotia we have the Ptoon 12 kouros (NAMA), "softer, less sturdy" suggests Richter<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">&#91;44&#93;</a></sup> it is, she asserts, a native Boeotian product and not an Athenian import.
+</p>
+<center>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 235px"><div style="width: 235px">
+			<div class="thumb" style="width: 230px;"><div style="margin:15px auto;"><a href="/wiki/File:0006MAN-Kouros2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/0006MAN-Kouros2.jpg/92px-0006MAN-Kouros2.jpg" decoding="async" width="92" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/0006MAN-Kouros2.jpg/139px-0006MAN-Kouros2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/0006MAN-Kouros2.jpg/185px-0006MAN-Kouros2.jpg 2x" data-file-width="371" data-file-height="800" /></a></div></div>
+			<div class="gallerytext">
+<p>Anavysos Kouros.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 235px"><div style="width: 235px">
+			<div class="thumb" style="width: 230px;"><div style="margin:15px auto;"><a href="/wiki/File:M%C3%BCnchner_Kouros_Glyptothek_Munich_169.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/M%C3%BCnchner_Kouros_Glyptothek_Munich_169.jpg/75px-M%C3%BCnchner_Kouros_Glyptothek_Munich_169.jpg" decoding="async" width="75" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/M%C3%BCnchner_Kouros_Glyptothek_Munich_169.jpg/112px-M%C3%BCnchner_Kouros_Glyptothek_Munich_169.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/M%C3%BCnchner_Kouros_Glyptothek_Munich_169.jpg/149px-M%C3%BCnchner_Kouros_Glyptothek_Munich_169.jpg 2x" data-file-width="1084" data-file-height="2895" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Munich_Kouros" title="Munich Kouros">Munich Kouros</a>, Munich 169.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 235px"><div style="width: 235px">
+			<div class="thumb" style="width: 230px;"><div style="margin:15px auto;"><a href="/wiki/File:NAMA_Statue_of_a_Kouros.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NAMA_Statue_of_a_Kouros.jpg/139px-NAMA_Statue_of_a_Kouros.jpg" decoding="async" width="139" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NAMA_Statue_of_a_Kouros.jpg/209px-NAMA_Statue_of_a_Kouros.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NAMA_Statue_of_a_Kouros.jpg/278px-NAMA_Statue_of_a_Kouros.jpg 2x" data-file-width="1916" data-file-height="2752" /></a></div></div>
+			<div class="gallerytext">
+<p>Athens, NAMA 4890, Kouros from Merenda.
+</p>
+			</div>
+		</div></li>
+</ul>
+</center>
+<h3><span class="mw-headline" id="Ptoon_20_group">Ptoon 20 group</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kouros&amp;action=edit&amp;section=11" title="Edit section: Ptoon 20 group">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>C. 520–485 BC: the last stage in the development of the kouros type is the period in which the Greek sculptor attained a full knowledge of human anatomy and used it to create a harmonious, proportionate whole. The features that now become expressed are as follows. The lachrymal caruncle is sometimes indicated. Lips curved upwards only in early examples, the upper lip protrudes markedly over the lower and lips are well shaped. Hair is generally short or rolled up behind, it radiates from a point near vertex and carved in wavy strands. The structure of neck is now correct. There is an indication of swelling of trapezium on the outline of shoulder, becoming more pronounced over time. Clavicles assume an s-shape and lose themselves in shoulders. The lower boundary of thorax assumes a semicircular arch. The rectus abdominis, now reduced in number to two, with the top one incorporated into lower boundary of thorax. There is a small raised plane caused by projection of <a href="/wiki/Xiphoid_process" title="Xiphoid process">xiphoid appendage</a> sometimes observable at lower end of sternum. Navel has fold of skin above in most examples. The lower boundary of abdomen assumes shape of semicircle, and the upper edge of torso with two concave curves becomes regular in form. Forearm and hand correctly pronated. Arms sometimes held free from body. Flanks; occasionally at first later regularly, flank and buttock of supporting leg rise in conformity with action.
+</p><p>This period is framed by the stasis of the Peisistratid era and the beginning of Athenian democracy and the Persian war. The upper limit of this group may be fixed by the sculpture of the temple of Apollo, Delphi.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">&#91;45&#93;</a></sup> Architecturally earlier than the Hekatompedon of Athens the Delphi temple has a probable date of c.520, thus the kouroi of its pediment which betray the swelling trapezium and semicircular lower boundary of the abdomen can be associated with later examples of the group. Yet these same youths have a grooved, narrow lower boundary to the thorax and their flanks are level, suggesting that they are early specimens of the style. Richter names this group after the kouros Ptoon 20, NAMA 20, which is likely a Boeotian work dedicated by Pythias of <a href="/wiki/Akraiphia" class="mw-redirect" title="Akraiphia">Akraiphia</a> and Aischrion to Apollo of the silver bow.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">&#91;46&#93;</a></sup> This along with the torso form Eutresis (Thebes 7) indicate a vigorous Boeotian school of sculpture which may have existed to serve the Ptoan sanctuary. Attic production is considerable up to c.500 BC after which it seems to peter out.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">&#91;47&#93;</a></sup> Important late kouroi from Athens include the Aristodikos kouros (Ptoon 20 group, NAMA 3938), an akropolis statuette (NAMA 6445) and the bronze Apollo from Piraeus.<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">&#91;48&#93;</a></sup>
+</p>
+<center>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 235px"><div style="width: 235px">
+			<div class="thumb" style="width: 230px;"><div style="margin:15px auto;"><a href="/wiki/File:Agrigent_Museum_Statue_Young_Man.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Agrigent_Museum_Statue_Young_Man.jpg/150px-Agrigent_Museum_Statue_Young_Man.jpg" decoding="async" width="150" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Agrigent_Museum_Statue_Young_Man.jpg/225px-Agrigent_Museum_Statue_Young_Man.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Agrigent_Museum_Statue_Young_Man.jpg/300px-Agrigent_Museum_Statue_Young_Man.jpg 2x" data-file-width="3040" data-file-height="4048" /></a></div></div>
+			<div class="gallerytext">
+<p>Agrigento ephebe, Richter 182.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 235px"><div style="width: 235px">
+			<div class="thumb" style="width: 230px;"><div style="margin:15px auto;"><a href="/wiki/File:Kouros_british_museum.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kouros_british_museum.JPG/150px-Kouros_british_museum.JPG" decoding="async" width="150" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kouros_british_museum.JPG/225px-Kouros_british_museum.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kouros_british_museum.JPG/300px-Kouros_british_museum.JPG 2x" data-file-width="1944" data-file-height="2592" /></a></div></div>
+			<div class="gallerytext">
+<p>BM B475, from Anaphe (?).
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 235px"><div style="width: 235px">
+			<div class="thumb" style="width: 230px;"><div style="margin:15px auto;"><a href="/wiki/File:NAMA_3938_Aristodikos_Kouros.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/NAMA_3938_Aristodikos_Kouros.JPG/78px-NAMA_3938_Aristodikos_Kouros.JPG" decoding="async" width="78" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/NAMA_3938_Aristodikos_Kouros.JPG/118px-NAMA_3938_Aristodikos_Kouros.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/NAMA_3938_Aristodikos_Kouros.JPG/157px-NAMA_3938_Aristodikos_Kouros.JPG 2x" data-file-width="1147" data-file-height="2919" /></a></div></div>
+			<div class="gallerytext">
+<p>Late Athenian <i>Aristodikos Kouros</i>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 235px"><div style="width: 235px">
+			<div class="thumb" style="width: 230px;"><div style="margin:15px auto;"><a href="/wiki/File:Kouros_di_reggio_calabria.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Kouros_di_reggio_calabria.jpg/126px-Kouros_di_reggio_calabria.jpg" decoding="async" width="126" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Kouros_di_reggio_calabria.jpg/189px-Kouros_di_reggio_calabria.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/e/e4/Kouros_di_reggio_calabria.jpg 2x" data-file-width="198" data-file-height="314" /></a></div></div>
+			<div class="gallerytext">
+<p>Kouros of Reggio, Calabria.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 235px"><div style="width: 235px">
+			<div class="thumb" style="width: 230px;"><div style="margin:15px auto;"><a href="/wiki/File:7262_-_Piraeus_Arch._Museum,_Athens_-_The_Piraeus_Apollo_-_Photo_by_Giovanni_Dall%27Orto,_Nov_14_2009.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/7262_-_Piraeus_Arch._Museum%2C_Athens_-_The_Piraeus_Apollo_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_14_2009.jpg/133px-7262_-_Piraeus_Arch._Museum%2C_Athens_-_The_Piraeus_Apollo_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_14_2009.jpg" decoding="async" width="133" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/7262_-_Piraeus_Arch._Museum%2C_Athens_-_The_Piraeus_Apollo_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_14_2009.jpg/200px-7262_-_Piraeus_Arch._Museum%2C_Athens_-_The_Piraeus_Apollo_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_14_2009.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7c/7262_-_Piraeus_Arch._Museum%2C_Athens_-_The_Piraeus_Apollo_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_14_2009.jpg/267px-7262_-_Piraeus_Arch._Museum%2C_Athens_-_The_Piraeus_Apollo_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_14_2009.jpg 2x" data-file-width="1880" data-file-height="2816" /></a></div></div>
+			<div class="gallerytext">
+<p>Piraeus Apollo
+</p>
+			</div>
+		</div></li>
+</ul>
+</center>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kouros&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Biton_and_Kleobis" class="mw-redirect" title="Biton and Kleobis">Biton and Kleobis</a></li>
+<li><a href="/wiki/Getty_kouros" title="Getty kouros">Getty kouros</a></li>
+<li><a href="/wiki/Greek_art" title="Greek art">Greek art</a></li>
+<li><a href="/wiki/List_of_museums_in_Greece" title="List of museums in Greece">List of museums in Greece</a></li>
+<li><a href="/wiki/National_Archaeological_Museum_of_Athens" class="mw-redirect" title="National Archaeological Museum of Athens">National Archaeological Museum of Athens</a></li>
+<li><a href="/wiki/Rampin_Rider" title="Rampin Rider">Rampin Rider</a></li>
+<li><a href="/wiki/Strangford_Apollo" title="Strangford Apollo">Strangford Apollo</a></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kouros&amp;action=edit&amp;section=13" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;"><div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">In the accompanying epigraphy the dedicatory formula was X dedicated me to Y, there seems to have been no generic term for these sculptures used in the ancient literature, see Ian Morris, <i>Classical Greece: Ancient Histories and Modern Archaeologies</i>, 1994, p. 90</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Neer, Richard (2012). <i>Greek Art and Archaeology: A New History c.2500-c.150 BC</i>. New York, USA: Thames &amp; Hudson Inc. p.&#160;115. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-500-28877-1" title="Special:BookSources/978-0-500-28877-1"><bdi>978-0-500-28877-1</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Greek+Art+and+Archaeology%3A+A+New+History+c.2500-c.150+BC&amp;rft.place=New+York%2C+USA&amp;rft.pages=115&amp;rft.pub=Thames+%26+Hudson+Inc.&amp;rft.date=2012&amp;rft.isbn=978-0-500-28877-1&amp;rft.aulast=Neer&amp;rft.aufirst=Richard&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKouros" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Archaeologike Ephemeris, 1895, col. 75, n. 1.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Henri Lechat, <i>La sculpture attique avant Phidias</i>, 1904.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">J. Ducat, <i>Les kouroi du Ptoion</i>, 1971</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0073%3Aentry%3Dkou%3Dros1">κούρος</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Jane Ellen Harrison (2010): <i>Themis: A study to the Social origins of Greek Religion</i>, Cambridge University Press. p. 441, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1108009492" title="Special:BookSources/1108009492">1108009492</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">BM, E336</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">I.98.9, see Richter <i>Kouroi</i> p.1</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">VIII.40.I</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Delphi, 467, 1524</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">E Guralnick, <i>Proportions of Kouroi</i>, p.461, AJA, 1978</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">i.e. E. Athes, <i>ProcPhilSoc</i>, 107, 1963, pp.60-81. Also R.M. Cook, <i>Origins of Greek Sculpture</i> , JHS 87, 1987, pp.24-32, and P. Kranz, <i>AthMitt</i> 81, 1972, pp.1-55</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Herodotus, II.1.54</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Though little Archaic sculpture has been found in Naukratis and that is not monumental, Ridgway, 1993, p.36.</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Iversen <i>MittKairo</i> 15, 1957, 134-147, and <i>Canon and Proportion in Egyptian Art</i>, 1955. Levin AJA 68, 1964, 13-28.</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Subsequent study by Jane B. Carter and Laura J. Steinberg, <i>Kouroi and statistics</i>, AJA, 114.1, 2010, casts doubt on Guralnick's results. They maintain that while there two principal groups of kouroi there is not a statistically significant correlation between the Greek and Egyptian forms, and the differences can be accounted for by the variation in the development of regional styles.</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">This is begging the question, of course, whether kouroi so defined form a different category from other male figures, namely draped youths, cuirassed or armed warriors, or bearded figures. See Ridgway, <i>Archaic Sculpture</i>, pp. 91–94.</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation book">Neer, Richard (2012). <i>Greek Art and Archaeology</i>. New York, New York: Thames and Hudson. p.&#160;115. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0500288771" title="Special:BookSources/978-0500288771"><bdi>978-0500288771</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Greek+Art+and+Archaeology&amp;rft.place=New+York%2C+New+York&amp;rft.pages=115&amp;rft.pub=Thames+and+Hudson&amp;rft.date=2012&amp;rft.isbn=978-0500288771&amp;rft.aulast=Neer&amp;rft.aufirst=Richard&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKouros" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Deonna, Broadman for example, see Ridgway p. 72 note 28.</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Ridgway pp. 72–73</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Whitley, J. <i>The archaeology of ancient Greece</i>, 2007, p. 218.</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Ridgway, B. <i>The Archaic style in Greek sculpture</i>, 1993, p. 74</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">Ducat, 1971, pp. 444-5</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">Stewart, 1990, pp. 109–110</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">Delos Museum A4085 and A334, See Richter, <i>Kouroi</i>, p.27</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">For a corrective to the teleological assumption that the archaic artist's aim was for naturalism see Hurwit, <i>The Art and Culture of Early Greece, 1100-480 BC.</i>, 1985, pp.255-7.</span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">Richter <i>Kouroi</i>, p.5</span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">Richter, <i>Kouroi</i>, p. 38.</span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text">NAMA 1002</span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text">Lullies CV Munich, fasc. 1, pls. 1-11.</span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text">Richter, <i>Kouroi</i>, p.38.</span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text">Payne, Necrocorinthia, p.293, pl. 47, 7-9.</span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text">Richter, <i>Kouroi</i>, p.59.</span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text">Payne, <i>Necrocorinthia</i>, pl.48, nos. 1-4.</span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text">Richter, <i>Kouroi</i>, p62</span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text">Richter, <i>Kouroi</i>, p.77.</span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text">Vanderpool, <i>Hesperia</i>, VI, 1937, p.434</span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text">Richter, <i>Kouroi</i>, p.90.</span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text">Richter, <i>Kouroi</i>, p.93</span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text">Herodotus I.92 claims Croesus supplied the columns, that the surviving fragments are those is unsure, see F.N. Pryce, <i>Catalogue of Sculpture in the Department of Greek and Roman Antiquities of the British Museum</i>, 1928, 1, 1, p.47. Richter, <i>Kouroi</i>, p.94.</span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text">Herodotus III.57-8, based, of course, on the orthodox chronology and not the Vickers-Francis revised chronology.</span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text">Richter, <i>Kouroi</i>, p.115.</span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text">Richter, <i>Kouroi</i>, p.113</span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text">Richter, <i>Kouroi</i>, pp.129-30</span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text">Though other origins have been suggested, see Deonna, p.158 f.</span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text">Richter, <i>Kouroi</i>, p.127</span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text">Richter, <i>Kouros</i>, p136, 159 bis</span>
+</li>
+</ol></div></div>
+</div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kouros&amp;action=edit&amp;section=14" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Boardman, J. <i>Greek Sculpture: The Archaic Period, a handbook</i>, 1991.</li>
+<li>Buschor, E. <i>Frühgriechische Jünglinge</i> 1950.</li>
+<li>Caskey, L.D. <i>The Proportions of the Apollo of Tenea</i>, <a href="/wiki/American_Journal_of_Archaeology" title="American Journal of Archaeology">American Journal of Archaeology</a>, 73, 1924.</li>
+<li>Deonna, W. <i>Les 'Apollons Archaïques', étude sur le type masculin de la statuaire greque au VI<sup>me</sup> siècle avant notre ère</i>, 1909.</li>
+<li>Guralnick, Eleanor  <i>Profiles of Kouroi</i>, American Journal of Archaeology, Vol. 89, No. 3 (Jul., 1985), pp.&#160;399–409.</li>
+<li>Guralnick, E. <i>The Proportions of Kouroi</i>, American Journal of Archaeology, 1978</li>
+<li>Richter, Gisela M.A. <i>A Handbook of Greek Art: Third Edition</i>, 1963.</li>
+<li>Richter, G.M.A. <i>Kouroi, Archaic Greek Youths, A study of the development of the Kouros type in Greek sculpture</i>, 1960.</li>
+<li>Ridgway, R.S. <i>The Archaic Style in Greek Sculpture</i>, 2nd. edition, 1993.</li>
+<li>Stewart, A. <i>Greek Sculpture</i>, 1990.</li>
+<li>Franssen, J. <i>Votiv und Repräsentation. Statuarische Weihungen archaischer Zeit aus Samos und Attika.</i> Verlag Archäologie und Geschichte, Heidelberg 2011. (Archäologie und Geschichte, Bd. 13) <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-935289-36-8" title="Special:BookSources/978-3-935289-36-8">978-3-935289-36-8</a></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kouros&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Kouroi" class="extiw" title="commons:Category:Kouroi"><span style="">Kouros</span></a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external free" href="http://www.ancient-greece.org/art/kouros.html">http://www.ancient-greece.org/art/kouros.html</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.stiftung-archaeologie.de/Kouros_from_Tenea_fullsize.html">Colour reconstruction Kuros from Tenea</a></li>
+<li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Kouroi" class="extiw" title="commons:Category:Kouroi">Kouroi</a> at Wikimedia Commons</li></ul>
 <!-- 
 NewPP limit report
-Parsed by mw1307
-Cached time: 20191008103453
+Parsed by mw1272
+Cached time: 20191025235728
 Cache expiry: 2592000
 Dynamic content: false
-Complications: []
-CPU time usage: 0.108 seconds
-Real time usage: 0.167 seconds
-Preprocessor visited node count: 273/1000000
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.476 seconds
+Real time usage: 0.659 seconds
+Preprocessor visited node count: 1570/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 43061/2097152 bytes
-Template argument size: 9/2097152 bytes
-Highest expansion depth: 7/40
-Expensive parser function count: 1/500
-Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 0/5000000 bytes
-Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.033/10.000 seconds
-Lua memory usage: 1.59 MB/50 MB
+Post‐expand include size: 12066/2097152 bytes
+Template argument size: 1871/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 40736/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.244/10.000 seconds
+Lua memory usage: 11.89 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  108.374      1 -total
- 59.55%   64.532      1 Template:Unreferenced
- 38.58%   41.809      1 Template:Ambox
- 16.13%   17.481      1 Template:Award-stub
- 15.15%   16.420      1 Template:Personal_names
- 13.69%   14.835      1 Template:Asbox
- 13.49%   14.622      2 Template:Navbox
-  8.80%    9.540      1 Template:For
+100.00%  576.466      1 -total
+ 29.56%  170.413      1 Template:Lang-grc
+ 27.78%  160.154      1 Template:Columns-list
+ 25.73%  148.311      1 Template:Reflist
+ 14.01%   80.786      2 Template:Cite_book
+  8.63%   49.737      1 Template:Commons_category
+  7.22%   41.629      2 Template:ISBN
+  4.74%   27.303      1 Template:Multiple_image
+  4.49%   25.904      1 Template:Other_uses_of
+  3.19%   18.364      1 Template:Commons_category_inline
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:3280942-0!canonical and timestamp 20191008103453 and revision id 916058185
+<!-- Saved in parser cache with key enwiki:pcache:idhash:545416-0!canonical and timestamp 20191025235728 and revision id 911673977
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Title_of_honor&amp;oldid=916058185">https://en.wikipedia.org/w/index.php?title=Title_of_honor&amp;oldid=916058185</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Kouros&amp;oldid=911673977">https://en.wikipedia.org/w/index.php?title=Kouros&amp;oldid=911673977</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Award_stubs" title="Category:Award stubs">Award stubs</a></li><li><a href="/wiki/Category:Honorary_titles" title="Category:Honorary titles">Honorary titles</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_sources_from_July_2007" title="Category:Articles lacking sources from July 2007">Articles lacking sources from July 2007</a></li><li><a href="/wiki/Category:All_articles_lacking_sources" title="Category:All articles lacking sources">All articles lacking sources</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Ancient_Greek_sculptures" title="Category:Ancient Greek sculptures">Ancient Greek sculptures</a></li><li><a href="/wiki/Category:Kouroi" title="Category:Kouroi">Kouroi</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_Ancient_Greek-language_text" title="Category:Articles containing Ancient Greek-language text">Articles containing Ancient Greek-language text</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -354,13 +470,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Title+of+honor" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Title+of+honor" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Kouros" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Kouros" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Title_of_honor" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Title_of_honor" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Kouros" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Kouros" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -375,7 +491,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Title_of_honor">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Title_of_honor&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Title_of_honor&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Kouros">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Kouros&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Kouros&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -414,35 +530,35 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Title_of_honor" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Title_of_honor" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Title_of_honor&amp;oldid=916058185" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Title_of_honor&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3320743" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Title_of_honor&amp;id=916058185" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Kouros" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Kouros" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Kouros&amp;oldid=911673977" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Kouros&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q937330" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Kouros&amp;id=911673977" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
 			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
 			<div class="body">
 								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Honorary_titles" hreflang="en">Wikimedia Commons</a></li>				</ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Kouroi" hreflang="en">Wikimedia Commons</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Title+of+honor">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Title+of+honor&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Title_of_honor&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Kouros">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Kouros&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Kouros&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%84%D9%82%D8%A8_%D8%A7%D9%84%D8%B4%D8%B1%D9%81" title="لقب الشرف – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/F%C9%99xri_ad" title="Fəxri ad – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Ehrentitel" title="Ehrentitel – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Aunimetus" title="Aunimetus – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/T%C3%ADtulo_honor%C3%ADfico" title="Título honorífico – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/T%C3%ADtulo_honor%C3%ADfico" title="Título honorífico – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%AA%D7%95%D7%90%D7%A8_%D7%9B%D7%91%D7%95%D7%93" title="תואר כבוד – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Eretitel" title="Eretitel – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E5%90%8D%E8%AA%89%E7%A7%B0%E5%8F%B7" title="名誉称号 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Honor%C3%A6r_tittel" title="Honorær tittel – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Honor%C3%A6r_tittel" title="Honorær tittel – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Arvonimi" title="Arvonimi – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Hederstitel" title="Hederstitel – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D1%87%D0%B5%D1%81%D0%BD%D0%B5_%D0%B7%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F" title="Почесне звання – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3320743#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D0%B0%D1%81" title="Курас – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Curos" title="Curos – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/K%C3%BAros" title="Kúros – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Kouros" title="Kouros – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9A%CE%BF%CF%8D%CF%81%CE%BF%CF%82" title="Κούρος – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Kuros" title="Kuros – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Kuroso" title="Kuroso – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Kouros" title="Kouros – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Kouros" title="Kouros – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Kouros" title="Kouros – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Kouros" title="Kouros – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%A8%D7%95%D7%A1" title="קורוס – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/K%C5%ABras" title="Kūras – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Kouros" title="Kouros – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Kouros" title="Kouros – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Kuros" title="Kuros – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Kouros" title="Kouros – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D0%BE%D1%81" title="Курос – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/K%C3%BAros" title="Kúros – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Kuros" title="Kuros – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D0%BE%D1%81" title="Курос – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Kouros" title="Kouros – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Kuros" title="Kuros – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Kouros" title="Kouros – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D0%BE%D1%81" title="Курос – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%9D%92%E5%B9%B4%E9%9B%95%E5%83%8F" title="青年雕像 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q937330#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 16 September 2019, at 19:26<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 20 August 2019, at 11:33<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -453,7 +569,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Title_of_honor&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Kouros&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -465,8 +581,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.108","walltime":"0.167","ppvisitednodes":{"value":273,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":43061,"limit":2097152},"templateargumentsize":{"value":9,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  108.374      1 -total"," 59.55%   64.532      1 Template:Unreferenced"," 38.58%   41.809      1 Template:Ambox"," 16.13%   17.481      1 Template:Award-stub"," 15.15%   16.420      1 Template:Personal_names"," 13.69%   14.835      1 Template:Asbox"," 13.49%   14.622      2 Template:Navbox","  8.80%    9.540      1 Template:For"]},"scribunto":{"limitreport-timeusage":{"value":"0.033","limit":"10.000"},"limitreport-memusage":{"value":1666852,"limit":52428800}},"cachereport":{"origin":"mw1307","timestamp":"20191008103453","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Title of honor","url":"https:\/\/en.wikipedia.org\/wiki\/Title_of_honor","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3320743","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3320743","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-11-30T07:45:25Z","dateModified":"2019-09-16T19:26:10Z","headline":"title bestowed upon individuals or organizations as an award in recognition of their merits"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":122,"wgHostname":"mw1330"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.476","walltime":"0.659","ppvisitednodes":{"value":1570,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":12066,"limit":2097152},"templateargumentsize":{"value":1871,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":40736,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  576.466      1 -total"," 29.56%  170.413      1 Template:Lang-grc"," 27.78%  160.154      1 Template:Columns-list"," 25.73%  148.311      1 Template:Reflist"," 14.01%   80.786      2 Template:Cite_book","  8.63%   49.737      1 Template:Commons_category","  7.22%   41.629      2 Template:ISBN","  4.74%   27.303      1 Template:Multiple_image","  4.49%   25.904      1 Template:Other_uses_of","  3.19%   18.364      1 Template:Commons_category_inline"]},"scribunto":{"limitreport-timeusage":{"value":"0.244","limit":"10.000"},"limitreport-memusage":{"value":12466722,"limit":52428800}},"cachereport":{"origin":"mw1272","timestamp":"20191025235728","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Kouros","url":"https:\/\/en.wikipedia.org\/wiki\/Kouros","sameAs":"http:\/\/www.wikidata.org\/entity\/Q937330","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q937330","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-03-23T02:21:29Z","dateModified":"2019-08-20T11:33:57Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/ea\/Kouros_anavissos.jpg","headline":"free-standing ancient Greek sculptures"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw1331"});});</script>
 </body>
 </html>

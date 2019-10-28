@@ -2,36 +2,35 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Bulgarian name - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Bulgarian_name","wgTitle":"Bulgarian name","wgCurRevisionId":896153609,"wgRevisionId":896153609,"wgArticleId":6979009,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from January 2013","Articles with Bulgarian-language external links","All articles with dead external links","Articles with dead external links from November 2016","Articles with permanently dead external links","Names by culture","Bulgarian language","Slavic-language names"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August"
-,"September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Bulgarian_name","wgRelevantArticleId":6979009,"wgRequestId":"Xax3JApAMF0AAFQsORIAAACC","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q4090677","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready",
-"noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init"
-,"ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Greek name - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Greek_name","wgTitle":"Greek name","wgCurRevisionId":923168810,"wgRevisionId":923168810,"wgArticleId":13244371,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from October 2017","Articles with permanently dead external links","All articles with failed verification","Articles with failed verification from May 2014","Names by culture","Greek given names","Greek-language surnames","Greek culture","Greek-language given names"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September",
+"October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Greek_name","wgRelevantArticleId":13244371,"wgRequestId":"XbUOKQpAAEUAAIkzTgsAAADN","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Greek_names","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Greek_name","wgWikibaseItemId":"Q11711834","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar",
+"ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.1"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.3"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Coat_of_arms_of_Bulgaria.svg/1200px-Coat_of_arms_of_Bulgaria.svg.png"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Bulgarian_name"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Bulgarian_name&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Bulgarian_name&amp;action=edit"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Greek_name"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Greek_name&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Greek_name&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Bulgarian_name"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Greek_name"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Bulgarian_name rootpage-Bulgarian_name skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Greek_name rootpage-Greek_name skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -40,260 +39,457 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Bulgarian name</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Greek name</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
-		<div id="contentSub"></div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Greek_names&amp;redirect=no" class="mw-redirect" title="Greek names">Greek names</a>)</span></div>
 		
 		
 		
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="vertical-navbox hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em;padding-top:0.4em;">Part of <a href="/wiki/Category:Bulgarian_people" title="Category:Bulgarian people">a series</a> on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;font-size:175%; line-height:1.0em; padding-bottom:0.4em;"><a href="/wiki/Bulgarians" title="Bulgarians">Bulgarians</a><br /><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">българи</span></th></tr><tr><td style="padding:0.2em 0 0.4em;border:none; padding:0.6em 0.4em;"><a href="/wiki/File:Coat_of_arms_of_Bulgaria.svg" class="image" title="Coat of arms of Bulgaria"><img alt="Coat of arms of Bulgaria" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Coat_of_arms_of_Bulgaria.svg/130px-Coat_of_arms_of_Bulgaria.svg.png" decoding="async" width="130" height="109" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Coat_of_arms_of_Bulgaria.svg/195px-Coat_of_arms_of_Bulgaria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Coat_of_arms_of_Bulgaria.svg/260px-Coat_of_arms_of_Bulgaria.svg.png 2x" data-file-width="810" data-file-height="679" /></a></td></tr><tr><th style="padding:0.1em;padding:0.2em 0.4em 0; border-top:1px solid #aaa;">
-<a href="/wiki/Culture_of_Bulgaria" title="Culture of Bulgaria">Culture</a></th></tr><tr><td style="padding:0 0.1em 0.4em;padding:0 0.4em 0.6em; border-bottom:1px solid #aaa;">
-<ul><li><a href="/wiki/Bulgarian_literature" title="Bulgarian literature">Literature</a></li>
-<li><a href="/wiki/Music_of_Bulgaria" title="Music of Bulgaria">Music</a></li>
-<li><a href="/wiki/Bulgarian_art" class="mw-redirect" title="Bulgarian art">Art</a></li>
-<li><a href="/wiki/Cinema_of_Bulgaria" title="Cinema of Bulgaria">Cinema</a></li>
-<li><a href="/wiki/Bulgarian_names" class="mw-redirect" title="Bulgarian names">Names</a></li>
-<li><a href="/wiki/Bulgarian_cuisine" title="Bulgarian cuisine">Cuisine</a></li>
-<li><a href="/wiki/Bulgarian_dances" title="Bulgarian dances">Dances</a></li>
-<li><a href="/w/index.php?title=Bulgarian_dress&amp;action=edit&amp;redlink=1" class="new" title="Bulgarian dress (page does not exist)">Costume</a></li>
-<li><a href="/wiki/Category:Sport_in_Bulgaria" title="Category:Sport in Bulgaria">Sport</a></li>
-<li><a href="/wiki/Public_holidays_in_Bulgaria" title="Public holidays in Bulgaria">Public holidays in Bulgaria</a></li></ul></td>
-</tr><tr><th style="padding:0.1em;padding:0.2em 0.4em 0; border-top:1px solid #aaa;">
-By country</th></tr><tr><td style="padding:0 0.1em 0.4em;padding:0 0.4em 0.6em; border-bottom:1px solid #aaa;">
-<ul><li><a href="/wiki/Bulgarians_in_Albania" title="Bulgarians in Albania">Albania</a></li>
-<li><a href="/wiki/Bulgarian_Australians" title="Bulgarian Australians">Australia</a></li>
-<li><a href="/wiki/Bulgarian_Canadians" title="Bulgarian Canadians">Canada</a></li>
-<li><a href="/wiki/Bulgarians_in_Czechoslovakia" title="Bulgarians in Czechoslovakia">Czechoslovakia</a></li>
-<li><a href="/wiki/Slavic_speakers_of_Greek_Macedonia" title="Slavic speakers of Greek Macedonia">Greece</a></li>
-<li><a href="/wiki/Bulgarian_New_Zealanders" class="mw-redirect" title="Bulgarian New Zealanders">New Zealand</a></li>
-<li><a href="/wiki/Bulgarians_in_Romania" title="Bulgarians in Romania">Romania</a></li>
-<li><a href="/wiki/Bulgarians_in_Serbia" title="Bulgarians in Serbia">Serbia</a></li>
-<li><a href="/wiki/Bulgarians_in_South_America" title="Bulgarians in South America">South America</a></li>
-<li><a href="/wiki/Bulgarians_in_Turkey" title="Bulgarians in Turkey">Turkey</a></li>
-<li><a href="/wiki/Bulgarians_in_Ukraine" title="Bulgarians in Ukraine">Ukraine</a></li>
-<li><a href="/wiki/Bulgarian_Americans" title="Bulgarian Americans">United States</a></li></ul>
-<dl><dd><b><a href="/wiki/Bulgarian_diaspora" title="Bulgarian diaspora">Bulgarian citizens</a></b></dd></dl>
-<ul><li><a href="/wiki/Bulgarians_in_France" title="Bulgarians in France">France</a></li>
-<li><a href="/wiki/Bulgarians_in_Germany" title="Bulgarians in Germany">Germany</a></li>
-<li><a href="/wiki/Bulgarians_in_Hungary" title="Bulgarians in Hungary">Hungary</a></li>
-<li><a href="/wiki/Bulgarians_in_Italy" title="Bulgarians in Italy">Italy</a></li>
-<li><a href="/wiki/Bulgarians_in_Lebanon" title="Bulgarians in Lebanon">Lebanon</a></li>
-<li><a href="/wiki/Bulgarians_in_Lithuania" title="Bulgarians in Lithuania">Lithuania</a></li>
-<li><a href="/wiki/Bulgarians_in_the_Republic_of_Macedonia" class="mw-redirect" title="Bulgarians in the Republic of Macedonia">Macedonia</a></li>
-<li><a href="/wiki/Bulgarians_in_Spain" title="Bulgarians in Spain">Spain</a></li>
-<li><a href="/wiki/Bulgarians_in_the_United_Kingdom" title="Bulgarians in the United Kingdom">United Kingdom</a></li></ul></td>
-</tr><tr><th style="padding:0.1em;padding:0.2em 0.4em 0; border-top:1px solid #aaa;">
-Subgroups</th></tr><tr><td style="padding:0 0.1em 0.4em;padding:0 0.4em 0.6em; border-bottom:1px solid #aaa;">
-<ul><li><a href="/wiki/Anatolian_Bulgarians" title="Anatolian Bulgarians">Anatolian</a></li>
-<li><a href="/wiki/Balkan_Mountains" title="Balkan Mountains">Balkanian</a></li>
-<li><a href="/wiki/Banat_Bulgarians" title="Banat Bulgarians">Banat Bulgarians</a></li>
-<li><a href="/wiki/Bessarabian_Bulgarian" class="mw-redirect" title="Bessarabian Bulgarian">Bessarabian Bulgarian</a></li>
-<li><a href="/wiki/Dobrujan_Bulgarians" title="Dobrujan Bulgarians">Dobrujans</a></li>
-<li><a href="/wiki/Macedonians_(Bulgarians)" class="mw-redirect" title="Macedonians (Bulgarians)">Macedonian</a></li>
-<li><a href="/wiki/Rup_dialects" title="Rup dialects">Ruptsi</a></li>
-<li><a href="/wiki/Balkan_dialects" class="mw-redirect" title="Balkan dialects">Balkandzhii</a></li>
-<li><a href="/wiki/Pomaks" title="Pomaks">Pomaks</a> (<a href="/wiki/Muslim_Bulgarians" class="mw-redirect" title="Muslim Bulgarians">Bulgarian Muslims</a>)</li>
-<li><a href="/wiki/Thracian_Bulgarians" title="Thracian Bulgarians">Thracian</a></li>
-<li><a href="/wiki/Shopi" title="Shopi">Shopi</a>/<a href="/wiki/Torlaks" class="mw-redirect" title="Torlaks">Torlaks</a></li>
-<li><a href="/wiki/%C5%9Echei" class="mw-redirect" title="Şchei">Şchei</a></li></ul></td>
-</tr><tr><th style="padding:0.1em;padding:0.2em 0.4em 0; border-top:1px solid #aaa;">
-<a href="/wiki/Religion_in_Bulgaria" title="Religion in Bulgaria">Religion</a></th></tr><tr><td style="padding:0 0.1em 0.4em;padding:0 0.4em 0.6em; border-bottom:1px solid #aaa;">
-<ul><li><a href="/wiki/Bulgarian_Orthodox_Church" title="Bulgarian Orthodox Church">Bulgarian Orthodox Church</a></li>
-<li><a href="/wiki/Bulgarian_Muslims" title="Bulgarian Muslims">Islam</a></li>
-<li><a href="/wiki/Catholicism_in_Bulgaria" class="mw-redirect" title="Catholicism in Bulgaria">Catholic Church</a></li>
-<li><a href="/wiki/Protestantism_in_Bulgaria" title="Protestantism in Bulgaria">Protestant denominations</a></li></ul></td>
-</tr><tr><th style="padding:0.1em;padding:0.2em 0.4em 0; border-top:1px solid #aaa;">
-Language</th></tr><tr><td style="padding:0 0.1em 0.4em;padding:0 0.4em 0.6em; border-bottom:1px solid #aaa;">
-<ul><li><a href="/wiki/Bulgarian_language" title="Bulgarian language">Bulgarian</a></li>
-<li><a href="/wiki/Bulgarian_dialects" title="Bulgarian dialects">Dialects</a></li></ul>
-<ul><li><a href="/wiki/Banat_Bulgarian_language" class="mw-redirect" title="Banat Bulgarian language">Banat Bulgarian</a></li></ul></td>
-</tr><tr><th style="padding:0.1em;padding:0.2em 0.4em 0; border-top:1px solid #aaa;">
-Other</th></tr><tr><td style="padding:0 0.1em 0.4em;padding:0 0.4em 0.6em; border-bottom:1px solid #aaa;">
-<ul><li><a href="/wiki/List_of_Bulgarians" title="List of Bulgarians">List of Bulgarians</a></li>
-<li><a href="/wiki/Category:People_of_Bulgarian_descent" title="Category:People of Bulgarian descent">People of Bulgarian descent</a></li></ul></td>
-</tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;padding-top:0;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Bulgarians" title="Template:Bulgarians"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Bulgarians" title="Template talk:Bulgarians"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Bulgarians&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
-<p>The <b><a href="/wiki/Bulgarians" title="Bulgarians">Bulgarian</a> name system</b> has considerable similarities with most other <a href="/wiki/Europea" class="mw-redirect" title="Europea">European</a> name systems, and with those of other <a href="/wiki/Slavic_peoples" class="mw-redirect" title="Slavic peoples">Slavic peoples</a> such as the <a href="/wiki/Eastern_Slavic_naming_customs" title="Eastern Slavic naming customs">Russian</a> name system, though it has certain unique features.
-</p><p>Bulgarian names usually consist of a <a href="/wiki/Given_name" title="Given name">given name</a>, which comes first, a <a href="/wiki/Patronymic" title="Patronymic">patronymic</a>, which is second (and is usually omitted when referring to the person), and a <a href="/wiki/Family_name" class="mw-redirect" title="Family name">family name</a>, which comes last.
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>In the modern world, <a href="/wiki/Personal_names" class="mw-redirect" title="Personal names">personal names</a> among people of <a href="/wiki/Greek_language" title="Greek language">Greek language</a> and <a href="/wiki/Greek_culture" class="mw-redirect" title="Greek culture">culture</a> generally consist of a <a href="/wiki/Given_name" title="Given name">given name</a>, a <a href="/wiki/Patronymic" title="Patronymic">patronymic</a> and a <a href="/wiki/Family_name" class="mw-redirect" title="Family name">family name</a>. 
 </p>
 <div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Bulgarian_given_names"><span class="tocnumber">1</span> <span class="toctext">Bulgarian given names</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Bulgarian_patronymics_and_family_names"><span class="tocnumber">2</span> <span class="toctext">Bulgarian patronymics and family names</span></a>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Given_names"><span class="tocnumber">2</span> <span class="toctext">Given names</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Family_names"><span class="tocnumber">3</span> <span class="toctext">Family names</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Examples_of_given_names"><span class="tocnumber">4</span> <span class="toctext">Examples of given names</span></a>
 <ul>
-<li class="toclevel-2 tocsection-3"><a href="#Usage"><span class="tocnumber">2.1</span> <span class="toctext">Usage</span></a></li>
-<li class="toclevel-2 tocsection-4"><a href="#Etymology"><span class="tocnumber">2.2</span> <span class="toctext">Etymology</span></a></li>
-<li class="toclevel-2 tocsection-5"><a href="#Suffixes"><span class="tocnumber">2.3</span> <span class="toctext">Suffixes</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Ancient_names"><span class="tocnumber">4.1</span> <span class="toctext">Ancient names</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Biblical_names"><span class="tocnumber">4.2</span> <span class="toctext">Biblical names</span></a></li>
 </ul>
 </li>
-<li class="toclevel-1 tocsection-6"><a href="#Most_popular_names"><span class="tocnumber">3</span> <span class="toctext">Most popular names</span></a></li>
-<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Examples_of_family_names"><span class="tocnumber">5</span> <span class="toctext">Examples of family names</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Common_prefixes"><span class="tocnumber">5.1</span> <span class="toctext">Common prefixes</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Common_suffixes"><span class="tocnumber">5.2</span> <span class="toctext">Common suffixes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Further_reading"><span class="tocnumber">9</span> <span class="toctext">Further reading</span></a></li>
 </ul>
 </div>
 
-<h2><span class="mw-headline" id="Bulgarian_given_names">Bulgarian given names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bulgarian_name&amp;action=edit&amp;section=1" title="Edit section: Bulgarian given names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Traditionally, the Bulgarian given names are either of <a href="/wiki/Slavic_names" title="Slavic names">Slavic origin</a> or from <a href="/wiki/Greek_language" title="Greek language">Greek</a>, <a href="/wiki/Latin" title="Latin">Latin</a> or <a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a> when reflecting <a href="/wiki/Christianity" title="Christianity">Christian</a> faith (e.g. <a href="/wiki/Peter_(first_name)" class="mw-redirect" title="Peter (first name)">Petar</a>, <a href="/wiki/Mary_(mother_of_Jesus)" class="mw-redirect" title="Mary (mother of Jesus)">Maria</a>, <a href="/wiki/John_(name)" class="mw-redirect" title="John (name)">Ivan</a>, <a href="/wiki/Theodora_(given_name)" title="Theodora (given name)">Teodora</a>, <a href="/wiki/George_(given_name)" title="George (given name)">Georgi</a>, <a href="/wiki/Nicholas" title="Nicholas">Nikolay</a>, <a href="/wiki/Michael" title="Michael">Mihail</a>, <a href="/wiki/Paraskevi_(disambiguation)" class="mw-redirect mw-disambig" title="Paraskevi (disambiguation)">Paraskeva</a>, <a href="/wiki/Dimitar" title="Dimitar">Dimitar</a>).
-</p><p>The <a href="/wiki/Slavic_names" title="Slavic names">Slavic names</a> may describe the appearance or character of the person, may constitute a wish or even stem from pre-Christian conjuring rituals and meant not to attract the <a href="/wiki/Slavic_mythology" class="mw-redirect" title="Slavic mythology">evil spirits</a>. Below are listed examples of Bulgarian <a href="/wiki/Slavic_names" title="Slavic names">Slavic names</a> and Bulgarian names of Greek, Latin, or Hebrew origin:
-</p><p><b>Feminine names:</b>
-</p><p>Ana, Aneliya, Aneta, Bilyana, Bisera, Blagorodna, Blagovesta, Blaguna, Bonislava, <a href="/wiki/Bogdan" title="Bogdan">Bogdana</a>, Borislava, Boryana, <a href="/wiki/Boyan_(given_name)" title="Boyan (given name)">Boyana</a>, Boyka, <a href="/wiki/Bo%C5%BEidar" title="Božidar">Bozhidara</a>, <a href="/wiki/Branimir" title="Branimir">Branimira</a>, Daniela, Darina, Denitsa, Desislava, Diana, Dobromira, Elena, Elisaveta, Emilia, Evelina, Fania, Gabriela, Gergana, Ginka, Gloria, Grozda, Grozdana, Hristina, Iliana, Ioana, Iordanka, Ivanka, Ivelina, Kalina, Katerina, <a href="/wiki/Krasimir_(disambiguation)" class="mw-redirect" title="Krasimir (disambiguation)">Krasimira</a>, Kremena, <a href="/wiki/Ludmila_(disambiguation)" class="mw-redirect mw-disambig" title="Ludmila (disambiguation)">Lyudmila</a>, Lyubova, Maia, Maria, Mariya, Marina, Margarita, Mariana, Mila, <a href="/wiki/Milena_(name)" class="mw-redirect" title="Milena (name)">Milena</a>, Mira, Monika, Nadya, Nadezhda, Natalia, Nedelya, Neli, Nevena, Nikolina, Nina, Nora, <a href="/wiki/Ognjen" title="Ognjen">Ognyana</a>, Olga, Petya, Plamena, Rada, Radina, Radka, <a href="/wiki/Radoslav_(disambiguation)" class="mw-redirect" title="Radoslav (disambiguation)">Radoslava</a>, Radostina, Ralitsa, Raina, Raya, Rossitza, Roza, Rumyana, Simona, <a href="/wiki/Stanislava" title="Stanislava">Stanislava</a>, Snezhana, Stanka, Stilyana, Stoyanka, <a href="/wiki/Svetlana" title="Svetlana">Svetlana</a>, Tanya, Tatyana, Teodora, Todora, Todorka, Trendafila, Tsveta, Tsvetanka, Tudora, Valentina, Vasilka, Veselina, Viktoria, Violeta, Vladimira, Vyara, Yana, Zhivka, Zlatka, <a href="/wiki/Zora_(given_name)" title="Zora (given name)">Zora</a>...
-</p><p><b>Masculine names:</b>
-</p><p>Andrei, Angel, Aleksandar, Aleksi, Anastas, Anton, Asen, Asparuh, Atanas, Blagun, <a href="/wiki/Bogdan" title="Bogdan">Bogdan</a>, <a href="/wiki/Bogomil_(name)" title="Bogomil (name)">Bogomil</a>, <a href="/wiki/Bo%C5%BEidar" title="Božidar">Bojidar</a>, <a href="/wiki/Boris_(first_name)" class="mw-redirect" title="Boris (first name)">Boris</a>, Borislav, Boyan, Boiko, <a href="/wiki/Branimir" title="Branimir">Branimir</a>, Dafo, Daniel, Danuil, Delyan, Desislav, Dimo, Dobromir, <a href="/wiki/Dragan" title="Dragan">Dragan</a>, <a href="/wiki/Dragomir" title="Dragomir">Dragomir</a>, Elian, Genadi, Georgi, Grozdan, Hristo, Hristofor, Ilian, Iordan, Ivan, Ivo, Ivailo, Kalin, Kaloyan, Kiril, Kostadin, <a href="/wiki/Krasimir_(disambiguation)" class="mw-redirect" title="Krasimir (disambiguation)">Krasimir</a>, Krum, Lyuben, <a href="/wiki/Lubomir_(given_name)" class="mw-redirect" title="Lubomir (given name)">Lyubomir</a>, Mihail, <a href="/wiki/Milan_(given_name)" title="Milan (given name)">Milan</a>, Milen, <a href="/wiki/Miroslav_(given_name)" title="Miroslav (given name)">Miroslav</a>, <a href="/wiki/Mladen" title="Mladen">Mladen</a>, Momchil, Nayden, Nedelcho, Nedyalko, Nikola, Nikolay, <a href="/wiki/Ognjen" title="Ognjen">Ognian, Ognyan</a>, Petar, Plamen, Radko, <a href="/wiki/Radomir_(given_name)" title="Radomir (given name)">Radomir</a>, <a href="/wiki/Radoslav_(disambiguation)" class="mw-redirect" title="Radoslav (disambiguation)">Radoslav</a>, Rayko, Rumen, Sabin, Samuil, Simeon, Spas, Stefan, <a href="/wiki/Stanimir" title="Stanimir">Stanimir</a>, <a href="/wiki/Stanislav_(given_name)" title="Stanislav (given name)">Stanislav</a>, Stanko, Stilyan, Stoyan, Theodosii, Tihomir, Todor, Tsvetan, Valko, Vasil, <a href="/wiki/Wenceslaus_(disambiguation)" class="mw-redirect" title="Wenceslaus (disambiguation)">Ventsislav</a>, Veselin, <a href="/wiki/Vladimir_(name)" title="Vladimir (name)">Vladimir</a>, <a href="/wiki/Vladislav" title="Vladislav">Vladislav</a>, Yasen, Yavor, <a href="/wiki/Zdravko" title="Zdravko">Zdravko</a>, Zhelyazko, Zhivko, <a href="/wiki/Zlatan" title="Zlatan">Zlatan</a>, Zlatko...
-</p><p>In addition, some Bulgarian names may be of <a href="/wiki/Thracians" title="Thracians">Thracian</a> (e.g. Neno, Dako, Boto, Geto) or <a href="/wiki/Bulgars" title="Bulgars">Bulgar</a> (Boris, <a href="/wiki/Boyan_(given_name)" title="Boyan (given name)">Boyan</a>, Biser) origin.
-</p><p>Since the <a href="/wiki/Bulgarian_National_Revival" title="Bulgarian National Revival">Bulgarian National Revival</a> and the <a href="/wiki/Liberation_of_Bulgaria" title="Liberation of Bulgaria">Liberation of Bulgaria</a> in 1878 names of successful <a href="/wiki/List_of_Bulgarian_monarchs" title="List of Bulgarian monarchs">medieval Bulgarian rulers</a>, like <a href="/wiki/Asen_dynasty" title="Asen dynasty">Asen</a>, <a href="/wiki/Asparukh_of_Bulgaria" class="mw-redirect" title="Asparukh of Bulgaria">Asparuh</a>, <a href="/wiki/Ivailo_of_Bulgaria" class="mw-redirect" title="Ivailo of Bulgaria">Ivaylo</a>, <a href="/wiki/Samuil_of_Bulgaria" class="mw-redirect" title="Samuil of Bulgaria">Samuil</a>, <a href="/wiki/Simeon_I_of_Bulgaria" title="Simeon I of Bulgaria">Simeon</a> or <a href="/wiki/Krum_of_Bulgaria" class="mw-redirect" title="Krum of Bulgaria">Krum</a>, have also gained a lot of popularity.
-</p><p>Traditionally, the parents would often name their child after an older relative, so that his/her name would live on in the family. Today, however, these are not binding conditions and are often ignored: parents often pick a name without conforming with these traditions, however it is really up to the parents as still many of them continue to observe these traditions. Traditions to name a child after the parents' <a href="/wiki/Best_man" class="mw-redirect" title="Best man">best man</a> or <a href="/wiki/Maid_of_honor" class="mw-redirect" title="Maid of honor">maid of honor</a> or the saint on whose <a href="/wiki/Name_day" title="Name day">name day</a> the child is born also exist.
-</p><p>Many Bulgarian given names have a diminutive and/or a shorter version, which is almost always used in an informal context. Following is an example of some common diminutives:
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greek_name&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Ancient_Greek_personal_names" title="Ancient Greek personal names">Ancient Greeks generally had a single name</a>, often qualified with a patronymic, a clan or tribe, or a place of origin. Married women were identified by the name of their husbands, not their fathers.
+</p><p>Hereditary family names or surnames began to be used by elites in the <a href="/wiki/Byzantine_Empire" title="Byzantine Empire">Byzantine</a> period. Well into the 9th century, they were rare. But by the 11th and 12th centuries, elite families often used family names.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Family names came from placenames, nicknames, or occupations.<sup id="cite_ref-odfn_3-0" class="reference"><a href="#cite_note-odfn-3">&#91;3&#93;</a></sup>
+</p><p>It is not clear when stable family surnames became widely used. Though elite families often had stable family names, many of the "last names" used by Greeks into the 19th century were either patronymics or nicknames. It is also possible that family names were simply not recorded because <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman</a> administrative practice preferred patronymics, and did not require surnames.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>In the 19th century, patronymic surnames became common.
+</p><p>For personal names, from the first century CE until the nineteenth century CE, <a href="/wiki/Paganism" title="Paganism">pagan</a> names from <a href="/wiki/Classical_antiquity" title="Classical antiquity">antiquity</a> were mostly replaced by names from <a href="/wiki/Christianity" title="Christianity">Christian</a> scriptures and tradition. With the <a href="/wiki/Modern_Greek_Enlightenment" title="Modern Greek Enlightenment">Modern Greek Enlightenment</a> and the development of <a href="/wiki/Greek_nationalism" title="Greek nationalism">Greek nationalism</a>, names from antiquity became popular again.<sup id="cite_ref-Mackridge_5-0" class="reference"><a href="#cite_note-Mackridge-5">&#91;5&#93;</a></sup>
+</p><p>Family names may be patronymic in origin or else based on occupation, location, or personal characteristic. These origins are often indicated by prefixes or suffixes. Traditionally a woman used a feminine version of her father's family name, replacing it with a feminine version of her husband's family name on marriage. In modern Greece, a woman keeps her father's family name for life but may use a husband's name. 
+</p><p>In official documents in modern Greece, people are given three names: a given name, a patronymic and a family name. 
 </p>
-<table class="wikitable">
-
-<tbody><tr>
-<th>Given Name</th>
-<th>Diminutive
-</th></tr>
-<tr>
-<td>Aleksandar
-</td>
-<td>Sasho, Aleks
-</td></tr>
-<tr>
-<td>Angel</td>
-<td>Acho
-</td></tr>
-<tr>
-<td>Boris</td>
-<td>Bobi
-</td></tr>
-<tr>
-<td>Chavdar</td>
-<td>Chocho
-</td></tr>
-<tr>
-<td>Dimitar</td>
-<td>Mitko, Mitro
-</td></tr>
-<tr>
-<td>Nadezhda</td>
-<td>Nadya, Nadka, Nadentse
-</td></tr>
-<tr>
-<td>Todor</td>
-<td>Tosho, Toshko, Totyo
-</td></tr>
-<tr>
-<td>Nikola, Nikolay</td>
-<td>Niki, Kolyo, Kayo
-</td></tr>
-<tr>
-<td>Georgi</td>
-<td>Gosho, Zhoro, Gogo, Gotse
-</td></tr>
-<tr>
-<td>Gergana</td>
-<td>Ginka
-</td></tr>
-<tr>
-<td>Hristo</td>
-<td>Itso, Hrisi
-</td></tr>
-<tr>
-<td>Ivayla</td>
-<td>Iva
-</td></tr>
-<tr>
-<td>Lyubomir</td>
-<td>Lyubo, Lyubcho, Miro
-</td></tr>
-<tr>
-<td>Petar</td>
-<td>Pesho, Petyo
-</td></tr>
-<tr>
-<td>Kostadin</td>
-<td>Dinko, Kosta, Kotse
-</td></tr>
-<tr>
-<td>Ivan</td>
-<td>Vanko, Vanyo
-</td></tr>
-<tr>
-<td>Katerina</td>
-<td>Kate, Katya
-</td></tr>
-<tr>
-<td>Maria</td>
-<td>Mara, Mima, Miche
-</td></tr>
-<tr>
-<td>Rayna</td>
-<td>Rada
-</td></tr>
-<tr>
-<td>Tatyana</td>
-<td>Tanya, Tanche
-</td></tr>
-<tr>
-<td>Tsvetan</td>
-<td>Tsetso
-</td></tr>
-<tr>
-<td>Yoana</td>
-<td>Ani, Yoanka, Anche
-</td></tr></tbody></table>
-<p>Often these diminutive names become independent and "official" given names.
+<h2><span class="mw-headline" id="Given_names">Given names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greek_name&amp;action=edit&amp;section=2" title="Edit section: Given names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Until the late 18th century, almost all Christian Greeks were named for <a href="/wiki/Saint#Eastern_Orthodoxy" title="Saint">Orthodox saints</a> from the <a href="/wiki/Old_Testament" title="Old Testament">Old</a> and <a href="/wiki/New_Testament" title="New Testament">New</a> Testaments and early <a href="/wiki/Christianity" title="Christianity">Christian</a> tradition. Since then, names of both deities and mortals from antiquity have been popular as well.<sup id="cite_ref-Mackridge_5-1" class="reference"><a href="#cite_note-Mackridge-5">&#91;5&#93;</a></sup>
+</p><p>Male names usually end in -ας, -ης, and -ος, but sometimes ancient forms are also used. Female names almost always end in -α and -η, though a few end in -ώ with -ου being possible.
+</p><p>Since antiquity, there has been a strong tradition of naming the first son after the paternal grandfather and the second after the maternal grandfather.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> This results in a continuation of names in the family line.
+</p><p>There is a strong clustering of first names by locality according to patron saints, famous churches or monasteries. Examples include:
 </p>
-<h2><span class="mw-headline" id="Bulgarian_patronymics_and_family_names">Bulgarian patronymics and family names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bulgarian_name&amp;action=edit&amp;section=2" title="Edit section: Bulgarian patronymics and family names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Usage">Usage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bulgarian_name&amp;action=edit&amp;section=3" title="Edit section: Usage">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Typically, a Bulgarian person inherits the last name of his father's family (family name), as well as a patronymic based on his father's given name, with a gender-<a href="/wiki/Agreement_(linguistics)" title="Agreement (linguistics)">agreeing</a> <a href="/wiki/Suffix" title="Suffix">suffix</a> usually added. For example, Stoyan <i>Georgi<u>ev</u></i> <i>Draganov</i> would be the son of <i>Georgi</i> Petkov <i>Draganov</i>. The same person's daughter would bear the names <i>Georgi<u>eva</u></i> <i>Draganov<u>a</u></i>. Another way of preserving the family name and the name of a specific ancestor would be the following circulating of the names: if the father's name is Ivan Petrov Mihailov, the son is named Petar Ivanov Mihailov. Then if Petar has a son, his name will be Ivan Petrov Mihailov, and so on.
-</p><p>Until recently, if the father's name was not a specific family name, the child would take his patronymic as a family name, so names in a chain of generations would shift. For example, the son of Petar Stoyanov Ivanov would be Georgi Petrov Stoyanov, his son would be Ivaylo Georgiev Petrov, his son would be Marin Ivaylov Georgiev. This practice often caused confusion in the past, especially when dealing for foreign institutions, since a child did not bear his father's family name. However, the recent generation has all but abandoned this practice.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2013)">citation needed</span></a></i>&#93;</sup>
-</p><p>When marrying, today a woman may choose either to adopt her husband's family name, retain her <a href="/wiki/Maiden_name" class="mw-redirect" title="Maiden name">maiden name</a> or combine the two using a hyphen. For instance, when marrying Nikolay Petrov, Maria Bogdanova could become Petrova, remain Bogdanova or adopt Petrova-Bogdanova or Bogdanova-Petrova. Historically, she would adopt her husband's name. In any case, a woman retains her patronymic, which she has inherited from her father.
-</p><p>The Family Code (Bulgarian law regulating wedlock, cohabitation and family) allows the reverse as well: the husband may also take or add his wife's family name.
-</p><p>Sometimes a person becomes well known with his patronymic, e.g. sci-fi writer <a href="/wiki/Lyuben_Dilov" title="Lyuben Dilov">Lyuben Dilov</a>'s full name is Lyuben Dilov Ivanov, while the Bulgarian <a href="/wiki/Cosmonaut" class="mw-redirect" title="Cosmonaut">cosmonaut</a> <a href="/wiki/Georgi_Ivanov_(cosmonaut)" title="Georgi Ivanov (cosmonaut)">Georgi Ivanov</a>'s full name is Georgi Ivanov Kakalov.
-</p><p>Among <a href="/wiki/Bulgarians_in_Serbia" title="Bulgarians in Serbia">Bulgarians in Serbia</a>, as well as in other countries throughout the world, the <i>a</i> ending of women's surnames is usually dropped, resulting in names such as Elizabeta Nikolov instead of Nikolova. Other examples of changes in the family name of Bulgarians living abroad is how Nikolov turns into Nikoloff.
+<ul><li><i>Spyridon</i> and <i>Spyridoula</i> in <a href="/wiki/Corfu" title="Corfu">Corfu</a>,</li>
+<li><i>Gerasimos</i> in <a href="/wiki/Kefalonia" class="mw-redirect" title="Kefalonia">Kefalonia</a>,</li>
+<li><i>Dionysia</i> and <i>Dionysios</i> in <a href="/wiki/Zakynthos" title="Zakynthos">Zakynthos</a>,</li>
+<li><i>Andreas</i> and <i>Andriana</i> in <a href="/wiki/Patras" title="Patras">Patras</a>,</li>
+<li><i>Markella</i> and <i>Markos</i> in Chios</li>
+<li><i>Savvas</i> among families from <a href="/wiki/Asia_Minor" class="mw-redirect" title="Asia Minor">Asia Minor</a>,</li>
+<li><i>Emmanuel</i> or <i>Manolis</i>, <i>Joseph</i> or <i>Sifis</i>, <i>Manousos</i>, and <i>Mēnas</i> in <a href="/wiki/Crete" title="Crete">Crete</a>.</li>
+<li><i>Tsambikos</i> or <i>Tsampika</i>/<i>Mika</i> in <a href="/wiki/Rhodes" title="Rhodes">Rhodes</a>.</li></ul>
+<p>When Greek names are used in other languages, they are sometimes rendered phonetically, such as <i>Eleni</i> for Ἑλένη, and sometimes by their equivalents, like <i>Helen</i> in English or <i>Hélène</i> in French. In the United States, there are also <a href="/wiki/Anglicization_of_names#Greek_given_names" class="mw-redirect" title="Anglicization of names">conventional anglicizations</a> based on phonetic similarity rather than etymology, for example James or Jimmy for Δημήτρης/Dimitris (nickname Ντίμης/Dimi, hence Jimmy), when the English name James is a derivative of Ἰάκωβος/ Iakovos.
 </p>
-<h3><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bulgarian_name&amp;action=edit&amp;section=4" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>In most cases (though by no means always), the etymology of Bulgarian patronymics and family names closely corresponds to that of given names. Many families bear the name of the family's founder, adding the patronymic Slavic suffix "&#8211;ov/&#8211;ev" (men) or "&#8211;ova/&#8211;eva" (women) (e.g. Ivanov, Radeva, Parvanov, Petrova, Asenov, Tsvetanova). Family names may indicate the occupation of the founder, his nickname or origin, in which case names of <a href="/wiki/Ottoman_Turkish_language" title="Ottoman Turkish language">Ottoman Turkish</a> or Greek etymology can be found in addition to those of Slavic origin (e.g. Kolarov, Kalaydzhieva, Popova, Cholakov, Kovacheva, Daskalov, Tepavicharov, Uzunova).
+<h2><span class="mw-headline" id="Family_names"><span id="Greek_surnames"></span>Family names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greek_name&amp;action=edit&amp;section=3" title="Edit section: Family names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Greek family names are most commonly patronymics but may also be based on occupation, personal characteristics or location. The <a href="/wiki/Feminine_gender" class="mw-redirect" title="Feminine gender">feminine</a> version is usually the <a href="/wiki/Genitive_case" title="Genitive case">genitive</a> of the family name of the woman's father or husband; so, for example, Mr. Yannatos and Mrs. <a href="/wiki/Savina_Yannatou" title="Savina Yannatou">Yannatou</a>.
+</p><p>As a result of their codification in the Modern Greek state, surnames have <a href="/wiki/Katharevousa" title="Katharevousa">Katharevousa</a> forms even though Katharevousa is no longer the official standard. Thus, the Ancient Greek name Eleutherios forms the Modern Greek proper name Lefteris. In the past, people in speaking used the family name followed by the given name, so John Eleutherios was called Leftero-giannis. In modern practice he is called Giannis Eleftheriou, where Giannis is the popular form of the formal Ioannis but Eleftheriou is an archaic genitive. For women the surname is usually a Katharevousa genitive of a male name, whereas back in Byzantine times there were separate feminine forms of male surnames, such as <i>Palaiologína</i> for <i>Palaiológos</i> which nowadays would be <i>Palaiológou</i>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>In the past, women would change their surname on first marrying to that of their husband in the genitive case, so marking the change of dependence to husband from father. In early Modern Greek society, women were named with <i>-aina</i> as a feminine suffix on the husband's given name, for example "Giorgaina" signifying "wife of George". Nowadays, a woman's surname does not change upon marriage but she can use the husband's surname socially. Children usually receive the paternal surname, though some children receive the maternal surname in addition or exclusively.<sup id="cite_ref-oxnames_9-0" class="reference"><a href="#cite_note-oxnames-9">&#91;9&#93;</a></sup>
+</p><p>In official documents, the father's name in the genitive will be inserted between a person's first and last names. For example, if John Papadopoulos has a daughter named Mary and a son named Andrew, they will be referred to as <i>María Ioánnou Papadopoúlou</i> and <i>Andréas Ioánnou Papadópoulos</i>. If Mary then marries George Demetriádes, she may retain her original name or choose to be called <i>María Geōrgíou Demetriádou</i>.  If she is widowed, she will revert to her father's patronymic but retain her husband's surname to become <i>María Ioánnou Demetriádou</i>.
 </p>
-<h3><span class="mw-headline" id="Suffixes">Suffixes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bulgarian_name&amp;action=edit&amp;section=5" title="Edit section: Suffixes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Most Bulgarian surnames end with "&#8211;ov(a)" or "&#8211;ev(a)". They work the same way as the <a href="/wiki/Patrynomic" class="mw-redirect" title="Patrynomic">patrynomic</a> (and are in fact derived from them), and are possessive forms of given names. The "&#8211;ov/&#8211;ev" (masculine) and "&#8211;ova/&#8211;eva" (feminine) suffixes are also extremely popular and commonly used by <a href="/wiki/Russians" title="Russians">Russians</a> and <a href="/wiki/Ethnic_Macedonians" class="mw-redirect" title="Ethnic Macedonians">Macedonians</a>. Consequently, the surnames Ivanov(a), Petrov(a) and Borisov(a) are the three most common surnames in Bulgaria. As these "&#8211;ov/&#8211;ev" surnames are indistinguishable from patronymics, it is not uncommon for people to have the same patronymic and surname; for instance the children of Petar Ivanov Petrov would be Georgi Petrov Petrov and Lyudmila Petrova Petrova. (This would also be distinguished from Russians, who would be named "Georgi Petrovich Petrov" and "Lyudmila Petrovna Petrova".)
-</p><p>Although most popular, "&#8211;ov/&#8211;ev" and respectively "&#8211;ova/&#8211;eva" are not the only patronymic and family name suffixes. The second most popular suffix is "&#8211;ski/&#8211;ska" (sometimes "&#8211;ki/&#8211;ka") (e.g. Zelenogorski, Stoykovska, Petrinska), which, besides often being merely a version of an "&#8211;ov/&#8211;ev" or "-&#8211;ova/&#8211;eva" name, may also often indicate origin (e.g. Sofianski &#8212; "from <a href="/wiki/Sofia" title="Sofia">Sofia</a>", Stamboliyski &#8212; "from <a href="/wiki/Istanbul" title="Istanbul">Istanbul</a>"). This suffix is not only popular with Bulgarians but with most other Slavic people, such as <a href="/wiki/Poles" title="Poles">Polish</a>, Macedonians, Russians (most often spelled as "-sky"), <a href="/wiki/Belarusians" title="Belarusians">Belarusians</a> and <a href="/wiki/Ukrainians" title="Ukrainians">Ukrainians</a>.
-</p><p>Another suffix is "&#8211;in/&#8211;ina" (e.g. Kunin, Ganina, Radin). Unlike all other Bulgarian patronymics and family names, these stem from a female name (e.g. "of Kuna", "of Gana", "of Rada"). They are most common in the region of Razlog and Bansko. The "&#8211;in" suffix is also popular with Russians.
-</p><p>For these three most popular suffixes, there is also a plural form used when referring to the family as a whole or several members of it (as opposed to a single member). For "&#8211;ov/&#8211;ova" and "&#8211;ev/&#8211;eva" it is "&#8211;ovi/&#8211;evi", for "&#8211;ski/&#8211;ska" it is "&#8211;ski" and for "&#8211;in/&#8211;ina" the form is "&#8211;ini".
-</p><p>Historically, the universal suffix "&#8211;ovich" and "-evich" was quite popular in some regions (bearers of such names include <a href="/wiki/Gavril_Krastevich" title="Gavril Krastevich">Gavril Krastevich</a>, <a href="/wiki/Hristofor_Zhefarovich" class="mw-redirect" title="Hristofor Zhefarovich">Hristofor Zhefarovich</a>, <a href="/wiki/Petar_Parchevich" title="Petar Parchevich">Petar Parchevich</a>, <a href="/wiki/Kiril_Peychinovich" title="Kiril Peychinovich">Kiril Peychinovich</a>, etc.), particularly among the <a href="/wiki/Roman_Catholicism_in_Bulgaria" class="mw-redirect" title="Roman Catholicism in Bulgaria">Roman Catholic Bulgarians</a>, but has today largely fallen out of use and is more typical for the <a href="/wiki/Serbian_name" class="mw-redirect" title="Serbian name">Serbo</a>-<a href="/wiki/Croatian_name" title="Croatian name">Croatian</a> name system (where it is usually spelled "<a href="/wiki/-i%C4%87" class="mw-redirect" title="-ić">-ić</a>").
-</p><p>In addition, other suffixes also exist: for instance, names like Tihanek, Kozlek, Lomek (suffixed "&#8211;ek") were historically dominant in the town of <a href="/wiki/Koprivshtitsa" title="Koprivshtitsa">Koprivshtitsa</a>.<sup><a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20070827060123/http://www.koprivshtitza.com/index_eng.html">[1]</a> (Internet Archive link)</sup>
-</p><p>Names lacking a suffix, though often foreign-sounding, have been more popular in the past, but still exist today (e.g. Beron, Tomash), despite being quite uncommon.
-</p>
-<h2><span class="mw-headline" id="Most_popular_names">Most popular names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bulgarian_name&amp;action=edit&amp;section=6" title="Edit section: Most popular names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>According to one study using <a href="/wiki/Telephone_directory" title="Telephone directory">telephone directory</a> data, the five most popular male given names are <a href="/wiki/Ivan_(name)" title="Ivan (name)">Ivan</a> (43,882 holders), <a href="/wiki/Georgi_(disambiguation)" class="mw-redirect" title="Georgi (disambiguation)">Georgi</a> (40,288), <a href="/wiki/Dimitar" title="Dimitar">Dimitar</a> (31,471) and <a href="/wiki/Petar" class="mw-redirect" title="Petar">Petar</a> (20,602). The most popular female names are <a href="/wiki/Maria_(given_name)" title="Maria (given name)">Maria</a> (20,108), <a href="/wiki/Ivanka_(disambiguation)" class="mw-redirect mw-disambig" title="Ivanka (disambiguation)">Ivanka</a> (11,872) <a href="/wiki/Elena_(name)" class="mw-redirect" title="Elena (name)">Elena</a> (9,568), <a href="/wiki/Jordana_(disambiguation)" class="mw-redirect mw-disambig" title="Jordana (disambiguation)">Yordanka</a> (7,962) and Penka (6,696). The top ten family names are <a href="/wiki/Ivanov_(surname)" class="mw-redirect" title="Ivanov (surname)">Ivanov/a</a>, <a href="/wiki/Georgiev" title="Georgiev">Georgiev/a</a>, <a href="/wiki/Dimitrov_(surname)" title="Dimitrov (surname)">Dimitrov/a</a>, <a href="/wiki/Petrov_(surname)" title="Petrov (surname)">Petrov/a</a>, <a href="/wiki/Nikolov" title="Nikolov">Nikolov/a</a>, <a href="/wiki/Hristov_(surname)" class="mw-redirect" title="Hristov (surname)">Hristov/a</a>, Stoyanov/a, Todorov/a and Iliev/a<sup><a rel="nofollow" class="external autonumber" href="http://georgi.unixsol.org/diary/archive.php/2006-01-19">[2]</a></sup>
-</p>
-<ul><li><a href="/wiki/Bulgarian_language" title="Bulgarian language">Bulgarian language</a></li>
-<li><a href="/wiki/Bulgarians" title="Bulgarians">Bulgarians</a></li>
-<li><a href="/wiki/Name_days_in_Bulgaria" title="Name days in Bulgaria">Name days in Bulgaria</a></li>
-<li><a href="/wiki/Slavic_names" title="Slavic names">Slavic names</a></li>
-<li><a href="/wiki/Slavic_surnames" class="mw-redirect" title="Slavic surnames">Slavic surnames</a></li></ul>
-<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bulgarian_name&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>In English:
-</p>
-<ul><li><a rel="nofollow" class="external text" href="http://www.omda.bg/page.php?tittle=Bulgarian_Names&amp;IDMenu=255&amp;IDArticle=923">Traditional and modern names among the Bulgarian Christian population</a></li>
-<li><a rel="nofollow" class="external text" href="http://www.visittobulgaria.com/faq/Dir.asp?d=FAQ-Bulgarian_Names">FAQ about Bulgarian names</a> &#8212; meaning, origin, name days, popularity, statistics, etc.</li>
-<li><a rel="nofollow" class="external text" href="http://www.behindthename.com/nmc/bul.php">BehindTheName.com - Bulgarian given names</a></li>
-<li><a rel="nofollow" class="external text" href="http://www.behindthename.com/names/usage/bulgarian">BehindTheName.com - Bulgarian names</a>, A website dedicated to Bulgarian names and their etymology and meaning(s).</li>
-<li><a rel="nofollow" class="external text" href="http://www.behindthename.com/namedays/country/bulgaria">BehindTheName.com - The Bulgarian name days</a></li></ul>
-<p>In Bulgarian:
-</p>
-<ul><li><span class="languageicon">(in Bulgarian)</span> <a rel="nofollow" class="external text" href="http://imenata.eu">Bulgarian names</a>, 400 most popular names, origin, meaning and name days calendar</li>
-<li><span class="languageicon">(in Bulgarian)</span> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100720012301/http://slavpagan.hit.bg/imena.html">List of Slavic Bulgarian names</a></li>
-<li><span class="languageicon">(in Bulgarian)</span> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20010819040912/http://www.imena.hit.bg/ime_sudba.htm">Name and Destiny</a>, article about Bulgarian names and an alphabetical database</li>
-<li><span class="languageicon">(in Bulgarian)</span> <a rel="nofollow" class="external text" href="http://authors.ometeo.net/101kb/05.pdf">The Bulgarian surnames - a source for the past and for patriotism (Knowledge about the folk psychology which we find in our surnames)</a></li>
-<li><span class="languageicon">(in Bulgarian)</span> <a rel="nofollow" class="external text" href="http://www.angelfire.com/ca6/ivayla/familia.html">The Bulgarian surnames (origin)</a></li>
-<li><span class="languageicon">(in Bulgarian)</span> <a rel="nofollow" class="external text" href="http://www.promacedonia.org/la/la3_9.html">Origin and structure of the Bulgarian surnames</a> (from <i>From the history of our linguistic construction</i> by <a href="/wiki/Lyubomir_Andreychin" title="Lyubomir Andreychin">Lyubomir Andreychin</a>)</li>
-<li><span class="languageicon">(in Bulgarian)</span> <a rel="nofollow" class="external text" href="http://www.uni-vt.bg/pages/5115/uplft/T10_315-378.pdf">On the origin of 60 surnames (some of them of Bulgarian origin)</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since November 2016">permanent dead link</span></a></i>&#93;</span></sup></li>
-<li><span class="languageicon">(in Bulgarian)</span> <a rel="nofollow" class="external text" href="http://www.protobulgarians.com/Statii%20za%20prabaalgarite/Redki%20familni%20imena.htm">On the etymology and semantics of some rare Bulgarian surnames (by Ivan Tanev Ivanov)</a></li>
-<li><span class="languageicon">(in Bulgarian)</span> <a rel="nofollow" class="external text" href="https://www.academia.edu/443269/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8E%D1%82%D1%8A%D1%80%D0%B5%D0%BD_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%BD%D0%B0_%D1%84%D0%B0%D0%BC%D0%B8%D0%BB%D0%BD%D0%B8%D1%82%D0%B5_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0_%D0%B2_%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%BD%D0%B8%D1%8F_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB_%D0%BD%D0%B0_%D0%A1%D0%BE%D1%84%D0%B8%D1%8F_%D0%B7%D0%B0_%D0%B8%D0%B7%D0%B4%D0%B8%D1%80%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%B4%D1%83%D0%BC%D0%B8_%D0%BE%D1%82_%D0%BF%D1%80%D0%B0%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B8_%D0%B8%D0%BB%D0%B8_%D1%82%D1%80%D0%B0%D0%BA%D0%B8%D0%B9%D1%81%D0%BA%D0%B8_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D1%85%D0%BE%D0%B4">Computer analysis of the surnames in the telephone book of Sofia for finding words of Bulgar or Thracian origin</a> (by Y. Shopov,  L. T. Tsankov, T. Yalamov, S. Shopova, L. Nenchev, G. Kankanosyan)</li>
-<li><span class="languageicon">(in Bulgarian)</span> <a rel="nofollow" class="external text" href="http://iztok-zapad.eu/uploads/materials/Rechnik-Ilchev.pdf">Dictionary of personal names and surnames of the Bulgarians</a> (by Stefan Ilchev)</li>
-<li><span class="languageicon">(in Bulgarian)</span> <a rel="nofollow" class="external text" href="http://www.vesti.bg/bulgaria/obshtestvo/kakvo-izdavat-familiite-ni-3649551">What do our (Bulgarian) surnames reveal?</a> (article)</li></ul>
+<h2><span class="mw-headline" id="Examples_of_given_names">Examples of given names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greek_name&amp;action=edit&amp;section=4" title="Edit section: Examples of given names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Ancient_names">Ancient names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greek_name&amp;action=edit&amp;section=5" title="Edit section: Ancient names">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="div-col columns column-width" style="-moz-column-width: 18em; -webkit-column-width: 18em; column-width: 18em;">
+<ol><li><a href="/wiki/Acamas" title="Acamas">Acamas</a> (Ἀκάμας)</li>
+<li><a href="/wiki/Achaeus_(disambiguation)" class="mw-redirect mw-disambig" title="Achaeus (disambiguation)">Achaeus</a> (Ἀχαιός)</li>
+<li><a href="/wiki/Achilles" title="Achilles">Achilles</a> (Ἀχιλλεύς)</li>
+<li><a href="/wiki/Adonis" title="Adonis">Adonis</a> (Ἄδωνις)</li>
+<li><a href="/wiki/Aeneas" title="Aeneas">Aeneas</a> (Αἰνείας)</li>
+<li><a href="/wiki/Agamemnon" title="Agamemnon">Agamemnon</a> (Αγαμέμνων)</li>
+<li><a href="/wiki/Agathocles" title="Agathocles">Agathocles</a> (Ἀγαθοκλῆς)</li>
+<li><a href="/wiki/Agenor" title="Agenor">Agenor</a> (Ἀγήνωρ)</li>
+<li><a href="/wiki/Alcaeus_(disambiguation)" class="mw-redirect mw-disambig" title="Alcaeus (disambiguation)">Alcaeus</a> (Ἀλκαῖος)</li>
+<li><a href="/wiki/Alcibiades" title="Alcibiades">Alcibiades</a> (Ἀλκιβιάδης)</li>
+<li><a href="/wiki/Alcman" title="Alcman">Alcman</a> (Ἀλκμάν)</li>
+<li><a href="/wiki/Alcyone" class="mw-redirect" title="Alcyone">Alcyone</a> (Ἀλκυόνη)</li>
+<li><a href="/wiki/Alexander" title="Alexander">Alexander</a> (Ἀλέξανδρος)</li>
+<li><a href="/wiki/Amyntas_(disambiguation)" class="mw-redirect mw-disambig" title="Amyntas (disambiguation)">Amyntas</a> (Ἀμύντας)</li>
+<li><a href="/wiki/Anacreon" title="Anacreon">Anacreon</a> (Ἀνακρέων)</li>
+<li><a href="/wiki/Anaximandros" class="mw-redirect" title="Anaximandros">Anaximandros</a> (Ἀναξίμανδρος)</li>
+<li><a href="/wiki/Antenor" title="Antenor">Antenor</a> (Ἀντήνωρ)</li>
+<li><a href="/wiki/Antiochus_(disambiguation)" class="mw-redirect mw-disambig" title="Antiochus (disambiguation)">Antiochus</a> (Ἀντίoχoς)</li>
+<li><a href="/wiki/Androcles" title="Androcles">Androcles</a> (Ἀνδροκλῆς)</li>
+<li><a href="/wiki/Andromache" title="Andromache">Andromache</a> (Ἀνδρομάχη)</li>
+<li><a href="/wiki/Andronicus_(disambiguation)" class="mw-redirect mw-disambig" title="Andronicus (disambiguation)">Andronicus</a> (Ἀνδρόνικος)</li>
+<li><a href="/wiki/Andromeda_(disambiguation)" class="mw-redirect mw-disambig" title="Andromeda (disambiguation)">Andromeda</a> (Ἀνδρομέδα)</li>
+<li><a href="/wiki/Antigone" title="Antigone">Antigone</a> (Ἀντιγόνη)</li>
+<li><a href="/wiki/Aphrodite" title="Aphrodite">Aphrodite</a> (Ἀφροδίτη)</li>
+<li><a href="/wiki/Apollonius_(disambiguation)" class="mw-redirect mw-disambig" title="Apollonius (disambiguation)">Apollonius</a> (Ἀπολλώνιος)</li>
+<li><a href="/wiki/Arcesilaus_(disambiguation)" class="mw-disambig" title="Arcesilaus (disambiguation)">Arcesilaus</a> (Ἀρκεσίλαος)</li>
+<li><a href="/wiki/Archelaus_(disambiguation)" class="mw-redirect mw-disambig" title="Archelaus (disambiguation)">Archelaus</a> (Ἀρχέλαος)</li>
+<li><a href="/wiki/Archelochus" title="Archelochus">Archelochus</a> (Ἀρχέλοχος)</li>
+<li><a href="/wiki/Archimedes" title="Archimedes">Archimedes</a> (Ἀρχιμήδης)</li>
+<li><a href="/wiki/Arete_(disambiguation)" class="mw-disambig" title="Arete (disambiguation)">Arete</a> (Ἀρήτη)</li>
+<li><a href="/wiki/Argus_(disambiguation)" class="mw-redirect mw-disambig" title="Argus (disambiguation)">Argus</a> (Ἀργός)</li>
+<li><a href="/wiki/Ariadne" title="Ariadne">Ariadne</a> (Ἀριάδνη)</li>
+<li><a href="/wiki/Aristarchus_(disambiguation)" class="mw-redirect mw-disambig" title="Aristarchus (disambiguation)">Aristarchus</a> (Ἀρίσταρχος)</li>
+<li><a href="/wiki/Aristides" title="Aristides">Aristides</a> (Ἀριστείδης)</li>
+<li><a href="/wiki/Aristippus" title="Aristippus">Aristippus</a> (Ἀρίστιππος)</li>
+<li><a href="/wiki/Aristo_(disambiguation)" class="mw-redirect mw-disambig" title="Aristo (disambiguation)">Aristo</a> (Ἀρίστων)</li>
+<li><a href="/wiki/Aristocles_(disambiguation)" class="mw-redirect mw-disambig" title="Aristocles (disambiguation)">Aristocles</a> (Ἀριστοκλῆς)</li>
+<li><a href="/wiki/Aristophanes" title="Aristophanes">Aristophanes</a> (Ἀριστοφάνης)</li>
+<li><a href="/wiki/Aristotle" title="Aristotle">Aristotle</a> (Ἀριστοτέλης)</li>
+<li><a href="/wiki/Artemis" title="Artemis">Artemis</a> (Ἄρτεμις)</li>
+<li><a href="/wiki/Arion" title="Arion">Arion</a> (Ἀρίων)</li>
+<li><a href="/wiki/Aspasia" title="Aspasia">Aspasia</a> (Ἀσπασία)</li>
+<li><a href="/wiki/Athena" title="Athena">Athena</a> (Ἀθηνᾶ)</li>
+<li><a href="/wiki/Athenodoros_(disambiguation)" class="mw-redirect mw-disambig" title="Athenodoros (disambiguation)">Athenodoros</a> (Ἀθηνόδωρος)</li>
+<li><a href="/wiki/Atreus" title="Atreus">Atreus</a> (Ἀτρεύς)</li>
+<li><a href="/wiki/Berenice" title="Berenice">Berenice</a> (Βερενίκη)</li>
+<li><a href="/wiki/Calchas" title="Calchas">Calchas</a> (Κάλχας)</li>
+<li><a href="/wiki/Calliope" title="Calliope">Calliope</a> (Καλλιόπη)</li>
+<li><a href="/wiki/Callirrhoe_(disambiguation)" class="mw-redirect mw-disambig" title="Callirrhoe (disambiguation)">Callirrhoe</a> (Καλλιρρόη)</li>
+<li><a href="/wiki/Cassandra" title="Cassandra">Cassandra</a> (Κασσάνδρα)</li>
+<li><a href="/wiki/Cassiopeia_(disambiguation)" class="mw-redirect mw-disambig" title="Cassiopeia (disambiguation)">Cassiopeia</a> (Κασσιόπεια)</li>
+<li><a href="/wiki/Chryses" class="mw-redirect" title="Chryses">Chryses</a> (Χρύσης)</li>
+<li><a href="/wiki/Cleanthes" title="Cleanthes">Cleanthes</a> (Κλεάνθης)</li>
+<li><a href="/wiki/Cleopatra_(disambiguation)" class="mw-disambig" title="Cleopatra (disambiguation)">Cleopatra</a> (Κλεοπάτρα)</li>
+<li><a href="/wiki/Clio" title="Clio">Clio</a> (Κλειώ)</li>
+<li><a href="/wiki/Clymenus" title="Clymenus">Clymenus</a> (Κλύμενος)</li>
+<li><a href="/wiki/Clytaemnestra" class="mw-redirect" title="Clytaemnestra">Clytaemnestra</a> (Κλυταιμνήστρα)</li>
+<li><a href="/wiki/Co%C3%B6n" title="Coön">Coön</a> (Κόων)</li>
+<li><a href="/wiki/Creon" title="Creon">Creon</a> (Κρέων)</li>
+<li><a href="/wiki/Crino" title="Crino">Crino</a> (Κρινώ)</li>
+<li><a href="/wiki/Daedalus" title="Daedalus">Daedalus</a> (Δαίδαλος)</li>
+<li><a href="/wiki/Dana%C3%AB" title="Danaë">Danaë</a> (Δανάη)</li>
+<li><a href="/wiki/Daphne" title="Daphne">Daphne</a> (Δάφνη)</li>
+<li><a href="/wiki/Demeter" title="Demeter">Demeter</a> (Δημήτηρ)</li>
+<li><a href="/wiki/Democritus" title="Democritus">Democritus</a> (Δημόκριτος)</li>
+<li><a href="/wiki/Demoleon" title="Demoleon">Demoleon</a> (Δημολέων)</li>
+<li><a href="/wiki/Demosthenes" title="Demosthenes">Demosthenes</a> (Δημοσθένης)</li>
+<li><a href="/wiki/Despina_(disambiguation)" class="mw-redirect mw-disambig" title="Despina (disambiguation)">Despina</a> (Δέσποινα)</li>
+<li><a href="/wiki/Diocles_(disambiguation)" class="mw-redirect mw-disambig" title="Diocles (disambiguation)">Diocles</a> (Διοκλῆς)</li>
+<li><a href="/wiki/Diodorus_(disambiguation)" class="mw-disambig" title="Diodorus (disambiguation)">Diodorus</a> (Διόδωρος)</li>
+<li><a href="/wiki/Diogenes_(disambiguation)" class="mw-disambig" title="Diogenes (disambiguation)">Diogenes</a> (Διογένης)</li>
+<li><a href="/wiki/Diomedes" title="Diomedes">Diomedes</a> (Διομήδης)</li>
+<li><a href="/wiki/Dionysius_(disambiguation)" class="mw-disambig" title="Dionysius (disambiguation)">Dionysios</a> (Διονύσιος)</li>
+<li><a href="/wiki/Dionysus" title="Dionysus">Dionysus</a>  (Διόνυσος)</li>
+<li><a href="/wiki/Electra" title="Electra">Electra</a> (Ἡλέκτρα)</li>
+<li><a href="/wiki/Eleni_(given_name)" title="Eleni (given name)">Eleni</a> (Ἑλένη)</li>
+<li><a href="/wiki/Empedocles" title="Empedocles">Empedocles</a> (Ἐμπεδοκλῆς)</li>
+<li><a href="/wiki/Epictetus" title="Epictetus">Epictetus</a> (Ἐπίκτητος)</li>
+<li><a href="/wiki/Epicurus" title="Epicurus">Epicurus</a> (Ἐπίκουρος)</li>
+<li><a href="/wiki/Eratosthenes" title="Eratosthenes">Eratosthenes</a> (Ἐρατοσθένης)</li>
+<li><a href="/wiki/Eteocles" title="Eteocles">Eteocles</a> (Ἐτεοκλῆς)</li>
+<li><a href="/wiki/Euthydemus_I" title="Euthydemus I">Euthydemus</a> (Εὐθύδημος)</li>
+<li>Euthymia (Εὐθυμία)</li>
+<li><a href="/wiki/Euclid" title="Euclid">Euclid</a> (Εὐκλείδης)</li>
+<li><a href="/wiki/Eucratides_I" title="Eucratides I">Eucratides</a> (Εὐκρατίδης)</li>
+<li><a href="/wiki/Euripides" title="Euripides">Euripides</a> (Εὐριπίδης)</li>
+<li><a href="/wiki/Europa_(mythology)" class="mw-redirect" title="Europa (mythology)">Europa</a> (Εὐρώπη)</li>
+<li><a href="/wiki/Eurydice" title="Eurydice">Eurydice</a> (Εὐρυδίκη)</li>
+<li><a href="/wiki/Eurymachus" title="Eurymachus">Eurymachus</a> (Εὐρύμαχος)</li>
+<li><a href="/wiki/Gaia_(mythology)" class="mw-redirect" title="Gaia (mythology)">Gaea</a> (Γαῖα)</li>
+<li><a href="/wiki/Glaucus" title="Glaucus">Glaucus</a> (Γλαῦκος)</li>
+<li><a href="/wiki/Gorgias" title="Gorgias">Gorgias</a> (Γοργίας)</li>
+<li><a href="/wiki/Harmonia_(disambiguation)" class="mw-disambig" title="Harmonia (disambiguation)">Harmonia</a> (Ἁρμονία)</li>
+<li><a href="/wiki/Hector" title="Hector">Hector</a> (Ἕκτωρ)</li>
+<li><a href="/w/index.php?title=Helianthe&amp;action=edit&amp;redlink=1" class="new" title="Helianthe (page does not exist)">Helianthe</a> (Ἡλιάνθη)</li>
+<li><a href="/wiki/Helicaon" title="Helicaon">Helicaon</a> (Ἑλικάων)</li>
+<li><a href="/wiki/Heliodorus" title="Heliodorus">Heliodorus</a> (Ἡλιόδωρος)</li>
+<li><a href="/wiki/Hera" title="Hera">Hera</a> (Ἥρα)</li>
+<li><a href="/wiki/Heracles" title="Heracles">Heracles</a> (Ἡρακλῆς)</li>
+<li><a href="/wiki/Hermes" title="Hermes">Hermes</a> (Ἑρμῆς)</li>
+<li><a href="/wiki/Hermione_(given_name)" title="Hermione (given name)">Hermione</a> (Ἑρμιόνη)</li>
+<li><a href="/wiki/Herodotus" title="Herodotus">Herodotus</a> (Ἡρόδοτος)</li>
+<li><a href="/wiki/Hesiod" title="Hesiod">Hesiod</a> (Ἡσίοδος)</li>
+<li><a href="/wiki/Hippocrates" title="Hippocrates">Hippocrates</a> (Ἱπποκράτης)</li>
+<li><a href="/wiki/Hippolyta" title="Hippolyta">Hippolyta</a> (Ἱππολύτη)</li>
+<li><a href="/wiki/Hippolytus_(disambiguation)" class="mw-redirect mw-disambig" title="Hippolytus (disambiguation)">Hippolytus</a> (Ἱππόλυτος)</li>
+<li><a href="/wiki/Homer" title="Homer">Homer</a> (Ὅμηρος)</li>
+<li><a href="/wiki/Hyacinth_(disambiguation)" class="mw-redirect mw-disambig" title="Hyacinth (disambiguation)">Hyacinth</a> (Ὑάκινθος)</li>
+<li><a href="/wiki/Hypatia" title="Hypatia">Hypatia</a> (Ὑπατία)</li>
+<li><a href="https://en.wiktionary.org/wiki/Ianthe" class="extiw" title="wikt:Ianthe">Ianthe</a> (Ἰάνθη)</li>
+<li><a href="/wiki/Icarus" title="Icarus">Icarus</a> (Ἴκαρος)</li>
+<li><a href="/wiki/Idomeneus" class="mw-redirect" title="Idomeneus">Idomeneus</a> (Ἰδομενεύς)</li>
+<li><a href="/wiki/Ino_(Greek_mythology)" title="Ino (Greek mythology)">Ino</a> (Ἰνώ)</li>
+<li><a href="/wiki/Ion" title="Ion">Ion</a> (Ἴων)</li>
+<li><a href="/wiki/Iphidamas" title="Iphidamas">Iphidamas</a> (Ἰφιδάμας)</li>
+<li><a href="/wiki/Iphigenia" title="Iphigenia">Iphigenia</a> (Ἰφιγένεια)</li>
+<li><a href="/wiki/Irene_(given_name)" title="Irene (given name)">Irene</a>/Irini (Εἰρήνη)</li>
+<li><a href="/wiki/Ismene" title="Ismene">Ismene</a> (Ἰσμήνη)</li>
+<li><a href="/wiki/Jason" title="Jason">Jason</a> (Ἰάσων)</li>
+<li><a href="/wiki/Jocasta" title="Jocasta">Jocasta</a> (Ἰοκάστη)</li>
+<li><a href="/wiki/Laodamas" title="Laodamas">Laodamas</a> (Λαοδάμας)</li>
+<li><a href="/wiki/Laodice_(disambiguation)" class="mw-redirect mw-disambig" title="Laodice (disambiguation)">Laodice</a> (Λαοδίκη)</li>
+<li><a href="/wiki/Leonidas" class="mw-redirect" title="Leonidas">Leonidas</a> (Λεωνίδας)</li>
+<li><a href="/wiki/Leto" title="Leto">Leto</a> (Λητώ)</li>
+<li><a href="/wiki/Lycurgus_(disambiguation)" class="mw-redirect mw-disambig" title="Lycurgus (disambiguation)">Lycurgus</a> (Λυκοῦργος)</li>
+<li><a href="/wiki/Medea" title="Medea">Medea</a> (Μήδεια)</li>
+<li><a href="/wiki/Melpomene" title="Melpomene">Melpomene</a> (Μελπομένη)</li>
+<li><a href="/wiki/Menander" title="Menander">Menander</a> (Μένανδρος)</li>
+<li><a href="/wiki/Menelaus" title="Menelaus">Menelaus</a> (Μενέλαος)</li>
+<li><a href="/wiki/Metrodorus_(disambiguation)" class="mw-redirect mw-disambig" title="Metrodorus (disambiguation)">Metrodorus</a> (Μητρόδωρος)</li>
+<li><a href="/wiki/Miltiades_(name)" title="Miltiades (name)">Miltiades</a> (Μιλτιάδης)</li>
+<li><a href="/wiki/Myron" title="Myron">Myron</a> (Μύρων)</li>
+<li><a href="/wiki/Narcissus_(mythology)" title="Narcissus (mythology)">Narcissus</a> (Νάρκισσος)</li>
+<li><a href="/wiki/Neoptolemus_(disambiguation)" class="mw-disambig" title="Neoptolemus (disambiguation)">Neoptolemus</a> (Νεοπτόλεμος)</li>
+<li><a href="/wiki/Nestor_(given_name)" title="Nestor (given name)">Nestor</a> (Νέστωρ)</li>
+<li><a href="/wiki/Nicander" title="Nicander">Nicander</a> (Νίκανδρος)</li>
+<li><a href="/wiki/Nicanor_(disambiguation)" class="mw-redirect mw-disambig" title="Nicanor (disambiguation)">Nicanor</a> (Nικάνωρ)</li>
+<li><a href="/wiki/Nicodemus_(disambiguation)" class="mw-disambig" title="Nicodemus (disambiguation)">Nicodemus</a> (Νικόδημος)</li>
+<li><a href="/wiki/Nike_(name)" title="Nike (name)">Nike</a> (Νίκη)</li>
+<li><a href="/wiki/Nikolaos" title="Nikolaos">Nikolaos</a> (Νικόλαος)</li>
+<li><a href="/wiki/Oceanus" title="Oceanus">Oceanus</a> (Ὠκεανός)</li>
+<li><a href="/wiki/Odysseus" title="Odysseus">Odysseus</a> (Ὀδυσσεύς)</li>
+<li><a href="/wiki/Oedipus" title="Oedipus">Oedipus</a> (Οἰδίπους)</li>
+<li><a href="/wiki/Olympias" title="Olympias">Olympias</a> (Ὀλυμπιάς)</li>
+<li><a href="/wiki/Orestes_(given_name)" title="Orestes (given name)">Orestis</a> (Ὀρέστης)</li>
+<li><a href="/wiki/Orpheus" title="Orpheus">Orpheus</a> (Ὀρφεύς)</li>
+<li><a href="/wiki/Pandora" title="Pandora">Pandora</a> (Πανδώρα)</li>
+<li><a href="/wiki/Pantaleon" title="Pantaleon">Pantaleon</a> (Πανταλέων)</li>
+<li><a href="/wiki/Paris_(mythology)" title="Paris (mythology)">Paris</a> (Πάρις)</li>
+<li><a href="/wiki/Patroclus" title="Patroclus">Patroclus</a> (Πάτροκλος)</li>
+<li><a href="/wiki/Pausanias_(disambiguation)" class="mw-redirect mw-disambig" title="Pausanias (disambiguation)">Pausanias</a> (Παυσανίας)</li>
+<li><a href="/wiki/Peleus" title="Peleus">Peleus</a> (Πηλεύς)</li>
+<li><a href="/wiki/Penelope" title="Penelope">Penelope</a> (Πηνελόπη)</li>
+<li><a href="/wiki/Pericles" title="Pericles">Pericles</a> (Περικλῆς)</li>
+<li><a href="/wiki/Phaethon" title="Phaethon">Phaethon</a> (Φαίδων)</li>
+<li><a href="/wiki/Phidias" title="Phidias">Pheidias</a> or <a href="/wiki/Phidias" title="Phidias">Phidias</a> (Φειδίας)</li>
+<li><a href="/wiki/Philip_(name)" title="Philip (name)">Philippos</a> (Φίλιππος)</li>
+<li><a href="/wiki/Philoctetes" title="Philoctetes">Philoctetes</a> (Φιλοκτήτης)</li>
+<li><a href="/wiki/Philon" title="Philon">Philon</a> (Φίλων)</li>
+<li><a href="/wiki/Phoebe_(given_name)" title="Phoebe (given name)">Phoebe</a> (Φοίβη)</li>
+<li><a href="/wiki/Phyllis" title="Phyllis">Phyllis</a> (Φυλλίς)</li>
+<li><a href="/wiki/Pindar" title="Pindar">Pindar</a> (Πίνδαρος)</li>
+<li><a href="/wiki/Plato" title="Plato">Plato</a> (Πλάτων)</li>
+<li><a href="/wiki/Polemon_(disambiguation)" class="mw-redirect mw-disambig" title="Polemon (disambiguation)">Polemon</a> (Πολέμωνος)</li>
+<li><a href="/wiki/Polybus_(disambiguation)" class="mw-redirect mw-disambig" title="Polybus (disambiguation)">Polybus</a> (Πόλυβος)</li>
+<li><a href="/wiki/Polynices" title="Polynices">Polynices</a> (Πολυνείκης)</li>
+<li><a href="/wiki/Polybios" class="mw-redirect" title="Polybios">Polybios</a> (Πολύβιος)</li>
+<li><a href="/wiki/Priam" title="Priam">Priam</a> (Πρίαμος)</li>
+<li><a href="/wiki/Ptolemy_(name)" title="Ptolemy (name)">Ptolemy</a> (Πτολεμαῖος)</li>
+<li><a href="/wiki/Pythagoras" title="Pythagoras">Pythagoras</a> (Πυθαγόρας)</li>
+<li><a href="/wiki/Pyrrhus_(disambiguation)" class="mw-redirect mw-disambig" title="Pyrrhus (disambiguation)">Pyrrhus</a> (Πύρρος)</li>
+<li><a href="/wiki/Rhea_(mythology)" title="Rhea (mythology)">Rhea</a> (Ῥέα)</li>
+<li><a href="/wiki/Selene" title="Selene">Selene</a> (Σελήνη)</li>
+<li><a href="/wiki/Seleucus_(disambiguation)" class="mw-redirect mw-disambig" title="Seleucus (disambiguation)">Seleucus</a> (Σέλευκος)</li>
+<li><a href="/wiki/Simonides" class="mw-redirect" title="Simonides">Simonides</a> (Σιμωνίδης)</li>
+<li><a href="/wiki/Socrates" title="Socrates">Socrates</a> (Σωκράτης)</li>
+<li><a href="/wiki/Sofia" title="Sofia">Sofia</a> (Σοφία)</li>
+<li><a href="/wiki/Solon" title="Solon">Solon</a> (Σόλων)</li>
+<li><a href="/wiki/Sophocles" title="Sophocles">Sophocles</a> (Σοφοκλῆς)</li>
+<li><a href="/wiki/Strato_(disambiguation)" class="mw-redirect mw-disambig" title="Strato (disambiguation)">Strato</a> (Στράτων)</li>
+<li><a href="/wiki/Talthybius" title="Talthybius">Talthybius</a> (Ταλθύβιος)</li>
+<li><a href="/wiki/Telemachus" title="Telemachus">Telemachus</a> (Τηλέμαχος)</li>
+<li><a href="/wiki/Tethys_(disambiguation)" class="mw-redirect mw-disambig" title="Tethys (disambiguation)">Tethys</a> (Τηθύς)</li>
+<li><a href="/wiki/Thaleia" title="Thaleia">Thaleia</a> (Θάλεια)</li>
+<li><a href="/wiki/Theano" title="Theano">Theano</a> (Θεανώ)</li>
+<li><a href="/wiki/Thekla_(disambiguation)" class="mw-redirect mw-disambig" title="Thekla (disambiguation)">Thekla</a> (Θέκλα)</li>
+<li><a href="/wiki/Themistocles" title="Themistocles">Themistocles</a> (Θεμιστοκλῆς)</li>
+<li><a href="/wiki/Theodore_(name)" title="Theodore (name)">Theodoros</a> (Θεόδωρος)</li>
+<li><a href="/wiki/Theophrastus" title="Theophrastus">Theophrastus</a> (Θεόφραστος)</li>
+<li><a href="/wiki/Theseus" title="Theseus">Theseus</a> (Θησεύς)</li>
+<li><a href="/wiki/Therion_(disambiguation)" class="mw-redirect mw-disambig" title="Therion (disambiguation)">Therion</a> (θηρίον)</li>
+<li><a href="/wiki/Thestor" title="Thestor">Thestor</a> (Θέστωρ)</li>
+<li><a href="/wiki/Thetis" title="Thetis">Thetis</a> (Θέτις)</li>
+<li><a href="/wiki/Thraso" title="Thraso">Thraso</a> (Θράσων)</li>
+<li><a href="/wiki/Thrasybulus" title="Thrasybulus">Thrasybulus</a> (Θρασύβουλος)</li>
+<li><a href="/wiki/Thrasymachus" title="Thrasymachus">Thrasymachus</a> (Θρασύμαχος)</li>
+<li><a href="/wiki/Thucydides" title="Thucydides">Thucydides</a> (Θουκυδίδης)</li>
+<li><a href="/w/index.php?title=Thyrien&amp;action=edit&amp;redlink=1" class="new" title="Thyrien (page does not exist)">Thyrien</a> (Θυελπίζω)</li>
+<li><a href="/wiki/Urania" title="Urania">Urania</a> (Οὐρανία)</li>
+<li><a href="/wiki/Uranus_(mythology)" title="Uranus (mythology)">Uranus</a> (Οὐρανός)</li>
+<li><a href="/wiki/Xanthippe" title="Xanthippe">Xanthippe</a> (Ξανθίππη)</li>
+<li><a href="/wiki/Xenocrates" title="Xenocrates">Xenocrates</a> (Ξενοκράτης)</li>
+<li><a href="/wiki/Xenophon" title="Xenophon">Xenophon</a> (Ξενοφῶν)</li>
+<li><a href="/wiki/Zeno_(disambiguation)" class="mw-redirect mw-disambig" title="Zeno (disambiguation)">Zeno</a> (Ζήνων)</li></ol>
+</div>
+<h3><span class="mw-headline" id="Biblical_names">Biblical names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greek_name&amp;action=edit&amp;section=6" title="Edit section: Biblical names">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="div-col columns column-width" style="-moz-column-width: 18em; -webkit-column-width: 18em; column-width: 18em;">
+<ul><li><a href="/wiki/Andrew" title="Andrew">Andreas</a> (Ἀνδρέας)</li>
+<li><a href="/wiki/Anania_(name)" title="Anania (name)">Ananias</a> (Ἀνανίας)</li>
+<li><a href="/wiki/Anna_(given_name)" title="Anna (given name)">Anna</a> (Ἄννα)</li>
+<li><a href="/wiki/Bartholomew_(name)" title="Bartholomew (name)">Bartholomaios</a> (Βαρθολομαῖος)</li>
+<li><a href="/wiki/Daniel_(biblical_figure)" title="Daniel (biblical figure)">Daniel</a> (Δανιήλ)</li>
+<li><a href="/wiki/David_(name)" title="David (name)">David</a> (Δαβίδ)</li>
+<li><a href="/wiki/Eleutherios_(disambiguation)" class="mw-redirect mw-disambig" title="Eleutherios (disambiguation)">Eleftherios</a> (Ελευθέριος)</li>
+<li><a href="/wiki/Elijah" title="Elijah">Elias</a> (Ἠλίας)</li>
+<li><a href="/wiki/Elizabeth_(biblical_figure)" title="Elizabeth (biblical figure)">Elizabeth</a> (Ἐλισάβετ)</li>
+<li><a href="/wiki/Emanuel_(name)" title="Emanuel (name)">Emmanouil</a> (Εμμανουήλ)</li>
+<li><a href="/wiki/Erastus_(disambiguation)" class="mw-redirect" title="Erastus (disambiguation)">Erastus</a> (Ἔραστος)</li>
+<li><a href="/wiki/Eva_(name)" title="Eva (name)">Eva</a> (Εύα)</li>
+<li><a href="/wiki/Gabriel" title="Gabriel">Gabriel</a> (Γαβριήλ)</li>
+<li><a href="/wiki/Isaac_(name)" title="Isaac (name)">Isaakios</a> (Ισαάκιος)</li>
+<li><a href="/wiki/Isaiah" title="Isaiah">Isaias</a> (Ἠσαΐας)</li>
+<li><a href="/wiki/James_(name)" title="James (name)">Iakovos</a> (Ἰάκωβος)</li>
+<li><a href="/wiki/Jeremiah" title="Jeremiah">Ieremias</a> (Ἱερεμίας)</li>
+<li><a href="/wiki/Joachim" title="Joachim">Joachim</a> (Ἰωακείμ)</li>
+<li><a href="/wiki/John_(first_name)" class="mw-redirect" title="John (first name)">Ioannis</a> (Ἰωάννης)</li>
+<li><a href="/wiki/Jonah" title="Jonah">Jonah</a> (Ἰωνᾶς)</li>
+<li><a href="/wiki/Joseph_(name)" class="mw-redirect" title="Joseph (name)">Joseph</a> (Ἰωσήφ)</li>
+<li><a href="/wiki/Lazarus_(name)" title="Lazarus (name)">Lazarus</a> (Λάζαρος)</li>
+<li><a href="/wiki/Loukas" title="Loukas">Loukas</a> (Λουκᾶς)</li>
+<li><a href="/wiki/Lydia" title="Lydia">Lydia</a> (Λυδία)</li>
+<li><a href="/wiki/Magdalene_(given_name)" title="Magdalene (given name)">Magdalene</a> (Μαγδαληνή)</li>
+<li><a href="/wiki/Mark_(given_name)" title="Mark (given name)">Markos</a> (Μάρκος)</li>
+<li><a href="/wiki/Mary_(given_name)" class="mw-redirect" title="Mary (given name)">Mary</a> (Μαρία)</li>
+<li><a href="/wiki/Martha" title="Martha">Martha</a> (Μάρθα)</li>
+<li><a href="/wiki/Matthew_(name)" class="mw-redirect" title="Matthew (name)">Matthaios</a> (Ματθαῖος)</li>
+<li><a href="/wiki/Michael" title="Michael">Michael</a> (Μιχαήλ/Μιχάλης)</li>
+<li><a href="/wiki/Moses" title="Moses">Moses</a> (Μωϋσῆς)</li>
+<li><a href="/wiki/Nicanor_(disambiguation)" class="mw-redirect mw-disambig" title="Nicanor (disambiguation)">Nicanor</a> (Nικάνωρ)</li>
+<li><a href="/wiki/Nicodemus" title="Nicodemus">Nicodemus</a> (Νικόδημος)</li>
+<li><a href="/wiki/Nicolas_(given_name)" title="Nicolas (given name)">Nicolaos</a> (Νικόλαος)</li>
+<li><a href="/wiki/Paul_the_Apostle" title="Paul the Apostle">Pavlos</a> (Παῦλος)</li>
+<li><a href="/wiki/Peter_(name)" class="mw-redirect" title="Peter (name)">Petros</a> (Πέτρος)</li>
+<li><a href="/wiki/Philemon_(given_name)" title="Philemon (given name)">Philemon</a> (Φιλήμων)</li>
+<li><a href="/w/index.php?title=Raphail&amp;action=edit&amp;redlink=1" class="new" title="Raphail (page does not exist)">Raphail</a> (Ραφαήλ)</li>
+<li><a href="/wiki/Sarah_(given_name)" title="Sarah (given name)">Sarah</a> (Σάρα)</li>
+<li><a href="/wiki/Silas" title="Silas">Silas</a> (Σίλας)</li>
+<li><a href="/wiki/Simeon_(disambiguation)" class="mw-disambig" title="Simeon (disambiguation)">Simeon</a> (Συμεών)</li>
+<li><a href="/wiki/Solomon" title="Solomon">Solomon</a> (Σολομών)</li>
+<li><a href="/wiki/Stephen" title="Stephen">Stefanos</a> (Στέφανος)</li>
+<li><a href="/wiki/Thaddeus" title="Thaddeus">Thaddeus</a> (Θαδδαῖος)</li>
+<li><a href="/wiki/Theophilus_(disambiguation)" class="mw-disambig" title="Theophilus (disambiguation)">Theophilus</a> (Θεόφιλος)</li>
+<li><a href="/wiki/Thomas_(name)" title="Thomas (name)">Thomas</a> (Θωμάς)</li></ul>
+</div>
+<div class="div-col columns column-width" style="-moz-column-width: 18em; -webkit-column-width: 18em; column-width: 18em;">
+<ul><li><a href="/wiki/Katherine_(given_name)" class="mw-redirect" title="Katherine (given name)">Aikaterine</a> (Αἰκατερίνη)</li>
+<li><a href="/wiki/Alexius" title="Alexius">Alexios</a>  (Ἀλέξιος)</li>
+<li><a href="/wiki/Anastasius_(disambiguation)" class="mw-redirect mw-disambig" title="Anastasius (disambiguation)">Anastasios</a> (Ἀναστάσιος)</li>
+<li><a href="/wiki/Angelos" title="Angelos">Angelos</a> (Άγγελος)</li>
+<li><a href="/wiki/Anthony_(given_name)" title="Anthony (given name)">Antonios</a> (Ἀντώνιος)</li>
+<li><a href="/wiki/Athanasius" class="mw-redirect" title="Athanasius">Athanasios</a> (Ἀθανάσιος)</li>
+<li><a href="/wiki/Anthimus_(disambiguation)" class="mw-redirect mw-disambig" title="Anthimus (disambiguation)">Anthimos</a> (Ἄνθιμος)</li>
+<li><a href="/wiki/Barbara_(given_name)" title="Barbara (given name)">Barbara</a> (Βαρβάρα)</li>
+<li><a href="/wiki/Basil_(name)" title="Basil (name)">Vassileios/Vassilios</a> (Βασίλειος)</li>
+<li><a href="/wiki/Calliope" title="Calliope">Calliope</a> (Καλλιόπη)</li>
+<li><a href="/wiki/Charalambos" title="Charalambos">Charalambos</a> (Χαράλαμπος)</li>
+<li><a href="/wiki/Christian_(given_name)" title="Christian (given name)">Christianos</a> (Χριστιανός)</li>
+<li><a href="/wiki/Christoforos" class="mw-redirect" title="Christoforos">Christoforos</a> (Χριστόφορος)</li>
+<li><a href="/wiki/Christos_(given_name)" title="Christos (given name)">Christos</a> (Χρίστος)</li>
+<li><a href="/wiki/Christina_(given_name)" title="Christina (given name)">Christina</a> (Χριστίνα)</li>
+<li><a href="/wiki/Constantine_(name)" title="Constantine (name)">Konstantinos</a> (Κωνσταντῖνος)</li>
+<li><a href="/wiki/Cyril" title="Cyril">Kyrillos</a> (Κύριλλος)</li>
+<li><a href="/wiki/Damian_(given_name)" title="Damian (given name)">Damianos</a> (Δαμιανός)</li>
+<li><a href="/wiki/Demetrius" title="Demetrius">Dimitrios</a> (Δημήτριος)</li>
+<li><a href="/wiki/Despina_(disambiguation)" class="mw-redirect mw-disambig" title="Despina (disambiguation)">Despina</a> (Δέσποινα)</li>
+<li><a href="/wiki/Dioscoros_(disambiguation)" class="mw-redirect mw-disambig" title="Dioscoros (disambiguation)">Dioscoros</a> (Διόσκουρος)</li>
+<li><a href="/wiki/Dorothy_(given_name)" title="Dorothy (given name)">Dorothea</a> (Δωροθέα)</li>
+<li><a href="/wiki/Eleutherius_(disambiguation)" class="mw-redirect mw-disambig" title="Eleutherius (disambiguation)">Eleutherius</a> (Ελευθέριος)</li>
+<li><a href="/wiki/Eleni_(given_name)" title="Eleni (given name)">Eleni</a> (Ἑλένη)</li>
+<li><a href="/wiki/Eudoxia_(name)" class="mw-redirect" title="Eudoxia (name)">Eudocia</a> (Εὐδοκία)</li>
+<li><a href="/wiki/Eugenia_(name)" class="mw-redirect" title="Eugenia (name)">Evgenia</a> (Εὐγενία)</li>
+<li><a href="/wiki/Eusebius_(disambiguation)" class="mw-disambig" title="Eusebius (disambiguation)">Eusebius</a> (Εὐσέβιος)</li>
+<li><a href="/wiki/Evangelos_(given_name)" class="mw-redirect" title="Evangelos (given name)">Evangelos</a> (Εὐάγγελος)</li>
+<li><a href="/wiki/George_(given_name)" title="George (given name)">Georgios</a> (Γεώργιος)</li>
+<li><a href="/wiki/Gregory_(given_name)" title="Gregory (given name)">Grigorios</a> (Γρηγόριος)</li>
+<li><a href="/wiki/Irene_(given_name)" title="Irene (given name)">Irene</a> (Εἰρήνη)</li>
+<li><a href="/wiki/Julia_(given_name)" class="mw-redirect" title="Julia (given name)">Ioulia</a> (Ιουλία)</li>
+<li><a href="/wiki/Leo_(given_name)" title="Leo (given name)">Leo</a> (Λέων)</li>
+<li><a href="/wiki/Margaret_(name)" class="mw-redirect" title="Margaret (name)">Margarita</a> (Μαργαρίτα)</li>
+<li><a href="/wiki/Nectarius_(disambiguation)" class="mw-redirect" title="Nectarius (disambiguation)">Nectarius</a> (Νεκτάριος)</li>
+<li><a href="/wiki/Niketas_(disambiguation)" class="mw-redirect" title="Niketas (disambiguation)">Niketas</a> (Νικήτας)</li>
+<li><a href="/wiki/Nikephoros_(disambiguation)" class="mw-redirect mw-disambig" title="Nikephoros (disambiguation)">Nikephoros</a> (Νικηφόρος)</li>
+<li><a href="/wiki/Panagiotis" title="Panagiotis">Panayiotis</a> (Παναγιώτης)</li>
+<li><a href="/wiki/Pantelis_(disambiguation)" class="mw-redirect" title="Pantelis (disambiguation)">Panteleimon/Pantelis</a> (Παντελεήμων)</li>
+<li><a href="/wiki/Procopius_(disambiguation)" class="mw-disambig" title="Procopius (disambiguation)">Procopios</a> (Προκόπιος)</li>
+<li><a href="/wiki/Robert" title="Robert">Rovértos</a> (Ροβέρτος)</li>
+<li><a href="/wiki/Sabbas_(disambiguation)" class="mw-redirect" title="Sabbas (disambiguation)">Savvas</a> (Σάββας)</li>
+<li><a href="/wiki/Serge_(given_name)" class="mw-redirect" title="Serge (given name)">Sergios</a> (Σέργιος)</li>
+<li><a href="/wiki/Sophia_(name)" class="mw-redirect" title="Sophia (name)">Sofia</a> (Σοφία)</li>
+<li><a href="/wiki/Sakellarios_(surname)" title="Sakellarios (surname)">Sakellarios</a> (Σακελλαριος)</li>
+<li><a href="/wiki/Spyridon_(disambiguation)" class="mw-redirect" title="Spyridon (disambiguation)">Spyridon</a> (Σπυρίδων)</li>
+<li><a href="/wiki/Staurakios" title="Staurakios">Staurakios</a> (Σταυράκιος)</li>
+<li><a href="/wiki/Stavros_(disambiguation)" class="mw-redirect mw-disambig" title="Stavros (disambiguation)">Stavros</a> (Σταῦρος)</li>
+<li><a href="/wiki/Stylianos" class="mw-redirect" title="Stylianos">Stylianos</a> (Στυλιανός/Στέλιος)</li>
+<li><a href="/wiki/Theodore_(name)" title="Theodore (name)">Theodoros</a> (Θεόδωρος)</li>
+<li><a href="/wiki/Theophilus_(disambiguation)" class="mw-disambig" title="Theophilus (disambiguation)">Theofilos</a> (Θεόφιλος)</li>
+<li><a href="/wiki/Timothy_(name)" class="mw-redirect" title="Timothy (name)">Timotheos</a> (Τιμόθεος)</li>
+<li><a href="/wiki/Zoe_(name)" title="Zoe (name)">Zoe</a> (Ζωή)</li>
+<li><a href="/wiki/Zechariah_(priest)" class="mw-redirect" title="Zechariah (priest)">Zacharias</a> (Ζαχαρίας)</li></ul>
+</div>
+<h2><span class="mw-headline" id="Examples_of_family_names">Examples of family names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greek_name&amp;action=edit&amp;section=7" title="Edit section: Examples of family names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Common_prefixes">Common prefixes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greek_name&amp;action=edit&amp;section=8" title="Edit section: Common prefixes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li><i>Archi-</i>: meaning "superior" or "boss".</li>
+<li><i>Chondro-</i>: meaning "fat".</li>
+<li><i>Gero-</i>: meaning "old" or "wise".</li>
+<li><i><a href="/wiki/Hajji" title="Hajji">Hadji</a>-</i>: the Arabic honorific for one who has made the <a href="/wiki/Hadj" class="mw-redirect" title="Hadj">Hadj</a> or pilgrimage, used in the case of Christians for a voyage to Jerusalem, for example "<a href="/wiki/Vassilis_Hatzipanagis" class="mw-redirect" title="Vassilis Hatzipanagis">Hatzipanagis</a>".</li>
+<li><i>Kara-</i>: the Greek word for "cart" and the Turkish word for "black",<sup id="cite_ref-davis_10-0" class="reference"><a href="#cite_note-davis-10">&#91;10&#93;</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The material near this tag failed verification of its source citation(s). (May 2014)">failed verification</span></a></i>&#93;</sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> for example "<a href="/wiki/Dimitrios_Karatasos" title="Dimitrios Karatasos">Karatasos</a>".</li>
+<li><i>Konto-</i>: meaning "short".</li>
+<li><i>Makro-</i>: meaning "tall" or "long".</li>
+<li><i>Mastro-</i>: meaning "artisan" or "workman".</li>
+<li><i>Palaio-</i>: meaning "old" or "wise".</li>
+<li><i>Papa-</i>: indicating descent from a <i>papas</i>, a priest. So <i><a href="/wiki/Lambros_Papakostas" class="mw-redirect" title="Lambros Papakostas">Papakostas</a></i> is the "son of Kostas, the priest".</li></ul>
+</div>
+<h3><span class="mw-headline" id="Common_suffixes">Common suffixes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greek_name&amp;action=edit&amp;section=9" title="Edit section: Common suffixes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li><b>-akis</b> (-άκης): associated primarily with <a href="/wiki/Crete" title="Crete">Crete</a> (except <a href="/wiki/Anogeia" title="Anogeia">Anogeia</a>)  and the Aegean Islands, it is a diminutive, such as Giorgos becoming <i>Giorgakis</i> for the <i>young Giorgos</i>. Examples are: "<a href="/wiki/Konstantinos_Mitsotakis" title="Konstantinos Mitsotakis">Mitsotakis</a>", "<a href="/wiki/Mikis_Theodorakis" title="Mikis Theodorakis">Theodorakis</a>" and "<a href="/wiki/Olympia_Dukakis" title="Olympia Dukakis">Doukakis</a>".This suffix was also very common for <a href="/wiki/Cretan_Turks" title="Cretan Turks">Cretan Turks</a> up until they were officially changed with the <a href="/wiki/Surname_Law" class="mw-redirect" title="Surname Law">Surname Law</a>. This suffix was introduced in the 19th century.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup></li>
+<li><b>-akos</b> (-ᾶκος): mainly from <a href="/wiki/Laconia" title="Laconia">Laconia</a>, particularly among <a href="/wiki/Maniots" title="Maniots">Maniots</a> from the Laconian part of the <a href="/wiki/Mani_peninsula" class="mw-redirect" title="Mani peninsula">Mani peninsula</a>.' Examples are: "<a href="/wiki/Stavros_Xarhakos" class="mw-redirect" title="Stavros Xarhakos">Xarhakos</a>" and "<a href="/wiki/Sotiris_Kyrgiakos" class="mw-redirect" title="Sotiris Kyrgiakos">Kyrgiakos</a>".</li>
+<li><b>-oulis</b> (-ούλης): mainly from <a href="/wiki/Thessalia" class="mw-redirect" title="Thessalia">Thessalia</a>, it is a diminutive, which is also used as a diminutive for place names in the region such as <a href="/wiki/Giannouli" title="Giannouli">Giannouli</a> and <a href="/wiki/Damasouli" title="Damasouli">Damasouli</a> .' Examples are: "Katsioulis" and "<a href="/wiki/Kostas_Giannoulis" title="Kostas Giannoulis">Giannoulis</a>".</li>
+<li><b>-as</b> (-ᾶς): from <a href="/wiki/Macedonia_(Greece)" title="Macedonia (Greece)">Macedonia</a> and the <a href="/wiki/Epirus" title="Epirus">Epirus</a>. Examples are: "<a href="/wiki/Pavlos_Melas" title="Pavlos Melas">Melas</a>", "<a href="/wiki/Pyrros_Dimas" title="Pyrros Dimas">Dimas</a>", "<a href="/wiki/Alexis_Zorbas" class="mw-redirect" title="Alexis Zorbas">Zorbas</a>", "<a href="/wiki/Moustakas" title="Moustakas">Moustakas</a>" and "<a href="/wiki/Zappas" class="mw-redirect" title="Zappas">Zappas</a>". However, the surname <a href="/wiki/Doukas" title="Doukas"><i>Dukas</i></a> or <i>Doukas</i> derives from the Latin title <i><a href="/wiki/Dux" title="Dux">dux</a></i> or <i>duke</i>.</li>
+<li><b>-atos</b> (-ᾶτος): (from <a href="/wiki/Cephalonia" title="Cephalonia">Cephalonia</a>), of <a href="/wiki/Venetian_language" title="Venetian language">Venetian</a> derivation. <sup id="cite_ref-Corriere_13-0" class="reference"><a href="#cite_note-Corriere-13">&#91;13&#93;</a></sup> <sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> Examples are: "<a href="/wiki/Grigoris_Georgatos" title="Grigoris Georgatos">Georgatos</a>", "<a href="/wiki/George_Pan_Cosmatos" class="mw-redirect" title="George Pan Cosmatos">Cosmatos</a>" and "<a href="/wiki/Andrew_Manatos" title="Andrew Manatos">Manatos</a>".</li>
+<li><b>-eas</b> (-εας): mainly among Maniots from the <a href="/wiki/Messenia" title="Messenia">Messenian</a> part of the <a href="/wiki/Mani_peninsula" class="mw-redirect" title="Mani peninsula">Mani peninsula</a>. Examples are: "<a href="/wiki/Elias_Koteas" title="Elias Koteas">Koteas</a>", "<a href="/wiki/Nikolaos_Georgeas" title="Nikolaos Georgeas">Georgeas</a>" and "<a href="/wiki/Angelos_Charisteas" title="Angelos Charisteas">Charisteas</a>".</li>
+<li><b>-elis</b> (-έλης) and <b>-ilis</b> (-ιλής): from the Turkish suffixes for agent, possession and origin, common in western Asia Minor, <a href="/wiki/Mytiline" class="mw-redirect" title="Mytiline">Mytiline</a>, <a href="/wiki/Lemnos" title="Lemnos">Lemnos</a> and <a href="/wiki/Imbros" title="Imbros">Imbros</a>. Examples are: Myrsilis, Katselis, Papadelis, Manelis.</li>
+<li><b>-allis</b> (-άλλης) and <b>-ellis</b> (-έλλης): both found especially in the <a href="/wiki/Dodecanese" title="Dodecanese">Dodecanese</a>, mainly <a href="/wiki/Rhodes" title="Rhodes">Rhodes</a>. Examples are "<a href="/wiki/Nick_Gallis" class="mw-redirect" title="Nick Gallis">Georgallis</a>" and "<a href="/wiki/Maria_Kanellis" title="Maria Kanellis">Kanellis</a>".</li>
+<li><b>-idis</b> or <b>-ides</b> and <b>-iadis</b> or <b>iades</b> (-ίδης/-ιάδης): meaning 'son of' or 'descendant of'. The suffix -idis (often transliterated -ides in English and French) is the oldest in use. <a href="/wiki/Zeus" title="Zeus">Zeus</a>, for example, was also referred to as <a href="/wiki/Cronides" class="mw-redirect" title="Cronides">Cronides</a> ("son of Cronus"). <i>-idis</i> was the most common suffix in <a href="/wiki/Byzantium" title="Byzantium">Byzantium</a>, <a href="/wiki/Bithynia" title="Bithynia">Bithynia</a> and <a href="/wiki/Byzantine_Thrace" class="mw-redirect" title="Byzantine Thrace">Byzantine Thrace</a>, being also used by <a href="/wiki/Pontic_Greeks" title="Pontic Greeks">Pontic Greeks</a> and <a href="/wiki/Caucasus_Greeks" title="Caucasus Greeks">Caucasus Greeks</a> in the <a href="/wiki/Pontic_Alps" class="mw-redirect" title="Pontic Alps">Pontic Alps</a>, northeast <a href="/wiki/Anatolia" title="Anatolia">Anatolia</a>, <a href="/wiki/Georgia_(country)" title="Georgia (country)">Georgia</a>, the former <a href="/wiki/Kars_Oblast" title="Kars Oblast">Kars Oblast</a>, and sometimes in <a href="/wiki/Epirus" title="Epirus">Epirus</a>, <a href="/wiki/Corfu" title="Corfu">Corfu</a> and some <a href="/wiki/Aegean_islands" class="mw-redirect" title="Aegean islands">Aegean islands</a>. Examples include: "<a href="/wiki/James_Stavridis" class="mw-redirect" title="James Stavridis">Stavridis</a>", "<a href="/wiki/Anthony_Koutoufides" title="Anthony Koutoufides">Koutoufides</a>", "<a href="/wiki/Phil_Angelides" title="Phil Angelides">Angelidis</a>", "<a href="/wiki/Nikos_Sampson" title="Nikos Sampson">Georgiadis</a>".</li>
+<li><b>-lis</b> (-λής). Turkish suffix for "of" a place, like the Greek suffixes -tis and -otis. Examples are: "<a href="/wiki/Kostas_Karamanlis" title="Kostas Karamanlis">Karamanlis</a>" and "<a href="/wiki/Dionysios_Kasdaglis" title="Dionysios Kasdaglis">Kasdaglis</a>".</li>
+<li><b>-opoulos</b> (-όπουλος): meaning "descendant of", originated from the <a href="/wiki/Peloponnese" title="Peloponnese">Peloponnese</a> but has become very widespread. Examples are: "<a href="/wiki/Nikitaras" title="Nikitaras">Stamatelopoulos</a>", "<a href="/wiki/Tassos_Papadopoulos" title="Tassos Papadopoulos">Papadopoulos</a>", "<a href="/wiki/Jim_Gianopoulos" class="mw-redirect" title="Jim Gianopoulos">Gianopoulos</a>", "<a href="/wiki/Spiro_Agnew" title="Spiro Agnew">Anagnostopoulos</a>" and "<a href="/wiki/Taki_Theodoracopulos" title="Taki Theodoracopulos">Theodorakopoulos</a>". It can also indicate ethnic origin, such as <i>Frangopoulos</i> (Φραγκόπουλος) meaning "son of a Frank", <i>Persopoulos</i> (Περσόπουλος) meaning "son of a Persian", <i>Servopoulos</i> (Σερβόπουλος) meaning "son of a Serb" and <i>Voulgaropoulos</i> (Βουλγαρόπουλος) meaning "son of a Bulgarian".</li>
+<li><b>-oglou</b> (-όγλου): from the Turkish <i>-oğlu</i> meaning "son of", seen in families from <a href="/wiki/Asia_Minor" class="mw-redirect" title="Asia Minor">Asia Minor</a>. Examples are: "<a href="/wiki/Georgios_Tsolakoglou" title="Georgios Tsolakoglou">Tsolakoglou</a>", "<a href="/wiki/Christos_Ardizoglou" title="Christos Ardizoglou">Ardizoglou</a>" and "<a href="/wiki/Patsatzoglou" class="mw-redirect" title="Patsatzoglou">Patsatzoglou</a>".</li>
+<li><b>-ou</b> (-ου): a genitive mainly from <a href="/wiki/Cyprus" title="Cyprus">Cyprus</a>. Examples are: "<a href="/wiki/Grigoris_Afxentiou" title="Grigoris Afxentiou">Afxentiou</a>", "<a href="/wiki/George_Economou_(poet)" title="George Economou (poet)">Economou</a>", "<a href="/wiki/Michalis_Konstantinou" title="Michalis Konstantinou">Konstantinou</a>", "<a href="/wiki/Constantinos_Christoforou" title="Constantinos Christoforou">Christoforou</a>" and "<a href="/wiki/George_Gregoriou" title="George Gregoriou">Gregoriou</a>".</li>
+<li><b>-tis, -otis</b> (-της, -ώτης): meaning "of" a place. Examples are "<a href="/wiki/Nikolaos_Politis" title="Nikolaos Politis">Politis</a>" and "<a href="/wiki/Dionisis_Chiotis" title="Dionisis Chiotis">Chiotis</a>" from <a href="/wiki/Chios" title="Chios">Chios</a>.</li>
+<li><b>-tzis, -tsis</b> (-τζής, -τσής) and feminine (-τζή, -τσή): Turkish suffix to signify a profession, like the English <i>-er</i> in <i>Baker</i> or <i>Butcher</i>. Examples are: "<a href="/wiki/Hrisopiyi_Devetzi" class="mw-redirect" title="Hrisopiyi Devetzi">Devetzi</a>" and "<a href="/wiki/Stavros_Kouyioumtzis" title="Stavros Kouyioumtzis">Kouyioumtzis</a>".</li></ul>
+</div><p><sup id="cite_ref-oxnames_9-1" class="reference"><a href="#cite_note-oxnames-9">&#91;9&#93;</a></sup>
+</p><h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greek_name&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Onomastics" title="Onomastics">Onomastics</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greek_name&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Donald M. Nicol, <i>The Byzantine Lady: Ten Portraits, 1250-1500</i>, 1996, <style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0521576237" title="Special:BookSources/0521576237">0521576237</a>, p. 3</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Alexander P. Kazhdan, Michael McCormick, "Social Composition of the Byzantine Court", <i>in</i> Henry Maguire, ed., <i>Byzantine Court Culture from 829 to 1204</i>, 2004, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0884023087" title="Special:BookSources/0884023087">0884023087</a>, p. 168</span>
+</li>
+<li id="cite_note-odfn-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-odfn_3-0">^</a></b></span> <span class="reference-text">Patrick Hanks, Richard Coates, Peter McClure, <i>The Oxford Dictionary of Family Names in Britain and Ireland</i>, 2016, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0192527479" title="Special:BookSources/0192527479">0192527479</a>, p. lii</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Hamish Forbes, "Early modern Greece: liquid landscapes and fluid populations" <i>Hesperia Supplements</i> <b>40</b>: 111-135 (2007)</span>
+</li>
+<li id="cite_note-Mackridge-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Mackridge_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Mackridge_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">[[cite|Peter Mackridge, <i>Language and National Identity in Greece, 1766-1976</i>, Oxford, 2009, p. 21}}</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">"Naming practices" in British Academy and Oxford University, <i>Lexicon of Greek Personal Names</i>, <a rel="nofollow" class="external text" href="http://www.lgpn.ox.ac.uk/names/practices.html">online</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book">Hart, Anne (2004). <a rel="nofollow" class="external text" href="https://archive.org/details/searchyourmiddle00anne"><i>Search Your Middle Eastern And European Genealogy: In The Former Ottoman Empire's Records And Online</i></a>. ASJA Press. p.&#160;123. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-595-31811-8" title="Special:BookSources/0-595-31811-8"><bdi>0-595-31811-8</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Search+Your+Middle+Eastern+And+European+Genealogy%3A+In+The+Former+Ottoman+Empire%27s+Records+And+Online&amp;rft.pages=123&amp;rft.pub=ASJA+Press&amp;rft.date=2004&amp;rft.isbn=0-595-31811-8&amp;rft.au=Hart%2C+Anne&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fsearchyourmiddle00anne&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreek+name" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090122022220/http://dimitri.8m.com/surnames.html">"Main page"</a>. <i>Database of Greek surnames</i>. Dimitrios J. Archived from <a rel="nofollow" class="external text" href="http://www.dimitri.8m.com/surnames.html">the original</a> on 22 January 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">19 December</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Database+of+Greek+surnames&amp;rft.atitle=Main+page&amp;rft_id=http%3A%2F%2Fwww.dimitri.8m.com%2Fsurnames.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreek+name" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-oxnames-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-oxnames_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-oxnames_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.lgpn.ox.ac.uk/names/modern.html">"The Transition of Modern Greek Names"</a>. <i>Lexicon of Greek Personal Names</i>. Oxford University<span class="reference-accessdate">. Retrieved <span class="nowrap">19 December</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Lexicon+of+Greek+Personal+Names&amp;rft.atitle=The+Transition+of+Modern+Greek+Names&amp;rft_id=http%3A%2F%2Fwww.lgpn.ox.ac.uk%2Fnames%2Fmodern.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreek+name" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-davis-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-davis_10-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Davis, Jack E.; Fariba Zarinebaf; Bennet, John (2005). <i>A historical and economic geography of Ottoman Greece: the southwestern Morea in the 18th century</i>. Princeton, N.J: American School of Classical Studies at Athens. p.&#160;286. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-87661-534-5" title="Special:BookSources/0-87661-534-5"><bdi>0-87661-534-5</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+historical+and+economic+geography+of+Ottoman+Greece%3A+the+southwestern+Morea+in+the+18th+century&amp;rft.place=Princeton%2C+N.J&amp;rft.pages=286&amp;rft.pub=American+School+of+Classical+Studies+at+Athens&amp;rft.date=2005&amp;rft.isbn=0-87661-534-5&amp;rft.au=Davis%2C+Jack+E.&amp;rft.au=Fariba+Zarinebaf&amp;rft.au=Bennet%2C+John&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreek+name" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.fredonia.edu/faculty/emeritus/edwinlawson/greeknames/greek_10-22-09_final.pdf"><i>Greek Personal Names</i></a><i><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since October 2017">permanent dead link</span></a></i>&#93;</span></sup>, Central Intelligence Agency, revised and updated by Anastasia Parianou, 2007.</i></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Nick Nicholas, "Greek Family Names", <i>in</i> Patrick Hanks, ed., <i>Dictionary of American Family Names</i>, 2003, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0199771693" title="Special:BookSources/0199771693">0199771693</a>, p. lxxiv</span>
+</li>
+<li id="cite_note-Corriere-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Corriere_13-0">^</a></b></span> <span class="reference-text"><i>Il Corriere della Sera</i> (Sept 15, 2006), <a rel="nofollow" class="external text" href="http://www.corriere.it/Primo_Piano/Cronache/2006/09_Settembre/15/cognomi.shtml">L'Italia è il regno dei cognomi</a> &amp; <a rel="nofollow" class="external text" href="http://www.corriere.it/Primo_Piano/Cronache/2006/09_Settembre/15/pop_nomi2.shtml">La provenienza geografica dei cognomi</a></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation book">Kendrick, Tertius T. C. (1822). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=v7sNAAAAQAAJ&amp;printsec=frontcover&amp;dq=The+Ionian+islands:+Manners+and+customs.&amp;source=bl&amp;ots=_QjbWlpiS4&amp;sig=9SHVQdJwxwfO2RmSMICJiL_vMeA&amp;hl=en&amp;ei=AEhZTc0MkYmFB_X14ZsM&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CBYQ6AEwAA#v=onepage&amp;q&amp;f=false"><i>The Ionian islands: Manners and customs</i></a>. J. Haldane. p.&#160;106<span class="reference-accessdate">. Retrieved <span class="nowrap">8 February</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Ionian+islands%3A+Manners+and+customs&amp;rft.pages=106&amp;rft.pub=J.+Haldane&amp;rft.date=1822&amp;rft.aulast=Kendrick&amp;rft.aufirst=Tertius+T.+C.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dv7sNAAAAQAAJ%26printsec%3Dfrontcover%26dq%3DThe%2BIonian%2Bislands%3A%2BManners%2Band%2Bcustoms.%26source%3Dbl%26ots%3D_QjbWlpiS4%26sig%3D9SHVQdJwxwfO2RmSMICJiL_vMeA%26hl%3Den%26ei%3DAEhZTc0MkYmFB_X14ZsM%26sa%3DX%26oi%3Dbook_result%26ct%3Dresult%26resnum%3D1%26ved%3D0CBYQ6AEwAA%23v%3Donepage%26q%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreek+name" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greek_name&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.lgpn.ox.ac.uk/">Lexicon of Greek Personal Names</a>, a Major Research Project of the British Academy, Oxford, contains over 35,000 published Greek names up to the 6th century.</li></ul>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greek_name&amp;action=edit&amp;section=13" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Matthews, Elaine; Hornblower, Simon; Fraser, Peter Marshall, <a rel="nofollow" class="external text" href="https://books.google.com/books?id=SbVJvfu7EzsC&amp;printsec=frontcover&amp;source=gbs_summary_r&amp;cad=0"><i>Greek Personal Names: Their Value as Evidence</i></a>, Proceedings of the British Academy (104), Oxford University Press, 2000. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-726216-3" title="Special:BookSources/0-19-726216-3">0-19-726216-3</a></li></ul>
 <div role="navigation" class="navbox" aria-labelledby="Personal_names_and_anthroponymy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Personal_names" title="Template:Personal names"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Personal_names" title="Template talk:Personal names"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Personal_names&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Personal_names_and_anthroponymy" style="font-size:114%;margin:0 4em"><a href="/wiki/Personal_name" title="Personal name">Personal names</a> and <a href="/wiki/Anthroponymy" title="Anthroponymy">anthroponymy</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*Personal_identity">
 <ul><li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a></li></ul>
 </div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Personal_name" title="Personal name">Personal name</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
@@ -357,7 +553,7 @@ Other</th></tr><tr><td style="padding:0 0.1em 0.4em;padding:0 0.4em 0.6em; borde
 <li><a href="/wiki/Bangladeshi_name" class="mw-redirect" title="Bangladeshi name">Bangladeshi</a></li>
 <li><a href="/wiki/Spanish_naming_customs#Basque_names" title="Spanish naming customs">Basque</a></li>
 <li><a href="/wiki/Belarusian_name" title="Belarusian name">Belarusian</a></li>
-<li><a class="mw-selflink selflink">Bulgarian</a></li>
+<li><a href="/wiki/Bulgarian_name" title="Bulgarian name">Bulgarian</a></li>
 <li><a href="/wiki/Burmese_names" title="Burmese names">Burmese</a></li>
 <li><a href="/wiki/Cambodian_name" title="Cambodian name">Cambodian</a></li>
 <li><a href="/wiki/Canadian_name" title="Canadian name">Canadian</a></li>
@@ -382,7 +578,7 @@ Other</th></tr><tr><td style="padding:0 0.1em 0.4em;padding:0 0.4em 0.6em; borde
 <li><a href="/wiki/German_name" title="German name">German</a></li>
 <li><a href="/wiki/Germanic_name" title="Germanic name">Germanic</a></li>
 <li><a href="/wiki/Ghanaian_name" title="Ghanaian name">Ghanaian</a></li>
-<li><a href="/wiki/Greek_name" title="Greek name">Greek</a>
+<li><a class="mw-selflink selflink">Greek</a>
 <ul><li><small><a href="/wiki/Greek_Cypriot_name" title="Greek Cypriot name">Cypriot</a></small></li></ul></li>
 <li><a href="/wiki/Hawaiian_name" title="Hawaiian name">Hawaiian</a></li>
 <li><a href="/wiki/Hebrew_name" title="Hebrew name">Hebrew</a></li>
@@ -510,46 +706,46 @@ Other</th></tr><tr><td style="padding:0 0.1em 0.4em;padding:0 0.4em 0.6em; borde
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1262
-Cached time: 20191020142119
+Parsed by mw1284
+Cached time: 20191026203844
 Cache expiry: 2592000
 Dynamic content: false
-Complications: []
-CPU time usage: 0.380 seconds
-Real time usage: 0.491 seconds
-Preprocessor visited node count: 1489/1000000
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.420 seconds
+Real time usage: 0.548 seconds
+Preprocessor visited node count: 2453/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 60010/2097152 bytes
-Template argument size: 3642/2097152 bytes
-Highest expansion depth: 15/40
+Post‐expand include size: 56890/2097152 bytes
+Template argument size: 3992/2097152 bytes
+Highest expansion depth: 17/40
 Expensive parser function count: 2/500
-Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 150/5000000 bytes
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 29673/5000000 bytes
 Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.202/10.000 seconds
-Lua memory usage: 9.21 MB/50 MB
+Lua time usage: 0.109/10.000 seconds
+Lua memory usage: 4.13 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  363.936      1 -total
- 53.73%  195.532     11 Template:Bg_icon
- 52.86%  192.372      1 Template:Link_language
- 19.23%   69.994      1 Template:Bulgarians
- 17.80%   64.790      1 Template:Ethnic_group_sidebar
- 16.94%   61.661      1 Template:Citation_needed
- 16.68%   60.709      2 Template:Fix
- 16.35%   59.505      1 Template:Sidebar_with_collapsible_lists
- 13.29%   48.350      5 Template:Category_handler
-  6.13%   22.317      1 Template:Names_in_world_cultures
+100.00%  368.746      1 -total
+ 60.44%  222.870      1 Template:Reflist
+ 27.44%  101.169      4 Template:Isbn
+ 20.24%   74.625      3 Template:Cite_book
+ 17.08%   62.964      5 Template:Catalog_lookup_link
+ 16.96%   62.531      1 Template:Failed_verification
+ 15.98%   58.943      2 Template:Fix
+ 10.34%   38.120      3 Template:Category_handler
+  7.02%   25.887      1 Template:Names_in_world_cultures
+  5.86%   21.607      2 Template:Navbox
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:6979009-0!canonical and timestamp 20191020142119 and revision id 896153609
+<!-- Saved in parser cache with key enwiki:pcache:idhash:13244371-0!canonical and timestamp 20191026203857 and revision id 923168810
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Bulgarian_name&amp;oldid=896153609">https://en.wikipedia.org/w/index.php?title=Bulgarian_name&amp;oldid=896153609</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Greek_name&amp;oldid=923168810">https://en.wikipedia.org/w/index.php?title=Greek_name&amp;oldid=923168810</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Names_by_culture" title="Category:Names by culture">Names by culture</a></li><li><a href="/wiki/Category:Bulgarian_language" title="Category:Bulgarian language">Bulgarian language</a></li><li><a href="/wiki/Category:Slavic-language_names" title="Category:Slavic-language names">Slavic-language names</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2013" title="Category:Articles with unsourced statements from January 2013">Articles with unsourced statements from January 2013</a></li><li><a href="/wiki/Category:Articles_with_Bulgarian-language_external_links" title="Category:Articles with Bulgarian-language external links">Articles with Bulgarian-language external links</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_November_2016" title="Category:Articles with dead external links from November 2016">Articles with dead external links from November 2016</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Names_by_culture" title="Category:Names by culture">Names by culture</a></li><li><a href="/wiki/Category:Greek_given_names" title="Category:Greek given names">Greek given names</a></li><li><a href="/wiki/Category:Greek-language_surnames" title="Category:Greek-language surnames">Greek-language surnames</a></li><li><a href="/wiki/Category:Greek_culture" title="Category:Greek culture">Greek culture</a></li><li><a href="/wiki/Category:Greek-language_given_names" title="Category:Greek-language given names">Greek-language given names</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_October_2017" title="Category:Articles with dead external links from October 2017">Articles with dead external links from October 2017</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:All_articles_with_failed_verification" title="Category:All articles with failed verification">All articles with failed verification</a></li><li><a href="/wiki/Category:Articles_with_failed_verification_from_May_2014" title="Category:Articles with failed verification from May 2014">Articles with failed verification from May 2014</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -565,13 +761,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Bulgarian+name" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bulgarian+name" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Greek+name" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Greek+name" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Bulgarian_name" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Bulgarian_name" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Greek_name" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Greek_name" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -586,7 +782,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Bulgarian_name">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Bulgarian_name&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Bulgarian_name&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Greek_name">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Greek_name&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Greek_name&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -625,28 +821,28 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Bulgarian_name" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Bulgarian_name" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Bulgarian_name&amp;oldid=896153609" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Bulgarian_name&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4090677" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Bulgarian_name&amp;id=896153609" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Greek_name" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Greek_name" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Greek_name&amp;oldid=923168810" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Greek_name&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q11711834" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Greek_name&amp;id=923168810" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Bulgarian+name">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Bulgarian+name&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Bulgarian_name&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Greek+name">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Greek+name&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Greek_name&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Liste_de_pr%C3%A9noms_bulgares" title="Liste de prénoms bulgares – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Imiona_bu%C5%82garskie" title="Imiona bułgarskie – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%B8%D0%BC%D1%8F" title="Болгарское имя – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4090677#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/%C5%98eck%C3%A9_jm%C3%A9no" title="Řecké jméno – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%80%D5%B8%D6%82%D5%B6%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A1%D5%B6%D5%B8%D6%82%D5%B6" title="Հունական անուն – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D0%BA%D1%8A%D0%B0%D0%B3_%D0%BD%D0%BE%D0%BC" title="Грекъаг ном – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Nama-nama_Yunani" title="Nama-nama Yunani – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Imiona_greckie" title="Imiona greckie – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%B8%D0%BC%D1%8F" title="Греческое имя – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q11711834#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 8 May 2019, at 16:43<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 26 October 2019, at 20:38<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -657,7 +853,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Bulgarian_name&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Greek_name&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -669,8 +865,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.380","walltime":"0.491","ppvisitednodes":{"value":1489,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":60010,"limit":2097152},"templateargumentsize":{"value":3642,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":150,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  363.936      1 -total"," 53.73%  195.532     11 Template:Bg_icon"," 52.86%  192.372      1 Template:Link_language"," 19.23%   69.994      1 Template:Bulgarians"," 17.80%   64.790      1 Template:Ethnic_group_sidebar"," 16.94%   61.661      1 Template:Citation_needed"," 16.68%   60.709      2 Template:Fix"," 16.35%   59.505      1 Template:Sidebar_with_collapsible_lists"," 13.29%   48.350      5 Template:Category_handler","  6.13%   22.317      1 Template:Names_in_world_cultures"]},"scribunto":{"limitreport-timeusage":{"value":"0.202","limit":"10.000"},"limitreport-memusage":{"value":9660090,"limit":52428800}},"cachereport":{"origin":"mw1262","timestamp":"20191020142119","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Bulgarian name","url":"https:\/\/en.wikipedia.org\/wiki\/Bulgarian_name","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4090677","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4090677","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-09-13T18:39:28Z","dateModified":"2019-05-08T16:43:00Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/24\/Coat_of_arms_of_Bulgaria.svg","headline":"Wikimedia list article"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw1258"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.420","walltime":"0.548","ppvisitednodes":{"value":2453,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":56890,"limit":2097152},"templateargumentsize":{"value":3992,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":29673,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  368.746      1 -total"," 60.44%  222.870      1 Template:Reflist"," 27.44%  101.169      4 Template:Isbn"," 20.24%   74.625      3 Template:Cite_book"," 17.08%   62.964      5 Template:Catalog_lookup_link"," 16.96%   62.531      1 Template:Failed_verification"," 15.98%   58.943      2 Template:Fix"," 10.34%   38.120      3 Template:Category_handler","  7.02%   25.887      1 Template:Names_in_world_cultures","  5.86%   21.607      2 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.109","limit":"10.000"},"limitreport-memusage":{"value":4328130,"limit":52428800}},"cachereport":{"origin":"mw1284","timestamp":"20191026203844","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Greek name","url":"https:\/\/en.wikipedia.org\/wiki\/Greek_name","sameAs":"http:\/\/www.wikidata.org\/entity\/Q11711834","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q11711834","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-09-13T09:30:33Z","dateModified":"2019-10-26T20:38:57Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw1274"});});</script>
 </body>
 </html>
