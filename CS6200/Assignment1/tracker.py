@@ -67,7 +67,9 @@ class tracker:
 		#checking so see whether this is parseable based on topics
 		#checking so see whether this is parseable based on topics
 		if url is not None:
-			# if robot.can_fetch("*",url):
+			if robot.can_fetch("*",url): 
+				print("robot")
+			print(url)
 			try:
 				start = url_handler.open(url, timeout=5) 
 			except:
@@ -89,7 +91,6 @@ class tracker:
 						file = open(filename, "wb")
 						counter += 1
 						file.write(page.content)
-						print(filename)
 						file.close()
 			
 
