@@ -1,11 +1,3 @@
-cmake_minimum_required(VERSION 3.8)
-project(project1_threading)
-
-set(CMAKE_CXX_STANDARD 11)
-include_directories(. $ENV{SIMULATOR_INC_LIB_DIR}/includes)
-LINK_DIRECTORIES($ENV{SIMULATOR_INC_LIB_DIR}/lib)
-set(SOURCE_FILES main.cpp thread.cpp testHelper.cpp testHelper.h lock.cpp)
-
-add_executable(project1_threading ${SOURCE_FILES})
-
-TARGET_LINK_LIBRARIES(project1_threading libgtest.a libos_simulator.a pthread)
+version https://git-lfs.github.com/spec/v1
+oid sha256:1249b0fe48b1788eed02e46e9ebce026922dab0e49ad75c6f176f7d0147273dd
+size 408

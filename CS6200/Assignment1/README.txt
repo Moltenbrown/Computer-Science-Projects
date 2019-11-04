@@ -1,2 +1,3 @@
-The most difficult of this assignment was trying to figure out the regex so that Main_Page links and links containing ":" were ignored. 
-The other issue was the amount of time the program took if I used a robot parser.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e61685107d0d83d44ff3a2990e83c26bef803cb4fc75593310c9f718a707b0b0
+size 219

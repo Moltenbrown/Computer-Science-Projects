@@ -1,2 +1,3 @@
-/usr/bin/ar qc libStudentELFReader.a  CMakeFiles/StudentELFReader.dir/elf_common.c.o
-/usr/bin/ranlib libStudentELFReader.a
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a531c4ed9380554e6fc5c594d33a8e3846b426397f58af0e801ecd5914730c8
+size 123
