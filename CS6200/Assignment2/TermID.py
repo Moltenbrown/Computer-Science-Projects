@@ -1,3 +1,6 @@
+import jsonpickle
+import json
+
 # creating a class to hold the termID, the names of documents containing the term
 # and the document frequency of the term.
 class termID:
@@ -47,6 +50,12 @@ class termID:
 					filename = line
 					print(filename)
 				else:
+					if resultIDs.has_key(line) is False:
+						if resultIDs.has_key(line.title()):
+							line = line.title()
+						else:
+							if resultsIDs.has_key(line.casefold()):
+								line = line.casefold()
 					try:
 						result = resultIDs[line]
 						if filename not in result.documents:
@@ -60,6 +69,23 @@ class termID:
 						newTermID.addDocument(filename)
 						newTermID.setFrequency()
 						resultIDs[line] = newTermID
+		# generating a json file as output
+		with open("./TermIDFile.json", "w") as output:
+			holder = {}
+			for createdTermID in resultIDs:
+				token = resultIDs[createdTermID]
+				if token.getTermID() != "":
+					name = token.getTermID()
+					holder[name] = []
+					holder[name].append({
+						'token' : name,
+						'documents' : token.getDocuments(),
+						'frequency' : token.getFrequency()
+						})
+
+			json.dump(holder, output)
+
+
 
 
 
