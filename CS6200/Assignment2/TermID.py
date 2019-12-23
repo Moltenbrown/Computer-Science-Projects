@@ -1,8 +1,8 @@
 # creating a class to hold the termID, the names of documents containing the term
 # and the document frequency of the term.
-class TermID:
-	def __init__(self, TermID):
-		self.termID = TermID
+class termID:
+	def __init__(self):
+		self.termID = termID
 		self.documents = []
 		self.documentFrequency = 0
 
@@ -10,41 +10,56 @@ class TermID:
 	def getTermID(self):
 		return self.termID
 
+	# used to set the termID.
+	def setTermID(self, termID):
+		self.termID = termID
+
 	# used to return the documents that contain the TermID
 	def getDocuments(self):
 		return self.documents
 
+	def addDocument(self, document):
+		self.documents.append(document)
 	# used to return the document frequency for the TermID 
-	def getFrequency:
+	def getFrequency(self):
 		return self.documentFrequency
 
 	# used to set the document frequency. Preferably used after the documents array
 	# has been finished.
-	def setFrequency:
-		frequency = documents.len()
+	def setFrequency(self):
+		frequency = len(self.documents)
 		self.documentFrequency = frequency
 
 	# used to generate TermIDs from the output file from RunDataTransformer
 	def generateTermID(self, filename):
 		resultIDs = {}
+		filenameMarker = ".txt"
+		# trying to deal with newline markers
+		removalObject = "\n"
+		replacementObject = ""
+
+		# the dictionary that will link tokens to TermIDs
 		with open(filename, "rb") as tokenfile:
-			filename = null
+			filename = None
 			for line in tokenfile:
-				if ".txt" in line:
+				line = line.decode('utf-8')
+				if filenameMarker in line:
 					filename = line
+					print(filename)
 				else:
 					try:
-						result = resultsID[line]
+						result = resultIDs[line]
 						if filename not in result.documents:
 							result.documents.append(filename)
 							result.setFrequency()
-							resultsID[line] = result
+							resultIDs[line] = result
 
 					except KeyError:
-						termID = TermID()
-						termID.documents.append(filename)
-						termID.setFrequency()
-						resultsID[line] = termID
+						newTermID = termID()
+						newTermID.setTermID(line.replace(removalObject, replacementObject))
+						newTermID.addDocument(filename)
+						newTermID.setFrequency()
+						resultIDs[line] = newTermID
 
 
 
