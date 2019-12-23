@@ -1,4 +1,3 @@
-import jsonpickle
 import json
 
 # creating a class to hold the termID, the names of documents containing the term
@@ -49,12 +48,13 @@ class termID:
 				if filenameMarker in line:
 					filename = line
 					print(filename)
+					
 				else:
-					if resultIDs.has_key(line) is False:
-						if resultIDs.has_key(line.title()):
+					if line not in resultIDs.keys():
+						if line.title() in resultIDs.keys():
 							line = line.title()
 						else:
-							if resultsIDs.has_key(line.casefold()):
+							if line.casefold() in resultIDs.keys():
 								line = line.casefold()
 					try:
 						result = resultIDs[line]
