@@ -50,12 +50,9 @@ class termID:
 					print(filename)
 					
 				else:
-					if line not in resultIDs.keys():
-						if line.title() in resultIDs.keys():
-							line = line.title()
-						else:
-							if line.casefold() in resultIDs.keys():
-								line = line.casefold()
+					# trying to deal with same words in different cases.
+					line = line.casefold()
+
 					try:
 						result = resultIDs[line]
 						if filename not in result.documents:
@@ -69,6 +66,7 @@ class termID:
 						newTermID.addDocument(filename)
 						newTermID.setFrequency()
 						resultIDs[line] = newTermID
+						
 		# generating a json file as output
 		with open("./TermIDFile.json", "w") as output:
 			holder = {}
