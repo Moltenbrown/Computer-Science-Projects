@@ -67,15 +67,20 @@ class stats:
 					tokens = re.findall(rb'(?<= |>|")[\w\,]+', file_data)
 					for token in tokens:
 						if token is not None:
-							if token is rb',':
+							if token == rb',':
 								token = None
 								continue
-							else:  
+							else:
 								token = token.replace(rb",", rb" ")
 								output_file.write(bytes(str(token), encoding='utf8'))
 								output_file.write(new_line)
 								self.total_token = self.total_token + 1
-								if self.tokens.count(token) == 0:
+
+								# lowercasing tokens to make sure we aren't double counting based on whether or not a word is capitalized.
+								checker = token.decode("utf-8")
+								checker = checker.casefold()
+								checker = checker.encode('utf-8')
+								if self.tokens.count(token) == 0 or self.tokens.count(checker) == 0:
 									self.tokens.append(token)
 				current_file.closed
 				output_file.write(new_line)
@@ -87,3 +92,7 @@ class stats:
 
 		self.unique_token = len(self.tokens)
 		output_file.close()
+
+		print(self.total_token)
+		print(self.unique_token)
+		print(self.total_size)
