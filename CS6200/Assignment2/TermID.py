@@ -47,7 +47,6 @@ class termID:
 				line = line.decode('utf-8')
 				if filenameMarker in line:
 					filename = line
-					print(filename)
 					
 				else:
 					# trying to deal with same words in different cases.
@@ -66,7 +65,7 @@ class termID:
 						newTermID.addDocument(filename)
 						newTermID.setFrequency()
 						resultIDs[line] = newTermID
-						
+
 		# generating a json file as output
 		with open("./TermIDFile.json", "w") as output:
 			holder = {}
