@@ -2,6 +2,7 @@ import json
 
 # creating a class to hold the documentID, the names of documents containing the term
 # and the document frequency of the term.
+
 class documentID:
 	def __init__(self):
 		self.name = None
@@ -25,6 +26,8 @@ class documentID:
 
 	# main function to get the document ids and document lengths from the documents in the file.
 	def generateDocumentID(self, filename):
+		documentOutputName = "./DocumentIDFile.json"
+		print("Creating a documentID list.\n")
 		filenameMarker = ".txt"
 		results = {}
 
@@ -32,10 +35,9 @@ class documentID:
 		replacementObject = ""
 
 		# the dictionary that will link document names to DocumentIDs
-		with open(filename, "rb") as tokenfile:
+		with open(filename, "r") as tokenfile:
 			newDocumentID = None
 			for line in tokenfile:
-				line = line.decode('utf-8')
 				if filenameMarker in line:
 					newDocumentID = documentID()
 					newDocumentID.setDocumentName(line.replace(removalObject, replacementObject))
@@ -44,9 +46,9 @@ class documentID:
 				else:
 					newDocumentID.incrementDocumentLength()
 
-		with open("./DocumentIDFile.json", "w") as output:
+		with open(documentOutputName, "w") as output:
 			holder = {}
-			for createdDocumentID in results:
+			for createdDocumentID in sorted(results.keys()):
 				doc = results[createdDocumentID]
 				docTitle = doc.getDocumentName()
 				holder[docTitle] = []
@@ -56,5 +58,8 @@ class documentID:
 					})
 
 			json.dump(holder, output)
+			print("Successfully generated a documentID list.\n")
+
+		return documentOutputName
 
 
