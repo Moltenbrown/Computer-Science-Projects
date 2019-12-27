@@ -13,6 +13,7 @@ class stats:
 		self.total_index_size = 0
 		self.index_to_file = 0
 		self.tokens = []
+		self.output_file = None
 	# use to return the total size of everything we crawled through
 	def getTotalSize(self):
 		return self.total_size
@@ -25,36 +26,55 @@ class stats:
 	def getTokenList(self):
 		return self.tokens
 
-	#use to get the total size of all the unique token.
+	# use to get the total size of all the unique token.
 	def getUniqueTokens(self):
 		return self.unique_token
+
+	def getTotalIndexSize(self):
+		return self.total_index_size
+
+	# use to set the total size of index files that are created by the end function.
+	def setTotalIndexSize(self, value):
+		self.total_index_size = value
+
+	# use to get the output file name form the stats object
+	def getOutputFile(self):
+		return self.output_file
+
+	# use to get the ratio of the total index size to the total file size
+	def getIndexToFile(self):
+		return self.index_to_file
+
+	# use to set the ratio of the total index size to the total file size
+	def setIndexToFile(self):
+		index = self.total_index_size / self.total_index_size
+		file = self.total_size / self.total_index_size
+		self.index_to_file = index + "/" + file
 
 	#main function for going through the files
 	def getStats(self, FolderName, NumFilesToProcess):
 		global counter
 
 		parse_amount = int(NumFilesToProcess)
+		global new_line
 		new_line = '\n'
-		new_line = str.encode(new_line)
-		new_line = bytes(new_line)
 
-		#where the final set of all the tokens generated will go
-		output_file = open("output.txt", "wb")
-
+		output_name = "output.txt"
 
 		file_directory = FolderName
 
 		files = os.listdir(file_directory)
-		output_file = open("output.txt", "wb")
-		for file in files:
+		# had to handle everything as bytes of the program wouldn't work.
+		output_file = open("output.txt", "w")
+		for file in f
+		iles:
 			print(counter)
 			if counter != parse_amount:
 				file_name = file_directory + "/" + file
 				info = os.stat(file_name)
 				self.total_size += info.st_size
 				with open(file_name, "rb") as current_file:
-					output_file.write(bytes(file_name, encoding='utf8'))
-					output_file.write(new_line)
+					output_file.write(file_name)
 					output_file.write(new_line)
 					file_data = current_file.read()
 					file_data = re.sub(rb'(<title>)[^<]+(</title>)', rb' ', file_data)
@@ -72,16 +92,17 @@ class stats:
 								continue
 							else:
 								token = token.replace(rb",", rb" ")
-								output_file.write(bytes(str(token), encoding='utf8'))
+								token = token.decode("utf-8")
+								token = token.casefold()
+								output_file.write(token)
 								output_file.write(new_line)
 								self.total_token = self.total_token + 1
 
 								# lowercasing tokens to make sure we aren't double counting based on whether or not a word is capitalized.
-								checker = token.decode("utf-8")
-								checker = checker.casefold()
-								checker = checker.encode('utf-8')
-								if self.tokens.count(token) == 0 or self.tokens.count(checker) == 0:
-									self.tokens.append(token)
+								
+								checker = token
+								if self.tokens.count(checker) == 0:
+									self.tokens.append(checker)
 				current_file.closed
 				output_file.write(new_line)
 
@@ -93,6 +114,10 @@ class stats:
 		self.unique_token = len(self.tokens)
 		output_file.close()
 
-		print(self.total_token)
-		print(self.unique_token)
-		print(self.total_size)
+		# print(self.total_token)
+		# print(self.unique_token)
+		# print(self.total_size)
+
+		self.output_name = output_name
+
+		return self

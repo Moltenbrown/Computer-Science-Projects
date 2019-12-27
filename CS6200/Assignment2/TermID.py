@@ -34,6 +34,9 @@ class termID:
 
 	# used to generate TermIDs from the output file from RunDataTransformer
 	def generateTermID(self, filename):
+		global termIDOutput 
+		termIDOutput = "./TermIDFile.json"
+		print("Creating a termID list.\n")
 		resultIDs = {}
 		filenameMarker = ".txt"
 		# trying to deal with newline markers
@@ -41,10 +44,9 @@ class termID:
 		replacementObject = ""
 
 		# the dictionary that will link tokens to TermIDs
-		with open(filename, "rb") as tokenfile:
+		with open(filename, "r") as tokenfile:
 			filename = None
 			for line in tokenfile:
-				line = line.decode('utf-8')
 				if filenameMarker in line:
 					filename = line
 					
@@ -66,10 +68,14 @@ class termID:
 						newTermID.setFrequency()
 						resultIDs[line] = newTermID
 
+
+
 		# generating a json file as output
-		with open("./TermIDFile.json", "w") as output:
+		with open(termIDOutput, "w") as output:
 			holder = {}
-			for createdTermID in resultIDs:
+			# trying to get rid of the blank space that appears as a key in the dictionary
+			del resultIDs["\n"]
+			for createdTermID in sorted(resultIDs.keys()):
 				token = resultIDs[createdTermID]
 				if token.getTermID() != "":
 					name = token.getTermID()
@@ -81,6 +87,10 @@ class termID:
 						})
 
 			json.dump(holder, output)
+			print("Successfully generated a termID list.\n")
+
+
+		return resultIDs
 
 
 
