@@ -47,9 +47,15 @@ class stats:
 
 	# use to set the ratio of the total index size to the total file size
 	def setIndexToFile(self):
-		index = self.total_index_size / self.total_index_size
-		file = self.total_size / self.total_index_size
-		self.index_to_file = index + "/" + file
+		index = None
+		file = None
+		if self.total_index_size > self.total_size:
+			index = self.total_index_size / self.total_size
+			file = self.total_size / self.total_size
+		else:
+			index = self.total_index_size / self.total_index_size
+			file = self.total_size / self.total_index_size
+		self.index_to_file = str(index) + "/" + str(file)
 
 	#main function for going through the files
 	def getStats(self, FolderName, NumFilesToProcess):
@@ -66,8 +72,7 @@ class stats:
 		files = os.listdir(file_directory)
 		# had to handle everything as bytes of the program wouldn't work.
 		output_file = open("output.txt", "w")
-		for file in f
-		iles:
+		for file in files:
 			print(counter)
 			if counter != parse_amount:
 				file_name = file_directory + "/" + file
@@ -118,6 +123,6 @@ class stats:
 		# print(self.unique_token)
 		# print(self.total_size)
 
-		self.output_name = output_name
+		self.output_file = output_name
 
 		return self

@@ -20,6 +20,10 @@ class documentID:
 	def getDocumentLength(self):
 		return self.length
 
+	# use to set the document length.
+	def setDocumentLength(self, length):
+		self.length = length
+
 	# used to increment the document length
 	def incrementDocumentLength(self):
 		self.length += 1
@@ -60,6 +64,6 @@ class documentID:
 			json.dump(holder, output)
 			print("Successfully generated a documentID list.\n")
 
-		return documentOutputName
+		return output
 
 
