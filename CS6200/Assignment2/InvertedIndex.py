@@ -7,6 +7,7 @@ class invertedIndex:
 	def __init__(self):
 		self.termIDList = None
 		self.termToDocStats = {}
+		self.documentIDs = None
 
 	#used to return the termID list
 	def getTermIDList(self):
@@ -15,6 +16,14 @@ class invertedIndex:
 	# used to set the termID list
 	def setTermIDList(self, termIDList):
 		self.termIDList = termIDList
+
+	#used to return the termID list
+	def getDocumentIDList(self):
+		return self.documentIDs
+
+	# used to set the termID list
+	def setDocumentIDList(self, documentIDs):
+		self.documentIDs = documentIDs
 
 	# used to get the term to doc stats
 	def getTermToDocStats(self):
@@ -32,8 +41,11 @@ class invertedIndex:
 	def createInvertedIndex(self, filename):
 		forIndex = termID()
 		termIDList = forIndex.generateTermID(filename)
+		forDocuments = documentID()
+		documentIDList = forDocuments.generateDocumentID(filename)
 
 		self.setTermIDList(termIDList)
+		self.setDocumentIDList(documentIDList)
 
 	# used to create the inverted index file
 	def generateFile(self, filename):
@@ -83,6 +95,7 @@ class invertedIndex:
 			stats = newIndex.getTermToDocStats()
 			for stat in sorted(stats.keys()):
 				docStat = stats[stat]
+				stat = stat.replace("\n", "")
 				holder[stat] = []
 				for docinfo in docStat:
 					holder[stat].append({

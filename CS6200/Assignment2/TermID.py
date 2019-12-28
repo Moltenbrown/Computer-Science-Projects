@@ -34,7 +34,6 @@ class termID:
 
 	# used to generate TermIDs from the output file from RunDataTransformer
 	def generateTermID(self, filename):
-		global termIDOutput 
 		termIDOutput = "./TermIDFile.json"
 		print("Creating a termID list.\n")
 		resultIDs = {}
