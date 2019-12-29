@@ -8,6 +8,7 @@ termIDFile = "./TermIDFile.json"
 documentIDFile = "./DocumentIDFile.json"
 invertedIndexFile = "./InvertedIndex.json"
 removalInfo = "../Assignment1/files/"
+useIndexResults = "./UseIndexResults.txt"
 
 # returns the term ID associated with the term.
 def queryCheck(query):
@@ -93,6 +94,8 @@ def main():
 			# attempting to get only the set of documents that contain all the words in the query.
 			result = temp.intersection(result)
 
-	print(result)
+	with open(useIndexResults, "w") as endResult:
+		for res in result:
+			endResult.write(res + "\n")
 
 main()
