@@ -1,5 +1,3 @@
-The total file size of all of the inputs files is: 205116032
-The total number of tokens across all input files is: 5567710
-The total number of unique tokens across all input files is: 204344
-The total size of all index files is: 195374991
-The ratio of the total index size to the total file size is: 1.0/1.0498581776006326
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a21685bfd132e0bac9f59314f9e2f9fc18d5416724222ac58d651c02dac1653
+size 324
