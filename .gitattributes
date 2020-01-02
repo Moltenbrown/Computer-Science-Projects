@@ -1,3 +1,10 @@
 *.txt filter=lfs diff=lfs merge=lfs -text
 *.json filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
 CS6200/Assignment2/*.json filter=lfs diff=lfs merge=lfs -text
+=======
+<<<<<<< HEAD
+=======
+CS6200/Assignment2/*.json filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 13364c9afc72bb39434760fb6548e7cc999323a2
+>>>>>>> 9065a17c8789f4862a19f303bd732ed2c1ee531e
