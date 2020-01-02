@@ -1,10 +1,16 @@
 import math
+import re
+import curses.ascii
+
+replacement_value = ''
+punctuation = []
 
 # class that generates a query token object for each query on the page.
 class query_token:
-    self.token = None
-    self.frequency = 0
-    self.weighted_frequency = 0
+    def __init__(self):
+        self.token = None
+        self.frequency = 0
+        self.weighted_frequency = 0
 
     # returns the token the query_token is associated with.
     def getToken(self):
@@ -39,15 +45,22 @@ class query_token:
         with open(filename, "r") as queryFile:
             for line in queryFile:
                 results = {}
+                line = line.split(' ')
                 for word in line:
+                    # lowercasing all the words and trying to remove any and all punctuation to match the document token format.
+                    word = word.casefold()
+                    for letter in word:
+                        if curses.ascii.ispunct(letter):
+                            word = word.replace(letter, replacement_value)
+
                     try:
-                        result[word].incrementFrequency()
+                        results[word].incrementFrequency()
 
                     except KeyError:
                         holder = query_token()
                         holder.setToken(word)
                         holder.incrementFrequency()
-                        result[word] = holder
+                        results[word] = holder
 
                 for key in results:
                     results[key].setWeightedFrequency()

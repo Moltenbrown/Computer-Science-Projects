@@ -10,9 +10,10 @@ invertedIndexFile = "/TermIDFile.json"
 
 
 class idf_generator:
-	self.term = None
-	self.df = 0
-	self.idf = 0
+	def __init__(self):
+		self.term = None
+		self.df = 0
+		self.idf = 0
 
 	# returns the term for the idf_generator
 	def get_term(self):
@@ -35,10 +36,10 @@ class idf_generator:
 		return self.idf
 
 	# sets the idf for each term in each query the query:
-	def generate_idf(self, queryTokenList, termFolder):
+	def generate_idf_list(self, queryTokenList, termFolder):
 		sys.path.insert(0, termFolder)
-		filename = IndexFolder + invertedIndexFile
-		with open(invertedIndexFile, "r") as invertedFile:
+		filename = termFolder + invertedIndexFile
+		with open(filename, "r") as invertedFile:
 			useable_inverted = json.load(invertedFile)
 			results = []
 			for query in queryTokenList:
@@ -47,6 +48,7 @@ class idf_generator:
 					term_info = idf_generator()
 					term_info.set_term(key)
 					current_key_info = useable_inverted[key]
+
 
 
 
