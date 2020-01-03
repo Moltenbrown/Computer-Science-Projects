@@ -32,7 +32,7 @@ class query_token:
     def getWeightedFrequency(self):
         return self.weighted_frequency
 
-    # sets the weighted frequencey of the token
+    # sets the weighted frequency of the token
     def setWeightedFrequency(self):
         if self.frequency > 0:
             self.weighted_frequency = 1 + math.log10(self.frequency)
@@ -54,7 +54,9 @@ class query_token:
                             word = word.replace(letter, replacement_value)
 
                     try:
-                        results[word].incrementFrequency()
+                        result = results[word]
+                        result = result.incrementFrequency()
+
 
                     except KeyError:
                         holder = query_token()

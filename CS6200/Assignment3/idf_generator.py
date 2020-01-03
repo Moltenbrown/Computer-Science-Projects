@@ -1,6 +1,5 @@
 import math
 import json
-import sys
 
 # creating a global variable for amount of documents since we've used 1000 documents for all assignments.
 # recognize that I could have the number adjustible based on how many files are in the initial content 
@@ -9,7 +8,7 @@ amount_of_documents = 1000
 invertedIndexFile = "/TermIDFile.json"
 
 
-class idf_generator:
+class query_idf_generator:
 	def __init__(self):
 		self.term = None
 		self.df = 0
@@ -35,20 +34,35 @@ class idf_generator:
 	def get_idf(self):
 		return self.idf
 
+	# sets the idf value for the idf_generator:
+	def set_idf(self):
+		result = amount_of_documents/self.df
+		self.idf = math.log10(result)
+
+
 	# sets the idf for each term in each query the query:
 	def generate_idf_list(self, queryTokenList, termFolder):
-		sys.path.insert(0, termFolder)
 		filename = termFolder + invertedIndexFile
 		with open(filename, "r") as invertedFile:
 			useable_inverted = json.load(invertedFile)
 			results = []
+			missing_words = []
 			for query in queryTokenList:
 				tokens = {}
 				for key in query:
-					term_info = idf_generator()
+					key = key.replace("\n", "")
+					term_info = query_idf_generator()
 					term_info.set_term(key)
-					current_key_info = useable_inverted[key]
 
+					try:
+						current_key_info = useable_inverted[key]
+						current_key_info = current_key_info[0]
+						term_info.set_df(current_key_info['frequency'])
+						term_info.set_idf()
+						tokens[key] = term_info
 
+					except KeyError:
+						missing_words.append(key)
+				results.append(tokens)
 
-
+		return results
