@@ -4,17 +4,17 @@ import json
 from TermID import termID
 from DocumentID import documentID
 
-termIDFile = "./TermIDFile.json"
-documentIDFile = "./DocumentIDFile.json"
-invertedIndexFile = "./InvertedIndex.json"
+termIDFile = "/TermIDFile.json"
+documentIDFile = "/DocumentIDFile.json"
+invertedIndexFile = "/InvertedIndex.json"
 removalInfo = "../Assignment1/files/"
-useIndexResults = "./UseIndexResults.txt"
+useIndexResults = "/UseIndexResults.txt"
 
 # returns the term ID associated with the term.
-def queryCheck(query):
+def queryCheck(foldername, query):
 	result = None
-
-	with open(termIDFile, 'r') as termFile:
+	filepath = foldername + termIDFile
+	with open(filepath, 'r') as termFile:
 		info = json.load(termFile)
 		result = info[query]
 
@@ -33,17 +33,20 @@ def jsonToTermID(queryCheckResult):
 	return newTermID
 
 # returns a list of document id's associated with the term.
-def checkInvertedList(termID):
+def checkInvertedList(foldername, termID):
 	results = None
 	term = termID.getTermID()
 
-	with open(invertedIndexFile, 'r') as indexFile:
+	invert = foldername + invertedIndexFile
+	docs = foldername + documentIDFile
+
+	with open(invert, 'r') as indexFile:
 		info = json.load(indexFile)
 		results = info[term]
 
 	docResults = []
 
-	with open(documentIDFile, 'r') as documentFile:
+	with open(docs, 'r') as documentFile:
 		info = json.load(documentFile)
 		for result in results:
 			docName = result['document name']
@@ -72,30 +75,30 @@ def checkDocumentsList(documentID):
 	return name
 
 # ties all the helper functions together to get a list of documents associated with the terms in the query.
-def main():
-	termToFindInfoFor = sys.argv[1].split(' ')
-	result = {}
-	temp = []
+# def main():
+# 	termToFindInfoFor = sys.argv[1].split(' ')
+# 	result = {}
+# 	temp = []
 
-	for term in termToFindInfoFor:
-		jsonObject = queryCheck(term)
-		checkingTerm = jsonToTermID(jsonObject)
-		docResults = checkInvertedList(checkingTerm)
-		adjusted_results = jsonToDocumentID(docResults)
+# 	for term in termToFindInfoFor:
+# 		jsonObject = queryCheck(term)
+# 		checkingTerm = jsonToTermID(jsonObject)
+# 		docResults = checkInvertedList(checkingTerm)
+# 		adjusted_results = jsonToDocumentID(docResults)
 
-		for res in adjusted_results:
-			temp.append(checkDocumentsList(res))
+# 		for res in adjusted_results:
+# 			temp.append(checkDocumentsList(res))
 
-		temp = set(temp)
+# 		temp = set(temp)
 
-		if len(result) == 0:
-			result = temp
-		else:
-			# attempting to get only the set of documents that contain all the words in the query.
-			result = temp.intersection(result)
+# 		if len(result) == 0:
+# 			result = temp
+# 		else:
+# 			# attempting to get only the set of documents that contain all the words in the query.
+# 			result = temp.intersection(result)
 
-	with open(useIndexResults, "w") as endResult:
-		for res in result:
-			endResult.write(res + "\n")
+# 	with open(useIndexResults, "w") as endResult:
+# 		for res in result:
+# 			endResult.write(res + "\n")
 
-main()
+# main()
