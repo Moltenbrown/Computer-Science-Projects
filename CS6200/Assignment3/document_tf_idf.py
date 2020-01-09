@@ -2,8 +2,7 @@ import sys
 import math
 import curses.ascii
 
-# trying to add UseIndex to the path so I can used it readily.
-sys.path.append('../Assignment2')
+sys.path.append("../Assignment2")
 
 from UseIndex import *
 

@@ -1,9 +1,9 @@
 import math
 import re
 import curses.ascii
+from stats import stats
 
 replacement_value = ''
-punctuation = []
 
 # class that generates a query token object for each query on the page.
 class query_token:
@@ -40,10 +40,12 @@ class query_token:
             self.weighted_frequency = 0
 
     # creating query_tokens for each token in each query and storing the queries in an array by the location they initially were
-    def generateListOfTokens(self, filename):
+    def generateListOfTokens(self, filename, stat_list):
         location = []
+        stat = stats()
         with open(filename, "r") as queryFile:
             for line in queryFile:
+                stat.setQuery(line, stat_list)
                 results = {}
                 line = line.split(' ')
                 for word in line:

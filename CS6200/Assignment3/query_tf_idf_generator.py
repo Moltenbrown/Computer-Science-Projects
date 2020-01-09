@@ -2,13 +2,16 @@ import math
 from queryToken import query_token
 from idf_generator import query_idf_generator
 
-class tf_idf:
+class query_tf_idf:
 	def __init__(self):
 		self.tf_idf = 0
 
 	# returns the tf_idf from the tf_idf
 	def get_tf_idf(self):
 		return self.tf_idf
+	# sets the tf-idf when only one value is entered - to be used specifically when normalizing the tf-idfs.
+	def set_norm_tf_idf(self, norm_idf):
+		self.tf_idf = norm_idf
 
 	# sets the tf-idf from the two values entered
 	def set_tf_idf(self, tf, idf):
@@ -21,7 +24,7 @@ class tf_idf:
 			tf_idfs = {}
 			index = tokenlist.index(query);
 			for word in query:
-				token = tf_idf()
+				token = query_tf_idf()
 				tf = query[word]
 				idf = idf_list[index]
 				word = word.replace("\n", "")
