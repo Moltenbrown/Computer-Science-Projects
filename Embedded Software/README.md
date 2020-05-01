@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-/* Ugochi Madubata. This */
-=======
-# Computer-Science-Projects
-Some of my class work.
->>>>>>> 69fd6b952ceeb6c22e57387210ece4fed6855493
+/* Ugochi Madubata. My program works by first printing the original array, then finding the mean of the array. I then sort the array and using it to get the minimum, maximum, and median of the array.*/
