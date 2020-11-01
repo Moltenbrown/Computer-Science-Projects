@@ -5,80 +5,66 @@
 #include <ctype.h>
 #include "word_report.h"
 
-void largestWord(char *file) {
-    FILE *openFile = fopen(file, "r");
-    char *biggest = (char *)malloc(1024 * sizeof(char *));
-    fscanf(openFile, "%s", biggest);
-    int biggestSize = strlen(biggest);
+void largestAndSmallest(char *file, int choice) {
+  if(strlen(file) < 5) {
+    printf("The function requires a file. Please type again.");
+  }
 
-    char *word = (char *)malloc(1024 * sizeof(char *));
+  if (isalpha(choice)) {
+    printf("A number is required for the choice variable. Please try again.");
+    exit(1);
+  }
 
-    while(fscanf(openFile, "%s", word) != EOF) {
-       fscanf(openFile, "%s", word);
-       int comparator = strlen(word);
-       // this function holds the first instance of the largest word of a given
-       // size and doesn't change unless there is a larger word.
-       if(biggestSize < comparator) { 
-          biggest = word;
-          biggestSize = strlen(biggest);
-       }
+  if (isdigit(choice)) {
+    if (choice == 0 || choice > 2) {
+      printf("The only options that allowed for choice are a 1 or 2. Please check the code base.");
     }
+  }
 
-    int i; 
-    for(i = 0; i < biggestSize; i++){
-        int checker = ispunct(biggest[i]);
-	if(!checker) {
-	    printf("%c", biggest[i]);
-	}
+  FILE *openFile = fopen(file, "r");
+  char *biggest = (char *)malloc(1024 * sizeof(char *));
+  char *smallest = (char *)malloc(1024 * sizeof(char *));
+  fscanf(openFile, "%s", biggest);
+  smallest = biggest;
+  int biggestSize = strlen(biggest);
+  int smallestSize = biggestSize;
 
-	biggest[i] = 0;
-	word[i] = 0;
-    } 
+  char *word = (char *)malloc(1024 * sizeof(char *));
 
-    printf("\n");
-    fclose(openFile);
-    free(biggest);
-    //free(word);
-}
+  while(fscanf(openFile, "%s", word) != EOF) {
+     int comparator = strlen(word);
+     
+     // this function holds the first instance of the largest word of a given
+     // size and doesn't change unless there is a larger word.
+     if(biggestSize < comparator) { 
+        biggest = word;
+        biggestSize = comparator;
+     }
 
-void smallestWord(char *file) {
-    FILE *openFile = fopen(file, "r");
-    char *smallest =  (char *)malloc(1024 * sizeof(char *));
-    fscanf(openFile, "%s", smallest);
-    int smallestSize = strlen(smallest);
+     if(smallestSize > comparator) {
+      smallest = word;
+      // printf("%s\n", word);
+      smallestSize = comparator;
+     }
+  }
 
-    char *word = (char *)malloc(1024 * sizeof(char *));
+  fclose(openFile);
 
-    while(fscanf(openFile, "%s", word) != EOF) {
-       fscanf(openFile, "%s", word);
-       int comparator = strlen(word);
-       if(smallestSize > comparator) {
-	  smallest = word;
-          smallestSize = strlen(smallest);
-       }
-    }
+  if (choice == 1) {
+    printf("%s\n", biggest);
+  } else {
+    printf("%s\n", smallest);
+  }
 
-    int i; 
-    for(i = 0; i < smallestSize; i++){
-        int checker = ispunct(smallest[i]);
-	if(!checker) {
-	    printf("%c", smallest[i]);
-	}
-
-	smallest[i] = 0;
-	word[i] = 0;
-    } 
-
-    printf("\n");
-    fclose(openFile);
-    free(smallest);
-    //free(word);
+  // free(word);
+  // free(biggest);
+  // free(smallest);
 }
 
 void wordReport(char *file){
     printf("Longest word: ");
-    largestWord(file);
+    largestAndSmallest(file, 1);
     printf("Shortest word: ");
-    smallestWord(file);
+    largestAndSmallest(file, 2);
 
 }
